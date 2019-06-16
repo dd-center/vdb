@@ -1,17 +1,26 @@
 [{
-	"uuid": "00000000-0000-0000-0000-000000000000",
-	"type": "vtuber"
-  "name": "xxxx",
-  "group": "cover",
-	"2d": true,
-	"3d": true,
-	"2dArtist": "00000000-0000-0000-0000-000000000000",
-	"3dArtist": "00000000-0000-0000-0000-000000000000",
-	"accounts": [
-		{
-			"type": "youtube",
-			"identifier": "xxx",
-			"linkSyntax": "https://www.youtube.com/channel/{identifier}",
-		},
-	]
+  "uuid": "00000000-0000-0000-0000-000000000000",
+  "type": "vtuber",
+  "name": {
+    "original": "xxxx",
+    "cn": "xxxx",
+    "en": "xxxx",
+    "extra": ["xxxxx"]
+  },
+  "group": "00000000-0000-0000-0000-000000000000",
+  "2d": true,
+  "3d": true,
+  "2dArtist": "00000000-0000-0000-0000-000000000000",
+  "3dArtist": "00000000-0000-0000-0000-000000000000",
+  "accounts": [{
+    "platform": "youtube",
+    "type": "official",
+    "identifier": "xxx",
+    "linkSyntax": "https://www.youtube.com/channel/{identifier}"
+  }, {
+    "platform": "bilibili",
+    "type": "official",
+    "identifier": "123456",
+    "linkSyntax": "https://space.bilibili.com/{identifier}"
+  }]
 }]
