@@ -10,6 +10,7 @@ module.exports = {
   plugins: [],
   rules: {
     'space-before-function-paren': 'off',
-    'generator-star-spacing': 'off'
+    'generator-star-spacing': 'off',
+    'comma-dangle': ['error', 'always-multiline'],
   }
 }
