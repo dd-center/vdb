@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '田中のおっさん',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCw5MXcDMVg6oT69yfulq33Q',
+    twitter: 'tanakayoshio815',
+    userlocal: 'C9B8A0E88DD2A65B_b5769e',
+  },
+}

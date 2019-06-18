@@ -1,0 +1,12 @@
+module.exports = {
+  name: {
+    jp: 'どっとライブ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCAZ_LA7f0sjuZ1Ni8L2uITw',
+    bilibili: '11725160',
+    twitter: 'dotLIVEyoutuber',
+    userlocal: 'BDA9F5F29815A928_b14f2e',
+  },
+}

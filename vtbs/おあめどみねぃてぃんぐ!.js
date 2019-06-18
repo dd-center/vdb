@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'おあめどみねぃてぃんぐ!',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UC9tq5PPjwKo9CvaJB7jFvig',
+    twitter: 'oame_perettakun',
+    userlocal: 'E93250FB206D7B89_68f4fe',
+  },
+}

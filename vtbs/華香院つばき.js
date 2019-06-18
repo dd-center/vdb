@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '華香院つばき',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCI-xaXiiRD_2l8qxQRIpeEw',
+    twitter: 'kakyoin_tsubaki',
+    userlocal: '2FEB9A06E7ED3D25_d0d329',
+  },
+}

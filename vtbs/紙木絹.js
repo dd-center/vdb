@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '紙木絹',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCxOErQIr3Zv6W_YxFbht4gw',
+    twitter: 'kamikinu',
+    userlocal: '588A6B8668CB96FA_e68011',
+  },
+}

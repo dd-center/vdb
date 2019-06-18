@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '渋谷ハジメ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCeK9HFcRZoTrvqcUCtccMoQ',
+    twitter: 'sibuya_hajime',
+    userlocal: '2595D55AF477E061_a60166',
+  },
+}

@@ -1,0 +1,10 @@
+module.exports = {
+  name: {
+    jp: 'みなみのみこと',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCo8wxkKqef8AFSn4VMe7wcA',
+    twitter: 'ERROR:v_minamino',
+  },
+}

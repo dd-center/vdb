@@ -1,0 +1,10 @@
+module.exports = {
+  name: {
+    jp: '櫻歌ミコ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCpIDXdO3ztu1hXza9R7OR5A',
+    twitter: 'miko_ouka',
+  },
+}

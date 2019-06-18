@@ -1,0 +1,12 @@
+module.exports = {
+  name: {
+    jp: 'ピンキーポップヘップバーン',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UC1pR2ig6NhndhvicEgclNdA',
+    bilibili: '393940396',
+    twitter: 'pinkypophepburn',
+    userlocal: 'A0A6B3C32800F0AB_5d2fa6',
+  },
+}

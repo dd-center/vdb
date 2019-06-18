@@ -1,0 +1,13 @@
+module.exports = {
+  name: {
+    jp: '大神ミオ',
+    cn: '大神澪',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCp-5t9SrOQwXMU7iIjQfARg',
+    bilibili: '389862071',
+    twitter: 'ookamimio',
+    userlocal: 'B4A1E72A0D2BA9FE_e737b5',
+  },
+}

@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'あさひなゆうひ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCVDgnRZykj94Hqa8FuIt7Wg',
+    twitter: 'asahina_yuuhiVY',
+    userlocal: 'DAE54F2622BFDD4D_907d42',
+  },
+}

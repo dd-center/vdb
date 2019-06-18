@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'ふぇありす',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UC2Rr7mILebYLTjd38DNNUTw',
+    twitter: 'fairyschan',
+    userlocal: 'B23B0E66706A7483_a49b2a',
+  },
+}

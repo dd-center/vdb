@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '二和餅あんこ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCBKxF1PHQtT78ypcVYmBtBA',
+    twitter: 'ANKOchan_01',
+    userlocal: 'B9DF898AE5538D6A_8c56ca',
+  },
+}

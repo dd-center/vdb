@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '紫音VGチャンネル',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCri7Aft0jr2Jd0wIdTft84A',
+    twitter: 'LeeShionVG',
+    userlocal: 'B2C327E835CF0926_c67c07',
+  },
+}

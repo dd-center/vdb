@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '安土桃',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UC6TfqY40Xt1Y0J-N18c85qQ',
+    twitter: 'momo_aduchi',
+    userlocal: '5B35B894BD743E7E_c44e40',
+  },
+}
