@@ -1,25 +1,33 @@
-[{
-  "uuid": "00000000-0000-0000-0000-000000000000",
-  "type": "vtuber",
-  "name": {
-    "default": "jp",
-    "jp": "xxxx",
-    "cn": "xxxx",
-    "en": "xxxx",
-    "extra": ["xxxxx"]
+{
+  "meta": {
+    "UUID_NAMESPACE": "00000000-0000-0000-0000-000000000000",
+    "linkSyntax": {
+      "youtube": "https://www.youtube.com/channel/{identifier}"
+    }
   },
-  "group": "00000000-0000-0000-0000-000000000000",
-  "2d": true,
-  "3d": true,
-  "2dArtist": "00000000-0000-0000-0000-000000000000",
-  "3dArtist": "00000000-0000-0000-0000-000000000000",
-  "accounts": [{
-    "platform": "youtube",
-    "type": "official",
-    "identifier": "xxx",
-  }, {
-    "platform": "bilibili",
-    "type": "official",
-    "identifier": "123456",
+  "vtbs": [{
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "type": "vtuber",
+    "name": {
+      "default": "jp",
+      "jp": "xxxx",
+      "cn": "xxxx",
+      "en": "xxxx",
+      "extra": ["xxxxx"]
+    },
+    "group": "00000000-0000-0000-0000-000000000000",
+    "2d": true,
+    "3d": true,
+    "2dArtist": "00000000-0000-0000-0000-000000000000",
+    "3dArtist": "00000000-0000-0000-0000-000000000000",
+    "accounts": [{
+      "platform": "youtube",
+      "type": "official",
+      "identifier": "xxx",
+    }, {
+      "platform": "bilibili",
+      "type": "official",
+      "identifier": "123456",
+    }]
   }]
-}]
+}
