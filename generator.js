@@ -5,7 +5,7 @@ require('.')
     await writeFile('json/list.json', JSON.stringify(e))
     let knowMid = {}
     let bilibili = []
-    e.vtbs.forEach(({ accounts, name }) => {
+    e.vtbs.forEach(({ accounts, name, uuid }) => {
       accounts
         .filter(({ platform }) => platform === 'bilibili')
         .forEach(({ id }) => {
@@ -13,6 +13,7 @@ require('.')
             knowMid[id] = true
             bilibili.push({
               mid: Number(id),
+              uuid,
               note: Object.entries(name)
                 .filter(([lang, name]) => lang !== 'extra')
                 .filter(([lang, name]) => lang !== 'default')
