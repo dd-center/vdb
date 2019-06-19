@@ -52,11 +52,11 @@ module.exports = readdir('vtbs')
 
           parsed.accounts
             .concat(...object.accounts
-              .map(([platform, identifier]) => Array.isArray(identifier) ? [platform, identifier] : [platform, [identifier]])
-              .map(([platform, identifiers]) => identifiers.map(identifier => ({ platform, identifier })))
+              .map(([platform, id]) => Array.isArray(id) ? [platform, id] : [platform, [id]])
+              .map(([platform, ids]) => ids.map(id => ({ platform, id })))
             )
-            .map(({ platform, identifier }) => typeof identifier === 'string' ? { platform, identifier: { identifier } } : { platform, identifier })
-            .map(({ platform, identifier }) => ({ platform, object: { ...identifier, type: identifier.type || 'official' } }))
+            .map(({ platform, id }) => typeof id === 'string' ? { platform, id: { id } } : { platform, id })
+            .map(({ platform, id }) => ({ platform, object: { ...id, type: id.type || 'official' } }))
             .forEach(({ platform, object }) => parsed.accounts.push({ ...object, platform }))
 
           return parsed

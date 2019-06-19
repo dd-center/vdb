@@ -2,7 +2,7 @@
   "meta": {
     "UUID_NAMESPACE": "00000000-0000-0000-0000-000000000000",
     "linkSyntax": {
-      "youtube": "https://www.youtube.com/channel/{identifier}"
+      "youtube": "https://www.youtube.com/channel/{id}"
     }
   },
   "vtbs": [{
@@ -23,11 +23,11 @@
     "accounts": [{
       "platform": "youtube",
       "type": "official",
-      "identifier": "xxx",
+      "id": "xxx",
     }, {
       "platform": "bilibili",
       "type": "official",
-      "identifier": "123456",
+      "id": "123456",
     }]
   }]
 }
