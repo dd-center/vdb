@@ -63,8 +63,17 @@ let knowMid = require('./backup/youtube.json')
   .split(',')
   .map(mid => Number(mid))
 
-vtbs
-  .map(({ mid }) => mid)
-  .filter(mid => !knowMid.includes(mid))
-  .map(mid => `https://space.bilibili.com/${mid}`)
-  .forEach(e => open(e))
+knowMid = []
+
+require('.')
+  .then(({ vtbs }) => vtbs.forEach(({ accounts }) => accounts.forEach(({ id, platform }) => {
+    if (platform === 'bilibili') knowMid.push(Number(id))
+  })))
+  .then(() => {
+    let result = vtbs
+      .map(({ mid }) => mid)
+      .filter(mid => !knowMid.includes(mid))
+      .map(mid => `https://space.bilibili.com/${mid}`)
+    console.log(result)
+    // result.forEach(e => open(e))
+  })
