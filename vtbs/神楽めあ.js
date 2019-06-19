@@ -2,6 +2,8 @@ module.exports = {
   name: {
     jp: '神楽めあ',
     cn: '神乐魅娅',
+    en: 'Kagura Mea',
+    extra: '神乐Mea',
   },
   '2d': true,
   accounts: {
