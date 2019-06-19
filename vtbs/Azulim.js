@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'Azulim',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCARI2g7r-PHaxrIcAYsMfmA',
+    twitter: 'azuma_lim',
+    bilibili: { id: '508191', type: 'relay' },
+  },
+}

@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'なるはやちゃん',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCyhccrfXKUoGGT8cuAJEGXw',
+    twitter: 'narumihayase',
+    bilibili: '423747660',
+  },
+}

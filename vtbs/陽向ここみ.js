@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '陽向ここみ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCU0zun8U7X-d45G0xt4KsiQ',
+    twitter: 'cocomi_hinata',
+    bilibili: '492862',
+  },
+}

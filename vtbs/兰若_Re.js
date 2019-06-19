@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    cn: '兰若_Re',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '373493702',
+  },
+}

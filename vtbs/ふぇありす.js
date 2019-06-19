@@ -7,5 +7,6 @@ module.exports = {
     youtube: 'UC2Rr7mILebYLTjd38DNNUTw',
     twitter: 'fairyschan',
     userlocal: 'B23B0E66706A7483_a49b2a',
+    bilibili: '432762700',
   },
 }

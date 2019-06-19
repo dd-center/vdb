@@ -7,5 +7,6 @@ module.exports = {
     youtube: 'UCD-miitqNY3nyukJ4Fnf4_A',
     twitter: 'MitoTsukino',
     userlocal: 'C898E8B881277C0F_04c1b7',
+    bilibili: { id: '109891', type: 'relay' },
   },
 }

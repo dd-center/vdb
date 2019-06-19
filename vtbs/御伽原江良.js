@@ -7,5 +7,6 @@ module.exports = {
     youtube: 'UCwQ9Uv-m8xkE5PzRc7Bqx3Q',
     twitter: 'OtogibaraEra',
     userlocal: '6B40BC6DE45B6981_9eba59',
+    bilibili: { id: '406532904', type: 'relay' },
   },
 }

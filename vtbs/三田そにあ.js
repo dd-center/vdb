@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '三田そにあ',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCwAShjnxXiEIK0XVx_mAG9g',
+    twitter: 'cure_harp',
+    bilibili: { id: '33398732', type: 'relay' },
+  },
+}

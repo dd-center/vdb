@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: '竹取かるた',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UC2pZbfaSvWGNQmabt-L4Cig',
+    twitter: 'taketori_karuta',
+    bilibili: { id: '399554022', type: 'relay' },
+  },
+}

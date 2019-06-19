@@ -7,5 +7,6 @@ module.exports = {
     youtube: 'UCIdEIHpS0TdkqRkHL5OkLtA',
     twitter: 'sana_natori',
     userlocal: 'BDCB42D08D7273B3_75fb39',
+    bilibili: { id: '395933021', type: 'relay' },
   },
 }
