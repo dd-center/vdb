@@ -4,6 +4,6 @@ module.exports = {
   },
   '2d': true,
   accounts: {
-    bilibili: '20530305',
+    bilibili: ['54191665', '20530305'],
   },
 }
