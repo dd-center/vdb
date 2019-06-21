@@ -8,6 +8,6 @@ module.exports = {
   accounts: {
     twitter: 'hibiki_ao',
     youtube: 'UCNwo7eikmX5HPs7NedWVBgw',
-    bilibili: { id: '90100786', type: 'relay' },
+    bilibili: '434973578',
   },
 }
