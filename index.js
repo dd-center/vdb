@@ -7,7 +7,8 @@ module.exports = readdir('vtbs')
   .then(dir => {
     return {
       meta: { UUID_NAMESPACE, linkSyntax },
-      vtbs: dir.map(file => file.slice(0, file.length - 3))
+      vtbs: dir.map(file => file.replace('.json', ''))
+        .map(file => file.replace('.js', ''))
         .map(name => ({ uuid: uuidv5(name, UUID_NAMESPACE), object: require(`./vtbs/${name}`) }))
         .map(({ uuid, object }) => ({ uuid, object: { ...object, name: Object.entries(object.name || {}) } }))
         .map(({ uuid, object }) => ({ uuid, object: { ...object, accounts: Object.entries(object.accounts || {}) } }))
