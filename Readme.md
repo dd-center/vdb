@@ -19,7 +19,7 @@ json file can be download from: `https://vdb.vtbs.moe/json/list.json`, [https://
 * `vtbs`: (`Array[Object]`) Contains all Vtuber
 
   * `uuid`: (`String`) The uuid generated from the namecpace and file in `/vtbs` name
-  * `type`: (`String`) Type, can be `vtuber` or `unknow`
+  * `type`: (`String`) Type, can be `vtuber`, `group` or `unknow`
   * `accounts`: (`Array[Object]`)
     * `id`: (`String`) The account identifier of that platform
     * `type`: (`String`) `official` or `relay`
