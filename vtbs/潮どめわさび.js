@@ -1,11 +1,11 @@
 module.exports = {
   name: {
-    jp: '潮どめわさび',
     cn: '潮留芥末',
+    jp: '潮どめわさび',
   },
   '2d': true,
   accounts: {
-    bilibili: '34785075',
+    bilibili: ['34785075', '2203260'],
     twitter: 'jiemozi_ai',
   },
 }
