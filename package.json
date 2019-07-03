@@ -1,8 +1,14 @@
 {
   "scripts": {
-    "test": "node test/repeat"
+    "test": "node test/repeat",
+    "update": "npm test && npm run generate && sh update.sh",
+    "generate": "node generator",
+    "refresh": "node refresh"
   },
   "dependencies": {
     "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "got": "^9.6.0"
   }
 }
