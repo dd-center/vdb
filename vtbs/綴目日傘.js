@@ -6,7 +6,7 @@ module.exports = {
   '2d': true,
   accounts: {
     youtube: 'UCwBMSUVMvck6EaBD0f1tHsQ',
-    bilibili: '407067880',
+    bilibili: '435569969',
     twitter: 'tsuzurime',
     userlocal: 'D392F2EF4FE51832_8b8127',
   },
