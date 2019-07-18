@@ -3932,6 +3932,29 @@
       "2d": true
     },
     {
+      "uuid": "d7deb81a-fb58-5759-953a-f55aee9e4966",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "UC1DCedRgGHBdm81E1llLhOQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "usadapekora",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "兎田ぺこら",
+        "en": "Usada Pekora",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "0f53ae12-fb26-5b63-b3d4-7690f7008b0f",
       "type": "vtuber",
       "accounts": [
@@ -7502,6 +7525,34 @@
       "name": {
         "extra": [],
         "jp": "滝川みう",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "e5a03857-e8c2-534f-8777-a253a6fe7bed",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "uruharushia",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "443300418",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "潤羽るしあ",
+        "cn": "润羽露西娅",
         "default": "jp"
       },
       "2d": true
