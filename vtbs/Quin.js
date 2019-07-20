@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    en: 'Mr.Quin',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '15810',
+  },
+}
