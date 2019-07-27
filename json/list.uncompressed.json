@@ -2816,7 +2816,7 @@
           "platform": "youtube"
         },
         {
-          "id": "323259613",
+          "id": "441666967",
           "type": "official",
           "platform": "bilibili"
         },
@@ -6295,6 +6295,23 @@
         "extra": [],
         "jp": "星屑れん",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "6c969345-a881-5cbd-b917-323c6ad0c7d3",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "213647",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星星奈",
+        "default": "cn"
       },
       "2d": true
     },
@@ -11784,8 +11801,8 @@
           "platform": "userlocal"
         },
         {
-          "id": "412832149",
-          "type": "relay",
+          "id": "436596840",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
