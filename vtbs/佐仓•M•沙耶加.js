@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    cn: '佐仓•M•沙耶加',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '72960',
+  },
+}
