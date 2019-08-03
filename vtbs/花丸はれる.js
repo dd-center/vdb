@@ -1,0 +1,13 @@
+module.exports = {
+  name: {
+    jp: '花丸はれる',
+    cn: '花丸晴琉',
+  },
+  '2d': true,
+  accounts: {
+    youtube: 'UCyIcOCH-VWaRKH9IkR8hz7Q',
+    twitter: 'hanamaruhareru',
+    bilibili: '441381282',
+  },
+  group: '花寄女子寮',
+}
