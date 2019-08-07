@@ -7310,6 +7310,30 @@
       "2d": true
     },
     {
+      "uuid": "15e7d51c-6246-5dd0-8398-8b791c812684",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "196558078",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "sakura_sayaa",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱小夜",
+        "jp": "桜小夜",
+        "en": "Sakura Saya",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "044b5106-7da0-5fd8-9fc4-7d1d486e0ef6",
       "type": "vtuber",
       "accounts": [
@@ -9406,6 +9430,29 @@
       "name": {
         "extra": [],
         "cn": "精灵Elu",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "8d5e2d4d-329d-56d2-a09f-0e34736e096b",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "899804",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kurenaiXakane",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紅暁音",
+        "en": "Kurenai Akane",
         "default": "cn"
       },
       "2d": true
