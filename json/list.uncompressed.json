@@ -3546,6 +3546,35 @@
       "2d": true
     },
     {
+      "uuid": "edff61a3-ac45-5e12-b65a-02b8a96e30e8",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "UCvInZx9h3jC2JzsIzoOebWg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "shiranuiflare",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "454737600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "不知火フレア",
+        "en": "Shiranui Flare",
+        "cn": "不知火芙蕾雅",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "0175a8a9-3018-5b3a-b8df-d6bab17f12ca",
       "type": "vtuber",
       "accounts": [
@@ -4039,12 +4068,18 @@
           "id": "usadapekora",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "443305053",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "兎田ぺこら",
         "en": "Usada Pekora",
+        "cn": "兔田佩克拉",
         "default": "jp"
       },
       "2d": true
@@ -5547,6 +5582,34 @@
         "extra": [],
         "jp": "宗谷いちか",
         "cn": "宗谷ichika",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "44db8c95-1102-5296-9e38-5512ee75ffd0",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "houshoumarine",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "454955503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "宝鐘マリン",
+        "cn": "宝钟玛琳",
         "default": "jp"
       },
       "2d": true
@@ -8713,6 +8776,35 @@
       "name": {
         "extra": [],
         "jp": "白虎えま",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "e23593fe-cc56-5ab7-8d60-b7916a232647",
+      "type": "vtuber",
+      "accounts": [
+        {
+          "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "shiroganenoel",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "454733056",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白銀ノエル",
+        "cn": "白银诺艾尔",
+        "en": "Shirogane Noel",
         "default": "jp"
       },
       "2d": true
