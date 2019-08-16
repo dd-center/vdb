@@ -15,6 +15,7 @@ module.exports = readdir('vtbs')
         .map(({ uuid, object }) => {
           let parsed = { uuid }
           parsed.type = object.type || 'vtuber'
+          parsed.bot = !!object.bot
           parsed.accounts = []
 
           parsed.name = { extra: [] }

@@ -3,6 +3,7 @@ module.exports = {
     cn: '嫣汐',
   },
   '2d': true,
+  bot: true,
   accounts: {
     bilibili: '411812743',
   },

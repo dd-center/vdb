@@ -3,6 +3,7 @@ module.exports = {
     cn: '罚站AI',
   },
   '2d': true,
+  bot: true,
   accounts: {
     bilibili: '430774867',
   },
