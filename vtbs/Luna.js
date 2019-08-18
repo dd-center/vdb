@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    en: 'Luna',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '2186106',
+  },
+}

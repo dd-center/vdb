@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    cn: '爱塔西亚温',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '9491259',
+  },
+}
