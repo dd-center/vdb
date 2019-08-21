@@ -1,10 +1,10 @@
 module.exports = {
   name: {
-    cn: '丹羽加奈',
+    cn: '廉田',
   },
   '2d': true,
   group: 'kenlos',
   accounts: {
-    bilibili: '1421667',
+    bilibili: '29382318',
   },
 }

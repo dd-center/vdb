@@ -3,6 +3,7 @@ module.exports = {
     cn: '喵奈子',
   },
   '2d': true,
+  group: 'kenlos',
   accounts: {
     bilibili: '1836495',
   },
