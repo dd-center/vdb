@@ -1059,6 +1059,24 @@
       "2d": true
     },
     {
+      "uuid": "0780441c-1e44-5656-8574-0444d71e1fe5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1764912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ok酱",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "8415fcad-8e58-5837-bc5c-2448461d68a9",
       "type": "vtuber",
       "bot": false,
@@ -1072,6 +1090,34 @@
       "name": {
         "extra": [],
         "cn": "shugen",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "212b7f70-d044-58fd-b0c3-70baba24314a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5398196",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "tanoki233",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "tanoki233",
+          "type": "official",
+          "platform": "afdian"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "tanoki苒佚",
         "default": "cn"
       },
       "2d": true
@@ -8879,6 +8925,24 @@
         "jp": "犬山たまき",
         "cn": "犬山哥",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "af0ada6e-ffb4-5669-bca6-9aca3585359f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33010721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐妖小时莩",
+        "default": "cn"
       },
       "2d": true
     },
