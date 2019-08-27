@@ -12,5 +12,6 @@ module.exports = {
     'space-before-function-paren': 'off',
     'generator-star-spacing': 'off',
     'comma-dangle': ['error', 'always-multiline'],
+    'no-undef-init': 'off',
   }
 }
