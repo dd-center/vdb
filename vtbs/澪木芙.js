@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    cn: '澪木芙',
+    jp: '澪木フォウ',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '3358737',
+    twitter: 'miogifuou',
+  },
+}
