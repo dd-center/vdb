@@ -7382,6 +7382,24 @@
       "2d": true
     },
     {
+      "uuid": "9a2798e8-5ed4-56f6-aa13-5895ded6faf0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8576944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野由乃",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "58102aad-a94e-5793-ab55-394b1abee84e",
       "type": "vtuber",
       "bot": false,
@@ -7822,6 +7840,25 @@
         "jp": "東雲めぐ",
         "cn": "东云惠",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "85ca57d7-f4a3-52c5-aba5-6b342e289231",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2844993",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "某柯",
+        "en": "moke",
+        "default": "cn"
       },
       "2d": true
     },
