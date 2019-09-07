@@ -1,5 +1,6 @@
 module.exports = {
   name: {
+    en: 'hololive',
     jp: 'ホロライブ公式',
   },
   '2d': true,
