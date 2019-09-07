@@ -1012,6 +1012,40 @@
       "2d": true
     },
     {
+      "uuid": "cae7b71f-dd73-5f93-9bdb-418ffbc88d8b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCJFZiqLMntJufDCHc6bQixg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "286700005",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hololivetv",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "DA8BBC317C78EF27_e1ae4e",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "hololive",
+        "jp": "ホロライブ公式",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "c3de0c58-3df0-5a4f-8224-7297a64c95ce",
       "type": "group",
       "bot": false,
@@ -3158,39 +3192,6 @@
       "2d": true
     },
     {
-      "uuid": "11a9361b-5ec4-50e4-9853-5ac3534b278d",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCJFZiqLMntJufDCHc6bQixg",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "286700005",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "hololivetv",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "DA8BBC317C78EF27_e1ae4e",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "ホロライブ公式",
-        "default": "jp"
-      },
-      "2d": true
-    },
-    {
       "uuid": "96d4480f-be01-5c37-8eca-dbb9779d037d",
       "type": "vtuber",
       "bot": false,
@@ -4578,29 +4579,6 @@
       "2d": true
     },
     {
-      "uuid": "b3c84e39-bd43-5841-b9ca-29d8a43889df",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "244407176",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "凉宫白樱_虚拟动漫社计划",
-          "type": "official",
-          "platform": "weibo"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "凉宫白樱",
-        "default": "cn"
-      },
-      "2d": true
-    },
-    {
       "uuid": "ff2beacf-8337-5957-9b46-2eb5678ef5d2",
       "type": "vtuber",
       "bot": false,
@@ -5176,6 +5154,36 @@
       "2d": true
     },
     {
+      "uuid": "5fe27d0c-45b3-5671-86ae-a8102a50a7e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "481169",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "244407176",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "凉宫白樱_虚拟动漫社计划",
+          "type": "official",
+          "platform": "weibo"
+        }
+      ],
+      "name": {
+        "extra": [
+          "凉宫白樱"
+        ],
+        "cn": "可儿",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "e45ac362-01e2-5037-8450-0fba08a26eda",
       "type": "vtuber",
       "bot": false,
@@ -5223,6 +5231,25 @@
         "extra": [],
         "jp": "名取さな",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "3e09bdae-eb88-5a20-8dd5-28460a6a3348",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "107600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呜哔",
+        "en": "ruby",
+        "default": "cn"
       },
       "2d": true
     },
@@ -5586,6 +5613,25 @@
         "cn": "夜空梅露",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "02c79a3f-ef32-59d9-8640-cc12a0a1c7a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427061218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜霧",
+        "default": "cn"
+      },
+      "group": "cae7b71f-dd73-5f93-9bdb-418ffbc88d8b",
       "2d": true
     },
     {
@@ -6975,6 +7021,24 @@
       "2d": true
     },
     {
+      "uuid": "d0c8f09d-5527-58a6-bec5-4903d80c2da5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "343811508",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托尔",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "d93967b9-a7a3-52fd-b374-eef70db15142",
       "type": "vtuber",
       "bot": false,
@@ -7550,6 +7614,24 @@
       "2d": true
     },
     {
+      "uuid": "031df7db-03b6-58ef-b9f9-5e4e2ccd7516",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "456631019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月霖",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "d9b72d7c-5cad-5f8a-85fc-500a5617c539",
       "type": "vtuber",
       "bot": false,
@@ -7840,6 +7922,24 @@
         "jp": "東雲めぐ",
         "cn": "东云惠",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "d5fe695e-968d-541c-8ed9-24412f5e5755",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1872628",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枫言",
+        "default": "cn"
       },
       "2d": true
     },
@@ -8321,6 +8421,24 @@
         "extra": [],
         "jp": "殺戮の天使",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "5e28f466-917d-59f0-8997-6674cab84dff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384981494",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "比西子",
+        "default": "cn"
       },
       "2d": true
     },
