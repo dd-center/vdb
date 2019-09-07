@@ -122,6 +122,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/992939504"><img src="https://avatars0.githubusercontent.com/u/14029071?v=4" width="72px;" alt="992939504"/><br /><sub><b>992939504</b></sub></a><br /><a href="#content-992939504" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/289788042"><img src="https://avatars1.githubusercontent.com/u/54934416?v=4" width="72px;" alt="289788042"/><br /><sub><b>289788042</b></sub></a><br /><a href="#content-289788042" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AFatOtaku"><img src="https://avatars0.githubusercontent.com/u/37997501?v=4" width="72px;" alt="AFatOtaku"/><br /><sub><b>AFatOtaku</b></sub></a><br /><a href="#content-AFatOtaku" title="Content">🖋</a></td>
   </tr>
 </table>
 
