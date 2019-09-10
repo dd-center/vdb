@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://travis-ci.com/bilibili-dd-center/vdb.svg?branch=master)](https://travis-ci.com/bilibili-dd-center/vdb)
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
 
@@ -87,7 +87,8 @@ Edit `/config/index.js`.
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/simon300000"><img src="https://avatars1.githubusercontent.com/u/12656264?v=4" width="72px;" alt="simon3000"/><br /><sub><b>simon3000</b></sub></a><br /><a href="https://github.com/bilibili-dd-center/vdb/commits?author=simon300000" title="Code">💻</a> <a href="#content-simon300000" title="Content">🖋</a></td>
@@ -123,9 +124,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/992939504"><img src="https://avatars0.githubusercontent.com/u/14029071?v=4" width="72px;" alt="992939504"/><br /><sub><b>992939504</b></sub></a><br /><a href="#content-992939504" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/289788042"><img src="https://avatars1.githubusercontent.com/u/54934416?v=4" width="72px;" alt="289788042"/><br /><sub><b>289788042</b></sub></a><br /><a href="#content-289788042" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/AFatOtaku"><img src="https://avatars0.githubusercontent.com/u/37997501?v=4" width="72px;" alt="AFatOtaku"/><br /><sub><b>AFatOtaku</b></sub></a><br /><a href="#content-AFatOtaku" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/wudifeixue"><img src="https://avatars2.githubusercontent.com/u/7316929?v=4" width="72px;" alt="Curtis Xiao"/><br /><sub><b>Curtis Xiao</b></sub></a><br /><a href="https://github.com/bilibili-dd-center/vdb/commits?author=wudifeixue" title="Code">💻</a> <a href="#content-wudifeixue" title="Content">🖋</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
