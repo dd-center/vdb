@@ -1,0 +1,13 @@
+module.exports = {
+  name: {
+    jp: '電波ちゃん',
+    cn: '电波酱',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '454109173',
+    peing: 'denpachan',
+    twitter: 'denpachannel',
+    youtube: 'UCh3bQf20rJnEtiU25vIK2Hg',
+  },
+}

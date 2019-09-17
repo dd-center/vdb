@@ -1,0 +1,12 @@
+module.exports = {
+  name: {
+    jp: '真島えま',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '454101028',
+    peing: 'kinapuro_ema',
+    twitter: 'mJmEmA_V',
+    youtube: 'UC98THnt3yBKNPMTVX7b2b5g',
+  },
+}
