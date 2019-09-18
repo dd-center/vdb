@@ -8637,6 +8637,24 @@
       "2d": true
     },
     {
+      "uuid": "b60c59fe-6a65-58f6-9dbf-614ff9cbd1d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6930077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐水琉月",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "e6728214-9df2-5f56-822d-95783e3a6b58",
       "type": "vtuber",
       "bot": false,
@@ -10025,6 +10043,25 @@
         "extra": [],
         "jp": "白虎えま",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "f01f8ee1-47a1-5132-b9a4-0dbaefb9b615",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10545371",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白金",
+        "en": "Platinummm",
+        "default": "cn"
       },
       "2d": true
     },
@@ -12462,6 +12499,44 @@
       "name": {
         "extra": [],
         "cn": "轴伊Joi",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "f904d565-5126-5d2a-8ae5-6786da193937",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3449894",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "neovialotus",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "neovia",
+          "type": "official",
+          "platform": "afdian"
+        },
+        {
+          "id": "826101",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCELb-uMjz0Bbtlg5qHooGDA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "轻又",
         "default": "cn"
       },
       "2d": true
