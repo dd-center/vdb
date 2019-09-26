@@ -1,4 +1,4 @@
-# VTuber Database [![Build Status](https://travis-ci.com/bilibili-dd-center/vdb.svg?branch=master)](https://travis-ci.com/bilibili-dd-center/vdb)
+# VTuber Database [![Build Status](https://travis-ci.com/dd-center/vdb.svg?branch=master)](https://travis-ci.com/dd-center/vdb)
 [![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
