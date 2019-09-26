@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    jp: 'ゆにゆにこ',
+  },
+  '2d': true,
+  accounts: {
+    twitter: '_uniunico_',
+    bilibili: '387792431',
+    youtube: 'UCmTcayoDVo7HXAAV_mquHEg',
+  },
+}
