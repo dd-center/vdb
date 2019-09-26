@@ -6,5 +6,6 @@ module.exports = {
   accounts: {
     youtube: 'UC_zztIHGbBz9L-ZM-Ta2O1Q',
     twitter: 'yua_ch',
+    bilibili: { type: 'relay', id: '358617079' },
   },
 }
