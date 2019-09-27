@@ -259,6 +259,17 @@
       "2d": true
     },
     {
+      "uuid": "70a6e7b1-b146-5470-a186-39085c45c7ad",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "DuckDriver",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "49df9683-3768-5b7f-8998-6b81042ed7f6",
       "type": "vtuber",
       "bot": false,
@@ -534,6 +545,35 @@
       "2d": true
     },
     {
+      "uuid": "d63b7efc-26e9-5aa7-b905-d31450074f52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCrRokkRvV6RSu-mZIHUUHvg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "type": "relay",
+          "id": "473935898",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MicheleRCotton",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ミシェもついに",
+        "en": "Michele Rolo Cotton",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "35e48da1-ce7f-544b-a4a6-45bf312b0190",
       "type": "vtuber",
       "bot": false,
@@ -794,6 +834,29 @@
       "2d": true
     },
     {
+      "uuid": "16581e1e-d995-50ac-9a10-bfb1a793a52b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2304086",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ChannelRoot",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "树根",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "479cc54b-7946-5f21-b8e3-de2d296fe8a4",
       "type": "vtuber",
       "bot": false,
@@ -902,7 +965,7 @@
       "2d": true
     },
     {
-      "uuid": "6d58259c-4c3b-5191-85ad-8bbe62c8a80c",
+      "uuid": "e8843c48-a666-5ebb-acc8-42da7f3a7d23",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -1116,24 +1179,6 @@
       "2d": true
     },
     {
-      "uuid": "8415fcad-8e58-5837-bc5c-2448461d68a9",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2304086",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "shugen",
-        "default": "cn"
-      },
-      "2d": true
-    },
-    {
       "uuid": "212b7f70-d044-58fd-b0c3-70baba24314a",
       "type": "vtuber",
       "bot": false,
@@ -1176,6 +1221,49 @@
         "extra": [],
         "cn": "yakko暗影",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "79ed035d-c255-592a-ba68-7e7dd47d617b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCsNcV1BacT_HirptnIawqkQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "type": "relay",
+          "id": "472019066",
+          "platform": "bilibili"
+        },
+        {
+          "id": "C0C0R0_IL0VEY0U",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "C0C0R0_I",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "C0C0R0_L0VE",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "C0C0R0_Y0U",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "あいらぶゆう",
+        "default": "jp"
       },
       "2d": true
     },
@@ -2507,9 +2595,14 @@
           "platform": "youtube"
         },
         {
-          "id": "INSIDEjp",
+          "id": "V_insidechanMK2",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "type": "relay",
+          "id": "406476630",
+          "platform": "bilibili"
         },
         {
           "id": "70565BC4FF5D283D_a93487",
@@ -7812,6 +7905,35 @@
       "2d": true
     },
     {
+      "uuid": "7e2ff7a0-c395-507b-bcab-98ae5041a681",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCb2ZAPC7OS9i5GhA_EXvPDA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "annin_oishiiyo",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "434048532",
+          "type": "relay",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "月見あんにん",
+        "cn": "月見杏仁",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "031df7db-03b6-58ef-b9f9-5e4e2ccd7516",
       "type": "vtuber",
       "bot": false,
@@ -11512,6 +11634,24 @@
       "name": {
         "extra": [],
         "cn": "纪游哉",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "992f0195-2a09-5534-a73a-2876f61bc835",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "415463870",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱霓",
         "default": "cn"
       },
       "2d": true
