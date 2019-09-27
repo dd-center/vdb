@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "node test/repeat",
+    "test": "node test/test",
     "update": "npm test && npm run generate && sh update.sh",
     "generate": "node generator",
     "refresh": "node refresh"
