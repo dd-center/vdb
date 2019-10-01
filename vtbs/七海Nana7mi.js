@@ -3,6 +3,7 @@ module.exports = {
     cn: '七海Nana7mi',
   },
   '2d': true,
+  group: 'VirtuaReal',
   accounts: {
     bilibili: '434334701',
   },

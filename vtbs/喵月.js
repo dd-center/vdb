@@ -1,10 +1,10 @@
 module.exports = {
   name: {
-    cn: '无理MURI',
+    cn: '喵月',
   },
   '2d': true,
   group: 'VirtuaReal',
   accounts: {
-    bilibili: '455916618',
+    bilibili: '472821519',
   },
 }

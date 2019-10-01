@@ -4,6 +4,7 @@ module.exports = {
     en: 'Eine',
   },
   '2d': true,
+  group: 'VirtuaReal',
   accounts: {
     bilibili: '421267475',
   },
