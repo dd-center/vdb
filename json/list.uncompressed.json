@@ -1062,6 +1062,29 @@
       "2d": true
     },
     {
+      "uuid": "9cc70a4f-d3ba-5fc5-9f70-85b064d0be67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "adogsama",
+          "type": "official",
+          "platform": "afdian"
+        },
+        {
+          "id": "317000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "adogsama",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "6ef3c1ef-b5a9-57e8-a7d8-1ffb696c87ec",
       "type": "vtuber",
       "bot": false,
@@ -8726,6 +8749,24 @@
       "2d": true
     },
     {
+      "uuid": "4fe86e54-49e5-5188-9051-6ed36ed33873",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474113504",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱樱火",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "044b5106-7da0-5fd8-9fc4-7d1d486e0ef6",
       "type": "vtuber",
       "bot": false,
@@ -10127,6 +10168,51 @@
       "name": {
         "extra": [],
         "jp": "琴乃葉 雪乃",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "b10aa00d-e98c-552d-b4b4-e21063c9d6ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCezfmwKc2B8dtVIAgRHXrKQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "KotobukiYume",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kotobuki_yume",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "2995097",
+          "type": "official",
+          "platform": "line"
+        },
+        {
+          "id": "kotobukiyume",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "442426299",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "琴吹ゆめ",
+        "cn": "琴吹夢",
+        "en": "Kotobuki Yume",
         "default": "jp"
       },
       "2d": true
@@ -12976,29 +13062,6 @@
       "2d": true
     },
     {
-      "uuid": "a7a20ac9-8f1c-5a47-a965-14af36e52945",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "425642",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "ruanruanbing",
-          "type": "official",
-          "platform": "instagram"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "软软冰",
-        "default": "cn"
-      },
-      "2d": true
-    },
-    {
       "uuid": "8b2ca797-adeb-54f5-8afb-c881baf12373",
       "type": "vtuber",
       "bot": false,
@@ -13104,6 +13167,29 @@
       "name": {
         "extra": [],
         "cn": "进击的冰糖",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "8d8c75a5-6d32-541c-a744-daac3f5b2416",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11187227",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "GZH_OAO",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "通行Azlier",
         "default": "cn"
       },
       "2d": true
