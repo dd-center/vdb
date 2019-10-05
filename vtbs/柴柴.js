@@ -6,4 +6,5 @@ module.exports = {
   accounts: {
     bilibili: '294008',
   },
+  group: 'prprclub',
 }
