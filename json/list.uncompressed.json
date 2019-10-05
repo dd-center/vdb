@@ -422,24 +422,6 @@
       "2d": true
     },
     {
-      "uuid": "05fba514-e91e-5783-b3a0-a1fd1ee567f9",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1947434",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "KuroiwaBK",
-        "default": "cn"
-      },
-      "2d": true
-    },
-    {
       "uuid": "569b96f0-4fa7-572b-923d-95ef7363a8f7",
       "type": "vtuber",
       "bot": false,
@@ -619,6 +601,7 @@
         "cn": "Miya_猫窝建设中",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -872,6 +855,7 @@
         "cn": "Ruriko琉璃子",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -1163,6 +1147,7 @@
         "cn": "kinoko杂菌",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -1200,6 +1185,17 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "147616dd-790e-5054-905c-e918b9798bb0",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "PrPrClub",
+        "default": "en"
+      }
     },
     {
       "uuid": "212b7f70-d044-58fd-b0c3-70baba24314a",
@@ -4797,6 +4793,25 @@
       "2d": true
     },
     {
+      "uuid": "22d5f337-bf7d-5b83-b650-19a377615858",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1947434",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "内兹米",
+        "default": "cn"
+      },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
+      "2d": true
+    },
+    {
       "uuid": "1c199678-db2e-5f55-92a7-9c4d452b9480",
       "type": "vtuber",
       "bot": false,
@@ -6812,6 +6827,7 @@
         "cn": "尼奥",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -7606,6 +7622,7 @@
         "cn": "明紗",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -8489,6 +8506,7 @@
         "cn": "柴柴",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -9186,6 +9204,7 @@
         "cn": "泰蕾莎",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -11019,7 +11038,8 @@
         "extra": [],
         "cn": "神子杏",
         "default": "cn"
-      }
+      },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0"
     },
     {
       "uuid": "e12ea0f5-fdda-54fb-9ba3-069350f8493f",
@@ -11308,6 +11328,25 @@
         "jp": "笹木咲",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "98cb6007-4357-5b9c-b3f1-5685fa10712d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4690327",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筱魈",
+        "default": "cn"
+      },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -12045,6 +12084,7 @@
         "jp": "能美枫铃だよ",
         "default": "jp"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -13151,6 +13191,7 @@
         "cn": "辉月兔",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
