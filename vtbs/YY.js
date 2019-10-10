@@ -3,6 +3,7 @@ module.exports = {
     cn: 'YY',
   },
   '2d': true,
+  group: 'PSP',
   accounts: {
     bilibili: '147471',
   },
