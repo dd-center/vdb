@@ -134,6 +134,24 @@
       "2d": true
     },
     {
+      "uuid": "91a98a6c-d475-5cc3-a11f-1ce4e76167b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14269054",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Anastasia",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "2c1f17bc-e0b4-5d46-9c59-f650bc96ec5c",
       "type": "vtuber",
       "bot": false,
@@ -4348,6 +4366,25 @@
       "name": {
         "extra": [],
         "cn": "云玉鸾",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "ebf4e88b-0fcc-50d3-a334-b80123a5b0ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3406546",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云祈",
+        "en": "kinori",
         "default": "cn"
       },
       "2d": true
