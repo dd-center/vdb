@@ -866,6 +866,7 @@
         "cn": "树根",
         "default": "cn"
       },
+      "group": "147616dd-790e-5054-905c-e918b9798bb0",
       "2d": true
     },
     {
@@ -6787,6 +6788,29 @@
       "2d": true
     },
     {
+      "uuid": "6e34c971-3d5e-59de-92ed-e4ad6b03c95b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "myglz",
+          "type": "official",
+          "platform": "weibo"
+        },
+        {
+          "id": "298484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小狼",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "3a4429a2-1291-57f3-bcfb-7162f3ef988c",
       "type": "vtuber",
       "bot": false,
@@ -6985,6 +7009,25 @@
         "jp": "屍鬼",
         "cn": "尸鬼",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "58dac1a9-14de-5322-ae68-2668e3021973",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "214854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山崎",
+        "en": "kaori",
+        "default": "cn"
       },
       "2d": true
     },
