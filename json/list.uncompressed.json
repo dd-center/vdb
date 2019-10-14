@@ -4403,6 +4403,39 @@
       "2d": true
     },
     {
+      "uuid": "f2a7b2fc-a1e3-5037-9d17-f377c736af98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCBQIpfQ9Ribe3TCsDrM6bXw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "hitototowa_towa",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hitototowa_hito",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "type": "relay",
+          "id": "432367601",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "人間と永遠",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "1452e8b3-27ca-50cf-9f53-a281044352f5",
       "type": "vtuber",
       "bot": false,
@@ -4416,6 +4449,24 @@
       "name": {
         "extra": [],
         "cn": "伊佐夜",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "25a82bd8-6895-52c0-9124-0d1d232b180f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "328284808",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊恩姬",
         "default": "cn"
       },
       "2d": true
@@ -6295,6 +6346,24 @@
       "2d": true
     },
     {
+      "uuid": "0569ef7b-ade4-588a-ba84-dd3bfb0e2335",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "388924685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬小路",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "97336fc7-5a43-5523-9705-bcb423b81366",
       "type": "vtuber",
       "bot": true,
@@ -6956,6 +7025,11 @@
       "bot": false,
       "accounts": [
         {
+          "id": "9987520",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
           "id": "UCk0dNVAdlgn4ynURwAq_z2A",
           "type": "official",
           "platform": "youtube"
@@ -6974,6 +7048,7 @@
       "name": {
         "extra": [],
         "jp": "届木ウカ",
+        "cn": "届木羽架",
         "default": "jp"
       },
       "2d": true
@@ -7304,6 +7379,39 @@
       "2d": true
     },
     {
+      "uuid": "a90b47cc-499b-503e-90de-8460988cffa1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCXwBmY44rKiHaTkH9vzOfag",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Momo_Mikado",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "414857366",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "41811776",
+          "type": "official",
+          "platform": "pixiv"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "御門モモ",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "d2f3bfcb-dfa2-5c84-96e3-691ebd122a67",
       "type": "vtuber",
       "bot": false,
@@ -7443,6 +7551,26 @@
         "cn": "爱宫MILK",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "bff0a962-dcdd-520b-91fb-33adfc868231",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474593911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "慕斯",
+        "en": "Muse",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "2d": true
     },
     {
@@ -8527,6 +8655,46 @@
         "cn": "东云惠",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "f29b5cd9-28cf-5146-a0b5-914a279f76d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474593910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林伊",
+        "en": "Eli",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "2d": true
+    },
+    {
+      "uuid": "3d306c79-34e4-56d2-b708-1e4f0f23875a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474593909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林玲",
+        "en": "Lynn",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "2d": true
     },
     {
@@ -10669,6 +10837,26 @@
       "2d": true
     },
     {
+      "uuid": "d22e1f19-1dc6-50c0-ab77-d3a3e9f0efe4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474593912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白祁",
+        "en": "Seven",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "2d": true
+    },
+    {
       "uuid": "005a2eb4-769e-558b-b805-552797e572d6",
       "type": "vtuber",
       "bot": false,
@@ -11249,6 +11437,35 @@
         "cn": "神乐魅娅",
         "en": "Kagura Mea",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "454d59a4-986d-560c-b117-609e010d1bc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "98000698",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCQLyq7TDKHlmp2Ufd5Z2qMw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Syusetu_kohaku",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋雪琥珀",
+        "jp": "秋雪 こはく",
+        "default": "cn"
       },
       "2d": true
     },
