@@ -7,7 +7,7 @@ module.exports = {
   accounts: {
     youtube: 'UCy5lOmEQoivK5XK7QCaRKug',
     bilibili: '292044559',
-    twitter: 'bityoutube',
+    twitter: 'APP_Yomemi',
     userlocal: '76779A79FB961C6F_09fd5f',
   },
 }

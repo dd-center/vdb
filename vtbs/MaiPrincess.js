@@ -1,10 +1,12 @@
 module.exports = {
   name: {
+    en: 'MaiPrincess',
     jp: '米プリンセス',
   },
-  '2d': true,
+  type: 'group',
   accounts: {
-    youtube: 'UC2c8dQYdDadn7tmK_d7o-HQ',
     twitter: 'maipri_official',
+    youtube: 'UC2c8dQYdDadn7tmK_d7o-HQ',
+    bilibili: '414753486',
   },
 }
