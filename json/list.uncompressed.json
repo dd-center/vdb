@@ -288,6 +288,31 @@
       }
     },
     {
+      "uuid": "ad0ade91-bf05-51a9-a791-39aeeae06779",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "94896660",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "BitYoutube",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "エイレーン",
+        "cn": "艾琳",
+        "en": "Eilene",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "49df9683-3768-5b7f-8998-6b81042ed7f6",
       "type": "vtuber",
       "bot": false,
@@ -543,6 +568,34 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "maipri_official",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC2c8dQYdDadn7tmK_d7o-HQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "414753486",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MaiPrincess",
+        "jp": "米プリンセス",
+        "default": "en"
+      }
     },
     {
       "uuid": "d63b7efc-26e9-5aa7-b905-d31450074f52",
@@ -1726,6 +1779,45 @@
       "2d": true
     },
     {
+      "uuid": "f7ae5175-dcdd-525e-9aba-37f1e801d25b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2601367",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ui_shig",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "UCt30jJgChL8qeT9VPadidSw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ui_shig",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "431873",
+          "type": "official",
+          "platform": "pixiv"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "しぐれうい",
+        "cn": "時雨羽衣",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "e00dcc1a-c122-52bb-8e69-003831cbaa5f",
       "type": "vtuber",
       "bot": false,
@@ -1871,6 +1963,25 @@
         "jp": "ちくわ",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "ec42b172-4533-5c02-bca5-5f8978daa19c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "tsuyahime_idol",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "つや姫",
+        "default": "jp"
+      },
+      "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
       "2d": true
     },
     {
@@ -2990,6 +3101,40 @@
       "2d": true
     },
     {
+      "uuid": "e6299706-7975-5132-a195-1ea7e0989747",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCz0lin3ZsOtmr2yuTN2MDQg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "sifiresirer",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "beilene191969",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "type": "relay",
+          "id": "278093107",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "シフィ",
+        "en": "Sifir Esirer",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "594af259-2e37-5713-a629-483361cb7674",
       "type": "vtuber",
       "bot": false,
@@ -3486,6 +3631,25 @@
       "2d": true
     },
     {
+      "uuid": "147212bc-ea08-54dc-ab10-aedf01f449fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "milkyqueen_idol",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ミルキークイーン",
+        "default": "jp"
+      },
+      "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
+      "2d": true
+    },
+    {
       "uuid": "88ec7f13-bc3e-5a43-acc5-b184a39c5d53",
       "type": "vtuber",
       "bot": false,
@@ -3661,7 +3825,7 @@
           "platform": "bilibili"
         },
         {
-          "id": "bityoutube",
+          "id": "APP_Yomemi",
           "type": "official",
           "platform": "twitter"
         },
@@ -7182,6 +7346,30 @@
         "extra": [],
         "jp": "市ノ瀬ミナト",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "74f8d941-3b5a-50b0-803d-8f1dc746784f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "419637852",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "S11na",
+          "type": "official",
+          "platform": "afdian"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希娜",
+        "en": "Siina",
+        "default": "cn"
       },
       "2d": true
     },
@@ -11708,29 +11896,6 @@
       "2d": true
     },
     {
-      "uuid": "af375217-dcee-5321-994b-50002732904f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UC2c8dQYdDadn7tmK_d7o-HQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "maipri_official",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "米プリンセス",
-        "default": "jp"
-      },
-      "2d": true
-    },
-    {
       "uuid": "0f20e75c-a01f-573f-b0b6-8988a1d0aa86",
       "type": "vtuber",
       "bot": true,
@@ -13060,6 +13225,25 @@
         "jp": "華香院つばき",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "1e605379-5e56-5a39-88f3-e86af761fdac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "moeminori_idol",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "萌えみのり",
+        "default": "jp"
+      },
+      "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
       "2d": true
     },
     {
