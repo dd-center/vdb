@@ -1,0 +1,13 @@
+module.exports = {
+  name: {
+    jp: '彩まよい',
+    cn: '彩真宵',
+  },
+  '2d': true,
+  accounts: {
+    bilibili: '403638183',
+    youtube: 'UCsAzaxwiKWolOWLH1bIU3wA',
+    twitter: 'irodorimayoi',
+    instagram: 'irodori_mayoi',
+  },
+}

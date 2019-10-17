@@ -4,8 +4,8 @@ module.exports = {
   },
   '2d': true,
   accounts: {
-    youtube: 'UCUk_c9wgSFL0Jj3oOTEmDzA',
-    twitter: 'aokirua',
     bilibili: '414840678',
+    twitter: 'AokiRua',
+    youtube: 'UCUk_c9wgSFL0Jj3oOTEmDzA',
   },
 }
