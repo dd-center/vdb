@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://travis-ci.com/dd-center/vdb.svg?branch=master)](https://travis-ci.com/dd-center/vdb)
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
 
@@ -127,6 +127,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/wudifeixue"><img src="https://avatars2.githubusercontent.com/u/7316929?v=4" width="72px;" alt="Curtis Xiao"/><br /><sub><b>Curtis Xiao</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=wudifeixue" title="Code">💻</a> <a href="#content-wudifeixue" title="Content">🖋</a></td>
     <td align="center"><a href="http://blog.thiece.cn/"><img src="https://avatars3.githubusercontent.com/u/5725831?v=4" width="72px;" alt="Thiece"/><br /><sub><b>Thiece</b></sub></a><br /><a href="#content-Thiece" title="Content">🖋</a></td>
     <td align="center"><a href="http://miraclexyz.github.io"><img src="https://avatars2.githubusercontent.com/u/30370926?v=4" width="72px;" alt="Yuzhang Xie"/><br /><sub><b>Yuzhang Xie</b></sub></a><br /><a href="#content-MiracleXYZ" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/example123"><img src="https://avatars3.githubusercontent.com/u/87628?v=4" width="72px;" alt="example123"/><br /><sub><b>example123</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=example123" title="Code">💻</a> <a href="#content-example123" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shugen002"><img src="https://avatars1.githubusercontent.com/u/10257291?v=4" width="72px;" alt="shugen002"/><br /><sub><b>shugen002</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=shugen002" title="Code">💻</a> <a href="#content-shugen002" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://sparanoid.com"><img src="https://avatars0.githubusercontent.com/u/96356?v=4" width="72px;" alt="Tunghsiao Liu"/><br /><sub><b>Tunghsiao Liu</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=sparanoid" title="Code">💻</a> <a href="#content-sparanoid" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/yuyuyzl"><img src="https://avatars3.githubusercontent.com/u/14276008?v=4" width="72px;" alt="yuzhongliang22"/><br /><sub><b>yuzhongliang22</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=yuyuyzl" title="Code">💻</a> <a href="#content-yuyuyzl" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/baolan-zifu"><img src="https://avatars0.githubusercontent.com/u/20073620?v=4" width="72px;" alt="Takaranoao"/><br /><sub><b>Takaranoao</b></sub></a><br /><a href="#content-baolan-zifu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ghostmiaojun"><img src="https://avatars1.githubusercontent.com/u/51529364?v=4" width="72px;" alt="ghostmiaojun"/><br /><sub><b>ghostmiaojun</b></sub></a><br /><a href="#content-ghostmiaojun" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/IOP1473"><img src="https://avatars1.githubusercontent.com/u/41325343?v=4" width="72px;" alt="IOP1473"/><br /><sub><b>IOP1473</b></sub></a><br /><a href="#content-IOP1473" title="Content">🖋</a></td>
   </tr>
 </table>
 

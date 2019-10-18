@@ -1,9 +1,9 @@
 module.exports = {
   name: {
-    cn: 'WINKS字幕搬运',
+    cn: '若烨',
   },
   '2d': true,
   accounts: {
-    bilibili: '339116260',
+    bilibili: '418552243',
   },
 }

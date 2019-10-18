@@ -1,0 +1,10 @@
+module.exports = {
+  name: {
+    cn: 'winks',
+  },
+  type: 'group',
+  '2d': true,
+  accounts: {
+    bilibili: ['381294255'],
+  },
+}

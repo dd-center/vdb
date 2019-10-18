@@ -1,9 +1,10 @@
 module.exports = {
   name: {
-    cn: 'WINKS事务所',
+    cn: '宫村焱',
   },
   '2d': true,
+  group: 'Oasis',
   accounts: {
-    bilibili: '381294255',
+    bilibili: '297880122',
   },
 }
