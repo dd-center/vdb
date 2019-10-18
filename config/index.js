@@ -5,6 +5,22 @@ const linkSyntax = {
   bilibili: 'https://space.bilibili.com/{id}',
   twitter: 'https://twitter.com/{id}',
   userlocal: 'https://virtual-youtuber.userlocal.jp/user/{id}',
+  pixiv: 'https://www.pixiv.net/member.php?id={id}',
+  afdian: 'https://afdian.net/@{id}',
+  peing: 'https://peing.net/zh-CN/{id}',
+  'ci-en': 'https://ci-en.net/creator/{id}',
+  github: 'https://github.com/{id}',
+  instagram: 'https://www.instagram.com/{id}/',
+  booth: 'https://{id}.booth.pm',
+  marshmallow: 'https://marshmallow-qa.com/{id}',
+  'amazon.co.jp': 'https://www.amazon.co.jp/hz/wishlist/ls/{id}',
+  line: 'https://line.me/R/ti/p/{id}',
+  niconico: 'https://www.nicovideo.jp/user/{id}',
+  showroom: 'https://www.showroom-live.com/{id}',
+  fantia: 'https://fantia.jp/fanclubs/{id}',
+  twitch: 'https://www.twitch.tv/{id}',
+  tiktok: 'https://www.tiktok.com/@{id}',
+  weibo: 'https://www.weibo.com/u/{id}',
 }
 
 module.exports = {

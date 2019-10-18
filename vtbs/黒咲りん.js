@@ -9,6 +9,6 @@ module.exports = {
     youtube: 'UCNPu5zXzXvS6pLCCaI5SnSA',
     twitter: 'Kurorin_V',
     marshmallow: 'kurorin_v',
-    nicovideo: '85317680',
+    niconico: '85317680',
   },
 }

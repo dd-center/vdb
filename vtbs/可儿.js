@@ -6,6 +6,6 @@ module.exports = {
   '2d': true,
   accounts: {
     bilibili: ['481169', '244407176'],
-    weibo: '凉宫白樱_虚拟动漫社计划',
+    weibo: '5761235630',
   },
 }

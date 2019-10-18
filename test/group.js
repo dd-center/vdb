@@ -1,15 +1,10 @@
-const no = (...e) => {
-  console.error(...e)
-  process.exit(1)
-}
-
-require('..')
-  .then(({ vtbs }) => vtbs)
-  .then(vtbs => {
-    const table = Object.fromEntries(vtbs.map(vtb => [vtb.uuid, vtb]))
-    vtbs.forEach(({ group, name }) => {
-      if (group && !table[group]) {
-        no('no group', name[name.default])
-      }
-    })
+module.exports = ({ vtbs }) => {
+  let errors = []
+  const table = Object.fromEntries(vtbs.map(vtb => [vtb.uuid, vtb]))
+  vtbs.forEach(({ group, name }) => {
+    if (group && !table[group]) {
+      errors.push(`no group ${name[name.default]}`)
+    }
   })
+  return errors
+}

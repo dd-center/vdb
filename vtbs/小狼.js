@@ -4,7 +4,7 @@ module.exports = {
   },
   '2d': true,
   accounts: {
-    weibo: 'myglz',
+    weibo: '6418641976',
     bilibili: '298484',
   },
 }
