@@ -14,7 +14,12 @@ const add = async () => {
     }
     file += `    ${lang}: '${name}',\n`
   }
-  file += `  },\n  '2d': true,\n  accounts: {\n`
+  file += `  },\n  '2d': true,`
+  const group = await ask('Group?')
+  if (group) {
+    file += `\n  group: '${group}',`
+  }
+  file += `\n  accounts: {\n`
   for (let platform = await ask('Account platform?'); platform; platform = await ask('Account platform?')) {
     let id = await ask('Account ID?')
     file += `    ${platform}: '${id}',\n`

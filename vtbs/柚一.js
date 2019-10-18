@@ -1,10 +1,11 @@
 module.exports = {
   name: {
-    cn: '时音',
+    cn: '柚一',
   },
   '2d': true,
   group: 'CodeEcho',
   accounts: {
-    bilibili: '446409293',
+    peing: 'codeechoyouyi',
+    bilibili: '474628506',
   },
 }
