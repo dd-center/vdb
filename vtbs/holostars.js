@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    en: 'holostars',
+  },
+  type: 'group',
+  accounts: {
+    bilibili: '444316844',
+  },
+}

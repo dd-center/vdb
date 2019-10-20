@@ -3,6 +3,7 @@ module.exports = {
     jp: '二和餅あんこ',
   },
   '2d': true,
+  group: 'ViViD',
   accounts: {
     youtube: 'UCBKxF1PHQtT78ypcVYmBtBA',
     twitter: 'ANKOchan_01',

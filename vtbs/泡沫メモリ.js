@@ -3,6 +3,7 @@ module.exports = {
     jp: '泡沫メモリ',
   },
   '2d': true,
+  group: 'ViViD',
   accounts: {
     youtube: 'UClV7gDF9sUzu4jJCK7rCYkQ',
     twitter: 'Memory_Utakata',

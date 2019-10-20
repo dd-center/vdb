@@ -2,8 +2,8 @@ module.exports = {
   name: {
     cn: 'NIJISANJI',
   },
-  '2d': true,
+  'type': 'group',
   accounts: {
-    bilibili: '410484677',
+    bilibili: ['410484677', { type: 'relay', 'id': '442576231' }],
   },
 }

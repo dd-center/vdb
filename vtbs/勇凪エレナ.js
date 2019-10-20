@@ -3,6 +3,7 @@ module.exports = {
     jp: '勇凪エレナ',
   },
   '2d': true,
+  group: 'ViViD',
   accounts: {
     youtube: 'UCKwATdrcjyzNv9c56PqJbWA',
     twitter: 'ELENA_YUNAGI',

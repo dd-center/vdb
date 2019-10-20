@@ -3,6 +3,7 @@ module.exports = {
     jp: '猫芒ベル',
   },
   '2d': true,
+  group: 'ViViD',
   accounts: {
     youtube: 'UCflNPJUJ4VQh1hGDNK7bsFg',
     twitter: 'Bell_Nekonogi',
