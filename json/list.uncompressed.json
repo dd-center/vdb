@@ -715,6 +715,24 @@
       "2d": true
     },
     {
+      "uuid": "9934d233-a130-5459-8554-ecc7234d2891",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "449786865",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MochiPro",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "9709a34c-bec7-588d-a7c6-2045e8638c82",
       "type": "vtuber",
       "bot": false,
@@ -744,12 +762,17 @@
     },
     {
       "uuid": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
-      "type": "vtuber",
+      "type": "group",
       "bot": false,
       "accounts": [
         {
           "id": "410484677",
           "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "type": "relay",
+          "id": "442576231",
           "platform": "bilibili"
         }
       ],
@@ -757,8 +780,7 @@
         "extra": [],
         "cn": "NIJISANJI",
         "default": "cn"
-      },
-      "2d": true
+      }
     },
     {
       "uuid": "07c360c6-2150-50d2-8844-450fefba6e52",
@@ -895,6 +917,24 @@
       "2d": true
     },
     {
+      "uuid": "8706ff91-3bd2-5fe8-b3c8-eb8509cb0e13",
+      "type": "misc",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383012066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Project_V",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "d8e5a9a0-9eb7-54c3-ac23-248d5fa9d085",
       "type": "vtuber",
       "bot": false,
@@ -911,6 +951,23 @@
         "default": "en"
       },
       "2d": true
+    },
+    {
+      "uuid": "8050d2ae-476a-5ef8-8a7a-55cb3768e393",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "WFLE_REALITY",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "REALITY",
+        "default": "en"
+      }
     },
     {
       "uuid": "52f57a42-c6b9-535b-91c9-5a9982791d9b",
@@ -1006,6 +1063,29 @@
         "extra": [],
         "cn": "Ryoko凉子",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "ViViD_virtual",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "type": "relay",
+          "id": "392214433",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ViViD",
+        "default": "en"
       },
       "2d": true
     },
@@ -1217,6 +1297,23 @@
         "default": "en"
       },
       "2d": true
+    },
+    {
+      "uuid": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "444316844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "holostars",
+        "default": "en"
+      }
     },
     {
       "uuid": "c3de0c58-3df0-5a4f-8224-7297a64c95ce",
@@ -2361,6 +2458,39 @@
       "name": {
         "extra": [],
         "jp": "ぺんぺん２号",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "a5912c2d-e491-5547-83cb-dd8741f8641c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "macoulu",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "id": "UCwSOARsvB-Qa6PtuYyK74dA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "rnqq",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "472135480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "まこと",
         "default": "jp"
       },
       "2d": true
@@ -4523,6 +4653,7 @@
         "jp": "二和餅あんこ",
         "default": "jp"
       },
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "2d": true
     },
     {
@@ -5405,6 +5536,7 @@
         "jp": "勇凪エレナ",
         "default": "jp"
       },
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "2d": true
     },
     {
@@ -6226,6 +6358,45 @@
         "extra": [],
         "jp": "夕陽リリ",
         "cn": "莉莉",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "f9470294-45ac-5408-95c2-49e9aa0977bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1341914",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NeonNight_exe",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "neonnight_exe",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "UCLQIMDHNE0ZGAiHIdMbq7dw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "neonnight-exe",
+          "type": "official",
+          "platform": "booth"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夜乃ネオン",
+        "cn": "夜乃霓虹",
         "default": "jp"
       },
       "2d": true
@@ -7566,9 +7737,9 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UC7HljgIDR-1P9mfwbvpbTZA",
+          "id": "13479495",
           "type": "official",
-          "platform": "youtube"
+          "platform": "bilibili"
         },
         {
           "id": "hatano_vtuber",
@@ -7576,14 +7747,20 @@
           "platform": "twitter"
         },
         {
-          "id": "22FA8D7E030CECF6_860b67",
+          "id": "UC7HljgIDR-1P9mfwbvpbTZA",
           "type": "official",
-          "platform": "userlocal"
+          "platform": "youtube"
+        },
+        {
+          "id": "hatano_vtuber",
+          "type": "official",
+          "platform": "marshmallow"
         }
       ],
       "name": {
         "extra": [],
         "jp": "幡多乃ちゃろ",
+        "cn": "幡多乃姹萝",
         "default": "jp"
       },
       "2d": true
@@ -9242,6 +9419,39 @@
       "2d": true
     },
     {
+      "uuid": "e178e1ae-9ccc-52ea-8667-06f06cac37d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "472631497",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Rin_Yuzukich",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC_1Okh7IBMyazrTJD_ymYsQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "yuzuki-rin",
+          "type": "official",
+          "platform": "booth"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "柚木凛",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "ebe1534c-091e-5788-957f-f73832d3599c",
       "type": "vtuber",
       "bot": false,
@@ -9989,6 +10199,7 @@
         "jp": "泡沫メモリ",
         "default": "jp"
       },
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "2d": true
     },
     {
@@ -10782,6 +10993,7 @@
         "jp": "猫芒ベル",
         "default": "jp"
       },
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "2d": true
     },
     {
@@ -11346,6 +11558,7 @@
         "jp": "白百合リリィ",
         "default": "jp"
       },
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "2d": true
     },
     {
@@ -11857,6 +12070,34 @@
       "2d": true
     },
     {
+      "uuid": "ed7ed474-e719-5121-8c21-e810fbc69eef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "AOIYUIvtuber",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCzq3GtdcWmLKFKW7VQVzhmA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "type": "relay",
+          "id": "179459",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "碧居結衣",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "b99162d6-7e23-5efc-b144-52572320e7d1",
       "type": "vtuber",
       "bot": false,
@@ -11948,6 +12189,39 @@
         "default": "cn"
       },
       "group": "147616dd-790e-5054-905c-e918b9798bb0"
+    },
+    {
+      "uuid": "1aff3bc2-93c3-5377-b16a-cb5b8b239a32",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "411700399",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kami_shun0505",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "2973000",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "UCKIEzDUVwfXcct3JPgNUw7w",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "神岡ちろる",
+        "default": "jp"
+      },
+      "2d": true
     },
     {
       "uuid": "e12ea0f5-fdda-54fb-9ba3-069350f8493f",
