@@ -4,6 +4,7 @@ module.exports = {
     cn: '幡多乃姹萝',
   },
   '2d': true,
+  group: 'VGaming',
   accounts: {
     bilibili: '13479495',
     twitter: 'hatano_vtuber',

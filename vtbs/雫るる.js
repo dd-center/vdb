@@ -2,6 +2,7 @@ module.exports = {
   name: {
     cn: '雫るる',
   },
+  group: 'Ferret女学院',
   '2d': true,
   accounts: {
     bilibili: '387636363',

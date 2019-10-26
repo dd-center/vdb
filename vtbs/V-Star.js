@@ -1,0 +1,9 @@
+module.exports = {
+  name: {
+    en: 'V-Star',
+  },
+  type: 'group',
+  accounts: {
+    bilibili: '373109470',
+  },
+}

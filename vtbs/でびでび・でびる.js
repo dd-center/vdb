@@ -1,12 +1,12 @@
 module.exports = {
   name: {
     jp: 'でびでび・でびる',
+    cn: '德比鲁',
   },
   '2d': true,
   accounts: {
-    youtube: 'UCP19rQ5V-46B-6ZeLDJqp5w',
-    bilibili: '400313598',
+    bilibili: '441666968',
     twitter: 'debidebiru_sama',
-    userlocal: '33CD780C97968C7E_0c1d92',
+    youtube: 'UCjlmCrq4TP1I4xguOtJ-31w',
   },
 }
