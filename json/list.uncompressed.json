@@ -380,6 +380,23 @@
       "2d": true
     },
     {
+      "uuid": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431534214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ferret女学院",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0b9208ef-6b36-5419-8fa6-a63e4ebcc362",
       "type": "vtuber",
       "bot": false,
@@ -478,6 +495,7 @@
         "cn": "Kanna康娜",
         "default": "cn"
       },
+      "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0",
       "2d": true
     },
     {
@@ -813,6 +831,54 @@
       "2d": true
     },
     {
+      "uuid": "e1dc600f-a5db-5660-a91d-ba626974d1ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC-3piUPtXhIu-KAdEs7fT8A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "no-world",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "id": "No_iR88",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "ayame_shirakura",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hn_kiri39",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "haizumi_kuma",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "434662713",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "NoWorld",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "003565db-c2db-5968-ac49-b755c548a91b",
       "type": "vtuber",
       "bot": false,
@@ -961,6 +1027,11 @@
           "id": "WFLE_REALITY",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "390155514",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -1065,6 +1136,34 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "852cbe7e-95b1-5301-871b-25a53a8da777",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "373109470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "V-Star",
+        "default": "en"
+      }
+    },
+    {
+      "uuid": "f91c8cd6-c548-5ff2-a7de-e7d47d92c851",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "VGaming",
+        "default": "en"
+      }
     },
     {
       "uuid": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
@@ -2119,12 +2218,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UCP19rQ5V-46B-6ZeLDJqp5w",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "400313598",
+          "id": "441666968",
           "type": "official",
           "platform": "bilibili"
         },
@@ -2134,14 +2228,15 @@
           "platform": "twitter"
         },
         {
-          "id": "33CD780C97968C7E_0c1d92",
+          "id": "UCjlmCrq4TP1I4xguOtJ-31w",
           "type": "official",
-          "platform": "userlocal"
+          "platform": "youtube"
         }
       ],
       "name": {
         "extra": [],
         "jp": "でびでび・でびる",
+        "cn": "德比鲁",
         "default": "jp"
       },
       "2d": true
@@ -3250,14 +3345,15 @@
           "platform": "userlocal"
         },
         {
-          "id": "362420674",
-          "type": "relay",
+          "id": "477780496",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "シスター・クレア",
+        "cn": "克蕾雅",
         "default": "jp"
       },
       "2d": true
@@ -5157,6 +5253,34 @@
       "2d": true
     },
     {
+      "uuid": "b30beb18-2e28-5b6d-856f-27aa66726e00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "426830342",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCh1vCrQu5v1THp-PuP03r0A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "mununyu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "兔乃むにゅ",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "60684ca8-edf5-5ff1-8137-cc77a8c4f84d",
       "type": "vtuber",
       "bot": false,
@@ -5906,6 +6030,11 @@
       "bot": false,
       "accounts": [
         {
+          "id": "399592717",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
           "id": "UCuqcPmdBvwHEWGx00XYCFWg",
           "type": "official",
           "platform": "youtube"
@@ -5914,11 +6043,22 @@
           "id": "futabashione",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "futabashione",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "futabashione",
+          "type": "official",
+          "platform": "booth"
         }
       ],
       "name": {
         "extra": [],
         "jp": "双葉汐音",
+        "cn": "双叶汐音",
         "default": "jp"
       },
       "2d": true
@@ -6572,14 +6712,15 @@
           "platform": "userlocal"
         },
         {
-          "id": "16706112",
-          "type": "relay",
+          "id": "477780499",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "夢月ロア",
+        "cn": "梦月萝娅",
         "default": "jp"
       },
       "2d": true
@@ -6716,6 +6857,36 @@
         "jp": "天神子兎音",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "c82126c9-cb1e-5cf2-9093-7e4527bb909a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383079163",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "amahane428",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCO2bnzPlCau6YzLoSt8EDdA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天羽よつは",
+        "cn": "天羽四叶",
+        "default": "jp"
+      },
+      "group": "f91c8cd6-c548-5ff2-a7de-e7d47d92c851",
       "2d": true
     },
     {
@@ -7763,6 +7934,7 @@
         "cn": "幡多乃姹萝",
         "default": "jp"
       },
+      "group": "f91c8cd6-c548-5ff2-a7de-e7d47d92c851",
       "2d": true
     },
     {
@@ -13285,6 +13457,39 @@
       "2d": true
     },
     {
+      "uuid": "714da86b-3d4d-5b76-b2f3-e14396069440",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21997",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "404409600",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "practice19",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCaKbWdaSQ31s6BkqgHh0lDw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "胡桃いく",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "b6333fe1-e920-5bb1-8d37-74fb9572771e",
       "type": "vtuber",
       "bot": false,
@@ -13377,14 +13582,15 @@
           "platform": "userlocal"
         },
         {
-          "id": "5595729",
-          "type": "relay",
+          "id": "477780497",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "舞元啓介",
+        "cn": "舞元启介",
         "default": "jp"
       },
       "2d": true
@@ -15500,6 +15706,7 @@
         "cn": "雫るる",
         "default": "cn"
       },
+      "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0",
       "2d": true
     },
     {
@@ -15806,6 +16013,7 @@
         "cn": "音音继nene",
         "default": "jp"
       },
+      "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0",
       "2d": true
     },
     {
