@@ -21,7 +21,8 @@
       "fantia": "https://fantia.jp/fanclubs/{id}",
       "twitch": "https://www.twitch.tv/{id}",
       "tiktok": "https://www.tiktok.com/@{id}",
-      "weibo": "https://www.weibo.com/u/{id}"
+      "weibo": "https://www.weibo.com/u/{id}",
+      "web": "{id}"
     }
   },
   "vtbs": [
@@ -59,6 +60,44 @@
         "extra": [],
         "cn": "8911勘测研究所",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "8e9b02ae-78ba-5f8b-b825-0c0af068abb7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "project_aid_",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://www.projectaid.net",
+          "type": "official",
+          "platform": "web"
+        },
+        {
+          "id": "333325107",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCoO6PIMIwatyMWRp7l6CvKQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "90274745",
+          "type": "official",
+          "platform": "niconico"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "A.I.D",
+        "default": "en"
       },
       "2d": true
     },
@@ -6435,6 +6474,35 @@
       "2d": true
     },
     {
+      "uuid": "a6aad021-a354-5b95-b932-ab2c1984414f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "345819729",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCo5uTjnUikW0giyrKOIrOQA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "n_sisi_channel",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夏目シシ",
+        "en": "Shishi",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "3fc63bad-e550-518a-9704-f1614411ba93",
       "type": "vtuber",
       "bot": false,
@@ -7492,6 +7560,44 @@
         "extra": [],
         "cn": "小伞一把",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "eca06190-ac8b-5a33-9152-df14c46daa0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "302464013",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "osanai_mei",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "31304511",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "osanai_mei",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "UCZx7wgGNs2UFyRRtLoNur9Q",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小山内めい",
+        "default": "jp"
       },
       "2d": true
     },
@@ -9997,9 +10103,9 @@
           "platform": "twitter"
         },
         {
-          "id": "8FC4815C631F87F2_aeec39",
+          "id": "3660370",
           "type": "official",
-          "platform": "userlocal"
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -14389,6 +14495,34 @@
       "2d": true
     },
     {
+      "uuid": "d489fdd4-fedc-5cee-8373-ca5069e9a302",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "nijikawa_laki",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCp77Qho-YHhnklRr-DkjiOw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "19910651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "虹河ラキ",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "807cc4b5-660f-5eb6-84bd-7e833c8f6947",
       "type": "vtuber",
       "bot": false,
@@ -16380,6 +16514,45 @@
       "name": {
         "extra": [],
         "jp": "魔界ノりりむ",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "ea8efc0c-3167-5566-92fc-b43e7f0a3175",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCL-2thbJ7grC9fmGF4OLuTg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "camomi_camomi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "711569",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "camomi-camomi",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "type": "relay",
+          "id": "354940834",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鴨見カモミ",
+        "en": "Camomi",
         "default": "jp"
       },
       "2d": true
