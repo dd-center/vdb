@@ -7,5 +7,6 @@ module.exports = {
     youtube: 'UCprQaynf6W8Qargmo5jg2-Q',
     twitter: 'mekuru_chan',
     userlocal: '2143F5DE7B78A3FE_217cfe',
+    bilibili: '409743803',
   },
 }
