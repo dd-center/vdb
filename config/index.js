@@ -21,6 +21,7 @@ const linkSyntax = {
   twitch: 'https://www.twitch.tv/{id}',
   tiktok: 'https://www.tiktok.com/@{id}',
   weibo: 'https://www.weibo.com/u/{id}',
+  web: '{id}',
 }
 
 module.exports = {
