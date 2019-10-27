@@ -18,7 +18,8 @@ jobs:
         python-version: 3.7
     - name: Update
       run: |
-        python3 update_list.py
+        # python3 update_list.py
+        ls
     - name: push
       uses: github-actions-x/commit@v2.1
       with:
