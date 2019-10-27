@@ -918,6 +918,34 @@
       "2d": true
     },
     {
+      "uuid": "be6d6073-551a-5622-864e-f0cf6dac1735",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "Note_vsinger",
+          "type": "relay",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCu6IFOMX4F8xn1NIc0DQ2Mg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "92874801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Note",
+        "default": "en"
+      },
+      "2d": true
+    },
+    {
       "uuid": "003565db-c2db-5968-ac49-b755c548a91b",
       "type": "vtuber",
       "bot": false,
@@ -1848,11 +1876,18 @@
           "id": "6AAF956361D9BC59_e4ecb4",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "408833733",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "おさナズナ",
+        "cn": "小荠",
+        "en": "OsaNazu",
         "default": "jp"
       },
       "2d": true
@@ -10199,6 +10234,39 @@
       "2d": true
     },
     {
+      "uuid": "569c5141-dcfc-56d6-a2b5-ad1f8a18f754",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "414753292",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCckQQRZVF9x2GjroBjNIX_Q",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "https://www.hirasakamei.com",
+          "type": "official",
+          "platform": "web"
+        },
+        {
+          "id": "hirasakamei",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "比良坂芽衣",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "5e28f466-917d-59f0-8997-6674cab84dff",
       "type": "vtuber",
       "bot": false,
@@ -10833,6 +10901,34 @@
         "extra": [],
         "cn": "熊井塔塔子",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "913f7f2b-3d8b-5120-bdf9-ad7967e36f84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15178117",
+          "type": "relay",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCwRKt_raV3N5KZgxcFyC1vw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "suntory_nomu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "燦鳥ノム",
+        "default": "jp"
       },
       "2d": true
     },
@@ -15337,6 +15433,11 @@
           "id": "2143F5DE7B78A3FE_217cfe",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "409743803",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
