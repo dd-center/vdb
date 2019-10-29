@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://travis-ci.com/dd-center/vdb.svg?branch=master)](https://travis-ci.com/dd-center/vdb)
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
 
@@ -136,6 +136,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/baolan-zifu"><img src="https://avatars0.githubusercontent.com/u/20073620?v=4" width="72px;" alt="Takaranoao"/><br /><sub><b>Takaranoao</b></sub></a><br /><a href="#content-baolan-zifu" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ghostmiaojun"><img src="https://avatars1.githubusercontent.com/u/51529364?v=4" width="72px;" alt="ghostmiaojun"/><br /><sub><b>ghostmiaojun</b></sub></a><br /><a href="#content-ghostmiaojun" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/IOP1473"><img src="https://avatars1.githubusercontent.com/u/41325343?v=4" width="72px;" alt="IOP1473"/><br /><sub><b>IOP1473</b></sub></a><br /><a href="#content-IOP1473" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/sxuweil28kvw"><img src="https://avatars3.githubusercontent.com/u/10825865?v=4" width="72px;" alt="sxuweil28kvw"/><br /><sub><b>sxuweil28kvw</b></sub></a><br /><a href="#content-sxuweil28kvw" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/PoiDaisuki"><img src="https://avatars3.githubusercontent.com/u/48427092?v=4" width="72px;" alt="PoiDaisuki"/><br /><sub><b>PoiDaisuki</b></sub></a><br /><a href="#content-PoiDaisuki" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/NciyuandeAK"><img src="https://avatars2.githubusercontent.com/u/54472479?v=4" width="72px;" alt="NciyuandeAK"/><br /><sub><b>NciyuandeAK</b></sub></a><br /><a href="#content-NciyuandeAK" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/peng233163"><img src="https://avatars0.githubusercontent.com/u/38469578?v=4" width="72px;" alt="peng233163"/><br /><sub><b>peng233163</b></sub></a><br /><a href="#content-peng233163" title="Content">🖋</a></td>
   </tr>
 </table>
 

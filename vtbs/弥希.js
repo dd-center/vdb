@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    cn: '弥希',
+    en: 'Miki',
+  },
+  '2d': true,
+  group: 'VirtuaReal',
+  accounts: {
+    bilibili: '477317922',
+  },
+}

@@ -1,0 +1,11 @@
+module.exports = {
+  name: {
+    cn: '蜜球兔',
+  },
+  '2d': true,
+  group: 'VirtuaReal',
+  accounts: {
+    bilibili: '1750561',
+    peing: 'miqiutu',
+  },
+}
