@@ -1,9 +1,0 @@
-module.exports = {
-  name: {
-    jp: '九条茘枝',
-  },
-  '2d': true,
-  accounts: {
-    twitter: 'lychee_9jo',
-  },
-}

@@ -5,34 +5,42 @@ const ask = async (message, type = 'input') => (await inquirer.prompt([{ name: '
 
 const add = async () => {
   let filename = undefined
-  let file = 'module.exports = {\n'
-  file += '  name: {\n'
+  const vtb = {}
   for (let lang = await ask('Name Language?'); lang; lang = await ask('Name Language?')) {
-    let name = await ask('Name?')
+    const name = await ask('Name?')
     if (!filename) {
-      filename = `${name}.js`
+      filename = `${name}.json`
     }
-    file += `    ${lang}: '${name}',\n`
+    if (!vtb.name) {
+      vtb.name = {}
+    }
+    vtb.name[lang] = name
   }
-  file += `  },\n  '2d': true,`
   const group = await ask('Group?')
   if (group) {
-    file += `\n  group: '${group}',`
+    vtb.group = group
   }
-  file += `\n  accounts: {\n`
   for (let platform = await ask('Account platform?'); platform; platform = await ask('Account platform?')) {
-    let id = await ask('Account ID?')
-    file += `    ${platform}: '${id}',\n`
+    const id = await ask('Account ID?')
+    if (!vtb.accounts) {
+      vtb.accounts = {}
+    }
+    if (typeof vtb.accounts[platform] === 'string') {
+      vtb.accounts[platform] = [vtb.accounts[platform]]
+    }
+    if (!vtb.accounts[platform]) {
+      vtb.accounts[platform] = id
+    } else {
+      vtb.accounts[platform].push(id)
+    }
   }
-  file += `  },\n}\n`
-  await writeFile(`vtbs/${filename}`, file)
+  await writeFile(`vtbs/${filename}`, JSON.stringify(vtb, undefined, 2))
 }
 
 ;
 
 (async () => {
-  let newVtbs = []
   while (await ask('More VTB/VUP?', 'confirm')) {
-    newVtbs.push(await add())
+    await add()
   }
 })()

@@ -1,9 +1,0 @@
-module.exports = {
-  name: {
-    cn: 'yakko暗影',
-  },
-  '2d': true,
-  accounts: {
-    bilibili: '175056',
-  },
-}

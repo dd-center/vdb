@@ -1,9 +1,0 @@
-module.exports = {
-  name: {
-    cn: '桜吹雪',
-  },
-  '2d': true,
-  accounts: {
-    bilibili: '18825887',
-  },
-}

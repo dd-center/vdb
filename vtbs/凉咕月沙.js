@@ -1,9 +1,0 @@
-module.exports = {
-  name: {
-    cn: '凉咕月沙',
-  },
-  '2d': true,
-  accounts: {
-    bilibili: '128912828',
-  },
-}

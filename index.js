@@ -8,12 +8,11 @@ module.exports = readdir('vtbs')
     return {
       meta: { UUID_NAMESPACE, linkSyntax },
       vtbs: dir.map(file => file.replace('.json', ''))
-        .map(file => file.replace('.js', ''))
         .map(name => ({ uuid: uuidv5(name, UUID_NAMESPACE), object: require(`./vtbs/${name}`) }))
         .map(({ uuid, object }) => ({ uuid, object: { ...object, name: Object.entries(object.name || {}) } }))
         .map(({ uuid, object }) => ({ uuid, object: { ...object, accounts: Object.entries(object.accounts || {}) } }))
         .map(({ uuid, object }) => {
-          let parsed = { uuid }
+          const parsed = { uuid }
           parsed.type = object.type || 'vtuber'
           parsed.bot = !!object.bot
           parsed.accounts = []

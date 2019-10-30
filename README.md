@@ -76,7 +76,7 @@ if Node.js is installed, you can use `npm install` to install nessasery packages
 
 Add or edit files in `/vtbs`,
 
-`.js` or `.json` file are both ok, a example of json file will be `/vtbs/774.json`,
+`.json` format,
 
 if possable, run unit test by `npm test`.
 
