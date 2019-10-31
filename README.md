@@ -1,4 +1,4 @@
-# VTuber Database [![Build Status](https://travis-ci.com/dd-center/vdb.svg?branch=master)](https://travis-ci.com/dd-center/vdb)
+# VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node CI/badge.svg)](https://github.com/dd-center/vdb/)[![Build Status](https://github.com/dd-center/vdb/workflows/Node CD/badge.svg)](https://github.com/dd-center/vdb/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
@@ -97,6 +97,8 @@ Make sure test pass!
 Use  `node generator.js`
 
 This step is required for vtbs.moe refresh the list.
+
+Should be done automatically on GitHub Actions.
 
 ## Contributors ✨
 
