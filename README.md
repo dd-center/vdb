@@ -83,6 +83,21 @@ if possable, run unit test by `npm test`.
 #### Add/Update Social Media Platform linkSyntax
 
 Edit `/config/index.js`.
+
+#### Unit test
+
+`npm test`
+
+If there is error, there is a problem with files.
+
+#### Rewrite json files (Production)
+
+Make sure test pass!
+
+Use  `node generator.js`
+
+This step is required for vtbs.moe refresh the list.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
