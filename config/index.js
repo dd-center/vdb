@@ -22,6 +22,7 @@ const linkSyntax = {
   tiktok: 'https://www.tiktok.com/@{id}',
   weibo: 'https://www.weibo.com/u/{id}',
   web: '{id}',
+  facebook: 'https://www.facebook.com/{id}/',
 }
 
 module.exports = {
