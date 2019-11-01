@@ -33,6 +33,8 @@ module.exports = readdir('vtbs')
 
           if (object.group) {
             parsed.group = uuidv5(object.group, UUID_NAMESPACE)
+          } else if (parsed.type === 'group') {
+            parsed.group = uuid
           }
 
           if (object['2d']) {
