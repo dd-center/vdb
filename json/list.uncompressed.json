@@ -6985,24 +6985,6 @@
       "2d": true
     },
     {
-      "uuid": "98520266-eb9f-5a11-93f1-a484542a96ed",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1631724",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "塞塔尼亚",
-        "default": "cn"
-      },
-      "2d": true
-    },
-    {
       "uuid": "a6aad021-a354-5b95-b932-ab2c1984414f",
       "type": "vtuber",
       "bot": false,
@@ -15741,6 +15723,25 @@
         "cn": "萌新喵",
         "default": "cn"
       },
+      "2d": true
+    },
+    {
+      "uuid": "2c722833-01e2-5903-be47-174d8b0aaaa9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1631724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萧箬薇",
+        "default": "cn"
+      },
+      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
       "2d": true
     },
     {
