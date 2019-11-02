@@ -1036,7 +1036,13 @@
       "uuid": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "57988971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "en": "Nameless Project",
