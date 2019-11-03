@@ -247,8 +247,9 @@
       ],
       "name": {
         "extra": [],
+        "cn": "安娜斯塔希娅",
         "en": "Anastasia",
-        "default": "en"
+        "default": "cn"
       },
       "2d": true
     },
@@ -742,6 +743,24 @@
         "extra": [],
         "jp": "Liberate Anime Studio",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "f6c3dd51-7d0f-5c83-b966-c5a44a5e4a67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "423443185",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Lobelia",
+        "default": "en"
       },
       "2d": true
     },
@@ -1296,6 +1315,18 @@
         "default": "en"
       },
       "2d": true
+    },
+    {
+      "uuid": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "ProbleKids",
+        "default": "en"
+      },
+      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "8706ff91-3bd2-5fe8-b3c8-eb8509cb0e13",
@@ -5958,6 +5989,24 @@
       "2d": true
     },
     {
+      "uuid": "8d35b2d7-660b-567e-8988-321e22073752",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "394601599",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凌魂少女",
+        "default": "cn"
+      },
+      "3d": true
+    },
+    {
       "uuid": "2aa0bb44-14c8-5652-84e2-c61c8f9a86af",
       "type": "vtuber",
       "bot": false,
@@ -7540,6 +7589,24 @@
       "2d": true
     },
     {
+      "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10979361",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天夢",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "470ef32d-4c64-50b6-9696-a82e78eb904b",
       "type": "vtuber",
       "bot": false,
@@ -7761,6 +7828,24 @@
       "name": {
         "extra": [],
         "cn": "女巫Vivian",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "a9152ee4-fa7b-549c-9b39-c77d7069dbed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14251443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶酪",
         "default": "cn"
       },
       "2d": true
@@ -8460,6 +8545,34 @@
         "cn": "小舞",
         "en": "Sakula",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "49eb61b8-4bdb-51c0-8454-5522936b23cb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "438020568",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCjAWLwlMHp7fWHO_Gp3wxnQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kohanaisii",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小花衣しぃ",
+        "default": "jp"
       },
       "2d": true
     },
@@ -9566,6 +9679,24 @@
       "2d": true
     },
     {
+      "uuid": "dbc38bd5-ca03-5282-ac84-e87f82dfb421",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "289654",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "日向にゃみ",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
       "uuid": "4a108c30-15f7-5233-b137-3a4f923d13d7",
       "type": "vtuber",
       "bot": false,
@@ -9966,6 +10097,24 @@
       "name": {
         "extra": [],
         "jp": "春原つくし",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "716d6d47-8cb8-5f4f-8c60-e2f5f028a306",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8309541",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "春樹なぎさ",
         "default": "jp"
       },
       "2d": true
@@ -12120,6 +12269,42 @@
       "2d": true
     },
     {
+      "uuid": "fa653ef1-3d34-5177-9235-54dca39d6663",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "739296",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MoarinVtuber",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCrhf6HYKnV6bxyaB6ooJzbw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "MoarinVtuber",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牟阿琳",
+        "en": "Moarin",
+        "jp": "モアリン",
+        "ko": "모아린",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "fba685b5-6eb4-5e8c-a97e-bc308572c8c0",
       "type": "vtuber",
       "bot": false,
@@ -13100,6 +13285,24 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "42a0273c-0047-529b-90fc-750eac0c73f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13178002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白璃",
+        "default": "cn"
+      },
+      "2d": true
     },
     {
       "uuid": "c67fb562-22df-55d6-82f2-38be6b768a37",
@@ -15298,6 +15501,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "2d": true
+    },
+    {
+      "uuid": "d1293a3f-6569-5332-aa40-f731d2e16421",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾瑞克_艾宾浩斯",
+        "default": "cn"
+      },
       "2d": true
     },
     {
@@ -18312,6 +18533,24 @@
       "2d": true
     },
     {
+      "uuid": "476b66c4-9bd6-5246-8dc0-04a3d93abb75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "322210278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔魔マラ",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "a0e1863d-538e-590b-bab8-4eb377ab91d5",
       "type": "vtuber",
       "bot": false,
@@ -18542,6 +18781,29 @@
       "name": {
         "extra": [],
         "cn": "黑川幽梦",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "c5cb7aaf-5211-5be2-b310-5d481248a1e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "456368455",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "SpadeEcho",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑桃影",
         "default": "cn"
       },
       "2d": true
