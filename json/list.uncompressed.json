@@ -852,6 +852,18 @@
       "2d": true
     },
     {
+      "uuid": "8d3239cd-4811-570e-a968-7c582e46ead0",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "MZ次元",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
       "uuid": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
       "type": "group",
       "bot": false,
@@ -7132,6 +7144,25 @@
       "2d": true
     },
     {
+      "uuid": "bbcd2d63-36ea-5772-a91d-90cc290cbe9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474397341",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏盐",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
+      "2d": true
+    },
+    {
       "uuid": "a6aad021-a354-5b95-b932-ab2c1984414f",
       "type": "vtuber",
       "bot": false,
@@ -9072,6 +9103,7 @@
         "cn": "庞小莹",
         "default": "cn"
       },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "2d": true
     },
     {
@@ -11630,6 +11662,7 @@
         "cn": "江惠惠",
         "default": "cn"
       },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "2d": true
     },
     {
@@ -13108,6 +13141,24 @@
       "2d": true
     },
     {
+      "uuid": "cf6506f6-4d68-5150-b706-126088460804",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473764233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "田汐汐",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "396bdd6f-288b-5f7b-afb1-19ce9aa5492a",
       "type": "vtuber",
       "bot": false,
@@ -13876,6 +13927,24 @@
       "name": {
         "extra": [],
         "jp": "矢車りね",
+        "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "50e39db7-8c01-5e85-b74c-dfb5f78bdb44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "448193721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "矢車エリカ",
         "default": "jp"
       },
       "2d": true
@@ -15057,6 +15126,7 @@
         "cn": "纱霓",
         "default": "cn"
       },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "2d": true
     },
     {
@@ -16402,6 +16472,24 @@
       "2d": true
     },
     {
+      "uuid": "0b3b3328-c836-5959-86dd-ce99c697e262",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13795293",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "衫山浣",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "807cc4b5-660f-5eb6-84bd-7e833c8f6947",
       "type": "vtuber",
       "bot": false,
@@ -17592,8 +17680,9 @@
       ],
       "name": {
         "extra": [],
+        "cn": "陆婉莹",
         "jp": "陸婉瑩（リク・エンエイ）",
-        "default": "jp"
+        "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237",
       "2d": true
@@ -17624,6 +17713,25 @@
         "jp": "陽向ここみ",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "9a5afc73-67da-5917-a05a-9e255c11051b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "432759379",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雅凛",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "2d": true
     },
     {
