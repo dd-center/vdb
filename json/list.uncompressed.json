@@ -1206,6 +1206,24 @@
       "2d": true
     },
     {
+      "uuid": "0bd11968-e37c-50e1-b285-a22613211ac9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2655668",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "O2O男团",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "003565db-c2db-5968-ac49-b755c548a91b",
       "type": "vtuber",
       "bot": false,
@@ -1339,6 +1357,30 @@
         "default": "en"
       },
       "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+    },
+    {
+      "uuid": "e893bb76-13c2-5aac-8618-03cd64ad6cb0",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "Project Anti",
+        "default": "en"
+      },
+      "group": "e893bb76-13c2-5aac-8618-03cd64ad6cb0"
+    },
+    {
+      "uuid": "303f0327-99b2-5643-bbb6-23c48d2a613a",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "Project OvO",
+        "default": "en"
+      },
+      "group": "303f0327-99b2-5643-bbb6-23c48d2a613a"
     },
     {
       "uuid": "8706ff91-3bd2-5fe8-b3c8-eb8509cb0e13",
@@ -8259,6 +8301,7 @@
         "cn": "安红豆",
         "default": "cn"
       },
+      "group": "303f0327-99b2-5643-bbb6-23c48d2a613a",
       "2d": true
     },
     {
@@ -17959,7 +18002,8 @@
         "extra": [],
         "cn": "雨宫水希",
         "default": "cn"
-      }
+      },
+      "group": "e893bb76-13c2-5aac-8618-03cd64ad6cb0"
     },
     {
       "uuid": "f325924a-02f3-5c9f-9815-0c2b96f5adc4",
