@@ -23,6 +23,7 @@ const linkSyntax = {
   weibo: 'https://www.weibo.com/u/{id}',
   web: '{id}',
   facebook: 'https://www.facebook.com/{id}/',
+  email: '{id}',
 }
 
 module.exports = {
