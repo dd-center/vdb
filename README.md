@@ -1,5 +1,5 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 
 The Vitual Youtuber Name List Database.
 
@@ -159,6 +159,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/peng233163"><img src="https://avatars0.githubusercontent.com/u/38469578?v=4" width="72px;" alt="peng233163"/><br /><sub><b>peng233163</b></sub></a><br /><a href="#content-peng233163" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/bluboy-official"><img src="https://avatars2.githubusercontent.com/u/56422076?v=4" width="72px;" alt="bluboy-official"/><br /><sub><b>bluboy-official</b></sub></a><br /><a href="#content-bluboy-official" title="Content">🖋</a> <a href="https://github.com/dd-center/vdb/commits?author=bluboy-official" title="Code">💻</a></td>
   </tr>
 </table>
 
