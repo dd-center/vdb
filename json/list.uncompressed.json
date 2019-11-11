@@ -6927,6 +6927,23 @@
       }
     },
     {
+      "uuid": "bac6161b-154e-559d-81ad-1eeb3bb22098",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "490859",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡林卡",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "48aa61d8-d5da-5f96-828c-678d33d6a646",
       "type": "vtuber",
       "bot": false,
@@ -8404,6 +8421,29 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "5c49c25b-1f79-5990-ac6b-03854ba76c3e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6319323",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hanakohana",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "子花酱",
+        "en": "Hanako",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3391033e-22ba-5583-8f45-87a777d88c38",
