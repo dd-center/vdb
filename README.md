@@ -1,23 +1,23 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 
-The Vitual Youtuber Name List Database.
+The Virtual Youtuber Name List Database.
 
-We are looking forward to create a database with all vtubers.
+We are looking for creating a database containing all vtubers.
 
 ### Usage:
 
-json file can be download from: `https://vdb.vtbs.moe/json/list.json`, [https://vdb.vtbs.moe/json/list.json](https://vdb.vtbs.moe/json/list.json)
+JSON file can be downloaded from: `https://vdb.vtbs.moe/json/list.json`, [https://vdb.vtbs.moe/json/list.json](https://vdb.vtbs.moe/json/list.json)
 
-* `meta`: `Object` Metadata.
+* `meta`: `Object` Metadata. Tools for parsing information about each individual VTuber.
 
-  * `UUID_NAMESPACE`: (`String`) The UUID namespace, currently is `9e880107-dd14-4f7d-a04c-4b2bf8d9db7d`.
+  * `UUID_NAMESPACE`: (`String`) The UUID namespace, currently `9e880107-dd14-4f7d-a04c-4b2bf8d9db7d`.
 
-  * `linkSyntax`: (`Object`) by replace `{id}` with the `id` of the platform, it generates a url to the platform
+  * `linkSyntax`: (`Object`) A map of formatting strings, organized as `"platform":"formatting string"`. The formating strings contain substring `{id}`. By replacing `{id}` with the respective platform ID, a URL to his/her channel or profile on that plaform is generated.
+  
+    For example, A virtual youtuber has bilibili id `349991143` (i.e. `vtbs[].accounts[i].platform == "bilibili"` and  `vtbs[].accounts[i].id == "349991143"`. See `vtbs.accounts` below), and `linkSyntax.bilibili` is `https://space.bilibili.com/{id}`, So `https://space.bilibili.com/349991143` will be the url.
 
-    For example, bilibili id is `349991143`, where `linkSyntax.bilibili` is `https://space.bilibili.com/{id}`, So `https://space.bilibili.com/349991143` will be the url
-
-* `vtbs`: (`Array[Object]`) Contains all Vtuber
+* `vtbs`: (`Array[Object]`) Contains all Vtubers
 
   * `uuid`: (`String`) The uuid generated from the namecpace and file in `/vtbs` name
   * `type`: (`String`) Type, can be `vtuber`, `group` or `unknow`
@@ -65,7 +65,7 @@ uuid of each vtuber is generated with uuid v5 from the uuid namespace and the vt
 
 ### Contribution
 
-Node.js is required for some process
+Node.js is required for some processes
 
 if Node.js is installed, you can use `npm install` to install nessasery packages.
 
@@ -78,7 +78,7 @@ Add or edit files in `/vtbs`,
 
 `.json` format,
 
-if possable, run unit test by `npm test`.
+if possible, run unit test by `npm test`.
 
 #### Add/Update Social Media Platform linkSyntax
 
@@ -92,7 +92,7 @@ If there is error, there is a problem with files.
 
 #### Rewrite json files (Production)
 
-Make sure test pass!
+Make sure to pass all the tests!
 
 Use  `node generator.js`
 
