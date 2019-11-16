@@ -1,5 +1,5 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -163,6 +163,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/plzsjj"><img src="https://avatars0.githubusercontent.com/u/57520014?v=4" width="72px;" alt="plzsjj"/><br /><sub><b>plzsjj</b></sub></a><br /><a href="#content-plzsjj" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/eiji24"><img src="https://avatars0.githubusercontent.com/u/56234390?v=4" width="72px;" alt="eiji24"/><br /><sub><b>eiji24</b></sub></a><br /><a href="#content-eiji24" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/wdwsbn"><img src="https://avatars2.githubusercontent.com/u/42573860?v=4" width="72px;" alt="wdwsbn"/><br /><sub><b>wdwsbn</b></sub></a><br /><a href="#content-wdwsbn" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Metric-Void"><img src="https://avatars1.githubusercontent.com/u/21335640?v=4" width="72px;" alt="Zixi Lee"/><br /><sub><b>Zixi Lee</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=Metric-Void" title="Documentation">📖</a></td>
   </tr>
 </table>
 
