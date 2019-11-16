@@ -14267,7 +14267,7 @@
         "cn": "白璃",
         "default": "cn"
       },
-      "2d": true
+      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "c67fb562-22df-55d6-82f2-38be6b768a37",
@@ -18638,6 +18638,24 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "4b138881-e17e-530b-bab6-6f638db65bb0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "480988840",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "镜中仙-落",
+        "default": "cn"
+      },
+      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "36c44cb6-b90e-59bb-b03b-acba547c4236",
