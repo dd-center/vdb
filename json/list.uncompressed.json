@@ -16395,6 +16395,28 @@
       "2d": true
     },
     {
+      "uuid": "d4ac38e4-fefd-5dd0-8dad-8c92a698455c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "kurumiusach",
+          "type": "official",
+          "platform": "peing"
+        },
+        {
+          "id": "12497617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "胡桃うさ",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "b6333fe1-e920-5bb1-8d37-74fb9572771e",
       "type": "vtuber",
       "bot": false,
@@ -19862,6 +19884,24 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "f16b0d17-d8d0-5209-a5b8-74e3d00cc8d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "163917943",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔王酱",
+        "en": "Maou",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16203f69-f582-5a2a-ac00-40428abe204a",
