@@ -1003,6 +1003,23 @@
       }
     },
     {
+      "uuid": "322ffdfb-7e90-551d-aed9-527f59127c91",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4307809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MeAqua动画制作委员会",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d52fa3c7-4e92-597c-8315-1ce192e6bbb7",
       "type": "vtuber",
       "bot": false,
@@ -2357,6 +2374,34 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "5033b210-817c-54d5-8275-dbff83b40739",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "type": "relay",
+          "id": "2031109",
+          "platform": "bilibili"
+        },
+        {
+          "id": "emma_august_",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCl1oLKcAq93p-pwKfDGhiYQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "えま★おうがすと",
+        "cn": "我是艾玛.奥古斯特",
+        "default": "jp"
+      }
     },
     {
       "uuid": "bed99905-b527-5e18-a99a-5e850e03ae98",
@@ -7224,6 +7269,23 @@
       "2d": true
     },
     {
+      "uuid": "7d838000-e340-5734-b18f-3b479973edeb",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431210892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吹雪的猫咪茶铺",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3e09bdae-eb88-5a20-8dd5-28460a6a3348",
       "type": "vtuber",
       "bot": false,
@@ -7618,11 +7680,6 @@
           "platform": "bilibili"
         },
         {
-          "type": "relay",
-          "id": "420711844",
-          "platform": "bilibili"
-        },
-        {
           "id": "natsuiromatsuri",
           "type": "official",
           "platform": "twitter"
@@ -7640,6 +7697,45 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "61e9943e-ecb7-510a-b1bc-baf344e9cf19",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "418124907",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏色まつり工坊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5667b932-494f-5f6e-9087-fefa58253659",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "420711844",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hogokyoukai",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏色祭保護協会",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0968f8ab-1931-5f87-9592-2c7e794e1f27",
@@ -8034,6 +8130,23 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "a266b709-85ea-5c08-ad02-19ad5b3d05a7",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476869039",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大空家的荞麦面馆",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
@@ -10513,6 +10626,39 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "0dc709d4-3c77-5a89-9e58-67213aebd34d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "type": "relay",
+          "id": "410542957",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Sara_Hoshikawa",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC9V3Y3_uzU5e-usObb6IE1w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "sara_hoshi",
+          "type": "official",
+          "platform": "marshmallow"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "星川サラ",
+        "cn": "星川Sara",
+        "default": "jp"
+      }
     },
     {
       "uuid": "62c83d95-25e8-516c-8a76-69886613b338",
@@ -13021,6 +13167,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "f1e8f930-d364-5e6b-b577-7ccebc504a59",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3735586",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澪雀之森的神社",
+        "default": "cn"
+      }
     },
     {
       "uuid": "214769fd-270a-59fb-b3f3-33e6a23c0acd",
@@ -17708,6 +17871,23 @@
       "2d": true
     },
     {
+      "uuid": "b2024f6f-9188-5338-8dfc-cb602dab6cd7",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17384147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗音的魔法交流协会",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f198a457-8b81-5505-a41d-11c47025c007",
       "type": "vtuber",
       "bot": false,
@@ -19340,11 +19520,6 @@
         {
           "id": "403921378",
           "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "323590528",
-          "type": "relay",
           "platform": "bilibili"
         },
         {
