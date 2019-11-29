@@ -517,6 +517,25 @@
       "2d": true
     },
     {
+      "uuid": "e80c2518-3d9f-5628-83b6-057876f5b316",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "844122",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Diana",
+        "jp": "ディアナ",
+        "default": "en"
+      },
+      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
       "uuid": "70a6e7b1-b146-5470-a186-39085c45c7ad",
       "type": "group",
       "bot": false,
@@ -12833,6 +12852,23 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "02619b68-4f0c-55af-a2cc-be3d4915507b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "135980509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "永远酱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "90596d60-d10b-5f38-b67c-1c3d3775ac93",
