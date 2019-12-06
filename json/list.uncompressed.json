@@ -8606,6 +8606,29 @@
       "2d": true
     },
     {
+      "uuid": "5654028a-8742-53d6-8f39-9030dd606f5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "niki_123",
+          "type": "official",
+          "platform": "peing"
+        },
+        {
+          "id": "3035105",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈姬",
+        "en": "niki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "639fc206-99da-54e6-af27-029f2536ef2a",
       "type": "vtuber",
       "bot": false,
