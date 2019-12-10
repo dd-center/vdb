@@ -1,5 +1,5 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -166,6 +166,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Metric-Void"><img src="https://avatars1.githubusercontent.com/u/21335640?v=4" width="72px;" alt="Zixi Lee"/><br /><sub><b>Zixi Lee</b></sub></a><br /><a href="https://github.com/dd-center/vdb/commits?author=Metric-Void" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/zhuhy051"><img src="https://avatars0.githubusercontent.com/u/53340479?v=4" width="72px;" alt="zhuhy051"/><br /><sub><b>zhuhy051</b></sub></a><br /><a href="#content-zhuhy051" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ryouka-li"><img src="https://avatars0.githubusercontent.com/u/55954445?v=4" width="72px;" alt="ryouka-li"/><br /><sub><b>ryouka-li</b></sub></a><br /><a href="#content-ryouka-li" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/LoganHaiz"><img src="https://avatars0.githubusercontent.com/u/58725983?v=4" width="72px;" alt="LoganHaiz"/><br /><sub><b>LoganHaiz</b></sub></a><br /><a href="#content-LoganHaiz" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Tup0lev"><img src="https://avatars3.githubusercontent.com/u/23499230?v=4" width="72px;" alt="Tup0lev"/><br /><sub><b>Tup0lev</b></sub></a><br /><a href="#content-Tup0lev" title="Content">🖋</a></td>
   </tr>
 </table>
 
