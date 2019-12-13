@@ -5604,7 +5604,7 @@
         "cn": "乐喵",
         "default": "cn"
       },
-      "2d": true
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "12bb2fd2-40b5-5170-add2-e87994683c1e",
@@ -8890,7 +8890,7 @@
         "cn": "宇宙治",
         "default": "cn"
       },
-      "2d": true
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "9a13de15-39e9-58c8-a46b-5f488457e577",
@@ -10093,7 +10093,7 @@
         "cn": "幻梦喵",
         "default": "cn"
       },
-      "2d": true
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "d05c9085-748b-546e-b490-f0a7cd4cf987",
@@ -13089,6 +13089,23 @@
       "2d": true
     },
     {
+      "uuid": "4b3167b2-c1fc-5a5b-9e6b-7410d0d3b318",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33808887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沐凌",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "38bb59fe-522f-5819-a9a1-b86fdceed3d2",
       "type": "vtuber",
       "bot": false,
@@ -14718,7 +14735,7 @@
         "cn": "璃露Riru",
         "default": "cn"
       },
-      "2d": true
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "42dce4a6-52ee-5877-997e-10152e0f19d1",
@@ -17005,6 +17022,25 @@
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
+      "uuid": "dea5ec5f-a3cb-5269-9844-7f769999da74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "482911295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮良",
+        "en": "kira",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
       "uuid": "51f1c9ef-6562-5e49-a4a8-6a3f01564611",
       "type": "vtuber",
       "bot": false,
@@ -18833,6 +18869,18 @@
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
     },
     {
+      "uuid": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "超次元学院",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
       "uuid": "415736c3-d03d-5788-8811-d1bf26e8da42",
       "type": "vtuber",
       "bot": false,
@@ -19531,6 +19579,28 @@
       "2d": true
     },
     {
+      "uuid": "b1e318ee-8104-53d3-8206-603961083395",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "242323",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "1347029241",
+          "type": "official",
+          "platform": "weibo"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "钱二两",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "75b70f4d-873f-51e3-b0a5-92c4b0fd61ad",
       "type": "vtuber",
       "bot": false,
@@ -20116,6 +20186,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "688e84a7-73af-51e9-856b-1dbba5220d74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4430611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪莉",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "199b8c5c-273f-5871-8cdb-ba81e8489345",
