@@ -1,5 +1,5 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -170,6 +170,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/LoganHaiz"><img src="https://avatars0.githubusercontent.com/u/58725983?v=4" width="72px;" alt="LoganHaiz"/><br /><sub><b>LoganHaiz</b></sub></a><br /><a href="#content-LoganHaiz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Tup0lev"><img src="https://avatars3.githubusercontent.com/u/23499230?v=4" width="72px;" alt="Tup0lev"/><br /><sub><b>Tup0lev</b></sub></a><br /><a href="#content-Tup0lev" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/2333tracy"><img src="https://avatars3.githubusercontent.com/u/58852317?v=4" width="72px;" alt="2333tracy"/><br /><sub><b>2333tracy</b></sub></a><br /><a href="#content-2333tracy" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Muyisa1551"><img src="https://avatars2.githubusercontent.com/u/58797103?v=4" width="72px;" alt="Muyisa1551"/><br /><sub><b>Muyisa1551</b></sub></a><br /><a href="#content-Muyisa1551" title="Content">🖋</a></td>
   </tr>
 </table>
 
