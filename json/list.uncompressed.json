@@ -6733,7 +6733,7 @@
         "cn": "切茜娅",
         "default": "cn"
       },
-      "2d": true
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "4b6fe3a0-3ead-5e1e-b0f2-d4d5c7090199",
@@ -9357,7 +9357,7 @@
         "cn": "小伞一把",
         "default": "cn"
       },
-      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "eca06190-ac8b-5a33-9152-df14c46daa0c",
@@ -20910,6 +20910,24 @@
         "cn": "鬼畜千寻炎哈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "89359530-5a15-5358-821a-262d287812be",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "644443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔女公司",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "a77f5be0-a9a1-58d1-b89b-81ef657bce95",
