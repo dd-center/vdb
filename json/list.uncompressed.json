@@ -945,6 +945,36 @@
       "2d": true
     },
     {
+      "uuid": "a5c475b7-74ae-52a8-be0c-a73c5f10af8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "363072546",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCg8TPE5nLLOqlNnBivmQwww",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "MIYA_KIMINO",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Miya Kimino",
+        "en": "Miya Kimino",
+        "jp": "キミノミヤ",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
       "uuid": "9e84397b-a0d3-52ed-9673-f47ed1ef115e",
       "type": "vtuber",
       "bot": false,
@@ -2046,6 +2076,25 @@
         "extra": [],
         "jp": "duduluく",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "5ea96a28-de28-5c9c-abc8-544904b4681a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11073",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "hanser",
+        "en": "hanser",
+        "default": "cn"
       },
       "2d": true
     },
