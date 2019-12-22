@@ -67,7 +67,7 @@ uuid of each vtuber is generated with uuid v5 from the uuid namespace and the vt
 
 Node.js is required for some processes
 
-if Node.js is installed, you can use `npm install` to install nessasery packages.
+if Node.js is installed, you can use `npm install` to install necessary packages.
 
 * Fork it
 * Pull request
