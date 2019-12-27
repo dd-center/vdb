@@ -24,7 +24,8 @@
       "weibo": "https://www.weibo.com/u/{id}",
       "web": "{id}",
       "facebook": "https://www.facebook.com/{id}/",
-      "email": "{id}"
+      "email": "{id}",
+      "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     }
   },
   "vtbs": [
@@ -3124,6 +3125,11 @@
           "id": "6192AB0775AB99D8_500450",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "A026407",
+          "type": "official",
+          "platform": "jvcmusic"
         }
       ],
       "name": {
@@ -3827,6 +3833,28 @@
       "2d": true
     },
     {
+      "uuid": "dbc8da54-5ef8-5a49-b14a-fc8df63b8827",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "astelleda",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "アステル・レダ",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "49aa0d08-df16-5c4d-90df-ca7b1cd2caf3",
       "type": "vtuber",
       "bot": false,
@@ -3853,6 +3881,28 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "e22590bb-99e2-58f5-a495-b49482342b34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "arurandeisu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "アルランディス",
+        "default": "jp"
+      }
     },
     {
       "uuid": "1454c5b1-8a79-51ff-8209-1af3ecb81482",
@@ -8055,6 +8105,28 @@
       }
     },
     {
+      "uuid": "82023360-ee72-5728-b2da-2be5ec0c9050",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "yukokuroberu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夕刻ロベル",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "0968f8ab-1931-5f87-9592-2c7e794e1f27",
       "type": "vtuber",
       "bot": false,
@@ -8258,6 +8330,11 @@
           "id": "427061218",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "Yogiri_hololive",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -8672,6 +8749,28 @@
       "2d": true
     },
     {
+      "uuid": "862c8fad-2290-56be-8253-ec370e7ac901",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCZlDXzGoo7d44bwdNObFacg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "amanekanatach",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天音かなた",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "21ec33da-68bf-5772-8721-171a5ab74d81",
       "type": "vtuber",
       "bot": false,
@@ -8732,6 +8831,33 @@
       "2d": true
     },
     {
+      "uuid": "51af7628-5eee-58ee-be95-a890be15d6bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kanadeizuru",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kanadeizuru",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "奏手イヅル",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "c31b82dc-96b6-591c-a138-e674534b66a0",
       "type": "vtuber",
       "bot": false,
@@ -8784,6 +8910,28 @@
         "default": "cn"
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
+    },
+    {
+      "uuid": "7d6fb95b-008f-5c12-ae18-bb59718bc9fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "himemoriluna",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "姫森ルーナ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "0569ef7b-ade4-588a-ba84-dd3bfb0e2335",
@@ -9910,6 +10058,28 @@
       "group": "71567c9a-f24f-5829-877c-aad4d77ff08e"
     },
     {
+      "uuid": "36f19f32-4204-5a38-963e-61c03dacd148",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCGNI4MENvnsymYjKiZwv9eg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kishidotemma",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "岸堂天真",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "4d3bfa70-2ee0-55eb-8243-7ab97cf77823",
       "type": "vtuber",
       "bot": false,
@@ -10026,6 +10196,11 @@
           "id": "civia_hololive",
           "type": "official",
           "platform": "marshmallow"
+        },
+        {
+          "id": "Civia_Hololive",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -10035,6 +10210,28 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "72adda03-eef7-524c-8640-34b413e37a7c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC1uv2Oq6kNxgATlCiez59hw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "tokoyamitowa",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "常闇トワ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "4bdc6dd0-3a91-503e-8ad8-2b4630faffd0",
@@ -10365,6 +10562,28 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "11a219db-b2d9-5418-9d16-3913b4486d29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "rikkaroid",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "律可",
+        "default": "jp"
+      }
     },
     {
       "uuid": "5c6631b1-3238-5d72-bf1c-f30ea8b8e579",
@@ -11341,6 +11560,8 @@
       "name": {
         "extra": [],
         "jp": "星街すいせい",
+        "cn": "星街彗星",
+        "en": "Hoshimati Suisei",
         "default": "jp"
       },
       "2d": true
@@ -11566,6 +11787,24 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "578803da-f72c-5722-96d9-c7b134bd7fe4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486455232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曼德萝草",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "9ebf337d-e2cc-5635-9deb-47d1c7a92cfe",
@@ -12445,6 +12684,28 @@
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
     },
     {
+      "uuid": "5e743f83-a00e-5554-b57c-818d4655b9e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCS9uQI-jC3DE0L4IpXyvr6w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kiryucoco",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "桐生ココ",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "dc487907-1371-50f7-966f-7c169fad513c",
       "type": "vtuber",
       "bot": false,
@@ -12614,6 +12875,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "5b6de2f9-b93e-5a8a-917f-6444d7029c08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "223133732",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椎名真绪",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "3ad9042e-2002-53b7-bef4-e077388a753f",
@@ -17764,6 +18043,28 @@
       "2d": true
     },
     {
+      "uuid": "e941e97c-7d01-583b-8075-137e54a38273",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "miyabihanasaki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "花咲みやび",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "20a5677a-d06d-596c-887f-206af802970c",
       "type": "vtuber",
       "bot": false,
@@ -18512,6 +18813,28 @@
       "group": "e85f1e0a-82b5-532f-beac-5bff83b7b905"
     },
     {
+      "uuid": "9a52b9c4-d1f5-5d5c-9939-c3df2203f854",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "yakushijisuzaku",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "薬師寺朱雀",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "fe362959-20e1-5052-9b1c-26ef2e67237e",
       "type": "vtuber",
       "bot": false,
@@ -18680,6 +19003,28 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "3d11830c-638c-57a8-9940-9fdd74317f79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "tsunomakiwatame",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "角巻わため",
+        "default": "jp"
+      }
     },
     {
       "uuid": "0163c184-6875-5fb8-a4da-f6c5f1537efc",
@@ -19657,6 +20002,28 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "70173466-73d1-580b-af96-b1adf61dbac8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCEzsociuFqVwgZuMaZqaCsg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kagamikirach",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鏡見キラ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "eb1bf254-eb24-57a4-9281-d3c241cd8b6b",
@@ -21446,6 +21813,11 @@
           "id": "SpadeEcho",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "spadeecho",
+          "type": "official",
+          "platform": "marshmallow"
         }
       ],
       "name": {
