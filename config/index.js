@@ -24,6 +24,7 @@ const linkSyntax = {
   web: '{id}',
   facebook: 'https://www.facebook.com/{id}/',
   email: '{id}',
+  jvcmusic: 'https://www.jvcmusic.co.jp/-/Artist/{id}.html',
 }
 
 module.exports = {
