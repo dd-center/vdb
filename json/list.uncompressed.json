@@ -700,6 +700,7 @@
         "en": "Fulsilia",
         "default": "cn"
       },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6",
       "2d": true
     },
     {
@@ -1829,6 +1830,18 @@
       "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
     },
     {
+      "uuid": "093738a6-1f21-5910-86d3-2a00c029afd6",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "Tourist-V",
+        "default": "en"
+      },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
+    },
+    {
       "uuid": "852cbe7e-95b1-5301-871b-25a53a8da777",
       "type": "group",
       "bot": false,
@@ -2247,6 +2260,26 @@
         "jp": "lov",
         "default": "jp"
       },
+      "2d": true
+    },
+    {
+      "uuid": "0342a9e1-acc2-5895-b840-3bcd612d9899",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478503581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵年",
+        "en": "nyanon",
+        "default": "cn"
+      },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6",
       "2d": true
     },
     {
@@ -16322,6 +16355,7 @@
         "cn": "神崎 綾",
         "default": "cn"
       },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6",
       "2d": true
     },
     {
