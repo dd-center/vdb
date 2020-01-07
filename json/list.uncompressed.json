@@ -168,6 +168,38 @@
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
+      "uuid": "34ced28e-3c06-5559-8f56-b6183e14db86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "446536",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "1248744",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "1954064545",
+          "type": "official",
+          "platform": "weibo"
+        },
+        {
+          "id": "aosuneo",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "AO",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "62fc9e85-c05f-5f1f-ac98-fcf364b47676",
       "type": "vtuber",
       "bot": false,
@@ -2301,6 +2333,25 @@
       "2d": true
     },
     {
+      "uuid": "aa09cd85-e7b9-5e3c-93e7-4c32f3dd6b6f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1722094",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "po芽那",
+        "en": "poyana",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "147616dd-790e-5054-905c-e918b9798bb0",
       "type": "group",
       "bot": false,
@@ -2376,6 +2427,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "f5f80a59-4295-53de-a2ca-ba2d536901eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1380973",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "yfk2012",
+        "default": "en"
+      }
     },
     {
       "uuid": "79ed035d-c255-592a-ba68-7e7dd47d617b",
@@ -5409,6 +5477,34 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "2d": true
+    },
+    {
+      "uuid": "2d7e5b1a-92e8-5635-b4ac-f0b974ed1a91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353361863",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NanaseUnia",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "unia",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七濑",
+        "en": "Unia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "504073f8-5387-5a85-a2af-2c7663fe771a",
@@ -14489,6 +14585,11 @@
           "id": "5701322",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "476813998",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -18452,6 +18553,23 @@
       "2d": true
     },
     {
+      "uuid": "367d58c8-7d99-5d7b-8fb0-028db32bd55d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1803236",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茗魂",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7812f645-e4fe-51d1-9f5e-885e787d4a6d",
       "type": "vtuber",
       "bot": false,
@@ -19030,6 +19148,23 @@
       "group": "e85f1e0a-82b5-532f-beac-5bff83b7b905"
     },
     {
+      "uuid": "0e0cc08a-91fc-53a3-9bfb-91a93545eaae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3387887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "血色星辰",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0b3b3328-c836-5959-86dd-ce99c697e262",
       "type": "vtuber",
       "bot": false,
@@ -19199,6 +19334,23 @@
       "name": {
         "extra": [],
         "cn": "诗音的魔法交流协会",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e1fcf837-77c9-57f3-88ef-324b1258a3ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4097824",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆沙包",
         "default": "cn"
       }
     },
