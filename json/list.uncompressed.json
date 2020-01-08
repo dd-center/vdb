@@ -586,6 +586,18 @@
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
+      "uuid": "f2206359-f293-5021-9030-fde29ad68bb2",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "DreamHorizon",
+        "default": "en"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
       "uuid": "70a6e7b1-b146-5470-a186-39085c45c7ad",
       "type": "group",
       "bot": false,
@@ -4392,6 +4404,23 @@
       "2d": true
     },
     {
+      "uuid": "f2381bc5-1bbb-526d-8f66-041fab39f208",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "418344164",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ココ双语分离研究所",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "type": "group",
       "bot": false,
@@ -5657,6 +5686,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "7483d3bf-df46-5ad1-bf18-53e902430db1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12261171",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上官紫宸",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
       "uuid": "948ae126-061d-5245-a280-82423b5a5b7b",
@@ -7877,6 +7924,24 @@
       "2d": true
     },
     {
+      "uuid": "34bced6f-e858-5d2f-af4e-7cee545073cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4649971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咲斯卡",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
       "uuid": "47e50bf8-2fdc-5b32-90ba-a0de9dea981a",
       "type": "vtuber",
       "bot": false,
@@ -8786,6 +8851,23 @@
       }
     },
     {
+      "uuid": "85fed3db-213e-581e-a2cf-86e89d5f7819",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "492392625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天界偶像研究社",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "dcab9cde-3e31-5f90-8ca1-854d87830fc3",
       "type": "vtuber",
       "bot": false,
@@ -9122,6 +9204,23 @@
       }
     },
     {
+      "uuid": "313cc129-27e9-52e8-9472-14fde8621125",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "491936458",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姫森璐娜的月骑团",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0569ef7b-ade4-588a-ba84-dd3bfb0e2335",
       "type": "vtuber",
       "bot": false,
@@ -9372,6 +9471,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "0e64ae06-1304-5226-a943-08f05f80f705",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2285816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "守矢葵",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
       "uuid": "80908b90-43bf-5721-997d-f8174d8fbfb5",
@@ -10398,6 +10515,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "bc34c674-8a32-5d5d-a034-bb07139633fb",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "491936452",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "常暗永远大人眷属协会",
+        "default": "cn"
+      }
     },
     {
       "uuid": "72adda03-eef7-524c-8640-34b413e37a7c",
@@ -11755,6 +11889,30 @@
       "2d": true
     },
     {
+      "uuid": "2a2c7b9b-2f50-5b56-ad94-2561613b3cca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "579223",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yutoofficial",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星语游兔",
+        "jp": "ゆうと",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
       "uuid": "8f769094-5619-5057-81a9-9ee3484e4d9b",
       "type": "vtuber",
       "bot": false,
@@ -12577,6 +12735,29 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "7d25f418-c7eb-56ed-b447-b49510073be6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3502889",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "5828912a562832",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枫间樱华",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
       "uuid": "775db1e2-12db-5c22-a815-7eaeb42484c8",
@@ -19183,6 +19364,23 @@
       "2d": true
     },
     {
+      "uuid": "7a89cf79-3b27-5e6a-8f76-f7b8094326a8",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "492383757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "被可可四代目保护协会",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "807cc4b5-660f-5eb6-84bd-7e833c8f6947",
       "type": "vtuber",
       "bot": false,
@@ -19232,6 +19430,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "1397fab2-be3d-58a1-a864-c8144ab47f5e",
+      "type": "fan",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "490441866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "角卷绵芽保护协会",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3d11830c-638c-57a8-9940-9fdd74317f79",
@@ -19336,6 +19551,24 @@
         "cn": "诗音的魔法交流协会",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "58712ed1-1759-5f13-a0c1-b116ac990000",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "440141829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "谭姆-克萝丝",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
       "uuid": "e1fcf837-77c9-57f3-88ef-324b1258a3ac",
@@ -19587,6 +19820,24 @@
         "default": "cn"
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
+      "uuid": "4e01431c-e5cf-59df-b067-78b2c4bf6576",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8161250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路丠",
+        "default": "cn"
+      },
+      "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
       "uuid": "415736c3-d03d-5788-8811-d1bf26e8da42",
