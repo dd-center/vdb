@@ -1,19 +1,30 @@
+const neverSubmit = {
+  bilibili: ['21882176'],
+}
+
 module.exports = ({ vtbs }) => {
-  let errors = []
-  let knowAccounts = {}
+  const errors = []
+  const knowAccounts = {}
+  const reportError = ({ platform, id, name }) => txt => errors.push(`${Object.values(name)[1]}, ${txt}: ${platform}, ${id}`)
   vtbs
     .forEach(({ accounts, name }) => accounts.forEach(({ id, platform, type }) => {
+      const reporter = reportError({ name, id, platform })
       if (!id) {
-        errors.push(`${Object.values(name)[1]}, false Account: ${platform}, ${id}`)
+        reporter('false Account')
       }
       if (!knowAccounts[platform]) {
         knowAccounts[platform] = {}
       }
       if (type === 'official') {
         if (knowAccounts[platform][id]) {
-          errors.push(`${Object.values(name)[1]}, Duplicate Official Account: ${platform}, ${id}`)
+          reporter('Duplicate Official Account')
         }
         knowAccounts[platform][id] = true
+      }
+
+      const neverSubmitList = neverSubmit[platform] || []
+      if (neverSubmitList.includes(id)) {
+        reporter('Never Submit')
       }
     }))
   return errors
