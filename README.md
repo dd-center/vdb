@@ -1,5 +1,5 @@
 # VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -175,6 +175,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/doufubao0401"><img src="https://avatars2.githubusercontent.com/u/59215274?v=4" width="72px;" alt="doufubao0401"/><br /><sub><b>doufubao0401</b></sub></a><br /><a href="#content-doufubao0401" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/SaigusaTomato"><img src="https://avatars2.githubusercontent.com/u/7696112?v=4" width="72px;" alt="SaigusaTomato"/><br /><sub><b>SaigusaTomato</b></sub></a><br /><a href="#content-SaigusaTomato" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/qq542065853"><img src="https://avatars3.githubusercontent.com/u/59370820?v=4" width="72px;" alt="qq542065853"/><br /><sub><b>qq542065853</b></sub></a><br /><a href="#content-qq542065853" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.8mi.tech"><img src="https://avatars3.githubusercontent.com/u/25455400?v=4" width="72px;" alt="8Mi_Yile"/><br /><sub><b>8Mi_Yile</b></sub></a><br /><a href="#content-8MiYile" title="Content">🖋</a></td>
   </tr>
 </table>
 
