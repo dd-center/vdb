@@ -47,18 +47,20 @@ readFile('pending.txt')
       }
 
       if (cmd === 'a') {
-        const [platform, id] = params
-        if (!vtb.accounts) {
-          vtb.accounts = {}
-        }
-        if (!vtb.accounts[platform]) {
-          vtb.accounts[platform] = id
-        } else {
-          if (typeof vtb.accounts[platform] === 'string') {
-            vtb.accounts[platform] = [vtb.accounts[platform]]
+        const [platform, ...ids] = params
+        ids.forEach(id => {
+          if (!vtb.accounts) {
+            vtb.accounts = {}
           }
-          vtb.accounts[platform].push(id)
-        }
+          if (!vtb.accounts[platform]) {
+            vtb.accounts[platform] = id
+          } else {
+            if (typeof vtb.accounts[platform] === 'string') {
+              vtb.accounts[platform] = [vtb.accounts[platform]]
+            }
+            vtb.accounts[platform].push(id)
+          }
+        })
       }
 
       if (cmd === 'c') {
