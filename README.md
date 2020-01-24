@@ -1,4 +1,4 @@
-# VTuber Database [![Test Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/) [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CD/badge.svg)](https://github.com/dd-center/vdb/)
+# VTuber Database [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
