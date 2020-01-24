@@ -1,7 +1,5 @@
 const { promises: { writeFile, readFile } } = require('fs')
-const { spawnSync } = require('child_process')
-
-const log = (...params) => () => console.log(...params)
+const { spawn } = require('child_process')
 
 readFile('pending.txt')
   .then(String)
@@ -24,10 +22,11 @@ readFile('pending.txt')
       .map(param => param.trim())
       .filter(Boolean),
     ])
-    .reduce(({ vtb = {}, filename } = {}, [cmd, params]) => {
+    .reduce(async (p, [cmd, params]) => {
+      let { vtb = {}, filename } = await p || {}
       if (cmd === 'w') {
-        writeFile(`vtbs/${filename}`, JSON.stringify(vtb, undefined, 2))
-          .then(log(filename))
+        await writeFile(`vtbs/${filename}`, JSON.stringify(vtb, undefined, 2))
+        console.log(filename)
         return undefined
       }
 
@@ -64,9 +63,10 @@ readFile('pending.txt')
 
       if (cmd === 'c') {
         const [username] = params
-        spawnSync('all-contributors', ['add', username, 'content'])
+        await spawn('all-contributors', ['add', username, 'content'])
+        console.log(username)
       }
 
       return { vtb, filename }
-    }, {})
+    }, Promise.resolve())
   )
