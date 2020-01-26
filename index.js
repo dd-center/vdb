@@ -1,12 +1,14 @@
 const uuidv5 = require('uuid/v5')
-
+const spawn = require('cross-spawn')
 const { readdir } = require('fs').promises
 const { UUID_NAMESPACE, linkSyntax } = require('./config')
+
+const timestamp = parseInt(spawn.sync('git log -1 --format="%ct"').stdout.toString().trim())
 
 module.exports = readdir('vtbs')
   .then(dir => {
     return {
-      meta: { UUID_NAMESPACE, linkSyntax },
+      meta: { UUID_NAMESPACE, linkSyntax, timestamp },
       vtbs: dir.map(file => file.replace('.json', ''))
         .map(name => ({ uuid: uuidv5(name, UUID_NAMESPACE), object: require(`./vtbs/${name}`) }))
         .map(({ uuid, object }) => ({ uuid, object: { ...object, name: Object.entries(object.name || {}) } }))
