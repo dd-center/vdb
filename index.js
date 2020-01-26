@@ -3,9 +3,13 @@ const spawn = require('cross-spawn')
 const { readdir } = require('fs').promises
 const { UUID_NAMESPACE, linkSyntax } = require('./config')
 
-console.log(spawn.sync('git log -1 --format="%ct"'))
+console.log(spawn.sync('git', ['log', '-1', '--format="%ct"'], {
+  cwd: process.cwd(),
+}))
 
-const timestamp = parseInt(spawn.sync('git log -1 --format="%ct"').stdout.toString().trim())
+const timestamp = parseInt(spawn.sync('git', ['log', '-1', '--format="%ct"'], {
+  cwd: process.cwd(),
+}).stdout.toString().trim())
 
 module.exports = readdir('vtbs')
   .then(dir => {
