@@ -9381,7 +9381,8 @@
         "cn": "奈姬",
         "en": "niki",
         "default": "cn"
-      }
+      },
+      "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f"
     },
     {
       "uuid": "639fc206-99da-54e6-af27-029f2536ef2a",
@@ -17160,6 +17161,24 @@
       "2d": true
     },
     {
+      "uuid": "6fce1fa4-4b0b-5326-aa63-831540ed7fc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488232269",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠目直木",
+        "default": "cn"
+      },
+      "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f"
+    },
+    {
       "uuid": "09672279-b908-5069-80f9-a9b5db75a77d",
       "type": "vtuber",
       "bot": false,
@@ -20167,6 +20186,25 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "5ddf9206-172f-5160-aa7e-78c154b3d4fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494623619",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜柑",
+        "en": "mikan",
+        "default": "cn"
+      },
+      "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f"
     },
     {
       "uuid": "5627cc41-3057-558f-978c-16d731d29a2b",
