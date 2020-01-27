@@ -4,8 +4,9 @@ const { readdir } = require('fs').promises
 const { UUID_NAMESPACE, linkSyntax } = require('./config')
 
 const cwd = process.cwd()
-const { stdout } = spawn.sync('git', ['log', '-1', '--format="%ct"'], { cwd })
-const timestamp = parseInt(stdout.toString().trim())
+const child = spawn.sync('git', ['log', '-1', '--format="%ct"'], { cwd })
+console.log(child)
+const timestamp = parseInt(child.stdout.toString().trim())
 
 module.exports = readdir('vtbs')
   .then(dir => {
