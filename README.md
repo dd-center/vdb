@@ -17,8 +17,6 @@ JSON file can be downloaded from: `https://vdb.vtbs.moe/json/list.json`, [https:
   
     For example, A virtual youtuber has bilibili id `349991143` (i.e. `vtbs[].accounts[i].platform == "bilibili"` and  `vtbs[].accounts[i].id == "349991143"`. See `vtbs.accounts` below), and `linkSyntax.bilibili` is `https://space.bilibili.com/{id}`, So `https://space.bilibili.com/349991143` will be the url.
 
-  * `timestamp`: (`Number`) Latest committer date, UNIX timestamp
-
 * `vtbs`: (`Array[Object]`) Contains all Vtubers
 
   * `uuid`: (`String`) The uuid generated from the namecpace and file in `/vtbs` name
