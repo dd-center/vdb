@@ -26,8 +26,7 @@
       "facebook": "https://www.facebook.com/{id}/",
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
-    },
-    "timestamp": null
+    }
   },
   "vtbs": [
     {
@@ -10521,6 +10520,23 @@
       "name": {
         "extra": [],
         "cn": "少司幽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3cb11a4e-7875-5e24-a337-6716d7dbf1b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "少年Pi",
         "default": "cn"
       }
     },
