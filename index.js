@@ -1,5 +1,4 @@
 const uuidv5 = require('uuid/v5')
-
 const { readdir } = require('fs').promises
 const { UUID_NAMESPACE, linkSyntax } = require('./config')
 
