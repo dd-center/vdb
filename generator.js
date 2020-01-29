@@ -1,10 +1,6 @@
 const { readFile, writeFile, readdir, unlink } = require('fs').promises
 const { join } = require('path')
 const { GitProcess } = require('dugite')
-GitProcess.exec(['log', '-1', '--format="%ct"'], process.cwd()).then(w => {
-  const { stdout } = w
-  console.log(Number(stdout.replace(/"/g, '')))
-})
 
 readdir('vtbs')
   .then(async dirs => dirs
@@ -30,6 +26,12 @@ readdir('vtbs')
     return { meta: { ...meta, timestamp }, ...rest }
   })
   .then(async e => {
-    await writeFile('json/list.json', JSON.stringify(e))
-    await writeFile('json/list.uncompressed.json', JSON.stringify(e, undefined, 2))
+    const { stdout } = await GitProcess.exec(['log', '-1', '--format="%cn"'], process.cwd())
+    const committerName = stdout.replace(/"/g, '').trim()
+    if (committerName !== 'nanashi') {
+      await writeFile('json/list.json', JSON.stringify(e))
+      await writeFile('json/list.uncompressed.json', JSON.stringify(e, undefined, 2))
+    } else {
+      console.log('Oh!')
+    }
   })
