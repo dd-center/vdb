@@ -27,7 +27,7 @@
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     },
-    "timestamp": 1580337975
+    "timestamp": 1580399391
   },
   "vtbs": [
     {
@@ -18050,6 +18050,23 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "77b19c83-7c03-5045-a1e3-3d88ee8c5a70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476676325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米蕾優",
+        "default": "cn"
+      }
     },
     {
       "uuid": "045e48b5-5279-5668-90f2-acc26573c100",
