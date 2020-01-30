@@ -27,7 +27,7 @@
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     },
-    "timestamp": 1580399391
+    "timestamp": 1580420279
   },
   "vtbs": [
     {
@@ -12388,6 +12388,24 @@
       }
     },
     {
+      "uuid": "d9c8fba9-8f63-5d46-a0cf-2692fe4faa6e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1700332",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野飛鳥",
+        "default": "cn"
+      },
+      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
       "uuid": "58102aad-a94e-5793-ab55-394b1abee84e",
       "type": "vtuber",
       "bot": false,
@@ -13099,6 +13117,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "ab9a0cc9-6b74-566e-a134-ffb9a40092dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2424614",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "机智的破晓",
+        "default": "cn"
+      },
+      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
       "uuid": "53ba8d10-b657-5232-8a93-ea2373f709c9",
@@ -18612,24 +18648,6 @@
       }
     },
     {
-      "uuid": "5a47a6fa-8904-5bb7-8344-6dbf33519b4b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "49441966",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "绘樱",
-        "default": "cn"
-      },
-      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
-    },
-    {
       "uuid": "1cb4d374-003c-5a3d-93ce-0b115e01c379",
       "type": "vtuber",
       "bot": false,
@@ -19664,6 +19682,24 @@
       "2d": true
     },
     {
+      "uuid": "511c46ed-a7a8-536b-b1c8-f688927f55fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "191225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "英梨杰布hammer",
+        "default": "cn"
+      },
+      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
       "uuid": "367d58c8-7d99-5d7b-8fb0-028db32bd55d",
       "type": "vtuber",
       "bot": false,
@@ -19874,6 +19910,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "65c4b451-5adb-5d6b-a078-eeaf75a2f572",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49441966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲林萨库娅",
+        "default": "cn"
+      },
+      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
       "uuid": "1e605379-5e56-5a39-88f3-e86af761fdac",
