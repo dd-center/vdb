@@ -27,7 +27,7 @@
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     },
-    "timestamp": 1581285543
+    "timestamp": 1581287240
   },
   "vtbs": [
     {
@@ -10057,6 +10057,23 @@
       "2d": true
     },
     {
+      "uuid": "58fc0f8e-898a-5b16-8eee-095ee28ece4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1319467",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫本夏凌",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b4cfde37-d8cf-518e-882a-cbdd6157b205",
       "type": "vtuber",
       "bot": false,
@@ -16614,6 +16631,23 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "2dadeff6-1ad1-508c-ba5c-732f4f10bb21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1516482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白桃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "42a0273c-0047-529b-90fc-750eac0c73f6",
