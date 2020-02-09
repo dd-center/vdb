@@ -27,7 +27,7 @@
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     },
-    "timestamp": 1581287240
+    "timestamp": 1581287324
   },
   "vtbs": [
     {
@@ -19342,6 +19342,24 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "a734eb4f-c2dd-5b8d-a0ed-e96d44f437bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "891292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙兰狐",
+        "default": "cn"
+      },
+      "group": "5738c8e4-809a-5396-b107-81261d6a3907"
     },
     {
       "uuid": "9ce6876a-55f8-5a8f-86aa-513e5103a243",
