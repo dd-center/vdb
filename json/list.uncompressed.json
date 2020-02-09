@@ -27,7 +27,7 @@
       "email": "{id}",
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
     },
-    "timestamp": 1580420279
+    "timestamp": 1581285543
   },
   "vtbs": [
     {
@@ -2001,6 +2001,11 @@
           "id": "ViViD_virtual",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "vividnia",
+          "type": "official",
+          "platform": "booth"
         },
         {
           "type": "relay",
@@ -15192,6 +15197,23 @@
       "2d": true
     },
     {
+      "uuid": "ae6e2d58-2473-5e7e-9a6d-61cb451ad67f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1800150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "烤鱼",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "502bb1fb-5c01-57f7-bf63-315903559483",
       "type": "vtuber",
       "bot": false,
@@ -15881,6 +15903,11 @@
       "bot": false,
       "accounts": [
         {
+          "id": "487550002",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
           "id": "UCflNPJUJ4VQh1hGDNK7bsFg",
           "type": "official",
           "platform": "youtube"
@@ -15894,6 +15921,11 @@
           "id": "FD9EFDF0FF094A1E_34c55f",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "34316241",
+          "type": "official",
+          "platform": "pixiv"
         }
       ],
       "name": {
@@ -15901,8 +15933,7 @@
         "jp": "猫芒ベル",
         "default": "jp"
       },
-      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
-      "2d": true
+      "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b"
     },
     {
       "uuid": "2680e39e-6420-5259-a901-5f55511fba18",
@@ -18273,6 +18304,35 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "d9b5c65f-597f-57ef-a46e-10b5afc8ae89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5570510",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "zigong",
+          "type": "official",
+          "platform": "peing"
+        },
+        {
+          "id": "zigonglive@qq.com",
+          "type": "official",
+          "platform": "email"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫宮",
+        "en": "Shimiya",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "4341fa1c-a3c6-5233-a0f5-4d5d99ce9d0c",
@@ -23811,6 +23871,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "31310e50-2dd5-56c6-b584-7bc03feaaac8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1420223",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "龙包包",
+        "default": "cn"
+      }
     }
   ]
 }
