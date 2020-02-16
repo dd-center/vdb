@@ -25,9 +25,10 @@
       "web": "{id}",
       "facebook": "https://www.facebook.com/{id}/",
       "email": "{id}",
-      "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html"
+      "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html",
+      "telegram": "https://t.me/${id}"
     },
-    "timestamp": 1581287324
+    "timestamp": 1581538464
   },
   "vtbs": [
     {
@@ -23385,6 +23386,39 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "a888191f-c05f-5eb7-9a54-063dde48c47c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2450927",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCC12ijOcPxnRSQPLvjWYXUg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "TsukasaRia",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "tsukasaria",
+          "type": "official",
+          "platform": "telegram"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鶴傘リア",
+        "en": "tsukasa ria",
+        "default": "jp"
+      }
     },
     {
       "uuid": "38570076-9f40-57ee-877d-43cc1c326571",
