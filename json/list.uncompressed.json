@@ -28,7 +28,7 @@
       "jvcmusic": "https://www.jvcmusic.co.jp/-/Artist/{id}.html",
       "telegram": "https://t.me/${id}"
     },
-    "timestamp": 1581538464
+    "timestamp": 1581814989
   },
   "vtbs": [
     {
@@ -21147,6 +21147,23 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "16b531a8-4b06-53ba-8ad1-14c1f1d86c43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "545511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "速冻猫犊子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d30d4ba6-5211-59ba-8ca8-e8edb46841af",
