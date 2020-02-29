@@ -6,9 +6,10 @@
     "refresh": "node refresh"
   },
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^7.0.1"
   },
   "devDependencies": {
+    "@types/uuid": "^7.0.0",
     "dugite": "^1.88.0",
     "got": "^10.0.1",
     "inquirer": "^7.0.0"
