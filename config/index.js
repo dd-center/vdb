@@ -25,7 +25,9 @@ const linkSyntax = {
   facebook: 'https://www.facebook.com/{id}/',
   email: '{id}',
   jvcmusic: 'https://www.jvcmusic.co.jp/-/Artist/{id}.html',
-  telegram: 'https://t.me/${id}',
+  telegram: 'https://t.me/{id}',
+  patreon: 'https://www.patreon.com/{id}',
+  teespring: 'https://teespring.com/stores/{id}',
 }
 
 module.exports = {
