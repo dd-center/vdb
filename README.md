@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-65-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -188,6 +188,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/SaigyoujiKonpaku"><img src="https://avatars1.githubusercontent.com/u/20887709?v=4" width="72px;" alt="SaigyoujiKonpaku"/><br /><sub><b>SaigyoujiKonpaku</b></sub></a><br /><a href="#content-SaigyoujiKonpaku" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/1126441811"><img src="https://avatars1.githubusercontent.com/u/60805082?v=4" width="72px;" alt="1126441811"/><br /><sub><b>1126441811</b></sub></a><br /><a href="#content-1126441811" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/MPIQI"><img src="https://avatars2.githubusercontent.com/u/60180005?v=4" width="72px;" alt="MPIQI"/><br /><sub><b>MPIQI</b></sub></a><br /><a href="#content-MPIQI" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SuzumeRei"><img src="https://avatars1.githubusercontent.com/u/61557469?v=4" width="72px;" alt="SuzumeRei"/><br /><sub><b>SuzumeRei</b></sub></a><br /><a href="#content-SuzumeRei" title="Content">🖋</a></td>
   </tr>
 </table>
 
