@@ -28,6 +28,7 @@ const linkSyntax = {
   telegram: 'https://t.me/{id}',
   patreon: 'https://www.patreon.com/{id}',
   teespring: 'https://teespring.com/stores/{id}',
+  popiask: 'https://www.popiask.cn/{id}',
 }
 
 module.exports = {
