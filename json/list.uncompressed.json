@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1583243195
+    "timestamp": 1583243841
   },
   "vtbs": [
     {
@@ -16102,34 +16102,6 @@
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
-      "uuid": "be6436d5-5120-5a2d-8f43-2e972763b4f8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCt0-W53G4AecsFCg-P2ujgA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "Mia31_sing",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "32166778",
-          "type": "relay",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "猫耳銀髪少女",
-        "default": "jp"
-      },
-      "2d": true
-    },
-    {
       "uuid": "d823b874-9c50-5e25-9247-050fa7a527b1",
       "type": "vtuber",
       "bot": false,
@@ -19855,34 +19827,6 @@
         "extra": [],
         "cn": "花山妮娅_花山拿",
         "default": "cn"
-      },
-      "2d": true
-    },
-    {
-      "uuid": "f8874187-4a7b-59ba-9b72-66d27eb8388f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCtzZEx6zvmZuMqvn0M2P9cA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "hanamachisumire",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "32166778",
-          "type": "relay",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "花町すみれ",
-        "default": "jp"
       },
       "2d": true
     },
