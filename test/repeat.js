@@ -15,12 +15,10 @@ module.exports = ({ vtbs }) => {
       if (!knowAccounts[platform]) {
         knowAccounts[platform] = {}
       }
-      if (type === 'official') {
-        if (knowAccounts[platform][id]) {
-          reporter('Duplicate Official Account')
-        }
-        knowAccounts[platform][id] = true
+      if (knowAccounts[platform][id]) {
+        reporter('Duplicated Account')
       }
+      knowAccounts[platform][id] = true
 
       const neverSubmitList = neverSubmit[platform] || []
       if (neverSubmitList.includes(id)) {
