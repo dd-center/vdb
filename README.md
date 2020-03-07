@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -195,6 +195,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Hakuchuu"><img src="https://avatars2.githubusercontent.com/u/61411428?v=4" width="72px;" alt="Hakuchuu"/><br /><sub><b>Hakuchuu</b></sub></a><br /><a href="#content-Hakuchuu" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ATKghost"><img src="https://avatars2.githubusercontent.com/u/3040439?v=4" width="72px;" alt="ATKghost"/><br /><sub><b>ATKghost</b></sub></a><br /><a href="#content-ATKghost" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/zhihaofans"><img src="https://avatars3.githubusercontent.com/u/12581055?v=4" width="72px;" alt="zhihaofans"/><br /><sub><b>zhihaofans</b></sub></a><br /><a href="#content-zhihaofans" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/yurix233"><img src="https://avatars1.githubusercontent.com/u/61882921?v=4" width="72px;" alt="yurix233"/><br /><sub><b>yurix233</b></sub></a><br /><a href="#content-yurix233" title="Content">🖋</a></td>
   </tr>
 </table>
 
