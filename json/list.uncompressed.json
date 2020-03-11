@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1583936405
+    "timestamp": 1583938288
   },
   "vtbs": [
     {
@@ -10784,6 +10784,36 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "6210a2db-d6ec-52e5-86ef-f1fee682752d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCkIimWZ9gBJRamKF0rmPU8w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "amamiya_kokoro",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "488976342",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天宮こころ",
+        "cn": "天宫心",
+        "en": "Amamiya Kokoro",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "9c888a94-9dca-5076-a649-49e21f6f1c47",
