@@ -31,6 +31,9 @@ readFile('pending.txt')
       }
 
       if (cmd === 'n') {
+        if (params.length === 1) {
+          params.unshift('cn')
+        }
         const [language, name] = params
         if (!filename) {
           filename = `${name}.json`
@@ -42,7 +45,7 @@ readFile('pending.txt')
       }
 
       if (cmd === 'g') {
-        const [group] = params
+        const group = params.join(' ')
         vtb.group = group
       }
 
