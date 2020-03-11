@@ -46,6 +46,11 @@ readFile('pending.txt')
         vtb.group = group
       }
 
+      if (cmd === 't') {
+        const [type] = params
+        vtb.type = type
+      }
+
       if (cmd === 'a') {
         const [platform, ...ids] = params
         ids.forEach(id => {
