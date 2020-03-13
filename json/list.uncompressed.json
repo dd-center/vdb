@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1583938288
+    "timestamp": 1584106932
   },
   "vtbs": [
     {
@@ -3928,6 +3928,11 @@
       "bot": false,
       "accounts": [
         {
+          "id": "UCjlmCrq4TP1I4xguOtJ-31w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
           "id": "441666968",
           "type": "official",
           "platform": "bilibili"
@@ -3938,9 +3943,9 @@
           "platform": "twitter"
         },
         {
-          "id": "UCjlmCrq4TP1I4xguOtJ-31w",
+          "id": "7B6C342D19255B58_01d325",
           "type": "official",
-          "platform": "youtube"
+          "platform": "userlocal"
         }
       ],
       "name": {
@@ -3949,6 +3954,7 @@
         "cn": "德比鲁",
         "default": "jp"
       },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "2d": true
     },
     {
@@ -10591,6 +10597,41 @@
         "extra": [],
         "jp": "夢月ロア",
         "cn": "梦月萝娅",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "2d": true
+    },
+    {
+      "uuid": "da50f3f2-6067-5a09-8ea7-99e5a8d13634",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCTIE7LM5X15NVugV7Krp9Hw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "511613154",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kakeru_yumeoi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "A69A4A61BE29BB9A_8f7cf6",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夢追翔",
+        "cn": "梦追翔",
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
