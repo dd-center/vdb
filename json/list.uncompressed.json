@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1584479187
+    "timestamp": 1584799836
   },
   "vtbs": [
     {
@@ -17491,6 +17491,24 @@
         "default": "cn"
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
+    },
+    {
+      "uuid": "f2355efa-24dd-57b0-ba2d-0a408f6805e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "63011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水兰儿",
+        "default": "cn"
+      },
+      "2d": true
     },
     {
       "uuid": "54340df0-7986-5483-b7e2-cc32c7fbf6c8",
