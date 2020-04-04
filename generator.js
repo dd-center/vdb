@@ -35,3 +35,5 @@ readdir('vtbs')
       console.log('Oh!')
     }
   })
+  .then(() => readdir('vtbs'))
+  .then(dirs => writeFile('json/fs.json', JSON.stringify(Object.fromEntries(dirs.map(filename => [filename, require(`./vtbs/${filename}`)])))))

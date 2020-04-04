@@ -55,8 +55,7 @@ module.exports = readdir('vtbs')
           parsed.accounts
             .concat(...object.accounts
               .map(([platform, id]) => Array.isArray(id) ? [platform, id] : [platform, [id]])
-              .map(([platform, ids]) => ids.map(id => ({ platform, id })))
-            )
+              .map(([platform, ids]) => ids.map(id => ({ platform, id }))))
             .map(({ platform, id }) => typeof id === 'string' ? { platform, id: { id } } : { platform, id })
             .map(({ platform, id }) => ({ platform, object: { ...id, type: id.type || 'official' } }))
             .forEach(({ platform, object }) => parsed.accounts.push({ ...object, platform }))
