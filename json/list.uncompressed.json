@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1586112133
+    "timestamp": 1586113198
   },
   "vtbs": [
     {
@@ -11343,6 +11343,35 @@
         "extra": [],
         "cn": "奶酪",
         "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "4b17d9ab-2d16-5d9a-8f3a-5fe4cee16809",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCWmJy4zKFf9Y_UQdS5sWuUg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "KisaragiKoyori",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "524194761",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "如月こより",
+        "en": "KisaragiKoyori",
+        "default": "jp"
       },
       "2d": true
     },
