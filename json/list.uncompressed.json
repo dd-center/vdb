@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1586026401
+    "timestamp": 1586109301
   },
   "vtbs": [
     {
@@ -12622,6 +12622,35 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "9cc019b3-c21b-514e-bee2-548487ba2d8c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "525105971",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCPQRl6ceaNBTeuHkMqsfl7Q",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "shikai_yue",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫海由爱",
+        "jp": "尸解 ユヱ",
+        "default": "cn"
+      },
+      "2d": true
     },
     {
       "uuid": "d052840d-24d2-56db-86b5-365f06c5a73c",
