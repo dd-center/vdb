@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1586109301
+    "timestamp": 1586111177
   },
   "vtbs": [
     {
@@ -29477,6 +29477,35 @@
         "jp": "黒咲りん",
         "cn": "黑咲凛",
         "default": "jp"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "cf08573e-69fa-5c05-af40-d91014cb6f91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCSUOEmvQLKPdiRnUgmHYX2g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kurokiriaria",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "4911722",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑桐亚里亚",
+        "jp": "黒桐アリア",
+        "default": "cn"
       },
       "2d": true
     },
