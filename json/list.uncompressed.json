@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1586111177
+    "timestamp": 1586111808
   },
   "vtbs": [
     {
@@ -20670,6 +20670,42 @@
         "extra": [],
         "ch": "白夜墨",
         "default": "ch"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "03198eb5-8312-5f40-aa76-9f9585088bce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "502916449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜天存",
+        "default": "cn"
+      },
+      "2d": true
+    },
+    {
+      "uuid": "11236db7-23df-592e-a1e1-94af98515a1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "504694462",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜真宵",
+        "default": "cn"
       },
       "2d": true
     },
