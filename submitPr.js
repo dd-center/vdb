@@ -21,6 +21,8 @@ const gitExec = async (...params) => {
   console.log({ stdout, stderr })
 }
 
+const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
+
 ;
 
 (async () => {
@@ -28,10 +30,10 @@ const gitExec = async (...params) => {
   await gitExec('checkout', branchName)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
   if (block) {
-    await String(Buffer.from(block, 'base64'))
+    await decodeBase64(block)
       .split('\n')
       .map(command => command.split(':'))
-      .map(([command, filename, base64 = '']) => [command, join('vtbs', filename), String(Buffer.from(base64, 'base64'))])
+      .map(([command, filename, content = '']) => [command, join('vtbs', decodeBase64(filename)), decodeBase64(content)])
       .map(([command, path, content]) => async () => {
         if (command === 'delete') {
           await unlink(path)
