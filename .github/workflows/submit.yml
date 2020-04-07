@@ -23,3 +23,9 @@ jobs:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
         GITHUB_TOKEN: ${{ secrets.gtoken }}
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.gtoken }}
+        branch: ${{ format('submit-{0}', github.event.issue.number) }}

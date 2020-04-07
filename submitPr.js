@@ -43,8 +43,8 @@ const gitExec = async (...params) => {
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
+    await gitExec('push', '--set-upstream', remote, branchName)
     await gitExec('add', 'vtbs')
     await gitExec('commit', '-m', 'update', '-m', `close #${ISSUE_NUMBER}`)
-    await gitExec('push', '--set-upstream', remote, branchName)
   }
 })()
