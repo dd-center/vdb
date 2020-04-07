@@ -7,7 +7,7 @@ jobs:
   pr:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v1
 
     - name: Use Node.js 13
       uses: actions/setup-node@v1
@@ -26,6 +26,7 @@ jobs:
 
     - name: Create Pull Request
       uses: repo-sync/pull-request@v2
+      if: success()
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         source_branch: ${{ format('submit-{0}', github.event.issue.number) }}
