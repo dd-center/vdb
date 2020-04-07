@@ -1,10 +1,10 @@
-name: create-submit-branch
+name: Submit Branch
 on:
   issues:
     types: [opened, reopened]
 
 jobs:
-  pr:
+  publish:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

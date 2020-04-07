@@ -28,9 +28,11 @@ const gitExec = async (...params) => {
       .map(([command, path, content]) => async () => {
         if (command === 'delete') {
           await unlink(path)
+          console.log('delete', path)
         }
         if (command === 'put') {
           await writeFile(path, content)
+          console.log('put', path)
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
