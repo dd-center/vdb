@@ -21,6 +21,7 @@ const gitExec = async (...params) => {
   await gitExec('checkout', branchName)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
   if (block) {
+    await gitExec('push', '--set-upstream', remote, branchName)
     await String(Buffer.from(block, 'base64'))
       .split('\n')
       .map(command => command.split(':'))
@@ -37,6 +38,6 @@ const gitExec = async (...params) => {
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
     await gitExec('commit', '-am', 'update', '-m', `close #${ISSUE_NUMBER}`)
-    await gitExec('push', '--set-upstream', remote, branchName)
+    await gitExec('push', remote, branchName)
   }
 })()
