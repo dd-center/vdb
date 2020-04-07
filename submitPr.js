@@ -1,3 +1,6 @@
+const { writeFile, unlink } = require('fs').promises
+const { join } = require('path')
+
 const { GitProcess } = require('dugite')
 
 const { ISSUE_NUMBER, ISSUE_BODY, GITHUB_TOKEN, GITHUB_ACTOR } = process.env
@@ -16,5 +19,23 @@ const gitExec = async (...params) => {
 (async () => {
   await gitExec('branch', branchName)
   await gitExec('checkout', branchName)
-  await gitExec('push', '--set-upstream', remote, branchName)
+  const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
+  if (block) {
+    String(Buffer.from(block, 'base64'))
+      .split('\n')
+      .map(command => command.split(':'))
+      .map(([command, filename, base64 = '']) => [command, join('vtbs', filename), String(Buffer.from(base64, 'base64'))])
+      .map(([command, path, content]) => async () => {
+        if (command === 'delete') {
+          await unlink(path)
+        }
+        if (command === 'put') {
+          await writeFile(path, content)
+        }
+      })
+      .reduce((p, f) => p.then(f), Promise.resolve())
+    await gitExec('push', '--set-upstream', remote, branchName)
+  } else {
+    process.exit(1)
+  }
 })()
