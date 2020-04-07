@@ -8,7 +8,7 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Use Node.js 13
       uses: actions/setup-node@v1
       with:
@@ -25,11 +25,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - name: Use Node.js 12
+    - uses: actions/checkout@v2
+    - name: Use Node.js 13
       uses: actions/setup-node@v1
       with:
-        node-version: '12'
+        node-version: '13'
     - name: npm generate
       run: |
         npm install
