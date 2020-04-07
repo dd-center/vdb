@@ -21,7 +21,7 @@ const gitExec = async (...params) => {
   await gitExec('checkout', branchName)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
   if (block) {
-    String(Buffer.from(block, 'base64'))
+    await String(Buffer.from(block, 'base64'))
       .split('\n')
       .map(command => command.split(':'))
       .map(([command, filename, base64 = '']) => [command, join('vtbs', filename), String(Buffer.from(base64, 'base64'))])
@@ -34,8 +34,7 @@ const gitExec = async (...params) => {
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
+    await gitExec('commit', '-am', 'update', '-m', `close #${ISSUE_NUMBER}`)
     await gitExec('push', '--set-upstream', remote, branchName)
-  } else {
-    process.exit(1)
   }
 })()
