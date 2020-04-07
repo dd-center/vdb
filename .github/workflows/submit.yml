@@ -1,0 +1,24 @@
+name: create-submit-pr
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  pr:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js 13
+      uses: actions/setup-node@v1
+      with:
+        node-version: '13'
+
+    - name: npm install
+      run: npm install
+
+    - name: Create Pull Request
+      run: node submitPr.js
+      env:
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
+        ISSUE_BODY: ${{ github.event.issue.body }}
