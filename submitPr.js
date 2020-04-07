@@ -10,8 +10,15 @@ const branchName = `submit-${ISSUE_NUMBER}`
 const remote = `https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/dd-center/vdb.git`
 
 const gitExec = async (...params) => {
-  const { stdout } = await GitProcess.exec(params, process.cwd())
-  console.log(stdout)
+  const { stdout, stderr } = await GitProcess.exec(params, process.cwd(), {
+    env: {
+      GIT_AUTHOR_NAME: 'nanashi',
+      GIT_AUTHOR_EMAIL: 'example@example.com',
+      GIT_COMMITTER_NAME: 'nanashi',
+      GIT_COMMITTER_EMAIL: 'example@example.com',
+    },
+  })
+  console.log({ stdout, stderr })
 }
 
 ;
@@ -36,7 +43,8 @@ const gitExec = async (...params) => {
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
-    await gitExec('commit', '-am', 'update', '-m', `close #${ISSUE_NUMBER}`)
+    await gitExec('add', 'vtbs')
+    await gitExec('commit', '-m', 'update', '-m', `close #${ISSUE_NUMBER}`)
     await gitExec('push', '--set-upstream', remote, branchName)
   }
 })()
