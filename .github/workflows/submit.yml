@@ -17,8 +17,15 @@ jobs:
     - name: npm install
       run: npm install
 
-    - name: Create Pull Request
+    - name: Commit Branch
       run: node submitPr.js
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create Pull Request
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        source_branch: ${{ format('submit-{0}', github.event.issue.number) }}
