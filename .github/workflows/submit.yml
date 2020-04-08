@@ -5,8 +5,33 @@ on:
   push:
     branches:
       - 'submit-*'
+  pull_request:
+    branches:
+      - 'submit-*'
+    types:
+      - closed
 
 jobs:
+  close:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js 13
+      uses: actions/setup-node@v1
+      with:
+        node-version: '13'
+
+    - name: npm install
+      run: npm install
+
+    - name: Close Issue
+      run: node closeIssue.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        NUMBER: ${{ github.event.issue.number }}
+
   pr:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
@@ -17,6 +42,7 @@ jobs:
       uses: repo-sync/pull-request@v2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
   publish:
     if: github.event_name == 'issues'
     runs-on: ubuntu-latest
