@@ -2,9 +2,23 @@ name: Submit Branch
 on:
   issues:
     types: [opened, reopened]
+  push:
+    branches:
+      - 'submit-*'
 
 jobs:
+  pr:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Create Pull Request
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
   publish:
+    if: github.event_name == 'issues'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
