@@ -6,8 +6,6 @@ on:
     branches:
       - 'submit-*'
   pull_request:
-    branches:
-      - 'submit-*'
     types:
       - closed
 
