@@ -28,7 +28,7 @@ jobs:
       run: node closeIssue.js
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        NUMBER: ${{ github.event.issue.number }}
+        NUMBER: ${{ github.event.number }}
 
   pr:
     if: github.event_name == 'push'
