@@ -1,4 +1,7 @@
 {
+  "name": "vdb",
+  "private": true,
+  "version": "1.0.0",
   "scripts": {
     "test": "node test/test",
     "update": "npm test && npm run generate && sh update.sh ; exit 0",
