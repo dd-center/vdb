@@ -5,6 +5,8 @@ The Virtual Youtuber Name List Database.
 
 We are looking for creating a database containing all vtubers.
 
+Online Editor: <https://submit.vtbs.moe>
+
 ### Usage:
 
 JSON file can be downloaded from: `https://vdb.vtbs.moe/json/list.json`, [https://vdb.vtbs.moe/json/list.json](https://vdb.vtbs.moe/json/list.json)
@@ -81,6 +83,8 @@ Add or edit files in `/vtbs`,
 `.json` format,
 
 if possible, run unit test by `npm test`.
+
+<u>Or,</u> online editor <https://submit.vtbs.moe> can be used, only a browser is needed.
 
 #### Add/Update Social Media Platform linkSyntax
 
