@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1586969470
+    "timestamp": 1587029822
   },
   "vtbs": [
     {
@@ -13746,6 +13746,24 @@
       "2d": true
     },
     {
+      "uuid": "fb0a92bc-fc88-5e6b-9f23-aa67b9a2b80c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "203173567",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心柚子",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "7ebac9fc-9dc8-57df-a5b1-023829dce627",
       "type": "vtuber",
       "bot": false,
@@ -21941,6 +21959,35 @@
       "2d": true
     },
     {
+      "uuid": "c03fcf28-edea-5215-9e9d-dfba98799304",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38631",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "4118735",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "kagurayui_0w0",
+          "type": "official",
+          "platform": "marshmallow"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神乐唯",
+        "en": "KaguraYui",
+        "jp": "神楽ゆい",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bab55dcf-0cd7-569c-848b-fe74baf933bf",
       "type": "vtuber",
       "bot": false,
@@ -22120,24 +22167,6 @@
       },
       "group": "f40ed228-184f-5f87-83a2-ea4278286345",
       "2d": true
-    },
-    {
-      "uuid": "4de5df5c-f05c-5093-a807-b307e76e77ad",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "203173567",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "稚气心柚子",
-        "default": "cn"
-      },
-      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "8c217fe1-0249-51d2-bf63-fc601715e512",
@@ -23609,6 +23638,35 @@
         "default": "cn"
       },
       "2d": true
+    },
+    {
+      "uuid": "5c3d2148-966a-5eac-9b70-7ec30e3f5160",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35892690",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UC7jFoGjZQrax3rgd3SB6WmQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Rinfair",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Rinfair",
+        "cn": "翎澈",
+        "default": "en"
+      },
+      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "c337c246-6a8b-5d2a-8d23-989a1c87fa51",
