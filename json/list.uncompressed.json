@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587157655
+    "timestamp": 1587157917
   },
   "vtbs": [
     {
@@ -9112,8 +9112,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "南音乃",
-        "en": "Nonno",
+        "cn": "南音乃Nonno",
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
@@ -21035,6 +21034,23 @@
       "2d": true
     },
     {
+      "uuid": "a9cd06bf-03c4-5dfe-b5c2-868df1dc73c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494850406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白银莉莉",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "651e2079-a362-5fb1-affd-4c43e362eed4",
       "type": "vtuber",
       "bot": false,
@@ -21759,6 +21775,23 @@
       "2d": true
     },
     {
+      "uuid": "578d2431-1f18-5377-a2cf-f27900446c1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3328498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祁柒zZ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ead440d9-af00-54d2-aaf7-c511f9994442",
       "type": "vtuber",
       "bot": false,
@@ -21813,6 +21846,24 @@
       },
       "group": "b29095e6-c178-5900-871c-349e426ad495",
       "2d": true
+    },
+    {
+      "uuid": "7c36e5fb-b1ef-5ec3-b681-202cadeee76b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "157330863",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神奈希",
+        "default": "cn"
+      },
+      "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
     },
     {
       "uuid": "479a186b-cacf-54f8-8c2d-ed06b848806b",
