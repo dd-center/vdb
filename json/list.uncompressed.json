@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587157221
+    "timestamp": 1587157399
   },
   "vtbs": [
     {
@@ -15435,6 +15435,23 @@
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce",
       "2d": true
+    },
+    {
+      "uuid": "233aab13-0f79-5006-9dc0-34154ad4b1c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476866164",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月之濑由美Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8db154d9-4f93-545f-b7ea-9943db6185de",
