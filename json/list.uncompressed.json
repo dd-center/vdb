@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587157399
+    "timestamp": 1587157655
   },
   "vtbs": [
     {
@@ -13038,30 +13038,6 @@
         "extra": [],
         "jp": "市ノ瀬ミナト",
         "default": "jp"
-      },
-      "2d": true
-    },
-    {
-      "uuid": "74f8d941-3b5a-50b0-803d-8f1dc746784f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "419637852",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "S11na",
-          "type": "official",
-          "platform": "afdian"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "希娜",
-        "en": "Siina",
-        "default": "cn"
       },
       "2d": true
     },
@@ -26316,6 +26292,23 @@
       },
       "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f",
       "2d": true
+    },
+    {
+      "uuid": "fe9c9640-d4a9-5307-8770-60b60d6772f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2100679",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "还有醒着的么",
+        "default": "cn"
+      }
     },
     {
       "uuid": "57a28f2a-94e5-5931-850c-ef9569bc38e8",
