@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587221798
+    "timestamp": 1587221991
   },
   "vtbs": [
     {
@@ -8607,6 +8607,24 @@
       "2d": true
     },
     {
+      "uuid": "0df37a52-5c73-5594-b466-c3b1e753c3ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "572274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "分华至夏Channel",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
       "uuid": "be9745ea-af1e-530e-8b0d-855d7ecbeee8",
       "type": "vtuber",
       "bot": false,
@@ -8904,8 +8922,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "北極星スター",
-        "default": "cn"
+        "jp": "北極星スター",
+        "default": "jp"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
