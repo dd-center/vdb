@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587246503
+    "timestamp": 1587246652
   },
   "vtbs": [
     {
@@ -11365,6 +11365,24 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "6419e66c-b09b-54b7-9908-492037d5ea5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "485407858",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奇姬LilyPop",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "21ec33da-68bf-5772-8721-171a5ab74d81",
       "type": "vtuber",
       "bot": false,
@@ -12417,6 +12435,23 @@
         "default": "cn"
       },
       "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+    },
+    {
+      "uuid": "fe80d28f-a29a-5066-895a-4b93e50741db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "525591961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小M-official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "60fdd13d-486d-5790-8827-9e4bbe98b630",
@@ -14767,6 +14802,23 @@
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce",
       "2d": true
+    },
+    {
+      "uuid": "ee9cd91a-d23e-5222-8ab1-3d93a5f7241c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "479591145",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早起喵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "35eae247-c717-581e-8007-2923a4289c86",
