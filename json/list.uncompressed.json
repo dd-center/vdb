@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587212472
+    "timestamp": 1587212587
   },
   "vtbs": [
     {
@@ -6492,6 +6492,23 @@
       }
     },
     {
+      "uuid": "7dde794e-4e46-544f-afbc-28b921b0a8fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "512318489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三井遥",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "866e7d96-67b9-5463-98fc-a05f5cdd4b14",
       "type": "vtuber",
       "bot": false,
@@ -12367,6 +12384,23 @@
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93",
       "2d": true
+    },
+    {
+      "uuid": "93163617-af76-57c3-bbf9-24463827878c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35122106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小楠道",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6e34c971-3d5e-59de-92ed-e4ad6b03c95b",
@@ -27796,6 +27830,23 @@
       "2d": true
     },
     {
+      "uuid": "b63f3a15-33a6-5736-ba07-6a86332fc6a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29274472",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪奈酱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6486b1a4-b2c7-502b-acc7-098f272d49e2",
       "type": "vtuber",
       "bot": false,
@@ -28658,6 +28709,23 @@
         "cn": "飞鸟响",
         "en": "Asuka",
         "jp": "飛鳥響",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "96c33a38-46f9-593d-869c-9a23170860bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5650663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "饼月ひまりOfficial",
         "default": "cn"
       }
     },
