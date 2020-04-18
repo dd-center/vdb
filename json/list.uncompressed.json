@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587225375
+    "timestamp": 1587246503
   },
   "vtbs": [
     {
@@ -5500,6 +5500,23 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "dcdff615-e6a3-5365-9efd-76e3c06b1a9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "550611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "バクの良Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cf7652d7-ffa0-553f-b8e1-1d4535826a6a",
@@ -13008,6 +13025,23 @@
       "2d": true
     },
     {
+      "uuid": "0fa5ad36-8301-56cd-974d-9788defb88b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519464736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山兔YamaUsagi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "181ee7dc-59f7-5491-88a8-2062d294e957",
       "type": "vtuber",
       "bot": false,
@@ -19870,6 +19904,23 @@
       "2d": true
     },
     {
+      "uuid": "00287b52-ec0d-51a5-83c2-792a383d180f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474593913",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狮子神蕾欧娜_official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "da84a301-f120-54a8-b46d-d4b913da4bc4",
       "type": "vtuber",
       "bot": false,
@@ -20288,8 +20339,7 @@
         "extra": [],
         "cn": "猫部nekobu",
         "default": "cn"
-      },
-      "2d": true
+      }
     },
     {
       "uuid": "81c20120-af0a-589b-b4c3-1f8cc3824ae4",
