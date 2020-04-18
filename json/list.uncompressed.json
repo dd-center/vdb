@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587247872
+    "timestamp": 1587249372
   },
   "vtbs": [
     {
@@ -12847,6 +12847,33 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "be368ca1-f5f4-53b4-9605-01fd587ff0da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "365233720",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "momomi_khni",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCjH4Z-uXHegQCTlGeUc7qUA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小花衣ももみ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "3f142481-3ca0-59ba-8575-05b1fc816568",
