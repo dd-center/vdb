@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587263468
+    "timestamp": 1587264313
   },
   "vtbs": [
     {
@@ -11795,6 +11795,24 @@
       }
     },
     {
+      "uuid": "0b049375-922e-5f1f-80c5-0f51b8b6f7fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493724848",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬咲柚流Official",
+        "default": "cn"
+      },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
       "uuid": "0569ef7b-ade4-588a-ba84-dd3bfb0e2335",
       "type": "vtuber",
       "bot": false,
@@ -14491,6 +14509,7 @@
         "cn": "爱宫MILK",
         "default": "jp"
       },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
       "2d": true
     },
     {
@@ -20182,6 +20201,7 @@
         "cn": "犬山哥",
         "default": "jp"
       },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
       "2d": true
     },
     {
@@ -22017,6 +22037,7 @@
         "jp": "白雪みしろ",
         "default": "jp"
       },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
       "2d": true
     },
     {
