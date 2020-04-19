@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587249372
+    "timestamp": 1587257314
   },
   "vtbs": [
     {
@@ -13531,6 +13531,24 @@
       "2d": true
     },
     {
+      "uuid": "face022a-c79d-52e5-bfdf-8543118692b1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4568261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希露卡_特瓦伊莱特",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "e7ec860d-5c6f-57c1-9a66-732a78719022",
       "type": "vtuber",
       "bot": false,
@@ -15973,6 +15991,24 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "4668f651-6aab-5ccc-b456-f2eca1190787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10046401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月下顾久",
+        "default": "cn"
+      },
+      "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
     },
     {
       "uuid": "6f6631e1-4af8-5ee1-929a-845b844d8ca3",
@@ -24939,6 +24975,23 @@
       "name": {
         "extra": [],
         "cn": "芙芙hana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "895c0c56-42fa-58ff-ac07-afc1e7a85bd4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3259819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芥爱凛official",
         "default": "cn"
       }
     },
