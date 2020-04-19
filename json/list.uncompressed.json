@@ -31,9 +31,26 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587331106
+    "timestamp": 1587331316
   },
   "vtbs": [
+    {
+      "uuid": "6842a7d6-d4bf-581a-8bcf-375725f9fbec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3663671",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": " Panda凪",
+        "default": "cn"
+      }
+    },
     {
       "uuid": "77359029-801c-5067-8b74-e9eee6393021",
       "type": "vtuber",
