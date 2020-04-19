@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587259862
+    "timestamp": 1587263468
   },
   "vtbs": [
     {
@@ -10006,6 +10006,24 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "208dae4b-dd06-54eb-b63c-90cb3bceaf59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519866775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唯炭Official",
+        "default": "cn"
+      },
+      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
+    },
+    {
       "uuid": "47e50bf8-2fdc-5b32-90ba-a0de9dea981a",
       "type": "vtuber",
       "bot": false,
@@ -13430,6 +13448,24 @@
         "default": "jp"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "83a5a542-58c4-5d13-9319-67fe6c60c3b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519874142",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巴妮娅Channel",
+        "default": "cn"
+      },
+      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
     },
     {
       "uuid": "09220f4c-cb85-50b0-a2fd-b0c685a85449",
@@ -19915,6 +19951,24 @@
         "default": "cn"
       },
       "group": "dea65e99-8859-5f68-a768-6898e68bb666"
+    },
+    {
+      "uuid": "7677bb89-c34e-5ba2-b08f-c692d1d0f828",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "516641409",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱里亚Aria",
+        "default": "cn"
+      },
+      "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
     },
     {
       "uuid": "e2389553-9a51-5f2f-8705-92d1a8095a7e",
