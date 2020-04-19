@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587264470
+    "timestamp": 1587264668
   },
   "vtbs": [
     {
@@ -2555,6 +2555,23 @@
         "default": "en"
       },
       "group": "67cb3af0-3f93-5d83-917f-902493b6fb49"
+    },
+    {
+      "uuid": "41572ded-a4dd-5e52-a4f1-458c1f87ebcb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "451377668",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "UTAGOE放送部官方",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7ba7df7c-cd35-5efa-8933-5b1325b874e7",
@@ -20037,6 +20054,23 @@
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237",
       "2d": true
+    },
+    {
+      "uuid": "c09772f8-b069-5432-8492-d2db7b959206",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "509836374",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱尾家的三姐妹",
+        "default": "cn"
+      }
     },
     {
       "uuid": "24fd939b-3591-5e8d-910d-5c5cb8752af8",
