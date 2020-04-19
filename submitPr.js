@@ -34,8 +34,9 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
     await decodeBase64(block)
       .split('\n')
       .map(command => command.split(':'))
-      .map(([command, filename, content = '']) => [command, join('vtbs', decodeBase64(filename)), decodeBase64(content)])
-      .map(([command, path, content]) => async () => {
+      .map(([command, arg, extra = '']) => [command, decodeBase64(arg), decodeBase64(extra)])
+      .map(([command, arg, content]) => async () => {
+        const path = join('vtbs', arg)
         if (command === 'delete') {
           await unlink(path)
           console.log('delete', path)
@@ -45,10 +46,10 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
           console.log('put', path)
         }
         if (command === 'name') {
-          gitUser.name = path
+          gitUser.name = arg
         }
         if (command === 'email') {
-          gitUser.email = path
+          gitUser.email = arg
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
