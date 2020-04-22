@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587554843
+    "timestamp": 1587554930
   },
   "vtbs": [
     {
@@ -2163,6 +2163,16 @@
         "cn": "Nelly_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6203f877-a1f8-5c61-99bb-ed20fd02ffef",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": []
+      },
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
     {
       "uuid": "e1dc600f-a5db-5660-a91d-ba626974d1ce",
@@ -20409,6 +20419,22 @@
       "2d": true
     },
     {
+      "uuid": "cadce4cd-6482-5ca2-bf6d-c7d14c1919d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "161287332",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": []
+      },
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
+    },
+    {
       "uuid": "dc487907-1371-50f7-966f-7c169fad513c",
       "type": "vtuber",
       "bot": false,
@@ -32998,6 +33024,22 @@
         "default": "jp"
       },
       "2d": true
+    },
+    {
+      "uuid": "22884bb5-874d-58cd-9f00-1b2214445035",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7524760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": []
+      },
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
     {
       "uuid": "cf33d1ac-dd88-5f26-9358-5e152543c246",
