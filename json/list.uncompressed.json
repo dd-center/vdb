@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587666196
+    "timestamp": 1587666294
   },
   "vtbs": [
     {
@@ -19054,6 +19054,24 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "c0e53aa8-4ce8-576c-ae77-5978d2f1a4b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1427197",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星谷实花Mika ",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "8f769094-5619-5057-81a9-9ee3484e4d9b",
       "type": "vtuber",
       "bot": false,
@@ -31883,6 +31901,24 @@
         "cn": "莫新",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f801b391-2cc3-54ad-86ca-e896eff22051",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493495359",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莫维害行",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "d4ebea0f-8759-5e2c-aff7-0df66694bbe8",
