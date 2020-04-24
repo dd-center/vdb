@@ -10,7 +10,12 @@ module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }) => ({
       const parsed = { uuid }
       parsed.type = object.type || 'vtuber'
       parsed.bot = !!object.bot
-      parsed.accounts = []
+
+      parsed.accounts = object.accounts
+        .map(([platform, ids]) => [platform, [ids].flat()])
+        .flatMap(([platform, ids]) => ids.map(id => ({ platform, id })))
+        .map(({ platform, id }) => typeof id === 'string' ? { platform, id: { id } } : { platform, id })
+        .map(({ platform, id }) => ({ ...id, type: id.type || 'official', platform }))
 
       parsed.name = { extra: [] }
       object.name
@@ -31,14 +36,6 @@ module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }) => ({
       } else if (parsed.type === 'group') {
         parsed.group = uuid
       }
-
-      parsed.accounts
-        .concat(...object.accounts
-          .map(([platform, id]) => Array.isArray(id) ? [platform, id] : [platform, [id]])
-          .map(([platform, ids]) => ids.map(id => ({ platform, id }))))
-        .map(({ platform, id }) => typeof id === 'string' ? { platform, id: { id } } : { platform, id })
-        .map(({ platform, id }) => ({ platform, object: { ...id, type: id.type || 'official' } }))
-        .forEach(({ platform, object }) => parsed.accounts.push({ ...object, platform }))
 
       return parsed
     }),
