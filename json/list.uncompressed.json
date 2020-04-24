@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587666294
+    "timestamp": 1587744704
   },
   "vtbs": [
     {
@@ -11849,6 +11849,23 @@
       "name": {
         "extra": [],
         "cn": "吉原凹槽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3fc882ac-4fb7-533e-af60-e2d0f2ddb3a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52124491",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吉吉游游",
         "default": "cn"
       }
     },
