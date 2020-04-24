@@ -32,22 +32,6 @@ module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }) => ({
         parsed.group = uuid
       }
 
-      if (object['2d']) {
-        parsed['2d'] = true
-      }
-      if (object['3d']) {
-        parsed['3d'] = true
-      }
-
-      if (object['2dArtist']) {
-        parsed['2d'] = true
-        parsed['2dArtist'] = uuidv5(object['2dArtist'], UUID_NAMESPACE)
-      }
-      if (object['3dArtist']) {
-        parsed['3d'] = true
-        parsed['3dArtist'] = uuidv5(object['3dArtist'], UUID_NAMESPACE)
-      }
-
       parsed.accounts
         .concat(...object.accounts
           .map(([platform, id]) => Array.isArray(id) ? [platform, id] : [platform, [id]])
