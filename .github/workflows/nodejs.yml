@@ -23,7 +23,6 @@ jobs:
     if: github.ref == 'refs/heads/master'
 
     runs-on: ubuntu-latest
-    continue-on-error: true
 
     steps:
     - uses: actions/checkout@v2
@@ -35,7 +34,12 @@ jobs:
       run: |
         npm install
         npm run update
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.g_admin_token }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        cname: vdb.vtbs.moe
+        user_name: 'nanashi'
+        user_email: 'example@example.com'
