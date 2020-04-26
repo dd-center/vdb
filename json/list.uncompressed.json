@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587908046
+    "timestamp": 1587908024
   },
   "vtbs": [
     {
@@ -3180,16 +3180,16 @@
       "group": "63ddd5e3-d91b-5c18-8818-dd849b0a9436"
     },
     {
-      "uuid": "70a4cc30-079d-5e45-9d46-84c6194eb0c6",
-      "type": "group",
+      "uuid": "78731dbc-d23b-5a58-b094-764f100e2b78",
+      "type": "vtuber",
       "bot": false,
       "accounts": [],
       "name": {
         "extra": [],
-        "cn": "Unlimited",
+        "cn": "Unlimited游戏部",
         "default": "cn"
       },
-      "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+      "group": "78731dbc-d23b-5a58-b094-764f100e2b78"
     },
     {
       "uuid": "7ba7df7c-cd35-5efa-8933-5b1325b874e7",
@@ -4297,7 +4297,7 @@
         "jp": "あおぎり高校ゲーム部",
         "default": "jp"
       },
-      "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+      "group": "78731dbc-d23b-5a58-b094-764f100e2b78"
     },
     {
       "uuid": "4e16ae28-14cf-5a2d-8c31-be3cc6fbd3a5",
@@ -6257,7 +6257,7 @@
         "jp": "ゲーム部プロジェクト",
         "default": "jp"
       },
-      "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+      "group": "78731dbc-d23b-5a58-b094-764f100e2b78"
     },
     {
       "uuid": "f37bcfa5-056e-5267-8d0a-77e691d3196f",
@@ -11516,23 +11516,6 @@
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
-    },
-    {
-      "uuid": "32ee2d7a-ac40-5be1-b5e1-5c38b2f9dc4b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "592761",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "可樂C",
-        "default": "cn"
-      }
     },
     {
       "uuid": "d986b084-cbb0-5e91-9c70-fcc53451c755",
@@ -21325,23 +21308,6 @@
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
     },
     {
-      "uuid": "b1d016b8-228a-5f8e-8881-ab6b9fe3e860",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "8163245",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "梭梭树",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "ab22a8a8-8ae7-5346-8bd2-b917bbfca2ad",
       "type": "vtuber",
       "bot": false,
@@ -22213,23 +22179,6 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
-    },
-    {
-      "uuid": "dd1ee536-5b2b-5fb7-8cb1-9eea667f15ad",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "5971153",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "水川静流Channel",
-        "default": "cn"
-      }
     },
     {
       "uuid": "703e1593-04ff-58a7-993a-8ccc82bbf595",
@@ -31929,23 +31878,6 @@
       }
     },
     {
-      "uuid": "0c905679-5fe9-5637-aa71-7d749d2943ab",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "435403748",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "蓝朵_Official",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "a2d1ea37-6961-55d3-a65a-550308c8650b",
       "type": "vtuber",
       "bot": false,
@@ -32181,23 +32113,6 @@
       "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f"
     },
     {
-      "uuid": "cb7a3ce4-85ca-5465-a314-985ff0403251",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "80505",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "蜜汁姬工坊",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "5627cc41-3057-558f-978c-16d731d29a2b",
       "type": "vtuber",
       "bot": false,
@@ -32298,23 +32213,6 @@
       "name": {
         "extra": [],
         "cn": "被可可四代目保护协会",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "f1c27b64-e39a-5ac1-9b1d-e429e8e63411",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "7355824",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "褰裳ys",
         "default": "cn"
       }
     },
@@ -33472,7 +33370,7 @@
         "jp": "道明寺ここあ",
         "default": "jp"
       },
-      "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+      "group": "78731dbc-d23b-5a58-b094-764f100e2b78"
     },
     {
       "uuid": "dbe1d2d2-f5d4-5936-888e-05acdff77868",
@@ -35922,8 +35820,7 @@
         "cn": "风见唯花",
         "en": "Yuika",
         "default": "jp"
-      },
-      "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+      }
     },
     {
       "uuid": "bec1e320-37c1-55ef-b54d-4963e9c3f174",
