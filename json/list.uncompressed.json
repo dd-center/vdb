@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587914753
+    "timestamp": 1587915564
   },
   "vtbs": [
     {
@@ -18659,7 +18659,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "星空凛脂",
+        "default": "cn"
       }
     },
     {
@@ -34241,6 +34243,23 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "0f69dfe2-dc38-5d47-9fc0-ca5b260b05a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "95357641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃仙channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a6eec774-8cbc-580a-a638-80fb7fc1903c",
