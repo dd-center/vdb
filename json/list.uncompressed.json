@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587915796
+    "timestamp": 1587915946
   },
   "vtbs": [
     {
@@ -3999,7 +3999,13 @@
       "uuid": "ea46c33c-8689-5b71-a388-7e2e7e788a36",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "479689815",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "en": "inkschool",
@@ -27418,6 +27424,24 @@
         "cn": "盐天使riel_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5a0e66ff-14ca-51f8-8c82-642e5cff1511",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4537059",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "相沢光_ひかり_HIKARI",
+        "default": "cn"
+      },
+      "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
     },
     {
       "uuid": "8b0d5069-f1bc-5316-aee4-0210f72ca768",
