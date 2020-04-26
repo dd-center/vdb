@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587915772
+    "timestamp": 1587915796
   },
   "vtbs": [
     {
@@ -10076,6 +10076,24 @@
       "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
     },
     {
+      "uuid": "ea651ac3-efe9-527d-b951-9d9a3fc0c918",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "260987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "军师-RandF",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "23c0ed24-b9c0-57b0-9c4d-820a367aecea",
       "type": "vtuber",
       "bot": false,
@@ -16225,6 +16243,24 @@
         "default": "jp"
       },
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
+      "uuid": "57f51d77-8a2f-5378-aab2-b48f936cecb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "534982695",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巴克_Buck",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "83a5a542-58c4-5d13-9319-67fe6c60c3b5",
@@ -33992,6 +34028,24 @@
         "jp": "酸菜ダレ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "c5e6c291-7714-5b0a-a93d-fa3ed8e6e640",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7591465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "里奈Rina",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "86d498a2-7357-5d5c-b0de-a65fd9847b01",
