@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587908783
+    "timestamp": 1587908854
   },
   "vtbs": [
     {
@@ -20422,6 +20422,24 @@
       }
     },
     {
+      "uuid": "0bb7ad72-ba79-5240-b10b-0c7f2d3a59ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7618327",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枕头orangutan",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "ecd83acf-0b93-5802-b5c0-82ad15c48c34",
       "type": "vtuber",
       "bot": false,
@@ -23014,6 +23032,23 @@
       "name": {
         "extra": [],
         "cn": "洛佩sama",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c75ec9df-bd19-594f-9a28-bc78c29a564b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49266870",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛冰冰",
         "default": "cn"
       }
     },
