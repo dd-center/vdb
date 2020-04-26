@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587915579
+    "timestamp": 1587915592
   },
   "vtbs": [
     {
@@ -2782,6 +2782,24 @@
         "ch": "PuPa酱",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "17a958e5-3f14-5501-84b2-70d11ad58d41",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441079300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "PulsarGame",
+        "default": "cn"
+      },
+      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
     },
     {
       "uuid": "d8e5a9a0-9eb7-54c3-ac23-248d5fa9d085",
@@ -27635,6 +27653,24 @@
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
     },
     {
+      "uuid": "c9abcfed-b1d9-596f-8b8f-40470a37aefb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33789355",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "碎雾w",
+        "default": "cn"
+      },
+      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
+    },
+    {
       "uuid": "ed7ed474-e719-5121-8c21-e810fbc69eef",
       "type": "vtuber",
       "bot": false,
@@ -36178,6 +36214,24 @@
         "default": "jp"
       },
       "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0"
+    },
+    {
+      "uuid": "d3fd7182-f971-5bee-9b63-b4be3a98d921",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519010597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "韵霞",
+        "default": "cn"
+      },
+      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
     },
     {
       "uuid": "11cbc206-69b0-50f4-9440-25af6200c7a0",
