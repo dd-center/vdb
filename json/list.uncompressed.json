@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587908854
+    "timestamp": 1587909220
   },
   "vtbs": [
     {
@@ -49,7 +49,8 @@
         "extra": [],
         "cn": " Panda凪",
         "default": "cn"
-      }
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "77359029-801c-5067-8b74-e9eee6393021",
@@ -929,6 +930,24 @@
         "default": "cn"
       },
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
+    },
+    {
+      "uuid": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2919301",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Creator_Coffee_P",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "e17a1dee-cec2-559f-a145-e27b40039b08",
@@ -28688,7 +28707,7 @@
         "cn": "米蕾優",
         "default": "cn"
       },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "045e48b5-5279-5668-90f2-acc26573c100",
@@ -31735,21 +31754,22 @@
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781"
     },
     {
-      "uuid": "6ec4a730-8ba1-5b02-b10d-407362efcd2c",
+      "uuid": "736fbc94-a228-5373-b784-3f1b4acb0605",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "2919301",
+          "id": "439546360",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "萧诺",
+        "cn": "萧诺Official",
         "default": "cn"
-      }
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "b8dcd0d2-cc8f-532d-9504-73d28969efa5",
