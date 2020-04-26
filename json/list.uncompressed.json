@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587917364
+    "timestamp": 1587918286
   },
   "vtbs": [
     {
@@ -2869,6 +2869,23 @@
         "default": "cn"
       },
       "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
+    },
+    {
+      "uuid": "fa8ba153-be63-53fc-98fc-37e685700dc5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "824087",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Even",
+        "default": "cn"
+      }
     },
     {
       "uuid": "52f57a42-c6b9-535b-91c9-5a9982791d9b",
@@ -19135,6 +19152,23 @@
       }
     },
     {
+      "uuid": "e46d19b7-9ec0-5d48-9f9b-b98b20bcac71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "509372",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星雨透_Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "58102aad-a94e-5793-ab55-394b1abee84e",
       "type": "vtuber",
       "bot": false,
@@ -20328,6 +20362,23 @@
         "default": "cn"
       },
       "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
+    },
+    {
+      "uuid": "eb78c84d-dcec-57ac-9af4-68afbd8bfa16",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3303103",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "机动型青空",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ab9a0cc9-6b74-566e-a134-ffb9a40092dc",
@@ -37554,6 +37605,23 @@
       "name": {
         "extra": [],
         "cn": "鹿木博士鹿太",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e2c531c4-d496-52b2-9c6d-03bf6bc94419",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6268594",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿野_KanoM",
         "default": "cn"
       }
     },
