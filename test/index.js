@@ -3,7 +3,8 @@ const repeat = require('./repeat')
 const platform = require('./platform')
 const id = require('./id')
 const account = require('./account')
+const filename = require('./filename')
 
-const tests = [group, repeat, id, platform, account]
+const tests = [group, repeat, id, platform, account, filename]
 
-module.exports = vdb => tests.flatMap(f => f(vdb))
+module.exports = (vdb, files) => tests.flatMap(f => f(vdb, files))
