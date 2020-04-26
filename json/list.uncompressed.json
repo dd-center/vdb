@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1587908291
+    "timestamp": 1587908783
   },
   "vtbs": [
     {
@@ -94,6 +94,23 @@
       "name": {
         "extra": [],
         "cn": "2333",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f4e35902-0e27-54cf-a2e6-0fc53d9ff089",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "145913",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "3000",
         "default": "cn"
       }
     },
@@ -4668,6 +4685,16 @@
           "id": "UCBJFtEEDnCpz8koPH-nLWUA",
           "type": "official",
           "platform": "youtube"
+        },
+        {
+          "id": "kurumi_UoxoU",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kuru3.v＠gmail.com",
+          "type": "official",
+          "platform": "email"
         }
       ],
       "name": {
@@ -24572,6 +24599,23 @@
       "name": {
         "extra": [],
         "cn": "狸猫花生搬运组",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe67cba1-770c-5517-a446-27d5842655c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "500451641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狸花もこ_Channel",
         "default": "cn"
       }
     },
