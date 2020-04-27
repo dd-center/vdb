@@ -8,19 +8,19 @@ module.exports = ({ vtbs }) => {
     .forEach(({ accounts, name }) => accounts.forEach(({ id, platform, type }) => {
       const reporter = reportError({ name, id, platform })
       if (!id) {
-        reporter('false Account')
+        reporter('id为空')
       }
       if (!knowAccounts[platform]) {
         knowAccounts[platform] = {}
       }
       if (knowAccounts[platform][id]) {
-        reporter('Duplicated Account')
+        reporter('重复提交的账户, Duplicated')
       }
       knowAccounts[platform][id] = true
 
       const neverSubmitList = neverSubmit[platform] || []
       if (neverSubmitList.includes(id)) {
-        reporter('Never Submit')
+        reporter('不能提交的账户, Never Submit')
       }
     }))
   return errors
