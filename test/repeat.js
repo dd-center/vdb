@@ -1,6 +1,4 @@
-const neverSubmit = {
-  bilibili: ['21882176'],
-}
+const neverSubmit = {}
 
 module.exports = ({ vtbs }) => {
   const errors = []
