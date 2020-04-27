@@ -31,7 +31,7 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}"
     },
-    "timestamp": 1588001954
+    "timestamp": 1588002024
   },
   "vtbs": [
     {
@@ -38069,6 +38069,23 @@
         "default": "cn"
       },
       "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
+    },
+    {
+      "uuid": "20aceb54-562b-5aac-9b3a-308530bed217",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21882176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑小喵_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7aaeeafe-8393-57e8-b599-fb2a03102406",
