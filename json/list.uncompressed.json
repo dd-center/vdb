@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588088455
+    "timestamp": 1588089535
   },
   "vtbs": [
     {
@@ -2726,11 +2726,17 @@
       "uuid": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "738002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
-        "en": "ProbleKids",
-        "default": "en"
+        "cn": "ProbleKids",
+        "default": "cn"
       },
       "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
@@ -12375,8 +12381,7 @@
         "extra": [],
         "cn": "啥也不会的几秋",
         "default": "cn"
-      },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      }
     },
     {
       "uuid": "b0bfdb03-0f14-586c-bc33-aaa8ededdd25",
@@ -21709,8 +21714,7 @@
         "extra": [],
         "cn": "桃沢黛雅Channel ",
         "default": "cn"
-      },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      }
     },
     {
       "uuid": "79024840-28ca-59d9-bb50-ebe91324d865",
@@ -30727,8 +30731,7 @@
         "en": "Rinfair",
         "cn": "翎澈",
         "default": "en"
-      },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      }
     },
     {
       "uuid": "c337c246-6a8b-5d2a-8d23-989a1c87fa51",
