@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588089649
+    "timestamp": 1588089908
   },
   "vtbs": [
     {
@@ -12367,6 +12367,23 @@
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
     },
     {
+      "uuid": "1399f491-19a9-5857-a82c-3a6780283f90",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "240724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唯诺Vilor",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4d0a3315-5c4f-56a9-baa2-6e175fd6eaff",
       "type": "vtuber",
       "bot": false,
@@ -13877,6 +13894,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "08d6b171-6a73-5e04-be2e-0005dc54f0fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "515200194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天满妮娅Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b3595217-ae20-5c76-b80f-22036f91daf4",
@@ -15844,6 +15878,23 @@
         "extra": [],
         "jp": "小雀とと",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3cb32e18-52d3-51a3-8a1f-55e4f2cddc50",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506074310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小雀香奈_Official",
+        "default": "cn"
       }
     },
     {
@@ -28831,6 +28882,23 @@
       }
     },
     {
+      "uuid": "cc7f01de-a1ce-50fc-9799-eff8ef72bedd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12746435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋山理奈Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "454d59a4-986d-560c-b117-609e010d1bc7",
       "type": "vtuber",
       "bot": false,
@@ -32074,6 +32142,23 @@
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
     },
     {
+      "uuid": "bba84a1c-3220-58ad-a850-596c4967cf83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1881866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉莉Mari_official ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "367d58c8-7d99-5d7b-8fb0-028db32bd55d",
       "type": "vtuber",
       "bot": false,
@@ -32104,6 +32189,23 @@
       "name": {
         "extra": [],
         "cn": "茶乃叶Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7b61e405-6b58-524a-9d4e-31135c411fc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "659401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荀异",
         "default": "cn"
       }
     },
