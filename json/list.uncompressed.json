@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588086813
+    "timestamp": 1588088455
   },
   "vtbs": [
     {
@@ -8483,6 +8483,23 @@
         "jp": "久遠千歳",
         "cn": "海绵宝宝",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "602f9d12-59b2-5f28-a6e9-eef745984b36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "523481776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "久遠藍",
+        "default": "cn"
       }
     },
     {
@@ -19095,6 +19112,23 @@
       }
     },
     {
+      "uuid": "bc5a7d8c-06f1-53d7-a44e-bd1bf623db3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "501601746",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星空monoka",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "33de9fd3-7223-54f5-896e-1e5ff744fca2",
       "type": "vtuber",
       "bot": false,
@@ -29559,6 +29593,23 @@
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
+      "uuid": "72759a29-1164-5b45-8ab9-7693dcffbdbd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "400718941",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紅杯ひぐれ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "14f58406-71aa-5e36-a78e-23625a94706f",
       "type": "vtuber",
       "bot": false,
@@ -33965,6 +34016,23 @@
         "default": "cn"
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
+    },
+    {
+      "uuid": "a73452f5-1a42-5250-a18b-ddd9e0c34319",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "447588112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赵太郎TV",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7ce978ae-b348-57cd-804f-4c5fae6852bd",
