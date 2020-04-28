@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588090011
+    "timestamp": 1588090357
   },
   "vtbs": [
     {
@@ -12821,6 +12821,23 @@
       "name": {
         "extra": [],
         "cn": "墨以恒轩",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e01eea10-c7d1-53f1-9ab9-49cb068963e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "503120652",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏明",
         "default": "cn"
       }
     },
@@ -29112,6 +29129,23 @@
       "group": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0"
     },
     {
+      "uuid": "ba27a726-236d-5184-a860-2944ceb587b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "523866328",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空酱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cde8e3f6-6b52-5b4d-b4ca-7f0732a11376",
       "type": "vtuber",
       "bot": false,
@@ -37438,6 +37472,23 @@
         "default": "cn"
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
+    },
+    {
+      "uuid": "d3f05968-bcc4-5e66-b0f8-111e83385ec5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20272422",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "饼小茶",
+        "default": "cn"
+      }
     },
     {
       "uuid": "96c33a38-46f9-593d-869c-9a23170860bc",
