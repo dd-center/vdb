@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588089535
+    "timestamp": 1588089649
   },
   "vtbs": [
     {
@@ -29172,6 +29172,23 @@
         "default": "cn"
       },
       "group": "b29095e6-c178-5900-871c-349e426ad495"
+    },
+    {
+      "uuid": "0e3a2416-af97-5087-9b31-86a87bd2bc9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2702600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "竹田七対子_Official",
+        "default": "CN"
+      }
     },
     {
       "uuid": "0edae6e7-6588-51f3-b847-f3e28d57a3f7",
