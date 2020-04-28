@@ -29,9 +29,10 @@
       "telegram": "https://t.me/{id}",
       "patreon": "https://www.patreon.com/{id}",
       "teespring": "https://teespring.com/stores/{id}",
-      "popiask": "https://www.popiask.cn/{id}"
+      "popiask": "https://www.popiask.cn/{id}",
+      "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588085777
+    "timestamp": 1588086573
   },
   "vtbs": [
     {
@@ -1566,6 +1567,21 @@
           "id": "1442771",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "6860340539",
+          "type": "official",
+          "platform": "weibo"
+        },
+        {
+          "id": "kksama",
+          "type": "official",
+          "platform": "popiask"
+        },
+        {
+          "id": "34172963",
+          "type": "official",
+          "platform": "163music"
         }
       ],
       "name": {
