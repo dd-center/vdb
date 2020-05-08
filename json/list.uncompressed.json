@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588922248
+    "timestamp": 1588922333
   },
   "vtbs": [
     {
@@ -8401,6 +8401,24 @@
         "cn": "丑牡てぃあ狂牛",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3182f463-a857-506f-a7dd-fc1ad64ea15a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3821157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "东爱璃Lovely",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "e19877e0-2b35-5f1a-811b-4e6ebd0ef176",
