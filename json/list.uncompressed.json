@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588260282
+    "timestamp": 1588922124
   },
   "vtbs": [
     {
@@ -32908,6 +32908,23 @@
       "name": {
         "extra": [],
         "cn": "萌糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "448f7e1c-bb8f-57a8-ad91-d9de40b04c66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "479965355",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萝卜蘸酱_机萪Official",
         "default": "cn"
       }
     },
