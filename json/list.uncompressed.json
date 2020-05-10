@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1588922525
+    "timestamp": 1589096555
   },
   "vtbs": [
     {
@@ -9258,6 +9258,23 @@
       }
     },
     {
+      "uuid": "183b807a-1fce-5a87-8109-fe9767d2a271",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1758397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊兹イズ_Official ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3e879250-53f6-5ffb-b144-9097289711d1",
       "type": "vtuber",
       "bot": false,
@@ -14573,6 +14590,23 @@
       "name": {
         "extra": [],
         "cn": "奏江ヘラ_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cf86d86e-922b-5cdf-92fb-d2bad2af8f3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "513925937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥莉娅Official",
         "default": "cn"
       }
     },
@@ -35427,6 +35461,24 @@
         "cn": "金巧",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3376f4ea-737c-5c54-9920-9237b4a881ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25132607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金龙胧月",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "3e7c6a82-2186-5fed-8a15-fd3fc91862d8",
