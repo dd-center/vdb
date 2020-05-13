@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589379102
+    "timestamp": 1589384428
   },
   "vtbs": [
     {
@@ -32216,6 +32216,23 @@
       "name": {
         "extra": [],
         "cn": "花御野 ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "200fea75-365c-5c69-b580-dfd014c3a4eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "640283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花洛栗栗子",
         "default": "cn"
       }
     },
