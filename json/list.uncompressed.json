@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589526014
+    "timestamp": 1589526022
   },
   "vtbs": [
     {
@@ -2598,6 +2598,23 @@
         "default": "en"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
+    },
+    {
+      "uuid": "39a2a5de-39e0-53a9-a1e6-4a249d6d497a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383677796",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "PECO_VTuber官方频道",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e77b8f1-6ab1-54e4-8fb8-a0f9c2c95de5",
@@ -7635,6 +7652,24 @@
         "default": "jp"
       },
       "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+    },
+    {
+      "uuid": "b4875aec-e6e9-5148-b10c-b15f5eca4654",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5817259",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "a743598f-a100-506d-83a6-c0eefc6a2c7b",
@@ -18509,7 +18544,8 @@
         "extra": [],
         "cn": "拉丸Lavia",
         "default": "cn"
-      }
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "9899a7c0-55ba-576c-bec9-d5083ba54e5c",
@@ -36571,6 +36607,23 @@
         "default": "cn"
       },
       "group": "aac0b7ce-4c47-568a-89a2-31e5eea51b67"
+    },
+    {
+      "uuid": "1e6a2c81-2aec-5f1c-b7ee-6bc413f7954c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "381861978",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陌星之韵_Channel ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16600dea-3516-5a4a-82b6-fe7ecff4ccbd",
