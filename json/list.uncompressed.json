@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589384428
+    "timestamp": 1589525483
   },
   "vtbs": [
     {
@@ -2492,6 +2492,23 @@
       }
     },
     {
+      "uuid": "02d9c257-77a2-5f33-ab7f-637925a8522c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "539690295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nowhere_終末少女",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0bd11968-e37c-50e1-b285-a22613211ac9",
       "type": "vtuber",
       "bot": false,
@@ -3062,6 +3079,23 @@
       "name": {
         "extra": [],
         "cn": "Ryoko凉子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d08ecf05-5052-59a9-b4fb-5c1e6a04445c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431649871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SALLAofficial",
         "default": "cn"
       }
     },
@@ -17465,6 +17499,23 @@
       }
     },
     {
+      "uuid": "8b3ca896-160e-59c8-bcf8-6edacd834e3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "540064490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "式部めぐり ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d662cfb2-9f41-5b18-8fa7-393351a29d45",
       "type": "vtuber",
       "bot": false,
@@ -19072,6 +19123,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "6f4f2229-9505-567f-b948-cb96809397e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "525988990",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星井まゆき",
+        "default": "cn"
+      }
     },
     {
       "uuid": "09c3a2e6-b252-5470-9171-f7dfe91d1920",
