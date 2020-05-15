@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589526438
+    "timestamp": 1589528872
   },
   "vtbs": [
     {
@@ -36433,6 +36433,24 @@
       "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
     },
     {
+      "uuid": "0baa0dfc-7c5d-5b55-9567-7a1420b8143b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "551114700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿尔兰蒂斯Official",
+        "default": "cn"
+      },
+      "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
       "uuid": "49735277-7133-5a09-822a-6a07663af35d",
       "type": "vtuber",
       "bot": false,
@@ -36484,6 +36502,24 @@
         "cn": "阿德罗伊",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "70a8cac3-0e13-5982-8f46-8382e0244308",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "551114698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿斯特尔瑞达Official",
+        "default": "cn"
+      },
+      "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
     },
     {
       "uuid": "4aa2252b-31a4-5734-8ee1-4ee27e554583",
