@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589660947
+    "timestamp": 1589661051
   },
   "vtbs": [
     {
@@ -11364,6 +11364,29 @@
         "jp": "千条アリア",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "be29cddc-3732-5923-8e33-bbb5d0d9262d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51788138",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "qc1000",
+          "type": "official",
+          "platform": "popiask"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千橙",
+        "default": "cn"
+      },
+      "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
     },
     {
       "uuid": "6e72d3c3-a4c2-5dbe-aec7-3140996be856",
