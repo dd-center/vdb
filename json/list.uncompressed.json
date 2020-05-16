@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589528872
+    "timestamp": 1589660873
   },
   "vtbs": [
     {
@@ -9308,6 +9308,24 @@
         "default": "cn"
       },
       "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+    },
+    {
+      "uuid": "b27f6184-b7b3-5351-a3fc-037faa867b50",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "295335456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊久美ikumi_Lion",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "1452e8b3-27ca-50cf-9f53-a281044352f5",
