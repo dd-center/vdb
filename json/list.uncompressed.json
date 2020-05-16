@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589661051
+    "timestamp": 1589661283
   },
   "vtbs": [
     {
@@ -1320,6 +1320,24 @@
       "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
     {
+      "uuid": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "65240998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Hibiya村委会",
+        "default": "cn"
+      },
+      "group": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4"
+    },
+    {
       "uuid": "faa07311-48ff-5974-a1f7-9e394d226f74",
       "type": "vtuber",
       "bot": false,
@@ -1360,6 +1378,24 @@
         "en": "Hiiro",
         "default": "en"
       }
+    },
+    {
+      "uuid": "90f4db32-247c-5add-b79e-6d7cea1e586a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33127428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Hokori__",
+        "default": "cn"
+      },
+      "group": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4"
     },
     {
       "uuid": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f",
@@ -30119,6 +30155,24 @@
       }
     },
     {
+      "uuid": "04f6764c-8bdd-56d3-bb1d-9fb0bde3d0e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4378782",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米浆ん",
+        "default": "cn"
+      },
+      "group": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4"
+    },
+    {
       "uuid": "037b173f-9fcc-5ab5-9d61-d1514c116088",
       "type": "vtuber",
       "bot": false,
@@ -32354,6 +32408,24 @@
         "cn": "花山妮娅_花山拿",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "17e4d699-8e6a-572d-abf1-fa76f2a949b1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10842524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花嶺_ハナレ",
+        "default": "cn"
+      },
+      "group": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4"
     },
     {
       "uuid": "4f61b55d-9937-5bd8-9ac3-78623fe097d2",
@@ -37938,6 +38010,23 @@
       "name": {
         "extra": [],
         "cn": "風乃Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5149d395-bae3-56af-afc4-360da1761b63",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "387990044",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "風宮まつり",
         "default": "cn"
       }
     },
