@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589816193
+    "timestamp": 1589816245
   },
   "vtbs": [
     {
@@ -12768,6 +12768,23 @@
       }
     },
     {
+      "uuid": "4d563655-00ba-5a91-8c22-4726697a89ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "95932763",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咕咕热干面",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "268cfcd4-4701-50c5-83e1-ff83a363e6ca",
       "type": "vtuber",
       "bot": false,
@@ -13946,6 +13963,23 @@
         "default": "cn"
       },
       "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
+    },
+    {
+      "uuid": "035c8463-a2e4-5351-aae6-2dab3d146cf5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3301918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜骑Night ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5d0d8ae7-dd87-5920-bfb9-32a31dd8aee5",
@@ -38413,6 +38447,23 @@
         "extra": [],
         "jp": "音無咲良",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c6cf9cf9-4c22-5157-aa83-dea7838022a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351806141",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音無星花",
+        "default": "cn"
       }
     },
     {
