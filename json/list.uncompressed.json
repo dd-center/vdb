@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589776142
+    "timestamp": 1589783741
   },
   "vtbs": [
     {
@@ -18481,6 +18481,23 @@
         "extra": [],
         "ch": "愛彩加の小焱",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "538c93a1-b5d8-5f03-8944-0758bbc97a65",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1800010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "愛里紗メイプル",
+        "default": "cn"
       }
     },
     {
