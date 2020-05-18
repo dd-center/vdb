@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589816185
+    "timestamp": 1589816193
   },
   "vtbs": [
     {
@@ -11855,6 +11855,42 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "22a501bb-ac67-550c-b99e-04373e6d05b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "59208884",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南木苼公式",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "22930158-b58d-5507-9933-f4871b5218d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475946227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南稚公式",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
       "uuid": "45865ddb-dc14-5843-8a0a-173b329fe037",
       "type": "vtuber",
       "bot": false,
@@ -15985,7 +16021,7 @@
         "cn": "寒冴KANKO",
         "default": "cn"
       },
-      "group": "ce23afd2-6f1a-5106-b1d6-09980187f549"
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
     },
     {
       "uuid": "1bfac292-171e-5342-9fd8-dc0df0d9ff2f",
@@ -20716,6 +20752,18 @@
       }
     },
     {
+      "uuid": "7b8e376b-1043-5774-a985-5d57aafc4a16",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "曦和project",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
       "uuid": "76d26853-2c56-56ac-8355-656cb4e43ebd",
       "type": "vtuber",
       "bot": false,
@@ -24315,6 +24363,24 @@
         "ch": "沐雨響愁",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "90422600-13ca-56f8-9e33-c923a68e9361",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "585202905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沙利叶_Official",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
     },
     {
       "uuid": "bfbf710c-1cbf-5d13-96c8-c6f468b054c6",
@@ -31473,6 +31539,24 @@
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
     },
     {
+      "uuid": "1c610ef8-40c2-5aa8-99c5-5ccd5b297843",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2740576",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "织田信夜",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
       "uuid": "a9a6774f-8dc1-5d5e-b5aa-5c5b6d6eb22a",
       "type": "vtuber",
       "bot": false,
@@ -34741,6 +34825,24 @@
         "cn": "西木木木栗",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bf3c2465-e174-5c21-99c7-4984660806f3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21605809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西禾是酥酥呀",
+        "default": "cn"
+      },
+      "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
     },
     {
       "uuid": "07a96506-dbbd-5389-a946-3000cc8779e1",
