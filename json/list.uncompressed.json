@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589775298
+    "timestamp": 1589776142
   },
   "vtbs": [
     {
@@ -2134,6 +2134,23 @@
         "jp": "ミシェもついに",
         "en": "Michele Rolo Cotton",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "52abaf86-b84e-5d99-8707-ee8096ad335a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25362533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MikoSix_Channel",
+        "default": "cn"
       }
     },
     {
