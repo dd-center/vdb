@@ -30,9 +30,10 @@
       "patreon": "https://www.patreon.com/{id}",
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}",
-      "163music": "https://music.163.com/#/user/home?id={idi}"
+      "163music": "https://music.163.com/#/user/home?id={id}",
+      "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589816164
+    "timestamp": 1589816185
   },
   "vtbs": [
     {
@@ -225,6 +226,23 @@
         "extra": [],
         "en": "A.I.D",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "c70b8ae3-8066-5bdb-9520-1e262e917b32",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23682490",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AC娘",
+        "default": "cn"
       }
     },
     {
