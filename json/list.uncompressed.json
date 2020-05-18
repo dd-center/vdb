@@ -32,7 +32,7 @@
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={idi}"
     },
-    "timestamp": 1589783906
+    "timestamp": 1589816164
   },
   "vtbs": [
     {
@@ -261,6 +261,24 @@
         "cn": "AGKUTA",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9c055632-d5d5-5767-9374-683b432ceaf9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "484322035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AIChannel中国绊爱",
+        "default": "cn"
+      },
+      "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
       "uuid": "ec481b34-4d5e-5d2e-9f42-230d66c5ba02",
@@ -4375,6 +4393,24 @@
       }
     },
     {
+      "uuid": "df46a3bb-5597-5200-af9d-e6b2d8c5a51d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "580482351",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "love-pii-channel",
+        "default": "cn"
+      },
+      "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
       "uuid": "09c6f88f-2cb6-5aad-ad06-c79c86acb674",
       "type": "vtuber",
       "bot": false,
@@ -6484,16 +6520,6 @@
           "id": "UC4YaOt1yT-ZeyB0OmxHgolA",
           "type": "official",
           "platform": "youtube"
-        },
-        {
-          "id": "484322035",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "11673035",
-          "type": "official",
-          "platform": "bilibili"
         },
         {
           "id": "1473830",
@@ -12756,6 +12782,24 @@
         "cn": "响月白夜Channel ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11673035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哎咿多工作室",
+        "default": "cn"
+      },
+      "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
       "uuid": "e010f2e6-8483-5dda-b62b-ba9dc2b648cc",
@@ -22489,6 +22533,24 @@
         "default": "ch"
       },
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
+    },
+    {
+      "uuid": "8ea9a42d-49eb-5ea0-8dad-0fd7947d3ca9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "535102427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗子酱RIKO ",
+        "default": "cn"
+      },
+      "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
       "uuid": "89945d7d-83bd-547a-aa3a-4c126d682b95",
