@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589816305
+    "timestamp": 1589816726
   },
   "vtbs": [
     {
@@ -1948,7 +1948,13 @@
       "uuid": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "402355190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "MZ次元",
@@ -4187,7 +4193,13 @@
       "uuid": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "413923011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "en": "chaoslive",
@@ -6785,7 +6797,13 @@
       "uuid": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "165809775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "ja": "コーロンサス学園",
@@ -10774,6 +10792,24 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "2eaa5545-859d-5cd8-a731-a4fc150a58cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4102685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凌凌凌凌玖",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "8d35b2d7-660b-567e-8988-321e22073752",
@@ -26120,6 +26156,24 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "d1783e8a-a70f-5161-b750-252ed82acee1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3009298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "物理魔法使哈娜酱",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "fba685b5-6eb4-5e8c-a97e-bc308572c8c0",
