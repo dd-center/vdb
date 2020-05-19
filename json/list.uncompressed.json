@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589876775
+    "timestamp": 1589908969
   },
   "vtbs": [
     {
@@ -2649,6 +2649,24 @@
         "cn": "Okome_VTuber",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ae92a9d1-10f5-5234-9d3d-8680496767a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "401090194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ooze欧兹-channel",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "17683b28-9a9e-5510-9306-1447916850c6",
@@ -16463,7 +16481,8 @@
         "extra": [],
         "ch": "小粒Q_Channel",
         "default": "ch"
-      }
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "f1448a6a-b72d-59c0-9003-23dbf63826d8",
@@ -31733,7 +31752,8 @@
         "extra": [],
         "cn": "绘雨Official",
         "default": "cn"
-      }
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "036565e5-6276-581e-bcfc-894859ecdc31",
