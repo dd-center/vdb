@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589816726
+    "timestamp": 1589876775
   },
   "vtbs": [
     {
@@ -1208,7 +1208,8 @@
         "cn": "艾琳",
         "en": "Eilene",
         "default": "jp"
-      }
+      },
+      "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
     },
     {
       "uuid": "49df9683-3768-5b7f-8998-6b81042ed7f6",
@@ -2406,7 +2407,8 @@
         "jp": "夏実萌恵",
         "cn": "御泽萌惠",
         "default": "en"
-      }
+      },
+      "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
     },
     {
       "uuid": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
@@ -6439,6 +6441,18 @@
       }
     },
     {
+      "uuid": "2773e11c-0c30-55f6-93b5-042687c64d38",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "エイレーン一家",
+        "default": "cn"
+      },
+      "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
+    },
+    {
       "uuid": "549a7f54-6047-54a8-a450-7af043fc8d98",
       "type": "vtuber",
       "bot": false,
@@ -6866,8 +6880,8 @@
           "platform": "twitter"
         },
         {
-          "type": "relay",
           "id": "278093107",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
@@ -6876,7 +6890,8 @@
         "jp": "シフィ",
         "en": "Sifir Esirer",
         "default": "jp"
-      }
+      },
+      "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
     },
     {
       "uuid": "594af259-2e37-5713-a629-483361cb7674",
@@ -7602,7 +7617,8 @@
         "jp": "ヨメミ／萌実",
         "cn": "Yomemi",
         "default": "jp"
-      }
+      },
+      "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
     },
     {
       "uuid": "f04bab08-8e92-5e66-b7c5-79272b15a062",
