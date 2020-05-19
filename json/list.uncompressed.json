@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589919615
+    "timestamp": 1589920376
   },
   "vtbs": [
     {
@@ -31372,6 +31372,23 @@
         "default": "cn"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "24ba47b5-e3d7-5a1f-a01b-51f268eb0db6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "145190245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米勒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9ba1dbce-0b72-5893-9bc9-28eba4e5b6fd",
