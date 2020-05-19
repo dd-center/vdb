@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589914000
+    "timestamp": 1589914079
   },
   "vtbs": [
     {
@@ -8686,6 +8686,23 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "40b54a4c-c4fd-5751-b4ee-624849bd6822",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1566230",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不祈十弦Official ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "415085f7-fd61-5c7a-a280-1f9e1b52f334",
@@ -34821,6 +34838,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "73d68c45-36fc-59c1-a714-8c93d9d857c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "205083578",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虎丸幼一Official ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7533a41e-b23b-5280-9104-84e01cfd00fa",
