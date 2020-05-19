@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589914414
+    "timestamp": 1589914368
   },
   "vtbs": [
     {
@@ -9075,24 +9075,6 @@
       "name": {
         "extra": [],
         "cn": "乐府酱",
-        "default": "cn"
-      },
-      "group": "89359530-5a15-5358-821a-262d287812be"
-    },
-    {
-      "uuid": "5fd63995-051d-5f8b-b3d9-e5fc4d42ba3e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "544133342",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "乔微微_Official",
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
@@ -33897,8 +33879,7 @@
         "extra": [],
         "cn": "茗魂",
         "default": "cn"
-      },
-      "group": "89359530-5a15-5358-821a-262d287812be"
+      }
     },
     {
       "uuid": "11ec799d-8869-5814-b36c-d02b1fd26fcc",
