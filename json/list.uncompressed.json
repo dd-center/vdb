@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589916861
+    "timestamp": 1589918449
   },
   "vtbs": [
     {
@@ -19504,6 +19504,18 @@
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
     },
     {
+      "uuid": "b25b6594-eaa6-5b16-a112-c81a853f4815",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "新科动漫",
+        "default": "cn"
+      },
+      "group": "b25b6594-eaa6-5b16-a112-c81a853f4815"
+    },
+    {
       "uuid": "d1bcbaa6-f836-54c2-8be0-54c516a35277",
       "type": "vtuber",
       "bot": false,
@@ -19518,7 +19530,8 @@
         "extra": [],
         "cn": "新科娘",
         "default": "cn"
-      }
+      },
+      "group": "b25b6594-eaa6-5b16-a112-c81a853f4815"
     },
     {
       "uuid": "1208614f-5cb4-547b-bd26-e145b3994919",
@@ -34641,7 +34654,8 @@
         "extra": [],
         "cn": "萝卜蘸酱_机萪Official",
         "default": "cn"
-      }
+      },
+      "group": "b25b6594-eaa6-5b16-a112-c81a853f4815"
     },
     {
       "uuid": "20b5a8d3-008f-5dee-b124-98e1f7dfee49",
