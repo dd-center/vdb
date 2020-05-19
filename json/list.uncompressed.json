@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589908969
+    "timestamp": 1589913108
   },
   "vtbs": [
     {
@@ -16681,6 +16681,24 @@
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
+      "uuid": "ccbc1377-4340-5829-897c-7e33e5c5912d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "404236492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小马克_Channel ",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
       "uuid": "0b062e4b-ecc4-548e-995b-7e476ba10e39",
       "type": "vtuber",
       "bot": false,
@@ -19545,6 +19563,24 @@
         "default": "cn"
       },
       "group": "8344f00c-6fb0-5bd5-a14b-45a620e4479d"
+    },
+    {
+      "uuid": "e2f1566a-135a-5202-b82e-93d6baf63eff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8471048",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星·小q",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "f41ab187-c6c4-55d6-909c-1a7ef797309f",
