@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589913108
+    "timestamp": 1589913706
   },
   "vtbs": [
     {
@@ -1226,7 +1226,8 @@
         "extra": [],
         "en": "Elaine",
         "default": "en"
-      }
+      },
+      "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f"
     },
     {
       "uuid": "c07d926f-93f9-53d2-be09-9678bf82d00d",
@@ -1700,9 +1701,10 @@
       ],
       "name": {
         "extra": [],
-        "cn": "Leia_夜空",
+        "cn": "Leia",
         "default": "cn"
-      }
+      },
+      "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f"
     },
     {
       "uuid": "b3ba25af-7413-53c4-b658-ed0c47d1c4f6",
@@ -13958,6 +13960,18 @@
         "default": "cn"
       },
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
+      "uuid": "ccba2d70-dee5-5800-a307-b722ebdcdc4f",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "夜空Project",
+        "default": "cn"
+      },
+      "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f"
     },
     {
       "uuid": "4fa54086-e01c-5dee-976b-0fd63457d919",
