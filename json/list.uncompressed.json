@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589918449
+    "timestamp": 1589919318
   },
   "vtbs": [
     {
@@ -1101,6 +1101,24 @@
         "default": "en"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37557460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Diphylia",
+        "default": "cn"
+      },
+      "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
     },
     {
       "uuid": "f2206359-f293-5021-9030-fde29ad68bb2",
@@ -12264,6 +12282,24 @@
         "cn": "卯月羽音",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f04c7240-6ed4-54be-b875-d88d320558c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36999375",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "即墨侑Channel",
+        "default": "cn"
+      },
+      "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
     },
     {
       "uuid": "909a7f05-468e-5aa6-85d1-6ea508b57082",
@@ -31571,6 +31607,24 @@
         "jp": "紙木絹",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "aab79774-fa64-5859-bdb4-ae2f3ada0ff4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12411592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "素和浅Official",
+        "default": "cn"
+      },
+      "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
     },
     {
       "uuid": "41edaa54-bd87-5c7c-88f7-04326c4ecfd4",
