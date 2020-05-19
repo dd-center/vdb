@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589913878
+    "timestamp": 1589914000
   },
   "vtbs": [
     {
@@ -25391,6 +25391,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "4d579a79-2b95-5a44-bd93-0d8272dd0ecb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "549120667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清水琴美",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ff196f4b-d9d7-5985-b82c-f6b2075bca84",
