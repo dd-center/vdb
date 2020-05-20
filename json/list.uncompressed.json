@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589956127
+    "timestamp": 1589956216
   },
   "vtbs": [
     {
@@ -11617,6 +11617,24 @@
         "jp": "勇気ちひろ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "f7767c63-064e-548e-a1ab-9cbbfea80d30",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "553933994",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "勾陈须Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
       "uuid": "033d09e7-801f-59f1-af91-6fe271f15b10",
