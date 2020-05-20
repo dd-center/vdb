@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589949373
+    "timestamp": 1589949513
   },
   "vtbs": [
     {
@@ -30913,6 +30913,23 @@
       "name": {
         "extra": [],
         "cn": "秋山理奈Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9e79cf6-36cd-5486-ba77-fdeebd0147cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "455899334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋蒂Q",
         "default": "cn"
       }
     },
