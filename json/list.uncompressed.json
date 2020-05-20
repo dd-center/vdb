@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589966803
+    "timestamp": 1589968200
   },
   "vtbs": [
     {
@@ -4223,6 +4223,18 @@
         "cn": "Yu酱",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5b24d707-9143-5dbe-8e3c-c38405545e77",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "ZEROproject",
+        "default": "cn"
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
     },
     {
       "uuid": "7482e650-e78e-50a6-a11a-8bcafda6e595",
@@ -23747,6 +23759,24 @@
       }
     },
     {
+      "uuid": "964273a5-86ac-593a-8d16-f274c559a533",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "531637322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桜夢七七official",
+        "default": "cn"
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
+    },
+    {
       "uuid": "c168cde9-4356-596d-9b75-a3d8a05f73ed",
       "type": "vtuber",
       "bot": false,
@@ -32030,7 +32060,8 @@
         "extra": [],
         "cn": "紡音零official",
         "default": "cn"
-      }
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
     },
     {
       "uuid": "8a86730f-7e7f-50c8-9725-64786178910c",
