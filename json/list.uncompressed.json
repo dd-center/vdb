@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589949513
+    "timestamp": 1589950352
   },
   "vtbs": [
     {
@@ -34541,6 +34541,24 @@
         "cn": "茶乃叶Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e0a2fdee-38df-5685-9b98-0ff67cf79ba9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486136377",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶茶channel ",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "ee1aad43-bedd-59db-9b26-eb692c612297",
