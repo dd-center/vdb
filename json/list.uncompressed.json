@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589950642
+    "timestamp": 1589956127
   },
   "vtbs": [
     {
@@ -21299,6 +21299,23 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "e0e24106-68e9-5560-ab03-a525e15f0f7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23440058",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晓杰Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f0e44c45-b65b-5ae9-ba22-607aca40a9d5",
       "type": "vtuber",
       "bot": false,
@@ -28507,6 +28524,23 @@
       }
     },
     {
+      "uuid": "b97bcb04-3346-5e60-a10a-645f2e28ff6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12960120",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琼可艾莉耶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6571616b-f070-5c65-9320-5bd92bd4275b",
       "type": "vtuber",
       "bot": false,
@@ -33885,6 +33919,23 @@
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
     {
+      "uuid": "c33f48c9-1d23-56d8-b3eb-b5ca2bddf69e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475720147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花南音",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e941e97c-7d01-583b-8075-137e54a38273",
       "type": "vtuber",
       "bot": false,
@@ -33898,13 +33949,19 @@
           "id": "miyabihanasaki",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "494436795",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "花咲みやび",
         "default": "jp"
-      }
+      },
+      "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
     },
     {
       "uuid": "20a5677a-d06d-596c-887f-206af802970c",
@@ -40890,6 +40947,23 @@
         "default": "cn"
       },
       "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
+    },
+    {
+      "uuid": "71a032f4-9896-5195-a915-c04fd8ff7cc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "41461068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸩予",
+        "default": "cn"
+      }
     },
     {
       "uuid": "337f3432-c898-5d38-9386-e3306e9b8642",
