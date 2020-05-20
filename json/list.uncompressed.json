@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589935600
+    "timestamp": 1589941348
   },
   "vtbs": [
     {
@@ -20783,6 +20783,23 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "3b40af1c-8f6a-5535-8122-f27f8e8a1347",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "212553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星見ユギ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2a2c7b9b-2f50-5b56-ad94-2561613b3cca",
