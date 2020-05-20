@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589956216
+    "timestamp": 1589966803
   },
   "vtbs": [
     {
@@ -9864,7 +9864,8 @@
         "extra": [],
         "cn": "伊恩姬",
         "default": "cn"
-      }
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "336f4e76-3600-5971-87f4-02de9d91c25b",
@@ -17005,7 +17006,8 @@
         "cn": "小虾鱼",
         "en": "Siva",
         "default": "cn"
-      }
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "7085766b-edbc-5bd0-9b56-d59c2386306d",
@@ -28773,7 +28775,8 @@
         "extra": [],
         "cn": "田汐汐",
         "default": "cn"
-      }
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "eaf0791f-5be7-5a02-9752-c9a6acaf7712",
@@ -39142,6 +39145,24 @@
         "default": "cn"
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
+      "uuid": "231c831c-1e80-5a10-bb8c-b4fa15b861b7",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "405281700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪风军团",
+        "default": "cn"
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "199b8c5c-273f-5871-8cdb-ba81e8489345",
