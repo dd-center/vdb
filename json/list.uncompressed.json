@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589968708
+    "timestamp": 1589969392
   },
   "vtbs": [
     {
@@ -759,6 +759,23 @@
         "default": "en"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "e8ad004f-a2c1-5c71-81d6-4d809b47b1c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "578689145",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Asobi_Rin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fe322361-ebad-52de-8494-089e3205892b",
@@ -8563,6 +8580,23 @@
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
+      "uuid": "6e554258-8ab4-5e3b-8f6d-8e9fe008d8ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11717971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三日月霗依",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "06fd3419-dcc1-5c0f-a702-ce8dac90e8b4",
       "type": "vtuber",
       "bot": false,
@@ -10380,6 +10414,23 @@
       "name": {
         "extra": [],
         "cn": "侵蚀公主",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dfa2728e-78d5-5846-8253-e78d38095eae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "738406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "信使AKANE",
         "default": "cn"
       }
     },
@@ -12235,6 +12286,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "af3d02b8-921f-5da4-b123-5711140c7843",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5032987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南なぎさofficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "65fbf80a-6f51-5c16-97cb-5b57be8109ec",
