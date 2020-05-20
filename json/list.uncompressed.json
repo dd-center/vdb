@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1589920376
+    "timestamp": 1589934378
   },
   "vtbs": [
     {
@@ -19799,6 +19799,24 @@
       }
     },
     {
+      "uuid": "09bd2520-5bdb-5989-850b-d603f855d366",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6855974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日向煌Hinatakou",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "3fbc7a8c-4ced-586c-8c65-a5e7569e269d",
       "type": "vtuber",
       "bot": false,
@@ -24004,6 +24022,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "a6f5d337-614c-5a4c-be47-fe4f3a36842f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "489243104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樂園_channel ",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "3ad9042e-2002-53b7-bef4-e077388a753f",
