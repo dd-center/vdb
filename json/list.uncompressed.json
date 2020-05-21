@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590079283
+    "timestamp": 1590079476
   },
   "vtbs": [
     {
@@ -3923,6 +3923,24 @@
       "group": "44ffc461-168b-56f3-9458-0f450b0b36a2"
     },
     {
+      "uuid": "a9c452b8-faba-53d1-92ad-83337135e2c3",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "406672961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "VOMNIS",
+        "default": "cn"
+      },
+      "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
+    },
+    {
       "uuid": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f",
       "type": "group",
       "bot": false,
@@ -7199,7 +7217,8 @@
         "jp": "コウサギ",
         "cn": "小卯",
         "default": "jp"
-      }
+      },
+      "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
     },
     {
       "uuid": "3b29a276-d025-5f4e-8d15-329cf1bc16b2",
@@ -20657,6 +20676,24 @@
       }
     },
     {
+      "uuid": "3ee6437b-89e9-56fc-b9d6-5bf32fc7b58f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "565286306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时堇_Tokki ",
+        "default": "cn"
+      },
+      "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
+    },
+    {
       "uuid": "35eae247-c717-581e-8007-2923a4289c86",
       "type": "vtuber",
       "bot": false,
@@ -23869,7 +23906,8 @@
         "extra": [],
         "cn": "染谷杏",
         "default": "cn"
-      }
+      },
+      "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
     },
     {
       "uuid": "7718699f-618a-5e87-a804-db5d868ff906",
@@ -37958,7 +37996,8 @@
         "extra": [],
         "cn": "转圈",
         "default": "cn"
-      }
+      },
+      "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
     },
     {
       "uuid": "deacd8f5-c6f0-51ae-9978-7f066dceb00e",
