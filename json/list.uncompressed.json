@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590071950
+    "timestamp": 1590072060
   },
   "vtbs": [
     {
@@ -4155,6 +4155,24 @@
         "cn": "Virtual格格",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "29fafaf8-e62a-5831-b530-aaba5039ff03",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "232726078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Vup学院",
+        "default": "cn"
+      },
+      "group": "29fafaf8-e62a-5831-b530-aaba5039ff03"
     },
     {
       "uuid": "5778181a-682c-551e-a446-1dde460e2e14",
@@ -40294,6 +40312,24 @@
         "default": "cn"
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
+      "uuid": "de3d0f17-0985-5863-9ee6-d2f4af5a4142",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11500298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪菜卷儿Channel ",
+        "default": "cn"
+      },
+      "group": "29fafaf8-e62a-5831-b530-aaba5039ff03"
     },
     {
       "uuid": "231c831c-1e80-5a10-bb8c-b4fa15b861b7",
