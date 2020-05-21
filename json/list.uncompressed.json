@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590054498
+    "timestamp": 1590065376
   },
   "vtbs": [
     {
@@ -4202,6 +4202,24 @@
         "default": "cn"
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af"
+    },
+    {
+      "uuid": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "115509768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "WeHato官方",
+        "default": "cn"
+      },
+      "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
     },
     {
       "uuid": "f0f6db36-c594-50bd-ae6a-5032878a8ce6",
@@ -25881,6 +25899,24 @@
       }
     },
     {
+      "uuid": "9a072b3d-4ad3-533b-8f2f-799ded515a66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35940828",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沃汐大草原",
+        "default": "cn"
+      },
+      "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
+    },
+    {
       "uuid": "e76fa97e-c20b-5d83-a0ed-5508e01be3f1",
       "type": "vtuber",
       "bot": false,
@@ -27976,6 +28012,24 @@
         "jp": "狐狐音",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "e80a5c77-b43d-513f-8880-c72bc17c50cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10205731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐狸不吃巧克力",
+        "default": "cn"
+      },
+      "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
     },
     {
       "uuid": "70f93431-a96e-517e-b0b5-9c7164317ec7",
@@ -35528,6 +35582,24 @@
         "cn": "茶乃叶Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "29e2e633-e36f-5966-a221-20ea159e45fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402371301",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶木迟_一般通过JK",
+        "default": "cn"
+      },
+      "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
     },
     {
       "uuid": "e0a2fdee-38df-5685-9b98-0ff67cf79ba9",
