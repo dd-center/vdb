@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590065376
+    "timestamp": 1590071805
   },
   "vtbs": [
     {
@@ -26687,6 +26687,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "293efe46-ffa7-5236-a176-79d0799b1902",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85816940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "混沌之神-最终虚妄",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c73fa9f0-ce40-5078-9888-1fe8181aff6b",
