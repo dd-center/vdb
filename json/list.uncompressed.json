@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590053961
+    "timestamp": 1590054441
   },
   "vtbs": [
     {
@@ -675,7 +675,7 @@
     },
     {
       "uuid": "6e454c59-bb29-591d-b70b-b18b44d2a8e5",
-      "type": "vtuber",
+      "type": "group",
       "bot": false,
       "accounts": [
         {
@@ -693,7 +693,8 @@
         "extra": [],
         "en": "And2girls",
         "default": "en"
-      }
+      },
+      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
     },
     {
       "uuid": "11011c80-27c8-5c3a-b4f5-b72baebee0b1",
@@ -14411,7 +14412,8 @@
         "extra": [],
         "cn": "夏行美Official",
         "default": "cn"
-      }
+      },
+      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
     },
     {
       "uuid": "fa03dccf-e9ec-509a-89b9-42b2c5420023",
