@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590071840
+    "timestamp": 1590071881
   },
   "vtbs": [
     {
@@ -27668,6 +27668,24 @@
         "default": "cn"
       },
       "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
+    },
+    {
+      "uuid": "3407d3e6-4505-5f96-ad81-e12f1c20a361",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14141878",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "片桐泉_izumi",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "e2389553-9a51-5f2f-8705-92d1a8095a7e",
