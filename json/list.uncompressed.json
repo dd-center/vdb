@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590051094
+    "timestamp": 1590051492
   },
   "vtbs": [
     {
@@ -5187,6 +5187,23 @@
         "jp": "いるはーと",
         "en": "ileheart",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a68d1a74-2ec9-59c8-9991-380e2809091e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "304626640",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "うぐいす飞雪",
+        "default": "cn"
       }
     },
     {
@@ -12623,6 +12640,23 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "11093386-9f16-5fc9-b184-44d558ea78b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "931186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南见纱鱼_MISAO",
+        "default": "cn"
+      }
     },
     {
       "uuid": "45865ddb-dc14-5843-8a0a-173b329fe037",
