@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590054441
+    "timestamp": 1590054498
   },
   "vtbs": [
     {
@@ -926,7 +926,13 @@
       "uuid": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "508149110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "ChaosLive·Sprout",
