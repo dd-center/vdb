@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590071881
+    "timestamp": 1590071950
   },
   "vtbs": [
     {
@@ -10997,13 +10997,25 @@
           "id": "527093412",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCnzGlm7IC7Mkm00AccSEBEw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "yaotomenoe",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "八乙女Noe",
+        "jp": "八乙女のえ",
         "default": "cn"
-      }
+      },
+      "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
     },
     {
       "uuid": "60684ca8-edf5-5ff1-8137-cc77a8c4f84d",
@@ -16022,7 +16034,8 @@
         "jp": "如月こより",
         "en": "KisaragiKoyori",
         "default": "jp"
-      }
+      },
+      "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
     },
     {
       "uuid": "e0b42ce4-0090-560b-96a1-82d5bc8f7164",
@@ -31660,7 +31673,7 @@
         "en": "Kagura Mea",
         "default": "jp"
       },
-      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+      "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
     },
     {
       "uuid": "c03fcf28-edea-5215-9e9d-dfba98799304",
@@ -31707,6 +31720,18 @@
         "cn": "神楽坂雪奈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9709a2c5-843f-5615-aa16-a2e1d3cca78f",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "神乐组",
+        "default": "cn"
+      },
+      "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
     },
     {
       "uuid": "868a94b5-bdfe-5e5b-8f92-f90fb1b8a2de",
