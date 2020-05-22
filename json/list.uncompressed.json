@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590119757
+    "timestamp": 1590124950
   },
   "vtbs": [
     {
@@ -37658,6 +37658,23 @@
       "name": {
         "extra": [],
         "cn": "財部結菜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6487babe-0e07-5480-8ad9-6507c332e2b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498801081",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "賀茂川ドイル",
         "default": "cn"
       }
     },
