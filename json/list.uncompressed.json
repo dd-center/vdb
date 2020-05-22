@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590087138
+    "timestamp": 1590119757
   },
   "vtbs": [
     {
@@ -3242,6 +3242,24 @@
         "default": "en"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "412f3e13-0742-53c3-80e4-a0ea111657d9",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486301412",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "普罗维登",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "b9075154-a3b4-5b04-82b1-ba599c3797f8",
@@ -10782,7 +10800,8 @@
         "extra": [],
         "cn": "修格",
         "default": "cn"
-      }
+      },
+      "group": "dea65e99-8859-5f68-a768-6898e68bb666"
     },
     {
       "uuid": "2df868a1-6b51-5d00-86c2-b547256e9fdc",
@@ -23854,6 +23873,24 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "d61d9da8-b763-560a-82e8-6536f4f4bc24",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13908542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柊真华Official",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
       "uuid": "404ebb16-9c65-51c1-97e1-5c1d87685c0b",
       "type": "vtuber",
       "bot": false,
@@ -27175,7 +27212,8 @@
         "extra": [],
         "cn": "满月Channel",
         "default": "cn"
-      }
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "9a6fd5cc-6a51-5ac8-a1b5-5e71ec4bf1da",
@@ -29059,6 +29097,24 @@
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
     },
     {
+      "uuid": "d09ab245-ffc7-5d70-bd4c-6a8164ba383b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "567234492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玛安娜Myanna ",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
       "uuid": "fd23f71a-489f-5915-abc6-e16d7b83d268",
       "type": "vtuber",
       "bot": false,
@@ -29187,6 +29243,24 @@
         "default": "jp"
       },
       "group": "03e5db22-f42b-57a1-b034-48a7f5642d8a"
+    },
+    {
+      "uuid": "ed8ac171-884e-5748-8a9e-c80a6468703d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "576858552",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "球球妹妹_孵不出来",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "cb1297a4-b5ef-5752-9a84-b758265e4704",
@@ -34336,7 +34410,8 @@
         "extra": [],
         "jp": "胡桃うさ",
         "default": "jp"
-      }
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "b6333fe1-e920-5bb1-8d37-74fb9572771e",
