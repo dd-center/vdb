@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590124950
+    "timestamp": 1590263660
   },
   "vtbs": [
     {
@@ -2919,6 +2919,23 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "17c72ec3-343a-5854-ade6-46064af2dfca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10296177",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "OscarAnd奥斯卡",
+        "default": "cn"
+      }
     },
     {
       "uuid": "17683b28-9a9e-5510-9306-1447916850c6",
@@ -12232,6 +12249,23 @@
         "default": "cn"
       },
       "group": "6d06542d-de6c-5dc0-99ea-4889bd86a65f"
+    },
+    {
+      "uuid": "7c98fa75-a50d-5c7f-87c5-f7a5038fa66d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35654603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十字Crossじゅうじ ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e659112-653c-522c-b4d0-462354ee97f8",
@@ -28323,7 +28357,8 @@
         "extra": [],
         "cn": "狸花もこ_Channel",
         "default": "cn"
-      }
+      },
+      "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
     },
     {
       "uuid": "b5a6af04-d5a3-5927-8653-bfdc58456a62",
@@ -37764,6 +37799,24 @@
         "ch": "赤井猶_akaiyu",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "a2b038c4-c8a3-50ee-bd87-b1c682b8cf58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "547115793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤冢一华Ichika",
+        "default": "cn"
+      },
+      "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
     },
     {
       "uuid": "0fe921fe-583a-5fe6-a95e-165ff914581f",
