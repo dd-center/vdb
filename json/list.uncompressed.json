@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590379250
+    "timestamp": 1590379339
   },
   "vtbs": [
     {
@@ -39963,6 +39963,24 @@
         "default": "cn"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "eb90cd72-f545-504d-8412-dbe6ff972785",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3337432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿斯蒙蒂斯_Asmodeus",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "b5182e37-7e53-5f78-9bf2-4670cd6a58dc",
