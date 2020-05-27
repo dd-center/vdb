@@ -29,7 +29,8 @@ const linkSyntax = {
   patreon: 'https://www.patreon.com/{id}',
   teespring: 'https://teespring.com/stores/{id}',
   popiask: 'https://www.popiask.cn/{id}',
-  '163music': 'https://music.163.com/#/user/home?id={idi}',
+  '163music': 'https://music.163.com/#/user/home?id={id}',
+  acfun: 'https://www.acfun.cn/u/{id}',
 }
 
 module.exports = {
