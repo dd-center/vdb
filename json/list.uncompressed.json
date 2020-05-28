@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590673003
+    "timestamp": 1590673139
   },
   "vtbs": [
     {
@@ -25570,6 +25570,23 @@
       "name": {
         "extra": [],
         "cn": "樱井アリス",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b4e9b8c1-8950-569d-bc75-3bda69e7497c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "375742421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱井花咲_Channel",
         "default": "cn"
       }
     },
