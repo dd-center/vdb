@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "test": "node test/test",
+    "action-test": "node test/action-test",
     "update": "npm test && npm run generate && sh update.sh ; exit 0",
     "generate": "node generator",
     "refresh": "node refresh"
@@ -12,6 +13,7 @@
     "uuid": "^7.0.1"
   },
   "devDependencies": {
+    "@actions/core": "^1.2.4",
     "@types/uuid": "^7.0.0",
     "dugite": "^1.88.0",
     "got": "^11.0.2",
