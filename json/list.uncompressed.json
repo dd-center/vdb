@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590668824
+    "timestamp": 1590672897
   },
   "vtbs": [
     {
@@ -23335,6 +23335,23 @@
         "extra": [],
         "jp": "朝比奈蒼",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "be1ee63e-6435-579b-980f-5053140c5903",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "525545129",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝雾萤Official",
+        "default": "cn"
       }
     },
     {
