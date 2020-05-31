@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590915579
+    "timestamp": 1590915598
   },
   "vtbs": [
     {
@@ -41518,6 +41518,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "38a0acc6-b54d-507e-84aa-45fdf09bb3db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4211156",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霍柴玉铉",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8fa40416-ea98-5ed1-843c-134377ab425f",
