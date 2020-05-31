@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1590897047
+    "timestamp": 1590898057
   },
   "vtbs": [
     {
@@ -8530,6 +8530,23 @@
         "default": "cn"
       },
       "group": "dea65e99-8859-5f68-a768-6898e68bb666"
+    },
+    {
+      "uuid": "9b7630e2-6ce9-509a-be19-10c1d9e2d98b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "838046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一团YUI喵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4e04098b-a0de-5e57-9acc-615bc6dcb74f",
@@ -31952,7 +31969,8 @@
         "extra": [],
         "cn": "知更ちゃん",
         "default": "cn"
-      }
+      },
+      "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
     },
     {
       "uuid": "df5c9d13-a543-5cca-8e7e-dd334a9d5e8c",
@@ -36128,6 +36146,23 @@
       "name": {
         "extra": [],
         "cn": "芳芳芳砸",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3fde376b-c61a-540f-bff6-7e7c8414ecc8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1514013",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芽千千ガチチ",
         "default": "cn"
       }
     },
