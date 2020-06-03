@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591120967
+    "timestamp": 1591200833
   },
   "vtbs": [
     {
@@ -40931,6 +40931,23 @@
       }
     },
     {
+      "uuid": "3186c2a5-2d16-5fee-84d1-9c93d08f898d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1612112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "雛月Mofu",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "90d1998b-58b5-5e1e-8dc5-a153d5e754b4",
       "type": "vtuber",
       "bot": false,
@@ -42749,38 +42766,6 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
-    },
-    {
-      "uuid": "a77f5be0-a9a1-58d1-b89b-81ef657bce95",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCF5_KY0GBDxQyLASpnZ8Y2w",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "1612112",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "Mayoi_Sakyu",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "D85A1172136F34A8_766ba8",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "魔宵さきゅ",
-        "default": "jp"
-      }
     },
     {
       "uuid": "256944e7-d158-5b1a-8a33-462a0f1611d7",
