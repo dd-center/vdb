@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591200833
+    "timestamp": 1591200890
   },
   "vtbs": [
     {
@@ -19007,6 +19007,23 @@
       "name": {
         "extra": [],
         "cn": "希普珊瑚剧团",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5881a215-3b94-54cc-8532-cd58074e87a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8230334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希罗_KiraraChannel",
         "default": "cn"
       }
     },
