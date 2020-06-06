@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591447839
+    "timestamp": 1591448182
   },
   "vtbs": [
     {
@@ -18182,6 +18182,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "66abc8f2-d696-5ca6-b4ce-42d70f6be392",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "565227904",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小魔-Chima",
+        "default": "cn"
+      },
+      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "0b062e4b-ecc4-548e-995b-7e476ba10e39",
