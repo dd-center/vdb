@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591448182
+    "timestamp": 1591503391
   },
   "vtbs": [
     {
@@ -31641,6 +31641,24 @@
         "cn": "百南芋",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fdbdeae2-9f6e-5882-80dd-9a5cf6dce77e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3060972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百夜りんや",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
       "uuid": "d1ece41c-0365-55bc-a9d6-6d650da647aa",
