@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705485
+    "timestamp": 1591705875
   },
   "vtbs": [
     {
@@ -902,6 +902,23 @@
         "extra": [],
         "en": "CANAMETOHARUKY",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "f5c22537-86ed-5867-ba78-a45fb079236c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "222288454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CC98虚拟主播林雪樱",
+        "default": "cn"
       }
     },
     {
@@ -27611,6 +27628,23 @@
       }
     },
     {
+      "uuid": "9ad95c96-5fff-529a-a615-bb9a017eb409",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "538521528",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海里Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "280b872d-95c6-5ef2-9df8-4e06390b0dbe",
       "type": "vtuber",
       "bot": false,
@@ -31326,6 +31360,23 @@
       "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
+      "uuid": "2c6f93af-5c93-5696-8bd1-47ce0e967388",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2081324",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白白_Anlessya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c67fb562-22df-55d6-82f2-38be6b768a37",
       "type": "vtuber",
       "bot": false,
@@ -32558,6 +32609,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "03d67774-4214-5782-8441-eee8a9a44a7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7701793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祀祀大西瓜",
+        "default": "cn"
+      }
     },
     {
       "uuid": "04e3d2b5-d42f-59ec-a01f-1aeae2810914",
@@ -36952,6 +37020,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "3d8950d2-b500-5c14-b4b7-9f4d5956e0c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4445968",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茧Mayuu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "11ec799d-8869-5814-b36c-d02b1fd26fcc",
