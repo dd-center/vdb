@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705178
+    "timestamp": 1591705205
   },
   "vtbs": [
     {
@@ -7512,6 +7512,23 @@
         "default": "jp"
       },
       "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
+    },
+    {
+      "uuid": "895c7b94-391e-52f3-a745-5be617cf94cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12299398",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ショコラOfficial ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "594af259-2e37-5713-a629-483361cb7674",
@@ -27554,6 +27571,23 @@
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
     },
     {
+      "uuid": "838311a7-4ca0-526d-99c5-1ffd4c524f4a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "808682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海猫umi ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "280b872d-95c6-5ef2-9df8-4e06390b0dbe",
       "type": "vtuber",
       "bot": false,
@@ -33952,6 +33986,23 @@
       }
     },
     {
+      "uuid": "2dca722e-4e89-5976-acea-4197c4e320ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2804063",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糸色響 ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8d5e2d4d-329d-56d2-a09f-0e34736e096b",
       "type": "vtuber",
       "bot": false,
@@ -35716,6 +35767,23 @@
       "group": "e0b42ce4-0090-560b-96a1-82d5bc8f7164"
     },
     {
+      "uuid": "cc796f84-fb42-5e1c-a11c-8922c9991f90",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "55775602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾可echo_channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "31be73be-b213-56a9-b792-2b064c1f4e8d",
       "type": "vtuber",
       "bot": false,
@@ -35837,6 +35905,23 @@
       "name": {
         "extra": [],
         "cn": "艾莓雅与莉莉丝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "77f31d30-5227-521d-8ec3-8299821c8d0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11349313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾露ミアナChannel ",
         "default": "cn"
       }
     },
@@ -39805,7 +39890,8 @@
         "extra": [],
         "cn": "里莱拉_Official",
         "default": "cn"
-      }
+      },
+      "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474"
     },
     {
       "uuid": "b541b1c0-60e4-5ce3-b478-396c018cacc8",
