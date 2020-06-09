@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705007
+    "timestamp": 1591705054
   },
   "vtbs": [
     {
@@ -1759,6 +1759,23 @@
         "default": "cn"
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af"
+    },
+    {
+      "uuid": "b1367af1-430c-51e5-9936-668c291cfec3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1316965",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KYAN_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "720f517a-d6d8-5fde-8227-9fd98664c588",
@@ -9990,6 +10007,23 @@
       }
     },
     {
+      "uuid": "b0e76c81-0e92-507b-9c0e-f456dc46c53f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6418902",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二雲信Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "656c1a8d-d864-5b60-a6c1-c0639a7eee12",
       "type": "vtuber",
       "bot": false,
@@ -15095,6 +15129,23 @@
       "name": {
         "extra": [],
         "cn": "多莉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94dfc8e1-4e00-5d9c-8ec6-d8b55191b832",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9121446",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多间硝子_Official",
         "default": "cn"
       }
     },
@@ -24932,6 +24983,23 @@
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
     },
     {
+      "uuid": "d8e71dea-6718-5ada-8d01-deafe45764d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2416783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗の安沙_鮟鱇official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8ea9a42d-49eb-5ea0-8dad-0fd7947d3ca9",
       "type": "vtuber",
       "bot": false,
@@ -31741,6 +31809,23 @@
       "name": {
         "extra": [],
         "cn": "百南芋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "92c03cea-a29f-5385-97be-5b2d6f286d1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18945413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百合鸽Official",
         "default": "cn"
       }
     },
