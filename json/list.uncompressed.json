@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705289
+    "timestamp": 1591705412
   },
   "vtbs": [
     {
@@ -32278,6 +32278,24 @@
         "cn": "眠葉紺",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f750e6c1-02ab-5d48-9245-4e3863b80d55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475142806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瞳Hitomi_Official",
+        "default": "cn"
+      },
+      "group": "486c63ef-ef29-5ec5-8930-8ccd6dce837b"
     },
     {
       "uuid": "3af10bf6-3294-5bd1-aac6-6dfd73a5cd73",
