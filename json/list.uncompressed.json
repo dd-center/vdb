@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705054
+    "timestamp": 1591705178
   },
   "vtbs": [
     {
@@ -10785,6 +10785,21 @@
         "extra": [],
         "jp": "伏見ガク",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "26ec630c-c241-5fec-9f7f-a492199d2523",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5364685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": []
       }
     },
     {
@@ -42061,6 +42076,21 @@
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
     },
     {
+      "uuid": "7b51e4c2-b4ed-5b29-b4ac-1a6f23035f35",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "98780343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": []
+      }
+    },
+    {
       "uuid": "08063d0f-0cb1-54cd-8c94-bd6f9afd99c8",
       "type": "vtuber",
       "bot": false,
@@ -44294,6 +44324,21 @@
         "extra": [],
         "jp": "黒音うらら",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "ef6fc095-e9b8-5b9b-98d1-79cbfa01824f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20714271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": []
       }
     },
     {
