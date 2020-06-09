@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705205
+    "timestamp": 1591705289
   },
   "vtbs": [
     {
@@ -4072,7 +4072,13 @@
       "uuid": "f91c8cd6-c548-5ff2-a7de-e7d47d92c851",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "394856061",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "en": "VGaming",
