@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591705412
+    "timestamp": 1591705485
   },
   "vtbs": [
     {
@@ -14134,6 +14134,23 @@
       "name": {
         "extra": [],
         "cn": "咕咕热干面",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b16e41e5-244e-5902-b538-838e45e21612",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6045104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咲Saki_Official",
         "default": "cn"
       }
     },
@@ -30595,6 +30612,23 @@
       "name": {
         "extra": [],
         "cn": "環さんご",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b21c4878-773b-5827-b005-38aca2a45a46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351226133",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瓶装寂寞Kolo",
         "default": "cn"
       }
     },
