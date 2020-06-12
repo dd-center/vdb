@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1591923054
+    "timestamp": 1591961215
   },
   "vtbs": [
     {
@@ -31528,6 +31528,23 @@
       "name": {
         "extra": [],
         "cn": "白澄常花Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9fd6aa4-8ed8-567c-9fec-0b7db88986c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "66669754",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白炽炽--Tkcikeb",
         "default": "cn"
       }
     },
