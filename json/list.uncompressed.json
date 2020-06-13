@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037271
+    "timestamp": 1592037290
   },
   "vtbs": [
     {
@@ -41923,6 +41923,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "b6060b0e-3111-5459-9d5a-04171c8915e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2310068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨旋_Yusen",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f325924a-02f3-5c9f-9815-0c2b96f5adc4",
