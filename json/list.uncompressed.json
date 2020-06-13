@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037179
+    "timestamp": 1592037194
   },
   "vtbs": [
     {
@@ -34033,6 +34033,23 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
+    },
+    {
+      "uuid": "0546f0e4-5849-5c97-8d69-ce21c5a5ae79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "594474157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筱凛凛ShinoRin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "98cb6007-4357-5b9c-b3f1-5685fa10712d",
