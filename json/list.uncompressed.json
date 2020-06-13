@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037290
+    "timestamp": 1592037524
   },
   "vtbs": [
     {
@@ -12654,6 +12654,23 @@
       "name": {
         "extra": [],
         "cn": "北川美月_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7ccf92e1-dff6-5abf-adfa-cbf20359d930",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "203137754",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北柒_Official",
         "default": "cn"
       }
     },
