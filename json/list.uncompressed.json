@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037228
+    "timestamp": 1592037271
   },
   "vtbs": [
     {
@@ -39298,6 +39298,23 @@
       "name": {
         "extra": [],
         "cn": "賀茂川ドイル",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e7f89b5-6903-507d-9acb-c5b2023e5ba7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18777431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝利亚尔belial",
         "default": "cn"
       }
     },
