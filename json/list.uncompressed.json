@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037194
+    "timestamp": 1592037228
   },
   "vtbs": [
     {
@@ -14667,6 +14667,23 @@
         "default": "cn"
       },
       "group": "a5a6750b-a591-516f-a261-f1a77f46d4db"
+    },
+    {
+      "uuid": "cc3a276b-14c5-51f4-871c-1bff7e0e45a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14675261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "回收娘Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1b1cbc33-2340-5ec0-aa0d-d9b4f6234d58",
