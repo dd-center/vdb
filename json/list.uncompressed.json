@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592037524
+    "timestamp": 1592107436
   },
   "vtbs": [
     {
@@ -16114,10 +16114,17 @@
           "id": "490425695",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "482515510",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "天川花乃official"
+        ],
         "cn": "天川はの水族馆",
         "default": "cn"
       },
@@ -28724,10 +28731,17 @@
           "id": "453372408",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "482515509",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "姬熊结璃Official"
+        ],
         "cn": "熊之屋",
         "default": "cn"
       },
