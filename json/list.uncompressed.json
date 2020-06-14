@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592148293
+    "timestamp": 1592148315
   },
   "vtbs": [
     {
@@ -34465,6 +34465,23 @@
       "name": {
         "extra": [],
         "cn": "糖啾Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "50499dd6-8daf-545a-80f3-2a6e784c6940",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17725484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糯米米MOCHIGOME",
         "default": "cn"
       }
     },
