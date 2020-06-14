@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592148315
+    "timestamp": 1592148605
   },
   "vtbs": [
     {
@@ -21345,6 +21345,24 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "02a19a40-7cf1-5d3e-a95c-ec0f720ab4ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新月冰冰",
+        "default": "cn"
+      },
+      "group": "9d57820a-206f-5d41-a778-42ae985dd0f4"
+    },
+    {
       "uuid": "7c0c1d04-1b50-56f8-ba19-65d0a5b00de4",
       "type": "vtuber",
       "bot": false,
@@ -39793,6 +39811,24 @@
         "default": "cn"
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
+      "uuid": "9d57820a-206f-5d41-a778-42ae985dd0f4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "597066058",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "超电VUP官方账号",
+        "default": "cn"
+      },
+      "group": "9d57820a-206f-5d41-a778-42ae985dd0f4"
     },
     {
       "uuid": "e488a1f1-4394-5580-861b-15e55f15986b",
