@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592148264
+    "timestamp": 1592148293
   },
   "vtbs": [
     {
@@ -33035,6 +33035,23 @@
         "default": "cn"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "d6e72082-d844-562e-8745-ca11f5aad224",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "41113885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神代芷月official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4615ec4d-715a-5c72-9f74-b488dc646ce5",
