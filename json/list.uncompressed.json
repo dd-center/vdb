@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592211797
+    "timestamp": 1592274714
   },
   "vtbs": [
     {
@@ -3778,6 +3778,23 @@
       "name": {
         "extra": [],
         "cn": "Seikyuu-VA",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec52bd47-9b61-5ee1-b388-573e64d1fc1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12065970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SericaCyning_辛宁",
         "default": "cn"
       }
     },
@@ -26482,6 +26499,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "743132b8-39b0-53b2-ad25-3114a2000f77",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "318486464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙子言Charie",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ad50af07-8cc7-5f7b-a2ca-ad19411d4195",
