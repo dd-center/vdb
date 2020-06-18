@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592459978
+    "timestamp": 1592460097
   },
   "vtbs": [
     {
@@ -4542,6 +4542,24 @@
         "jp": "YUA/藤崎由愛",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "4ea972a7-869b-5c3d-b5d4-01e2aa3a510e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "512480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "YUKIri",
+        "default": "cn"
+      },
+      "group": "9d57820a-206f-5d41-a778-42ae985dd0f4"
     },
     {
       "uuid": "f4d991d0-7877-5221-aa85-d05f92d404f3",
