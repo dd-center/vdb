@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1592460097
+    "timestamp": 1592543012
   },
   "vtbs": [
     {
@@ -30361,6 +30361,24 @@
         "ch": "玉米桐生バトラ玉米",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "5079cb2b-1206-5fbc-a6d3-b97798c37614",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12431536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王剑Official",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "0d90f7d9-6a89-5e8e-b9f5-077181b433d3",
