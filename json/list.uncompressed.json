@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593683628
+    "timestamp": 1593683769
   },
   "vtbs": [
     {
@@ -11007,6 +11007,24 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "2d9d6d0f-bde3-5d18-9ea2-705a73d6867e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2899681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伽罗Gianlo",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "d6a00d86-fd56-515e-9a41-ebb64221fd83",
