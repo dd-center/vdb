@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681697
+    "timestamp": 1593681740
   },
   "vtbs": [
     {
@@ -39442,6 +39442,24 @@
         "default": "cn"
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
+      "uuid": "1deb8ed0-eb03-5386-8188-d5f33e0fc5fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36576761",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗小雅Official",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "a2c02e3b-e7c9-5cce-9551-c3ea491eecb5",
