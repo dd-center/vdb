@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593683769
+    "timestamp": 1593683835
   },
   "vtbs": [
     {
@@ -40837,6 +40837,23 @@
         "extra": [],
         "jp": "酒呑みみこ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f21cb3fd-c715-55a4-84b2-7ba0e49fad98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6640131",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒酒井アンリ",
+        "default": "cn"
       }
     },
     {
