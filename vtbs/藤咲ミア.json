@@ -4,7 +4,10 @@
     "jp": "藤咲ミア"
   },
   "accounts": {
-    "bilibili": "543381621",
+    "bilibili": {
+      "id": "543381621",
+      "type": "relay"
+    },
     "youtube": "UCKwFWF5L0PWx03IifBXmCmQ"
   }
 }
