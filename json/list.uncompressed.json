@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593685095
+    "timestamp": 1593685613
   },
   "vtbs": [
     {
@@ -16900,6 +16900,24 @@
         "ch": "奈特Niet",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "8707ab90-2a5b-5f80-95d0-ca397798395b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474856218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈璐Naru",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "0b1940bb-57ab-5abb-91e1-f2f31dd81e2a",
