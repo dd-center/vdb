@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593680544
+    "timestamp": 1593681514
   },
   "vtbs": [
     {
@@ -18255,6 +18255,23 @@
       "name": {
         "extra": [],
         "cn": "小沐城管_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ea9f89d8-51f3-5dd5-a10f-be66209cc199",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "403680417",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小漫official",
         "default": "cn"
       }
     },
