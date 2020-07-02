@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593684072
+    "timestamp": 1593684696
   },
   "vtbs": [
     {
@@ -38973,19 +38973,25 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
-      "uuid": "950383aa-ab37-55d9-91d0-8be0c8ffb1ba",
+      "uuid": "08e514da-1504-50eb-b331-ec3675a839d5",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
           "id": "543381621",
-          "type": "official",
+          "type": "relay",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCKwFWF5L0PWx03IifBXmCmQ",
+          "type": "official",
+          "platform": "youtube"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "藤咲mia搬运组",
+        "cn": "藤咲mia",
+        "jp": "藤咲ミア",
         "default": "cn"
       }
     },
