@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593683886
+    "timestamp": 1593684072
   },
   "vtbs": [
     {
@@ -8696,6 +8696,23 @@
         "default": "cn"
       },
       "group": "dea65e99-8859-5f68-a768-6898e68bb666"
+    },
+    {
+      "uuid": "b52b07e4-4bab-5b86-83c4-388b0d415498",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10255309",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只机智的兔子icey",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9b7630e2-6ce9-509a-be19-10c1d9e2d98b",
