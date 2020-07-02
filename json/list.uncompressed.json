@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593682568
+    "timestamp": 1593682747
   },
   "vtbs": [
     {
@@ -24435,6 +24435,24 @@
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
     {
+      "uuid": "5d75c167-b974-5f5b-8c62-09886ea84ad6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "611529563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朴古Official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
       "uuid": "af4d7934-7d10-55f9-8f27-6fdbdfb8faa2",
       "type": "vtuber",
       "bot": false,
@@ -38671,6 +38689,23 @@
         "jp": "蒼乃ゆうき",
         "cn": "蒼乃幽姬",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4dac1e59-c989-5c90-a92e-f31390bdc14d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626562",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒼唯有栖",
+        "default": "cn"
       }
     },
     {
