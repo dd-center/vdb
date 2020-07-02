@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681740
+    "timestamp": 1593681970
   },
   "vtbs": [
     {
@@ -44596,6 +44596,23 @@
       "name": {
         "extra": [],
         "cn": "鸩予",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c680e521-c161-59fc-a75c-c5bb098bd3fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3446326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸫_Tsugumi",
         "default": "cn"
       }
     },
