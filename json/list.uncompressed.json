@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681615
+    "timestamp": 1593681634
   },
   "vtbs": [
     {
@@ -13990,6 +13990,23 @@
         "extra": [],
         "ch": "叶笙Wolf",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "820af225-4ead-550a-a56c-36713c8c5d57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "151207919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶糖_v",
+        "default": "cn"
       }
     },
     {
