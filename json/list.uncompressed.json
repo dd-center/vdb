@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681514
+    "timestamp": 1593681593
   },
   "vtbs": [
     {
@@ -15311,6 +15311,23 @@
       "name": {
         "extra": [],
         "cn": "夏音和缇艾蜜莉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af674de1-178b-5e9a-849c-9a3143fb5a08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2128310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕兔",
         "default": "cn"
       }
     },
