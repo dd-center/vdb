@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593665977
+    "timestamp": 1593680544
   },
   "vtbs": [
     {
@@ -31654,6 +31654,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "09e81af2-a8d1-576c-bbb1-f9d337d15501",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8370845",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白庭Tenko",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "2dadeff6-1ad1-508c-ba5c-732f4f10bb21",
