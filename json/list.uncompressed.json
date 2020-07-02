@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681970
+    "timestamp": 1593682358
   },
   "vtbs": [
     {
@@ -3616,6 +3616,24 @@
         "cn": "树根",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9ea2aec9-5ddf-5ba1-839f-89a33ae4a2b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "516543529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Roya_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
     },
     {
       "uuid": "479cc54b-7946-5f21-b8e3-de2d296fe8a4",
@@ -21372,6 +21390,24 @@
       }
     },
     {
+      "uuid": "78fb136a-a601-516b-af0c-2e01cbdbbe8f",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "604968827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "撒币社",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
+    },
+    {
       "uuid": "7512ea47-1127-5689-9619-4014503a3892",
       "type": "vtuber",
       "bot": false,
@@ -28345,7 +28381,8 @@
         "extra": [],
         "cn": "温言言_official ",
         "default": "cn"
-      }
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
     },
     {
       "uuid": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68",
