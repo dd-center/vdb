@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593681560
+    "timestamp": 1593681697
   },
   "vtbs": [
     {
@@ -1538,7 +1538,8 @@
         "extra": [],
         "cn": "HIKARI-Channel ",
         "default": "cn"
-      }
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
     },
     {
       "uuid": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4",
@@ -3129,6 +3130,24 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "5280227e-7149-51ad-a929-cc2da6852f64",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "531552440",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "POPCORNER官方",
+        "default": "cn"
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
     },
     {
       "uuid": "d72e67f1-3554-5470-a622-d45177bfa2ee",
@@ -13993,6 +14012,23 @@
       }
     },
     {
+      "uuid": "820af225-4ead-550a-a56c-36713c8c5d57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "151207919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶糖_v",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0e83fad9-63ee-5908-9c0f-2d0bcb5d9af6",
       "type": "vtuber",
       "bot": false,
@@ -15311,6 +15347,23 @@
       "name": {
         "extra": [],
         "cn": "夏音和缇艾蜜莉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af674de1-178b-5e9a-849c-9a3143fb5a08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2128310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕兔",
         "default": "cn"
       }
     },
@@ -31795,6 +31848,24 @@
       }
     },
     {
+      "uuid": "fb0fac6b-abdf-562d-aa35-5db523e1edf0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2084003",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白狼库洛哒",
+        "default": "cn"
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
+    },
+    {
       "uuid": "bf4f5402-4f83-5d68-a33d-3ccd5181d97d",
       "type": "vtuber",
       "bot": false,
@@ -32368,6 +32439,24 @@
         "cn": "白鹭镜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b68bb264-9938-51a4-8c63-d5796ae72db9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488288502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鹿channel",
+        "default": "cn"
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
     },
     {
       "uuid": "2749f895-cb4d-5ffd-8e9d-425f4e616665",
@@ -41428,6 +41517,23 @@
         "extra": [],
         "jp": "闇夜乃モルル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a1b77358-681d-5cbe-b912-16efb7ebfe43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "430655245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闇星芬诺斯",
+        "default": "cn"
       }
     },
     {
