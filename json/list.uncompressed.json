@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275004
+    "timestamp": 1594275018
   },
   "vtbs": [
     {
@@ -1848,6 +1848,24 @@
         "cn": "KYAN_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "149c29ed-6c83-5786-bd76-5bd726d5b569",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2115078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Kana_卡娜",
+        "default": "cn"
+      },
+      "group": "5738c8e4-809a-5396-b107-81261d6a3907"
     },
     {
       "uuid": "720f517a-d6d8-5fde-8227-9fd98664c588",
