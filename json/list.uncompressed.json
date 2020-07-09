@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594326141
+    "timestamp": 1594326204
   },
   "vtbs": [
     {
@@ -1268,6 +1268,24 @@
         "default": "en"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "591873785",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EGOLIVE",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "33f4e9ac-4977-580d-b5be-1ee8af532193",
@@ -11857,6 +11875,24 @@
       }
     },
     {
+      "uuid": "cce72786-e515-5a6c-afd0-7e3ca4bda98a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2683466",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八寻只只official",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
       "uuid": "60684ca8-edf5-5ff1-8137-cc77a8c4f84d",
       "type": "vtuber",
       "bot": false,
@@ -12210,6 +12246,24 @@
         "default": "cn"
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
+      "uuid": "a5be682c-7b95-57e3-866f-c452fd9a0ff7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "505794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰奶茶Official",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "9e712837-dc3d-5653-bfb3-ecb91b3f0267",
@@ -12734,6 +12788,24 @@
         "cn": "初焰Hatsuhomura",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8b5dc879-cf91-5c96-acfb-cc0fa1da4566",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "743603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初霜Shimo",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "dbcc8e82-66c3-5547-b9ad-5e2d80f57a34",
