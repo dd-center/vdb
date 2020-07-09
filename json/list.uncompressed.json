@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594325999
+    "timestamp": 1594326115
   },
   "vtbs": [
     {
@@ -14274,6 +14274,23 @@
       "name": {
         "extra": [],
         "cn": "可儿江七明",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f248df02-076d-519b-abd6-88966065317b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "520444073",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可可拉Coala",
         "default": "cn"
       }
     },
