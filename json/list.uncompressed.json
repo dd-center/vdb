@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594274158
+    "timestamp": 1594274532
   },
   "vtbs": [
     {
@@ -37343,6 +37343,23 @@
         "extra": [],
         "cn": "花山妮娅_花山拿",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d919f3f8-a11d-544f-980c-f728bc34a0b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1641117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "花崎寧々",
+        "default": "jp"
       }
     },
     {
