@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1593961267
+    "timestamp": 1594273749
   },
   "vtbs": [
     {
@@ -3701,6 +3701,23 @@
       "name": {
         "extra": [],
         "cn": "Ryoko凉子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a86abd0c-cfa6-5357-bdd5-738572759560",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "97340936",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "S1娘Official",
         "default": "cn"
       }
     },
