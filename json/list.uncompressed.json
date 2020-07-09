@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275221
+    "timestamp": 1594275274
   },
   "vtbs": [
     {
@@ -17156,6 +17156,23 @@
       "name": {
         "extra": [],
         "cn": "奏江ヘラ_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "19827302-8db5-5a40-980a-1c4b77cd91f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "133645806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥克塔维娅Official",
         "default": "cn"
       }
     },
