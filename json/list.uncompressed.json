@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594325159
+    "timestamp": 1594325287
   },
   "vtbs": [
     {
@@ -38186,6 +38186,23 @@
       "name": {
         "extra": [],
         "cn": "芽千千ガチチ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b34f684-d910-571d-9d39-04e735cd5d70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "72537730",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苍冰·F·萨哈罗娜",
         "default": "cn"
       }
     },
