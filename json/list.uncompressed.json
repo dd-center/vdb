@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594289457
+    "timestamp": 1594289615
   },
   "vtbs": [
     {
@@ -18710,6 +18710,24 @@
         "cn": "小楠道",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "51e34fae-162f-5ff3-ab5d-d0e908fc98e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "433189681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小水乙女Komizuotome",
+        "default": "cn"
+      },
+      "group": "b29095e6-c178-5900-871c-349e426ad495"
     },
     {
       "uuid": "f2782115-2f87-5cfe-8362-dcfd56c1315a",
