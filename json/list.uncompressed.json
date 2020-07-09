@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594283273
+    "timestamp": 1594289371
   },
   "vtbs": [
     {
@@ -3922,6 +3922,23 @@
       "name": {
         "extra": [],
         "cn": "SericaCyning_辛宁",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "175e7b51-8146-5774-9001-f51da0a62164",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16965625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Setsu-夜灵",
         "default": "cn"
       }
     },
