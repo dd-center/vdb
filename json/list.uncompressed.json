@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594325562
+    "timestamp": 1594325692
   },
   "vtbs": [
     {
@@ -44984,6 +44984,23 @@
         "default": "cn"
       },
       "group": "d71b4174-d0c3-5d9d-ac1f-bef92136f290"
+    },
+    {
+      "uuid": "ec28febd-6eaf-549b-95a2-449acdba9b10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "600956210",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔仙女团-小蓝-official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "89359530-5a15-5358-821a-262d287812be",
