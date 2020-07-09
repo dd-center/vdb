@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594289371
+    "timestamp": 1594289387
   },
   "vtbs": [
     {
@@ -13495,6 +13495,34 @@
         "extra": [],
         "cn": "半沢的ケミ",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "92e3080e-069d-5905-b756-c15a51eb7a6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609570409",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCjSFy_YhrpWKxLG0MR0iSbg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "hanae_ui",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "華江兎苺",
+        "cn": "华江兔莓",
+        "default": "jp"
       }
     },
     {
@@ -35297,6 +35325,24 @@
         "cn": "精灵Elu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ba9eb5c3-d364-5b11-b29e-a18d776bc442",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "442191864",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "精灵希尔芙Sylph",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "09eedd4f-8f99-5943-a562-d40abfdc2186",
