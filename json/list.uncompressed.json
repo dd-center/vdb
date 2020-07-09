@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275211
+    "timestamp": 1594275221
   },
   "vtbs": [
     {
@@ -38577,6 +38577,24 @@
         "ch": "菜菜子-Nanako",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "1d071c99-d15c-55f1-8676-c2a507f84352",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "595407557",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菜菜子Nanako",
+        "default": "cn"
+      },
+      "group": "9929349e-5054-5d7d-b452-7439636aaa33"
     },
     {
       "uuid": "6ffcbcc1-72fb-590b-99bc-d6a913bf800e",
