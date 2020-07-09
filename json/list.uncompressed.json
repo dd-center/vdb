@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594325136
+    "timestamp": 1594325159
   },
   "vtbs": [
     {
@@ -27460,6 +27460,23 @@
         "default": "cn"
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
+      "uuid": "2a8fa0c3-aee1-5824-a934-687f003e0c37",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22974315",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "残夜暗杀_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a57a513a-09f7-5d77-9dfc-4ebac3de8149",
