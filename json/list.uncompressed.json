@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275521
+    "timestamp": 1594278502
   },
   "vtbs": [
     {
@@ -12104,7 +12104,26 @@
         "extra": [],
         "cn": "冬月anna_专属Channel",
         "default": "cn"
-      }
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
+    },
+    {
+      "uuid": "a9b97822-7114-5e1d-8cf9-37676ab4bb40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "442403107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬月冰织_Official",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "a69d1369-1ae6-5d62-a197-af5c49e1050d",
@@ -12541,6 +12560,24 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "478be869-b44b-58f4-b0d1-10426be8cc80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29282736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "切尔茜ChelseaDain",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "a7a32552-1bad-5685-b0ed-cad898eec55e",
@@ -16450,6 +16487,24 @@
       }
     },
     {
+      "uuid": "b888a6bc-de25-5776-8744-aedc6d9155d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "491875500",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天宫雪穗Official",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
+    },
+    {
       "uuid": "6210a2db-d6ec-52e5-86ef-f1fee682752d",
       "type": "vtuber",
       "bot": false,
@@ -16874,6 +16929,24 @@
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
     },
     {
+      "uuid": "0bc2ee6f-e8e0-5945-907f-b62c3acdcc13",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9411611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天香沫茗_Official",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
+    },
+    {
       "uuid": "bc2d8510-d7bd-52b9-843e-84353d918a79",
       "type": "vtuber",
       "bot": false,
@@ -16926,6 +16999,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "370f05ed-ac39-5cfe-addd-e084e220ed1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "365854323",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奇卡阿布_Official",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "6419e66c-b09b-54b7-9908-492037d5ea5f",
@@ -18181,6 +18272,24 @@
         "cn": "宫宫",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e9f58a27-84b7-5f32-b60f-02b5571fbce5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5595633",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫崎Kiiyo_Official",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "58fc0f8e-898a-5b16-8eee-095ee28ece4e",
@@ -20964,6 +21073,18 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "81fb6430-675c-5177-9443-8dedd2b96730",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "忘崽牛奶",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "7ebac9fc-9dc8-57df-a5b1-023829dce627",
@@ -26494,6 +26615,24 @@
         "default": "cn"
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
+      "uuid": "8591e842-e3a6-50d7-8611-dfa17622be7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3102590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椎名リン_Channel",
+        "default": "cn"
+      },
+      "group": "81fb6430-675c-5177-9443-8dedd2b96730"
     },
     {
       "uuid": "6f70ab39-34d8-5785-8252-2b1ba0b344d6",
