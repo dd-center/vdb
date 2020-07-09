@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594274740
+    "timestamp": 1594274896
   },
   "vtbs": [
     {
@@ -1145,6 +1145,23 @@
       }
     },
     {
+      "uuid": "a865f61b-f786-594b-b75c-c0e0481e6990",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "406987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "DENKIMOFU",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "23a777bf-5a40-5d14-a2dd-53067f71a249",
       "type": "vtuber",
       "bot": false,
@@ -1376,6 +1393,23 @@
         "extra": [],
         "ch": "Elena-沐沐",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "1f222196-1de9-5074-8c6d-9aa70c4db562",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1480838",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EricaZehnt_埃莉卡",
+        "default": "cn"
       }
     },
     {
@@ -14630,6 +14664,23 @@
         "default": "cn"
       },
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
+      "uuid": "95f9fe82-b240-58eb-a5b6-1ca974634d5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "317470592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咸鱼味的米粉儿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9c792ae6-3764-515c-8a62-2f2601da3c0c",
