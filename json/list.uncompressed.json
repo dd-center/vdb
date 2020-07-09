@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594273749
+    "timestamp": 1594273885
   },
   "vtbs": [
     {
@@ -9163,6 +9163,23 @@
         "default": "cn"
       },
       "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+    },
+    {
+      "uuid": "f1f7479c-c638-56bd-85b8-be76e9d6d915",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16815794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三三七Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8a61a774-967d-5812-8415-53b65c244d52",
