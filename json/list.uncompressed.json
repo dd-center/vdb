@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594289412
+    "timestamp": 1594289457
   },
   "vtbs": [
     {
@@ -21746,6 +21746,34 @@
         "extra": [],
         "cn": "拓麻肩子_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bc2a1281-d2d7-51f7-a743-79d69a236df4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17855498",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCM1x5jQwA8v8yzSq_svSHQQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Nyako_Shofuku",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "招福にゃこ",
+        "cn": "招福Nyako",
+        "default": "jp"
       }
     },
     {
