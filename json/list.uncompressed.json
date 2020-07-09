@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594309588
+    "timestamp": 1594325062
   },
   "vtbs": [
     {
@@ -25225,6 +25225,23 @@
         "jp": "来栖らいあ",
         "en": "Kurusu Raia",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c49a1475-492b-5e03-8387-8a5e4c685d12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "600325424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杨小莜_Official",
+        "default": "cn"
       }
     },
     {
