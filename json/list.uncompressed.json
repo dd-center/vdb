@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594274532
+    "timestamp": 1594274548
   },
   "vtbs": [
     {
@@ -11430,6 +11430,23 @@
         "extra": [],
         "ch": "元气少年洛鸢",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "ef408ed0-f63a-53fb-8e27-977bd91cfa85",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6121204",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "克洛伊斯",
+        "default": "CN"
       }
     },
     {
