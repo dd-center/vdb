@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275126
+    "timestamp": 1594275211
   },
   "vtbs": [
     {
@@ -27376,6 +27376,24 @@
         "cn": "水无月林檎",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4c8aed76-eef7-5bfb-b613-9621df252501",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3633644",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水柳雪音Yukine",
+        "default": "cn"
+      },
+      "group": "e0b42ce4-0090-560b-96a1-82d5bc8f7164"
     },
     {
       "uuid": "6f3c69b8-0449-5d67-b5e2-d5b8c56c8aa5",
