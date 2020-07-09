@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594275274
+    "timestamp": 1594275521
   },
   "vtbs": [
     {
@@ -36144,6 +36144,24 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "faac37d6-12a4-53f6-89b2-b72c2b675bf8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "550433673",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫藤天沫",
+        "default": "cn"
+      },
+      "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
       "uuid": "dea5ec5f-a3cb-5269-9844-7f769999da74",
