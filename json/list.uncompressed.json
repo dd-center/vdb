@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594361421
+    "timestamp": 1594361469
   },
   "vtbs": [
     {
@@ -43658,6 +43658,23 @@
       "name": {
         "extra": [],
         "cn": "陌星之韵_Channel ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d8677ea2-d620-5ec5-ad2e-a4754917049b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "30527188",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陌茵",
         "default": "cn"
       }
     },
