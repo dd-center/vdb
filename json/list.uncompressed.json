@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594364052
+    "timestamp": 1594364080
   },
   "vtbs": [
     {
@@ -36639,6 +36639,23 @@
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
+      "uuid": "113f7ead-aaa6-562c-86c7-f53325eec04c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625181413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "結城美知留Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e969f69e-acfc-527c-aa4e-c141861ff210",
       "type": "vtuber",
       "bot": false,
@@ -38676,6 +38693,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "1d2de820-90a1-5695-82cc-2a125f25f460",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "619471232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花緑青-HanarokuAo-",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9a1c5ce7-e6aa-519b-8eae-9f56c1ea7671",
