@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594361664
+    "timestamp": 1594361692
   },
   "vtbs": [
     {
@@ -13254,6 +13254,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "fbc86484-1db2-5c00-9c6f-779b1d3bb908",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3252395",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北岛砂糖",
+        "default": "cn"
+      }
     },
     {
       "uuid": "77b03684-4fc1-56ca-8303-541e1a4b0bed",
