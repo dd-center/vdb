@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594361777
+    "timestamp": 1594361847
   },
   "vtbs": [
     {
@@ -11737,6 +11737,24 @@
         "default": "cn"
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
+    },
+    {
+      "uuid": "caee047f-bc0c-53b2-a3c6-e989f5fe79c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "601295355",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克里斯托_channel",
+        "default": "cn"
+      },
+      "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
     },
     {
       "uuid": "e926839f-6734-5c39-bac8-66019391042e",
