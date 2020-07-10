@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594357071
+    "timestamp": 1594357157
   },
   "vtbs": [
     {
@@ -1556,6 +1556,26 @@
         "default": "cn"
       },
       "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
+    },
+    {
+      "uuid": "6d396a6b-d04b-5b93-808d-f05729aa721a",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "570121110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "GNGG石榴石"
+        ],
+        "cn": "Gn-Gg社",
+        "default": "cn"
+      },
+      "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
     },
     {
       "uuid": "f370c4bf-500c-57d8-960a-bb2ec7715526",
@@ -3507,6 +3527,23 @@
         "default": "cn"
       },
       "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
+    },
+    {
+      "uuid": "1348ecb5-656e-53ef-b285-5dd08a67a393",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3976443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "QQまる_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d8e5a9a0-9eb7-54c3-ac23-248d5fa9d085",
@@ -20925,7 +20962,8 @@
         "extra": [],
         "cn": "张团团",
         "default": "cn"
-      }
+      },
+      "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
     },
     {
       "uuid": "13b500c6-851c-5118-b998-42e7d71e7b2b",
@@ -43465,6 +43503,24 @@
         "cn": "阿睿琳Irene",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5f9b2f34-d9dc-53e9-9115-3fdeef5f43d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9733334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿祁纳_Channel",
+        "default": "cn"
+      },
+      "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
     },
     {
       "uuid": "30a01208-650b-582e-8eea-56e1b0e196f1",
