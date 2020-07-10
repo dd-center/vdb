@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594361881
+    "timestamp": 1594361943
   },
   "vtbs": [
     {
@@ -20464,7 +20464,8 @@
         "extra": [],
         "cn": "希罗_KiraraChannel",
         "default": "cn"
-      }
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "a5e154c8-6ba0-5d0d-b387-4069c4fce216",
@@ -22870,6 +22871,24 @@
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
     },
     {
+      "uuid": "14519c30-cd74-5c81-8eab-5795fa7c51c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "249978573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明治Alice-Official",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
       "uuid": "2cc7e79f-d4a8-5cc7-bb73-279493c60b1c",
       "type": "vtuber",
       "bot": false,
@@ -22885,6 +22904,24 @@
         "cn": "明紗",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d116b46b-debc-54b1-8aa3-56f3664e8d06",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32242019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明雪九的狼窝",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "f8f0d05e-3f30-5f58-9fb1-40ad8f44c1a1",
