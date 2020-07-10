@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594360353
+    "timestamp": 1594360373
   },
   "vtbs": [
     {
@@ -12441,6 +12441,23 @@
       "name": {
         "extra": [],
         "cn": "凉咕月沙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "211d02af-bc69-5836-b89b-2eeb0363626a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "513183186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉宫千雪Channel",
         "default": "cn"
       }
     },
@@ -39484,23 +39501,6 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
-    },
-    {
-      "uuid": "d4788412-3ea6-5724-bb59-159f552cdb73",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "513183186",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "ch": "菜菜子-Nanako",
-        "default": "ch"
-      }
     },
     {
       "uuid": "1d071c99-d15c-55f1-8676-c2a507f84352",
