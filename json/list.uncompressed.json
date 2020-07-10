@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594364080
+    "timestamp": 1594366783
   },
   "vtbs": [
     {
@@ -903,6 +903,24 @@
         "en": "CANAMETOHARUKY",
         "default": "en"
       }
+    },
+    {
+      "uuid": "c9d461d8-ada6-5bb4-a347-42d6a30813e0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "595394735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CASA",
+        "default": "cn"
+      },
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "f5c22537-86ed-5867-ba78-a45fb079236c",
@@ -19047,7 +19065,7 @@
         "cn": "小小_Channel",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "eca06190-ac8b-5a33-9152-df14c46daa0c",
@@ -21381,7 +21399,7 @@
         "cn": "御坂北橘official",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "cc0b4be5-9130-51bd-adc9-91994df4932c",
@@ -24905,7 +24923,7 @@
         "cn": "月见枫Channel",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "ca34c338-db12-580f-b64d-f4dc99a021c7",
@@ -28857,7 +28875,7 @@
         "cn": "法芙娜Official",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "0d7c46b3-0d9e-5b19-8566-59fb2e23ff9b",
@@ -37467,7 +37485,7 @@
         "cn": "羽劉JoloOfficial",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "29c46493-8f84-5097-b315-ae90dddaab31",
