@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594361639
+    "timestamp": 1594361664
   },
   "vtbs": [
     {
@@ -27753,6 +27753,23 @@
       "name": {
         "extra": [],
         "cn": "橙良夕Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "90412b87-9785-54d2-a8f8-3e06ad257f71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5168432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "櫛田奈巳_KusidaNami",
         "default": "cn"
       }
     },
