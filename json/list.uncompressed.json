@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594450674
+    "timestamp": 1594450884
   },
   "vtbs": [
     {
@@ -18049,6 +18049,78 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "8ecb4540-63e5-5bfc-a5fc-389a3a173300",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "567469706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅墨Channel",
+        "default": "cn"
+      },
+      "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "ab056789-3135-5eab-a2a8-608daac2148a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612120404",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅沙Channel",
+        "default": "cn"
+      },
+      "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "808db745-b003-53b0-8277-92f40bb8a182",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "543797956",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅绘Channel",
+        "default": "cn"
+      },
+      "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "4b1b7de4-c5b5-562c-acf6-8b35232b51c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2866258",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅羽Channel",
+        "default": "cn"
+      },
+      "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
     },
     {
       "uuid": "d92eab98-0ae5-5312-b55f-110c24e74f1f",
