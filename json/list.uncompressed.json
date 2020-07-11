@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594391737
+    "timestamp": 1594450674
   },
   "vtbs": [
     {
@@ -30130,6 +30130,24 @@
         "cn": "炎沐yamu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4154ada9-b853-50b4-9e06-f333bf4f6339",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51234175",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "炫银蛇",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "fe041269-2979-5a2b-8ada-472df1e9f139",
