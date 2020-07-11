@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594450941
+    "timestamp": 1594450961
   },
   "vtbs": [
     {
@@ -44871,6 +44871,23 @@
       "name": {
         "extra": [],
         "cn": "霍柴玉铉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "383736a8-55c8-5112-856f-61633f374b29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4997542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霜月栗子_official",
         "default": "cn"
       }
     },
