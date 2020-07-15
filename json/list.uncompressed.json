@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594662462
+    "timestamp": 1594795925
   },
   "vtbs": [
     {
@@ -2937,7 +2937,9 @@
       "bot": false,
       "accounts": [],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "No.6 Channel",
+        "default": "cn"
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
@@ -27068,7 +27070,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "桐音笨天official",
+        "default": "cn"
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
@@ -43672,7 +43676,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "阿基Haya",
+        "default": "cn"
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
@@ -45703,6 +45709,24 @@
         "default": "cn"
       },
       "group": "fe322361-ebad-52de-8494-089e3205892b"
+    },
+    {
+      "uuid": "c5a5f2cb-8483-5a33-be38-40c1456ec30b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "492867045",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风霁月Official",
+        "default": "cn"
+      },
+      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
     },
     {
       "uuid": "0ada62d8-9111-54d2-b8d1-fa4890b0c662",
