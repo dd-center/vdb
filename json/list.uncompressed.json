@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594888885
+    "timestamp": 1594888940
   },
   "vtbs": [
     {
@@ -8702,6 +8702,37 @@
         "default": "jp"
       },
       "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
+    },
+    {
+      "uuid": "95821e7c-1ccd-5454-9e79-f41ada064276",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "ratna_petit",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCIG9rDtgR45VCZmYnd-4DUw/featured",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "1809637",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "小熊猫"
+        ],
+        "cn": "拉特娜•佩蒂",
+        "jp": "ラトナ・プティ",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "f04bab08-8e92-5e66-b7c5-79272b15a062",
