@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594889182
+    "timestamp": 1594894087
   },
   "vtbs": [
     {
@@ -44015,6 +44015,23 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "985e5f8b-6734-5fce-9cf2-826f21edd2e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7706705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿梓从小就很可爱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b5182e37-7e53-5f78-9bf2-4670cd6a58dc",
