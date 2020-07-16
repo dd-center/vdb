@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594889026
+    "timestamp": 1594889097
   },
   "vtbs": [
     {
@@ -46932,6 +46932,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "6b7fea26-99ce-5fd3-a1b8-6f468aa0ceb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "558070435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹤森Mori",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1f79ab4b-f569-571a-a585-d52acd5afd5b",
