@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594795925
+    "timestamp": 1594885132
   },
   "vtbs": [
     {
@@ -11526,6 +11526,24 @@
       }
     },
     {
+      "uuid": "06d205c5-7a02-5ee8-a935-639dfcfb0bfd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33697714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佚名Ano_Channel",
+        "default": "cn"
+      },
+      "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
+    },
+    {
       "uuid": "84d987b4-2a25-5bcb-80f1-d45495ee3f43",
       "type": "vtuber",
       "bot": false,
@@ -12976,6 +12994,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "c8149268-6e20-535c-9e98-2a117cd686eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "130097809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初云-cloud",
+        "default": "cn"
+      },
+      "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
     },
     {
       "uuid": "4b6fe3a0-3ead-5e1e-b0f2-d4d5c7090199",
@@ -29534,6 +29570,24 @@
       }
     },
     {
+      "uuid": "c81042c9-082c-5c78-8406-a63e8f37a1cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "281317344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涼宫琉璃",
+        "default": "cn"
+      },
+      "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
+    },
+    {
       "uuid": "ca6067ff-4a8a-574d-a80b-c4aeacb29558",
       "type": "vtuber",
       "bot": false,
@@ -37708,6 +37762,24 @@
       }
     },
     {
+      "uuid": "90d7474b-6308-57d1-bca4-95e9537a0463",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "47226193",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽生泷暮_Kogure",
+        "default": "cn"
+      },
+      "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
+    },
+    {
       "uuid": "1f31d7ff-667c-5c6e-b018-c87d7e42dda2",
       "type": "vtuber",
       "bot": false,
@@ -42341,6 +42413,24 @@
         "default": "cn"
       },
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
+    },
+    {
+      "uuid": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473065482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "远星社FarStar",
+        "default": "cn"
+      },
+      "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
     },
     {
       "uuid": "daa325c8-69fe-5364-b34b-657a89d4a0fa",
