@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1594894087
+    "timestamp": 1595068151
   },
   "vtbs": [
     {
@@ -710,6 +710,24 @@
       "name": {
         "extra": [],
         "cn": "Ankazia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4702b705-071b-5b0b-b05d-9656d203da64",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "26939603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ano奈",
+        "en": "Anona",
         "default": "cn"
       }
     },
