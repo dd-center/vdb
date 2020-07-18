@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595068151
+    "timestamp": 1595097546
   },
   "vtbs": [
     {
@@ -42572,6 +42572,23 @@
       "name": {
         "extra": [],
         "cn": "速冻猫犊子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d32aa53-de4a-5b2c-8485-9a3a943ae1aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "504460731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "速水静-official",
         "default": "cn"
       }
     },
