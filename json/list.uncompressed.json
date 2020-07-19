@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595140916
+    "timestamp": 1595141218
   },
   "vtbs": [
     {
@@ -17962,6 +17962,23 @@
       "name": {
         "extra": [],
         "cn": "奶茶啓巳_Ncha-P",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69277de6-0090-5252-b4c2-f29893348076",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "130209",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶茶姬",
         "default": "cn"
       }
     },
