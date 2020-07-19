@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595138278
+    "timestamp": 1595139011
   },
   "vtbs": [
     {
@@ -28674,6 +28674,28 @@
         "default": "cn"
       },
       "group": "d3d6111b-0610-57fd-af15-f0569ea0ba0a"
+    },
+    {
+      "uuid": "00c2188b-2da1-5ded-a6ce-1f22c3cbd416",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "124025181",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCf3m_P52kO3rfN31AKwbaqQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "水龍敬_Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "d876248a-bb37-56d3-9953-f86970b98dbb",
