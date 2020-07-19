@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595140629
+    "timestamp": 1595140859
   },
   "vtbs": [
     {
@@ -31745,6 +31745,24 @@
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
     },
     {
+      "uuid": "11fc23bd-fa74-5fae-bd33-8d956cf782f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32096754",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫玲薄荷",
+        "default": "cn"
+      },
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
       "uuid": "444ac57e-5aa3-554c-b3d3-f736910dec30",
       "type": "vtuber",
       "bot": false,
@@ -34547,6 +34565,23 @@
         "default": "jp"
       },
       "group": "03e5db22-f42b-57a1-b034-48a7f5642d8a"
+    },
+    {
+      "uuid": "4649f587-80a0-5789-97a4-1b5869180b97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16196589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真是怪怪的-",
+        "default": "cn"
+      }
     },
     {
       "uuid": "abde4f50-55fd-5299-a668-79c195a178da",
