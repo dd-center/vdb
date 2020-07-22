@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595422409
+    "timestamp": 1595422442
   },
   "vtbs": [
     {
@@ -30246,6 +30246,23 @@
       "name": {
         "extra": [],
         "cn": "漆黑的绝对魔兽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df23c3b3-d433-5d5b-9934-1ac229964e90",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40796901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "潇雨幕",
         "default": "cn"
       }
     },
