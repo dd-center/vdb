@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595484760
+    "timestamp": 1595505188
   },
   "vtbs": [
     {
@@ -24048,6 +24048,23 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "b7149432-57d5-5876-9d0b-122298e7d5ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "588038810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星织灯Akariii",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c3657f6c-40a1-5bac-bbd2-4211d11919a0",
       "type": "vtuber",
       "bot": false,
@@ -36199,6 +36216,23 @@
         "extra": [],
         "jp": "竹取かるた",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "887c8cd3-9b89-587f-86b8-6105586755e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "299217536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹君棠Channel",
+        "default": "cn"
       }
     },
     {
