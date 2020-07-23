@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595422442
+    "timestamp": 1595482722
   },
   "vtbs": [
     {
@@ -12930,6 +12930,34 @@
       "name": {
         "extra": [],
         "cn": "凤凰院千夏",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "82a733b9-cc45-5819-abbc-3aebdabbba71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "623441609",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCw-jEa3_788VkvM2zHzrDnw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "hourei_1010",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凤玲天天",
+        "jp": "鳳玲天々",
         "default": "cn"
       }
     },
