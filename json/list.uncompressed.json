@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595482798
+    "timestamp": 1595482968
   },
   "vtbs": [
     {
@@ -2515,23 +2515,6 @@
         "extra": [],
         "cn": "Melody搬运",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "d52fa3c7-4e92-597c-8315-1ce192e6bbb7",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "476542825",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "MeltyPlus",
-        "default": "en"
       }
     },
     {
@@ -39090,6 +39073,34 @@
         "default": "jp"
       },
       "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+    },
+    {
+      "uuid": "b7e78858-c04d-550e-b8f3-365cd1835ae5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476542825",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hana_healthy",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCSH4t_nhsNIoxPza4ooYqaA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花守海露希",
+        "jp": "花守へるし",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93",
