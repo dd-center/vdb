@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595482722
+    "timestamp": 1595482743
   },
   "vtbs": [
     {
@@ -37499,6 +37499,34 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "fda765ed-927e-5714-bb8e-afaf3e649914",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "480179246",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCftJR3Qm0LyEuEQue1QYytA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kmsr_natsume",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纸代棗",
+        "jp": "紙代なつめ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "97a0cdbd-04ed-5a23-8eb9-1babbb48bf1e",
