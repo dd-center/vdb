@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595482770
+    "timestamp": 1595482798
   },
   "vtbs": [
     {
@@ -46796,6 +46796,24 @@
         "jp": "魔界ノりりむ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "89ebf9d9-9954-5d21-a709-af190528c186",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9200786",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔莉亚",
+        "default": "cn"
+      },
+      "group": "5738c8e4-809a-5396-b107-81261d6a3907"
     },
     {
       "uuid": "10c561e4-6ca0-5f63-ac20-1503fa609f17",
