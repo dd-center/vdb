@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595483465
+    "timestamp": 1595483557
   },
   "vtbs": [
     {
@@ -12508,8 +12508,7 @@
         "extra": [],
         "cn": "冬泽枫",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "a5be682c-7b95-57e3-866f-c452fd9a0ff7",
@@ -15446,6 +15445,24 @@
         "cn": "哲十八Sigma诶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d5eea4ae-22c4-539c-b3b3-84efc00ca547",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "360293428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐唐",
+        "default": "cn"
+      },
+      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
     },
     {
       "uuid": "294dbbee-d15a-58d1-8664-a3acdbaf324f",
@@ -24441,6 +24458,24 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "f66aed52-b4be-503b-bf85-42dc0ab7a76a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "390043592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是秋殇呀",
+        "default": "cn"
+      },
+      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
       "uuid": "7badb88f-871d-5acf-8e67-d89cf7b753a0",
       "type": "vtuber",
       "bot": false,
@@ -24719,8 +24754,7 @@
         "extra": [],
         "cn": "暗夜悄语",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "8ac2295f-19c7-565e-aa8c-951812d841a6",
@@ -28287,8 +28321,7 @@
         "extra": [],
         "cn": "次元鬼狐梅子玖",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "93e7fa4d-3e70-5f14-a774-bcc14e22f499",
@@ -28433,8 +28466,7 @@
         "extra": [],
         "cn": "死兆星",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "2a8fa0c3-aee1-5824-a934-687f003e0c37",
@@ -31775,8 +31807,7 @@
         "extra": [],
         "cn": "猫小派",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "ff4511e3-d794-57a7-ac63-9739c520c8ba",
@@ -41730,8 +41761,7 @@
         "extra": [],
         "cn": "许七",
         "default": "cn"
-      },
-      "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+      }
     },
     {
       "uuid": "1deb8ed0-eb03-5386-8188-d5f33e0fc5fa",
