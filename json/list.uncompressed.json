@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826033
+    "timestamp": 1595826142
   },
   "vtbs": [
     {
@@ -4481,6 +4481,24 @@
         "default": "cn"
       },
       "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
+    },
+    {
+      "uuid": "628d6823-4442-5fac-ad3b-8dc6d68254fa",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "324969506",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "VOMS Project",
+        "default": "jp"
+      },
+      "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
     },
     {
       "uuid": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f",
@@ -15544,6 +15562,16 @@
           "id": "414585785",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCv9Qskw5iEhGI8YNMd22T-g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "LielWiseman",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -17947,6 +17975,30 @@
         "jp": "天衣ゆめ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "8f814c51-d338-5778-8555-6c309600a01d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCajhBT4nMrg3DLS-bLL2RCg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "amanopikamee",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天野ピカミィ",
+        "en": "Amano Pikamee",
+        "default": "jp"
+      },
+      "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
     },
     {
       "uuid": "b79d6054-0ec6-5bd4-9169-109fbb6bbf5c",
@@ -35831,6 +35883,30 @@
       }
     },
     {
+      "uuid": "18916551-0d23-582c-8adb-8eb6c0f16c1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCaFhsCKSSS821N-EcWmPkUQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Jitomi_Monoe",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "磁富モノエ",
+        "en": "Jitomi Monoe",
+        "default": "jp"
+      },
+      "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
+    },
+    {
       "uuid": "b99162d6-7e23-5efc-b144-52572320e7d1",
       "type": "vtuber",
       "bot": false,
@@ -38131,6 +38207,30 @@
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
+      "uuid": "5a638777-fb79-54a9-a95e-e22da1f14af0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC3vzVK_N_SUVKqbX69L_X4g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Tomoshika_H",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "緋笠トモシカ",
+        "en": "Hikasa Tomoshika",
+        "default": "jp"
+      },
+      "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
+    },
+    {
       "uuid": "af654239-71aa-5e0f-903c-01935d90c324",
       "type": "vtuber",
       "bot": false,
@@ -39838,11 +39938,6 @@
           "platform": "youtube"
         },
         {
-          "id": "454530",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
           "id": "chieri_kakyoin",
           "type": "official",
           "platform": "twitter"
@@ -39851,19 +39946,7 @@
           "id": "84AF0CEC6343ABBF_95d040",
           "type": "official",
           "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "花京院ちえり",
-        "default": "jp"
-      }
-    },
-    {
-      "uuid": "281d3535-bcf9-53c5-aba1-ed3d4710be2e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
+        },
         {
           "id": "441666964",
           "type": "official",
@@ -39872,8 +39955,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "花京院ちえりofficial",
-        "default": "cn"
+        "jp": "花京院ちえり",
+        "default": "jp"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
