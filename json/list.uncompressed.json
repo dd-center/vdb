@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826250
+    "timestamp": 1595826317
   },
   "vtbs": [
     {
@@ -4428,6 +4428,24 @@
         "default": "cn"
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
+    },
+    {
+      "uuid": "889db4b7-d904-5ddb-b322-f9f5e22535bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22784527",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "V8娘_Official",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "3222c8be-1a8f-5d8d-ae32-a72046d48b86",
@@ -28501,6 +28519,23 @@
       "name": {
         "extra": [],
         "cn": "椎名青空",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3b262b29-1cdf-521c-b857-315f4b0ec744",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1301635",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椛暗_Official",
         "default": "cn"
       }
     },
