@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595828433
+    "timestamp": 1595829977
   },
   "vtbs": [
     {
@@ -14125,6 +14125,24 @@
         "cn": "北柒_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1135d127-9bdf-5daf-a304-6c77119f198d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "480248442",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北柚香Yuka",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "53e80417-b413-5cb5-8af9-5feca2ac00b7",
@@ -42980,6 +42998,24 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "518c31c1-fcfc-5eaf-9874-e34f9c6c0d8c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476725595",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西魔幽Yuu",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "07a96506-dbbd-5389-a946-3000cc8779e1",
