@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826142
+    "timestamp": 1595826164
   },
   "vtbs": [
     {
@@ -25701,7 +25701,7 @@
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
     },
     {
-      "uuid": "8db154d9-4f93-545f-b7ea-9943db6185de",
+      "uuid": "6d2522ca-8c13-561a-8734-868d38e692f8",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -25709,11 +25709,23 @@
           "id": "486618657",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCMUmvaIF0-fBHzxt1PLOq3A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Tsukito_Hana",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "月兔华-官方",
+        "cn": "月兔华",
+        "jp": "ツキト ハナ",
+        "en": "Hana Tsukito",
         "default": "cn"
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407"
