@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595830277
+    "timestamp": 1595830899
   },
   "vtbs": [
     {
@@ -14332,6 +14332,24 @@
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
+      "uuid": "79e97566-484f-5916-8381-233f7d1d9a58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "558070433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千春_Chiharu",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "623dda9a-5c55-59ad-bf45-e70d5dbf6a12",
       "type": "vtuber",
       "bot": false,
@@ -14955,6 +14973,24 @@
         "cn": "卡林卡",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "92a6d57d-e90f-5a02-9fb8-139c754f822a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628292881",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡欧斯_Chaos",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "8dc1559d-af5a-5945-a33f-dc3c5eba3935",
@@ -31074,6 +31110,24 @@
         "cn": "清水琴美",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a0281057-9152-5a21-b1c1-ad8f02c39cc1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "558070436",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清良Kiyora",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "2c339053-e8a8-5e8a-affb-c4a8515968ff",
