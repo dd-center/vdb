@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595827626
+    "timestamp": 1595827638
   },
   "vtbs": [
     {
@@ -35264,11 +35264,6 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UCcD_EdnJcOjJMohDn435D3w",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
           "id": "5570898",
           "type": "official",
           "platform": "bilibili"
@@ -35288,6 +35283,35 @@
         "extra": [],
         "jp": "白音こゆき",
         "cn": "白音小雪",
+        "default": "jp"
+      },
+      "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
+    },
+    {
+      "uuid": "76ab6850-a0b2-59b8-9840-6f237ed821a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612524985",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCcD_EdnJcOjJMohDn435D3w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Shirane_Yuki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白音ゆき",
+        "cn": "白音雪",
         "default": "jp"
       },
       "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
