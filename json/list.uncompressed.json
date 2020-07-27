@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595825946
+    "timestamp": 1595825959
   },
   "vtbs": [
     {
@@ -2708,6 +2708,24 @@
         "en": "Monoise",
         "default": "en"
       }
+    },
+    {
+      "uuid": "c2bd3645-305e-5c7d-bff6-ddc0d07850e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCDG8K9g6qo8gX4jCjsqUVzA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MonsterZ MATE",
+        "default": "en"
+      },
+      "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
     },
     {
       "uuid": "f1ad78a5-22a8-5f05-a18e-07093ed6e8e3",
