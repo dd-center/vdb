@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595827638
+    "timestamp": 1595828276
   },
   "vtbs": [
     {
@@ -22780,6 +22780,23 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "120ccdcc-1ef0-520e-be68-96456bbcb3e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2128800",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悸末KiU",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f7887858-0392-5bd7-826f-3e36acebaff9",
       "type": "vtuber",
       "bot": false,
@@ -28469,6 +28486,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "d6404d29-89ad-50bf-857d-9d94ad1bf70a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "536290261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨梨子ちゃん",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b1d016b8-228a-5f8e-8881-ab6b9fe3e860",
