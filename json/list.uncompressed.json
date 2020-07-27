@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595801604
+    "timestamp": 1595825946
   },
   "vtbs": [
     {
@@ -4209,6 +4209,28 @@
         "default": "en"
       },
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
+    },
+    {
+      "uuid": "88b3c59c-3ad7-52e9-888c-615cddcfc0da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "181559741",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCEjysNG2a2UgCBIpJxBqn3w",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Tacitly_麟犀",
+        "default": "cn"
+      }
     },
     {
       "uuid": "70f1f721-20b7-5862-abfb-608a72a7ab5a",
@@ -47614,23 +47636,6 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
-    },
-    {
-      "uuid": "e3f0664a-3997-54da-8ea3-2ef1a83afaea",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "181559741",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "麟犀AI韵律",
-        "default": "cn"
-      }
     },
     {
       "uuid": "a9020d5c-fd0e-55a0-812f-d15b2f2fb2e2",
