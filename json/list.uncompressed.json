@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826349
+    "timestamp": 1595826303
   },
   "vtbs": [
     {
@@ -8245,11 +8245,6 @@
           "id": "66743DB501664DC7_e6fb2b",
           "type": "official",
           "platform": "userlocal"
-        },
-        {
-          "id": "20381746",
-          "type": "official",
-          "platform": "bilibili"
         }
       ],
       "name": {
@@ -28528,23 +28523,6 @@
       }
     },
     {
-      "uuid": "3b262b29-1cdf-521c-b857-315f4b0ec744",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1301635",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "椛暗_Official",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "36703164-9f00-5c49-bbf8-a128f1b0e39d",
       "type": "vtuber",
       "bot": false,
@@ -29361,24 +29339,6 @@
         "default": "cn"
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
-    },
-    {
-      "uuid": "bb097c0c-e7b2-5df7-a139-15c499bfacef",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "576858552",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "毬亚Maria",
-        "default": "cn"
-      },
-      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "f2355efa-24dd-57b0-ba2d-0a408f6805e7",
@@ -33387,6 +33347,24 @@
         "cn": "現黄泉_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ed8ac171-884e-5748-8a9e-c80a6468703d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "576858552",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "球球妹妹_孵不出来",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "cb1297a4-b5ef-5752-9a84-b758265e4704",
