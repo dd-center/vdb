@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826099
+    "timestamp": 1595826250
   },
   "vtbs": [
     {
@@ -4332,6 +4332,19 @@
         "default": "cn"
       },
       "group": "63ddd5e3-d91b-5c18-8818-dd849b0a9436"
+    },
+    {
+      "uuid": "4bb946b7-6b9d-5b28-8975-f23291cba191",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "Unicreate",
+        "jp": "ゆにクリエイト",
+        "default": "en"
+      },
+      "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
     },
     {
       "uuid": "70a4cc30-079d-5e45-9d46-84c6194eb0c6",
@@ -12953,6 +12966,24 @@
         "cn": "冴梨Saeri_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ede86936-1070-59dc-80a6-ac3af7aff513",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "457388645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冷夏Reika_channel",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "6ec908db-d228-5f30-91b8-e21f0ceb5ee7",
@@ -25701,7 +25732,7 @@
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
     },
     {
-      "uuid": "8db154d9-4f93-545f-b7ea-9943db6185de",
+      "uuid": "6d2522ca-8c13-561a-8734-868d38e692f8",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -25709,11 +25740,23 @@
           "id": "486618657",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCMUmvaIF0-fBHzxt1PLOq3A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Tsukito_Hana",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "月兔华-官方",
+        "cn": "月兔华",
+        "jp": "ツキト ハナ",
+        "en": "Hana Tsukito",
         "default": "cn"
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407"
@@ -39938,11 +39981,6 @@
           "platform": "youtube"
         },
         {
-          "id": "454530",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
           "id": "chieri_kakyoin",
           "type": "official",
           "platform": "twitter"
@@ -39951,19 +39989,7 @@
           "id": "84AF0CEC6343ABBF_95d040",
           "type": "official",
           "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "花京院ちえり",
-        "default": "jp"
-      }
-    },
-    {
-      "uuid": "281d3535-bcf9-53c5-aba1-ed3d4710be2e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
+        },
         {
           "id": "441666964",
           "type": "official",
@@ -39972,8 +39998,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "花京院ちえりofficial",
-        "default": "cn"
+        "jp": "花京院ちえり",
+        "default": "jp"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
@@ -43212,8 +43238,8 @@
           "platform": "pixiv"
         },
         {
-          "type": "relay",
           "id": "402724422",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
@@ -43221,7 +43247,8 @@
         "extra": [],
         "jp": "赤月ゆに",
         "default": "jp"
-      }
+      },
+      "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
     },
     {
       "uuid": "d010cc24-0c06-5334-8054-b4ea093bd740",
@@ -47486,13 +47513,24 @@
           "id": "5650663",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCnZUaScptUZ7vBeV-4Vf4nw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HimariMochimoon",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "饼月ひまりOfficial",
         "default": "cn"
-      }
+      },
+      "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
     },
     {
       "uuid": "f217933e-a378-5c42-81a3-b2c598554733",
