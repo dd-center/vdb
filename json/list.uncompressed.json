@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595830047
+    "timestamp": 1595830150
   },
   "vtbs": [
     {
@@ -30029,6 +30029,23 @@
       "name": {
         "extra": [],
         "cn": "汉特",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "60e10066-6cea-5d0a-8984-42bc2ab41110",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2171550",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐月Shiotsuki",
         "default": "cn"
       }
     },
