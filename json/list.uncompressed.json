@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595827026
+    "timestamp": 1595827626
   },
   "vtbs": [
     {
@@ -4781,6 +4781,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "b397df70-8418-5dc0-94c4-e8973f1316c8",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "621032856",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "VirtualToolUp",
+        "default": "cn"
+      },
+      "group": "b397df70-8418-5dc0-94c4-e8973f1316c8"
     },
     {
       "uuid": "e8b26432-217f-586a-b1dc-4fded1afe37e",
@@ -9582,6 +9600,24 @@
       }
     },
     {
+      "uuid": "17f259b3-20d9-50c7-a128-ce03259ff24e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "390407280",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一竿风月",
+        "default": "cn"
+      },
+      "group": "b397df70-8418-5dc0-94c4-e8973f1316c8"
+    },
+    {
       "uuid": "9d06bf76-f13e-59f3-a607-c35bdfecc9ac",
       "type": "vtuber",
       "bot": false,
@@ -11515,6 +11551,24 @@
       "name": {
         "extra": [],
         "cn": "伊兹イズ_Official ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "266090b1-278d-5e23-b985-637611253881",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "599697",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊凡",
+        "en": "Van",
         "default": "cn"
       }
     },
