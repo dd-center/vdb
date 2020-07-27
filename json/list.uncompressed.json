@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595826466
+    "timestamp": 1595826627
   },
   "vtbs": [
     {
@@ -1889,6 +1889,23 @@
       "name": {
         "extra": [],
         "cn": "Jason同学",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "083005fb-4527-5c7c-903f-0718e39b602f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "634902212",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "JohnkoOfficial",
         "default": "cn"
       }
     },
