@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595830150
+    "timestamp": 1595830277
   },
   "vtbs": [
     {
@@ -23730,6 +23730,23 @@
         "extra": [],
         "ch": "方长はナビ_Channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "e89236a3-7430-516f-8ba8-123be200133c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8528459",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无名Couture",
+        "default": "cn"
       }
     },
     {
