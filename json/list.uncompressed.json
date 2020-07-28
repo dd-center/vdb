@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595899108
+    "timestamp": 1595919794
   },
   "vtbs": [
     {
@@ -979,7 +979,13 @@
       "uuid": "934f32b5-19fa-515d-ac7a-b4c95d8774cb",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "102445",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "CatsChainReaction链式猫",
@@ -4926,6 +4932,24 @@
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
     },
     {
+      "uuid": "06c65a20-8c30-59bf-be40-88b106774c06",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "191225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "WodkaOfficial",
+        "default": "cn"
+      },
+      "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
       "uuid": "d61b2662-4588-52c8-99ab-d988b1fc6a6d",
       "type": "vtuber",
       "bot": false,
@@ -5343,6 +5367,24 @@
         "jp": "duduluく",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "37ce3fcc-26ba-5fa0-ae12-66695f78eb73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12127504",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "elo沙",
+        "default": "cn"
+      },
+      "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
     },
     {
       "uuid": "5b512c61-7839-594d-8a12-6f45cc372de0",
@@ -24968,6 +25010,24 @@
       "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
     },
     {
+      "uuid": "759f6b4d-2386-53c1-93dd-a7bec39b90b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40756108",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星空桃Official",
+        "default": "cn"
+      },
+      "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
       "uuid": "a2fc1da0-a955-5f47-bb4c-b2536d448977",
       "type": "vtuber",
       "bot": false,
@@ -37037,7 +37097,7 @@
       }
     },
     {
-      "uuid": "c87dbf77-f5e0-5393-bd5a-212e638e5b1c",
+      "uuid": "9662f154-39df-5d74-887b-a566cd4c1d2b",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -37049,10 +37109,11 @@
       ],
       "name": {
         "extra": [],
-        "cn": "秋乃",
+        "cn": "秋乃official",
         "en": "Akino",
         "default": "cn"
-      }
+      },
+      "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
     },
     {
       "uuid": "95939676-7b41-5c3e-9a85-95d7291cd938",
@@ -41331,24 +41392,6 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
-    },
-    {
-      "uuid": "511c46ed-a7a8-536b-b1c8-f688927f55fd",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "191225",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "英梨杰布hammer",
-        "default": "cn"
-      },
-      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
       "uuid": "9149cba3-59e7-5dfe-84a4-4a8d3280de91",
@@ -49377,6 +49420,24 @@
         "default": "cn"
       },
       "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
+    },
+    {
+      "uuid": "80e5ddf8-afe8-549d-addb-249f0a20c4dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4425196",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑子莺",
+        "default": "cn"
+      },
+      "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
     },
     {
       "uuid": "20aceb54-562b-5aac-9b3a-308530bed217",
