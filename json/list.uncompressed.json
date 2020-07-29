@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595989674
+    "timestamp": 1595989742
   },
   "vtbs": [
     {
@@ -44189,29 +44189,6 @@
       "group": "44ffc461-168b-56f3-9458-0f450b0b36a2"
     },
     {
-      "uuid": "59ea2792-8b3e-50cb-83f2-3769bdef5e96",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCRV9d6YCYIMUszK-83TwxVA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "kt_seeds",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "轟京子",
-        "default": "jp"
-      },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
       "uuid": "dac87cac-7b7e-57c8-bd18-09e7cd739e9a",
       "type": "vtuber",
       "bot": false,
@@ -44266,7 +44243,7 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
-      "uuid": "6cbb301e-dac0-51cd-a7aa-2b5324b9bef0",
+      "uuid": "e478e889-ddc7-5dcb-915f-8c321a484d11",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -44274,11 +44251,22 @@
           "id": "586880203",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCRV9d6YCYIMUszK-83TwxVA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kt_seeds",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "轰京子Official ",
+        "cn": "轰京子",
+        "jp": "轟京子",
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
@@ -46762,7 +46750,7 @@
       }
     },
     {
-      "uuid": "9ce43054-c1a1-5a01-9c26-7f72e7b37cdf",
+      "uuid": "fbfe747f-b8df-5ddf-bbc9-599cfb3ab828",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -46772,7 +46760,7 @@
           "platform": "youtube"
         },
         {
-          "id": "410236949",
+          "id": "586880204",
           "type": "official",
           "platform": "bilibili"
         },
@@ -46789,24 +46777,8 @@
       ],
       "name": {
         "extra": [],
+        "cn": "雪城真寻",
         "jp": "雪城眞尋",
-        "default": "jp"
-      }
-    },
-    {
-      "uuid": "175ded98-b59c-54fc-8f13-86a5f1a224ab",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "586880204",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "雪城真寻Official",
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
