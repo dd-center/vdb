@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595990888
+    "timestamp": 1595990919
   },
   "vtbs": [
     {
@@ -33066,6 +33066,23 @@
       "name": {
         "extra": [],
         "cn": "猫女王NeKoJo-oo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "504c342e-6719-5c67-9c53-d10f76a27392",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8831648",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫妖爱丽丝拉斐尔",
         "default": "cn"
       }
     },
