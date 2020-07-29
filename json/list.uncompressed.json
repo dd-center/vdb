@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595989764
+    "timestamp": 1595989791
   },
   "vtbs": [
     {
@@ -8442,33 +8442,6 @@
       }
     },
     {
-      "uuid": "fae28607-397c-546c-ae8b-af9ff40b97a3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "___Dola",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "9B941219548225FE_b68092",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "ドーラ",
-        "default": "jp"
-      }
-    },
-    {
       "uuid": "c77d84fc-7aa9-5245-a26d-a8ec01148ab2",
       "type": "vtuber",
       "bot": false,
@@ -8980,38 +8953,6 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
-      "uuid": "88ec7f13-bc3e-5a43-acc5-b184a39c5d53",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCvmppcdYf4HOv-tFQhHHJMA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "Moiramoimoimoi",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "271874340BD8D1A5_6d4ac7",
-          "type": "official",
-          "platform": "userlocal"
-        },
-        {
-          "id": "28300270",
-          "type": "relay",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "モイラ",
-        "default": "jp"
-      }
-    },
-    {
       "uuid": "22297184-629b-50a3-aaa4-0ca614555cfb",
       "type": "vtuber",
       "bot": false,
@@ -9384,29 +9325,6 @@
         "en": "Luna",
         "default": "jp"
       }
-    },
-    {
-      "uuid": "7b912821-1c8b-5376-8cf0-5cbd17465b31",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCtnO2N4kPTXmyvedjGWdx3Q",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "Levi_E_2434",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "レヴィ・エリファ",
-        "default": "jp"
-      },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "1635e972-7689-5715-a152-50c1f3dba6e8",
@@ -13847,6 +13765,36 @@
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
+      "uuid": "a31f56f4-815f-55d3-a515-169286afa23b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCtnO2N4kPTXmyvedjGWdx3Q",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Levi_E_2434",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "595407556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "レヴィ・エリファ"
+        ],
+        "jp": "利维·艾莉法",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "da235cb9-ae93-5eed-945c-9ce783ad324b",
       "type": "vtuber",
       "bot": false,
@@ -17187,6 +17135,40 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "71ab3c75-271d-56fe-96e8-87355588e300",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "___Dola",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "9B941219548225FE_b68092",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "595407555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多拉",
+        "jp": "ドーラ",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "aef73f53-1c7f-594e-8b84-c6a4bc9f0242",
@@ -23604,6 +23586,40 @@
         "cn": "搽团_official ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "506f9384-e48f-5308-948a-e9e4c118163e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCvmppcdYf4HOv-tFQhHHJMA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Moiramoimoimoi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "271874340BD8D1A5_6d4ac7",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "595407554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "摩伊拉",
+        "jp": "モイラ",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "d93967b9-a7a3-52fd-b374-eef70db15142",
