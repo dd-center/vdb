@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595989791
+    "timestamp": 1595989824
   },
   "vtbs": [
     {
@@ -19075,6 +19075,24 @@
       }
     },
     {
+      "uuid": "b00ea94a-c0ad-5109-bc94-2c2bc1d10d55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "482515509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬熊结璃",
+        "default": "cn"
+      },
+      "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
+    },
+    {
       "uuid": "47a06333-fa56-5d99-b215-39e698dc1234",
       "type": "vtuber",
       "bot": false,
@@ -32070,31 +32088,6 @@
         "cn": "熊くま喵",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "b5e8ff8e-6d9b-5a88-8a38-aea507f0a032",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "453372408",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "482515509",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "姬熊结璃Official"
-        ],
-        "cn": "熊之屋",
-        "default": "cn"
-      },
-      "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
     },
     {
       "uuid": "502bb1fb-5c01-57f7-bf63-315903559483",
