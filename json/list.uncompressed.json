@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595989742
+    "timestamp": 1595989764
   },
   "vtbs": [
     {
@@ -45146,29 +45146,6 @@
       }
     },
     {
-      "uuid": "8ecd4af2-5138-5683-b864-0715e5439b06",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCryOPk2GZ1meIDt53tL30Tw",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "darkness_eater",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "鈴木勝",
-        "default": "jp"
-      },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
       "uuid": "2c38c0d1-689f-5f9a-af42-f7a85679e310",
       "type": "vtuber",
       "bot": false,
@@ -45526,7 +45503,7 @@
       }
     },
     {
-      "uuid": "26aa4e1f-92e1-5e5a-89cb-8e1ea256a31a",
+      "uuid": "8364aa5d-c8f8-5fa6-bf1c-64b46eee7e53",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -45534,11 +45511,22 @@
           "id": "586880205",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCryOPk2GZ1meIDt53tL30Tw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "darkness_eater",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "铃木胜Official",
+        "cn": "铃木胜",
+        "jp": "鈴木勝",
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
