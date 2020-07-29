@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595989848
+    "timestamp": 1595990056
   },
   "vtbs": [
     {
@@ -36066,10 +36066,15 @@
       }
     },
     {
-      "uuid": "a1b7e913-915c-5aee-9e32-63d1165aad58",
+      "uuid": "da95b8c7-78d7-54c2-ba9f-fee101562e26",
       "type": "vtuber",
       "bot": false,
       "accounts": [
+        {
+          "id": "586880202",
+          "type": "official",
+          "platform": "bilibili"
+        },
         {
           "id": "UCnRQYHTnRLSF0cLJwMnedCg",
           "type": "official",
@@ -36083,25 +36088,8 @@
       ],
       "name": {
         "extra": [],
+        "cn": "相羽初叶",
         "jp": "相羽ういは",
-        "default": "jp"
-      },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
-      "uuid": "cda5a86c-e33d-57a0-a0b9-f898dfb8eeee",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "586880202",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "相羽初叶_Official ",
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
