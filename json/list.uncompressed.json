@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595992321
+    "timestamp": 1595992819
   },
   "vtbs": [
     {
@@ -16478,6 +16478,24 @@
         "default": "cn"
       },
       "group": "a5a6750b-a591-516f-a261-f1a77f46d4db"
+    },
+    {
+      "uuid": "52d0758e-8271-55f7-b4ac-ff4a3e01f07d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19218934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "回忆-Channel",
+        "default": "cn"
+      },
+      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
       "uuid": "cc3a276b-14c5-51f4-871c-1bff7e0e45a3",
@@ -49067,6 +49085,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "faf86e50-8ba3-55a4-8c1e-b252f74b0731",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "287139378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸢薰Chuxia",
+        "default": "cn"
+      },
+      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
       "uuid": "9e18a0a1-e9e9-5ad3-9c72-7118e4c777df",
