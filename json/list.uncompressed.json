@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595919794
+    "timestamp": 1595989674
   },
   "vtbs": [
     {
@@ -46238,7 +46238,7 @@
       }
     },
     {
-      "uuid": "82577631-597f-5be9-bec6-d362d922ff7f",
+      "uuid": "fc4db2c9-be92-5b8c-8ee6-0d95352a1fd5",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -46246,12 +46246,16 @@
           "id": "480680646",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "7333181765",
+          "type": "official",
+          "platform": "weibo"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "阿萨",
-        "en": "Aza",
+        "cn": "阿萨Aza",
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
