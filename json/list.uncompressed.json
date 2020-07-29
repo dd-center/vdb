@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595990919
+    "timestamp": 1595991007
   },
   "vtbs": [
     {
@@ -49509,6 +49509,23 @@
       "name": {
         "extra": [],
         "cn": "黑川言",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "81150c50-bf45-5f0d-bae3-773ddd3d5679",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35148361",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑日鱼鱼子",
         "default": "cn"
       }
     },
