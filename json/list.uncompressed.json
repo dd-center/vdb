@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1595990465
+    "timestamp": 1595990888
   },
   "vtbs": [
     {
@@ -5747,6 +5747,23 @@
       "name": {
         "extra": [],
         "cn": "rurudo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d2210719-3855-5cb1-9eae-f984aa9e4c89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "567589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "sniraite-冰星蛇",
         "default": "cn"
       }
     },
