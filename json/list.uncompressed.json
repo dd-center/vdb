@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596179220
+    "timestamp": 1596179266
   },
   "vtbs": [
     {
@@ -923,6 +923,41 @@
       "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
     },
     {
+      "uuid": "4de16f17-cd74-5be0-a674-5930689c7bfb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34547736",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Burgess41",
+          "type": "official",
+          "platform": "afdian"
+        },
+        {
+          "id": "17207067",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "BilibiliBurgess",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肆壹",
+        "en": "Burgess",
+        "jp": "よんいち",
+        "default": "cn"
+      },
+      "group": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d"
+    },
+    {
       "uuid": "84c4756a-9100-5690-a63b-b474d86a8b36",
       "type": "vtuber",
       "bot": false,
@@ -1170,6 +1205,24 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "324594206",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "CytoLive",
+        "default": "en"
+      },
+      "group": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d"
     },
     {
       "uuid": "e17a1dee-cec2-559f-a145-e27b40039b08",
@@ -4353,6 +4406,26 @@
         "cn": "Tilinme时澪",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1f51b9de-04d9-586b-b826-51ec902664c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3234445",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜 Tira",
+        "en": "Byakuya Tira",
+        "jp": "白夜チラ",
+        "default": "cn"
+      },
+      "group": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d"
     },
     {
       "uuid": "093738a6-1f21-5910-86d3-2a00c029afd6",
@@ -31760,6 +31833,28 @@
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
+      "uuid": "80ca3bea-e010-54fa-be64-81c6cf6afd12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2972199",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "302004309",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "溺海動物",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1983863a-d3e8-53c6-9046-f45b027b3ae2",
       "type": "vtuber",
       "bot": false,
@@ -38076,6 +38171,31 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
+    },
+    {
+      "uuid": "74443140-30cb-518c-9d35-3c75db5f49b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1967619",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "436413140",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筑波 Kobu",
+        "en": "Tsukuba Kobu",
+        "jp": "筑波コブ",
+        "default": "cn"
+      },
+      "group": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d"
     },
     {
       "uuid": "0546f0e4-5849-5c97-8d69-ce21c5a5ae79",
