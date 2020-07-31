@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596179089
+    "timestamp": 1596179125
   },
   "vtbs": [
     {
@@ -32229,6 +32229,35 @@
         "default": "cn"
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
+    },
+    {
+      "uuid": "91b9ab9c-d092-5eb8-81f4-6e7a57bf4d66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49354691",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KUMAgaya_taKUMA",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCCXME7oZmXB2VFHJbz5496A",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "熊谷タクマ",
+        "en": "Kumagaya Takuma",
+        "default": "jp"
+      },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
     },
     {
       "uuid": "56836725-bd8b-55e0-9bc2-72f2085c2243",
