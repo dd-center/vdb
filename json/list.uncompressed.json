@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596179125
+    "timestamp": 1596179174
   },
   "vtbs": [
     {
@@ -28998,26 +28998,6 @@
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
-      "uuid": "c64f1f8f-00a8-5e4c-8991-7e5f14d86cda",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "623441612",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "椎名なのは",
-        "cn": "椎名菜羽",
-        "en": "ShiinaNanoha",
-        "default": "jp"
-      },
-      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
-    },
-    {
       "uuid": "8591e842-e3a6-50d7-8611-dfa17622be7e",
       "type": "vtuber",
       "bot": false,
@@ -29086,6 +29066,46 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "29e89b56-7095-5950-abf4-d5c77396a4cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "623441612",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UC0lIq8G4LgDPlXsDmYSUExw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ShiinaNanoha78",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "shiinananoha78",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "ShiinaNanoha@gmail.com",
+          "type": "official",
+          "platform": "email"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "椎名なのは",
+        "cn": "椎名菜羽",
+        "en": "ShiinaNanoha",
+        "default": "jp"
+      },
+      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
     },
     {
       "uuid": "d04a508b-41bf-5a50-8cd5-95b3b4d30b53",
