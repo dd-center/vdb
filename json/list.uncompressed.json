@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596241507
+    "timestamp": 1596241615
   },
   "vtbs": [
     {
@@ -45436,33 +45436,6 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
-      "uuid": "3e7c6a82-2186-5fed-8a15-fd3fc91862d8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "lulu_suzuhara",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "A7FD526CCF4ED8BB_e96f1e",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "鈴原るる",
-        "default": "jp"
-      }
-    },
-    {
       "uuid": "d7f2db42-db22-5476-8fb3-3239e8ef12b6",
       "type": "vtuber",
       "bot": false,
@@ -45828,6 +45801,40 @@
         "cn": "铃仙",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fb49926d-3e6b-5317-ba2c-1a64d2d0081b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "lulu_suzuhara",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "A7FD526CCF4ED8BB_e96f1e",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "428424219",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鈴原るる",
+        "cn": "铃原露露",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "a6eec774-8cbc-580a-a638-80fb7fc1903c",
