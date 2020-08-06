@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596714556
+    "timestamp": 1596714604
   },
   "vtbs": [
     {
@@ -37711,6 +37711,23 @@
       "name": {
         "extra": [],
         "cn": "秘密结社黑盾",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "518c7c44-4de6-50a3-998e-41dd97d9c19e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1329434",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "程诚橙Makoto",
         "default": "cn"
       }
     },
