@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596714916
+    "timestamp": 1596715036
   },
   "vtbs": [
     {
@@ -24822,6 +24822,25 @@
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
     },
     {
+      "uuid": "9c0906d3-d0e8-5414-8232-e919e6586df2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "623039484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星奏郁兔_Channe",
+        "jp": "HoshikanaIkuto",
+        "default": "cn"
+      },
+      "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
       "uuid": "0d679d35-1392-592b-8a96-c60c5edb7c73",
       "type": "vtuber",
       "bot": false,
@@ -36143,7 +36162,7 @@
       }
     },
     {
-      "uuid": "5f70bf2b-67ab-5355-b0ea-b20a68d7f5f5",
+      "uuid": "dd071a6d-4013-5210-ab60-3b2c97afe73b",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -36155,7 +36174,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "白鸟Asuta_Channe",
+        "cn": "白鸟Asuta_Channel",
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
