@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1596714683
+    "timestamp": 1596714881
   },
   "vtbs": [
     {
@@ -39210,40 +39210,6 @@
       }
     },
     {
-      "uuid": "22e335aa-afd5-5211-96ff-70427179acb9",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCwBMSUVMvck6EaBD0f1tHsQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "435569969",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "tsuzurime",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "D392F2EF4FE51832_8b8127",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "綴目日傘",
-        "cn": "日伞",
-        "default": "jp"
-      },
-      "group": "ad652370-a736-537f-aa70-6ee528138364"
-    },
-    {
       "uuid": "3f7e4411-34e9-5272-8ac3-dd6fe24b34e0",
       "type": "vtuber",
       "bot": false,
@@ -39833,6 +39799,40 @@
         "cn": "绿袖子Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ca87befe-2014-5f0d-a19c-bf0715e3f39b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCwBMSUVMvck6EaBD0f1tHsQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "4198849",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "tsuzurime",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "D392F2EF4FE51832_8b8127",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "綴目日傘",
+        "cn": "缀目日伞",
+        "default": "jp"
+      },
+      "group": "ad652370-a736-537f-aa70-6ee528138364"
     },
     {
       "uuid": "bab88359-5230-508d-a6b3-76caca879350",
