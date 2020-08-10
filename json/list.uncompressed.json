@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597048786
+    "timestamp": 1597048870
   },
   "vtbs": [
     {
@@ -30649,6 +30649,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "7621871a-3aa0-572a-9af1-1a4c6109ef4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11659353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池九墓",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16140eca-2191-5af8-82ba-2b65412a970c",
