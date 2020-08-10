@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597050407
+    "timestamp": 1597050487
   },
   "vtbs": [
     {
@@ -15687,6 +15687,24 @@
       "name": {
         "extra": [],
         "cn": "叶小满Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9c1b7723-1b2a-59d4-8bca-405300733801",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "164867520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶崎花火",
+        "en": "LekiHanabi",
         "default": "cn"
       }
     },
