@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597050063
+    "timestamp": 1597050126
   },
   "vtbs": [
     {
@@ -17027,6 +17027,24 @@
         "cn": "夏凛karin_Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0b704783-600e-5a2a-9af4-7f85d9f28194",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8147802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏川泉",
+        "default": "cn"
+      },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
     {
       "uuid": "e01eea10-c7d1-53f1-9ab9-49cb068963e3",
@@ -43517,6 +43535,24 @@
         "cn": "蛍HOTARU",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5387b4ba-bf9d-5389-84cb-a65c83b696aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "623161468",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜恩channel",
+        "default": "cn"
+      },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
     {
       "uuid": "dae462fb-972c-5c77-bd1e-320a44bbbede",
