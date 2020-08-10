@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597050126
+    "timestamp": 1597050182
   },
   "vtbs": [
     {
@@ -12285,9 +12285,9 @@
           "platform": "twitter"
         },
         {
-          "id": "3568142",
+          "id": "https://space.bilibili.com/3568142",
           "type": "official",
-          "platform": "bilibili"
+          "platform": "web"
         },
         {
           "id": "D0DE82D755044DF7_790d71",
@@ -24395,23 +24395,6 @@
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
-      "uuid": "5a6aa85e-e343-5f87-ada5-3efd57ad5890",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "33918604",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "早濑弥生Official ",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "b5312adf-dd9c-50d6-a105-d27beb2035e9",
       "type": "vtuber",
       "bot": false,
@@ -24420,6 +24403,21 @@
           "id": "436693674",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "oldbili: 33918604",
+          "type": "official",
+          "platform": "web"
+        },
+        {
+          "id": "UCahgqP860vhJ1KezutIPTIQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "hayaseyayoi",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
