@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597049045
+    "timestamp": 1597050063
   },
   "vtbs": [
     {
@@ -31011,6 +31011,23 @@
         "default": "cn"
       },
       "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
+    },
+    {
+      "uuid": "359a5bb8-1daa-5ebb-8fbd-99ed65aae2fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49584022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "滄藍メロディ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "0bf6b359-f9ba-596c-a3d3-463b1c394305",
