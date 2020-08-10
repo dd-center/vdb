@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597050383
+    "timestamp": 1597050407
   },
   "vtbs": [
     {
@@ -35042,6 +35042,27 @@
         "jp": "甘沼ほより",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "d896b060-ef35-5a2c-9a56-884247779eee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19206708",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "3378416344",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": []
+      },
+      "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
     },
     {
       "uuid": "db7db9d8-04d3-5e32-ad0c-54aa003c3896",
