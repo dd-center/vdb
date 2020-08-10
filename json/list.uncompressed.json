@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597050162
+    "timestamp": 1597050383
   },
   "vtbs": [
     {
@@ -53,6 +53,23 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "c2b34f62-2c1f-5ea1-85df-fe7a6472aaa8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "382393052",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": " 栗原溧希",
+        "default": "cn"
+      }
     },
     {
       "uuid": "77359029-801c-5067-8b74-e9eee6393021",
@@ -12285,9 +12302,9 @@
           "platform": "twitter"
         },
         {
-          "id": "3568142",
+          "id": "https://space.bilibili.com/3568142",
           "type": "official",
-          "platform": "bilibili"
+          "platform": "web"
         },
         {
           "id": "D0DE82D755044DF7_790d71",
@@ -13341,23 +13358,6 @@
       "name": {
         "extra": [],
         "cn": "凉宫千雪Channel",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "68801f05-055e-5ce3-b30f-43e710d32d24",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "382393052",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "凉宫夜璃Channel",
         "default": "cn"
       }
     },
@@ -26415,7 +26415,7 @@
         },
         {
           "id": "109891",
-          "type": "relay",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
@@ -26423,7 +26423,8 @@
         "extra": [],
         "jp": "月ノ美兎",
         "default": "jp"
-      }
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "4668f651-6aab-5ccc-b456-f2eca1190787",
@@ -26699,7 +26700,7 @@
       }
     },
     {
-      "uuid": "1407b836-4df9-5c66-a64c-2a6d58b7002a",
+      "uuid": "314a270e-add1-54f7-9f40-8b56b4593b06",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -26711,7 +26712,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "月见",
+        "cn": "月见_tsuki",
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
@@ -35173,7 +35174,7 @@
         },
         {
           "id": "19959581",
-          "type": "relay",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
@@ -35181,7 +35182,8 @@
         "extra": [],
         "jp": "町田ちま",
         "default": "jp"
-      }
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "cc57338d-ad50-5958-bbe8-c7f0a8c071e2",
@@ -42955,6 +42957,11 @@
           "id": "hakase_fuyuki",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "407044808",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -49418,7 +49425,7 @@
       }
     },
     {
-      "uuid": "16203f69-f582-5a2a-ac00-40428abe204a",
+      "uuid": "ca721449-319d-5bcd-83b1-aa118675b6e6",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -49436,13 +49443,19 @@
           "id": "3BFAFAA5F5B073B4_16cc5b",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "4092",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "魔界ノりりむ",
         "default": "jp"
-      }
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "89ebf9d9-9954-5d21-a709-af190528c186",
