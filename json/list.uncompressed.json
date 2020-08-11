@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597134914
+    "timestamp": 1597135012
   },
   "vtbs": [
     {
@@ -4457,10 +4457,15 @@
       "group": "67cb3af0-3f93-5d83-917f-902493b6fb49"
     },
     {
-      "uuid": "41572ded-a4dd-5e52-a4f1-458c1f87ebcb",
+      "uuid": "672b6fe5-8e2a-54d9-bb9d-61175220cec1",
       "type": "vtuber",
       "bot": false,
       "accounts": [
+        {
+          "id": "UC84RYorF7UcJzt_iAYXBisA",
+          "type": "official",
+          "platform": "youtube"
+        },
         {
           "id": "451377668",
           "type": "official",
@@ -4469,7 +4474,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "UTAGOE放送部官方",
+        "cn": "UTAGOE放送部",
+        "jp": "ウタゴエ放送部",
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
@@ -48437,38 +48443,6 @@
         "extra": [],
         "cn": "音無星花",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "71f15f9a-8590-5539-967d-2b2bc5988953",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UC84RYorF7UcJzt_iAYXBisA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "394918929",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "lara_songs",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "99CFEA7D31215C4D_0738e6",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "音羽ララ",
-        "default": "jp"
       }
     },
     {
