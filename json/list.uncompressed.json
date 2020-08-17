@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597632595
+    "timestamp": 1597632631
   },
   "vtbs": [
     {
@@ -37198,8 +37198,8 @@
           "platform": "youtube"
         },
         {
-          "type": "relay",
           "id": "179459",
+          "type": "official",
           "platform": "bilibili"
         }
       ],
@@ -43938,6 +43938,11 @@
           "id": "Chigusa_24zono",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "237428079",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
