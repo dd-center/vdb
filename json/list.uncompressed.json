@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597630874
+    "timestamp": 1597630888
   },
   "vtbs": [
     {
@@ -37718,6 +37718,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "f80377c7-73a3-5c07-ae99-7526ef358853",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "73368479",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神谷Neco-Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f4bdbeca-91a1-5448-9bfc-3d45e68d9d9e",
