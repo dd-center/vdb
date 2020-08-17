@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597632566
+    "timestamp": 1597632595
   },
   "vtbs": [
     {
@@ -5754,6 +5754,23 @@
       "name": {
         "extra": [],
         "cn": "ls-77Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "696a7689-aa07-5817-9169-dacf963611f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17683304",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "miracle竹夭",
         "default": "cn"
       }
     },
@@ -42886,6 +42903,24 @@
         "cn": "萤-HOTARU-",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d6f9dcf0-9c7c-555e-a446-a599016184d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "907303",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萤くろまた",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "486c63ef-ef29-5ec5-8930-8ccd6dce837b",
