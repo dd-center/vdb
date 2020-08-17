@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597135192
+    "timestamp": 1597630374
   },
   "vtbs": [
     {
@@ -1079,6 +1079,24 @@
         "en": "Chiki_MS",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "95596f4b-a413-5afe-a0f9-35c596f4543d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "226743527",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Citrus柑橘社",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "243fae26-4c97-5cc4-976c-bc3fbb957492",
@@ -45127,6 +45145,24 @@
         "cn": "奈奈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ef2d0631-756e-5472-a9a9-16da247f0e98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625255764",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辻藍かねる",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "fe9c9640-d4a9-5307-8770-60b60d6772f7",
