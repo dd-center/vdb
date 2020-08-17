@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597630374
+    "timestamp": 1597630476
   },
   "vtbs": [
     {
@@ -17651,6 +17651,34 @@
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
     {
+      "uuid": "4a5b9068-e09e-5d67-a972-8984f6d978c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "551202872",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yozakura_noa",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCbCMj2T2B8DqYD1kzX3K0pQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜樱诺娅",
+        "jp": "夜桜のあ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "922a5b2a-c58c-5975-a780-6d005f7ded3b",
       "type": "vtuber",
       "bot": false,
@@ -18820,6 +18848,23 @@
       "name": {
         "extra": [],
         "cn": "奈丽莎卡里乌斯Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee3c53bd-3666-5e93-8fef-66b47e4586eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "489146840",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈奈莉娅",
         "default": "cn"
       }
     },
