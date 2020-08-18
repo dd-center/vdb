@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597781272
+    "timestamp": 1597781286
   },
   "vtbs": [
     {
@@ -26965,6 +26965,23 @@
       "name": {
         "extra": [],
         "cn": "望月乃爱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7989e83a-ed95-5ff9-a58a-77873d0fb7cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "350888860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "望月瀧",
         "default": "cn"
       }
     },
