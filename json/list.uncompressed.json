@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597780539
+    "timestamp": 1597781215
   },
   "vtbs": [
     {
@@ -43485,6 +43485,23 @@
         "extra": [],
         "cn": "藤咲mia",
         "jp": "藤咲ミア",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51e2da43-d5cf-5cba-9d84-1f891b3cbac5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19721846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虎Harima",
         "default": "cn"
       }
     },
