@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1597781286
+    "timestamp": 1598338313
   },
   "vtbs": [
     {
@@ -11752,6 +11752,23 @@
         "extra": [],
         "cn": "伊凡",
         "en": "Van",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "458f6421-72d2-5a6c-b5eb-0907f0e08587",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23282857",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊崎Creamy",
         "default": "cn"
       }
     },
