@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1598338313
+    "timestamp": 1598768264
   },
   "vtbs": [
     {
@@ -22139,6 +22139,24 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "7ba80e8f-7674-5d52-b3ea-e74bd51e15be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "627360567",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕洛特",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
       "uuid": "bc34c674-8a32-5d5d-a034-bb07139633fb",
       "type": "fan",
       "bot": false,
@@ -42237,6 +42255,24 @@
         "default": "cn"
       },
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+    },
+    {
+      "uuid": "06f9f324-2ad5-5c3a-bbd4-fef82ba39e67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "648809981",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉离Official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
       "uuid": "bba84a1c-3220-58ad-a850-596c4967cf83",
