@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1598768238
+    "timestamp": 1598768300
   },
   "vtbs": [
     {
@@ -42257,6 +42257,24 @@
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
     },
     {
+      "uuid": "06f9f324-2ad5-5c3a-bbd4-fef82ba39e67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "648809981",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉离Official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
       "uuid": "bba84a1c-3220-58ad-a850-596c4967cf83",
       "type": "vtuber",
       "bot": false,
@@ -46699,6 +46717,23 @@
       "name": {
         "extra": [],
         "cn": "闇星芬诺斯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4a6542bd-8748-591c-a681-98a143352bf2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "392739789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闇星芬诺斯Channel",
         "default": "cn"
       }
     },
