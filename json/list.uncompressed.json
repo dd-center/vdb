@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1598840941
+    "timestamp": 1598877010
   },
   "vtbs": [
     {
@@ -4983,6 +4983,24 @@
         "cn": "Virtual格格",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "33d285f2-b9a8-595d-a282-4a341ab9d020",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "652553556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Vnicorn",
+        "default": "cn"
+      },
+      "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
     },
     {
       "uuid": "29fafaf8-e62a-5831-b530-aaba5039ff03",
@@ -18092,6 +18110,24 @@
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
+      "uuid": "2772f246-ad9a-56ea-bdd7-a54ce0e9a573",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "660903515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大河Taiga",
+        "default": "cn"
+      },
+      "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
+    },
+    {
       "uuid": "2288aa65-4528-546c-b6f2-ec0667c8cad5",
       "type": "vtuber",
       "bot": false,
@@ -23354,6 +23390,24 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "15cc0132-51e9-54e9-8cc5-f290117da07b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "662777221",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恶太Akuta",
+        "default": "cn"
+      },
+      "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
     },
     {
       "uuid": "f9809da8-909d-5b65-a297-264e124f9bcb",
@@ -44961,6 +45015,24 @@
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
     },
     {
+      "uuid": "69286263-1d15-52ff-8c25-7f95278f1c61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "652571677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "走Kakeru",
+        "default": "cn"
+      },
+      "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
+    },
+    {
       "uuid": "a73452f5-1a42-5250-a18b-ddd9e0c34319",
       "type": "vtuber",
       "bot": false,
@@ -46790,6 +46862,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "609db099-37aa-5a02-bf6f-c08d4211fc97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "652240042",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闪光Pika",
+        "default": "cn"
+      },
+      "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
     },
     {
       "uuid": "a5a6750b-a591-516f-a261-f1a77f46d4db",
