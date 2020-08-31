@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1598840622
+    "timestamp": 1598840687
   },
   "vtbs": [
     {
@@ -4473,6 +4473,23 @@
         "default": "en"
       },
       "group": "67cb3af0-3f93-5d83-917f-902493b6fb49"
+    },
+    {
+      "uuid": "ef835224-371e-59cb-9483-862e36a9a466",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "174919184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "TwoWolFox丶皮皮",
+        "default": "cn"
+      }
     },
     {
       "uuid": "672b6fe5-8e2a-54d9-bb9d-61175220cec1",
