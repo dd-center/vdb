@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599121433
+    "timestamp": 1599121540
   },
   "vtbs": [
     {
@@ -17551,6 +17551,23 @@
         "jp": "夕陽リリ",
         "cn": "莉莉",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "50dddfbf-df87-5e4e-b5cd-b5c1b073ea74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11253297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多多poi",
+        "default": "cn"
       }
     },
     {
@@ -37548,6 +37565,24 @@
       }
     },
     {
+      "uuid": "776ddf56-af7b-56af-8765-71914d3e3814",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3046429",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祖娅纳惜",
+        "default": "cn"
+      },
+      "group": "9929349e-5054-5d7d-b452-7439636aaa33"
+    },
+    {
       "uuid": "580677c7-f7cf-54d1-b4f0-13a0e85ac059",
       "type": "fan",
       "bot": false,
@@ -44170,6 +44205,24 @@
         "cn": "褰裳ys",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "03c88049-5e07-5886-8713-02027e6b1a2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8806326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西园寺",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "443fa38e-674e-5af3-90ec-ae92f2ed8e6a",
