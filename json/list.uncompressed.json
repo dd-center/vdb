@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599121500
+    "timestamp": 1599121709
   },
   "vtbs": [
     {
@@ -20585,6 +20585,24 @@
         "default": "cn"
       },
       "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+    },
+    {
+      "uuid": "171eddb2-45f2-57a6-9495-9228da7ce523",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "348562970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "将离Channel",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "fe80d28f-a29a-5066-895a-4b93e50741db",
@@ -44205,6 +44223,24 @@
         "cn": "褰裳ys",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "03c88049-5e07-5886-8713-02027e6b1a2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8806326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西园寺",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "443fa38e-674e-5af3-90ec-ae92f2ed8e6a",
