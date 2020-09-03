@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1598877010
+    "timestamp": 1599121261
   },
   "vtbs": [
     {
@@ -10282,6 +10282,24 @@
       }
     },
     {
+      "uuid": "27b54a86-1075-51c0-b1e4-46fba80490a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "450578459",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三水Meo_Official",
+        "default": "cn"
+      },
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
       "uuid": "def713c4-c480-5955-a3a7-34761ec3dcf3",
       "type": "vtuber",
       "bot": false,
@@ -16453,6 +16471,24 @@
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
     },
     {
+      "uuid": "b602b21e-b3b8-5b2b-ab6d-80d8950acfcf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "269860489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐星阑",
+        "default": "cn"
+      },
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
       "uuid": "294dbbee-d15a-58d1-8664-a3acdbaf324f",
       "type": "vtuber",
       "bot": false,
@@ -16773,7 +16809,7 @@
         "cn": "回忆-Channel",
         "default": "cn"
       },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "cc3a276b-14c5-51f4-871c-1bff7e0e45a3",
@@ -22297,7 +22333,7 @@
       "accounts": [],
       "name": {
         "extra": [],
-        "cn": "年糕",
+        "cn": "年糕_official",
         "default": "cn"
       },
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
