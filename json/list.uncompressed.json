@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599121709
+    "timestamp": 1599121756
   },
   "vtbs": [
     {
@@ -18735,6 +18735,24 @@
         "jp": "天秤はかり",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "4a97b1a9-202a-51de-a15a-751b8c219c28",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "556126603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天罰しろchannel",
+        "default": "cn"
+      },
+      "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
     {
       "uuid": "c82126c9-cb1e-5cf2-9093-7e4527bb909a",
