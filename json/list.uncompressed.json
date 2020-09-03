@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599121399
+    "timestamp": 1599121466
   },
   "vtbs": [
     {
@@ -17551,6 +17551,23 @@
         "jp": "夕陽リリ",
         "cn": "莉莉",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "50dddfbf-df87-5e4e-b5cd-b5c1b073ea74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11253297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多多poi",
+        "default": "cn"
       }
     },
     {
@@ -49372,6 +49389,24 @@
         "default": "cn"
       },
       "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
+    },
+    {
+      "uuid": "c62b6d72-b6ca-5e36-b72c-c62e20f045b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "574317507",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "香取绮罗_kira",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "f217933e-a378-5c42-81a3-b2c598554733",
