@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599121357
+    "timestamp": 1599121399
   },
   "vtbs": [
     {
@@ -8760,6 +8760,23 @@
       "name": {
         "extra": [],
         "jp": "バーチャルゴリラ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "65a35bbe-ae55-54b8-bd91-2ccd5bf4b469",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "679f43306317",
+          "type": "official",
+          "platform": "showroom"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "バーチャル女神の封印されし杜",
         "default": "jp"
       }
     },
