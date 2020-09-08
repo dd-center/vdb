@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599578633
+    "timestamp": 1599578890
   },
   "vtbs": [
     {
@@ -12692,6 +12692,23 @@
       "name": {
         "extra": [],
         "cn": "克罗塞尔_Crocell",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aa41be14-e984-52db-98d7-161fe4bde64a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "560301353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克罗艾-芙洛拉Official",
         "default": "cn"
       }
     },
