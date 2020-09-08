@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599578890
+    "timestamp": 1599579558
   },
   "vtbs": [
     {
@@ -4452,8 +4452,8 @@
       "accounts": [],
       "name": {
         "extra": [],
-        "en": "Tourist-V",
-        "default": "en"
+        "cn": "Tourist-V",
+        "default": "cn"
       },
       "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
@@ -7555,6 +7555,23 @@
         "extra": [],
         "jp": "めんだこちゃん",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c434e39a-b88f-5193-96a1-80d6e909c7c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441606900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "もいぱす",
+        "default": "cn"
       }
     },
     {
@@ -12325,6 +12342,42 @@
       }
     },
     {
+      "uuid": "b1ec0ac5-ca69-545d-a612-f44b8bde841f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "642588972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佐仓旬夏Official",
+        "default": "cn"
+      },
+      "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
+    },
+    {
+      "uuid": "a7abe2f7-c84d-5dca-ba96-5284f981be5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625220399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佐仓铃Official",
+        "default": "cn"
+      },
+      "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
+    },
+    {
       "uuid": "754c22fb-d8bf-57fc-80f3-e30341fd0241",
       "type": "vtuber",
       "bot": false,
@@ -15831,6 +15884,24 @@
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
     },
     {
+      "uuid": "d458e51f-1ed3-5e7c-9a57-6e442f6d5964",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "510851952",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可奈子Official",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
       "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
       "type": "vtuber",
       "bot": false,
@@ -18781,7 +18852,7 @@
       }
     },
     {
-      "uuid": "4a97b1a9-202a-51de-a15a-751b8c219c28",
+      "uuid": "4840b346-dd54-5e6a-9a71-70183fa7e4cb",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -30274,6 +30345,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "eb71d898-f15e-591f-acf0-3d07fe77ccfa",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "516780319",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱铃万事屋",
+        "default": "cn"
+      },
+      "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
     },
     {
       "uuid": "d66f0564-dbe7-578f-a1b6-c29dd4d0c830",
@@ -49468,6 +49557,23 @@
         "extra": [],
         "jp": "飛鳥ひな",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "5f0891af-4b0a-55be-aae4-749cd526e0fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6432092",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飞天小电Denkiko",
+        "default": "cn"
       }
     },
     {
