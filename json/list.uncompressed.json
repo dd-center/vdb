@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599565865
+    "timestamp": 1599578356
   },
   "vtbs": [
     {
@@ -23139,6 +23139,23 @@
       "name": {
         "extra": [],
         "cn": "徐天依",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "87e847b7-83eb-5276-b2a7-db96d3f1f27f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "615777886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御伽乃aria",
         "default": "cn"
       }
     },
