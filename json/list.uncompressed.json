@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599578405
+    "timestamp": 1599578516
   },
   "vtbs": [
     {
@@ -23410,6 +23410,24 @@
         "cn": "微子喵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3fba33d2-829a-585c-b6d9-5514bc362324",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626530125",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "徹夜TETSUYA",
+        "default": "cn"
+      },
+      "group": "dea65e99-8859-5f68-a768-6898e68bb666"
     },
     {
       "uuid": "455284af-be28-5ea7-b899-6dffdee19746",
