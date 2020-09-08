@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599579675
+    "timestamp": 1599579834
   },
   "vtbs": [
     {
@@ -15930,6 +15930,24 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
+      "uuid": "c3a7dc67-9324-5c53-b276-8ad5e8586ba8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "352307880",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可愛川ゆあの_Official",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
