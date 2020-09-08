@@ -36,6 +36,7 @@ JSON file can be downloaded from: `https://vdb.vtbs.moe/json/list.json`, [https:
     * `jp`: (`String`) Japanese name
     * `en`: (`String`) English name
     * ...
+    * `extra`: (`Array[String]`) Alternative names
 
 ### File structure:
 
