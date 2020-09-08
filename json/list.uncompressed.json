@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599579834
+    "timestamp": 1599580760
   },
   "vtbs": [
     {
@@ -2207,6 +2207,23 @@
         "default": "en"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "a4fe531e-315a-5a06-b2f1-1887c7b3327a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "668479385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Laine_official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "569b96f0-4fa7-572b-923d-95ef7363a8f7",
