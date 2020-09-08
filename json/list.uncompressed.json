@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599578560
+    "timestamp": 1599578570
   },
   "vtbs": [
     {
@@ -18880,6 +18880,23 @@
       "name": {
         "extra": [],
         "cn": "天际熊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2fc1b6bc-df51-5430-9a99-3b16389de98f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "863287",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天雨Rainfall",
         "default": "cn"
       }
     },
