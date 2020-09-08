@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599578592
+    "timestamp": 1599578633
   },
   "vtbs": [
     {
@@ -11322,6 +11322,23 @@
       }
     },
     {
+      "uuid": "2a4f93f1-c8b6-5f01-9e6e-8e43796b741f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4865406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二小姐_Ash",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "23800c7c-9652-54d4-b768-48f637d7f8ef",
       "type": "vtuber",
       "bot": false,
@@ -21326,6 +21343,24 @@
         "default": "cn"
       },
       "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+    },
+    {
+      "uuid": "90a14c56-1ea1-5cb5-b8d6-c8568f45d91e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3762609",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鳥遊春風Official",
+        "default": "cn"
+      },
+      "group": "a56f2d9b-62a3-5fb9-8c53-85c31d832b0d"
     },
     {
       "uuid": "0b062e4b-ecc4-548e-995b-7e476ba10e39",
