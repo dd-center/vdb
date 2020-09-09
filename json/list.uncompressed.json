@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1599580760
+    "timestamp": 1599663239
   },
   "vtbs": [
     {
@@ -1881,6 +1881,18 @@
         "default": "cn"
       },
       "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
+    },
+    {
+      "uuid": "d406e5da-ef7d-5e0f-9439-264188944758",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "Hololive EN",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
     },
     {
       "uuid": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
@@ -9760,6 +9772,36 @@
       "group": "dea65e99-8859-5f68-a768-6898e68bb666"
     },
     {
+      "uuid": "e089d047-a2ae-5fb8-a7fa-c11ca6065616",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674600647",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ninomaeinanis",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一伊那尓栖",
+        "en": "Ninomae Ina'nis",
+        "jp": "一伊那尓栖",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
       "uuid": "b52b07e4-4bab-5b86-83c4-388b0d415498",
       "type": "vtuber",
       "bot": false,
@@ -16963,6 +17005,36 @@
       }
     },
     {
+      "uuid": "e3132f27-7b99-5983-9224-e68475e3ffac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674600648",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "gawrgura",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "噶呜·古拉",
+        "en": "Gawr Gura",
+        "jp": "がうる・ぐら",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
       "uuid": "14e80d53-3671-545a-894f-814b7e45fb5e",
       "type": "vtuber",
       "bot": false,
@@ -21549,6 +21621,36 @@
         "default": "cn"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "f97f8b4a-86cb-5f23-9ce5-738a119ddee7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674600646",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "takanashikiara",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鸟游琪亚拉",
+        "en": "Takanashi Kiara",
+        "jp": "小鳥遊キアラ",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
     },
     {
       "uuid": "7976d41a-83f4-524e-a438-d1de7aecdb96",
@@ -29913,6 +30015,36 @@
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
     },
     {
+      "uuid": "cee41d26-1080-5c03-8ece-d48cb2a35ba9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674600645",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "moricalliope",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森美声",
+        "en": "Mori Calliope",
+        "jp": "森美声",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
       "uuid": "3c6bbc05-fdc6-5ec8-b7e2-989c64afc11a",
       "type": "vtuber",
       "bot": false,
@@ -31410,6 +31542,36 @@
         "cn": "汪汪碎晴晴",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "761f6d35-f64d-5b82-b81b-7b9d9d538c91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674600649",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCyl1z3jo3XHR1riLFKG5UAg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "watsonameliaen",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沃森·艾米莉亚",
+        "en": "Watson Amelia",
+        "jp": "ワトソン・アメリア",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758"
     },
     {
       "uuid": "9a072b3d-4ad3-533b-8f2f-799ded515a66",
