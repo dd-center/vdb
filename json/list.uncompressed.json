@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600504434
+    "timestamp": 1600504518
   },
   "vtbs": [
     {
@@ -49009,6 +49009,23 @@
         "default": "cn"
       },
       "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
+    },
+    {
+      "uuid": "d67d38ef-9233-5a3b-8846-aec1f92e20f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "509050400",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雷柏磷ボリン",
+        "default": "cn"
+      }
     },
     {
       "uuid": "392e2502-f66b-521f-9f59-1e68308d387a",
