@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600394650
+    "timestamp": 1600503670
   },
   "vtbs": [
     {
@@ -32023,6 +32023,23 @@
         "default": "ch"
       },
       "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b"
+    },
+    {
+      "uuid": "3b4b77d7-18e2-590d-bb9a-a9f1ad5b0a7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13043029",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泥泥丸子Konnie",
+        "default": "cn"
+      }
     },
     {
       "uuid": "65c3cd79-0380-5ddd-a95c-a8ad2822d58a",
