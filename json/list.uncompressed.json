@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600504199
+    "timestamp": 1600504224
   },
   "vtbs": [
     {
@@ -35434,6 +35434,23 @@
       "name": {
         "extra": [],
         "cn": "現黄泉_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2f09319-c139-5d79-ab96-1a24ebb45a88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "583235899",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理想ideal",
         "default": "cn"
       }
     },
