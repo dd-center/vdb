@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600503670
+    "timestamp": 1600503704
   },
   "vtbs": [
     {
@@ -26002,6 +26002,23 @@
       "name": {
         "extra": [],
         "cn": "星歌Monika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "069f2ac5-2d1f-5bc7-ac72-56ca354ac699",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51030552",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星汐channel",
         "default": "cn"
       }
     },
