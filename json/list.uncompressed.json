@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600621302
+    "timestamp": 1600622486
   },
   "vtbs": [
     {
@@ -5986,6 +5986,38 @@
       }
     },
     {
+      "uuid": "d4ed1eb7-1f0c-5c45-aae9-1ae4f8cc9ac1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1869304",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCGZz3jSTHO8VP17BZ6MeitQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HlME_SUN",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hime_sun",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "sunyeojin",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "212b7f70-d044-58fd-b0c3-70baba24314a",
       "type": "vtuber",
       "bot": false,
@@ -8099,14 +8131,9 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UCAjPpHpxhxZF9EiROXwr9kQ",
+          "id": "https://www.youtube.com/channel/UCAjPpHpxhxZF9EiROXwr9kQ",
           "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "1869304",
-          "type": "official",
-          "platform": "bilibili"
+          "platform": "web"
         },
         {
           "id": "ena_vtuber",
