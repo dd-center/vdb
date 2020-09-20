@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600621256
+    "timestamp": 1600621302
   },
   "vtbs": [
     {
@@ -46274,6 +46274,23 @@
       "name": {
         "extra": [],
         "cn": "辉煌荣耀",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af9009a5-55d5-57d9-a687-a94dc5aa9822",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1721774",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辛梅尔",
         "default": "cn"
       }
     },
