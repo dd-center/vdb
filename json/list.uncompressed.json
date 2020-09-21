@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600699049
+    "timestamp": 1600699104
   },
   "vtbs": [
     {
@@ -35001,6 +35001,23 @@
         "extra": [],
         "jp": "猫音すず",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "142d0704-4d52-5542-94ae-4184fc5f9700",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8221825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫音奈可_Channel",
+        "default": "cn"
       }
     },
     {
