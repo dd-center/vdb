@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600622486
+    "timestamp": 1600688037
   },
   "vtbs": [
     {
@@ -43642,6 +43642,35 @@
       "name": {
         "extra": [],
         "cn": "莲娜多莲佐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4419a0b6-92f7-5387-b309-6cf4d312b26b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2161652",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "49886616",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "hasumi_aya",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莲水彩",
+        "jp": "蓮水彩",
+        "en": "Hasumi Aya",
         "default": "cn"
       }
     },
