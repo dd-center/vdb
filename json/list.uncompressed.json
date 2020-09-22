@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600699104
+    "timestamp": 1600761393
   },
   "vtbs": [
     {
@@ -2573,6 +2573,28 @@
         "default": "cn"
       },
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+    },
+    {
+      "uuid": "1b25e060-49eb-5954-af16-2fea26b77bf8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCWhv732tk4DAQ7X32qHKrfA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "EF175BE84DE68FA8_f2856d",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Marpril",
+        "default": "en"
+      }
     },
     {
       "uuid": "392bda9e-ff59-5558-bc02-fa1c7a503cd1",
