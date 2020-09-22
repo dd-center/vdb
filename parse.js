@@ -1,12 +1,12 @@
 const { v5: uuidv5 } = require('uuid')
 
-module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }) => ({
+module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }, keepFilename = false) => ({
   meta: { UUID_NAMESPACE, linkSyntax },
   vtbs: vtbs
-    .map(({ name, object }) => ({ uuid: uuidv5(name, UUID_NAMESPACE), object }))
-    .map(({ uuid, object }) => ({ uuid, object: { ...object, name: Object.entries(object.name || {}) } }))
-    .map(({ uuid, object }) => ({ uuid, object: { ...object, accounts: Object.entries(object.accounts || {}) } }))
-    .map(({ uuid, object }) => {
+    .map(({ name, object }) => ({ uuid: uuidv5(name, UUID_NAMESPACE), object, name }))
+    .map(({ object, ...extra }) => ({ object: { ...object, name: Object.entries(object.name || {}) }, ...extra }))
+    .map(({ object, ...extra }) => ({ object: { ...object, accounts: Object.entries(object.accounts || {}) }, ...extra }))
+    .map(({ uuid, object, name }) => {
       const parsed = { uuid }
       parsed.type = object.type || 'vtuber'
       parsed.bot = !!object.bot
@@ -35,6 +35,10 @@ module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }) => ({
         parsed.group = uuidv5(object.group, UUID_NAMESPACE)
       } else if (parsed.type === 'group') {
         parsed.group = uuid
+      }
+
+      if (keepFilename) {
+        parsed.filename = name
       }
 
       return parsed
