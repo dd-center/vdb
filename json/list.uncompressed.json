@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600818258
+    "timestamp": 1600820303
   },
   "vtbs": [
     {
@@ -3020,7 +3020,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "en": "Nara",
+        "default": "en"
       }
     },
     {
@@ -5340,7 +5342,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "en": "Yu-u-mi",
+        "default": "en"
       },
       "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
     },
@@ -10887,22 +10891,6 @@
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
-      "uuid": "e19877e0-2b35-5f1a-811b-4e6ebd0ef176",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "604245",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": []
-      },
-      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
-    },
-    {
       "uuid": "b46a45a2-8de8-529d-ba77-5d7af65bfa92",
       "type": "vtuber",
       "bot": false,
@@ -12371,7 +12359,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "伴樱桐雨",
+        "default": "cn"
       }
     },
     {
@@ -16084,7 +16074,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "可愛的島風",
+        "default": "cn"
       }
     },
     {
@@ -36063,7 +36055,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "甜梨",
+        "default": "cn"
       },
       "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
     },
@@ -45467,7 +45461,8 @@
       ],
       "name": {
         "extra": [],
-        "": "课后V派对"
+        "cn": "课后V派对",
+        "default": "cn"
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
     },
@@ -49551,7 +49546,9 @@
         }
       ],
       "name": {
-        "extra": []
+        "extra": [],
+        "cn": "青木狐王",
+        "default": "cn"
       }
     },
     {
