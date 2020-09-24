@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600950074
+    "timestamp": 1600950184
   },
   "vtbs": [
     {
@@ -41044,6 +41044,23 @@
         "default": "cn"
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d"
+    },
+    {
+      "uuid": "5dc5684f-e3ca-5f02-8134-a47b44f499e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6747203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫濑光_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "636dba59-baff-5f82-aaa4-d5f8248548e0",
