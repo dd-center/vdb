@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600949896
+    "timestamp": 1600950074
   },
   "vtbs": [
     {
@@ -52104,6 +52104,23 @@
       "name": {
         "extra": [],
         "cn": "黒澤鳩_HAtO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6261dedf-877b-5bb5-bea8-89c8c9caba70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黒猫Homulilly",
         "default": "cn"
       }
     },
