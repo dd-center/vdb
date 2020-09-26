@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1600950184
+    "timestamp": 1601164478
   },
   "vtbs": [
     {
@@ -18777,6 +18777,24 @@
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "e106427a-2a8f-53d7-a913-8f3397cef723",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3716098",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天使沙依_channel",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
