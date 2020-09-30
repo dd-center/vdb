@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1601164478
+    "timestamp": 1601436374
   },
   "vtbs": [
     {
@@ -39864,6 +39864,24 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "9fa39cbd-bee8-59f5-9c52-fefac6ce6c29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "588700067",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米艾尔蜂蜜Official",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "0b3a9305-b6e5-592c-9b93-2c6af0fa1d3d",
