@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1602298302
+    "timestamp": 1602298324
   },
   "vtbs": [
     {
@@ -3645,6 +3645,24 @@
         "default": "en"
       },
       "group": "e893bb76-13c2-5aac-8618-03cd64ad6cb0"
+    },
+    {
+      "uuid": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "129531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Project Lupinus",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "303f0327-99b2-5643-bbb6-23c48d2a613a",
@@ -42741,6 +42759,24 @@
         "cn": "芽千千ガチチ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "38c935a6-bdea-54e9-b31d-1efb4d28fb67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677821699",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苍井瑞月",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "9b34f684-d910-571d-9d39-04e735cd5d70",
