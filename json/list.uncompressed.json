@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1602298324
+    "timestamp": 1602298423
   },
   "vtbs": [
     {
@@ -14431,6 +14431,24 @@
       }
     },
     {
+      "uuid": "30f6a5c9-3117-531c-b94f-fd8bac57eb91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "666726801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Shaun",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "f7767c63-064e-548e-a1ab-9cbbfea80d30",
       "type": "vtuber",
       "bot": false,
@@ -21698,6 +21716,23 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
+      "uuid": "a6c73fb7-26de-5407-b2a3-28152321eca6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "650573749",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤利娅",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1c43d1aa-3e9b-50c8-b4a0-b5f7cad5ec0a",
       "type": "vtuber",
       "bot": false,
@@ -23917,6 +23952,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "8efe420e-cef6-578b-bc0b-b08f14f3572d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "666726799",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Yua",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "90d47350-c093-5aa0-9639-d276a3843d5c",
@@ -35657,6 +35710,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "96accc90-fdc1-53a2-a4a9-ee4591f48f9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "666726802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Reve",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "4b643406-29a6-5186-8791-dcd81e1eee48",
