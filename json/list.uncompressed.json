@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1601915579
+    "timestamp": 1602298302
   },
   "vtbs": [
     {
@@ -11436,6 +11436,24 @@
         "cn": "二月幸Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e4eb579b-54c7-51c3-913c-b0e6454733b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2083391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二萌_channel",
+        "default": "cn"
+      },
+      "group": "f0f8d8bd-54fa-56cc-ac3a-ee0466f314d5"
     },
     {
       "uuid": "b0e76c81-0e92-507b-9c0e-f456dc46c53f",
