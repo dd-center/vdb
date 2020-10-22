@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603339896
+    "timestamp": 1603339968
   },
   "vtbs": [
     {
@@ -40769,6 +40769,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "80cd34b3-a3ac-54ba-afcd-bc10db39aad9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "558984017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱音_Syanon",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fda765ed-927e-5714-bb8e-afaf3e649914",
