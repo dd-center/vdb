@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1602298355
+    "timestamp": 1603337924
   },
   "vtbs": [
     {
@@ -5961,6 +5961,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "169976ba-05fd-54c8-a483-db203dc4a9e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "439420557",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "rie_りえ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "b45e6435-1fd7-55d0-8113-0c402f6fbb01",
@@ -21714,6 +21731,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "a6c73fb7-26de-5407-b2a3-28152321eca6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "650573749",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤利娅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1c43d1aa-3e9b-50c8-b4a0-b5f7cad5ec0a",

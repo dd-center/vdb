@@ -37,13 +37,15 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
       .map(([command, arg, extra = '']) => [command, decodeBase64(arg), decodeBase64(extra)])
       .map(([command, arg, content]) => async () => {
         const path = join('vtbs', arg)
-        if (command === 'delete') {
-          await unlink(path)
-          console.log('delete', path)
-        }
-        if (command === 'put') {
-          await writeFile(path, content)
-          console.log('put', path)
+        if (path.startsWith('vtbs/')) {
+          if (command === 'delete') {
+            await unlink(path)
+            console.log('delete', path)
+          }
+          if (command === 'put') {
+            await writeFile(path, content)
+            console.log('put', path)
+          }
         }
         if (command === 'name') {
           gitUser.name = arg
