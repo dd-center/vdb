@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603339322
+    "timestamp": 1603339702
   },
   "vtbs": [
     {
@@ -1722,6 +1722,40 @@
         "default": "cn"
       },
       "group": "5280227e-7149-51ad-a929-cc2da6852f64"
+    },
+    {
+      "uuid": "490f7229-0dce-5ea8-b60d-fe0ada963f1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51269394",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCQdsnO9y47AVfi653MMWrxg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HetmesAskalana",
+          "type": "official",
+          "platform": "github"
+        },
+        {
+          "id": "HetmesAskalana",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [
+          "Hetmes H. Askalana"
+        ],
+        "en": "Hetmes Askalana",
+        "default": "en"
+      }
     },
     {
       "uuid": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4",
@@ -37902,6 +37936,34 @@
         "default": "cn"
       },
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781"
+    },
+    {
+      "uuid": "27c1fcc2-21b0-556d-ac20-52c1c1d2cea5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "170654598",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "35225622",
+          "type": "official",
+          "platform": "acfun"
+        },
+        {
+          "id": "hibana_official",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "矢泽火花",
+        "ja": "矢澤火花",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2e92ee43-bd31-59d6-a35a-ac622ba8fe99",
