@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603339702
+    "timestamp": 1603339896
   },
   "vtbs": [
     {
@@ -30295,8 +30295,7 @@
         "cn": "椎名菜羽",
         "en": "ShiinaNanoha",
         "default": "jp"
-      },
-      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+      }
     },
     {
       "uuid": "d04a508b-41bf-5a50-8cd5-95b3b4d30b53",
@@ -47044,10 +47043,13 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "铃宫铃"
+        ],
         "cn": "鈴宮鈴",
         "default": "cn"
-      }
+      },
+      "group": "ad652370-a736-537f-aa70-6ee528138364"
     },
     {
       "uuid": "2c38c0d1-689f-5f9a-af42-f7a85679e310",
