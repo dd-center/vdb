@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603682948
+    "timestamp": 1603682971
   },
   "vtbs": [
     {
@@ -49454,6 +49454,28 @@
         "default": "cn"
       },
       "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
+    },
+    {
+      "uuid": "4e737866-7754-5b1c-88e8-92e216dfab9a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52522",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ruticenet",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露蒂丝",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4f8bfee5-9e8f-56b6-b9e8-9f94870ec40d",
