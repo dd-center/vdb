@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603686097
+    "timestamp": 1603686631
   },
   "vtbs": [
     {
@@ -34427,6 +34427,23 @@
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
+      "uuid": "9eccd3dc-7ec4-5053-aeea-22185c4223db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "120279132",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "猫ゐ咲夜",
+        "default": "JP"
+      }
     },
     {
       "uuid": "b5a6af04-d5a3-5927-8653-bfdc58456a62",
