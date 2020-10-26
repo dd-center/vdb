@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603685069
+    "timestamp": 1603685192
   },
   "vtbs": [
     {
@@ -22740,9 +22740,14 @@
           "platform": "marshmallow"
         },
         {
-          "id": "Civia_Hololive",
+          "id": "_Civia",
           "type": "official",
           "platform": "twitter"
+        },
+        {
+          "id": "UCgNVXGlZIFK96XdEY20sVjg",
+          "type": "official",
+          "platform": "youtube"
         }
       ],
       "name": {
@@ -22750,8 +22755,7 @@
         "cn": "希薇娅",
         "en": "Civia",
         "default": "cn"
-      },
-      "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
+      }
     },
     {
       "uuid": "eda58a7a-2583-5b9c-88ad-f591f936a1e8",
@@ -48047,7 +48051,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "Artia_Hololive",
+          "id": "Artia_OW",
           "type": "official",
           "platform": "twitter"
         },
@@ -48073,8 +48077,7 @@
         "jp": "アティア",
         "en": "Artia",
         "default": "cn"
-      },
-      "group": "4ccae9fa-7032-52b4-9939-eb40cfe2bd6f"
+      }
     },
     {
       "uuid": "2c36f7b2-db99-553a-b016-1426a085e830",
