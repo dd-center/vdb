@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603686631
+    "timestamp": 1603688486
   },
   "vtbs": [
     {
@@ -46022,6 +46022,28 @@
         "default": "cn"
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
+    },
+    {
+      "uuid": "6fc58bb1-d219-58f4-ade3-298300da5e3c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "94375859",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "33629198",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "超危蓝猫可可亚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
