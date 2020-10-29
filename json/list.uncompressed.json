@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603954625
+    "timestamp": 1603970919
   },
   "vtbs": [
     {
@@ -2299,6 +2299,24 @@
         "default": "cn"
       },
       "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+    },
+    {
+      "uuid": "448c9cb0-32d9-554e-9da8-b47f0e26ffed",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2804512",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "虚拟主播社团PRO-Lucain",
+        "default": "CN"
+      },
+      "group": "448c9cb0-32d9-554e-9da8-b47f0e26ffed"
     },
     {
       "uuid": "5738c8e4-809a-5396-b107-81261d6a3907",
