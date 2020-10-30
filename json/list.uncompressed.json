@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1603970919
+    "timestamp": 1604039657
   },
   "vtbs": [
     {
@@ -40200,6 +40200,23 @@
       "name": {
         "extra": [],
         "cn": "紗夏サーシャ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e86e77e-e082-58f6-9968-3dea49bee224",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "385281102",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紗耶_sayako",
         "default": "cn"
       }
     },
