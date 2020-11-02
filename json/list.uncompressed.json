@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604341488
+    "timestamp": 1604341503
   },
   "vtbs": [
     {
@@ -788,6 +788,23 @@
         "default": "en"
       },
       "group": "fe322361-ebad-52de-8494-089e3205892b"
+    },
+    {
+      "uuid": "d5d68505-17d3-57aa-aac4-31193375fbc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "521070071",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ayamy",
+        "default": "en"
+      }
     },
     {
       "uuid": "2c1f17bc-e0b4-5d46-9c59-f650bc96ec5c",
