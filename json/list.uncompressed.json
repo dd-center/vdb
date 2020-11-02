@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604039657
+    "timestamp": 1604340954
   },
   "vtbs": [
     {
@@ -30092,6 +30092,23 @@
       "name": {
         "extra": [],
         "cn": "梭梭树",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e8b3264-a4d4-5210-a981-a5953418fc8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519186734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梱枝莉子",
         "default": "cn"
       }
     },
