@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604340954
+    "timestamp": 1604341146
   },
   "vtbs": [
     {
@@ -21975,6 +21975,24 @@
         "cn": "尼奥",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "87ae4b68-0634-5eef-8b2b-9fc4f5f7bbf3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "589351234",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尼芽Niya_Channel",
+        "default": "cn"
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
     },
     {
       "uuid": "f391b6ba-6651-5497-92cd-822cb151b63c",
