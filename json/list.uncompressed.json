@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604341987
+    "timestamp": 1604342165
   },
   "vtbs": [
     {
@@ -30185,6 +30185,23 @@
       }
     },
     {
+      "uuid": "f44c3d7e-a11b-5e5c-88a5-d31ec3b66a39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4290020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棠瑭Hygge",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ab22a8a8-8ae7-5346-8bd2-b917bbfca2ad",
       "type": "vtuber",
       "bot": false,
@@ -31183,6 +31200,24 @@
         "default": "cn"
       },
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
+    },
+    {
+      "uuid": "483a3d74-2a40-52b7-b99b-43be3b83f896",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "642391225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "歌莉丝official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
       "uuid": "a5bb958b-0fb1-5653-a3cd-ac545bf3b0a9",
@@ -51690,6 +51725,23 @@
       "name": {
         "extra": [],
         "cn": "麦可可提不起劲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "adb8a4a9-1dde-5d9a-8eb6-59f7e114b881",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "760744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黄泉月輝夜",
         "default": "cn"
       }
     },
