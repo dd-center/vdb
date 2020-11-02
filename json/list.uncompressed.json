@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604341146
+    "timestamp": 1604341211
   },
   "vtbs": [
     {
@@ -12343,6 +12343,25 @@
         "cn": "伊莎蓓尔lsabel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2bebea56-bc54-59c5-8dc4-c798bee3d708",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "666726803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊莎贝拉",
+        "en": "Isabella",
+        "default": "cn"
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "04bd5c4e-f904-5705-9a34-73bcc77a9888",
