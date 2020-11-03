@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604342165
+    "timestamp": 1604380415
   },
   "vtbs": [
     {
@@ -13338,6 +13338,29 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "4e04fadc-b2f3-5013-8096-417776b398d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32589387",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "16694006",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八濑摩耶子",
+        "default": "cn"
+      },
+      "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
     },
     {
       "uuid": "1eefcd82-8033-5ef8-bc2b-bb4c5e6a1cf6",
