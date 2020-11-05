@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604572813
+    "timestamp": 1604572861
   },
   "vtbs": [
     {
@@ -2873,6 +2873,23 @@
         "default": "en"
       },
       "group": "9934d233-a130-5459-8554-ecc7234d2891"
+    },
+    {
+      "uuid": "3ce05797-8301-5252-9d99-aa3f85a8b35c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692437895",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃井最中Monaka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8304b761-b83c-5f60-a635-d4b8d750ae71",
@@ -27985,6 +28002,23 @@
       "name": {
         "extra": [],
         "cn": "月野奈奈子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c8c423ea-b59b-5178-ab6f-75b9725fa440",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49631892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月隐空夜",
         "default": "cn"
       }
     },
