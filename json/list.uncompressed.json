@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604562491
+    "timestamp": 1604562514
   },
   "vtbs": [
     {
@@ -8057,6 +8057,11 @@
           "platform": "youtube"
         },
         {
+          "id": "452100632",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
           "id": "ars_almal",
           "type": "official",
           "platform": "twitter"
@@ -8064,8 +8069,10 @@
       ],
       "name": {
         "extra": [],
+        "en": "ars almal",
         "jp": "アルス・アルマル",
-        "default": "jp"
+        "cn": "阿露丝•阿尔玛",
+        "default": "en"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
