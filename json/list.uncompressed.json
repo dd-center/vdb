@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604572861
+    "timestamp": 1604572886
   },
   "vtbs": [
     {
@@ -30267,6 +30267,25 @@
         "default": "cn"
       },
       "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
+    },
+    {
+      "uuid": "0bb93431-cc6f-5141-a436-5320b2b5c01e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9347814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "桜星梦·修萝蒂娅"
+        ],
+        "cn": "桜宫初雪",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c168cde9-4356-596d-9b75-a3d8a05f73ed",
