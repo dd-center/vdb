@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604562514
+    "timestamp": 1604562536
   },
   "vtbs": [
     {
@@ -40469,6 +40469,23 @@
       "name": {
         "extra": [],
         "cn": "索尼子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5bbe463-2e0f-5cc8-8ca7-819df61f8157",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1889516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫咲さとり",
         "default": "cn"
       }
     },
