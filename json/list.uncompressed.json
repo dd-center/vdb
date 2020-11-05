@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604572094
+    "timestamp": 1604572479
   },
   "vtbs": [
     {
@@ -18581,6 +18581,24 @@
         "extra": [],
         "jp": "夜見れな",
         "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "a7e1e495-b517-510a-8c0c-6e3661120710",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628292890",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "<(￣^￣)(θ(θ☆(>_<": "夜见蕾娜Official",
+        "default": "<(￣^￣)(θ(θ☆(>_<"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
