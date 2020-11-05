@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604563238
+    "timestamp": 1604570935
   },
   "vtbs": [
     {
@@ -3923,6 +3923,24 @@
         "default": "en"
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af"
+    },
+    {
+      "uuid": "987f6e87-c3ef-5c17-8079-5dfdab027074",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "631779457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "REDCircle红圈社",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "a8bdeeb6-0f2a-5564-a086-1f2924e3b17c",
@@ -13983,7 +14001,8 @@
         "extra": [],
         "cn": "凛星RinStar",
         "default": "cn"
-      }
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "37f24611-300b-5ad0-9b88-99aea502a8bf",
@@ -42649,6 +42668,24 @@
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
     },
     {
+      "uuid": "0720f303-a890-5b1f-b2ce-0302f37d6097",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427275473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芮音GoryRuin",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
+    },
+    {
       "uuid": "4bdc10e5-c28d-55e6-be8b-6666cb0c0e3e",
       "type": "vtuber",
       "bot": false,
@@ -44507,24 +44544,6 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
-      "uuid": "dd721c04-2a82-5534-ad6a-9c6e30d0bd56",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "427275473",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "葛莉芮音",
-        "default": "cn"
-      },
-      "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
     },
     {
       "uuid": "2717b68d-977f-5ada-931d-c900eb15d23a",
@@ -49122,7 +49141,8 @@
         "extra": [],
         "cn": "雨街F",
         "default": "cn"
-      }
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "08bac4ec-6c3e-5c62-b6f9-787a59e71e4c",
