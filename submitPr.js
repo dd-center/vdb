@@ -27,6 +27,7 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
 
 (async () => {
   const gitUser = {}
+  let title = 'update'
   await gitExec(['branch', branchName], gitUser)
   await gitExec(['checkout', branchName], gitUser)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
@@ -37,13 +38,15 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
       .map(([command, arg, extra = '']) => [command, decodeBase64(arg), decodeBase64(extra)])
       .map(([command, arg, content]) => async () => {
         const path = join('vtbs', arg)
-        if (command === 'delete') {
-          await unlink(path)
-          console.log('delete', path)
-        }
-        if (command === 'put') {
-          await writeFile(path, content)
-          console.log('put', path)
+        if (path.startsWith('vtbs/')) {
+          if (command === 'delete') {
+            await unlink(path)
+            console.log('delete', path)
+          }
+          if (command === 'put') {
+            await writeFile(path, content)
+            console.log('put', path)
+          }
         }
         if (command === 'name') {
           gitUser.name = arg
@@ -51,10 +54,13 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
         if (command === 'email') {
           gitUser.email = arg
         }
+        if (command === 'title') {
+          title = arg
+        }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
     await gitExec(['push', '--set-upstream', remote, branchName], gitUser)
     await gitExec(['add', 'vtbs'], gitUser)
-    await gitExec(['commit', '-m', 'update', '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
+    await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
   }
 })()
