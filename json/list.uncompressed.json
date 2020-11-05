@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604562590
+    "timestamp": 1604562440
   },
   "vtbs": [
     {
@@ -8057,11 +8057,6 @@
           "platform": "youtube"
         },
         {
-          "id": "452100632",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
           "id": "ars_almal",
           "type": "official",
           "platform": "twitter"
@@ -8069,10 +8064,8 @@
       ],
       "name": {
         "extra": [],
-        "en": "ars almal",
         "jp": "アルス・アルマル",
-        "cn": "阿露丝•阿尔玛",
-        "default": "en"
+        "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
@@ -20457,24 +20450,6 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
-    },
-    {
-      "uuid": "1816db9e-fe5f-5320-966b-55bfc616f27b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "646278631",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "宇佐美沐月Official",
-        "default": "cn"
-      },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "7eec45b6-6738-5af9-8a81-8e9c7c226ecf",
@@ -40491,23 +40466,6 @@
       }
     },
     {
-      "uuid": "c5bbe463-2e0f-5cc8-8ca7-819df61f8157",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1889516",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "紫咲さとり",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "49cdf834-7922-5cdd-b02a-feeafd06f42e",
       "type": "vtuber",
       "bot": false,
@@ -42366,23 +42324,6 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
-    },
-    {
-      "uuid": "4ad692dc-79c8-58ce-b507-268783200113",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "36317391",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "艾斯_Vcitizen",
-        "default": "cn"
-      }
     },
     {
       "uuid": "2b4d0d84-81a0-54ef-bf1d-b88fa1b0cae3",
@@ -45868,23 +45809,6 @@
         "extra": [],
         "cn": "賀茂川ドイル",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "283cff25-2b43-5b1b-883f-82202ed143db",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "94928549",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "贝伦修坦因_official",
-        "default": "jp"
       }
     },
     {
