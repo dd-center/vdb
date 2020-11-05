@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604572841
+    "timestamp": 1604585895
   },
   "vtbs": [
     {
@@ -28006,6 +28006,23 @@
       }
     },
     {
+      "uuid": "c8c423ea-b59b-5178-ab6f-75b9725fa440",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49631892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月隐空夜",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "031df7db-03b6-58ef-b9f9-5e4e2ccd7516",
       "type": "vtuber",
       "bot": false,
@@ -30252,6 +30269,25 @@
       "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
     },
     {
+      "uuid": "0bb93431-cc6f-5141-a436-5320b2b5c01e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9347814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "桜星梦·修萝蒂娅"
+        ],
+        "cn": "桜宫初雪",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c168cde9-4356-596d-9b75-a3d8a05f73ed",
       "type": "vtuber",
       "bot": false,
@@ -30504,7 +30540,6 @@
       "name": {
         "extra": [],
         "jp": "森中花咲",
-        "cn": "弱受",
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
@@ -41873,6 +41908,21 @@
       "bot": false,
       "accounts": [
         {
+          "id": "692283831",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "https://www.37373v.com",
+          "type": "official",
+          "platform": "web"
+        },
+        {
+          "id": "37373v",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
           "id": "UCrwJvtphcyux30pAgoX68jA",
           "type": "official",
           "platform": "youtube"
@@ -41880,14 +41930,14 @@
         {
           "id": "37373v",
           "type": "official",
-          "platform": "twitter"
+          "platform": "marshmallow"
         }
       ],
       "name": {
         "extra": [],
+        "cn": "美波七海",
         "en": "Minami Nami",
-        "jp": "美波七海",
-        "default": "en"
+        "default": "cn"
       }
     },
     {
