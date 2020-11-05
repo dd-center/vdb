@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604571528
+    "timestamp": 1604571958
   },
   "vtbs": [
     {
@@ -15789,6 +15789,23 @@
         "default": "cn"
       },
       "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+    },
+    {
+      "uuid": "b5cd57f1-5fd3-5d46-b898-a8dfd2a69e28",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688053738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡诺亚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "48aa61d8-d5da-5f96-828c-678d33d6a646",
