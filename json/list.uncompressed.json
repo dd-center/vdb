@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604570991
+    "timestamp": 1604571211
   },
   "vtbs": [
     {
@@ -25045,6 +25045,24 @@
         "cn": "数字云糕Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c71f4bef-e705-56fa-8ecd-69425a25326f",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441666944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "文化放送",
+        "default": "cn"
+      },
+      "group": "c71f4bef-e705-56fa-8ecd-69425a25326f"
     },
     {
       "uuid": "bd3f2787-0279-5fd4-b376-310e28a85bc8",
