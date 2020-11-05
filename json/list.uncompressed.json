@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604562981
+    "timestamp": 1604563105
   },
   "vtbs": [
     {
@@ -20125,6 +20125,24 @@
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
     },
     {
+      "uuid": "0facc2ec-5bfa-5c6d-a50a-39442695847c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "597998292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "Cn": "姬村银",
+        "default": "Cn"
+      },
+      "group": "448c9cb0-32d9-554e-9da8-b47f0e26ffed"
+    },
+    {
       "uuid": "b00ea94a-c0ad-5109-bc94-2c2bc1d10d55",
       "type": "vtuber",
       "bot": false,
@@ -28451,7 +28469,7 @@
         "cn": "机村音Kimura-On",
         "default": "cn"
       },
-      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+      "group": "448c9cb0-32d9-554e-9da8-b47f0e26ffed"
     },
     {
       "uuid": "eef6268d-4cde-5979-bbe0-112e6bfbe4be",
