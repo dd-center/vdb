@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604562566
+    "timestamp": 1604562904
   },
   "vtbs": [
     {
@@ -25996,7 +25996,7 @@
       "name": {
         "extra": [],
         "jp": "星川サラ",
-        "cn": "星川Sara",
+        "cn": "星川莎拉",
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
@@ -45868,6 +45868,23 @@
         "extra": [],
         "cn": "賀茂川ドイル",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "283cff25-2b43-5b1b-883f-82202ed143db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "94928549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "贝伦修坦因_official",
+        "default": "jp"
       }
     },
     {
