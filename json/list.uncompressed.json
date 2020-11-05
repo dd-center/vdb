@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604572479
+    "timestamp": 1604572558
   },
   "vtbs": [
     {
@@ -6183,6 +6183,23 @@
       "name": {
         "extra": [],
         "cn": "rurudo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3508129f-3868-560b-9b72-3e3cd1f3c84b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10196457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "shadow_sakuya",
         "default": "cn"
       }
     },
