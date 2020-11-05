@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604563105
+    "timestamp": 1604563238
   },
   "vtbs": [
     {
@@ -42945,6 +42945,24 @@
         "cn": "花洛栗栗子",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "85a5ebdf-19f8-5837-b7ed-f60cc268d622",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690804827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花满Official",
+        "default": "cn"
+      },
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
     },
     {
       "uuid": "f8874187-4a7b-59ba-9b72-66d27eb8388f",
