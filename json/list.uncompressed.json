@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604571958
+    "timestamp": 1604572094
   },
   "vtbs": [
     {
@@ -41805,6 +41805,23 @@
       }
     },
     {
+      "uuid": "bec9595c-a0aa-5cb2-9662-9ebe824e5fac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13324696",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "美芝Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9f66a0e3-2555-5076-be8b-2c323131b746",
       "type": "vtuber",
       "bot": false,
@@ -49669,6 +49686,23 @@
         "default": "cn"
       },
       "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
+    },
+    {
+      "uuid": "ec6aefc8-220b-5eb1-b19d-19576bcf1c0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "290474",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "雷凌レイリン",
+        "default": "jp"
+      }
     },
     {
       "uuid": "d67d38ef-9233-5a3b-8846-aec1f92e20f0",
