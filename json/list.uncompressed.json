@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604571211
+    "timestamp": 1604571381
   },
   "vtbs": [
     {
@@ -5121,6 +5121,23 @@
         "default": "cn"
       },
       "group": "b397df70-8418-5dc0-94c4-e8973f1316c8"
+    },
+    {
+      "uuid": "9abdd959-092b-59ab-aa0e-c4a8a310094a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "652203744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "Virtual放送部",
+        "default": "jp"
+      }
     },
     {
       "uuid": "e8b26432-217f-586a-b1dc-4fded1afe37e",
@@ -22952,6 +22969,23 @@
         "default": "ch"
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
+      "uuid": "e0f371b3-dd23-5ff0-ac7c-a2c60c11994e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "175017927",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希铃菲儿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "face022a-c79d-52e5-bfdf-8543118692b1",
