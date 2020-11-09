@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604898620
+    "timestamp": 1604898648
   },
   "vtbs": [
     {
@@ -2465,36 +2465,6 @@
         "cn": "MIOUIHARU",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "a5c475b7-74ae-52a8-be0c-a73c5f10af8a",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "363072546",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "UCg8TPE5nLLOqlNnBivmQwww",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "MIYA_KIMINO",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "キミノミヤ",
-        "cn": "Miya Kimino",
-        "en": "Miya Kimino",
-        "default": "jp"
-      },
-      "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
     },
     {
       "uuid": "9e84397b-a0d3-52ed-9673-f47ed1ef115e",
@@ -16570,6 +16540,36 @@
         "default": "cn"
       },
       "group": "73102f48-57f2-5d59-94ef-7aac41e97f65"
+    },
+    {
+      "uuid": "71bc7ef1-2087-575d-88b2-f03c3e8e35aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "363072546",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCg8TPE5nLLOqlNnBivmQwww",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "MIYA_KIMINO",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "キミノミヤ",
+        "cn": "君之宫Official",
+        "en": "Miya Kimino",
+        "default": "jp"
+      },
+      "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
     },
     {
       "uuid": "b0399ea2-75fc-5b8c-94b8-c95cdb890244",
