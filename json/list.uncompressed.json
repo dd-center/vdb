@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604585895
+    "timestamp": 1604898491
   },
   "vtbs": [
     {
@@ -5158,7 +5158,7 @@
     },
     {
       "uuid": "9abdd959-092b-59ab-aa0e-c4a8a310094a",
-      "type": "vtuber",
+      "type": "group",
       "bot": false,
       "accounts": [
         {
@@ -5171,7 +5171,8 @@
         "extra": [],
         "jp": "Virtual放送部",
         "default": "jp"
-      }
+      },
+      "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
     },
     {
       "uuid": "e8b26432-217f-586a-b1dc-4fded1afe37e",
@@ -15232,7 +15233,7 @@
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
     },
     {
-      "uuid": "6e72d3c3-a4c2-5dbe-aec7-3140996be856",
+      "uuid": "7cc21981-037e-5027-ba33-4af5ff3a30af",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -15244,9 +15245,10 @@
       ],
       "name": {
         "extra": [],
-        "cn": "千洛",
+        "cn": "千洛爱吃肉Chiro",
         "default": "cn"
-      }
+      },
+      "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
     },
     {
       "uuid": "1ca799c6-ebaf-5340-83b1-f061c9fd7902",
@@ -26162,6 +26164,24 @@
       }
     },
     {
+      "uuid": "11c5b75f-ff28-5089-b80f-30e74508e463",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402417817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宮汐",
+        "default": "cn"
+      },
+      "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
+    },
+    {
       "uuid": "fdf85ced-7957-5284-9768-da3496228006",
       "type": "vtuber",
       "bot": false,
@@ -31213,6 +31233,24 @@
         "default": "cn"
       },
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
+    },
+    {
+      "uuid": "e72944b5-a6fe-523b-b1e6-fc05856396a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506316177",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘朱夏_official",
+        "default": "cn"
+      },
+      "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
     },
     {
       "uuid": "258fda46-42b9-5fd0-aafb-f54d8337eb5e",
@@ -41148,6 +41186,24 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "fdd1d884-0060-5c0a-916c-67979a1ad2cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688075617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "綿世たぬOfficial",
+        "default": "jp"
+      },
+      "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
     },
     {
       "uuid": "5a638777-fb79-54a9-a95e-e22da1f14af0",
