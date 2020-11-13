@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605254987
+    "timestamp": 1605255008
   },
   "vtbs": [
     {
@@ -43430,6 +43430,24 @@
         "cn": "花緑青-HanarokuAo-",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "746dbf66-2516-541d-8019-f7a855e784a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "269415357",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花花Haya",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "9a1c5ce7-e6aa-519b-8eae-9f56c1ea7671",
