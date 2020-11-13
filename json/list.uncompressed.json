@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605256889
+    "timestamp": 1605256964
   },
   "vtbs": [
     {
@@ -6390,34 +6390,14 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UCsNcV1BacT_HirptnIawqkQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "type": "relay",
           "id": "472019066",
+          "type": "official",
           "platform": "bilibili"
         },
         {
-          "id": "C0C0R0_IL0VEY0U",
+          "id": "https://www.youtube.com/channel/UCsNcV1BacT_HirptnIawqkQ",
           "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "C0C0R0_I",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "C0C0R0_L0VE",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "C0C0R0_Y0U",
-          "type": "official",
-          "platform": "twitter"
+          "platform": "web"
         }
       ],
       "name": {
@@ -42564,6 +42544,23 @@
         "extra": [],
         "cn": "老教师琦琦子",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "40d0f327-4709-502d-abbb-26c565436f8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16995962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "老爷子ちゃんぬ_Official",
+        "default": "jp"
       }
     },
     {
