@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1604899989
+    "timestamp": 1605254761
   },
   "vtbs": [
     {
@@ -6109,7 +6109,7 @@
         "cn": "ok酱",
         "default": "cn"
       },
-      "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "aa09cd85-e7b9-5e3c-93e7-4c32f3dd6b6f",
@@ -12954,7 +12954,7 @@
         "cn": "修格",
         "default": "cn"
       },
-      "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "2df868a1-6b51-5d00-86c2-b547256e9fdc",
@@ -33455,18 +33455,6 @@
       }
     },
     {
-      "uuid": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68",
-      "type": "group",
-      "bot": false,
-      "accounts": [],
-      "name": {
-        "extra": [],
-        "cn": "游戏风云",
-        "default": "cn"
-      },
-      "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
-    },
-    {
       "uuid": "bb2e6ab8-03bd-5eca-b87b-7d32e0a43652",
       "type": "vtuber",
       "bot": false,
@@ -34355,7 +34343,7 @@
         "cn": "爱里亚Aria",
         "default": "cn"
       },
-      "group": "78c3ddf6-bf6a-5870-8ae1-2a8843763b68"
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "3407d3e6-4505-5f96-ad81-e12f1c20a361",
@@ -50795,6 +50783,24 @@
         "default": "jp"
       },
       "group": "70a4cc30-079d-5e45-9d46-84c6194eb0c6"
+    },
+    {
+      "uuid": "66ab2857-8a5f-5768-a532-f9a05a6d7572",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "592354538",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风云社",
+        "default": "cn"
+      },
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "bec1e320-37c1-55ef-b54d-4963e9c3f174",
