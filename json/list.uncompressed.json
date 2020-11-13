@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605256932
+    "timestamp": 1605257057
   },
   "vtbs": [
     {
@@ -42547,6 +42547,23 @@
       }
     },
     {
+      "uuid": "40d0f327-4709-502d-abbb-26c565436f8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16995962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "老爷子ちゃんぬ_Official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "1e2bfc91-0361-5312-bce9-a41337ddbb30",
       "type": "vtuber",
       "bot": false,
@@ -43874,6 +43891,39 @@
         "default": "cn"
       },
       "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
+    },
+    {
+      "uuid": "069508fe-cecc-5461-8377-7973548b518d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "521780993",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCTJ15i3Bl-QbeBA4NCcpyJA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Kuyuri_Officia",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://hanagumo.jp",
+          "type": "official",
+          "platform": "web"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "花雲くゆり",
+        "cn": "花云燻",
+        "default": "jp"
+      }
     },
     {
       "uuid": "854bd0c7-c16c-5dad-9355-1ef1d7b688a8",
