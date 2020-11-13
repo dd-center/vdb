@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605255990
+    "timestamp": 1605256032
   },
   "vtbs": [
     {
@@ -23586,6 +23586,23 @@
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
+      "uuid": "912364e1-6c8a-5174-aa1a-f840b705cdaf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "216379",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "广音笑颜_Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "44e37102-5d91-5d80-a78b-f5587316c437",
       "type": "vtuber",
       "bot": false,
@@ -33782,6 +33799,38 @@
         "extra": [],
         "cn": "漆黑的绝对魔兽",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "794f41a8-51e3-506d-be26-64d96336892b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1825301994",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCGkBaeuL9-PBNfsk6hyalfw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "AT_Crescentia",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "89617251",
+          "type": "official",
+          "platform": "niconico"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "エーテル",
+        "default": "jp"
       }
     },
     {
