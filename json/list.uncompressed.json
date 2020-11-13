@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605257057
+    "timestamp": 1605257275
   },
   "vtbs": [
     {
@@ -40284,11 +40284,17 @@
           "id": "F876812927A55460_68bf8c",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "612560157",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "竹花ノート",
+        "cn": "竹花诺特",
         "default": "jp"
       }
     },
