@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605256795
+    "timestamp": 1605256844
   },
   "vtbs": [
     {
@@ -32366,6 +32366,24 @@
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
+      "uuid": "c0e394a7-0dc5-5f1e-b62e-a003cf5e4448",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "535828322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江村由菜",
+        "jp": "江村ゆな",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7621871a-3aa0-572a-9af1-1a4c6109ef4c",
       "type": "vtuber",
       "bot": false,
@@ -53360,8 +53378,7 @@
         "extra": [],
         "cn": "龙西Rinya",
         "default": "cn"
-      },
-      "group": "89359530-5a15-5358-821a-262d287812be"
+      }
     }
   ]
 }
