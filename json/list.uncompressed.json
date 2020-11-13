@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605255862
+    "timestamp": 1605255940
   },
   "vtbs": [
     {
@@ -7633,6 +7633,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "02e4175f-3781-50e6-85ff-b58ba023732a",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "masquerade_ch",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ますかれーど",
+        "default": "jp"
+      },
+      "group": "02e4175f-3781-50e6-85ff-b58ba023732a"
     },
     {
       "uuid": "e012833f-9f2e-5cef-b480-651eaa70c624",
@@ -16988,6 +17006,24 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "771969d3-b61d-561d-a119-de179514577e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "573930836",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咲间妮娜Official",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
       "uuid": "95f9fe82-b240-58eb-a5b6-1ca974634d5b",
       "type": "vtuber",
       "bot": false,
@@ -19056,6 +19092,34 @@
         "cn": "天久ふみかofficial",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "33db1fe9-c2c0-56ba-b832-12676dabdaa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1666868191",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCxBmyZNQDFJVr9-ZE7hAYfA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "angelnano1004",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天使なの",
+        "default": "jp"
+      },
+      "group": "02e4175f-3781-50e6-85ff-b58ba023732a"
     },
     {
       "uuid": "b11a86e2-6598-553b-a2e9-d8457e4fd1bf",
@@ -23155,6 +23219,29 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "b1360616-ba58-5933-9ec1-01c258d3853d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCIzspiyqiPDtfND-3MlQ41A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "lovepea0721",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "常夏あいみ",
+        "default": "jp"
+      },
+      "group": "02e4175f-3781-50e6-85ff-b58ba023732a"
     },
     {
       "uuid": "bc34c674-8a32-5d5d-a034-bb07139633fb",
@@ -44616,6 +44703,29 @@
       }
     },
     {
+      "uuid": "728472ee-d70f-588d-b2da-68fa929cf884",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCOobfYvyNQqWHBpEaMnXr7w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "mochatan0214",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "萌々嫁もか",
+        "default": "jp"
+      },
+      "group": "02e4175f-3781-50e6-85ff-b58ba023732a"
+    },
+    {
       "uuid": "1e605379-5e56-5a39-88f3-e86af761fdac",
       "type": "vtuber",
       "bot": false,
@@ -48101,7 +48211,7 @@
       }
     },
     {
-      "uuid": "eb1bf254-eb24-57a4-9281-d3c241cd8b6b",
+      "uuid": "49e9687f-fbd7-57e9-86cc-4213ce085200",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -48113,7 +48223,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "钉宫妮昵姊",
+        "cn": "钉宫妮妮Ninico",
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
