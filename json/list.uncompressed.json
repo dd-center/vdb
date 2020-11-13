@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605256807
+    "timestamp": 1605256889
   },
   "vtbs": [
     {
@@ -11608,6 +11608,23 @@
         "default": "cn"
       },
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
+    },
+    {
+      "uuid": "cffc2dd7-5335-51c8-8160-21b70eec6ce7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2474047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九条真宵Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "72b7698c-0c96-5929-a32b-66ff519c5c6f",
@@ -53378,8 +53395,7 @@
         "extra": [],
         "cn": "龙西Rinya",
         "default": "cn"
-      },
-      "group": "89359530-5a15-5358-821a-262d287812be"
+      }
     }
   ]
 }
