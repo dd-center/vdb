@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605561141
+    "timestamp": 1605561383
   },
   "vtbs": [
     {
@@ -5823,6 +5823,23 @@
         "default": "en"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "bba85349-c392-5577-9b90-53398a1b6b14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23454314",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ibi耶比",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2d906ab8-d130-5243-bc56-d9bece1ac1b4",
@@ -21006,6 +21023,23 @@
         "extra": [],
         "ch": "安心院菠萝子_channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "a1bb1d9a-d63d-50eb-a8e5-ff15f0bece82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44903085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安晴Ankii",
+        "default": "cn"
       }
     },
     {
@@ -44085,6 +44119,24 @@
       "name": {
         "extra": [],
         "cn": "苏了个妹",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dca2bdcf-93ef-52e1-9bb1-c8ad8fe56a7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "749237",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏尔林·哈拉鲁",
+        "en": "Sulryn Hlaalu",
         "default": "cn"
       }
     },
