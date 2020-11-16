@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605561107
+    "timestamp": 1605561252
   },
   "vtbs": [
     {
@@ -21009,6 +21009,23 @@
       }
     },
     {
+      "uuid": "a1bb1d9a-d63d-50eb-a8e5-ff15f0bece82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44903085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安晴Ankii",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fd239b25-f591-5597-a6d3-569d4c5b3330",
       "type": "vtuber",
       "bot": false,
@@ -35756,6 +35773,23 @@
       "name": {
         "extra": [],
         "cn": "猫部nekobu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f45f4a44-89fd-5d11-916f-5f9735a6c43b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "697091119",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫雷NyaRu_Official",
         "default": "cn"
       }
     },
