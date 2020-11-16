@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605257275
+    "timestamp": 1605561107
   },
   "vtbs": [
     {
@@ -16205,6 +16205,23 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "b6866645-b6f6-57c0-afb7-7f9b56b9d89f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487902",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "召唤师yami",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5fe27d0c-45b3-5671-86ae-a8102a50a7e5",
       "type": "vtuber",
       "bot": false,
@@ -18522,23 +18539,6 @@
         "extra": [],
         "cn": "夜樱诺娅",
         "jp": "夜桜のあ",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "922a5b2a-c58c-5975-a780-6d005f7ded3b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "487902",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "夜猫",
         "default": "cn"
       }
     },
