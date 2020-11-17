@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605561383
+    "timestamp": 1605609367
   },
   "vtbs": [
     {
@@ -26444,6 +26444,25 @@
         "default": "cn"
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
+      "uuid": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCj_dHWD0o2k_Ef4lwcXd0Iw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星巡学园",
+        "jp": "星めぐり学園",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
     },
     {
       "uuid": "85c80714-eece-57af-8876-3e92388d5ee3",
