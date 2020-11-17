@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605609367
+    "timestamp": 1605610226
   },
   "vtbs": [
     {
@@ -2744,6 +2744,31 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "5393ac4b-e2fb-5b7e-a9cc-ef162c72c1c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCO-FZDAG0mOvgu6jmGg1tiA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "mikado_HS",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mikado帝",
+        "jp": "帝",
+        "en": "Mikado",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
     },
     {
       "uuid": "52abaf86-b84e-5d99-8707-ee8096ad335a",
@@ -51258,6 +51283,36 @@
         "cn": "风月莉莉娅",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "847db325-e129-5be8-970a-e9a95434b404",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCOozmdnOhOrk3mojTazi-TQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "692283833",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "fugaminanana",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风纸七鸣",
+        "jp": "風紙七鳴",
+        "en": "Fugami Nanana",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
     },
     {
       "uuid": "331168d1-6fae-56d2-bad1-91381fac665a",
