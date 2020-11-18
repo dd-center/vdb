@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605615892
+    "timestamp": 1605708759
   },
   "vtbs": [
     {
@@ -2920,6 +2920,24 @@
         "default": "en"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "55087ebb-8f70-5410-8178-62330f9090c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427623918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Moonlight木莱",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "f1ad78a5-22a8-5f05-a18e-07093ed6e8e3",
@@ -13149,7 +13167,8 @@
         "extra": [],
         "cn": "克罗艾-芙洛拉Official",
         "default": "cn"
-      }
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "8b93ac7b-3b5c-5767-8d27-9aa8c5357279",
@@ -19197,6 +19216,24 @@
       "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
+      "uuid": "bb95ee49-72a2-5c02-aba1-9ee6210a9597",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "627433829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天使米谢尔Michelle",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
       "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
       "type": "vtuber",
       "bot": false,
@@ -20589,6 +20626,42 @@
         "cn": "嫣汐",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e839574c-987c-5970-974c-4611fe5d5287",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "313478686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嬉野卯衣Official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
+      "uuid": "076a1984-c890-540c-8247-6b0cb81e7dc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "687741776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嬉野那姬Official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "e3e8177a-cb13-52e4-82ad-19c495ffe005",
@@ -28214,6 +28287,24 @@
         "default": "cn"
       },
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
+      "uuid": "8dfa2db5-0716-52ed-b2bd-d70e9774b1c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "647575049",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见里朔良Official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "bd2fa2a6-6175-5dbc-a52d-23356b7363e7",
@@ -36808,6 +36899,24 @@
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
+      "uuid": "c3bd8e72-da08-554a-822f-9f2f42b8c5ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473606874",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "璐比Channel",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
       "uuid": "cbdc3912-d9d7-577e-b069-249d05f3ef6b",
       "type": "vtuber",
       "bot": false,
@@ -37266,6 +37375,24 @@
         "cn": "白井ゆきOfficial",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b11ba083-ad0c-51f4-b118-aea74849ba75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690030493",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白井諭吉Official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "82c79e5f-21a8-5779-8a93-bb27d84e9cbe",
@@ -40307,6 +40434,24 @@
         "cn": "竹君棠Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "05125cf2-d005-5d30-8852-c9026d64ae40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "600350072",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹嗣Takeshi",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "4057f144-408a-5981-84fd-7b9ac7a50c64",
@@ -44613,6 +44758,24 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "653b2d54-92c8-5f4f-8387-15eed9e2132e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625253983",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉莉卡official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
       "uuid": "2961161b-38e3-5200-a45f-b617a256d807",
       "type": "vtuber",
       "bot": false,
@@ -47862,6 +48025,24 @@
         "default": "cn"
       },
       "group": "81fb6430-675c-5177-9443-8dedd2b96730"
+    },
+    {
+      "uuid": "3dd3ef2e-5c8d-513b-81b5-ab247609c096",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688496841",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "邪目零Official",
+        "default": "cn"
+      },
+      "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
       "uuid": "2943e263-2669-5b96-9e8c-a5611aa9af80",
