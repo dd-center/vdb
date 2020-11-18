@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605708759
+    "timestamp": 1605709220
   },
   "vtbs": [
     {
@@ -46901,6 +46901,24 @@
         "default": "cn"
       },
       "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
+    },
+    {
+      "uuid": "47254d47-0d3a-5bae-a562-e578c5a62b6e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "323774877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝蒂",
+        "en": "Betty",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fe9eaf7b-4fd9-5e15-bde2-c9425ac84134",
