@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748082
+    "timestamp": 1605748122
   },
   "vtbs": [
     {
@@ -17872,6 +17872,23 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+    },
+    {
+      "uuid": "d2a9649f-1651-5fb2-bf95-445812e2134f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609950762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塩田伊緖Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8ed8cd04-3f3a-5022-983f-d46c0c606f35",
@@ -37690,6 +37707,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "c43b1553-5407-5677-a454-6cc297d9e3b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "456155634",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白小律Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ccca5379-fbba-5d86-a768-74325744486d",
