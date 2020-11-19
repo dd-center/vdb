@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750417
+    "timestamp": 1605750439
   },
   "vtbs": [
     {
@@ -52140,6 +52140,23 @@
       "name": {
         "extra": [],
         "cn": "音無星花",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cc0069dc-3231-5167-b2e1-a4a00a39fa2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "479424373",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音無来未Official",
         "default": "cn"
       }
     },
