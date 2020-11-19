@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750115
+    "timestamp": 1605750243
   },
   "vtbs": [
     {
@@ -3782,6 +3782,11 @@
       "accounts": [
         {
           "id": "129531",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "622020997",
           "type": "official",
           "platform": "bilibili"
         }
@@ -27286,6 +27291,23 @@
       }
     },
     {
+      "uuid": "0485fb54-e250-5fc9-bd37-829f8bd8de61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21729322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星空ほたる",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "33de9fd3-7223-54f5-896e-1e5ff744fca2",
       "type": "vtuber",
       "bot": false,
@@ -44972,7 +44994,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "苍井瑞月",
+        "cn": "苍井瑞月Official",
         "default": "cn"
       },
       "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
@@ -50493,6 +50515,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "b4aeef4e-b41b-5477-b8d9-f472ada4c9cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4929408",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿蛙Kaeru",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a0a7a504-5c6a-5bc3-925f-7026663fc16b",
