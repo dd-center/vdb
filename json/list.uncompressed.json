@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748583
+    "timestamp": 1605748595
   },
   "vtbs": [
     {
@@ -34790,6 +34790,24 @@
         "default": "jp"
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
+      "uuid": "851d1eba-6cd8-590f-9b75-847e83507e55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690147772",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "熊野ぽえみOfficial",
+        "default": "jp"
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
     },
     {
       "uuid": "56836725-bd8b-55e0-9bc2-72f2085c2243",
