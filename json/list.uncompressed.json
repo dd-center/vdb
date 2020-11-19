@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750618
+    "timestamp": 1605750654
   },
   "vtbs": [
     {
@@ -50,6 +50,23 @@
       "name": {
         "extra": [],
         "cn": "-水梨若official-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69bbeb3d-516c-546c-b2ce-d45484a6483a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "178464220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-籽三-",
         "default": "cn"
       }
     },
@@ -47243,6 +47260,23 @@
       "name": {
         "extra": [],
         "cn": "血色星辰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f70e903-818f-54bc-ad98-b98f16d51807",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5765235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "衫Hitoe",
         "default": "cn"
       }
     },
