@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605709220
+    "timestamp": 1605746122
   },
   "vtbs": [
     {
@@ -11681,6 +11681,23 @@
         "extra": [],
         "jp": "九条茘枝",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bcbe14d4-9521-50d4-91e7-4057957daa26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "225347042",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九重紫Official",
+        "default": "cn"
       }
     },
     {
