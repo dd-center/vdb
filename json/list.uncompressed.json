@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748366
+    "timestamp": 1605748412
   },
   "vtbs": [
     {
@@ -10659,6 +10659,24 @@
         "jp": "三日暦Official",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "33cbcee9-b260-5842-8a0d-d10bd6dc38fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "79169021",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三日月萤昙channel",
+        "default": "cn"
+      },
+      "group": "8344f00c-6fb0-5bd5-a14b-45a620e4479d"
     },
     {
       "uuid": "6e554258-8ab4-5e3b-8f6d-8e9fe008d8ce",
