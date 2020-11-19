@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750439
+    "timestamp": 1605750458
   },
   "vtbs": [
     {
@@ -18163,6 +18163,23 @@
       "name": {
         "extra": [],
         "cn": "夏凛karin_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c64152e0-32aa-5d58-a6ac-f79d6678bd12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3262991",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏小芫Official",
         "default": "cn"
       }
     },
