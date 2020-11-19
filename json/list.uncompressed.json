@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748352
+    "timestamp": 1605748366
   },
   "vtbs": [
     {
@@ -27306,6 +27306,23 @@
       "name": {
         "extra": [],
         "cn": "星野Rika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9b4f0fd-141f-558d-9950-a5957a13823c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9736638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野琳奈",
         "default": "cn"
       }
     },
