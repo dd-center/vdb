@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748312
+    "timestamp": 1605748325
   },
   "vtbs": [
     {
@@ -25245,6 +25245,23 @@
       "name": {
         "extra": [],
         "cn": "打酱油的魔神_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9717d9b8-b9e3-5550-b3e2-c01860b26b0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85523780",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托可莉亚official",
         "default": "cn"
       }
     },
