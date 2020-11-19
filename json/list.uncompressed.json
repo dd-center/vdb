@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750600
+    "timestamp": 1605750618
   },
   "vtbs": [
     {
@@ -22158,6 +22158,23 @@
         "default": "jp"
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93"
+    },
+    {
+      "uuid": "5a2ea0d0-53d9-5d8a-ab02-d8af3fefb268",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677031103",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小松幸Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e0e093b-60e3-5d6c-82b9-e39c45aa18b9",
