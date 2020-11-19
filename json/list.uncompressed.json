@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605749858
+    "timestamp": 1605749885
   },
   "vtbs": [
     {
@@ -13751,6 +13751,24 @@
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
     {
+      "uuid": "11d544b6-56eb-5ab0-8edc-10f5410383a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "47831360",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八阳HachiYou",
+        "default": "cn"
+      },
+      "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
+    },
+    {
       "uuid": "90181fe0-68f3-5816-b5f6-b3654b43cf42",
       "type": "vtuber",
       "bot": false,
@@ -22943,18 +22961,14 @@
           "id": "88174947",
           "type": "official",
           "platform": "bilibili"
-        },
-        {
-          "id": "646344560",
-          "type": "official",
-          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "cn": "山月はかみ",
         "default": "cn"
-      }
+      },
+      "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
     },
     {
       "uuid": "02755270-340a-533d-a7ee-af8d0cf7d86d",
@@ -23150,6 +23164,24 @@
         "ch": "山霧-Official-",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "a2dfbe6d-579b-50da-a404-9d80711403d7",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "646344560",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岄",
+        "default": "cn"
+      },
+      "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
     },
     {
       "uuid": "36f19f32-4204-5a38-963e-61c03dacd148",
@@ -34888,6 +34920,24 @@
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "0df41876-a5c6-5579-b366-92da122f7e31",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "662054565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "烟水寒云_Official",
+        "default": "cn"
+      },
+      "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
     },
     {
       "uuid": "84107988-319d-57cc-8392-93bf26b8e5b4",
@@ -50773,7 +50823,8 @@
         "extra": [],
         "cn": "雨旋_Yusen",
         "default": "cn"
-      }
+      },
+      "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
     },
     {
       "uuid": "f325924a-02f3-5c9f-9815-0c2b96f5adc4",
