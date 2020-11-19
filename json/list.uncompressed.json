@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605747876
+    "timestamp": 1605747974
   },
   "vtbs": [
     {
@@ -12202,6 +12202,23 @@
       }
     },
     {
+      "uuid": "d2f49b61-cdff-53ac-89f3-85e0acfcb5f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12450452",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "人间蜜药",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "afaf7264-2012-56ef-8451-25748d962fa0",
       "type": "vtuber",
       "bot": false,
@@ -19772,6 +19789,23 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "1b4a586e-c421-5c72-9405-6e4b1249d581",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "578913492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天音りりあOFFICIAL",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0bc2ee6f-e8e0-5945-907f-b62c3acdcc13",
@@ -47572,6 +47606,24 @@
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
     },
     {
+      "uuid": "d6e9de36-c184-5006-a597-09abf8833613",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625978",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "软软Rakki子",
+        "default": "cn"
+      },
+      "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
+    },
+    {
       "uuid": "d83ce321-ea94-5f9f-8785-00f31df72048",
       "type": "vtuber",
       "bot": false,
@@ -50605,6 +50657,23 @@
         "extra": [],
         "jp": "雷凌レイリン",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "96d8feb3-3a32-585a-8eca-1f47a2b13940",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "602724685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雷岁_Raisai",
+        "default": "cn"
       }
     },
     {
