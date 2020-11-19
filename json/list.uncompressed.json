@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748412
+    "timestamp": 1605748340
   },
   "vtbs": [
     {
@@ -10659,24 +10659,6 @@
         "jp": "三日暦Official",
         "default": "jp"
       }
-    },
-    {
-      "uuid": "33cbcee9-b260-5842-8a0d-d10bd6dc38fc",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "79169021",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "三日月萤昙channel",
-        "default": "cn"
-      },
-      "group": "8344f00c-6fb0-5bd5-a14b-45a620e4479d"
     },
     {
       "uuid": "6e554258-8ab4-5e3b-8f6d-8e9fe008d8ce",
@@ -26038,23 +26020,6 @@
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
-      "uuid": "7f8e9da4-5fb8-5aad-9de2-f861ee3742c3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "697652272",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "早穗",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "f2a6d0eb-7a52-5024-abc0-7356385b7f0d",
       "type": "vtuber",
       "bot": false,
@@ -27324,23 +27289,6 @@
       "name": {
         "extra": [],
         "cn": "星野Rika",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "f9b4f0fd-141f-558d-9950-a5957a13823c",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "9736638",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "星野琳奈",
         "default": "cn"
       }
     },
