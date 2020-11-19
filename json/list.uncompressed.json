@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605747974
+    "timestamp": 1605747993
   },
   "vtbs": [
     {
@@ -30831,6 +30831,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "bd0a3c8a-378a-5c5c-bd96-d7f4767b20bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614258400",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦野瞳Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bdb98ff1-b592-5963-9a6e-3a68d5329de2",
