@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748569
+    "timestamp": 1605749468
   },
   "vtbs": [
     {
@@ -18254,6 +18254,34 @@
       "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
     },
     {
+      "uuid": "65dc6345-9d35-59bb-95c2-b3d9c3371c74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1612112",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCEAYn1JzHW7BGOaaDWDtqnQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "chatnoir_ice",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "しゃのあ",
+        "cn": "夏诺雅",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "fa03dccf-e9ec-509a-89b9-42b2c5420023",
       "type": "vtuber",
       "bot": false,
@@ -34792,6 +34820,24 @@
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
     },
     {
+      "uuid": "851d1eba-6cd8-590f-9b75-847e83507e55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690147772",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "熊野ぽえみOfficial",
+        "default": "jp"
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
+    },
+    {
       "uuid": "56836725-bd8b-55e0-9bc2-72f2085c2243",
       "type": "vtuber",
       "bot": false,
@@ -47129,6 +47175,24 @@
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
     },
     {
+      "uuid": "5d9a1816-d208-56e3-a67f-f1ab1b44789d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4711217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆团子_Channel",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
       "uuid": "e1fcf837-77c9-57f3-88ef-324b1258a3ac",
       "type": "vtuber",
       "bot": false,
@@ -50303,23 +50367,6 @@
         "extra": [],
         "cn": "雙葉藤式_",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "3186c2a5-2d16-5fee-84d1-9c93d08f898d",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1612112",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "雛月Mofu",
-        "default": "jp"
       }
     },
     {
