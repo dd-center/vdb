@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748101
+    "timestamp": 1605748298
   },
   "vtbs": [
     {
@@ -17874,6 +17874,23 @@
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
+      "uuid": "d2a9649f-1651-5fb2-bf95-445812e2134f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609950762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塩田伊緖Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8ed8cd04-3f3a-5022-983f-d46c0c606f35",
       "type": "vtuber",
       "bot": false,
@@ -21804,6 +21821,23 @@
       "name": {
         "extra": [],
         "cn": "小怪受",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d9694352-6f6a-5fda-92fc-8999c949ddbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "356395260",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小木木呀-",
         "default": "cn"
       }
     },
@@ -35093,6 +35127,23 @@
         "default": "cn"
       },
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
+    },
+    {
+      "uuid": "adb5c2fc-00c5-508b-b3a3-447ffb5a3f1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "406996041",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬塚いちご",
+        "default": "cn"
+      }
     },
     {
       "uuid": "56852ffd-5f18-550b-89d8-0b1156d6b3f8",
