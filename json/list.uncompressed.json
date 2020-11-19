@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605749513
+    "timestamp": 1605749646
   },
   "vtbs": [
     {
@@ -244,23 +244,6 @@
         "default": "cn"
       },
       "group": "22c2893d-8037-5243-9944-40b33731673e"
-    },
-    {
-      "uuid": "b3b25c61-2d08-5fd2-aea8-05f792bbc42c",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "10892065",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "AGKUTA",
-        "default": "cn"
-      }
     },
     {
       "uuid": "9c055632-d5d5-5767-9374-683b432ceaf9",
@@ -23697,6 +23680,24 @@
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
+      "uuid": "91952899-439a-55b8-a405-fcaff50c9b82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701522855",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幸祜-koko-",
+        "default": "cn"
+      },
+      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+    },
+    {
       "uuid": "45ace7ed-7dcf-51d8-a317-f2a7e96d4555",
       "type": "vtuber",
       "bot": false,
@@ -36752,6 +36753,23 @@
       }
     },
     {
+      "uuid": "8046d2b2-9bfd-50fb-890d-bea230d674fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "605416220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珠鮨Yi_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0a7c09a1-6edc-5bb0-ac0f-110e9aa15a35",
       "type": "vtuber",
       "bot": false,
@@ -47219,6 +47237,23 @@
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
     },
     {
+      "uuid": "bbe18517-2b4e-5ca9-83a8-f7a7af8bcf6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "73369488",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "谬宁狼白_Munnin",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "58712ed1-1759-5f13-a0c1-b116ac990000",
       "type": "vtuber",
       "bot": false,
@@ -53627,6 +53662,23 @@
       "name": {
         "extra": [],
         "cn": "黑川幽梦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "979bdba4-5501-5554-ad8f-34b675c539e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10892065",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑川芥Official",
         "default": "cn"
       }
     },
