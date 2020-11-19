@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750258
+    "timestamp": 1605750417
   },
   "vtbs": [
     {
@@ -3401,23 +3401,6 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
-    },
-    {
-      "uuid": "17c72ec3-343a-5854-ade6-46064af2dfca",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "10296177",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "OscarAnd奥斯卡",
-        "default": "cn"
-      }
     },
     {
       "uuid": "17683b28-9a9e-5510-9306-1447916850c6",
@@ -15708,6 +15691,23 @@
       }
     },
     {
+      "uuid": "f5f3983c-6212-594a-8325-4f2cc594f9a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "672455305",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "华小科Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "92e3080e-069d-5905-b756-c15a51eb7a6a",
       "type": "vtuber",
       "bot": false,
@@ -15966,24 +15966,6 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
-    },
-    {
-      "uuid": "e20529b6-f7b0-5687-bd31-904ec5792cb1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "297340",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "博丽灵梦",
-        "en": "Hakurei Reimu",
-        "default": "cn"
-      }
     },
     {
       "uuid": "b5d09470-6a0a-589d-a105-17eb7c11ccd3",
@@ -18095,6 +18077,23 @@
       "name": {
         "extra": [],
         "cn": "墨余子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "93b955c3-3112-5184-9ef5-a5377ac27d99",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "845921",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨喵星突突母舰Official",
         "default": "cn"
       }
     },
@@ -25640,6 +25639,24 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
+      "uuid": "ba345afb-b4b7-5c39-8e4b-cb7b8a6f07e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10296177",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉布-Channel",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "0f688d7b-b325-5c6b-9666-3eb7325808fb",
       "type": "vtuber",
       "bot": false,
@@ -26537,6 +26554,23 @@
         "default": "cn"
       },
       "group": "8344f00c-6fb0-5bd5-a14b-45a620e4479d"
+    },
+    {
+      "uuid": "b5623b32-5a63-55e7-ae03-aa2e9be509e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "297340",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "昙露拾珠Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e2f1566a-135a-5202-b82e-93d6baf63eff",
@@ -36691,6 +36725,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "6c43109e-dcc6-5b52-ac38-af8bf3e7455d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "410284136",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玄雀阙星official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a2fcc738-7269-5e29-9068-d7d5ca94f639",
@@ -47744,8 +47795,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "贝蒂",
-        "en": "Betty",
+        "cn": "贝蒂-Betty",
         "default": "cn"
       }
     },
