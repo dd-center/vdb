@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748009
+    "timestamp": 1605748067
   },
   "vtbs": [
     {
@@ -28823,6 +28823,23 @@
       "name": {
         "extra": [],
         "cn": "木苒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98f72d89-88c7-5fe5-8a76-3bc80896b4cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2241833",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木野子_KINOKO",
         "default": "cn"
       }
     },
