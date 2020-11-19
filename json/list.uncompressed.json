@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605747993
+    "timestamp": 1605748009
   },
   "vtbs": [
     {
@@ -20406,6 +20406,23 @@
       "name": {
         "extra": [],
         "cn": "妮娅-芙莉姬娅Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10266374-2142-5e1f-a02f-e38a245b15be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "839059",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮特_Nito",
         "default": "cn"
       }
     },
