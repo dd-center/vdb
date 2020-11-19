@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605749468
+    "timestamp": 1605749496
   },
   "vtbs": [
     {
@@ -774,6 +774,23 @@
       "name": {
         "extra": [],
         "cn": "Asobi_Rin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e8abe81-cffe-59b8-91c4-c1a07b737c7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2592429",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AstralisUP",
         "default": "cn"
       }
     },
@@ -5123,9 +5140,17 @@
       "uuid": "227ed47e-4565-5692-b1cc-154463a73773",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "195719792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
-        "extra": [],
+        "extra": [
+          "Virtopia_Club"
+        ],
         "cn": "Virtopia",
         "default": "cn"
       },
@@ -6035,6 +6060,24 @@
         "cn": "kuuri_Vtuber",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4751ad5b-df00-57ed-8d96-0d0fe5cebeb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22877839",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "litChi_off",
+        "default": "cn"
+      },
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "88c5eef4-200e-5ea1-a388-4016c14c95c0",
@@ -11196,7 +11239,7 @@
         "cn": "东鸟apple",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "191f32f1-faaf-5736-b338-775e4b63d314",
@@ -12594,7 +12637,8 @@
         "extra": [],
         "cn": "伊芙-洁珞瑟Official",
         "default": "cn"
-      }
+      },
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "87c3baa1-effe-50f9-b481-777fed60b78e",
@@ -18624,7 +18668,8 @@
         "extra": [],
         "cn": "夜岚",
         "default": "cn"
-      }
+      },
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "4c456533-6916-5f5b-9cd6-06ba026f1f26",
@@ -21574,7 +21619,7 @@
         "cn": "宫本夏凌",
         "default": "cn"
       },
-      "group": "dea65e99-8859-5f68-a768-6898e68bb666"
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "44cf2e62-65d6-5e7f-832a-d82b0f30a7a6",
@@ -43717,6 +43762,24 @@
         "cn": "艾瑞娅Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "07619687-a293-5b7f-a7c8-937f79f92148",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3286495",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾米亚official",
+        "default": "cn"
+      },
+      "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
       "uuid": "4309fca5-e786-5ca4-b47b-38f85b7e2ebe",
