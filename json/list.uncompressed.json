@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605749740
+    "timestamp": 1605749858
   },
   "vtbs": [
     {
@@ -4526,6 +4526,24 @@
         "kr": "Soy_Official",
         "default": "kr"
       }
+    },
+    {
+      "uuid": "8191e3b1-9045-5b06-91cf-8f08baf0fde6",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "631310211",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "StarryNight",
+        "default": "jp"
+      },
+      "group": "8191e3b1-9045-5b06-91cf-8f08baf0fde6"
     },
     {
       "uuid": "2a539dd2-fb7d-578c-8730-153bb8874a62",
@@ -15979,6 +15997,24 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "116d0020-c961-5c66-928f-b35d08d12b81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630785320",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡洛塔Official",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
+    },
+    {
       "uuid": "8dc1559d-af5a-5945-a33f-dc3c5eba3935",
       "type": "vtuber",
       "bot": false,
@@ -23930,6 +23966,23 @@
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
     },
     {
+      "uuid": "882a70c7-b9fb-5526-9210-943e91a387e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34528147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽子yuko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4447b00f-4560-55bc-af4c-a8c50cefe704",
       "type": "vtuber",
       "bot": false,
@@ -24397,6 +24450,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "9bb14c17-e771-5f4d-a441-904752c44278",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21374533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "彼岸霜滢Eliro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "11a219db-b2d9-5418-9d16-3913b4486d29",
@@ -39117,6 +39187,24 @@
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
     },
     {
+      "uuid": "64257167-604e-5164-b0ab-f230de521e57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "693302261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皋月椛_Channel",
+        "default": "cn"
+      },
+      "group": "8191e3b1-9045-5b06-91cf-8f08baf0fde6"
+    },
+    {
       "uuid": "174f6cad-46a0-5414-8f28-dd0f77b85448",
       "type": "vtuber",
       "bot": false,
@@ -41421,6 +41509,24 @@
         "default": "cn"
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
+      "uuid": "4e99d842-931d-536c-90e2-7cf78bc6e598",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "700555998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米莎_Channel",
+        "default": "cn"
+      },
+      "group": "8191e3b1-9045-5b06-91cf-8f08baf0fde6"
     },
     {
       "uuid": "c0873068-5e0a-52d8-9c62-965270b95012",
@@ -46558,6 +46664,24 @@
         "cn": "蛍HOTARU",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4b1489a4-bda3-5086-bf02-a7c989a2a1b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "623268547",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜂屋響_Channel",
+        "default": "cn"
+      },
+      "group": "8191e3b1-9045-5b06-91cf-8f08baf0fde6"
     },
     {
       "uuid": "5387b4ba-bf9d-5389-84cb-a65c83b696aa",
