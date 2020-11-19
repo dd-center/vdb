@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750654
+    "timestamp": 1605750670
   },
   "vtbs": [
     {
@@ -47990,6 +47990,23 @@
         "extra": [],
         "jp": "贝伦修坦因_official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "309d9aa2-a824-5a33-85f7-82590f55c3a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "601557682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝儿薇尔_Channel",
+        "default": "cn"
       }
     },
     {
