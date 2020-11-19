@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605748298
+    "timestamp": 1605748312
   },
   "vtbs": [
     {
@@ -4600,6 +4600,23 @@
       "name": {
         "extra": [],
         "cn": "Tacitly_麟犀",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e0508e19-1bfa-567e-b842-792b532b656c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1996131",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Tadasuto-塔哒",
         "default": "cn"
       }
     },
