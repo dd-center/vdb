@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605750555
+    "timestamp": 1605750600
   },
   "vtbs": [
     {
@@ -26948,6 +26948,23 @@
       }
     },
     {
+      "uuid": "4b0cf4ee-2fcf-5542-a8b0-c57cb237603c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3209150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宫颜Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e13cf0fc-b34c-5ff1-b046-8461c1524e66",
       "type": "vtuber",
       "bot": false,
@@ -47922,6 +47939,23 @@
         "extra": [],
         "jp": "贝伦修坦因_official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "0e7f89b5-6903-507d-9acb-c5b2023e5ba7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "528497581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝利亚尔belial",
+        "default": "cn"
       }
     },
     {
