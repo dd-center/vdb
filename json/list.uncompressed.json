@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1605775028
+    "timestamp": 1606043404
   },
   "vtbs": [
     {
@@ -37842,6 +37842,23 @@
         "extra": [],
         "cn": "環さんご",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "440c6ddc-00a4-51c2-831d-08d81643bd35",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "602200741",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "瓦妮Vanee",
+        "default": "CN"
       }
     },
     {
