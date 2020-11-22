@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606043630
+    "timestamp": 1606043713
   },
   "vtbs": [
     {
@@ -15840,6 +15840,23 @@
       "name": {
         "extra": [],
         "cn": "华莉丝Wallis",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10a57744-a41c-5633-982b-5fd08875738e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "608777966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卓玛泉",
         "default": "cn"
       }
     },
