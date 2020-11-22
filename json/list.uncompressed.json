@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606043404
+    "timestamp": 1606043537
   },
   "vtbs": [
     {
@@ -24823,6 +24823,23 @@
       "name": {
         "extra": [],
         "cn": "御坂万骨坊official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1bbcd31b-d87c-50e2-b42c-be3ee6d43fad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6514909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御坂伊里奇_Official",
         "default": "cn"
       }
     },
