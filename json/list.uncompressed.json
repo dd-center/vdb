@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606043732
+    "timestamp": 1606053494
   },
   "vtbs": [
     {
@@ -12818,6 +12818,23 @@
         "extra": [],
         "jp": "伏見ガク",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "587cc63d-1f67-5478-a0a1-f31c59771fb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伞盾战士伊狸_channel",
+        "default": "cn"
       }
     },
     {
