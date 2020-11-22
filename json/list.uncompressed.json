@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606043593
+    "timestamp": 1606043630
   },
   "vtbs": [
     {
@@ -15078,6 +15078,23 @@
         "default": "cn"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "bfb490c4-5cdc-54e8-a61e-daa42c0916e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6539396",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "北上花火official",
+        "default": "CN"
+      }
     },
     {
       "uuid": "2578484b-2453-5206-892c-49bfe5ee6ab6",
