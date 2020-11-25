@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606284683
+    "timestamp": 1606284838
   },
   "vtbs": [
     {
@@ -30266,6 +30266,24 @@
         "default": "cn"
       },
       "group": "dea65e99-8859-5f68-a768-6898e68bb666"
+    },
+    {
+      "uuid": "5f53204b-84d5-5edf-a01b-44c40986443e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "46358031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "板野スライム",
+        "default": "cn"
+      },
+      "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
       "uuid": "fbf962d6-e61f-5095-ba61-79f5fd3589c5",
