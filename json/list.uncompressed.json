@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606053494
+    "timestamp": 1606281894
   },
   "vtbs": [
     {
@@ -25974,6 +25974,23 @@
       "name": {
         "extra": [],
         "cn": "提灯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a7666cf-f411-5b92-9be0-8419a80801df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "694327823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "提耶凛",
         "default": "cn"
       }
     },
