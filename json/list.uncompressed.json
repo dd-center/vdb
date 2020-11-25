@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606284618
+    "timestamp": 1606284683
   },
   "vtbs": [
     {
@@ -27476,6 +27476,23 @@
       "name": {
         "extra": [],
         "cn": "星月空_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0ba8a96-3f9b-5830-8546-593edfb21a98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10286793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星梦希望_hsymkb",
         "default": "cn"
       }
     },
