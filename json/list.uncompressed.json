@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606281894
+    "timestamp": 1606284618
   },
   "vtbs": [
     {
@@ -10294,6 +10294,23 @@
       "name": {
         "extra": [],
         "cn": "一水还宗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4ed0b3ab-44f0-56da-a23a-6a95c95f4c75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23155481",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一点荧惑",
         "default": "cn"
       }
     },
