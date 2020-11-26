@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606284838
+    "timestamp": 1606360103
   },
   "vtbs": [
     {
@@ -37361,6 +37361,23 @@
         "extra": [],
         "cn": "玹碎之晶",
         "jp": "咲間晶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "54af634a-8f11-537f-99a9-5b12cf9294c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1722768962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珊瑚可萝Coral",
         "default": "cn"
       }
     },
