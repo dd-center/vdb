@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606360574
+    "timestamp": 1606362576
   },
   "vtbs": [
     {
@@ -48657,6 +48657,23 @@
         "extra": [],
         "jp": "赤羽葉子",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "00202ae7-d764-5066-bcfe-93942ca0ea17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赫卡缇亚Hecatia",
+        "default": "cn"
       }
     },
     {
