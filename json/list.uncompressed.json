@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606395731
+    "timestamp": 1606660306
   },
   "vtbs": [
     {
@@ -17835,6 +17835,24 @@
       }
     },
     {
+      "uuid": "b41524d6-4019-5079-9ca6-4def0450f551",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1302200",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四季侦探团",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
       "uuid": "a5eb6a11-6158-5724-b93c-855837436f76",
       "type": "vtuber",
       "bot": false,
@@ -27332,24 +27350,6 @@
         "default": "cn"
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
-    },
-    {
-      "uuid": "85c80714-eece-57af-8876-3e92388d5ee3",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1302200",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "星巡学院",
-        "default": "cn"
-      },
-      "group": "85c80714-eece-57af-8876-3e92388d5ee3"
     },
     {
       "uuid": "e3ce2dee-a3a3-5c59-801b-8c28b8ab98e7",
