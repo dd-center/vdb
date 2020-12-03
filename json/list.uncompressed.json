@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982798
+    "timestamp": 1606983001
   },
   "vtbs": [
     {
@@ -3172,6 +3172,23 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "d59fd3c1-5c4b-5b83-8ce1-8bd15fee9529",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "211683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nadak0_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "424f6afd-b3e8-5681-8408-b18404c4565b",
@@ -22818,7 +22835,8 @@
         "extra": [],
         "cn": "小本本_茶冷",
         "default": "cn"
-      }
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "997f057b-97fa-56f6-8dcf-39fdbad3accf",
@@ -27873,6 +27891,24 @@
         "default": "cn"
       },
       "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
+    },
+    {
+      "uuid": "04bcaa60-1b16-50d2-9a6d-700b04d19fd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "666726800",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宸Sirius",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "fdf85ced-7957-5284-9768-da3496228006",
@@ -43723,6 +43759,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "21c8e7a9-8697-5945-8ea8-e191f76933c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18362166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫苏丸子酱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "78ad0db0-fbad-50c2-a4c4-11484fbfe10a",
