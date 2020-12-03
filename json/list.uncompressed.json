@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985458
+    "timestamp": 1606985486
   },
   "vtbs": [
     {
@@ -16568,6 +16568,23 @@
       "name": {
         "extra": [],
         "cn": "南殇芙Nesarf",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56cf1c9e-0656-5fee-af23-37a165b68561",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23814111",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南瓜Kio",
         "default": "cn"
       }
     },
@@ -49082,6 +49099,23 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "1892c258-9d8d-502a-8c84-7bafedf504fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1788955",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虾萝xrz",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5bad0639-8df8-50ef-81e7-ba35d06d11d8",
