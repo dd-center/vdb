@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983434
+    "timestamp": 1606983521
   },
   "vtbs": [
     {
@@ -36400,6 +36400,23 @@
       }
     },
     {
+      "uuid": "acdb7ac5-3801-5bf3-98d2-b6e35ac4e383",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "172302053",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "焰狐闼闼Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "90ab4d5b-0aec-5003-8838-a26d200dac13",
       "type": "vtuber",
       "bot": false,
@@ -49419,6 +49436,23 @@
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
+      "uuid": "314dec73-d590-5ea4-8a95-6f679d513691",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "650663945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺拉Nora_Heitis",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "416c810d-691d-5c21-b8dc-bdfc2defa120",
       "type": "vtuber",
       "bot": false,
@@ -52315,6 +52349,23 @@
         "extra": [],
         "jp": "阿古江レイスケ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "fa794926-68c9-5cb5-b053-6b6385590400",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "703085863",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿喵Ania",
+        "default": "cn"
       }
     },
     {
