@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983190
+    "timestamp": 1606983200
   },
   "vtbs": [
     {
@@ -38831,6 +38831,23 @@
         "extra": [],
         "jp": "琴月てと",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "0881aca1-9669-59a0-95ab-1d56675c8623",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "696517957",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琴音ルナリナ搬运",
+        "default": "cn"
       }
     },
     {
