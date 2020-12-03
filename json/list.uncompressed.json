@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606990167
+    "timestamp": 1606990641
   },
   "vtbs": [
     {
@@ -55586,6 +55586,23 @@
       "name": {
         "extra": [],
         "cn": "风月莉莉娅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "831f3080-9616-5bbe-a3c1-86a40889defb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34199397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风犹惊Kaze",
         "default": "cn"
       }
     },
