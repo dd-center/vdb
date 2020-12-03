@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982674
+    "timestamp": 1606982718
   },
   "vtbs": [
     {
@@ -30488,7 +30488,7 @@
         "cn": "朱雀千秋SUZAKU",
         "default": "cn"
       },
-      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "5d75c167-b974-5f5b-8c62-09886ea84ad6",
@@ -56023,6 +56023,23 @@
       "name": {
         "extra": [],
         "cn": "黑小喵_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "969784a1-d3db-5ab3-b056-f229c14cc778",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7033997",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑崎暗official",
         "default": "cn"
       }
     },
