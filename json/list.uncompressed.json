@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606990798
+    "timestamp": 1607011292
   },
   "vtbs": [
     {
@@ -450,6 +450,18 @@
         "cn": "ATM西米酱",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a7372824-0ebf-5683-b7a3-550ab1c13f80",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "AVP古流社",
+        "default": "cn"
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
     },
     {
       "uuid": "62fc9e85-c05f-5f1f-ac98-fcf364b47676",
@@ -14208,6 +14220,23 @@
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
     },
     {
+      "uuid": "b144e6e1-8e0a-54a6-bab7-893accb58391",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3079278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八神やがみyagami",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1eefcd82-8033-5ef8-bc2b-bb4c5e6a1cf6",
       "type": "vtuber",
       "bot": false,
@@ -16674,7 +16703,7 @@
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
     },
     {
-      "uuid": "23fbbe6c-4059-5afd-8ff3-8355a8784899",
+      "uuid": "ece753ca-13e4-56d6-964e-fc95cc7eef9d",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -16688,7 +16717,8 @@
         "extra": [],
         "cn": "南殇芙Nesarf",
         "default": "cn"
-      }
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
     },
     {
       "uuid": "56cf1c9e-0656-5fee-af23-37a165b68561",
@@ -37427,6 +37457,24 @@
       }
     },
     {
+      "uuid": "374ad7fa-a3f6-54ef-8817-b5ffdbe86df0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32598760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧乐岚Official",
+        "default": "cn"
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
+    },
+    {
       "uuid": "38734844-25d6-58ab-8b03-42b00399bbb1",
       "type": "vtuber",
       "bot": false,
@@ -42392,6 +42440,23 @@
         "default": "cn"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "8f56ee51-67fa-56ef-b4ef-e9a640f421d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441315555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神代祐希Yuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d6e72082-d844-562e-8745-ca11f5aad224",
@@ -50068,6 +50133,23 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "4fa639d6-5c0d-5db7-99ac-51095f16eb92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "178645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "言乃official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4ce45e68-4f53-55ed-b062-9a0fa45b59cb",
