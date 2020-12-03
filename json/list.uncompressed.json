@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981150
+    "timestamp": 1606981188
   },
   "vtbs": [
     {
@@ -693,7 +693,8 @@
         "cn": "Ano奈",
         "en": "Anona",
         "default": "cn"
-      }
+      },
+      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
     },
     {
       "uuid": "0f902cbd-31df-53cd-8f5e-a61e02097a25",
@@ -5861,6 +5862,24 @@
         "default": "cn"
       },
       "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
+      "uuid": "00c93c5e-dcb0-5b8d-89a4-9d34fed45341",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16026460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "follow_dreams",
+        "default": "cn"
+      },
+      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
     },
     {
       "uuid": "5b512c61-7839-594d-8a12-6f45cc372de0",
@@ -38841,6 +38860,24 @@
       }
     },
     {
+      "uuid": "8684ef7f-0b2e-56fe-ac61-49a2066e51a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384742859",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白梅雪见",
+        "default": "cn"
+      },
+      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
+    },
+    {
       "uuid": "1cb58ccf-4fec-5afe-a022-63351f383fcd",
       "type": "vtuber",
       "bot": false,
@@ -52103,6 +52140,27 @@
         "default": "cn"
       },
       "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
+    },
+    {
+      "uuid": "4808e2b0-1892-56db-91d3-872c490c0606",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5861431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "FairyTwin"
+        ],
+        "cn": "零式妖精Project",
+        "en": "Fairy zero",
+        "default": "cn"
+      },
+      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
     },
     {
       "uuid": "ec6aefc8-220b-5eb1-b19d-19576bcf1c0c",
