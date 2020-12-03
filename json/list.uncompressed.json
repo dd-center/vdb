@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981598
+    "timestamp": 1606981613
   },
   "vtbs": [
     {
@@ -329,6 +329,23 @@
       "name": {
         "extra": [],
         "cn": "AI主播艾灵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "835cdb21-4260-5452-9949-61fe748a8042",
+      "type": "vtuber",
+      "bot": true,
+      "accounts": [
+        {
+          "id": "356333940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AI气象虚拟主播小麦",
         "default": "cn"
       }
     },
