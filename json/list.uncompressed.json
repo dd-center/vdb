@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983358
+    "timestamp": 1606983434
   },
   "vtbs": [
     {
@@ -21045,6 +21045,24 @@
       "name": {
         "extra": [],
         "cn": "奈美",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4faff489-3c33-50b5-9975-61df2b760fec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1463003",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈默",
+        "en": "Nemeu",
         "default": "cn"
       }
     },
@@ -52222,6 +52240,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "b0178b3b-bfc2-5183-b51f-20e7611c5e1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "592361015",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿俞Anyu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6fab7c4e-3210-5992-8c58-099be8a04d1b",
