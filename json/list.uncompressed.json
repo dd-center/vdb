@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983719
+    "timestamp": 1606984024
   },
   "vtbs": [
     {
@@ -15027,6 +15027,24 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "3a57e97f-01e7-51da-9826-bb60e1be92f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2629220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "利泽特Lizette",
+        "default": "cn"
+      },
+      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
       "uuid": "a31f56f4-815f-55d3-a515-169286afa23b",
@@ -33234,6 +33252,23 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "340ca0bc-c0c1-54c7-add9-aaed321fd86f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688335924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱乃绘里奈official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "605059ad-6bbb-5588-9432-895988ee3740",
       "type": "vtuber",
       "bot": false,
@@ -42438,6 +42473,23 @@
         "extra": [],
         "cn": "秋雪琥珀",
         "jp": "秋雪 こはく",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b4fa0c41-e5e3-5728-b3d1-50b3b47191ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "521950190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "科尔Channel",
         "default": "cn"
       }
     },
@@ -55006,6 +55058,23 @@
         "default": "cn"
       },
       "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
+    },
+    {
+      "uuid": "d439b5b0-276e-5679-8662-fb33782466fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384511937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "馄饨饨wonton",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c62b6d72-b6ca-5e36-b72c-c62e20f045b4",
