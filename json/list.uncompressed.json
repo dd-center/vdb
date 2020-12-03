@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981553
+    "timestamp": 1606981649
   },
   "vtbs": [
     {
@@ -329,6 +329,23 @@
       "name": {
         "extra": [],
         "cn": "AI主播艾灵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "835cdb21-4260-5452-9949-61fe748a8042",
+      "type": "vtuber",
+      "bot": true,
+      "accounts": [
+        {
+          "id": "356333940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AI气象虚拟主播小麦",
         "default": "cn"
       }
     },
@@ -17238,6 +17255,23 @@
       "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4"
     },
     {
+      "uuid": "5e7766ff-265d-5c49-be9b-c55689066939",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1430541064",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "味噌缇露official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5d2fdb39-9ad7-5cc4-8a8c-187b307e4b79",
       "type": "vtuber",
       "bot": false,
@@ -22273,6 +22307,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "ce02675b-8c03-572d-b521-abedf4501e7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "424005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小八_Eight",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2431e372-0574-535e-9dc6-ac2eefec3cbe",
@@ -40511,6 +40562,23 @@
         "default": "cn"
       },
       "group": "486c63ef-ef29-5ec5-8930-8ccd6dce837b"
+    },
+    {
+      "uuid": "d4616de0-d684-5f01-97bb-e58de9b655cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473708883",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瞳凛Torin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "40251419-9f16-5b59-8afb-536c4c11afa4",
