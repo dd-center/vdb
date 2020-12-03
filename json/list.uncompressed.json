@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983145
+    "timestamp": 1606983156
   },
   "vtbs": [
     {
@@ -15526,6 +15526,29 @@
         "default": "jp"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "35004efb-07d9-5b8c-b3d3-d1277cae453f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11656258",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "67966381",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北海",
+        "en": "Azurealic",
+        "default": "cn"
+      }
     },
     {
       "uuid": "62891a24-f9ea-55ea-80a4-cca7631a1622",
