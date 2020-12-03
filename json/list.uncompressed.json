@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606984725
+    "timestamp": 1606984958
   },
   "vtbs": [
     {
@@ -2712,7 +2712,7 @@
         "cn": "Mammon咩姆Official",
         "default": "cn"
       },
-      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "e7c5c642-480d-5f15-81a4-66cefd3975e0",
@@ -16050,6 +16050,24 @@
       }
     },
     {
+      "uuid": "194736f0-2b98-5652-8cb8-4ce483e09a1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50754735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千辉Nina_Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
       "uuid": "a4d53eef-40ff-5cd1-98dd-f379d1438ee2",
       "type": "vtuber",
       "bot": false,
@@ -25991,6 +26009,23 @@
         "default": "cn"
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407"
+    },
+    {
+      "uuid": "cf199573-c04f-54af-a70c-f87c6defde37",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "413107335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心夏kokona",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d2f3bfcb-dfa2-5c84-96e3-691ebd122a67",
@@ -42411,6 +42446,23 @@
       "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5"
     },
     {
+      "uuid": "d4bd77b0-2213-5c26-a4e4-183f96f190b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3585860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秀真_Hotsuma",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "33e6dc9e-0f1f-51d6-b03d-40e335a5fab3",
       "type": "vtuber",
       "bot": false,
@@ -53829,6 +53881,23 @@
       "group": "29fafaf8-e62a-5831-b530-aaba5039ff03"
     },
     {
+      "uuid": "0137b5a1-9670-512c-8cf7-a683577d6470",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2971374",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪雪子QAQ_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "231c831c-1e80-5a10-bb8c-b4fa15b861b7",
       "type": "group",
       "bot": false,
@@ -56717,6 +56786,24 @@
         "cn": "黑川芥Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2490d139-f773-5a2a-969a-ffe3da394d7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1284680",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑川蓝KurokawaAi",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "58503785-d593-5a41-af53-f3aaf508b648",
