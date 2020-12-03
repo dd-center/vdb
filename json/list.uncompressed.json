@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606984253
+    "timestamp": 1606984340
   },
   "vtbs": [
     {
@@ -17179,6 +17179,23 @@
         "extra": [],
         "cn": "叶崎花火",
         "en": "LekiHanabi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1be33e55-d50e-5aca-970a-6c9ba4c1d218",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "197466032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶月米柚_Channel",
         "default": "cn"
       }
     },
