@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985093
+    "timestamp": 1606985170
   },
   "vtbs": [
     {
@@ -18035,6 +18035,24 @@
         "default": "cn"
       },
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
+    },
+    {
+      "uuid": "e6b18f02-32ce-56e5-b2a9-34bc7df98d34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "58226190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "ch": "哈库亚Hakuya",
+        "default": "ch"
+      },
+      "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
     },
     {
       "uuid": "ca0342d3-fbac-5a17-9a76-826aed08fae8",
@@ -40459,24 +40477,6 @@
         "ch": "白诺official",
         "default": "ch"
       }
-    },
-    {
-      "uuid": "eb258280-92de-5b7d-9677-63c34269c254",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "58226190",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "ch": "白邪Hakuja_Channel",
-        "default": "ch"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
     },
     {
       "uuid": "5767469c-62d5-50a6-9f4b-695e205686fe",
