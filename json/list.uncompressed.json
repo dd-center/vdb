@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982614
+    "timestamp": 1606982674
   },
   "vtbs": [
     {
@@ -18047,6 +18047,23 @@
       "name": {
         "extra": [],
         "cn": "喜欢死灵法师的僵尸",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "05352ffa-07ea-529c-93c5-290ae8a446d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "568209135",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵伊坨_Official",
         "default": "cn"
       }
     },
