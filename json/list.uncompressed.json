@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982785
+    "timestamp": 1606982830
   },
   "vtbs": [
     {
@@ -31054,6 +31054,23 @@
         "extra": [],
         "ch": "极夜幻Official",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "d57dabaf-8380-5079-a880-c3c4bddccbab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "356354146",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "中文": "枕头LIKO",
+        "default": "中文"
       }
     },
     {
