@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606660306
+    "timestamp": 1606980320
   },
   "vtbs": [
     {
@@ -19609,6 +19609,23 @@
         "default": "cn"
       },
       "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
+      "uuid": "f1155087-20d3-5158-944f-16c6f027511f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454087",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天城霞Kasumi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
