@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981691
+    "timestamp": 1606981777
   },
   "vtbs": [
     {
@@ -15866,6 +15866,114 @@
         "default": "cn"
       },
       "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+    },
+    {
+      "uuid": "0fd2499a-5caa-51d0-8946-7d61d5aba18b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "553771121",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "7339cf24-2e65-5712-8493-5af10c236aaa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1891728206",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队_Coco",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "e6ebfeef-4349-5d5a-81f5-badb524ade90",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "667526012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队_文静",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "519b3323-cfc6-5fa6-9e80-a837aefce5f3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1620923329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队_琳",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "6e8206ad-c17f-5574-b46f-78b6e27e51a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1090010845",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队_艾瑞思",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "3925a027-d42d-585c-81d0-3d916295781b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "334537711",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鸟战队_艾白",
+        "default": "cn"
+      },
+      "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
     },
     {
       "uuid": "88779327-273a-5081-8f60-6a20146bfa95",
