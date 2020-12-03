@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982947
+    "timestamp": 1606983107
   },
   "vtbs": [
     {
@@ -3172,6 +3172,23 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "d59fd3c1-5c4b-5b83-8ce1-8bd15fee9529",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "211683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nadak0_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "424f6afd-b3e8-5681-8408-b18404c4565b",
@@ -10700,6 +10717,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "d11793ca-94c2-545c-b6c5-18bb4aacdec2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "700359526",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七濑昴Officia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "504073f8-5387-5a85-a2af-2c7663fe771a",
@@ -40758,6 +40792,23 @@
       }
     },
     {
+      "uuid": "ead42b18-ef16-55ac-93d9-2b03c4f688fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "357892988",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皮皮channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2fd68cdd-45fc-51ef-94f0-d2319b6dd462",
       "type": "vtuber",
       "bot": false,
@@ -50111,6 +50162,23 @@
       "name": {
         "extra": [],
         "cn": "路普lupu_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1efeeeff-9b31-5e4e-b469-17ad3c06f9f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12587793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路西菲尔Official",
         "default": "cn"
       }
     },
