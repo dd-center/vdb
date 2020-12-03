@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983107
+    "timestamp": 1606983145
   },
   "vtbs": [
     {
@@ -26773,6 +26773,23 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "47bfea78-e17f-5b82-9e97-5ac7316276f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1676372882",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "摩卡星奈",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d93967b9-a7a3-52fd-b374-eef70db15142",
