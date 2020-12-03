@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606984958
+    "timestamp": 1606984988
   },
   "vtbs": [
     {
@@ -46294,6 +46294,23 @@
       "name": {
         "extra": [],
         "cn": "芙芙hana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "25315342-eaf9-5d74-9b9c-89e896a298d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85112575",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芥川总司official",
         "default": "cn"
       }
     },
