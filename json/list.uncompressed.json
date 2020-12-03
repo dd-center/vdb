@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983001
+    "timestamp": 1606983014
   },
   "vtbs": [
     {
@@ -50128,6 +50128,23 @@
       "name": {
         "extra": [],
         "cn": "路普lupu_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1efeeeff-9b31-5e4e-b469-17ad3c06f9f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12587793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路西菲尔Official",
         "default": "cn"
       }
     },
