@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985182
+    "timestamp": 1606985299
   },
   "vtbs": [
     {
@@ -38220,6 +38220,23 @@
       "name": {
         "extra": [],
         "cn": "猫谷LILU",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2540b574-6a19-5718-b249-b93d6d20f22a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17794913",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫辞猫辞猫",
         "default": "cn"
       }
     },
