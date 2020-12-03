@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985332
+    "timestamp": 1606985348
   },
   "vtbs": [
     {
@@ -32736,6 +32736,24 @@
         "cn": "梦天璃_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "665ab7ae-a77a-571a-a274-f066c8807691",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14983733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦寐-梦阁Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
       "uuid": "9ee7cc1c-9a2d-5e98-b48a-4aa257396a21",
