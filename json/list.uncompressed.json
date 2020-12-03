@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985170
+    "timestamp": 1606985182
   },
   "vtbs": [
     {
@@ -29687,6 +29687,23 @@
         "extra": [],
         "ch": "暴躁dd兔栗",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "61d9a456-a6f7-57ab-a52b-407530269acc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674084328",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曇一絃Official",
+        "default": "cn"
       }
     },
     {
