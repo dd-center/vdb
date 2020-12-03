@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981969
+    "timestamp": 1606982171
   },
   "vtbs": [
     {
@@ -1575,6 +1575,24 @@
         "ch": "Elena-沐沐",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "3082b3e2-efad-51ed-8129-48c49e5020b4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "696245487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EraVerses",
+        "default": "cn"
+      },
+      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
     },
     {
       "uuid": "1f222196-1de9-5074-8c6d-9aa70c4db562",
@@ -12103,7 +12121,7 @@
         "en": "kumoko",
         "default": "cn"
       },
-      "group": "486c63ef-ef29-5ec5-8930-8ccd6dce837b"
+      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
     },
     {
       "uuid": "4570560d-6a8b-5ad6-8092-cd43d4dcc58a",
@@ -27491,6 +27509,24 @@
         "cn": "星园花音",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "dde7491f-f028-5c5b-b4f1-a5f44190902e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498506274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星夜Channel",
+        "default": "cn"
+      },
+      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
     },
     {
       "uuid": "c3aab694-c470-558f-8073-568c2752877b",
@@ -44218,6 +44254,24 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "aaf747bc-1281-59c3-aa55-dd22903e9adc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20462313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗兰-official",
+        "default": "cn"
+      },
+      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
+    },
+    {
       "uuid": "35be5f77-1b43-56c9-8040-92124074b559",
       "type": "vtuber",
       "bot": false,
@@ -55294,6 +55348,24 @@
         "cn": "黄泉月輝夜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7883f616-bbd9-595b-b886-f5b59ca6e909",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "671538942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎歌Neeko_channel",
+        "default": "cn"
+      },
+      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
     },
     {
       "uuid": "340dade3-3145-57f2-90d6-efdd6727c8d5",
