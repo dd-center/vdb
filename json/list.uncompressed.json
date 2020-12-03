@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981613
+    "timestamp": 1606981631
   },
   "vtbs": [
     {
@@ -17253,6 +17253,23 @@
         "default": "jp"
       },
       "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4"
+    },
+    {
+      "uuid": "5e7766ff-265d-5c49-be9b-c55689066939",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1430541064",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "味噌缇露official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5d2fdb39-9ad7-5cc4-8a8c-187b307e4b79",
