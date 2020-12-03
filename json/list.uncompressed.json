@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983680
+    "timestamp": 1606983693
   },
   "vtbs": [
     {
@@ -30713,6 +30713,23 @@
         "cn": "朵莉丝",
         "en": "Doris",
         "jp": "ドリス",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "83dcbb6e-c6a3-5483-a5c5-be25fb08f605",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486572877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朵蜜Baby",
         "default": "cn"
       }
     },
