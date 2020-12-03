@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606982171
+    "timestamp": 1606982186
   },
   "vtbs": [
     {
@@ -27689,6 +27689,24 @@
       }
     },
     {
+      "uuid": "a5b33ebb-2cf2-5a9c-831b-d2610cdf38d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11228262",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星崎洛_Channel",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
+    },
+    {
       "uuid": "0dc709d4-3c77-5a89-9e58-67213aebd34d",
       "type": "vtuber",
       "bot": false,
@@ -34660,24 +34678,6 @@
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
     },
     {
-      "uuid": "e23d6867-7d85-5fb8-af01-597eba46c3d8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "11228262",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "洛洛_RoRo",
-        "default": "cn"
-      },
-      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
-    },
-    {
       "uuid": "8f14ef7b-8a60-516a-a810-f02f2c579282",
       "type": "vtuber",
       "bot": false,
@@ -36612,6 +36612,24 @@
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
     },
     {
+      "uuid": "8f79294c-f6ea-588f-86ef-7ec5ea897594",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434931129",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬山秋_official",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
+    },
+    {
       "uuid": "65f1e4dc-6e4b-5f04-bb50-dc272cd3004d",
       "type": "vtuber",
       "bot": false,
@@ -37644,6 +37662,19 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "a466cec7-5670-59a2-8dd4-66d1a73ad32a",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "玄月神",
+        "en": "Maple Silhouette",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
     },
     {
       "uuid": "6c43109e-dcc6-5b52-ac38-af8bf3e7455d",
@@ -41349,6 +41380,42 @@
         "ch": "神月冰夜-channe",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "c343975e-cbcd-5b2b-8d31-14ea7cd8b39f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "361916885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神月红绪_Official",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
+    },
+    {
+      "uuid": "1f9a4f89-08ab-52d7-8bf1-d2638e911761",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628061724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神月萤_Official",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
     },
     {
       "uuid": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168",
@@ -48614,6 +48681,24 @@
         "jp": "語部紡",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "494b05aa-1931-5560-b8a8-d9980a17fd9b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "646555991",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "諸星暁_Official",
+        "default": "cn"
+      },
+      "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
     },
     {
       "uuid": "73587b1b-09d6-5152-8b0d-545109c9d521",
