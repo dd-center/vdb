@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606988118
+    "timestamp": 1606990167
   },
   "vtbs": [
     {
@@ -30920,6 +30920,23 @@
       }
     },
     {
+      "uuid": "c1b66bbe-bec7-5e24-92e3-7d879e1a1f26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13697103",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木雅瑞林",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "20e2e406-d8b4-58f5-8fce-69d0b1a30984",
       "type": "vtuber",
       "bot": false,
@@ -53395,6 +53412,23 @@
       "name": {
         "extra": [],
         "cn": "阿怖兔Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0d49adc5-e83f-5f3c-9875-3802fd1b7546",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "395800076",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿怪Arguai",
         "default": "cn"
       }
     },
