@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606983853
+    "timestamp": 1606983869
   },
   "vtbs": [
     {
@@ -42473,6 +42473,23 @@
         "extra": [],
         "cn": "秋雪琥珀",
         "jp": "秋雪 こはく",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b4fa0c41-e5e3-5728-b3d1-50b3b47191ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "521950190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "科尔Channel",
         "default": "cn"
       }
     },
