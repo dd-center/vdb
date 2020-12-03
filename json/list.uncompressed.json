@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606981188
+    "timestamp": 1606981272
   },
   "vtbs": [
     {
@@ -12374,6 +12374,24 @@
       }
     },
     {
+      "uuid": "446cd650-77d9-509e-a975-e87b0b09ac11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692283835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仓持京子official",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
       "uuid": "afaf7264-2012-56ef-8451-25748d962fa0",
       "type": "vtuber",
       "bot": false,
@@ -20596,6 +20614,24 @@
       }
     },
     {
+      "uuid": "f93fe95c-7239-5250-8cea-c0111636af78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692283836",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥格丽梅露official",
+        "default": "cn"
+      },
+      "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
       "uuid": "cf86d86e-922b-5cdf-92fb-d2bad2af8f3b",
       "type": "vtuber",
       "bot": false,
@@ -27377,6 +27413,11 @@
           "id": "UCj_dHWD0o2k_Ef4lwcXd0Iw",
           "type": "official",
           "platform": "youtube"
+        },
+        {
+          "id": "692283838",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -29338,6 +29379,23 @@
       "name": {
         "extra": [],
         "cn": "望月乃爱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98d65861-577e-5eb5-960c-ac02fd2ffb02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "286113280",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "望月希咏",
         "default": "cn"
       }
     },
