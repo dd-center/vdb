@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606984700
+    "timestamp": 1606984736
   },
   "vtbs": [
     {
@@ -2712,7 +2712,7 @@
         "cn": "Mammon咩姆Official",
         "default": "cn"
       },
-      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "e7c5c642-480d-5f15-81a4-66cefd3975e0",
@@ -56719,6 +56719,24 @@
       }
     },
     {
+      "uuid": "2490d139-f773-5a2a-969a-ffe3da394d7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1284680",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑川蓝KurokawaAi",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
       "uuid": "58503785-d593-5a41-af53-f3aaf508b648",
       "type": "vtuber",
       "bot": false,
@@ -56777,6 +56795,23 @@
         "extra": [],
         "cn": "黑桃影",
         "en": "Spade Echo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c961af72-69ec-5a14-b754-3ed5473f8d4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2740005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑椿小夜子Official",
         "default": "cn"
       }
     },
