@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1606985470
+    "timestamp": 1606985557
   },
   "vtbs": [
     {
@@ -4710,6 +4710,23 @@
         "default": "en"
       },
       "group": "436bf961-7f95-5ab4-8a4f-f39f5ab45c8f"
+    },
+    {
+      "uuid": "6f46c262-9842-5601-bdb6-f75d5791eeb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "418116005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SoulliesOfficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c2407ca4-a886-5330-b9b8-2c99f58f7bc4",
@@ -49099,6 +49116,23 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "1892c258-9d8d-502a-8c84-7bafedf504fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1788955",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虾萝xrz",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5bad0639-8df8-50ef-81e7-ba35d06d11d8",
