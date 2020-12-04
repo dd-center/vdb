@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607011292
+    "timestamp": 1607052478
   },
   "vtbs": [
     {
@@ -5911,6 +5911,24 @@
         "cn": "Zimo菌_Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "518f94f9-2a7a-55bc-bc0e-bca106e30877",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688275304",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Zoe_舟一",
+        "default": "cn"
+      },
+      "group": "0a2ecd85-eecd-5968-9d03-77649d1844a8"
     },
     {
       "uuid": "566a6636-e88f-5184-b696-751e6f0a69a5",
@@ -56285,6 +56303,24 @@
         "cn": "鬼畜千寻炎哈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0a2ecd85-eecd-5968-9d03-77649d1844a8",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10917289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魂喵Official",
+        "default": "cn"
+      },
+      "group": "0a2ecd85-eecd-5968-9d03-77649d1844a8"
     },
     {
       "uuid": "ade3582a-f6ca-5986-a608-b28652fb6059",
