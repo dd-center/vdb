@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607060653
+    "timestamp": 1607060766
   },
   "vtbs": [
     {
@@ -13051,6 +13051,24 @@
       }
     },
     {
+      "uuid": "f596d94f-10b9-5030-bf13-0d1d81041ad6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "638827899",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊斯特尔_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
+    },
+    {
       "uuid": "336f4e76-3600-5971-87f4-02de9d91c25b",
       "type": "vtuber",
       "bot": false,
@@ -13254,6 +13272,24 @@
         "cn": "伊莱莎凯瑟琳Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "786408e3-51c6-5ea1-835d-f5672e643f3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435201473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伍尔夫拉姆_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
     },
     {
       "uuid": "58642164-35c2-5834-a78c-f826c59a0a5f",
