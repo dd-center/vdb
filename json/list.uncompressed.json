@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607056015
+    "timestamp": 1607060653
   },
   "vtbs": [
     {
@@ -32264,6 +32264,23 @@
       }
     },
     {
+      "uuid": "aef568e8-88c8-5d7b-a0f3-0bc5cb14433a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "522045311",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯柯Official.json",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "da0b8676-465f-5929-a2e7-da779007a136",
       "type": "vtuber",
       "bot": false,
@@ -32561,6 +32578,24 @@
         "default": "cn"
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
+    },
+    {
+      "uuid": "9ad7883d-df7a-5cad-a9c9-ffdfad0afb92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702316072",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃仓双叶official",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "7ebf19df-5ab4-5137-81c8-65d330ef13d2",
