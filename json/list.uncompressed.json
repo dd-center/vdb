@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607162815
+    "timestamp": 1607163140
   },
   "vtbs": [
     {
@@ -12737,6 +12737,24 @@
         "default": "cn"
       },
       "group": "6fb3fa4d-5741-5602-b538-0117b8a90348"
+    },
+    {
+      "uuid": "71060132-0d53-5275-9166-eb8b79a62ab2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20394484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亦寒Dolores",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "8c3f0a3d-aa0f-5abd-bb52-7bc21923cbae",
@@ -41583,6 +41601,23 @@
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
+      "uuid": "5d5b5552-a8f7-56d6-8ea8-b60e2a2c8fe2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "148736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鸢别馆Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "39928e18-2890-5178-b887-922225929452",
