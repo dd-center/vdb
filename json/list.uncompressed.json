@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607160343
+    "timestamp": 1607161345
   },
   "vtbs": [
     {
@@ -24415,6 +24415,23 @@
         "default": "cn"
       },
       "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
+    },
+    {
+      "uuid": "185b7f53-f8ad-5483-b827-73a01a03db2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9418083",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山有鹿汐",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02755270-340a-533d-a7ee-af8d0cf7d86d",
@@ -52431,6 +52448,23 @@
       }
     },
     {
+      "uuid": "06c868e7-5eca-5e24-a833-1c7fb9d6a882",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628292885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金克茜Jinxy",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d77eb52e-b44c-5819-9972-aeae9952b92d",
       "type": "vtuber",
       "bot": false,
@@ -53115,6 +53149,23 @@
       "name": {
         "extra": [],
         "cn": "铃音Suzune",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ff2e5e7-84cd-5d24-a6ae-7a326ed1e022",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14295657",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铭澐FULO",
         "default": "cn"
       }
     },
