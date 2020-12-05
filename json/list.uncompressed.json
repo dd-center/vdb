@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607060766
+    "timestamp": 1607159997
   },
   "vtbs": [
     {
@@ -13150,6 +13150,25 @@
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
     },
     {
+      "uuid": "812e00db-2735-5a21-ba91-ef3979c9a757",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Imi",
+        "jp": "いみ",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "80665781-ba2c-566e-9783-dc8078ca8e47",
       "type": "vtuber",
       "bot": false,
@@ -16039,6 +16058,25 @@
         "default": "cn"
       },
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
+      "uuid": "e9bd4d0f-4726-5acf-9751-d54b342fc2f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Chiyuu",
+        "jp": "ちゆう",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "79e97566-484f-5916-8381-233f7d1d9a58",
@@ -48109,6 +48147,25 @@
         "cn": "茉莉Mari_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a77d05be-83da-5cf5-ac68-a7aee699b393",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mari",
+        "jp": "まり",
+        "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "367d58c8-7d99-5d7b-8fb0-028db32bd55d",
