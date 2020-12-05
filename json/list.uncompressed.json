@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607160134
+    "timestamp": 1607160343
   },
   "vtbs": [
     {
@@ -27112,6 +27112,24 @@
         "cn": "扶桑大红花丶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8749a70b-02e6-5cc7-891e-dece249c395f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "631070414",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "折原露露",
+        "default": "cn"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "3ddaa55e-8f27-57ea-aea9-da8b016bb720",
