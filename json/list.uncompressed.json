@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607162906
+    "timestamp": 1607192227
   },
   "vtbs": [
     {
@@ -41603,6 +41603,23 @@
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
     },
     {
+      "uuid": "5d5b5552-a8f7-56d6-8ea8-b60e2a2c8fe2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "148736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鸢别馆Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "39928e18-2890-5178-b887-922225929452",
       "type": "vtuber",
       "bot": false,
@@ -46461,23 +46478,6 @@
         "extra": [],
         "jp": "老爷子ちゃんぬ_Official",
         "default": "jp"
-      }
-    },
-    {
-      "uuid": "1e2bfc91-0361-5312-bce9-a41337ddbb30",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "32283167",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "而安yasu",
-        "default": "cn"
       }
     },
     {
