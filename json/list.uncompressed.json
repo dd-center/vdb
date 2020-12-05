@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607160090
+    "timestamp": 1607160134
   },
   "vtbs": [
     {
@@ -40109,6 +40109,24 @@
         "default": "cn"
       },
       "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
+    },
+    {
+      "uuid": "9a7cfeac-769f-57ad-a53b-1a5d4de08353",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "田野柴Tanoshiba",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "353f920d-27ba-5419-9983-9e715fafe4b6",
