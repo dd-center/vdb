@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607159997
+    "timestamp": 1607160090
   },
   "vtbs": [
     {
@@ -40507,6 +40507,35 @@
         "default": "cn"
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d"
+    },
+    {
+      "uuid": "b8868584-5f18-566a-b107-3a61a51a8a65",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "420736311",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCkz25EnxWYGMXID72IIuphw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "LeiaShiraki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白城丽娅",
+        "jp": "白城レイア",
+        "en": "LeiaShiraki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "393705e3-d581-5e2a-b9a6-74c4734a6e4c",
