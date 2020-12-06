@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607246738
+    "timestamp": 1607254842
   },
   "vtbs": [
     {
@@ -6589,6 +6589,24 @@
         "jp": "rie_りえ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "4497c9bc-0b31-5122-9180-6dd60eaf157d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "545495970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "rinu_stpr",
+        "default": "cn"
+      },
+      "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98"
     },
     {
       "uuid": "b45e6435-1fd7-55d0-8113-0c402f6fbb01",
@@ -48551,6 +48569,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "569849397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "stpr_official",
+        "default": "cn"
+      },
+      "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98"
     },
     {
       "uuid": "4908cb8a-18dd-58c8-b667-c78f94612bb1",
