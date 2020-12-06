@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607243475
+    "timestamp": 1607246738
   },
   "vtbs": [
     {
@@ -44338,6 +44338,23 @@
         "default": "cn"
       },
       "group": "c1eec342-d9f0-53c3-9bd7-d6a0c49fffd4"
+    },
+    {
+      "uuid": "10c71178-83b8-55c4-876d-4f2debe35a22",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "542498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米狗狗Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "037b173f-9fcc-5ab5-9d61-d1514c116088",
