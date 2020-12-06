@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607243423
+    "timestamp": 1607243475
   },
   "vtbs": [
     {
@@ -21824,6 +21824,24 @@
         "cn": "小啾",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "46339e52-dbbc-541d-a67c-82f5bc3b68c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674539396",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妙妙子Official",
+        "default": "cn"
+      },
+      "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
       "uuid": "6472b4fa-9578-5939-bdfc-d7ad7a5d1440",
