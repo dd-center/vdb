@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607332689
+    "timestamp": 1607332994
   },
   "vtbs": [
     {
@@ -47187,6 +47187,23 @@
         "default": "cn"
       },
       "group": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f"
+    },
+    {
+      "uuid": "e0aed904-72c9-5e10-85a5-7e1afc84daf4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "442655565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙栗希娅Felicia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ed8d4812-a4b0-5368-ad33-505f0aae38ab",
