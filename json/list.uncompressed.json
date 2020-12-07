@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607332994
+    "timestamp": 1607364134
   },
   "vtbs": [
     {
@@ -3680,6 +3680,24 @@
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
+      "uuid": "9fbdaca0-7e23-551b-83ce-22c60b226c51",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701324697",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "PKS-Official",
+        "default": "cn"
+      },
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
+    },
+    {
       "uuid": "39a2a5de-39e0-53a9-a1e6-4a249d6d497a",
       "type": "vtuber",
       "bot": false,
@@ -3933,24 +3951,6 @@
         "cn": "PochiKorone",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "738002",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "ProbleKids",
-        "default": "cn"
-      },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
     },
     {
       "uuid": "e893bb76-13c2-5aac-8618-03cd64ad6cb0",
@@ -5806,7 +5806,7 @@
         "cn": "Yuka碳",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "fe83b7ee-2713-5eb8-9ddf-7f2d1559a43f",
@@ -16987,7 +16987,7 @@
         "cn": "卡诺",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "b5cd57f1-5fd3-5d46-b898-a8dfd2a69e28",
@@ -22448,7 +22448,7 @@
         "cn": "宇佐美沐月Official",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "7eec45b6-6738-5af9-8a81-8e9c7c226ecf",
@@ -23970,7 +23970,7 @@
         "cn": "小魔-Chima",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "90a14c56-1ea1-5cb5-b8d6-c8568f45d91e",
@@ -41064,7 +41064,7 @@
         "cn": "白璃",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "2c6f93af-5c93-5696-8bd1-47ce0e967388",
@@ -48799,7 +48799,7 @@
         "cn": "莓露莎Official",
         "default": "cn"
       },
-      "group": "5e8b4424-ca2b-5ff8-aa22-7e419be8a5ec"
+      "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
       "uuid": "79a820e7-50c3-5772-a049-f4387b903100",
