@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607427419
+    "timestamp": 1607427474
   },
   "vtbs": [
     {
@@ -22697,6 +22697,23 @@
       "name": {
         "extra": [],
         "cn": "安心爱AnnChannel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "547ff9f6-8651-5acf-b2df-c84d44f9448c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701696846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安心院小泉Official",
         "default": "cn"
       }
     },
