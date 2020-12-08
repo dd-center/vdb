@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607364134
+    "timestamp": 1607427419
   },
   "vtbs": [
     {
@@ -55448,6 +55448,23 @@
       "name": {
         "extra": [],
         "cn": "霧島アラシStudio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f7dcdb36-9ca4-5dca-886f-e601468be98f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1484549793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露比Ruby_channel",
         "default": "cn"
       }
     },
