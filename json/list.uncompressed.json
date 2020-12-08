@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607427703
+    "timestamp": 1607427746
   },
   "vtbs": [
     {
@@ -19137,6 +19137,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "dc0ef00d-6d20-556d-a4c1-8d9397ed2190",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493083336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔菲毛球_Toffy",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a00e2140-81b9-5d83-af05-e05c230014f9",
