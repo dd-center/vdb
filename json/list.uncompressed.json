@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607502803
+    "timestamp": 1607506031
   },
   "vtbs": [
     {
@@ -594,6 +594,24 @@
         "default": "en"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441639597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LostVision事务所",
+        "default": "cn"
+      },
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "6a04d07f-c8ce-55b3-91d0-4ea996a6b7f9",
@@ -2540,24 +2558,6 @@
         "ch": "LoneliteChannel",
         "default": "ch"
       }
-    },
-    {
-      "uuid": "ef326255-73eb-53ca-a078-5a5f575938b6",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "441639597",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "LostVision事务所",
-        "default": "cn"
-      },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
     },
     {
       "uuid": "448c9cb0-32d9-554e-9da8-b47f0e26ffed",
@@ -32833,7 +32833,7 @@
         "cn": "柳夜丿风铃Official",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "3d210231-ff25-58e7-8576-5c172750f46b",
@@ -34462,7 +34462,7 @@
         "cn": "樱小路娅子",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "6d367689-6f9f-5c2a-81e2-4060aa028bd0",
@@ -34542,7 +34542,7 @@
         "cn": "樱草惠",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "02cfa296-62fe-5b6a-86ea-6e595cff7226",
@@ -44769,7 +44769,7 @@
         "cn": "米什Mish",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "b765ca5d-f375-5c30-8284-92a97b235237",
@@ -53542,7 +53542,7 @@
         "cn": "鈴羽ハトChannel",
         "default": "cn"
       },
-      "group": "ef326255-73eb-53ca-a078-5a5f575938b6"
+      "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
     },
     {
       "uuid": "a1e4df21-75c1-5c5f-9db3-cd1a17101ece",
