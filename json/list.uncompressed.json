@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607509110
+    "timestamp": 1607509313
   },
   "vtbs": [
     {
@@ -30723,6 +30723,24 @@
       }
     },
     {
+      "uuid": "4d28b50c-533a-579e-bc4d-bbed5e68d1f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626770963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月儿Stuki_Channel",
+        "default": "cn"
+      },
+      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5"
+    },
+    {
       "uuid": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
       "type": "group",
       "bot": false,
@@ -34287,6 +34305,23 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
+      "uuid": "ebd4a6f2-8364-5429-b366-71185ca461ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10742948",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "槍間蘿北子_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4e053bf8-9e8b-5f7f-8f01-ed28524e7d3e",
       "type": "vtuber",
       "bot": false,
@@ -37038,6 +37073,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "9dd5258e-f953-5a65-b513-94e5f4bb0de7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5515089",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "游雪姬アルファ_Official",
+        "default": "cn"
+      },
+      "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
     },
     {
       "uuid": "c30faf76-bb73-5f5c-9e87-12acdd42c29c",
@@ -57075,6 +57128,23 @@
       "name": {
         "extra": [],
         "cn": "飞天小电Denkiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "92f59170-e70f-5f06-acad-a46331e36890",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5085228",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飞扬Channel",
         "default": "cn"
       }
     },
