@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607509173
+    "timestamp": 1607509424
   },
   "vtbs": [
     {
@@ -34305,6 +34305,23 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
+      "uuid": "ebd4a6f2-8364-5429-b366-71185ca461ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10742948",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "槍間蘿北子_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4e053bf8-9e8b-5f7f-8f01-ed28524e7d3e",
       "type": "vtuber",
       "bot": false,
@@ -50907,6 +50924,23 @@
       }
     },
     {
+      "uuid": "ce52371a-9392-5e50-a44f-ab9a112ca067",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3034238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "血狼墨雯",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0e0cc08a-91fc-53a3-9bfb-91a93545eaae",
       "type": "vtuber",
       "bot": false,
@@ -57111,6 +57145,23 @@
       "name": {
         "extra": [],
         "cn": "飞天小电Denkiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "92f59170-e70f-5f06-acad-a46331e36890",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5085228",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飞扬Channel",
         "default": "cn"
       }
     },
