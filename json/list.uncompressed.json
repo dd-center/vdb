@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607511927
+    "timestamp": 1607521135
   },
   "vtbs": [
     {
@@ -189,6 +189,24 @@
         "default": "cn"
       },
       "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4"
+    },
+    {
+      "uuid": "2534f0f7-b119-5aba-9bf4-0c700a361242",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3016706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "7Apoi",
+        "default": "cn"
+      },
+      "group": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a"
     },
     {
       "uuid": "8d985be7-4ec6-58e4-921b-785e7b4506e1",
@@ -1908,6 +1926,18 @@
         "cn": "GaEmAi_White",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "Gliese",
+        "default": "cn"
+      },
+      "group": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a"
     },
     {
       "uuid": "6d396a6b-d04b-5b93-808d-f05729aa721a",
@@ -6553,7 +6583,8 @@
         "extra": [],
         "cn": "momomomo沫",
         "default": "cn"
-      }
+      },
+      "group": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a"
     },
     {
       "uuid": "037feda8-c790-5eed-b42e-3bcf55efdba9",
@@ -33283,7 +33314,8 @@
         "extra": [],
         "ch": "桃濑阳菜",
         "default": "ch"
-      }
+      },
+      "group": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a"
     },
     {
       "uuid": "664ba4bf-d986-5f5b-928f-7a90f1a10d77",
