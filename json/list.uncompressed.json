@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607499856
+    "timestamp": 1607501375
   },
   "vtbs": [
     {
@@ -39494,6 +39494,24 @@
         "cn": "王小王Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2ab2a4e8-5ea4-59db-8799-a909cc1f5aff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "570296693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王尔君Official",
+        "default": "cn"
+      },
+      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
     },
     {
       "uuid": "0eb8e7b9-3868-5bdb-a1a3-401c5530f458",
