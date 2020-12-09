@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607506168
+    "timestamp": 1607508930
   },
   "vtbs": [
     {
@@ -25277,7 +25277,8 @@
         "extra": [],
         "cn": "希亚姐妹-official",
         "default": "cn"
-      }
+      },
+      "group": "9934d233-a130-5459-8554-ecc7234d2891"
     },
     {
       "uuid": "e70d9ebf-00c7-5a4a-be9a-cdb3181ab90d",
@@ -38684,7 +38685,8 @@
         "extra": [],
         "cn": "狸猫花生搬运组",
         "default": "cn"
-      }
+      },
+      "group": "9934d233-a130-5459-8554-ecc7234d2891"
     },
     {
       "uuid": "fe67cba1-770c-5517-a446-27d5842655c9",
@@ -52911,6 +52913,24 @@
         "jp": "逢乃エリィ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "9997d21d-22cd-5b2d-91df-4c82c655f352",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435888841",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "逢魔夕搬运",
+        "default": "cn"
+      },
+      "group": "9934d233-a130-5459-8554-ecc7234d2891"
     },
     {
       "uuid": "7c6365ec-202e-5ad1-85f1-2c11c0decd66",
