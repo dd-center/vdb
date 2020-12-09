@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607501408
+    "timestamp": 1607502714
   },
   "vtbs": [
     {
@@ -1543,6 +1543,24 @@
         "default": "cn"
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
+    },
+    {
+      "uuid": "a68ce9a4-bc0e-5168-9a59-c4e952134265",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10292573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EPP_official",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "fd5de67e-f4ec-59e1-888f-98e0031626bc",
@@ -11497,6 +11515,24 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
+      "uuid": "d8b69bc4-895e-5f58-a22b-97d6db659f3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14881818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不朽古龙埃兰奈",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
       "uuid": "127998c3-920e-507f-b0ce-b1fe33778a90",
       "type": "vtuber",
       "bot": false,
@@ -11759,6 +11795,24 @@
         "cn": "丝茉茉i",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6c7d1d38-1f0f-57d9-a2d4-260841e4ab92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6624341",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丝黛菈Stella",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "7c2b810b-2947-5c03-a9ca-46181673bde9",
@@ -14637,7 +14691,8 @@
         "extra": [],
         "cn": "内兹米",
         "default": "cn"
-      }
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "b3709067-48a0-5613-ba8d-9204b940a9f7",
@@ -19521,7 +19576,8 @@
         "extra": [],
         "cn": "夏帆Kaho_Official",
         "default": "cn"
-      }
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "e01eea10-c7d1-53f1-9ab9-49cb068963e3",
@@ -34314,6 +34370,24 @@
       }
     },
     {
+      "uuid": "9061a074-ceb1-5cc1-917d-69db803cfbb7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10351999",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱井乃爱Official",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
       "uuid": "b4e9b8c1-8950-569d-bc75-3bda69e7497c",
       "type": "vtuber",
       "bot": false,
@@ -40073,7 +40147,8 @@
         "extra": [],
         "cn": "琪冰物流-Koki",
         "default": "cn"
-      }
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "8fd41a3e-f5e5-5623-95b9-7ef9947c4104",
@@ -49585,6 +49660,24 @@
       }
     },
     {
+      "uuid": "2fc92600-6e6b-5b00-a100-08d8fe27bfa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35727599",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲尔-葉榊Official",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
       "uuid": "65c4b451-5adb-5d6b-a078-eeaf75a2f572",
       "type": "vtuber",
       "bot": false,
@@ -50988,6 +51081,24 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "0d3f3434-7aee-597a-8da7-4f328ca9513b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "660343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西里尔_Cyril",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "518c31c1-fcfc-5eaf-9874-e34f9c6c0d8c",
@@ -58760,7 +58871,8 @@
         "extra": [],
         "cn": "黑羽朔音official",
         "default": "cn"
-      }
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "ca167ea5-9236-5288-bc86-5a8425b1f376",
