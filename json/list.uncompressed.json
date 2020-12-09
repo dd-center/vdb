@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607521135
+    "timestamp": 1607521177
   },
   "vtbs": [
     {
@@ -10850,7 +10850,7 @@
         "cn": "一芽大",
         "default": "cn"
       },
-      "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+      "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
     },
     {
       "uuid": "36aa7bad-9710-5dd9-acbf-5b928a787801",
@@ -18130,6 +18130,23 @@
       "name": {
         "extra": [],
         "cn": "呜米",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec8b0997-ac7b-5e20-aa37-59df21151e94",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702607661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呜黎子uriko",
         "default": "cn"
       }
     },
@@ -25983,6 +26000,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "542cf78b-fa94-5825-ac97-cac6a601f2cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6141432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "废魂儿Ghaast",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c9a8a3ff-f922-59fc-9882-a759d4e94d5e",
