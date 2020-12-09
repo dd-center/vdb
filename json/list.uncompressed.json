@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607494409
+    "timestamp": 1607495174
   },
   "vtbs": [
     {
@@ -14793,6 +14793,23 @@
       "name": {
         "extra": [],
         "cn": "凉宫千雪Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c96f48c9-9a14-5a21-906d-2032390caeaa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2790405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉星狸子Official",
         "default": "cn"
       }
     },
