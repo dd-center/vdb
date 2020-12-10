@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607594712
+    "timestamp": 1607594837
   },
   "vtbs": [
     {
@@ -32763,6 +32763,24 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "4d042471-665d-52e4-9a5e-49a842538f5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "492921093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柊花凛-Karin",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "85ca57d7-f4a3-52c5-aba5-6b342e289231",
