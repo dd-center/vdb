@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607623370
+    "timestamp": 1607623612
   },
   "vtbs": [
     {
@@ -28312,6 +28312,23 @@
         "extra": [],
         "ch": "方长はナビ_Channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "139634a3-a5f3-5051-8cf4-a8a6400d2bd4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "696956915",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "施晴Qing",
+        "default": "cn"
       }
     },
     {
