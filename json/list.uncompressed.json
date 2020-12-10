@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607594852
+    "timestamp": 1607596180
   },
   "vtbs": [
     {
@@ -896,6 +896,24 @@
       }
     },
     {
+      "uuid": "2675b6e4-c011-55d1-945d-cffd43adc125",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "285043115",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Asuuu阿蘇_Channel",
+        "default": "cn"
+      },
+      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
       "uuid": "fe322361-ebad-52de-8494-089e3205892b",
       "type": "group",
       "bot": false,
@@ -1214,6 +1232,24 @@
         "en": "Chiki_MS",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "eb31d49f-dee0-5449-a004-80d7393e5a1c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "76876819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Cielo_Raku",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "95596f4b-a413-5afe-a0f9-35c596f4543d",
@@ -2799,7 +2835,7 @@
     },
     {
       "uuid": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
-      "type": "group",
+      "type": "vtuber",
       "bot": false,
       "accounts": [
         {
@@ -2823,8 +2859,7 @@
         "en": "MaiPrincess",
         "jp": "米プリンセス",
         "default": "en"
-      },
-      "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e"
+      }
     },
     {
       "uuid": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
@@ -4366,6 +4401,24 @@
         "en": "Rainbow_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "237a4185-0f24-5da0-b270-a259328e744d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8148628",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "RantitogaProject",
+        "default": "cn"
+      },
+      "group": "237a4185-0f24-5da0-b270-a259328e744d"
     },
     {
       "uuid": "a8bdeeb6-0f2a-5564-a086-1f2924e3b17c",
@@ -19732,6 +19785,24 @@
       }
     },
     {
+      "uuid": "378eb71a-7bf5-5308-b60a-f40d50c33a00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "647336875",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏柠溯Channel",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "b8cdf641-6bf7-51cd-82c5-382d93379d83",
       "type": "vtuber",
       "bot": false,
@@ -23981,6 +24052,24 @@
       }
     },
     {
+      "uuid": "65b6219c-ffa2-5dfe-b810-fd36e498c6bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "124553204",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小沧穹Official",
+        "default": "cn"
+      },
+      "group": "237a4185-0f24-5da0-b270-a259328e744d"
+    },
+    {
       "uuid": "ea9f89d8-51f3-5dd5-a10f-be66209cc199",
       "type": "vtuber",
       "bot": false,
@@ -25212,17 +25301,17 @@
       "bot": false,
       "accounts": [
         {
-          "id": "8234312",
+          "id": "505896328",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "jp": "工藤くまこ",
-        "default": "jp"
+        "cn": "工藤くまこ",
+        "default": "cn"
       },
-      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "1c9bb90e-3151-5a11-ad57-6cbea29932ba",
@@ -25811,24 +25900,6 @@
       "name": {
         "extra": [],
         "cn": "幻home",
-        "default": "cn"
-      },
-      "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
-    },
-    {
-      "uuid": "4caffc17-5fb2-5611-8dbe-f0e72a02a350",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "8148628",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "幻小芯Wisdom",
         "default": "cn"
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
@@ -30496,6 +30567,24 @@
       "group": "89359530-5a15-5358-821a-262d287812be"
     },
     {
+      "uuid": "92de1253-c1c1-5aa9-b44f-c9994f846787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13943336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "普通jk星野萤",
+        "default": "cn"
+      },
+      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
       "uuid": "7036be1c-b89e-5950-b057-761cc1baba3a",
       "type": "vtuber",
       "bot": false,
@@ -32407,6 +32496,24 @@
       }
     },
     {
+      "uuid": "5701fd10-2caf-54ac-a734-590de7596e78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614329938",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "松坂未",
+        "default": "cn"
+      },
+      "group": "237a4185-0f24-5da0-b270-a259328e744d"
+    },
+    {
       "uuid": "5e8f3121-0466-51ad-a45d-3d77d590cc6a",
       "type": "vtuber",
       "bot": false,
@@ -33080,6 +33187,24 @@
         "cn": "柠狐柃",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3c7cba0c-0118-5ab2-ba66-bfb217ee19d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "107131385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯凛Korin",
+        "default": "cn"
+      },
+      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
       "uuid": "aef568e8-88c8-5d7b-a0f3-0bc5cb14433a",
@@ -33913,6 +34038,24 @@
         "cn": "梦天璃_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7fb2f50e-691c-5b8f-97a6-35eda56a2a95",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493689042",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦姬Official",
+        "default": "cn"
+      },
+      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
       "uuid": "665ab7ae-a77a-571a-a274-f066c8807691",
@@ -36067,6 +36210,24 @@
         "default": "cn"
       },
       "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
+    },
+    {
+      "uuid": "53ba109c-b584-5855-8d74-f1d3128b8f6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "574601481",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沃洛克Official",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "4b3167b2-c1fc-5a5b-9e6b-7410d0d3b318",
@@ -40488,6 +40649,24 @@
       }
     },
     {
+      "uuid": "7baffcd6-1d89-5df1-87ac-d1482bed13cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7524760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琉阿六和阿基",
+        "default": "cn"
+      },
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
+    },
+    {
       "uuid": "405b5327-d938-5c5e-9ffe-1a85256214c2",
       "type": "vtuber",
       "bot": false,
@@ -41332,6 +41511,24 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "0ab57f16-439d-56c2-a875-d4ce9d93a731",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701546862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白一鸢_Channel",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "93b66f77-a3e5-5b88-9249-4401d75d0478",
@@ -49693,6 +49890,24 @@
       }
     },
     {
+      "uuid": "de4aaaa8-34f5-5073-a370-2b3a3d6baf0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7263321",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉利娅Official",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "d2375626-6d19-55a4-bf1a-190fb24051c5",
       "type": "vtuber",
       "bot": false,
@@ -50092,7 +50307,8 @@
         "extra": [],
         "cn": "菟狭ひかる",
         "default": "cn"
-      }
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "4abfab20-7255-551b-83e0-f27725dfe8c2",
@@ -50429,6 +50645,24 @@
         "cn": "萨咩Same_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e736098e-4d31-523d-a4a0-97d7c1888257",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "171672091",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萨斯_sass",
+        "default": "cn"
+      },
+      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
       "uuid": "77c3df95-2a88-5ca6-9e73-654203a51123",
@@ -54989,24 +55223,6 @@
       }
     },
     {
-      "uuid": "22884bb5-874d-58cd-9f00-1b2214445035",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "7524760",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "阿基Haya",
-        "default": "cn"
-      },
-      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
-    },
-    {
       "uuid": "cf33d1ac-dd88-5f26-9358-5e152543c246",
       "type": "vtuber",
       "bot": false,
@@ -55075,6 +55291,24 @@
         "default": "cn"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "ca535c18-d1bb-506a-8142-beb3fde3cbe3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6118206",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿尔瓦Alvar",
+        "default": "cn"
+      },
+      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
       "uuid": "7300ba02-845b-563f-aae7-6070e6770901",
