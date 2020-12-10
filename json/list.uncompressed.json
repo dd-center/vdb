@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607596180
+    "timestamp": 1607623370
   },
   "vtbs": [
     {
@@ -47189,6 +47189,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "44825ece-0132-5387-ad8e-b55aedb3ec52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1672255663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缇缇Titi_channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "83b20a80-ed7b-558f-ac6d-7aeb06f39d48",
