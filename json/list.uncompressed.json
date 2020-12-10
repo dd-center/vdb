@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607594870
+    "timestamp": 1607594899
   },
   "vtbs": [
     {
@@ -1232,6 +1232,24 @@
         "en": "Chiki_MS",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "eb31d49f-dee0-5449-a004-80d7393e5a1c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "76876819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Cielo_Raku",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "95596f4b-a413-5afe-a0f9-35c596f4543d",
@@ -2817,7 +2835,7 @@
     },
     {
       "uuid": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e",
-      "type": "group",
+      "type": "vtuber",
       "bot": false,
       "accounts": [
         {
@@ -2841,8 +2859,7 @@
         "en": "MaiPrincess",
         "jp": "米プリンセス",
         "default": "en"
-      },
-      "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e"
+      }
     },
     {
       "uuid": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
@@ -19750,6 +19767,24 @@
       }
     },
     {
+      "uuid": "378eb71a-7bf5-5308-b60a-f40d50c33a00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "647336875",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏柠溯Channel",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "b8cdf641-6bf7-51cd-82c5-382d93379d83",
       "type": "vtuber",
       "bot": false,
@@ -25230,17 +25265,17 @@
       "bot": false,
       "accounts": [
         {
-          "id": "8234312",
+          "id": "505896328",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "jp": "工藤くまこ",
-        "default": "jp"
+        "cn": "工藤くまこ",
+        "default": "cn"
       },
-      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "1c9bb90e-3151-5a11-ad57-6cbea29932ba",
@@ -36105,6 +36140,24 @@
       "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
     },
     {
+      "uuid": "53ba109c-b584-5855-8d74-f1d3128b8f6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "574601481",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沃洛克Official",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "4b3167b2-c1fc-5a5b-9e6b-7410d0d3b318",
       "type": "vtuber",
       "bot": false,
@@ -41368,6 +41421,24 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "0ab57f16-439d-56c2-a875-d4ce9d93a731",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701546862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白一鸢_Channel",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "93b66f77-a3e5-5b88-9249-4401d75d0478",
@@ -49729,6 +49800,24 @@
       }
     },
     {
+      "uuid": "de4aaaa8-34f5-5073-a370-2b3a3d6baf0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7263321",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉利娅Official",
+        "default": "cn"
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
       "uuid": "d2375626-6d19-55a4-bf1a-190fb24051c5",
       "type": "vtuber",
       "bot": false,
@@ -50128,7 +50217,8 @@
         "extra": [],
         "cn": "菟狭ひかる",
         "default": "cn"
-      }
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "4abfab20-7255-551b-83e0-f27725dfe8c2",
