@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607533158
+    "timestamp": 1607560326
   },
   "vtbs": [
     {
@@ -9332,6 +9332,23 @@
       "name": {
         "extra": [],
         "cn": "ココ双语分离研究所",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eb8f162c-8109-50bd-af58-4679068c6c63",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "542341668",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "コリデール_電気羊",
         "default": "cn"
       }
     },
