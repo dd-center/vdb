@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607592986
+    "timestamp": 1607593377
   },
   "vtbs": [
     {
@@ -4846,24 +4846,6 @@
         "cn": "Sky_despair米宇君",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "436bf961-7f95-5ab4-8a4f-f39f5ab45c8f",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "438880875",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "SoulHunter-CYBERPUNK",
-        "default": "en"
-      },
-      "group": "436bf961-7f95-5ab4-8a4f-f39f5ab45c8f"
     },
     {
       "uuid": "6f46c262-9842-5601-bdb6-f75d5791eeb9",
@@ -54374,6 +54356,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "22a8f8f6-ea44-59d7-b8ba-c56887b8ca15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "321819314",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃屋Dust",
+        "default": "cn"
+      },
+      "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
       "uuid": "a6eec774-8cbc-580a-a638-80fb7fc1903c",
