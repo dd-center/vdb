@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607594837
+    "timestamp": 1607594870
   },
   "vtbs": [
     {
@@ -894,6 +894,24 @@
         "cn": "AstralisUP",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2675b6e4-c011-55d1-945d-cffd43adc125",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "285043115",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Asuuu阿蘇_Channel",
+        "default": "cn"
+      },
+      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
     },
     {
       "uuid": "fe322361-ebad-52de-8494-089e3205892b",
@@ -28384,6 +28402,24 @@
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
+      "uuid": "b062ca91-a057-55e9-8aef-460e1f863907",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8492335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日向葵_channel",
+        "default": "cn"
+      },
+      "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
+    },
+    {
       "uuid": "3fbc7a8c-4ced-586c-8c65-a5e7569e269d",
       "type": "vtuber",
       "bot": false,
@@ -30476,6 +30512,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "92de1253-c1c1-5aa9-b44f-c9994f846787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13943336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "普通jk星野萤",
+        "default": "cn"
+      },
+      "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
     },
     {
       "uuid": "7036be1c-b89e-5950-b057-761cc1baba3a",
@@ -32849,6 +32903,24 @@
       "name": {
         "extra": [],
         "cn": "染狐",
+        "default": "cn"
+      },
+      "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
+    },
+    {
+      "uuid": "436ef0be-7cc7-5390-bd17-46170ee9da93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10999516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "染瞳__official",
         "default": "cn"
       },
       "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
