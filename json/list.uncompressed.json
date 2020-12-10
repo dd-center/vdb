@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607590786
+    "timestamp": 1607592340
   },
   "vtbs": [
     {
@@ -4939,17 +4939,11 @@
       "uuid": "cd523351-a878-58fa-a097-0e6217b2ce5d",
       "type": "group",
       "bot": false,
-      "accounts": [
-        {
-          "id": "32892448",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
+      "accounts": [],
       "name": {
         "extra": [],
-        "en": "TTTeam",
-        "default": "en"
+        "cn": "TTTeam",
+        "default": "cn"
       },
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
     },
@@ -19882,8 +19876,7 @@
         "extra": [],
         "cn": "夏野なつの",
         "default": "cn"
-      },
-      "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
+      }
     },
     {
       "uuid": "ac9ef875-2380-5e1f-9b1c-1420c4b30692",
@@ -22414,7 +22407,8 @@
         "extra": [],
         "ch": "娜娜米Official",
         "default": "ch"
-      }
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "207f5977-81d8-5d82-8c5a-a5f37c3740f4",
@@ -29503,6 +29497,24 @@
         "cn": "星焰Channe",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ae491a1c-c400-5e88-9eb6-3622c698f8f1",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32892448",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "星研社",
+        "default": "en"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "bc5a7d8c-06f1-53d7-a44e-bd1bf623db3d",
@@ -47348,6 +47360,24 @@
       }
     },
     {
+      "uuid": "78872544-2fbe-5166-9293-ebc024413eea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "679945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肆肆_Official",
+        "default": "cn"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
       "uuid": "714da86b-3d4d-5b76-b2f3-e14396069440",
       "type": "vtuber",
       "bot": false,
@@ -48987,7 +49017,8 @@
         "extra": [],
         "cn": "苏了个妹",
         "default": "cn"
-      }
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "dca2bdcf-93ef-52e1-9bb1-c8ad8fe56a7a",
@@ -55138,7 +55169,8 @@
         "cn": "陆千",
         "jp": "rikusen",
         "default": "cn"
-      }
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "e040f467-e3be-5379-8eb4-a8312735f5d5",
@@ -56630,7 +56662,8 @@
         "extra": [],
         "cn": "青木狐王",
         "default": "cn"
-      }
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "08063d0f-0cb1-54cd-8c94-bd6f9afd99c8",
@@ -59626,7 +59659,7 @@
         "cn": "默然-mory",
         "default": "cn"
       },
-      "group": "89359530-5a15-5358-821a-262d287812be"
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "827fb360-c704-5747-b359-5bb94d4a852f",
@@ -59690,6 +59723,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "1519b043-995a-5c18-8172-7e93309826f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "225243410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "齐柏林伯爵Official",
+        "default": "cn"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "31310e50-2dd5-56c6-b584-7bc03feaaac8",
