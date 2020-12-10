@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607623612
+    "timestamp": 1607632218
   },
   "vtbs": [
     {
@@ -4915,6 +4915,23 @@
       "name": {
         "extra": [],
         "cn": "Sky_despair米宇君",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6945a848-a312-59c2-b3db-6a883b75e04e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22470348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Snozaki筱崎",
         "default": "cn"
       }
     },
@@ -34686,6 +34703,23 @@
       "name": {
         "extra": [],
         "cn": "楚岁子_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af6aa25c-99ad-52af-b055-b486df8fa272",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "楠いのり",
         "default": "cn"
       }
     },
