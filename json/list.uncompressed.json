@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607593377
+    "timestamp": 1607593528
   },
   "vtbs": [
     {
@@ -2954,6 +2954,24 @@
         "cn": "MeAqua动画制作委员会",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8ab1de5c-4685-579a-8a96-b85c83636906",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674421433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MeUmyShelf",
+        "default": "cn"
+      },
+      "group": "8ab1de5c-4685-579a-8a96-b85c83636906"
     },
     {
       "uuid": "dd43b826-10b4-5255-a3f4-7bb376628fec",
@@ -18183,7 +18201,8 @@
         "extra": [],
         "cn": "呜米",
         "default": "cn"
-      }
+      },
+      "group": "8ab1de5c-4685-579a-8a96-b85c83636906"
     },
     {
       "uuid": "ec8b0997-ac7b-5e20-aa37-59df21151e94",
@@ -18505,7 +18524,8 @@
         "extra": [],
         "cn": "咩栗",
         "default": "cn"
-      }
+      },
+      "group": "8ab1de5c-4685-579a-8a96-b85c83636906"
     },
     {
       "uuid": "b16e41e5-244e-5902-b538-838e45e21612",
