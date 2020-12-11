@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607675521
+    "timestamp": 1607675783
   },
   "vtbs": [
     {
@@ -56106,6 +56106,23 @@
         "extra": [],
         "jp": "雪汝",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bb9838ef-eb68-5b45-b772-f683e192c772",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "409854651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪烩Official",
+        "default": "cn"
       }
     },
     {
