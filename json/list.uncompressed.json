@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607675244
+    "timestamp": 1607675453
   },
   "vtbs": [
     {
@@ -4114,18 +4114,6 @@
       }
     },
     {
-      "uuid": "e893bb76-13c2-5aac-8618-03cd64ad6cb0",
-      "type": "group",
-      "bot": false,
-      "accounts": [],
-      "name": {
-        "extra": [],
-        "en": "Project Anti",
-        "default": "en"
-      },
-      "group": "e893bb76-13c2-5aac-8618-03cd64ad6cb0"
-    },
-    {
       "uuid": "ccfa8b1f-4bae-50a0-9252-21c47c901240",
       "type": "group",
       "bot": false,
@@ -4769,18 +4757,6 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
-    },
-    {
-      "uuid": "4571a155-5ac3-530b-bc16-e833cf2ba4d4",
-      "type": "group",
-      "bot": false,
-      "accounts": [],
-      "name": {
-        "extra": [],
-        "en": "Seadew Studios",
-        "default": "en"
-      },
-      "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
     },
     {
       "uuid": "9de50027-be14-50d7-845c-5a815fcaf00d",
@@ -43044,7 +43020,8 @@
         "extra": [],
         "cn": "盐天使riel_official",
         "default": "cn"
-      }
+      },
+      "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
     },
     {
       "uuid": "5a0e66ff-14ca-51f8-8c82-642e5cff1511",
@@ -47845,25 +47822,6 @@
       }
     },
     {
-      "uuid": "40039f66-38c0-55fb-acd4-1e9dc3c971f6",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "51142651",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "脚扣会长",
-        "en": "JohnCoin",
-        "default": "cn"
-      },
-      "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
-    },
-    {
       "uuid": "7e8f5b23-3f1b-5781-b3e7-0de101cf4a4e",
       "type": "vtuber",
       "bot": false,
@@ -47932,24 +47890,6 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
-      "uuid": "ae78abb3-cf6d-5526-9e77-c021e92cbb57",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "34611551",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "舞妄official",
-        "default": "cn"
-      },
-      "group": "aac0b7ce-4c47-568a-89a2-31e5eea51b67"
     },
     {
       "uuid": "2025922b-6703-581f-a3a0-6d6a9fb9b3c9",
@@ -50808,24 +50748,6 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
-    },
-    {
-      "uuid": "8a09b791-c312-5800-9cea-fe0bb45e95c8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "35101069",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "葵美咲official",
-        "default": "cn"
-      },
-      "group": "aac0b7ce-4c47-568a-89a2-31e5eea51b67"
     },
     {
       "uuid": "7ed00e81-2c3c-547c-94da-66fbe1456bb5",
@@ -55605,24 +55527,6 @@
       }
     },
     {
-      "uuid": "aac0b7ce-4c47-568a-89a2-31e5eea51b67",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "498262524",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "陆鲸社",
-        "default": "cn"
-      },
-      "group": "aac0b7ce-4c47-568a-89a2-31e5eea51b67"
-    },
-    {
       "uuid": "bc2dfbc5-09e3-57b2-b2fb-d94c139614dc",
       "type": "vtuber",
       "bot": false,
@@ -55898,8 +55802,7 @@
         "extra": [],
         "cn": "雨宫水希",
         "default": "cn"
-      },
-      "group": "e893bb76-13c2-5aac-8618-03cd64ad6cb0"
+      }
     },
     {
       "uuid": "730bcb7e-c318-5946-a3f9-b584a8f0cb0f",
@@ -56466,8 +56369,7 @@
         "cn": "零叁",
         "en": "Tadyi",
         "default": "cn"
-      },
-      "group": "4571a155-5ac3-530b-bc16-e833cf2ba4d4"
+      }
     },
     {
       "uuid": "4808e2b0-1892-56db-91d3-872c490c0606",
@@ -59205,6 +59107,24 @@
         "cn": "麦可可提不起劲",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ab16e5d3-4ed5-544e-baed-86322b944d2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690147773",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黄ノ星つくりOfficial",
+        "default": "cn"
+      },
+      "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
     },
     {
       "uuid": "adb8a4a9-1dde-5d9a-8eb6-59f7e114b881",
