@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607672836
+    "timestamp": 1607673459
   },
   "vtbs": [
     {
@@ -14047,7 +14047,8 @@
         "extra": [],
         "cn": "信使AKANE",
         "default": "cn"
-      }
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "6ae3faaf-adb0-5c4d-ac0e-4e2cb6319490",
@@ -27930,7 +27931,8 @@
         "extra": [],
         "cn": "搽团_official",
         "default": "cn"
-      }
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "506f9384-e48f-5308-948a-e9e4c118163e",
@@ -35245,7 +35247,8 @@
         "extra": [],
         "cn": "次元酱",
         "default": "cn"
-      }
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "9e343b35-2b5d-5679-8b29-4922e9edf817",
@@ -52844,6 +52847,11 @@
       "accounts": [
         {
           "id": "487817699",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "545125460",
           "type": "official",
           "platform": "bilibili"
         }
