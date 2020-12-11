@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607669546
+    "timestamp": 1607670340
   },
   "vtbs": [
     {
@@ -6686,6 +6686,24 @@
         "default": "cn"
       },
       "group": "fb6c271a-b8c6-59cf-aaa2-c9d57e8d401a"
+    },
+    {
+      "uuid": "cc1cd352-2dd0-53d4-a319-a6fe75889c2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "569843534",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "nanamori_stpr",
+        "default": "cn"
+      },
+      "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98"
     },
     {
       "uuid": "037feda8-c790-5eed-b42e-3bcf55efdba9",
@@ -45107,6 +45125,23 @@
       }
     },
     {
+      "uuid": "c8091dea-f1c3-58d3-9852-390a63ee5812",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23230219",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹取玉白Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "887c8cd3-9b89-587f-86b8-6105586755e6",
       "type": "vtuber",
       "bot": false,
@@ -49934,7 +49969,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "stpr_official",
+        "cn": "草莓王子",
         "default": "cn"
       },
       "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98"
