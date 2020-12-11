@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607675783
+    "timestamp": 1607675819
   },
   "vtbs": [
     {
@@ -35026,6 +35026,23 @@
         "default": "cn"
       },
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
+    },
+    {
+      "uuid": "99b6d38d-5cdd-5007-8846-e563489b22f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "63038006",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橄榄树下的黑酱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d66f0564-dbe7-578f-a1b6-c29dd4d0c830",
