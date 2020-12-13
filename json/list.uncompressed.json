@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607787565
+    "timestamp": 1607846716
   },
   "vtbs": [
     {
@@ -39187,6 +39187,23 @@
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
     },
     {
+      "uuid": "b8193c3c-898d-56fb-9ca3-eea4fec39d8e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24461773",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狸可civet",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "da84a301-f120-54a8-b46d-d4b913da4bc4",
       "type": "vtuber",
       "bot": false,
@@ -59649,6 +59666,23 @@
       "name": {
         "extra": [],
         "cn": "黑角龙AK_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd6885ba-0d53-5aa2-b279-9f06bc966d4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "699094856",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑酱猫kuro",
         "default": "cn"
       }
     },
