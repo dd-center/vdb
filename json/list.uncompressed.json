@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1607846716
+    "timestamp": 1607928444
   },
   "vtbs": [
     {
@@ -3223,6 +3223,18 @@
         "default": "en"
       },
       "group": "9934d233-a130-5459-8554-ecc7234d2891"
+    },
+    {
+      "uuid": "1c22567f-c174-5e1c-b4d4-78389bf39d09",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "jp": "MofuMofu Fantasista",
+        "default": "jp"
+      },
+      "group": "1c22567f-c174-5e1c-b4d4-78389bf39d09"
     },
     {
       "uuid": "3ce05797-8301-5252-9d99-aa3f85a8b35c",
@@ -14351,6 +14363,24 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "57abc8d3-062d-5b0e-8cca-8f1898764a7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677007709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兎白りこOfficial",
+        "default": "cn"
+      },
+      "group": "1c22567f-c174-5e1c-b4d4-78389bf39d09"
     },
     {
       "uuid": "0f53ae12-fb26-5b63-b3d4-7690f7008b0f",
@@ -31077,6 +31107,24 @@
         "default": "cn"
       },
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
+    },
+    {
+      "uuid": "6ac2f317-69ee-58d7-a5f8-0ad3b2c91655",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626746778",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月宮レイナOfficial",
+        "default": "cn"
+      },
+      "group": "1c22567f-c174-5e1c-b4d4-78389bf39d09"
     },
     {
       "uuid": "1f1e81d7-7c5e-57a8-837b-9b85c4ae98ea",
@@ -57959,6 +58007,23 @@
         "default": "cn"
       },
       "group": "e0b42ce4-0090-560b-96a1-82d5bc8f7164"
+    },
+    {
+      "uuid": "f4154214-ba72-531b-83d1-dfa002aaf29e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1344579539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "骨魅むくろOfficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c6c8b9c3-938c-5070-be34-d2583d7da05d",
