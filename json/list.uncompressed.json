@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608042731
+    "timestamp": 1608130999
   },
   "vtbs": [
     {
@@ -30710,6 +30710,24 @@
       }
     },
     {
+      "uuid": "c0aabac9-1e6d-57eb-ad1b-3e2bfa7a2dca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1202504814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暗妃鲁咪蕾Official",
+        "default": "cn"
+      },
+      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+    },
+    {
       "uuid": "8ac2295f-19c7-565e-aa8c-951812d841a6",
       "type": "vtuber",
       "bot": false,
@@ -34616,7 +34634,8 @@
         "cn": "椎名菜羽",
         "en": "ShiinaNanoha",
         "default": "jp"
-      }
+      },
+      "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
     },
     {
       "uuid": "d04a508b-41bf-5a50-8cd5-95b3b4d30b53",
