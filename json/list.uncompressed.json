@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608131571
+    "timestamp": 1608133408
   },
   "vtbs": [
     {
@@ -54332,6 +54332,23 @@
         "default": "cn"
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364"
+    },
+    {
+      "uuid": "3d2dedc3-91d9-5e77-91f4-a3226a06fc59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17661166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鈴木玲子_Suzuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2c38c0d1-689f-5f9a-af42-f7a85679e310",
