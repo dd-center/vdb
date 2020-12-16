@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608130999
+    "timestamp": 1608131571
   },
   "vtbs": [
     {
@@ -3755,6 +3755,23 @@
       "name": {
         "extra": [],
         "cn": "Okome_VTuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0803582a-c7ab-512a-a2a1-927f69d13702",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7198712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "OldClerkLilith",
         "default": "cn"
       }
     },
@@ -23726,6 +23743,23 @@
       "name": {
         "extra": [],
         "cn": "小k君の喵喵屋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ddbeb57d-1043-57ea-a24b-4536f396108e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3743744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小丑Chimera",
         "default": "cn"
       }
     },
