@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608210795
+    "timestamp": 1608210854
   },
   "vtbs": [
     {
@@ -58488,6 +58488,24 @@
         "ch": "鬼母黑花",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "ac230a3f-9e8e-5f41-bcb8-40d211f91781",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1644476000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鬼灯わらべ",
+        "default": "jp"
+      },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
     },
     {
       "uuid": "14bfdb96-5f86-544c-b677-c07705600385",
