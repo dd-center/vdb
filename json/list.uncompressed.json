@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608210719
+    "timestamp": 1608210795
   },
   "vtbs": [
     {
@@ -40638,6 +40638,34 @@
       "group": "a0ee759e-2876-5954-a8fd-fb8bf8db84d2"
     },
     {
+      "uuid": "ec739290-2163-528f-aa5d-60771c59b11e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "543382144",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCFvEuP2EDkvrgJpHI6-pyNw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "gabri_elchan",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珈百璃_Official",
+        "jp": "がぶりえる",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "54af634a-8f11-537f-99a9-5b12cf9294c5",
       "type": "vtuber",
       "bot": false,
@@ -44516,11 +44544,22 @@
           "id": "73368479",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UC5cbSyFTohO2_PJAqr-6NFA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "necokami3",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "神谷Neco-Official",
+        "jp": "神谷ねこ",
         "default": "cn"
       }
     },
