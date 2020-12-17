@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608210579
+    "timestamp": 1608210719
   },
   "vtbs": [
     {
@@ -39194,6 +39194,23 @@
       }
     },
     {
+      "uuid": "3f490f60-f54d-5157-a6fb-fe30112f61a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "194524621",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狄乐TheLeV",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "af0ada6e-ffb4-5669-bca6-9aca3585359f",
       "type": "vtuber",
       "bot": false,
@@ -47984,6 +48001,23 @@
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
+      "uuid": "54954f1f-5fbf-5632-b8f8-b7fe38536b9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "221725397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肉柿子Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "714da86b-3d4d-5b76-b2f3-e14396069440",
       "type": "vtuber",
       "bot": false,
@@ -51577,7 +51611,7 @@
         "cn": "蜜恩channel",
         "default": "cn"
       },
-      "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
     },
     {
       "uuid": "dae462fb-972c-5c77-bd1e-320a44bbbede",
@@ -55128,23 +55162,6 @@
         "extra": [],
         "jp": "闇夜乃モルル",
         "default": "jp"
-      }
-    },
-    {
-      "uuid": "a1b77358-681d-5cbe-b912-16efb7ebfe43",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "430655245",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "闇星芬诺斯",
-        "default": "cn"
       }
     },
     {
