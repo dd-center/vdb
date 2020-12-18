@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608298696
+    "timestamp": 1608299030
   },
   "vtbs": [
     {
@@ -10356,6 +10356,23 @@
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
     },
     {
+      "uuid": "a524f49a-8ea5-5126-88b2-8ddbe91381d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "689645911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ユキノメ-雪芽Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d8602032-ecdd-5219-9247-c2c028ca21a9",
       "type": "vtuber",
       "bot": false,
@@ -11036,6 +11053,23 @@
         "default": "cn"
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
+    },
+    {
+      "uuid": "5fbe5023-9a16-5eaf-bda3-715daef12d1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "484660274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七咔拉CHikalar",
+        "default": "cn"
+      }
     },
     {
       "uuid": "249bd211-4d54-5159-a6b9-e4199d54bc61",
@@ -30738,6 +30772,23 @@
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
     },
     {
+      "uuid": "e6477eca-0158-5a0e-8720-211c9298214d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1506353910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暖日依娜Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "86893d74-cb8c-561e-82a6-a10ea4694545",
       "type": "vtuber",
       "bot": false,
@@ -34750,6 +34801,23 @@
         "default": "cn"
       },
       "group": "88c223e0-cbda-5829-852c-f272142fec71"
+    },
+    {
+      "uuid": "ddb642ac-c258-5b54-8b9c-ede6fbadb904",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5144535",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椿_official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ff82f1f1-d2e7-5691-9858-f8c352f78872",
