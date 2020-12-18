@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608247894
+    "timestamp": 1608298696
   },
   "vtbs": [
     {
@@ -51590,6 +51590,23 @@
       "name": {
         "extra": [],
         "cn": "蛍HOTARU",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b2dbe6ea-1fc4-5254-afa2-f448824cd888",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "613345189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蛙吹Keroro",
         "default": "cn"
       }
     },
