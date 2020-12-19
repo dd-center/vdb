@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608358252
+    "timestamp": 1608388603
   },
   "vtbs": [
     {
@@ -20890,6 +20890,24 @@
       }
     },
     {
+      "uuid": "82c72974-9d8b-5cd8-bc84-a5b0c321a48a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "616624510",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大微垣Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
       "uuid": "2772f246-ad9a-56ea-bdd7-a54ce0e9a573",
       "type": "vtuber",
       "bot": false,
@@ -32149,6 +32167,24 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "4a6f20de-b0a0-5ead-bc13-691e87f092c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "516624275",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朱九儿Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
       "uuid": "e66c9581-631a-5978-89c5-cd416a48edbf",
       "type": "vtuber",
       "bot": false,
@@ -33071,6 +33107,23 @@
         "extra": [],
         "cn": "某柯",
         "en": "moke",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5eff6bfc-d8ee-5174-86b6-e392bd98ffe3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494387017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柒叶茜音Official",
         "default": "cn"
       }
     },
@@ -59081,24 +59134,6 @@
         "cn": "鲸头鹳channel",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "e0d51ae6-5252-5714-ad7f-368f9cfb44d8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "516624275",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "鳳姫ちゃんOfficial",
-        "default": "cn"
-      },
-      "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
       "uuid": "a0e1863d-538e-590b-bab8-4eb377ab91d5",
