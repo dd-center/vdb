@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608358087
+    "timestamp": 1608358252
   },
   "vtbs": [
     {
@@ -24081,6 +24081,26 @@
         "cn": "染染",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8bf7ac4f-6151-5a64-897d-88babe5d6995",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1734978373",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "小柔"
+        ],
+        "cn": "小柔Channel",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "418e73ce-e7b9-5721-9e53-e104cc7741d2",
