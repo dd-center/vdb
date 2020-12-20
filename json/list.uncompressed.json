@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608469463
+    "timestamp": 1608469476
   },
   "vtbs": [
     {
@@ -35468,6 +35468,24 @@
         "cn": "橘柠院",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7e8a16e6-f910-5ae7-90ca-7f5f4e45341b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12895996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘橘子channel",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "ca006071-4bab-5f1a-9301-f9c1ce4a0778",
