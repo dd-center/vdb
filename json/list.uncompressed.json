@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608544521
+    "timestamp": 1608544378
   },
   "vtbs": [
     {
@@ -38770,6 +38770,23 @@
         "extra": [],
         "jp": "燦鳥ノム",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4399612b-d7d8-515e-b316-962c8a8e2dfa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9491259",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱塔西亚温",
+        "default": "cn"
       }
     },
     {
