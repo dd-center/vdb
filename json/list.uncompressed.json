@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608549038
+    "timestamp": 1608558799
   },
   "vtbs": [
     {
@@ -744,24 +744,6 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
-    },
-    {
-      "uuid": "6a5bfe41-89c9-5d7a-aaca-4356cad860ef",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "66704536",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Arindex",
-        "default": "cn"
-      },
-      "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
     },
     {
       "uuid": "3492ad96-a5c1-57d6-b0dc-3aafcc8b261f",
@@ -4134,7 +4116,7 @@
     },
     {
       "uuid": "17a958e5-3f14-5501-84b2-70d11ad58d41",
-      "type": "group",
+      "type": "vtuber",
       "bot": false,
       "accounts": [
         {
@@ -4147,8 +4129,7 @@
         "extra": [],
         "cn": "PulsarGame",
         "default": "cn"
-      },
-      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
+      }
     },
     {
       "uuid": "1348ecb5-656e-53ef-b285-5dd08a67a393",
@@ -13466,24 +13447,6 @@
         "default": "cn"
       },
       "group": "227ed47e-4565-5692-b1cc-154463a73773"
-    },
-    {
-      "uuid": "87c3baa1-effe-50f9-b481-777fed60b78e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "424488006",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "伊莉丝咪娅",
-        "default": "cn"
-      },
-      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "4a2da433-48ff-577e-83f3-090504c0dea6",
@@ -26631,24 +26594,6 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
-      "uuid": "6c7b308d-c40e-50ab-b557-35e5d3be8aad",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "406117158",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "御伽莉鹿",
-        "default": "cn"
-      },
-      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "a7c6dd14-208f-59c1-8b6f-e5cd460a98e4",
@@ -43750,6 +43695,23 @@
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
     },
     {
+      "uuid": "c29f7242-7962-5adb-8987-515c30476106",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20699734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "砂糖大小姐",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "726ac304-82a8-531b-aa40-9b45ed4f1306",
       "type": "vtuber",
       "bot": false,
@@ -43765,24 +43727,6 @@
         "cn": "砂糖缘子",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "c9abcfed-b1d9-596f-8b8f-40470a37aefb",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "33789355",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "碎雾w",
-        "default": "cn"
-      },
-      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
     },
     {
       "uuid": "ed7ed474-e719-5121-8c21-e810fbc69eef",
@@ -57508,24 +57452,6 @@
         "default": "jp"
       },
       "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0"
-    },
-    {
-      "uuid": "d3fd7182-f971-5bee-9b63-b4be3a98d921",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "519010597",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "韵霞",
-        "default": "cn"
-      },
-      "group": "17a958e5-3f14-5501-84b2-70d11ad58d41"
     },
     {
       "uuid": "11cbc206-69b0-50f4-9440-25af6200c7a0",
