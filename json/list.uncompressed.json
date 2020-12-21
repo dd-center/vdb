@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608543412
+    "timestamp": 1608543546
   },
   "vtbs": [
     {
@@ -1558,24 +1558,6 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
-    },
-    {
-      "uuid": "33f4e9ac-4977-580d-b5be-1ee8af532193",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "21381174",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "ELFrost",
-        "default": "en"
-      },
-      "group": "33f4e9ac-4977-580d-b5be-1ee8af532193"
     },
     {
       "uuid": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
@@ -17780,36 +17762,6 @@
         "cn": "召唤师yami",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "5fe27d0c-45b3-5671-86ae-a8102a50a7e5",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "481169",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "244407176",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "5761235630",
-          "type": "official",
-          "platform": "weibo"
-        }
-      ],
-      "name": {
-        "extra": [
-          "凉宫白樱"
-        ],
-        "cn": "可儿",
-        "default": "cn"
-      },
-      "group": "33f4e9ac-4977-580d-b5be-1ee8af532193"
     },
     {
       "uuid": "a084ae6e-ab78-531f-a224-472ce4884df4",
