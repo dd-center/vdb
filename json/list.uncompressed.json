@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608609519
+    "timestamp": 1608634362
   },
   "vtbs": [
     {
@@ -21942,6 +21942,23 @@
       "name": {
         "extra": [],
         "cn": "奥因杜卡",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1c168115-5c73-5aea-ba9b-f9488676071f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "699925151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥林olin",
         "default": "cn"
       }
     },
