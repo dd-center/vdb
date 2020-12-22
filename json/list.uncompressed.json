@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608634362
+    "timestamp": 1608634493
   },
   "vtbs": [
     {
@@ -11126,6 +11126,23 @@
       "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
+      "uuid": "5da7c595-a84b-5da3-887e-bcb1d3e13949",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12816971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万ちゃんOfficial",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f1f7479c-c638-56bd-85b8-be76e9d6d915",
       "type": "vtuber",
       "bot": false,
@@ -12409,6 +12426,23 @@
       "name": {
         "extra": [],
         "cn": "九重紫Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "03a7673b-15a5-5faa-b0ab-07efbe172bdf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "219259",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乾杯君Sennke",
         "default": "cn"
       }
     },
@@ -15855,7 +15889,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "553933994",
+          "id": "275268030",
           "type": "official",
           "platform": "bilibili"
         }
@@ -24335,7 +24369,7 @@
       }
     },
     {
-      "uuid": "c59b1a8e-dc24-5f6a-a2f3-a6d3adc17e2e",
+      "uuid": "55d61518-4907-59ff-9bea-9311b25f266d",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -24347,7 +24381,25 @@
       ],
       "name": {
         "extra": [],
-        "cn": "小青龙Official",
+        "cn": "小青草Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "ed16e21d-eba6-59bf-b43d-443e62909058",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2361123",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小青龙",
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
@@ -26820,6 +26872,24 @@
         "cn": "心斎桥オクト",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2edf4720-991c-5de0-be9d-86f3657a90b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "59113645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心月狐Official",
+        "default": "cn"
+      },
+      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
     },
     {
       "uuid": "fb0a92bc-fc88-5e6b-9f23-aa67b9a2b80c",
@@ -40151,19 +40221,19 @@
       }
     },
     {
-      "uuid": "a2fcc738-7269-5e29-9068-d7d5ca94f639",
+      "uuid": "145fceae-d75a-5330-87a1-e0f097931157",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "12816971",
+          "id": "2080453815",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "玄鹀Official",
+        "cn": "玄鹀",
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
