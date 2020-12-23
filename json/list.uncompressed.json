@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608724054
+    "timestamp": 1608724559
   },
   "vtbs": [
     {
@@ -18563,24 +18563,6 @@
         "default": "cn"
       },
       "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5"
-    },
-    {
-      "uuid": "9c792ae6-3764-515c-8a62-2f2601da3c0c",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "12708799",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "哈小团",
-        "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
     },
     {
       "uuid": "e6b18f02-32ce-56e5-b2a9-34bc7df98d34",
@@ -41407,6 +41389,23 @@
         "extra": [],
         "jp": "田中のおっさん",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "becf1c24-a98b-564f-881c-85865ff859da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "45813298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "田中大和Official",
+        "default": "cn"
       }
     },
     {
