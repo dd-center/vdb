@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608816653
+    "timestamp": 1608816697
   },
   "vtbs": [
     {
@@ -1414,6 +1414,24 @@
         "default": "cn"
       },
       "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
+    },
+    {
+      "uuid": "158ce246-eb9b-57cd-99c1-dc8517d814bc",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477698436",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Double_project",
+        "default": "cn"
+      },
+      "group": "158ce246-eb9b-57cd-99c1-dc8517d814bc"
     },
     {
       "uuid": "de45a27d-a0b5-5c32-a222-1fc3af7b1756",
@@ -47804,6 +47822,24 @@
       }
     },
     {
+      "uuid": "7c649fdc-66aa-552a-a16c-1073c9465d16",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1766697551",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "耶思Yes",
+        "default": "cn"
+      },
+      "group": "158ce246-eb9b-57cd-99c1-dc8517d814bc"
+    },
+    {
       "uuid": "78872544-2fbe-5166-9293-ebc024413eea",
       "type": "vtuber",
       "bot": false,
@@ -59898,7 +59934,8 @@
         "extra": [],
         "cn": "黑酱猫kuro",
         "default": "cn"
-      }
+      },
+      "group": "158ce246-eb9b-57cd-99c1-dc8517d814bc"
     },
     {
       "uuid": "aba4f600-e71e-5687-bbef-053f80212755",
