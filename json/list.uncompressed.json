@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608985100
+    "timestamp": 1608985299
   },
   "vtbs": [
     {
@@ -14702,6 +14702,27 @@
         "cn": "兰若_Re",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c595747b-d098-512c-81bd-9ddae03f8adb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698029620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "兰音"
+        ],
+        "cn": "兰音Reine",
+        "fr": "Reine",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "521eeeeb-6ac9-51dc-88bf-42eee12c864b",
