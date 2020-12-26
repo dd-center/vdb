@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1608900014
+    "timestamp": 1608985100
   },
   "vtbs": [
     {
@@ -3475,6 +3475,23 @@
         "extra": [],
         "en": "NoWorld",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "38c1f007-927e-5995-8702-aae36997a9d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1599316734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nokooooo_",
+        "default": "cn"
       }
     },
     {
