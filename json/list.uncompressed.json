@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609077007
+    "timestamp": 1609077371
   },
   "vtbs": [
     {
@@ -52754,6 +52754,24 @@
         "cn": "赤星共和国連邦",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "ca0b4032-3a2f-530f-a915-99a7ba6977c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2050477551",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤月UniOfficial",
+        "default": "cn"
+      },
+      "group": "4bb946b7-6b9d-5b28-8975-f23291cba191"
     },
     {
       "uuid": "53fbd967-8af6-5016-bc53-09c96bf05bbb",
