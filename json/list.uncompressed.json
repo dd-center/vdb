@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609077371
+    "timestamp": 1609253201
   },
   "vtbs": [
     {
@@ -52015,6 +52015,23 @@
         "extra": [],
         "ch": "観月瑠璃Official",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "fda4482f-2d34-5354-a94c-a83d94d3d53f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2015365",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "观月怜",
+        "default": "cn"
       }
     },
     {
