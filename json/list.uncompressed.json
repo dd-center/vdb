@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609333206
+    "timestamp": 1609333372
   },
   "vtbs": [
     {
@@ -45761,6 +45761,23 @@
       "name": {
         "extra": [],
         "cn": "米娜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ad66079-66c3-549e-8576-780811b7e3c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "94363275",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米小兔_mitwo",
         "default": "cn"
       }
     },
