@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609333372
+    "timestamp": 1609333586
   },
   "vtbs": [
     {
@@ -33247,6 +33247,23 @@
       "name": {
         "extra": [],
         "cn": "柚子不幼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1a207cce-51b8-50fb-9577-b4b03dbaf6d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478502198",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚月蛍Hotaru",
         "default": "cn"
       }
     },
