@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609332964
+    "timestamp": 1609333206
   },
   "vtbs": [
     {
@@ -37130,6 +37130,23 @@
         "default": "cn"
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
+    },
+    {
+      "uuid": "2ff9e911-d192-59be-ac52-e52e5fef3422",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "43403127",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "派大露が",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fc040bf7-3bc3-51c5-b4b4-88bb4ad74732",
