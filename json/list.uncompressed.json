@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609333586
+    "timestamp": 1609428190
   },
   "vtbs": [
     {
@@ -13461,6 +13461,23 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+    },
+    {
+      "uuid": "93d6f1a6-6406-55ce-a668-e755bf537caa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "401090202",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊莉亚ELIA_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f1990342-9b21-5c96-a2c9-1b0599a5950c",
@@ -58169,6 +58186,23 @@
         "cn": "飞鸟响",
         "en": "Asuka",
         "jp": "飛鳥響",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eca4d1e6-b9f7-5f96-95d5-65b4b885811e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1828506816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飞鸟尤卡里Official",
         "default": "cn"
       }
     },
