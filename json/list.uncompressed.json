@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609428190
+    "timestamp": 1609743237
   },
   "vtbs": [
     {
@@ -17779,6 +17779,23 @@
       }
     },
     {
+      "uuid": "7b28156a-b9b3-5cc5-ab16-077f771c1e70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1964304376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶卡yolka",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d986b084-cbb0-5e91-9c70-fcc53451c755",
       "type": "vtuber",
       "bot": false,
@@ -20378,6 +20395,23 @@
         "default": "cn"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "71e22478-863e-52ed-b9da-5605b30430c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1351614934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜樱诺娅-Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4a5b9068-e09e-5d67-a972-8984f6d978c4",
