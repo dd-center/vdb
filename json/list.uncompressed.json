@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609743453
+    "timestamp": 1609743946
   },
   "vtbs": [
     {
@@ -53997,6 +53997,23 @@
       "name": {
         "extra": [],
         "jp": "逢乃エリィ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "4cfc0e98-1e88-53e4-a5fd-6581199a909f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "470576672",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "逢瀬kakure",
         "default": "jp"
       }
     },
