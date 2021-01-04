@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609743237
+    "timestamp": 1609743453
   },
   "vtbs": [
     {
@@ -17317,6 +17317,23 @@
       "name": {
         "extra": [],
         "cn": "卡诺亚",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7d537640-6df1-588c-9b7f-61358d080774",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13920382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卢森堡的伊丽莎白",
         "default": "cn"
       }
     },
