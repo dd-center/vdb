@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609743946
+    "timestamp": 1609835747
   },
   "vtbs": [
     {
@@ -44256,6 +44256,23 @@
       }
     },
     {
+      "uuid": "cb23986f-3618-58c5-a5ea-00804433cb14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "749499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神咲乃希NOKi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7c36e5fb-b1ef-5ec3-b681-202cadeee76b",
       "type": "vtuber",
       "bot": false,
@@ -50829,6 +50846,23 @@
       "name": {
         "extra": [],
         "cn": "萌新喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3bec2744-abda-582e-8c6c-33d66b43f83f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34040214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌璃子Official",
         "default": "cn"
       }
     },
