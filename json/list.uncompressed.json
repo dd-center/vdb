@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1609878403
+    "timestamp": 1609921046
   },
   "vtbs": [
     {
@@ -20851,11 +20851,6 @@
           "id": "UCY-rzz8F3xdJ9NS3Y5iAGjw",
           "type": "official",
           "platform": "youtube"
-        },
-        {
-          "id": "forte1st",
-          "type": "official",
-          "platform": "github"
         },
         {
           "id": "ootamato",
@@ -46933,6 +46928,24 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
+    },
+    {
+      "uuid": "da3ad962-9ea2-543d-8429-245384276e9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2098510762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "綾鞠ぺこOfficial",
+        "default": "cn"
+      },
+      "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
     },
     {
       "uuid": "fdd1d884-0060-5c0a-916c-67979a1ad2cd",
