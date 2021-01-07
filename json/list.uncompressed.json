@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610001635
+    "timestamp": 1610002905
   },
   "vtbs": [
     {
@@ -2201,6 +2201,23 @@
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af"
     },
     {
+      "uuid": "ce8e45a7-b744-5af2-8787-5a22aa60c00f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1046323261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "KUROSUYAHIRO",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "b1367af1-430c-51e5-9936-668c291cfec3",
       "type": "vtuber",
       "bot": false,
@@ -3045,6 +3062,24 @@
         "default": "en"
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
+    },
+    {
+      "uuid": "89382922-bb93-5a94-94b6-06f217575139",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "634913744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mlik Cat 奶猫协会",
+        "default": "cn"
+      },
+      "group": "89382922-bb93-5a94-94b6-06f217575139"
     },
     {
       "uuid": "9934d233-a130-5459-8554-ecc7234d2891",
@@ -10779,6 +10814,23 @@
       "name": {
         "extra": [],
         "cn": "一点荧惑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a48b8eae-ad48-54a8-bec1-d9721169ddb2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2055691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一焰_Makuma",
         "default": "cn"
       }
     },
@@ -26242,6 +26294,24 @@
         "default": "cn"
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
+      "uuid": "1016179b-d732-5c52-848c-b3a6d3f5e149",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "525311901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽咪yumimi",
+        "default": "cn"
+      },
+      "group": "89382922-bb93-5a94-94b6-06f217575139"
     },
     {
       "uuid": "882a70c7-b9fb-5526-9210-943e91a387e6",
@@ -48278,6 +48348,24 @@
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
+      "uuid": "7dd54f11-0f05-5acb-b706-8371657f5144",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1848591458",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "胡桃澤もも",
+        "default": "jp"
+      },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
       "uuid": "b6333fe1-e920-5bb1-8d37-74fb9572771e",
       "type": "vtuber",
       "bot": false,
@@ -56554,6 +56642,23 @@
       }
     },
     {
+      "uuid": "979e6d47-fafd-55e1-a327-93efd03ba201",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383388032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨蝶乄殇莫离Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0e3becb6-a543-5947-ace0-0b8193e563f2",
       "type": "vtuber",
       "bot": false,
@@ -56877,6 +56982,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "1569711c-e7f5-5a68-bfd6-31ae7d74a57b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "65717712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪绵绵yuki",
+        "default": "cn"
+      },
+      "group": "89382922-bb93-5a94-94b6-06f217575139"
     },
     {
       "uuid": "43db682d-2a35-5d2c-97ab-1bd645a3226d",
