@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610002905
+    "timestamp": 1610097483
   },
   "vtbs": [
     {
@@ -24542,6 +24542,23 @@
       }
     },
     {
+      "uuid": "b335814c-941b-5765-b3d7-f08b17dd9e93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1103073471",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小豆沢AZUKI",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5026977c-d422-544e-b1a8-ab1c4767c5ef",
       "type": "vtuber",
       "bot": false,
@@ -24920,6 +24937,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "48db9034-daf9-584c-9c7c-c950822e91c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "163653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尼奈nine_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d052840d-24d2-56db-86b5-365f06c5a73c",
@@ -25554,6 +25588,23 @@
         "default": "cn"
       },
       "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
+    },
+    {
+      "uuid": "8edbd10c-15af-54af-832b-08492d39fda2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1089985164",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巳社しらべOfficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "57f51d77-8a2f-5378-aab2-b48f936cecb6",
@@ -59974,6 +60025,23 @@
       "name": {
         "extra": [],
         "cn": "麦可可提不起劲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7dde8195-5220-5e4b-acd1-8668d536239e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2114310139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻仓由衣Official",
         "default": "cn"
       }
     },
