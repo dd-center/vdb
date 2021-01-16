@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610819426
+    "timestamp": 1610819540
   },
   "vtbs": [
     {
@@ -11095,11 +11095,6 @@
           "id": "NanaseUnia",
           "type": "official",
           "platform": "twitter"
-        },
-        {
-          "id": "unia",
-          "type": "official",
-          "platform": "peing"
         }
       ],
       "name": {
@@ -13964,6 +13959,23 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+    },
+    {
+      "uuid": "a2641261-a9f4-5571-8e40-0da27739e74c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12580217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "你的悦姐姐",
+        "default": "cn"
+      }
     },
     {
       "uuid": "786b9da4-d861-50d8-8066-648b2ee2a20c",
