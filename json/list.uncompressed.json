@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610524350
+    "timestamp": 1610819366
   },
   "vtbs": [
     {
@@ -14771,6 +14771,23 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "af400d81-b401-555f-82e0-0ba455c83bb4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "194326389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兮子cc",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4da7838a-393a-5069-b454-2c0a3f8ef0ae",
@@ -44523,6 +44540,23 @@
       "name": {
         "extra": [],
         "cn": "盲盲_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6bf15faa-131d-5945-91c5-7f930fa14aec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15522877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神代盐子",
         "default": "cn"
       }
     },
