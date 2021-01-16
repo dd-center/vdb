@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610819540
+    "timestamp": 1610819696
   },
   "vtbs": [
     {
@@ -15371,6 +15371,23 @@
       "name": {
         "extra": [],
         "cn": "凛可_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c162eb06-f06f-54d5-99eb-c2e180a17a29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18148734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凛宫鸢_Official",
         "default": "cn"
       }
     },
