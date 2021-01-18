@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1610820038
+    "timestamp": 1610956732
   },
   "vtbs": [
     {
@@ -30458,6 +30458,23 @@
       }
     },
     {
+      "uuid": "c822da07-1ee0-5921-b96e-4f7e26679006",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13288919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野ニア_源怡",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "91c221df-61a9-576c-9dbb-1abe812cd517",
       "type": "vtuber",
       "bot": false,
@@ -51239,6 +51256,24 @@
         "extra": [],
         "jp": "華香院つばき",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c5bc2999-2d40-5df9-a77f-6cf5744fe035",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲娜兹Channel",
+        "en": "PhenazChannel",
+        "default": "cn"
       }
     },
     {
