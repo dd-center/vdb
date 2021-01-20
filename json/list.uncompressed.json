@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611151875
+    "timestamp": 1611151921
   },
   "vtbs": [
     {
@@ -15004,7 +15004,8 @@
         "extra": [],
         "cn": "兰若_Re",
         "default": "cn"
-      }
+      },
+      "group": "0a2ecd85-eecd-5968-9d03-77649d1844a8"
     },
     {
       "uuid": "c595747b-d098-512c-81bd-9ddae03f8adb",
@@ -25894,23 +25895,6 @@
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
-      "uuid": "1c9bb90e-3151-5a11-ad57-6cbea29932ba",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "430851623",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "左岚Official",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "7ccd08da-1e26-5f5e-96e0-9098027b2db3",
       "type": "vtuber",
       "bot": false,
@@ -26719,6 +26703,24 @@
         "default": "cn"
       },
       "group": "89382922-bb93-5a94-94b6-06f217575139"
+    },
+    {
+      "uuid": "7665a9a4-bc3a-5b20-8046-a5b01c9155ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "195670272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽夜_Uye",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
     },
     {
       "uuid": "882a70c7-b9fb-5526-9210-943e91a387e6",
@@ -28999,6 +29001,24 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "fb2c595a-af26-52f1-b433-bf339409d3d4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1850939514",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无限殿_Infinite",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
+    },
+    {
       "uuid": "ad9126e6-b9d7-5036-ab26-d383b0786aa3",
       "type": "vtuber",
       "bot": false,
@@ -29782,6 +29802,24 @@
         "default": "cn"
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
+      "uuid": "0e3b11fa-f67e-58ba-a1da-451902f95b24",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "686145957",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星娅_Cinya",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
     },
     {
       "uuid": "0d679d35-1392-592b-8a96-c60c5edb7c73",
@@ -32215,6 +32253,23 @@
         "default": "jp"
       },
       "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+    },
+    {
+      "uuid": "f4cb5d6f-bb2a-5b17-80e6-8539e02099d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1596091139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有栖川曜Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1b6d5786-b553-5b26-9321-8a3ea621f9e2",
@@ -34876,6 +34931,24 @@
         "cn": "梅洛_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bfb11198-5cc3-5b05-ac10-f69dc749831f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351512470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅芙洛_mefuro",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
     },
     {
       "uuid": "c7e23134-69b1-5fec-8a5c-a131b5ee4151",
@@ -43391,6 +43464,24 @@
         "ch": "白诺official",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "a554e42d-25cb-50d2-b4c1-3730b3729bd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "430851623",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白辞Raphael",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
     },
     {
       "uuid": "5767469c-62d5-50a6-9f4b-695e205686fe",
