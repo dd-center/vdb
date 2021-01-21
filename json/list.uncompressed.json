@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611151921
+    "timestamp": 1611241678
   },
   "vtbs": [
     {
@@ -4777,6 +4777,23 @@
       "name": {
         "extra": [],
         "cn": "Setsu-夜灵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "79a72898-a114-5eb9-9ff9-00a7cc6d3149",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3265126",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Seven_小七Official",
         "default": "cn"
       }
     },
@@ -10834,6 +10851,23 @@
       }
     },
     {
+      "uuid": "7398fa10-054d-5ae5-a579-410cdb6c747f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21685335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只雏羽喵",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9b7630e2-6ce9-509a-be19-10c1d9e2d98b",
       "type": "vtuber",
       "bot": false,
@@ -11093,7 +11127,8 @@
         "extra": [],
         "cn": "七咔拉CHikalar",
         "default": "cn"
-      }
+      },
+      "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
     },
     {
       "uuid": "249bd211-4d54-5159-a6b9-e4199d54bc61",
@@ -22779,6 +22814,23 @@
       }
     },
     {
+      "uuid": "25c538e7-a123-5491-8d6f-5147b18f7ab4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1160110127",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姉崎雪美Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7d6fb95b-008f-5c12-ae18-bb59718bc9fa",
       "type": "vtuber",
       "bot": false,
@@ -25911,6 +25963,23 @@
         "default": "cn"
       },
       "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
+    },
+    {
+      "uuid": "283177f1-e42a-52b1-b186-a6286e81792e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1322881625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巫沐Umo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8edbd10c-15af-54af-832b-08492d39fda2",
@@ -38233,6 +38302,23 @@
       }
     },
     {
+      "uuid": "bdb72089-f2ba-50e6-af6c-4a94bfe08415",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702773222",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "深井時礼official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c4c841da-1da9-5b55-9b4e-4a4bc736437e",
       "type": "vtuber",
       "bot": false,
@@ -48838,6 +48924,23 @@
         "default": "cn"
       },
       "group": "4aec98b8-98ce-50a3-8eed-3a5367406293"
+    },
+    {
+      "uuid": "a5ea7106-2ba4-580d-b521-c06c8e128f9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1202562007",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽田蝴蝶Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "41bbb940-2808-5d6f-8f05-124621c6ddf7",
@@ -60956,6 +61059,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "0bbc5599-652c-5aa7-8a6a-f6c74c8841e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "372936",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿野葵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9020d5c-fd0e-55a0-812f-d15b2f2fb2e2",
