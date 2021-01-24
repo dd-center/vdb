@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611508168
+    "timestamp": 1611508214
   },
   "vtbs": [
     {
@@ -46958,6 +46958,23 @@
         "default": "cn"
       },
       "group": "2fec3fc7-3ed7-5ce8-8bd6-1c0acb041121"
+    },
+    {
+      "uuid": "23567104-fcc5-52a1-a853-edf2fe59268c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1921456703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米勒Mira",
+        "default": "cn"
+      }
     },
     {
       "uuid": "24ba47b5-e3d7-5a1f-a01b-51f268eb0db6",
