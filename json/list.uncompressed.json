@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611472481
+    "timestamp": 1611472517
   },
   "vtbs": [
     {
@@ -813,6 +813,24 @@
         "default": "cn"
       },
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
+      "uuid": "a4f5b5e7-009f-5164-abb8-e2bc4e580086",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40214941",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Aurora",
+        "default": "cn"
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "fe322361-ebad-52de-8494-089e3205892b",
@@ -18081,6 +18099,24 @@
         "cn": "可儿江七明",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "83198ccd-8fe8-509e-9a64-433500abe886",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "481169",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可儿！",
+        "default": "cn"
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "f248df02-076d-519b-abd6-88966065317b",
@@ -45257,7 +45293,8 @@
         "extra": [],
         "cn": "神代澪月Official",
         "default": "cn"
-      }
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "839cda77-8c97-54ac-886c-4f7082f9aa10",
@@ -60834,7 +60871,8 @@
         "cn": "鸠子",
         "en": "hatoko",
         "default": "cn"
-      }
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "9b49723b-011f-538f-aaf2-e2ad0a029f56",
