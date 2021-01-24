@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611472517
+    "timestamp": 1611508168
   },
   "vtbs": [
     {
@@ -20132,6 +20132,24 @@
         "cn": "墨茶Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "92594607-8f7e-5bda-9990-69aa25f519ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50729578",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨辰星official",
+        "default": "cn"
+      },
+      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
     },
     {
       "uuid": "0eeebae9-6f73-5716-8b55-84489b1aeb95",
@@ -48412,6 +48430,24 @@
         "cn": "纸木铗Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f16a5b14-4087-5afa-a0b8-319cd22fb199",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "155957707",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纸箱宅_channel",
+        "default": "cn"
+      },
+      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
     },
     {
       "uuid": "58c57fc9-007c-53ab-9270-ac2d4214fdef",
