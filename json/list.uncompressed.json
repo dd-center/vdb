@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611241678
+    "timestamp": 1611468736
   },
   "vtbs": [
     {
@@ -48144,6 +48144,23 @@
       "name": {
         "extra": [],
         "cn": "纱布文轻子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "26fa19b7-fabe-5e59-b44b-d9c35dfaf219",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14368019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱希兔兔Saki",
         "default": "cn"
       }
     },
