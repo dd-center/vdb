@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611471724
+    "timestamp": 1611471802
   },
   "vtbs": [
     {
@@ -3329,6 +3329,23 @@
         "default": "en"
       },
       "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
+    },
+    {
+      "uuid": "48e663ba-f429-5396-bc95-0403c6e4be98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "108507415",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "NIGHTEAM",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
@@ -20932,6 +20949,23 @@
         "default": "cn"
       },
       "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f"
+    },
+    {
+      "uuid": "52b17134-b143-592a-a8e2-b2672a7945ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "637885382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜空めぐるofficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4fa54086-e01c-5dee-976b-0fd63457d919",
