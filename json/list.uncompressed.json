@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611469630
+    "timestamp": 1611469677
   },
   "vtbs": [
     {
@@ -11624,6 +11624,29 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
+      "uuid": "cb0ae042-c532-5d44-b81f-1275107fe787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4870889",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "344308259",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三云",
+        "jp": "三雲",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1b138b9e-c4c1-56f0-a89d-00d9ba00b7a9",
       "type": "vtuber",
       "bot": false,
@@ -14124,11 +14147,22 @@
           "id": "491979247",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "kleinx6",
+          "type": "official",
+          "platform": "popiask"
+        },
+        {
+          "id": "421029279",
+          "type": "official",
+          "platform": "163music"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "佩内洛珀-克莱因Official",
+        "cn": "佩内洛珀·克莱因",
+        "es": "Penelope Klein",
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
@@ -23618,6 +23652,27 @@
         "default": "jp"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "4bd947cf-4f40-54d4-bd84-2671ea5fed2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33708487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "赫岑朵夫·安德烈",
+          "鹿与伯爵"
+        ],
+        "cn": "安德烈·赫岑朵夫",
+        "pt": "Hötzendorf András",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c04752e4-2c7e-56bf-9c22-8c3684cac9c6",
@@ -35327,11 +35382,17 @@
           "id": "9847819",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "131950659",
+          "type": "official",
+          "platform": "163music"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "梵卓_official",
+        "cn": "梵卓",
+        "en": "Ventrue",
         "default": "cn"
       }
     },
@@ -60994,23 +61055,6 @@
       "name": {
         "extra": [],
         "cn": "鹤祁_Official",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "3500e5d8-3b34-545f-b358-e4f5982431a4",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "33708487",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "鹿与伯爵",
         "default": "cn"
       }
     },
