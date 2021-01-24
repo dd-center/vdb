@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611471802
+    "timestamp": 1611472481
   },
   "vtbs": [
     {
@@ -1361,6 +1361,24 @@
         "default": "cn"
       },
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
+    },
+    {
+      "uuid": "64d3ad41-44fa-5124-8134-c06087f69f5f",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692258132",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "DUSTLIVE微尘计划",
+        "default": "cn"
+      },
+      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
     },
     {
       "uuid": "23a777bf-5a40-5d14-a2dd-53067f71a249",
@@ -35445,7 +35463,8 @@
         "extra": [],
         "cn": "棠瑭Hygge",
         "default": "cn"
-      }
+      },
+      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
     },
     {
       "uuid": "ab22a8a8-8ae7-5346-8bd2-b917bbfca2ad",
