@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611578142
+    "timestamp": 1611578286
   },
   "vtbs": [
     {
@@ -3994,6 +3994,25 @@
         "default": "en"
       },
       "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+    },
+    {
+      "uuid": "25dcec92-82e4-5a70-a909-35e86afd2069",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1735111737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Perciva",
+        "cn": "珀西瓦",
+        "default": "en"
+      },
+      "group": "25dcec92-82e4-5a70-a909-35e86afd2069"
     },
     {
       "uuid": "6d06542d-de6c-5dc0-99ea-4889bd86a65f",
@@ -31552,6 +31571,23 @@
       }
     },
     {
+      "uuid": "55d81fb3-79d8-51d7-a768-b43e6ca71d4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698348735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晓雾mist",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f0e44c45-b65b-5ae9-ba22-607aca40a9d5",
       "type": "vtuber",
       "bot": false,
@@ -47009,9 +47045,11 @@
       ],
       "name": {
         "extra": [],
-        "cn": "米勒Mira",
+        "cn": "米勒",
+        "en": "Mira",
         "default": "cn"
-      }
+      },
+      "group": "25dcec92-82e4-5a70-a909-35e86afd2069"
     },
     {
       "uuid": "24ba47b5-e3d7-5a1f-a01b-51f268eb0db6",
