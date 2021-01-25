@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611578286
+    "timestamp": 1611578367
   },
   "vtbs": [
     {
@@ -19205,6 +19205,18 @@
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
+      "uuid": "7ac99c40-0768-5b6b-a402-86a8517197f3",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "哔哩哔哩电竞",
+        "default": "cn"
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
+    },
+    {
       "uuid": "e010f2e6-8483-5dda-b62b-ba9dc2b648cc",
       "type": "vtuber",
       "bot": false,
@@ -37487,6 +37499,24 @@
         "cn": "池九墓",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d16d8cee-6e27-5a3d-8f5b-8873cbf43b84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2341174",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池年",
+        "default": "cn"
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
       "uuid": "16140eca-2191-5af8-82ba-2b65412a970c",
@@ -58604,7 +58634,8 @@
         "extra": [],
         "cn": "雷岁_Raisai",
         "default": "cn"
-      }
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
       "uuid": "d67d38ef-9233-5a3b-8846-aec1f92e20f0",
