@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611508283
+    "timestamp": 1611578142
   },
   "vtbs": [
     {
@@ -14524,6 +14524,25 @@
         "cn": "克苏鲁_Cthulhu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e4e20ae0-2322-5a83-9369-23470d066d62",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "74905912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克莉斯多",
+        "en": "Crystal",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "a6d4b202-8135-5f78-b748-b5f387b63e40",
