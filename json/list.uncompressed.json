@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611578207
+    "timestamp": 1611663503
   },
   "vtbs": [
     {
@@ -17283,6 +17283,24 @@
       }
     },
     {
+      "uuid": "aacc343d-414e-5352-8018-bae2e7f478fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698026701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "半只仓鼠Official",
+        "default": "cn"
+      },
+      "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
+    },
+    {
       "uuid": "0ae48731-6488-5858-81b3-4d8959f480f5",
       "type": "vtuber",
       "bot": false,
@@ -19203,6 +19221,18 @@
         "default": "cn"
       },
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
+    },
+    {
+      "uuid": "7ac99c40-0768-5b6b-a402-86a8517197f3",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "哔哩哔哩电竞",
+        "default": "cn"
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
       "uuid": "e010f2e6-8483-5dda-b62b-ba9dc2b648cc",
@@ -31571,6 +31601,23 @@
       }
     },
     {
+      "uuid": "55d81fb3-79d8-51d7-a768-b43e6ca71d4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698348735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晓雾mist",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f0e44c45-b65b-5ae9-ba22-607aca40a9d5",
       "type": "vtuber",
       "bot": false,
@@ -37470,6 +37517,24 @@
         "cn": "池九墓",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d16d8cee-6e27-5a3d-8f5b-8873cbf43b84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2341174",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池年",
+        "default": "cn"
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
       "uuid": "16140eca-2191-5af8-82ba-2b65412a970c",
@@ -58587,7 +58652,8 @@
         "extra": [],
         "cn": "雷岁_Raisai",
         "default": "cn"
-      }
+      },
+      "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
       "uuid": "d67d38ef-9233-5a3b-8846-aec1f92e20f0",
