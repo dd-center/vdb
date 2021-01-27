@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611753291
+    "timestamp": 1611753440
   },
   "vtbs": [
     {
@@ -15294,6 +15294,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "dd5d968f-ab9b-528c-94d9-e1457d95b26c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "45502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冥冥meichan",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9b97822-7114-5e1d-8cf9-37676ab4bb40",
@@ -52894,8 +52911,7 @@
         "extra": [],
         "cn": "蓝冰_Channel",
         "default": "cn"
-      },
-      "group": "4aec98b8-98ce-50a3-8eed-3a5367406293"
+      }
     },
     {
       "uuid": "1b57dcae-08ad-59ed-915a-b7e4bc1c8672",
@@ -57501,7 +57517,7 @@
         "cn": "阿泯MINN_Channel",
         "default": "cn"
       },
-      "group": "4aec98b8-98ce-50a3-8eed-3a5367406293"
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "4aa2252b-31a4-5734-8ee1-4ee27e554583",
