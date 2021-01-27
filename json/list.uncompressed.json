@@ -33,9 +33,27 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611753409
+    "timestamp": 1611753539
   },
   "vtbs": [
+    {
+      "uuid": "9b44e2a9-3334-5792-b57d-1bf0939afe49",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5450477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-可乐KORA-",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
     {
       "uuid": "77359029-801c-5067-8b74-e9eee6393021",
       "type": "vtuber",
@@ -15294,6 +15312,23 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "dd5d968f-ab9b-528c-94d9-e1457d95b26c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "45502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冥冥meichan",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9b97822-7114-5e1d-8cf9-37676ab4bb40",
@@ -34412,6 +34447,24 @@
         "cn": "柚木千雪channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3eb352d4-e4df-5752-a8e3-b4485858675e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "701272072",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚木栗子yuki",
+        "default": "cn"
+      },
+      "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
       "uuid": "56981716-1fd0-560c-ac76-1973a0ea26d4",
