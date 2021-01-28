@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611753539
+    "timestamp": 1611834894
   },
   "vtbs": [
     {
@@ -13294,6 +13294,23 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "6852c0b0-da95-585a-bc11-7350d2805f00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "72568546",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亦瞳Tio_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8c3f0a3d-aa0f-5abd-bb52-7bc21923cbae",
