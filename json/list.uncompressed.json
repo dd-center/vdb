@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611834894
+    "timestamp": 1611834929
   },
   "vtbs": [
     {
@@ -45487,6 +45487,23 @@
       }
     },
     {
+      "uuid": "eec09422-244a-5d12-93e0-68baea3a8fd6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1566352490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神代るるるOfficial",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ead440d9-af00-54d2-aaf7-c511f9994442",
       "type": "vtuber",
       "bot": false,
@@ -50264,6 +50281,23 @@
         "default": "cn"
       },
       "group": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f"
+    },
+    {
+      "uuid": "c9f6e1a7-ea2d-54a3-be9c-abc96a9ccb80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "433749835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芒果猫Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e0aed904-72c9-5e10-85a5-7e1afc84daf4",
