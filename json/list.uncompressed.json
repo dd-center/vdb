@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611923646
+    "timestamp": 1611923679
   },
   "vtbs": [
     {
@@ -42847,6 +42847,23 @@
         "default": "cn"
       },
       "group": "cee4f0c6-fb18-53a7-ac1c-7a79fce1a3cb"
+    },
+    {
+      "uuid": "4ca7bd88-1dcd-59c7-9040-074e57bfc432",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "599505098",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜甜冰块Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "db7db9d8-04d3-5e32-ad0c-54aa003c3896",
