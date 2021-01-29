@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611834929
+    "timestamp": 1611923646
   },
   "vtbs": [
     {
@@ -45693,6 +45693,23 @@
         "default": "cn"
       },
       "group": "eef5fb94-75dc-532d-82c8-8c6e78457ed9"
+    },
+    {
+      "uuid": "0c386953-ccb8-570b-9984-432e8fbe6048",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1870124074",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神山千希",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7d8a6b21-2ca9-5ff6-8947-9cbd86ba705a",
