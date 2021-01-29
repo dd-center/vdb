@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611924117
+    "timestamp": 1611925726
   },
   "vtbs": [
     {
@@ -6536,6 +6536,23 @@
         "default": "cn"
       },
       "group": "73102f48-57f2-5d59-94ef-7aac41e97f65"
+    },
+    {
+      "uuid": "8d0fe182-fa02-5dd5-b76d-16fef85f8706",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674228183",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "karory",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c3de0c58-3df0-5a4f-8224-7297a64c95ce",
