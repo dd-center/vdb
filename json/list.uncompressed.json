@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611923679
+    "timestamp": 1611924117
   },
   "vtbs": [
     {
@@ -39231,6 +39231,23 @@
       }
     },
     {
+      "uuid": "7a2c94dd-d5bf-5e3d-86ac-309853e817c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7016631",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "满地乱爬Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0cfe3301-3111-51e0-9104-5af394a8cd44",
       "type": "vtuber",
       "bot": false,
@@ -51370,6 +51387,23 @@
         "default": "cn"
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
+      "uuid": "682782e8-340c-5112-95e9-1456f3e36171",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "372720733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏妮Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dca2bdcf-93ef-52e1-9bb1-c8ad8fe56a7a",
