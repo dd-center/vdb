@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1611963035
+    "timestamp": 1612095968
   },
   "vtbs": [
     {
@@ -20680,6 +20680,28 @@
         "cn": "夏音和缇艾蜜莉",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9d5ab273-75d4-5910-9224-0514d1396de6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477597410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "夏つるぎ"
+        ],
+        "cn": "夏鹤仪",
+        "jp": "夏鶴儀",
+        "en": "Natsu Tsurugi",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "af674de1-178b-5e9a-849c-9a3143fb5a08",
