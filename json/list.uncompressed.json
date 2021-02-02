@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612271903
+    "timestamp": 1612274560
   },
   "vtbs": [
     {
@@ -6722,6 +6722,33 @@
         "default": "cn"
       },
       "group": "0c0c81b5-fc69-5ee9-a2cb-f77fb303b682"
+    },
+    {
+      "uuid": "f622f184-6765-5919-86c9-9e0bee0bb038",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441437005",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "mikkkorinn",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCCgFhIDFXr9KEPrww2akODQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "mikkkorinn",
+        "default": "jp"
+      }
     },
     {
       "uuid": "696a7689-aa07-5817-9169-dacf963611f8",
