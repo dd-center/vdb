@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612226824
+    "timestamp": 1612226854
   },
   "vtbs": [
     {
@@ -28476,6 +28476,24 @@
       }
     },
     {
+      "uuid": "860eaba8-6553-5240-bbe9-8d5b2c4c5446",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2092003040",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "愛犬茶茶丸Official",
+        "default": "cn"
+      },
+      "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+    },
+    {
       "uuid": "538c93a1-b5d8-5f03-8944-0758bbc97a65",
       "type": "vtuber",
       "bot": false,
@@ -44943,8 +44961,7 @@
         "extra": [],
         "cn": "盐天使riel_official",
         "default": "cn"
-      },
-      "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+      }
     },
     {
       "uuid": "5a0e66ff-14ca-51f8-8c82-642e5cff1511",
