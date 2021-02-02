@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612226854
+    "timestamp": 1612227099
   },
   "vtbs": [
     {
@@ -33366,6 +33366,24 @@
         "jp": "本間ひまわり",
         "cn": "本间向日葵",
         "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "9ae843a7-9a23-5aa3-8cbb-6f69fdf5b360",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "267382755",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "本間ひまわり搬运组",
+        "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
