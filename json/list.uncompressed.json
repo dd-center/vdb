@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612226417
+    "timestamp": 1612226824
   },
   "vtbs": [
     {
@@ -2575,6 +2575,24 @@
         "jp": "Liberate Anime Studio",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "f2fd7bb2-a25a-597e-bf64-9bb35241fccb",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "livecartoonjp",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "LiveCartoon",
+        "default": "en"
+      },
+      "group": "f2fd7bb2-a25a-597e-bf64-9bb35241fccb"
     },
     {
       "uuid": "f6c3dd51-7d0f-5c83-b966-c5a44a5e4a67",
@@ -49426,7 +49444,8 @@
         "cn": "美波七海",
         "en": "Minami Nami",
         "default": "cn"
-      }
+      },
+      "group": "f2fd7bb2-a25a-597e-bf64-9bb35241fccb"
     },
     {
       "uuid": "bec9595c-a0aa-5cb2-9662-9ebe824e5fac",
@@ -58180,13 +58199,25 @@
           "id": "456749835",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "HinatsuNono",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCPeF0V8dzSUYHwgLjvC86PQ/featured?view_as=public",
+          "type": "official",
+          "platform": "youtube"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "陽夏ののOfficial",
-        "default": "cn"
-      }
+        "jp": "陽夏のの",
+        "cn": "阳夏诺诺",
+        "default": "jp"
+      },
+      "group": "f2fd7bb2-a25a-597e-bf64-9bb35241fccb"
     },
     {
       "uuid": "792f15fe-9822-50a5-8dbb-978dc3b43cae",
