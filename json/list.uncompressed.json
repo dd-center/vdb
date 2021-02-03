@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612310450
+    "timestamp": 1612310928
   },
   "vtbs": [
     {
@@ -39832,6 +39832,23 @@
         "extra": [],
         "cn": "灏夫",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bb9f5b9c-cd5c-5879-8e01-e4589d5b48f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2094031249",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "火羽ひのめ",
+        "default": "jp"
       }
     },
     {
