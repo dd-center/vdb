@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612326585
+    "timestamp": 1612452415
   },
   "vtbs": [
     {
@@ -13604,6 +13604,23 @@
         "default": "cn"
       },
       "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
+    },
+    {
+      "uuid": "bd38bfcc-f26b-5098-8aed-7f6add56c188",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1178920043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊丝塔_Easter",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b27f6184-b7b3-5351-a3fc-037faa867b50",
