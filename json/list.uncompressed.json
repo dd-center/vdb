@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612497437
+    "timestamp": 1612497595
   },
   "vtbs": [
     {
@@ -13234,6 +13234,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "23705b7d-3b29-5d59-8479-ba0da6ff3a44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "62876636",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五十岚小五official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "31ab8f02-4dd7-5cd1-b441-027d6d90e26c",
@@ -39712,6 +39729,23 @@
       }
     },
     {
+      "uuid": "9cef81d8-eda2-5335-a33a-6bed3e7d0ac5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "589130737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澪眠",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f1e8f930-d364-5e6b-b577-7ccebc504a59",
       "type": "fan",
       "bot": false,
@@ -46502,23 +46536,6 @@
       "name": {
         "extra": [],
         "cn": "秀真_Hotsuma",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "33e6dc9e-0f1f-51d6-b03d-40e335a5fab3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "62876636",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "私立鲜花小学家委会",
         "default": "cn"
       }
     },
