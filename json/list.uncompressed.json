@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612452415
+    "timestamp": 1612497484
   },
   "vtbs": [
     {
@@ -39712,6 +39712,23 @@
       }
     },
     {
+      "uuid": "9cef81d8-eda2-5335-a33a-6bed3e7d0ac5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "589130737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澪眠",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f1e8f930-d364-5e6b-b577-7ccebc504a59",
       "type": "fan",
       "bot": false,
@@ -61696,8 +61713,7 @@
         "extra": [],
         "cn": "鸽姬言知",
         "default": "cn"
-      },
-      "group": "22c2893d-8037-5243-9944-40b33731673e"
+      }
     },
     {
       "uuid": "55fafe55-7e2b-52ca-b7ff-c0a6ca5d8fe7",
