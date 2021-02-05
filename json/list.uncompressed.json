@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612497595
+    "timestamp": 1612497882
   },
   "vtbs": [
     {
@@ -920,6 +920,23 @@
       "name": {
         "extra": [],
         "jp": "Azulim",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "814b4d4e-d448-5421-92ac-5a2bb109e8b1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1513469779",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "Bafuko_Official",
         "default": "jp"
       }
     },
