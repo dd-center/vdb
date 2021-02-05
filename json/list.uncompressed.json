@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612497882
+    "timestamp": 1612498147
   },
   "vtbs": [
     {
@@ -3801,6 +3801,23 @@
         "default": "cn"
       },
       "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
+    },
+    {
+      "uuid": "87b4da4e-873a-5cc0-98b4-f1601c731443",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1648885943",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ORUSONA-Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "003565db-c2db-5968-ac49-b755c548a91b",
@@ -49692,6 +49709,23 @@
       "name": {
         "extra": [],
         "jp": "羽宮のあ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "3f3bc4c4-f9ec-5184-b6b1-47e7baa4bc8e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1682889553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "羽月ちい",
         "default": "jp"
       }
     },
