@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612658422
+    "timestamp": 1612658469
   },
   "vtbs": [
     {
@@ -36316,6 +36316,24 @@
         "default": "cn"
       },
       "group": "88c223e0-cbda-5829-852c-f272142fec71"
+    },
+    {
+      "uuid": "2904060f-65a6-51ff-aef7-61c7746e5a65",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "653593",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椰栗",
+        "en": "Yeri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ddb642ac-c258-5b54-8b9c-ede6fbadb904",
