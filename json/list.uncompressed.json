@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1612663323
+    "timestamp": 1612663541
   },
   "vtbs": [
     {
@@ -35489,6 +35489,24 @@
       }
     },
     {
+      "uuid": "13181cf4-d375-5a40-9069-6c457a6558f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "515053790",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椋笙栗",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
       "uuid": "8591e842-e3a6-50d7-8611-dfa17622be7e",
       "type": "vtuber",
       "bot": false,
@@ -38793,6 +38811,23 @@
       "name": {
         "extra": [],
         "cn": "潮澄ノキ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "67c1149e-5057-5c81-abc0-d99961c29544",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34785075",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "潮留芥末",
         "default": "cn"
       }
     },
