@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613106793
+    "timestamp": 1613108257
   },
   "vtbs": [
     {
@@ -2208,6 +2208,24 @@
       }
     },
     {
+      "uuid": "d74d06c4-1970-5061-9f44-3839a116ba15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1511924791",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Isako_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
+    },
+    {
       "uuid": "0b9208ef-6b36-5419-8fa6-a63e4ebcc362",
       "type": "vtuber",
       "bot": false,
@@ -2882,6 +2900,24 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "38d56088-1adf-595e-a172-0fd9086fa58d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1826989306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Maquia_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
     },
     {
       "uuid": "e7c5c642-480d-5f15-81a4-66cefd3975e0",
@@ -22617,6 +22653,24 @@
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
+      "uuid": "1db9b4e2-0001-5104-9fd7-f1f81d4b1a6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1715021814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈罗Naro_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
+    },
+    {
       "uuid": "0b1940bb-57ab-5abb-91e1-f2f31dd81e2a",
       "type": "vtuber",
       "bot": false,
@@ -28948,8 +29002,11 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "SMR"
+        ],
         "cn": "撒币社",
+        "en": "StuMRare",
         "default": "cn"
       },
       "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
@@ -41234,6 +41291,24 @@
         "default": "cn"
       },
       "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474"
+    },
+    {
+      "uuid": "9a53c62c-18bc-5803-aa82-671047756d97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1062342323",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玉白_official",
+        "default": "cn"
+      },
+      "group": "78fb136a-a601-516b-af0c-2e01cbdbbe8f"
     },
     {
       "uuid": "9b8bbe6f-821c-5d51-9580-d05d6e334233",
