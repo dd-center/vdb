@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613106573
+    "timestamp": 1613106698
   },
   "vtbs": [
     {
@@ -35345,6 +35345,23 @@
       "name": {
         "extra": [],
         "cn": "梨泥くれはOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1d016b8-228a-5f8e-8881-ab6b9fe3e860",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8163245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梭梭树",
         "default": "cn"
       }
     },
