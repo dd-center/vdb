@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613106774
+    "timestamp": 1613106793
   },
   "vtbs": [
     {
@@ -35751,6 +35751,24 @@
         "cn": "椛暗_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "aebb8a27-96ad-575f-99f7-485fb958d709",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692992615",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椛榊计划",
+        "default": "cn"
+      },
+      "group": "aebb8a27-96ad-575f-99f7-485fb958d709"
     },
     {
       "uuid": "36703164-9f00-5c49-bbf8-a128f1b0e39d",
