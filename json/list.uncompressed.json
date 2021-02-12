@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613106698
+    "timestamp": 1613106774
   },
   "vtbs": [
     {
@@ -49594,6 +49594,27 @@
         "cn": "艾露ミアナChannel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "869c2311-257e-55eb-8d83-bff97cea6194",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1501380958",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "艾露露"
+        ],
+        "cn": "艾露露Ailurus",
+        "en": "Ailurus",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "4c7ebc75-c038-5717-b77f-c77eb6febfc2",
