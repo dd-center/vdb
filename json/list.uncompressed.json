@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613201456
+    "timestamp": 1613218430
   },
   "vtbs": [
     {
@@ -24159,6 +24159,24 @@
         "cn": "安陵eo_Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "40e5c1e1-ab21-52f5-b0b2-ba58a96c7031",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "97439580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安魂殿里的R93",
+        "default": "cn"
+      },
+      "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
     },
     {
       "uuid": "dfbfe7de-00b7-58a4-a3c7-1e830292b6f2",
