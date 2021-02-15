@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613218474
+    "timestamp": 1613376265
   },
   "vtbs": [
     {
@@ -7115,6 +7115,34 @@
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
     },
     {
+      "uuid": "725318d9-a737-55f9-bdd1-29ffe8c6a9ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1472906636",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ywwuyi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "wuyikoei",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "鋼之魂": "wuyikoei",
+        "无声": "ywwuyi",
+        "default": "鋼之魂"
+      }
+    },
+    {
       "uuid": "22e5e2b1-05ba-5c98-8eeb-ab255112e342",
       "type": "vtuber",
       "bot": false,
@@ -7182,25 +7210,6 @@
         "default": "cn"
       },
       "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474"
-    },
-    {
-      "uuid": "7a7c56f4-6eda-53e8-8695-174f05f284d3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1472906636",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "wuyikoei"
-        ],
-        "cn": "ywwuyi",
-        "default": "cn"
-      }
     },
     {
       "uuid": "15d44819-35e4-5ce7-846a-12f750e23fb0",
@@ -25563,7 +25572,7 @@
         "cn": "尤菲黎娅_Eupheria",
         "default": "cn"
       },
-      "group": "89359530-5a15-5358-821a-262d287812be"
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
     {
       "uuid": "9cc019b3-c21b-514e-bee2-548487ba2d8c",
@@ -38252,6 +38261,18 @@
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
     },
     {
+      "uuid": "68aaeeda-ab34-5aef-b0fa-511f049ccdfb",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "海洋公馆",
+        "default": "cn"
+      },
+      "group": "68aaeeda-ab34-5aef-b0fa-511f049ccdfb"
+    },
+    {
       "uuid": "b532406a-5e92-5dcc-8ed4-aa565ccb33ec",
       "type": "vtuber",
       "bot": false,
@@ -40291,6 +40312,23 @@
       }
     },
     {
+      "uuid": "87a92ca9-54bd-5342-beb3-8e988139e6c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1851149",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狍狍鹿-Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "af0ada6e-ffb4-5669-bca6-9aca3585359f",
       "type": "vtuber",
       "bot": false,
@@ -41903,7 +41941,7 @@
       }
     },
     {
-      "uuid": "7baffcd6-1d89-5df1-87ac-d1482bed13cf",
+      "uuid": "75829318-9f33-5eb6-b82e-e9cb7f822858",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -41915,7 +41953,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "琉阿六和阿基",
+        "cn": "琉阿六",
         "default": "cn"
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
@@ -47126,6 +47164,24 @@
         "default": "cn"
       },
       "group": "89359530-5a15-5358-821a-262d287812be"
+    },
+    {
+      "uuid": "f6dd3bda-0492-5f84-bb7e-05d6d68029b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "599522036",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "粒Q",
+        "default": "cn"
+      },
+      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
     },
     {
       "uuid": "94b26363-d41a-552f-bce0-107567c2a81c",
