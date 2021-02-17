@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613566942
+    "timestamp": 1613566959
   },
   "vtbs": [
     {
@@ -51424,6 +51424,24 @@
       "name": {
         "extra": [],
         "cn": "药药_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d4d94dc-443d-5e85-830b-1c29f750b9fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "664047468",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉姆丝",
+        "en": "Limus",
         "default": "cn"
       }
     },
