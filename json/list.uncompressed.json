@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613567082
+    "timestamp": 1613658941
   },
   "vtbs": [
     {
@@ -32323,6 +32323,23 @@
       }
     },
     {
+      "uuid": "35998da0-d34f-516c-96a2-03bfcec3b04e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20009661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月宫库萝箩",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6ac2f317-69ee-58d7-a5f8-0ad3b2c91655",
       "type": "vtuber",
       "bot": false,
@@ -51537,6 +51554,23 @@
         "default": "cn"
       },
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
+    },
+    {
+      "uuid": "95b1a598-16e0-5794-af36-51b9163f29f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "686493225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉蒂娅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dceee333-e287-599e-9ac6-4350ee62f887",
