@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613658816
+    "timestamp": 1613737510
   },
   "vtbs": [
     {
@@ -14602,6 +14602,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "8d396fb9-9341-5af8-8b71-81e266e02084",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397244810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "偷偷Official_",
+        "default": "cn"
+      }
     },
     {
       "uuid": "430d2272-d9d6-58b7-b4b8-9aed26a54253",
@@ -32319,6 +32336,23 @@
       "name": {
         "extra": [],
         "cn": "月夜見海棠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "35998da0-d34f-516c-96a2-03bfcec3b04e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20009661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月宫库萝箩",
         "default": "cn"
       }
     },
