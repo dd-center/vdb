@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613737510
+    "timestamp": 1613823951
   },
   "vtbs": [
     {
@@ -60171,6 +60171,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少女MIGIC",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "835690f0-0f7c-5d03-a14b-8691bc7627b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "271887040",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法少女乐府酱",
         "default": "cn"
       }
     },
