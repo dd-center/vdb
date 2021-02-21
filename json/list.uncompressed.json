@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923243
+    "timestamp": 1613923267
   },
   "vtbs": [
     {
@@ -21969,6 +21969,23 @@
         "default": "cn"
       },
       "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
+      "uuid": "69f1c321-241f-523f-93cb-b44dfeeb0a2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29150180",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天和利晴TenwaToharu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e59e067e-f5f1-5220-885c-5e4e4f2239ff",
