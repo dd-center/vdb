@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923995
+    "timestamp": 1613924035
   },
   "vtbs": [
     {
@@ -20591,6 +20591,23 @@
       "group": "093738a6-1f21-5910-86d3-2a00c029afd6"
     },
     {
+      "uuid": "b44e0490-8f78-5f15-880b-8ce67a2182d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1802011210",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏川玥玥",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "eb008d2f-81fc-5e23-a0e4-a5a2249a2850",
       "type": "vtuber",
       "bot": false,
@@ -24769,6 +24786,23 @@
       "name": {
         "extra": [],
         "cn": "小凌漆漆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3a38192d-4475-5a18-b9cf-c8aeb6a569a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2138602891",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小千村柚柚",
         "default": "cn"
       }
     },
