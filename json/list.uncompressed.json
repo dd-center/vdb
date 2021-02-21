@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923492
+    "timestamp": 1613923648
   },
   "vtbs": [
     {
@@ -28169,6 +28169,24 @@
         "cn": "志士雄-shishio-",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4adea619-eb29-57c4-82ef-9db6be3a9d97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13951530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忘千",
+        "default": "cn"
+      },
+      "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
     },
     {
       "uuid": "81fb6430-675c-5177-9443-8dedd2b96730",
