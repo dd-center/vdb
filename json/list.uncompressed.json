@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613922158
+    "timestamp": 1613922541
   },
   "vtbs": [
     {
@@ -59235,6 +59235,23 @@
         "extra": [],
         "cn": "风犹惊Kaze",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "524c69a8-915d-5379-8de3-ae10195e11a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1693750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "KALO",
+        "default": "en"
       }
     },
     {
