@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923142
+    "timestamp": 1613923243
   },
   "vtbs": [
     {
@@ -1913,6 +1913,24 @@
         "default": "cn"
       },
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
+    },
+    {
+      "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6481343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "格罗佛巴德",
+        "en": "Grove Bard",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9e7cdfe9-8243-5946-bb6c-2c40de15f65f",
