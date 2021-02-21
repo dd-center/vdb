@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613922061
+    "timestamp": 1613922158
   },
   "vtbs": [
     {
@@ -31168,6 +31168,23 @@
       "name": {
         "extra": [],
         "cn": "星野ニア_Atria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a33feb64-c0d4-5d84-92f6-e71cc240c053",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "78094907",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野ニア_Nya",
         "default": "cn"
       }
     },
