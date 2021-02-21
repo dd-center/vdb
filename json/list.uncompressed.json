@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923837
+    "timestamp": 1613923995
   },
   "vtbs": [
     {
@@ -38493,6 +38493,23 @@
         "default": "cn"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "8fa3049e-4331-5db6-b266-a000a355af60",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1479945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海栖深水",
+        "default": "cn"
+      }
     },
     {
       "uuid": "68aaeeda-ab34-5aef-b0fa-511f049ccdfb",
