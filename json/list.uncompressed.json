@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923267
+    "timestamp": 1613923492
   },
   "vtbs": [
     {
@@ -3239,6 +3239,23 @@
         "default": "en"
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
+    },
+    {
+      "uuid": "58f4d35c-7a60-5225-bf86-87f60d1ee7b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2239559",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mira小恶魔米拉offical",
+        "default": "cn"
+      }
     },
     {
       "uuid": "89382922-bb93-5a94-94b6-06f217575139",
@@ -15519,6 +15536,41 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "e0b20bb1-8b18-56c5-aea1-88d788f2f0c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "204775428",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "netibro",
+          "type": "official",
+          "platform": "afdian"
+        },
+        {
+          "id": "UCEzCwmV6XjzTGuklmoa-Iyg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "45505685",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "内蒂布罗",
+        "en": "Netibro",
+        "jp": "ネティブロー",
+        "default": "cn"
+      },
+      "group": "323bda40-575a-55bf-acc8-0e6316374689"
     },
     {
       "uuid": "b3709067-48a0-5613-ba8d-9204b940a9f7",
@@ -50019,6 +50071,26 @@
         "default": "cn"
       },
       "group": "227ed47e-4565-5692-b1cc-154463a73773"
+    },
+    {
+      "uuid": "323bda40-575a-55bf-acc8-0e6316374689",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1371101456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾菲莉特",
+        "en": "Infinite",
+        "jp": "アイ フェイ リー トーァ",
+        "default": "cn"
+      },
+      "group": "323bda40-575a-55bf-acc8-0e6316374689"
     },
     {
       "uuid": "af33a662-e304-5ee4-a311-836de6bf3252",
