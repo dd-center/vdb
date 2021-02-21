@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613922541
+    "timestamp": 1613922800
   },
   "vtbs": [
     {
@@ -4137,6 +4137,24 @@
         "cn": "彼岸喵",
         "en": "PianCat",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "16de5cd7-8d5b-512a-9765-b836512e61a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488798866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "PineAG",
+        "cn": "派因",
+        "default": "en"
       }
     },
     {
@@ -12354,6 +12372,23 @@
       }
     },
     {
+      "uuid": "472bff0e-1834-576a-b805-5ae910d3ee66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1482424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "中野流子_Ryuuko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "11f3642d-7783-58c6-822c-2d7f0a843ac1",
       "type": "vtuber",
       "bot": false,
@@ -16212,6 +16247,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "43159f97-08f1-5ff5-b564-b2c69bfb511d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51127532",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "刘非玄",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c8149268-6e20-535c-9e98-2a117cd686eb",
@@ -40464,6 +40516,23 @@
       "group": "5e67c1b9-17c7-5e1a-872d-d72ddf615f99"
     },
     {
+      "uuid": "d77b7f79-176c-5948-9328-dc3494e101f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "430091486",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐羽桜channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f5a2984b-b86a-5c4c-b399-ea500f9f5a58",
       "type": "vtuber",
       "bot": false,
@@ -45689,6 +45758,23 @@
         "cn": "神乐唯",
         "en": "KaguraYui",
         "jp": "神楽ゆい",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "09057a65-b2bb-594f-aca1-333bc48ec1e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "432765966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神楽真白_channel",
         "default": "cn"
       }
     },
