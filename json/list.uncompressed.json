@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613923077
+    "timestamp": 1613923142
   },
   "vtbs": [
     {
@@ -46330,6 +46330,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "8629ae0d-c717-590d-841e-b8a3b255d7a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1563548",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空条粉喵Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f9db0e50-ec5a-5c0f-b621-d746cf5b2502",
