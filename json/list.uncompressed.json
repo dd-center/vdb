@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613998941
+    "timestamp": 1614000134
   },
   "vtbs": [
     {
@@ -712,6 +712,24 @@
         "default": "en"
       },
       "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
+    },
+    {
+      "uuid": "4fb34397-207d-5ab7-babc-4217358edcd1",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "369207",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Another Project",
+        "default": "cn"
+      },
+      "group": "4fb34397-207d-5ab7-babc-4217358edcd1"
     },
     {
       "uuid": "4702b705-071b-5b0b-b05d-9656d203da64",
@@ -2322,6 +2340,25 @@
         "default": "cn"
       },
       "group": "88c223e0-cbda-5829-852c-f272142fec71"
+    },
+    {
+      "uuid": "4a40ea6a-a854-5ba4-aa64-6e3388f3b7b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17479767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "昊月",
+        "en": "Kotsuki",
+        "jp": "こつき",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fefc56cc-941f-5e2d-bad3-7ce9ca65803a",
@@ -10577,6 +10614,23 @@
         "extra": [],
         "jp": "モノカキ・アエル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f1fedcf9-c75e-547b-be20-1cce961d4085",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6168451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "モモChannel",
+        "default": "cn"
       }
     },
     {
@@ -22828,7 +22882,8 @@
         "cn": "奈姬",
         "en": "niki",
         "default": "cn"
-      }
+      },
+      "group": "4fb34397-207d-5ab7-babc-4217358edcd1"
     },
     {
       "uuid": "639fc206-99da-54e6-af27-029f2536ef2a",
@@ -28448,6 +28503,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "ee6d8759-32c0-5fcf-bfe6-5fe1d9198525",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "54458869",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "惑星伊吕波",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b81b9dfb-6674-5533-963b-a6a93e3f1607",
@@ -46083,6 +46155,23 @@
       "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
     },
     {
+      "uuid": "6dd3d97b-1d17-53f1-966e-ec83e0331632",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "697546240",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神沢秋channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "917fef54-070e-5a43-a19d-99b57d223d8e",
       "type": "vtuber",
       "bot": false,
@@ -49204,6 +49293,24 @@
         "jp": "ロサリン",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6e049226-a869-5b97-a082-87bc6a5fb322",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2052064438",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗菈Rola",
+        "default": "cn"
+      },
+      "group": "4fb34397-207d-5ab7-babc-4217358edcd1"
     },
     {
       "uuid": "0dd0862a-4c5f-5207-9eeb-d2fa4610fae7",
@@ -52995,6 +53102,23 @@
       }
     },
     {
+      "uuid": "181c18a8-6948-5fe1-8bea-4ffe6ac22d70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609547005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蓝咲Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1b57dcae-08ad-59ed-915a-b7e4bc1c8672",
       "type": "vtuber",
       "bot": false,
@@ -54798,7 +54922,8 @@
         "extra": [],
         "cn": "赫卡缇亚Hecatia",
         "default": "cn"
-      }
+      },
+      "group": "4fb34397-207d-5ab7-babc-4217358edcd1"
     },
     {
       "uuid": "e36add71-6ae8-59b7-a2eb-7e62098444be",
@@ -55369,6 +55494,24 @@
         "cn": "奈奈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bda6b29d-0f6a-56bb-b385-a6c5e7defbea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2123631024",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辻蓝佳音瑠_channel",
+        "default": "cn"
+      },
+      "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
     },
     {
       "uuid": "b732f0df-c8b0-5840-9f6a-c8316dbc622b",
