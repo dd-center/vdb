@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1613998894
+    "timestamp": 1613999000
   },
   "vtbs": [
     {
@@ -2322,6 +2322,25 @@
         "default": "cn"
       },
       "group": "88c223e0-cbda-5829-852c-f272142fec71"
+    },
+    {
+      "uuid": "4a40ea6a-a854-5ba4-aa64-6e3388f3b7b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17479767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "昊月",
+        "en": "Kotsuki",
+        "jp": "こつき",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fefc56cc-941f-5e2d-bad3-7ce9ca65803a",
@@ -10577,6 +10596,23 @@
         "extra": [],
         "jp": "モノカキ・アエル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f1fedcf9-c75e-547b-be20-1cce961d4085",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6168451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "モモChannel",
+        "default": "cn"
       }
     },
     {
@@ -33176,6 +33212,23 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
+    },
+    {
+      "uuid": "fe81e0b1-bc29-5509-9ccf-b678c0d96016",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13437162",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木之白_channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "10cd2946-0b56-501d-b60a-64ef0d7cb273",
