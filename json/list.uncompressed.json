@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614088016
+    "timestamp": 1614088210
   },
   "vtbs": [
     {
@@ -16089,6 +16089,23 @@
         "default": "cn"
       },
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
+    },
+    {
+      "uuid": "d71925f4-99cd-51c1-9f04-ba56df4282a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3046509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "凛音秀吉",
+        "default": "CN"
+      }
     },
     {
       "uuid": "37f24611-300b-5ad0-9b88-99aea502a8bf",
@@ -61256,6 +61273,23 @@
       "name": {
         "extra": [],
         "cn": "鸫_Tsugumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7728f261-92c8-570a-bf2b-aca177076be8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "30924292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸮号机",
         "default": "cn"
       }
     },
