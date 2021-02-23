@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614088067
+    "timestamp": 1614088285
   },
   "vtbs": [
     {
@@ -16091,6 +16091,23 @@
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
+      "uuid": "d71925f4-99cd-51c1-9f04-ba56df4282a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3046509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "凛音秀吉",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "37f24611-300b-5ad0-9b88-99aea502a8bf",
       "type": "vtuber",
       "bot": false,
@@ -31924,6 +31941,23 @@
         "default": "cn"
       },
       "group": "0c0c81b5-fc69-5ee9-a2cb-f77fb303b682"
+    },
+    {
+      "uuid": "19e640ad-ceef-5297-992b-1aade2550b1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "89815169",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "中文": "是随风",
+        "default": "中文"
+      }
     },
     {
       "uuid": "419e456d-2d95-59de-b47a-34633fbaa5e6",
