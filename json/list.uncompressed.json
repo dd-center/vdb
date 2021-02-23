@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614087638
+    "timestamp": 1614088016
   },
   "vtbs": [
     {
@@ -53022,6 +53022,30 @@
         "default": "cn"
       },
       "group": "ea46c33c-8689-5b71-a388-7e2e7e788a36"
+    },
+    {
+      "uuid": "6a5cfd94-d3b4-5d81-a5e9-c602526741b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7685014",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "40403962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "猫斯坦丁喵维奇卡特洛夫斯基"
+        ],
+        "cn": "蒸汽猫薄荷",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a92d8dd7-6ff8-5927-bd61-9eb99bee6430",
