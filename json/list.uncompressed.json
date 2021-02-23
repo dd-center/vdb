@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614088619
+    "timestamp": 1614088657
   },
   "vtbs": [
     {
@@ -30591,6 +30591,23 @@
         "extra": [],
         "cn": "星宫颜Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6bac5d28-e176-5c6b-bf4e-ce57480c1c25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1152597935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "星宫魔琉瑠",
+        "default": "CN"
       }
     },
     {
