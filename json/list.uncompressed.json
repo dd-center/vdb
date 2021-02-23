@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614088285
+    "timestamp": 1614088567
   },
   "vtbs": [
     {
@@ -21441,34 +21441,6 @@
       }
     },
     {
-      "uuid": "4a5b9068-e09e-5d67-a972-8984f6d978c4",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "551202872",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "yozakura_noa",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "UCbCMj2T2B8DqYD1kzX3K0pQ",
-          "type": "official",
-          "platform": "youtube"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "夜樱诺娅",
-        "jp": "夜桜のあ",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "f860b14b-5d7f-5a7d-a3e4-0b6b02fc81ac",
       "type": "vtuber",
       "bot": false,
@@ -35739,6 +35711,23 @@
       }
     },
     {
+      "uuid": "93552f17-52d8-5c58-94be-5b9257a3223d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "358569407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦九lifeline",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7547220a-cec0-5e16-a4f6-772d6e2500cd",
       "type": "vtuber",
       "bot": false,
@@ -45094,23 +45083,6 @@
       "group": "03e5db22-f42b-57a1-b034-48a7f5642d8a"
     },
     {
-      "uuid": "4649f587-80a0-5789-97a4-1b5869180b97",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "16196589",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "真是怪怪的-",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "71c2863a-a1a1-5c12-88c0-6234a489a966",
       "type": "vtuber",
       "bot": false,
@@ -49801,6 +49773,23 @@
       "group": "158ce246-eb9b-57cd-99c1-dc8517d814bc"
     },
     {
+      "uuid": "3f015b7d-91ac-5618-ad1c-b46d81f05a7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "270326324",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "耶绒uwu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "78872544-2fbe-5166-9293-ebc024413eea",
       "type": "vtuber",
       "bot": false,
@@ -50939,28 +50928,6 @@
       "name": {
         "extra": [],
         "cn": "花嶺_ハナレ",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "6a2b314d-f120-5b15-a13b-d61c020a25cd",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "524428144",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "18162177",
-          "type": "official",
-          "platform": "acfun"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "花御野",
         "default": "cn"
       }
     },
