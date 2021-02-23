@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614089890
+    "timestamp": 1614102129
   },
   "vtbs": [
     {
@@ -31607,6 +31607,23 @@
       "name": {
         "extra": [],
         "cn": "星野ニア_Nya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a4abbb5-a9ef-5eda-abdf-46a7dcc3897f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "678846762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野ニア_只会干拉",
         "default": "cn"
       }
     },
