@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614254792
+    "timestamp": 1614255072
   },
   "vtbs": [
     {
@@ -20346,22 +20346,21 @@
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
     },
     {
-      "uuid": "3f3daf38-1470-5fc0-995b-77c72112bf93",
+      "uuid": "7fb1d10f-7934-5db0-a792-fa3dc0b0f5f5",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "7607089",
+          "id": "60093306",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "在下逍凰",
+        "cn": "在下道尊尹",
         "default": "cn"
-      },
-      "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+      }
     },
     {
       "uuid": "a08b923d-ae71-509f-a196-02a719caa465",
@@ -39156,6 +39155,23 @@
       }
     },
     {
+      "uuid": "30704e52-e5b6-5c9a-93b5-7ea87cdb7bef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38271760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淩钰Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bdb72089-f2ba-50e6-af6c-4a94bfe08415",
       "type": "vtuber",
       "bot": false,
@@ -54082,6 +54098,23 @@
       "name": {
         "extra": [],
         "cn": "血色星辰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94a5b3cb-1bdd-5bf1-94bc-391a1cd4fe6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "889399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "衣笠雪绘",
         "default": "cn"
       }
     },
