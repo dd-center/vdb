@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614254148
+    "timestamp": 1614254286
   },
   "vtbs": [
     {
@@ -28225,6 +28225,24 @@
         "cn": "微子喵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "83442d40-a040-5aae-9e7e-0e063135a1a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "27961340",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "徵羽泽",
+        "default": "cn"
+      },
+      "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
     },
     {
       "uuid": "3fba33d2-829a-585c-b6d9-5514bc362324",
