@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614272470
+    "timestamp": 1614273887
   },
   "vtbs": [
     {
@@ -33340,6 +33340,23 @@
       "name": {
         "extra": [],
         "cn": "望月希咏",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c4b12dc0-b743-50e4-b642-f30b8a94246b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9993339",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "望月梦",
         "default": "cn"
       }
     },
