@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614254922
+    "timestamp": 1614270731
   },
   "vtbs": [
     {
@@ -16302,23 +16302,6 @@
       "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
     },
     {
-      "uuid": "e664d854-863a-5396-af6c-b8cb9c66d182",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "36677",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "凯恩_Cain",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "4648ebb7-601f-57fe-acb4-0cced983135d",
       "type": "vtuber",
       "bot": false,
@@ -28140,6 +28123,23 @@
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
+      "uuid": "4ab8bfa6-a4b3-5c93-9b1b-83454681eb9b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13174191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御宅达人唐小萌",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cc0b4be5-9130-51bd-adc9-91994df4932c",
       "type": "vtuber",
       "bot": false,
@@ -39151,6 +39151,23 @@
       "name": {
         "extra": [],
         "cn": "淩醉Yotte",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "30704e52-e5b6-5c9a-93b5-7ea87cdb7bef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38271760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淩钰Official",
         "default": "cn"
       }
     },
