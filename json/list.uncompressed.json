@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614254732
+    "timestamp": 1614254820
   },
   "vtbs": [
     {
@@ -37433,6 +37433,23 @@
       }
     },
     {
+      "uuid": "2f356155-e0c5-5096-ba4d-aaced61f7544",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "96230607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "欧卡OKA",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6e13e602-1be2-5806-be44-33386b1a30c5",
       "type": "vtuber",
       "bot": false,
@@ -54065,6 +54082,23 @@
       "name": {
         "extra": [],
         "cn": "血色星辰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94a5b3cb-1bdd-5bf1-94bc-391a1cd4fe6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "889399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "衣笠雪绘",
         "default": "cn"
       }
     },
