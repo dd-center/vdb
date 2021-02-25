@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614254479
+    "timestamp": 1614254732
   },
   "vtbs": [
     {
@@ -16300,6 +16300,23 @@
         "default": "cn"
       },
       "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
+      "uuid": "e664d854-863a-5396-af6c-b8cb9c66d182",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凯恩_Cain",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4648ebb7-601f-57fe-acb4-0cced983135d",
@@ -58534,6 +58551,23 @@
         "jp": "雪乃せかい",
         "cn": "雪乃世界",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9c5d9303-7da0-5f4e-9724-12b1e8de3918",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "265615931",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪叶凛Channel",
+        "default": "cn"
       }
     },
     {
