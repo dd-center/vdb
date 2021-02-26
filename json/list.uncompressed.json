@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614333068
+    "timestamp": 1614333320
   },
   "vtbs": [
     {
@@ -27093,6 +27093,23 @@
         "extra": [],
         "jp": "市ノ瀬ミナト",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "74b27eb4-8f18-57ee-b629-71c816fb3b72",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2309276",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "市原飒",
+        "default": "cn"
       }
     },
     {
