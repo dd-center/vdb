@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614331573
+    "timestamp": 1614331680
   },
   "vtbs": [
     {
@@ -59770,6 +59770,23 @@
       "name": {
         "extra": [],
         "cn": "霧島アラシStudio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "719eb02a-34a7-5fff-b69a-a0c09987cf81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13101068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霰月Arzki",
         "default": "cn"
       }
     },
