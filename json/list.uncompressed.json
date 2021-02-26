@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614331787
+    "timestamp": 1614332023
   },
   "vtbs": [
     {
@@ -41345,6 +41345,23 @@
       "name": {
         "extra": [],
         "cn": "狍狍鹿-Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f3932298-2f4b-5cf1-b06a-7a5a72ed05e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "189654435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐半仙Channel",
         "default": "cn"
       }
     },
