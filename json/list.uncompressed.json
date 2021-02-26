@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614332023
+    "timestamp": 1614332091
   },
   "vtbs": [
     {
@@ -1931,6 +1931,24 @@
         "default": "cn"
       },
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
+    },
+    {
+      "uuid": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "598663307",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Function",
+        "default": "en"
+      },
+      "group": "dbb92931-4f6d-52df-b21b-a2ad11fc251e"
     },
     {
       "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
@@ -38677,7 +38695,7 @@
         "cn": "沢気彻子",
         "default": "cn"
       },
-      "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
+      "group": "dbb92931-4f6d-52df-b21b-a2ad11fc251e"
     },
     {
       "uuid": "359a5bb8-1daa-5ebb-8fbd-99ed65aae2fc",
