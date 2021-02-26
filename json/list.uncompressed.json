@@ -33,7 +33,7 @@
       "163music": "https://music.163.com/#/user/home?id={id}",
       "acfun": "https://www.acfun.cn/u/{id}"
     },
-    "timestamp": 1614333774
+    "timestamp": 1614365151
   },
   "vtbs": [
     {
@@ -18357,6 +18357,23 @@
       "name": {
         "extra": [],
         "cn": "卡塔琳娜-迈耶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a016f644-48f8-51cf-b115-014deeae97a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "442769447",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡恩马林娜罗德尼",
         "default": "cn"
       }
     },
@@ -45433,6 +45450,24 @@
       }
     },
     {
+      "uuid": "35d0636e-3c18-555a-a6fb-cb8d643dd7cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1096223397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白雪艾莉娅_Official",
+        "default": "cn"
+      },
+      "group": "ad652370-a736-537f-aa70-6ee528138364"
+    },
+    {
       "uuid": "ec764bf1-e597-58e0-bec2-257aaa1cfe95",
       "type": "vtuber",
       "bot": false,
@@ -49920,6 +49955,23 @@
         "extra": [],
         "ch": "红辣椒啊",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "0a977239-0110-5eb1-845b-6a29e8790574",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2143967328",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纪代因果_Inga",
+        "default": "cn"
       }
     },
     {
@@ -55374,6 +55426,23 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "8396bfda-a9e7-5b99-bf1b-2060de87b23d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1665226799",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西缪斯_诺拉official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0d3f3434-7aee-597a-8da7-4f328ca9513b",
