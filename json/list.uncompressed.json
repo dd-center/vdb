@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614402869
+    "timestamp": 1614403420
   },
   "vtbs": [
     {
@@ -15440,6 +15440,23 @@
         "extra": [],
         "jp": "八月二雪",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "6aa055f6-be8e-5e3d-9fa4-f78eb8722e0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "531326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八朔めり_meRi",
+        "default": "cn"
       }
     },
     {
