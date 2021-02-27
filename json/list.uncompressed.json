@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614392966
+    "timestamp": 1614402449
   },
   "vtbs": [
     {
@@ -20443,6 +20443,23 @@
         "default": "cn"
       },
       "group": "eef5fb94-75dc-532d-82c8-8c6e78457ed9"
+    },
+    {
+      "uuid": "631d5c40-63f5-5958-be7a-e84b23d2d1e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3324664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四日猫yokka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "52d0758e-8271-55f7-b4ac-ff4a3e01f07d",
