@@ -31,9 +31,10 @@
       "teespring": "https://teespring.com/stores/{id}",
       "popiask": "https://www.popiask.cn/{id}",
       "163music": "https://music.163.com/#/user/home?id={id}",
-      "acfun": "https://www.acfun.cn/u/{id}"
+      "acfun": "https://www.acfun.cn/u/{id}",
+      "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614365151
+    "timestamp": 1614392945
   },
   "vtbs": [
     {
@@ -33723,6 +33724,28 @@
         "default": "jp"
       },
       "group": "d72e67f1-3554-5470-a622-d45177bfa2ee"
+    },
+    {
+      "uuid": "37b88861-4391-5ab1-9a3c-0a78fc6618f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "ZVZWOp4K",
+          "type": "official",
+          "platform": "pomeet"
+        },
+        {
+          "id": "1517862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有栖川z子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f4cb5d6f-bb2a-5b17-80e6-8539e02099d8",
