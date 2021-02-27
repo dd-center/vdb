@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614403651
+    "timestamp": 1614403799
   },
   "vtbs": [
     {
@@ -45936,6 +45936,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "7dbd4517-5f4c-52c6-9915-3f7cfd8a3968",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7445513",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百花院椿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "31926162-5e03-5ee6-ae10-b7bfd53080b7",
