@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614402449
+    "timestamp": 1614402869
   },
   "vtbs": [
     {
@@ -54799,6 +54799,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "56b73b10-255f-519a-b2d0-b88f00a3256c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "916984",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虚拟バ美肉ErrorAI艾拉",
+        "default": "cn"
+      }
     },
     {
       "uuid": "436edc61-5c3a-5b37-95c5-5355eb9439f7",
