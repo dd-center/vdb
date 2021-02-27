@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614403420
+    "timestamp": 1614403651
   },
   "vtbs": [
     {
@@ -62861,6 +62861,23 @@
       "name": {
         "extra": [],
         "cn": "鸮号机",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "59eb1004-1c0a-501a-8ea5-10422d88db24",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20558903",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸴の羽_channel",
         "default": "cn"
       }
     },
