@@ -31,6 +31,7 @@ const linkSyntax = {
   popiask: 'https://www.popiask.cn/{id}',
   '163music': 'https://music.163.com/#/user/home?id={id}',
   acfun: 'https://www.acfun.cn/u/{id}',
+  pomeet: 'https://www.pomeet.com/{id}',
 }
 
 module.exports = {
