@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614403799
+    "timestamp": 1614411580
   },
   "vtbs": [
     {
@@ -9488,7 +9488,7 @@
         "en": "RinMiyazono",
         "default": "jp"
       },
-      "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "c231520a-4f8b-54c1-b88c-80e6f4a34785",
@@ -28713,6 +28713,23 @@
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
+      "uuid": "d3436427-93ce-5566-ba67-be758c25e3b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "430589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德拉_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3fba33d2-829a-585c-b6d9-5514bc362324",
