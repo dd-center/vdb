@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614507389
+    "timestamp": 1614507416
   },
   "vtbs": [
     {
@@ -58167,6 +58167,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "fa249332-5958-585d-addb-219f60087249",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14200670",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "钟墨yoro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "64e8748a-7a65-5606-b041-bc74dd841c36",
