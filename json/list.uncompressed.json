@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614507416
+    "timestamp": 1614509660
   },
   "vtbs": [
     {
@@ -46426,6 +46426,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "8365a14a-bd0a-5a3b-b3a7-59cefa432c35",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1918118972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠猫MAKURA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6fce1fa4-4b0b-5326-aa63-831540ed7fc9",
