@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614506804
+    "timestamp": 1614507175
   },
   "vtbs": [
     {
@@ -25940,6 +25940,24 @@
         "jp": "小花衣ももみ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "92cf039b-0c19-5ab7-87f7-f5614c714c74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13740989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小葵花_Channel",
+        "default": "cn"
+      },
+      "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
     },
     {
       "uuid": "3f142481-3ca0-59ba-8575-05b1fc816568",
