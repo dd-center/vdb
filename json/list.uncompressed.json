@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614606815
+    "timestamp": 1614620955
   },
   "vtbs": [
     {
@@ -39112,23 +39112,6 @@
       "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
-      "uuid": "1ad8f24a-a79e-51a1-8ec7-acf925fcdb7a",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "8041302",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "污喵污喵哒",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "761f6d35-f64d-5b82-b81b-7b9d9d538c91",
       "type": "vtuber",
       "bot": false,
@@ -56940,6 +56923,24 @@
         "cn": "路普lupu_channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0c7d3a41-21ef-5d6e-ac1f-d4210049c3cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "646432928",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路理Kuri",
+        "default": "cn"
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "1efeeeff-9b31-5e4e-b469-17ad3c06f9f4",
