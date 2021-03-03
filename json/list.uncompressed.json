@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614667515
+    "timestamp": 1614753860
   },
   "vtbs": [
     {
@@ -22664,6 +22664,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "6a30096a-1be1-582a-9cf2-95770e7ad6e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7418277",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天宮霞-Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "886018f6-0059-5cc8-b403-10f3d3db1a8e",
