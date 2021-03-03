@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614754050
+    "timestamp": 1614754132
   },
   "vtbs": [
     {
@@ -48445,6 +48445,24 @@
         "cn": "窥酱",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a991220e-9822-53bb-8722-c73a43a45271",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524303239",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "立花结那Channel",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "aef28228-9d9d-5de6-9eeb-cd8fc5988c47",
