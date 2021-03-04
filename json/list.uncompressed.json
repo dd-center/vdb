@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614868703
+    "timestamp": 1614868898
   },
   "vtbs": [
     {
@@ -8202,6 +8202,23 @@
       "name": {
         "extra": [],
         "jp": "すいとーよ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "16925399-d355-57a9-9a79-f71319f662fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1544739300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "すごろくぞろめzorome",
         "default": "jp"
       }
     },
@@ -17405,6 +17422,23 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "c34c329c-0584-59bc-bc26-b2066abd32f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1951760606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十_Tsunashi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "62891a24-f9ea-55ea-80a4-cca7631a1622",
@@ -50114,6 +50148,23 @@
       "name": {
         "extra": [],
         "jp": "結心愛",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "3cf9d805-9996-52e9-a77f-01bf6d38c5bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "470959094",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "絲音ロイドOfficial",
         "default": "jp"
       }
     },
