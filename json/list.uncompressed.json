@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614841309
+    "timestamp": 1614868703
   },
   "vtbs": [
     {
@@ -41195,6 +41195,23 @@
         "extra": [],
         "ch": "灵虎爻休Channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "d6bdbb25-8719-52f9-b4a7-f029ad37aff9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1667334057",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灿鸟NOMU",
+        "default": "cn"
       }
     },
     {
