@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1614800472
+    "timestamp": 1614841309
   },
   "vtbs": [
     {
@@ -14989,6 +14989,23 @@
         "extra": [],
         "ch": "元气少年洛鸢",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "9329e3c3-2b3d-5ebd-8db1-b00571aafad0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "56721694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克利玫尔-Channel",
+        "default": "cn"
       }
     },
     {
