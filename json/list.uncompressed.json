@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615188118
+    "timestamp": 1615188250
   },
   "vtbs": [
     {
@@ -32016,6 +32016,23 @@
       }
     },
     {
+      "uuid": "53caef9b-71d9-51e3-929f-1a92cadb4c7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35231887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星海玲奈",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "222b1957-dbda-56ad-98ec-a2d67a0812bd",
       "type": "vtuber",
       "bot": false,
@@ -57756,6 +57773,23 @@
         "default": "cn"
       },
       "group": "ef62fd18-c22b-5457-9453-48819f385b8f"
+    },
+    {
+      "uuid": "9a33b092-3fd9-59ae-8950-574f1ad5d6a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524575529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迷小蝶Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02328e84-26e4-5b8f-a62d-009a3441393b",
