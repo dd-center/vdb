@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615188011
+    "timestamp": 1615188061
   },
   "vtbs": [
     {
@@ -1490,11 +1490,22 @@
           "id": "488979186",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCJSzxbt4Acel9JdeLiY7tJQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "DUST_CELL",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "DUST_CELL",
+        "jp": "DUSTCELL",
         "default": "cn"
       },
       "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
@@ -6783,11 +6794,22 @@
           "id": "502445912",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "kamitsubaki_jp",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCAOhUv73jM5iCpOhuJOQzxA",
+          "type": "official",
+          "platform": "youtube"
         }
       ],
       "name": {
         "extra": [],
         "cn": "kamitsubaki_jp",
+        "jp": "KAMITSUBAKI STUDIO",
         "default": "cn"
       },
       "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
@@ -7314,6 +7336,40 @@
         "default": "cn"
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
+      "uuid": "93f88179-7770-5730-ac6f-647ac485ac8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "586849155",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCqG0skCM-dky7KGazl9bLqA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "virtual_teresa",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "virtual_teresa",
+          "type": "official",
+          "platform": "instagram"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "te'resa",
+        "cn": "特雷莎",
+        "default": "en"
+      },
+      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
     },
     {
       "uuid": "1bc39d16-d102-54fb-a46d-dfebafc223e6",
@@ -11235,6 +11291,7 @@
       "name": {
         "extra": [],
         "jp": "ヰ世界情緒",
+        "cn": "异世界情绪",
         "default": "jp"
       },
       "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
@@ -27801,6 +27858,16 @@
           "id": "701522855",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UC7Gow-kNHq21oejSIDg9PAg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "KOKO__virtual",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
