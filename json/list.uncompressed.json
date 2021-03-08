@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615188088
+    "timestamp": 1615188118
   },
   "vtbs": [
     {
@@ -19128,6 +19128,23 @@
       "name": {
         "extra": [],
         "cn": "可愛的島風",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bff401a3-7bce-5ccd-9aef-8fa16bd18984",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12233377",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "史官ニアHosinonya",
         "default": "cn"
       }
     },
