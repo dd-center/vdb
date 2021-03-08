@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615187697
+    "timestamp": 1615188011
   },
   "vtbs": [
     {
@@ -358,6 +358,18 @@
         "cn": "AI气象虚拟主播小麦",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9d2dee5d-4e1d-5faa-8398-7e769bb0a7cc",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "jp": "ALIVE MUSIX",
+        "default": "jp"
+      },
+      "group": "9d2dee5d-4e1d-5faa-8398-7e769bb0a7cc"
     },
     {
       "uuid": "662dbdc8-fb08-51fe-bcf8-d4a88bb0bfc1",
@@ -31105,7 +31117,7 @@
           "platform": "bilibili"
         },
         {
-          "id": "MeaYoutuber",
+          "id": "MaiR_Hoshino",
           "type": "official",
           "platform": "twitter"
         },
@@ -31116,10 +31128,13 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "MaiR"
+        ],
         "jp": "星乃めあ",
         "default": "jp"
-      }
+      },
+      "group": "9d2dee5d-4e1d-5faa-8398-7e769bb0a7cc"
     },
     {
       "uuid": "9fd80eb8-af12-5a5a-ac02-949c566e0bb0",
@@ -43881,7 +43896,7 @@
           "platform": "youtube"
         },
         {
-          "id": "Virtual_rime",
+          "id": "RIM_virtual",
           "type": "official",
           "platform": "twitter"
         }
