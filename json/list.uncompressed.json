@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615273354
+    "timestamp": 1615273406
   },
   "vtbs": [
     {
@@ -13158,6 +13158,24 @@
       "group": "09c3a2e6-b252-5470-9171-f7dfe91d1920"
     },
     {
+      "uuid": "ec981127-f95e-5aa0-9b44-161807fdc388",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608702",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九十九Tsukumo",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "bce59e9c-b0be-56fd-9ac6-ddc2c9b3a8de",
       "type": "vtuber",
       "bot": false,
@@ -17200,6 +17218,24 @@
         "extra": [],
         "en": "Shaun",
         "default": "en"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "881e98cf-e161-5916-86a7-beb0942bdbe3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "勾檀Mayumi",
+        "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
@@ -42264,6 +42300,24 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "46cd107d-51ed-593d-a744-956177943d22",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬童Kendou",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "c8127b16-7c22-5f84-801a-0f62ced879f2",
