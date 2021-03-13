@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615564935
+    "timestamp": 1615639369
   },
   "vtbs": [
     {
@@ -63116,6 +63116,23 @@
       "name": {
         "extra": [],
         "cn": "鲸头鹳channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "29a5d8b2-047f-55af-8db2-a11b6a789369",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCFEd5V7VcxBPPcuMGpmvkQA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鳥羽樂奈",
         "default": "cn"
       }
     },
