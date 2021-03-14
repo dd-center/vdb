@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615707633
+    "timestamp": 1615707739
   },
   "vtbs": [
     {
@@ -52406,6 +52406,23 @@
         "default": "cn"
       },
       "group": "227ed47e-4565-5692-b1cc-154463a73773"
+    },
+    {
+      "uuid": "f9e022b4-b20b-53e1-9f70-94045665cc55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1516083",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Aeroides艾茵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "af33a662-e304-5ee4-a311-836de6bf3252",
