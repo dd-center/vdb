@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615639369
+    "timestamp": 1615706900
   },
   "vtbs": [
     {
@@ -5079,6 +5079,25 @@
         "default": "en"
       },
       "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f"
+    },
+    {
+      "uuid": "0e2e2085-33c6-5205-a9e2-81702f20a7b0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "593930090",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星露社",
+        "en": "SSR",
+        "default": "cn"
+      },
+      "group": "0e2e2085-33c6-5205-a9e2-81702f20a7b0"
     },
     {
       "uuid": "0de140ce-51fc-5a24-9d16-841decbb349c",
@@ -31440,6 +31459,26 @@
         "default": "cn"
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
+    },
+    {
+      "uuid": "13611851-a9e5-5f43-a1cb-fa4999b92bb4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "82717585",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星奈",
+        "jp": "セナ",
+        "en": "Sena",
+        "default": "cn"
+      },
+      "group": "0e2e2085-33c6-5205-a9e2-81702f20a7b0"
     },
     {
       "uuid": "9c0906d3-d0e8-5414-8232-e919e6586df2",
