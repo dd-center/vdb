@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615707872
+    "timestamp": 1615708082
   },
   "vtbs": [
     {
@@ -2406,6 +2406,24 @@
         "cn": "JohnkoOfficial",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3ce0da08-5023-514a-b456-6a5bd9d2a118",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24990697",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Juno_阿尔卡特",
+        "default": "cn"
+      },
+      "group": "779b8800-af13-58ba-a384-bebeed4428c6"
     },
     {
       "uuid": "88c223e0-cbda-5829-852c-f272142fec71",
@@ -21336,6 +21354,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "90528643-33d9-57e1-866d-84368ccaebfc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487247653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏怿妉Channel",
+        "default": "cn"
+      },
+      "group": "779b8800-af13-58ba-a384-bebeed4428c6"
     },
     {
       "uuid": "e01eea10-c7d1-53f1-9ab9-49cb068963e3",
@@ -51022,6 +51058,24 @@
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
+      "uuid": "1216de89-6261-5bda-bd7b-75717679b5d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1941749",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮铒",
+        "default": "cn"
+      },
+      "group": "779b8800-af13-58ba-a384-bebeed4428c6"
+    },
+    {
       "uuid": "1b3e0e6e-daf5-5ab5-944e-50232de029b8",
       "type": "vtuber",
       "bot": false,
@@ -57589,6 +57643,24 @@
         "default": "cn"
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
+    },
+    {
+      "uuid": "779b8800-af13-58ba-a384-bebeed4428c6",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7663811",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辉夙星人类文明博物馆",
+        "default": "cn"
+      },
+      "group": "779b8800-af13-58ba-a384-bebeed4428c6"
     },
     {
       "uuid": "199fa2ff-e1d8-5ea0-81c0-e127fe8b79c5",
