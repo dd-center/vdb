@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615708082
+    "timestamp": 1615708966
   },
   "vtbs": [
     {
@@ -10939,6 +10939,24 @@
       }
     },
     {
+      "uuid": "40df3d9d-f8d9-5bb7-8228-aac3d2d57bd9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "243670344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "モモOfficial",
+        "default": "cn"
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
+    },
+    {
       "uuid": "fee956d3-7e92-5f3a-9993-d7fd94921ca7",
       "type": "vtuber",
       "bot": false,
@@ -11916,23 +11934,6 @@
         "extra": [],
         "jp": "七瀬すばる",
         "default": "jp"
-      }
-    },
-    {
-      "uuid": "145943ac-43bc-54cd-8924-60a0e51c372c",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "39832705",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "七瀬瑠璃Official",
-        "default": "cn"
       }
     },
     {
@@ -19152,23 +19153,6 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
-    },
-    {
-      "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "14248896",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "可愛的島風",
-        "default": "cn"
-      }
     },
     {
       "uuid": "bff401a3-7bce-5ccd-9aef-8fa16bd18984",
@@ -34068,6 +34052,24 @@
       }
     },
     {
+      "uuid": "e39a95fb-aad4-5a96-a350-9cb33f9ebec0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "703125989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见里小夜Official",
+        "default": "cn"
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
+    },
+    {
       "uuid": "8dfa2db5-0716-52ed-b2bd-d70e9774b1c6",
       "type": "vtuber",
       "bot": false,
@@ -39544,6 +39546,24 @@
         "default": "cn"
       },
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
+    },
+    {
+      "uuid": "bd53a59d-de9f-5adb-acf3-8e1c31605cc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "243669470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沈澈HarukaOfficial",
+        "default": "cn"
+      },
+      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "23c8af25-32d5-504f-8a2f-1733afcfeaa3",
@@ -47547,24 +47567,6 @@
         "cn": "神代るるるOfficial",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "1e0ef080-be42-5d4a-92a9-015e21ed5683",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "703125989",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "神代澪月Official",
-        "default": "cn"
-      },
-      "group": "a4f5b5e7-009f-5164-abb8-e2bc4e580086"
     },
     {
       "uuid": "839cda77-8c97-54ac-886c-4f7082f9aa10",
