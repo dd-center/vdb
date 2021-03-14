@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1615707538
+    "timestamp": 1615707633
   },
   "vtbs": [
     {
@@ -15543,6 +15543,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "8e09ec71-f466-5ce3-b3b3-65c2a0931ef3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384348692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔尤好困w",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cfbe6fd2-00b6-57cc-8025-acd40806f2f5",
@@ -42285,6 +42302,23 @@
         "default": "jp"
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
+      "uuid": "447c504a-88dc-53ca-9749-d631538c9546",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14350494",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬山奈奈Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8f79294c-f6ea-588f-86ef-7ec5ea897594",
