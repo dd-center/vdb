@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616022855
+    "timestamp": 1616023116
   },
   "vtbs": [
     {
@@ -32345,6 +32345,23 @@
         "default": "cn"
       },
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
+      "uuid": "0e4eb917-77f2-555a-b386-fe0b1b62b5bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "274710184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星糖-Starto",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b7149432-57d5-5876-9d0b-122298e7d5ea",
