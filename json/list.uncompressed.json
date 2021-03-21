@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616297691
+    "timestamp": 1616297767
   },
   "vtbs": [
     {
@@ -5814,6 +5814,24 @@
         "cn": "VTuberExplorer",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "009807ef-5248-5098-a3f1-4a9a8ad297e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1636327445",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "VWP_虚拟魔女现象",
+        "default": "cn"
+      },
+      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
     },
     {
       "uuid": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
