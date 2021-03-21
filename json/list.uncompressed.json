@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616297471
+    "timestamp": 1616297512
   },
   "vtbs": [
     {
@@ -32707,6 +32707,23 @@
       "name": {
         "extra": [],
         "cn": "星野ニア_Nya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b01d3943-fe0e-52d4-8619-cba611db68e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "143079",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野ニア_专栏",
         "default": "cn"
       }
     },
