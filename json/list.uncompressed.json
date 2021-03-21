@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616297112
+    "timestamp": 1616297471
   },
   "vtbs": [
     {
@@ -32724,6 +32724,23 @@
       "name": {
         "extra": [],
         "cn": "星野ニア_只会干拉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "811d3c98-95cc-5922-8c0d-14fa97e8ec0a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "200178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野ニア_愛瑠",
         "default": "cn"
       }
     },
