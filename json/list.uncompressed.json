@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616023116
+    "timestamp": 1616297112
   },
   "vtbs": [
     {
@@ -5482,6 +5482,23 @@
       "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
     },
     {
+      "uuid": "1949c728-51c5-5a34-bf82-62b500439933",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1787730465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Tone_Nanairo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "093738a6-1f21-5910-86d3-2a00c029afd6",
       "type": "group",
       "bot": false,
@@ -8286,6 +8303,23 @@
         "jp": "しぐれうい",
         "cn": "時雨羽衣",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "5857f419-8376-5427-b1bb-445382e1b13b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1296113267",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "しらたまOfficial",
+        "default": "cn"
       }
     },
     {
@@ -12634,6 +12668,23 @@
       }
     },
     {
+      "uuid": "2fbf25f1-e865-55dd-8fc6-9f0bd8d55f07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1220621189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "东堂比乃Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3182f463-a857-506f-a7dd-fc1ad64ea15a",
       "type": "vtuber",
       "bot": false,
@@ -13543,6 +13594,23 @@
       }
     },
     {
+      "uuid": "26e6171f-338e-5698-b875-3e03cb98935c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1676482866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云抚子_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "97cc4ecc-1ca2-50c7-88ea-7eef0fe61f23",
       "type": "vtuber",
       "bot": false,
@@ -14363,6 +14431,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "eb9d7828-06ad-5302-9150-669c4d75a351",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "404453715",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊欧io_channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1136fefe-98cf-5fb5-95ca-a7c5d09e8262",
@@ -23358,7 +23443,24 @@
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
     },
     {
-      "uuid": "1b4a586e-c421-5c72-9405-6e4b1249d581",
+      "uuid": "d60baf25-b068-5d92-9f5a-b4deb7e22615",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25378423",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天音りりあOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "90c14bd9-4f7f-55b6-86fd-06ab43a37758",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -23370,7 +23472,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "天音りりあOFFICIAL",
+        "cn": "天音莉莉娅_official",
         "default": "cn"
       }
     },
@@ -25133,23 +25235,6 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
-    },
-    {
-      "uuid": "47d4f805-040f-535a-9b99-7af2271da557",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "404453715",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "安陵eo_Channel",
-        "default": "cn"
-      }
     },
     {
       "uuid": "40e5c1e1-ab21-52f5-b0b2-ba58a96c7031",
@@ -43586,6 +43671,23 @@
       "name": {
         "extra": [],
         "cn": "獄月_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b082baf2-30df-58f0-9a11-3527e37ed22f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1356474660",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "獅子姫萝蜜欧Official",
         "default": "cn"
       }
     },
