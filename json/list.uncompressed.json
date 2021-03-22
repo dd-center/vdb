@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616297767
+    "timestamp": 1616432600
   },
   "vtbs": [
     {
@@ -31346,6 +31346,23 @@
       }
     },
     {
+      "uuid": "b14abcc3-abdd-5644-9c06-33ae8fbe3fa2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1705007318",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星ノ宮春鈴_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d96420a8-2276-564b-b02d-7243347aa5a5",
       "type": "vtuber",
       "bot": false,
@@ -36265,7 +36282,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "472631497",
+          "id": "1093614539",
           "type": "official",
           "platform": "bilibili"
         },
