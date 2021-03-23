@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616432600
+    "timestamp": 1616502114
   },
   "vtbs": [
     {
@@ -7062,6 +7062,23 @@
       "name": {
         "extra": [],
         "cn": "ls-77Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "76fc3fdb-6d0e-54b7-971c-dcd186e594c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "26541399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "lz鹿子",
         "default": "cn"
       }
     },
@@ -19256,6 +19273,23 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14248896",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可愛的島風",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bff401a3-7bce-5ccd-9aef-8fa16bd18984",
