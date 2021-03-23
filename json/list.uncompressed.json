@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616503822
+    "timestamp": 1616503797
   },
   "vtbs": [
     {
@@ -14936,23 +14936,6 @@
         "default": "cn"
       },
       "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
-    },
-    {
-      "uuid": "f74098de-7f53-5ccc-b1a8-43179f40c820",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "341190",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "佐佐子MIAO",
-        "default": "cn"
-      }
     },
     {
       "uuid": "70a7f990-327b-55d5-a56b-eda0b0f88c40",
@@ -64594,6 +64577,23 @@
       "name": {
         "extra": [],
         "cn": "黑乃红叶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef22df06-5811-5d31-9c70-c5bdddc49581",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "341190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑叔叔az",
         "default": "cn"
       }
     },
