@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616501991
+    "timestamp": 1616502947
   },
   "vtbs": [
     {
@@ -8439,6 +8439,24 @@
         "jp": "すやすやネムノキ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "000b4a4f-32ee-555b-92a8-1cb9183073d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20659882",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "せいりゅう-孟章",
+        "default": "cn"
+      },
+      "group": "da74be58-904f-586f-99f3-49f26c496892"
     },
     {
       "uuid": "9bd543ff-fa35-5323-8ea9-511f0f6d3c9b",
@@ -19275,6 +19293,23 @@
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
+      "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14248896",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可愛的島風",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bff401a3-7bce-5ccd-9aef-8fa16bd18984",
       "type": "vtuber",
       "bot": false,
@@ -29242,6 +29277,23 @@
       "name": {
         "extra": [],
         "cn": "德拉_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "49fa578b-49b9-5e35-81f2-64a70812351c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "455418786",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德沃莉DevolyChannel",
         "default": "cn"
       }
     },
@@ -56815,6 +56867,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "d59f9779-e2a8-5290-ab7b-f9e24efe6be0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "393885664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺可Noko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "314dec73-d590-5ea4-8a95-6f679d513691",
