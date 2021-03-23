@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616503041
+    "timestamp": 1616503632
   },
   "vtbs": [
     {
@@ -51439,40 +51439,6 @@
       "group": "aebb8a27-96ad-575f-99f7-485fb958d709"
     },
     {
-      "uuid": "ca87befe-2014-5f0d-a19c-bf0715e3f39b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "UCwBMSUVMvck6EaBD0f1tHsQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "4198849",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "tsuzurime",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "D392F2EF4FE51832_8b8127",
-          "type": "official",
-          "platform": "userlocal"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "綴目日傘",
-        "cn": "缀目日伞",
-        "default": "jp"
-      },
-      "group": "ad652370-a736-537f-aa70-6ee528138364"
-    },
-    {
       "uuid": "bab88359-5230-508d-a6b3-76caca879350",
       "type": "vtuber",
       "bot": false,
@@ -53717,6 +53683,23 @@
         "default": "cn"
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd"
+    },
+    {
+      "uuid": "656aacdd-11c2-51ca-8ce2-e445c548d5b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1393211314",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花香咲Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3fce0056-622a-5b80-bc9d-860a197f2453",
@@ -55980,6 +55963,27 @@
       "name": {
         "extra": [],
         "cn": "虚研社",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+    },
+    {
+      "uuid": "9fd8ac59-1fbb-5bf3-814a-8d0274440934",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "636674318",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "虚研社经纪人",
+          "杨宝"
+        ],
+        "cn": "虚研社经纪人Official",
         "default": "cn"
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
@@ -60902,6 +60906,23 @@
         "jp": "雪乃せかい",
         "cn": "雪乃世界",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9117174c-dce7-596d-b5b3-cc048b4b6d4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1584244834",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪乃衣Official",
+        "default": "cn"
       }
     },
     {
