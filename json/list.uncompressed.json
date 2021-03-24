@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616625016
+    "timestamp": 1616625157
   },
   "vtbs": [
     {
@@ -925,6 +925,23 @@
         "extra": [],
         "en": "Ayamy",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "aaef5a48-2e54-5d14-b971-b036162892f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2122846030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AyayaChannel",
+        "default": "cn"
       }
     },
     {
@@ -17791,23 +17808,6 @@
       }
     },
     {
-      "uuid": "adcd0611-8ab4-56fc-86fe-36d3846a4e17",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2122846030",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "十六夜绫_official",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "b0528dcb-ac6c-500b-a811-e8c31107f0c0",
       "type": "vtuber",
       "bot": false,
@@ -17866,6 +17866,23 @@
         "extra": [],
         "jp": "千代家ぷりり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "793fc7cd-ef78-5ded-8b5d-7d8396b586c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1951478555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千夜白_Channel",
+        "default": "cn"
       }
     },
     {
@@ -57374,6 +57391,23 @@
       }
     },
     {
+      "uuid": "7abe9e81-a6fe-550b-9ef2-4320bc0fddfe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18070579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝贝web",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fe9eaf7b-4fd9-5e15-bde2-c9425ac84134",
       "type": "vtuber",
       "bot": false,
@@ -62831,6 +62865,23 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "6d7f6154-cc0e-5b2b-81ca-1b4e57a94201",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20873473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风野慵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "25b56512-3bef-5817-9b96-05896f15ba94",
