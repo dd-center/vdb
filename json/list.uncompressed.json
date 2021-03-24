@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616625157
+    "timestamp": 1616625257
   },
   "vtbs": [
     {
@@ -49129,6 +49129,24 @@
       }
     },
     {
+      "uuid": "4aa28c3a-7e37-5116-8355-ea333c6d7f76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2507525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "空格子",
+        "default": "CN"
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
+    },
+    {
       "uuid": "f9db0e50-ec5a-5c0f-b621-d746cf5b2502",
       "type": "vtuber",
       "bot": false,
@@ -52629,6 +52647,24 @@
         "cn": "艾亚灰",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e0bc55d5-295d-5027-84e7-b714a8145245",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "艾什",
+        "default": "CN"
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
     },
     {
       "uuid": "ad1825cc-9a78-5d30-95d1-3230f92ee3d3",
