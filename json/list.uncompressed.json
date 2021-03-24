@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616624851
+    "timestamp": 1616625016
   },
   "vtbs": [
     {
@@ -47223,6 +47223,24 @@
       }
     },
     {
+      "uuid": "9e3d4002-1ed5-5afa-976f-5e1abedd7128",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1846208014",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盖乃希亞Galaxy",
+        "default": "cn"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
       "uuid": "5a0e66ff-14ca-51f8-8c82-642e5cff1511",
       "type": "vtuber",
       "bot": false,
@@ -57642,6 +57660,24 @@
         "cn": "赫德维希",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "411fa2fb-1a3b-53bd-b545-40d519233737",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "47791562",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赫拉Kris",
+        "default": "cn"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
       "uuid": "a68ed722-3623-5c8e-b1d4-cb68d5699580",
