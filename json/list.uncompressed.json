@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616849782
+    "timestamp": 1616850063
   },
   "vtbs": [
     {
@@ -20832,6 +20832,23 @@
         "default": "cn"
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
+      "uuid": "e1e197b8-60c1-5c76-bc91-f39a31834bff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614532247",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四叶纯奈",
+        "default": "cn"
+      }
     },
     {
       "uuid": "14e80d53-3671-545a-894f-814b7e45fb5e",
