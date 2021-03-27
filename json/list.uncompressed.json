@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616625206
+    "timestamp": 1616849782
   },
   "vtbs": [
     {
@@ -37777,6 +37777,23 @@
       }
     },
     {
+      "uuid": "4c18eca2-b8fe-53c7-9347-da9bc2323a59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2046812",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨梨子Ririko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5e2ece76-619a-5619-9d76-738a73c2250c",
       "type": "vtuber",
       "bot": false,
@@ -45537,6 +45554,23 @@
       }
     },
     {
+      "uuid": "d44ac353-2bec-5f4d-b256-35d1a83a548e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1432226765",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "癒ココロ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ba6ce86e-4215-5896-84c6-0b6da7157b4c",
       "type": "vtuber",
       "bot": false,
@@ -49127,6 +49161,24 @@
         "cn": "空条粉喵Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4aa28c3a-7e37-5116-8355-ea333c6d7f76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2507525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "空格子",
+        "default": "CN"
+      },
+      "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
     },
     {
       "uuid": "f9db0e50-ec5a-5c0f-b621-d746cf5b2502",
@@ -57153,7 +57205,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "675597",
+          "id": "66692456",
           "type": "official",
           "platform": "bilibili"
         }
