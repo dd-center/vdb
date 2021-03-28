@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616850063
+    "timestamp": 1616913289
   },
   "vtbs": [
     {
@@ -3494,6 +3494,23 @@
         "default": "jp"
       },
       "group": "1c22567f-c174-5e1c-b4d4-78389bf39d09"
+    },
+    {
+      "uuid": "c1350a57-3d3d-59c5-8af8-08dab87dee70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2182817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MomoHippo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3ce05797-8301-5252-9d99-aa3f85a8b35c",
