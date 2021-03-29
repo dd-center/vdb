@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617058953
+    "timestamp": 1617059088
   },
   "vtbs": [
     {
@@ -62473,6 +62473,23 @@
       "name": {
         "extra": [],
         "cn": "静夜夜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0337574b-d6c0-57d4-8372-5a7be52f4af8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "298523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "静电棉花糖",
         "default": "cn"
       }
     },
