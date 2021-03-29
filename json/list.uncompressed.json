@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1616913289
+    "timestamp": 1617058953
   },
   "vtbs": [
     {
@@ -2319,6 +2319,25 @@
         "default": "cn"
       },
       "group": "98d092b6-00c1-5728-ac4b-6ace0d407d57"
+    },
+    {
+      "uuid": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "96609619",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "IPwork",
+        "cn": "IP社",
+        "default": "en"
+      },
+      "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
     },
     {
       "uuid": "f30adaff-4cda-5702-89d5-5c09c07533f7",
@@ -8980,7 +8999,8 @@
         "extra": [],
         "cn": "ふたもちやまいOfficial",
         "default": "cn"
-      }
+      },
+      "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
     },
     {
       "uuid": "8f916d09-a4d1-5843-b736-d1f7133f4bbf",
@@ -23122,6 +23142,23 @@
       "group": "53ad5ef0-5125-56c0-99c1-8c4352b7afbe"
     },
     {
+      "uuid": "66714ea6-ddff-514a-9c31-4212abbad045",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1435332583",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天守娜可Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b888a6bc-de25-5776-8744-aedc6d9155d7",
       "type": "vtuber",
       "bot": false,
@@ -29775,6 +29812,23 @@
       "name": {
         "extra": [],
         "cn": "恶魔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "30978d42-725c-5682-ae83-208596251f96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1180299511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恶魔乃希碧Official",
         "default": "cn"
       }
     },
@@ -63436,7 +63490,8 @@
         "extra": [],
         "cn": "骨魅むくろOfficial",
         "default": "cn"
-      }
+      },
+      "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
     },
     {
       "uuid": "c6c8b9c3-938c-5070-be34-d2583d7da05d",
@@ -64007,6 +64062,24 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "b6474f66-2d7e-5197-9e2c-1508417a4094",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1724360903",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲁卡波尔卡Official",
+        "default": "cn"
+      },
+      "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
     },
     {
       "uuid": "a22d805c-a956-5deb-ac3b-ff17b98ea829",
