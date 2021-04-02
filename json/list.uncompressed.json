@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617334296
+    "timestamp": 1617335866
   },
   "vtbs": [
     {
@@ -2889,6 +2889,25 @@
         "ch": "LoneliteChannel",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "5e38bdf6-be61-55df-9c48-45bf6220dda3",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "616762266",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Lounge_LUTUBO",
+        "en": "Lounge_LUTUBO",
+        "default": "cn"
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "448c9cb0-32d9-554e-9da8-b47f0e26ffed",
@@ -10498,6 +10517,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "3d5424c3-2b11-5c1c-aab1-d11b6677ed98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "303208501",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ヌコ-Nuko",
+        "default": "jp"
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "d150c9e8-a4de-559f-a9d3-10b514a701fe",
@@ -37157,7 +37194,8 @@
         "extra": [],
         "cn": "桃沢白夜_channel",
         "default": "cn"
-      }
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "bb85b1f0-621f-5193-9d7f-3557e863962a",
@@ -37548,6 +37586,24 @@
         "jp": "桜美ゆな",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "2bc1c497-8c71-56db-b177-b1cbb76b822b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22411036",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桥A_channel",
+        "default": "cn"
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "297f8f30-80d3-5976-abb2-2f3f78feaa17",
@@ -37990,7 +38046,7 @@
         "cn": "森ノ目律channel",
         "default": "cn"
       },
-      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "ab22a8a8-8ae7-5346-8bd2-b917bbfca2ad",
@@ -50427,6 +50483,24 @@
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
     },
     {
+      "uuid": "e340c432-1c78-58a6-b5b0-f1062feac13e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1308393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紅_Kurenai",
+        "default": "cn"
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
+    },
+    {
       "uuid": "8d5e2d4d-329d-56d2-a09f-0e34736e096b",
       "type": "vtuber",
       "bot": false,
@@ -58457,7 +58531,8 @@
         "extra": [],
         "cn": "辻蓝佳音瑠_channel",
         "default": "cn"
-      }
+      },
+      "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
       "uuid": "b732f0df-c8b0-5840-9f6a-c8316dbc622b",
