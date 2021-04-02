@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617335866
+    "timestamp": 1617367279
   },
   "vtbs": [
     {
@@ -20955,13 +20955,7 @@
       "uuid": "b41524d6-4019-5079-9ca6-4def0450f551",
       "type": "vtuber",
       "bot": false,
-      "accounts": [
-        {
-          "id": "1302200",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
+      "accounts": [],
       "name": {
         "extra": [],
         "cn": "四季侦探团",
@@ -25446,6 +25440,23 @@
         "extra": [],
         "ch": "安心院菠萝子_channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "09047b2f-4de5-529c-a165-4ec1e435c115",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1377219279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安晚aWa",
+        "default": "cn"
       }
     },
     {
@@ -48903,6 +48914,23 @@
       }
     },
     {
+      "uuid": "eea5bf37-9b3b-5f46-ab9d-2bc8b783e11b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1661076923",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "私Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9662f154-39df-5d74-887b-a566cd4c1d2b",
       "type": "vtuber",
       "bot": false,
@@ -56170,6 +56198,23 @@
         "extra": [],
         "jp": "薬師寺朱雀",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "deaac30b-5fe9-50b6-805d-78006394c9d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9882877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藍芽子_Aimeko",
+        "default": "cn"
       }
     },
     {
