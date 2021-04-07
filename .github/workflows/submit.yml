@@ -54,7 +54,7 @@ jobs:
     - name: Enable Auto Merge
       run: node autoMerge.js
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.gtoken }}
         NUMBER: ${{ steps.open-pr.outputs.pr_number }}
 
   publish:
