@@ -8,7 +8,7 @@ const client = github.getOctokit(GITHUB_TOKEN)
 
 client.graphql(`
   mutation(
-    $pullRequestId: ID!
+    $NUMBER: ID!
   ) {
       enablePullRequestAutoMerge(input: {
         pullRequestId: $NUMBER
