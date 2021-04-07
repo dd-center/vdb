@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617823085
+    "timestamp": 1617830752
   },
   "vtbs": [
     {
@@ -16403,6 +16403,23 @@
       "name": {
         "extra": [],
         "cn": "冬泽枫",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "14a20e29-8fae-50e2-9a2f-b72fac719b12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12945093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬雪もも",
         "default": "cn"
       }
     },
