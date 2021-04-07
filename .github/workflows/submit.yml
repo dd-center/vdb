@@ -27,7 +27,7 @@ jobs:
     - name: Close Issue
       run: node closeIssue.js
       env:
-        GITHUB_TOKEN: ${{ secrets.gtoken }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NUMBER: ${{ github.event.number }}
 
   pr:
