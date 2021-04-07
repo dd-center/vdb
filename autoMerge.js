@@ -13,9 +13,13 @@ client.graphql(`{
     }
   }
 }
-`).then(({ repository: { pullRequest: { id } } }) => client.graphql(`
-  mutation( $id: ID! ) {
-    enablePullRequestAutoMerge(input: { pullRequestId: $id }) {
-      clientMutationId
-    }
-  }`, { id }))
+`).then(({ repository: { pullRequest: { id } } }) => {
+  console.log('pr id', id)
+  return client.graphql(`
+    mutation( $id: ID! ) {
+      enablePullRequestAutoMerge(input: { pullRequestId: $id }) {
+        clientMutationId
+      }
+    }`, { id })
+})
+  .then(console.log)
