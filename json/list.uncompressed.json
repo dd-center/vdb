@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617821864
+    "timestamp": 1617822379
   },
   "vtbs": [
     {
@@ -52567,6 +52567,23 @@
         "extra": [],
         "jp": "老爷子ちゃんぬ_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "b120488f-1bf2-5313-b0d1-f872552878f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34423885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "耳可Milo",
+        "default": "cn"
       }
     },
     {
