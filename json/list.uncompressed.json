@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1617716687
+    "timestamp": 1617812344
   },
   "vtbs": [
     {
@@ -39230,6 +39230,23 @@
         "extra": [],
         "jp": "櫻歌ミコ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "18daa32a-7187-546b-b170-0a95bf6c57af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38808836",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "次伞tks_Channel",
+        "default": "cn"
       }
     },
     {
