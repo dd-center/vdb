@@ -36,6 +36,14 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
+    - name: Use Node.js 13
+      uses: actions/setup-node@v1
+      with:
+        node-version: '13'
+
+    - name: npm install
+      run: npm install
+
     - name: Create Pull Request
       id: open-pr
       uses: repo-sync/pull-request@v2
@@ -44,7 +52,7 @@ jobs:
         pr_label: "bot"
 
     - name: Enable Auto Merge
-      run: node closeIssue.js
+      run: node autoMerge.js
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NUMBER: ${{ steps.open-pr.outputs.pr_number }}
