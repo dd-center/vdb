@@ -17,7 +17,7 @@ client.graphql(`{
   console.log('pr id', id)
   return client.graphql(`
     mutation( $id: ID! ) {
-      enablePullRequestAutoMerge(input: { pullRequestId: $id }) {
+      enablePullRequestAutoMerge(input: { pullRequestId: $id, authorEmail: "nanashi <example@example.com>" }) {
         clientMutationId
       }
     }`, { id })
