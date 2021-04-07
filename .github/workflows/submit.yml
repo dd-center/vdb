@@ -37,10 +37,17 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Create Pull Request
+      id: open-pr
       uses: repo-sync/pull-request@v2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         pr_label: "bot"
+
+    - name: Enable Auto Merge
+      run: node closeIssue.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
 
   publish:
     if: github.event_name == 'issues'
