@@ -12,5 +12,7 @@ client.graphql(`
   ) {
       enablePullRequestAutoMerge(input: {
         pullRequestId: $NUMBER
-      }) {}
+      }) {
+        clientMutationId
+      }
   }`, { NUMBER })
