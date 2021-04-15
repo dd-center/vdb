@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1618352200
+    "timestamp": 1618461093
   },
   "vtbs": [
     {
@@ -7429,6 +7429,36 @@
         "en": "poyana",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "_proproduction",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "i/user/1283683570758737921",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCIMyj16adW8WSZo9nzMgfDA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "プロプロプロダクション",
+        "en": "propro production",
+        "cn": "propro事务所",
+        "default": "jp"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "4497c9bc-0b31-5122-9180-6dd60eaf157d",
@@ -29901,6 +29931,41 @@
         "cn": "忘忧翎Luyori",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "13c4701b-f815-5815-8788-c6d11df23601",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1647299264",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "koinoya_mai",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "i/user/twitter.com/i/user/1361877309846740994",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCgttI8QfdWhvd3SRtCYcJzw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恋乃夜舞",
+        "jp": "恋乃夜まい",
+        "en": "Koinoya Mai",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "2367f849-39f8-57f5-875d-a75b6e232f9b",
