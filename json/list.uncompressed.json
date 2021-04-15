@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1618461551
+    "timestamp": 1618461716
   },
   "vtbs": [
     {
@@ -254,6 +254,24 @@
         "en": "A.I.D",
         "default": "en"
       }
+    },
+    {
+      "uuid": "5c3f4d98-1348-52e0-8a14-832879275933",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "55096752",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ACGN Project",
+        "default": "cn"
+      },
+      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
     },
     {
       "uuid": "c70b8ae3-8066-5bdb-9520-1e262e917b32",
@@ -25878,6 +25896,24 @@
       "group": "227ed47e-4565-5692-b1cc-154463a73773"
     },
     {
+      "uuid": "1383a3cd-2d96-5b86-8f8f-1a5035fce2c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "495707763",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫连月Official",
+        "default": "cn"
+      },
+      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
+    },
+    {
       "uuid": "44cf2e62-65d6-5e7f-832a-d82b0f30a7a6",
       "type": "vtuber",
       "bot": false,
@@ -46415,6 +46451,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "21b2290a-72cf-572a-bf95-5bf09ebc0c55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1844102339",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白怜Official",
+        "default": "cn"
+      },
+      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
     },
     {
       "uuid": "2dadeff6-1ad1-508c-ba5c-732f4f10bb21",
