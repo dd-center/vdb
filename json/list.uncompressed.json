@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1618893959
+    "timestamp": 1618997862
   },
   "vtbs": [
     {
@@ -28233,6 +28233,23 @@
       "name": {
         "extra": [],
         "cn": "布明因子_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72b4f8e6-d25d-525a-8594-d3630442d1c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15641218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帅比笙歌超可爱OvO",
         "default": "cn"
       }
     },
