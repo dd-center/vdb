@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1618997862
+    "timestamp": 1619172711
   },
   "vtbs": [
     {
@@ -5342,6 +5342,24 @@
         "cn": "Seikyuu-VA",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e1d174c3-b4ff-5f71-ac25-da6583bc904b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351782431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞弥娅Semia",
+        "default": "cn"
+      },
+      "group": "de5c38bf-6baa-557a-ab50-70021dfd22b1"
     },
     {
       "uuid": "ec52bd47-9b61-5ee1-b388-573e64d1fc1f",
