@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231631
+    "timestamp": 1619231831
   },
   "vtbs": [
     {
@@ -35471,6 +35471,23 @@
         "extra": [],
         "jp": "朝比奈蒼",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "7492e7bd-26a9-5ae0-9bdf-7854961a619d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1589117610",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝海沫霓",
+        "default": "cn"
       }
     },
     {
