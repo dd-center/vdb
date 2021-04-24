@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231545
+    "timestamp": 1619231600
   },
   "vtbs": [
     {
@@ -39574,6 +39574,26 @@
         "default": "cn"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "d11f293c-1da7-5718-acc1-bed02a0275da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1382784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "橘音kitsune",
+          "橘音"
+        ],
+        "cn": "橘音kkkitsune",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d61fe53f-638a-5498-bc01-5b48723ad242",
