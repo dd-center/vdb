@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619232125
+    "timestamp": 1619239509
   },
   "vtbs": [
     {
@@ -25561,6 +25561,24 @@
         "cn": "守矢葵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "37cef983-86c5-5b88-b69f-c8751ed82535",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626173760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安努比斯Annubis",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "80908b90-43bf-5721-997d-f8174d8fbfb5",
