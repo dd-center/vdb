@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231853
+    "timestamp": 1619231887
   },
   "vtbs": [
     {
@@ -7139,6 +7139,23 @@
       "name": {
         "extra": [],
         "cn": "karory",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "17d65e9c-6726-5a58-abab-e6587a430ab6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "437786939",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "keii萤",
         "default": "cn"
       }
     },
