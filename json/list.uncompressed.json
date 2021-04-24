@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231831
+    "timestamp": 1619231853
   },
   "vtbs": [
     {
@@ -28407,6 +28407,25 @@
       "name": {
         "extra": [],
         "cn": "希普珊瑚剧团",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c22e82ea-5c12-55fd-8798-45a598a6c75a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1716998616",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希欧",
+        "en": "Chiot",
+        "fr": "Chiot",
         "default": "cn"
       }
     },
