@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231362
+    "timestamp": 1619231545
   },
   "vtbs": [
     {
@@ -37401,6 +37401,23 @@
         "extra": [],
         "jp": "栄野ゆめ曖",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "6be99fe5-2c58-5d2c-b0e5-6a431ab7ba6f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "303246676",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栖苑太困辽",
+        "default": "cn"
       }
     },
     {
