@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619231920
+    "timestamp": 1619231966
   },
   "vtbs": [
     {
@@ -47013,6 +47013,23 @@
       "name": {
         "extra": [],
         "cn": "白白_Anlessya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "54859d44-0052-5447-b9f9-d2abc118b5c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22156788",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白百佳弥_Channel",
         "default": "cn"
       }
     },
