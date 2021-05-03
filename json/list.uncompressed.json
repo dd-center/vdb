@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1619239509
+    "timestamp": 1620058230
   },
   "vtbs": [
     {
@@ -15471,6 +15471,23 @@
         "default": "cn"
       },
       "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
+    },
+    {
+      "uuid": "1d36ddd4-3edf-5fff-91dc-c29f8eda7af9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1898207569",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "倉田千夏Chinatsu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "674c21dd-77db-5937-bccc-7b0899d82f16",
@@ -36177,6 +36194,23 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "20c971e9-3f6c-5760-b4bf-eb8b58c6a094",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "297360465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "李华LiHua_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "53ba8d10-b657-5232-8a93-ea2373f709c9",
