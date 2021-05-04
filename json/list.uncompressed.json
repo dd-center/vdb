@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620129385
+    "timestamp": 1620129424
   },
   "vtbs": [
     {
@@ -34500,6 +34500,23 @@
         "default": "cn"
       },
       "group": "d71b4174-d0c3-5d9d-ac1f-bef92136f290"
+    },
+    {
+      "uuid": "7d81f1a4-4310-5558-826b-0b665c9850bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6455916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暮色战袍",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e37a4d5-9aff-5e2f-bd51-2392be13938f",
