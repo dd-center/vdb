@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620141619
+    "timestamp": 1620141743
   },
   "vtbs": [
     {
@@ -8042,6 +8042,23 @@
       "name": {
         "extra": [],
         "jp": "あさひなゆうひ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "f0ed9112-1ef6-54b1-89f4-9d73d36ccde3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1887889855",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "あらちゃofficial",
         "default": "jp"
       }
     },
@@ -19929,6 +19946,25 @@
         "cn": "吉原凹槽",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6e98faab-cdc5-539b-91cc-eb46e5c65894",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608688",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吉吉",
+        "jp": "Kiti",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "3fc882ac-4fb7-533e-af60-e2d0f2ddb3a2",
@@ -37804,6 +37840,25 @@
       }
     },
     {
+      "uuid": "1d1f3f5f-2e82-5064-b719-86abd98e72a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608704",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃星",
+        "jp": "Tocci",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "23d809b9-713f-5171-b132-21d147d3786c",
       "type": "vtuber",
       "bot": false,
@@ -52497,6 +52552,24 @@
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
+      "uuid": "d25a6b23-740f-5802-a81c-ba4a8cda8375",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608696",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮楼",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "dea5ec5f-a3cb-5269-9844-7f769999da74",
       "type": "vtuber",
       "bot": false,
@@ -53934,6 +54007,24 @@
       "name": {
         "extra": [],
         "cn": "Aeroides艾茵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d612252b-4a4c-57e4-b22f-886e6fdd463a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "315161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾菲",
+        "en": "Alfy",
         "default": "cn"
       }
     },
