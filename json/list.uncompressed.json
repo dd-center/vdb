@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620206060
+    "timestamp": 1620211452
   },
   "vtbs": [
     {
@@ -12913,6 +12913,23 @@
       "name": {
         "extra": [],
         "cn": "不祈十弦Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "423da068-9ce8-53fe-907f-298deac8dab6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "619024257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不离buli_",
         "default": "cn"
       }
     },
