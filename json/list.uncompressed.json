@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620539654
+    "timestamp": 1620539854
   },
   "vtbs": [
     {
@@ -5305,6 +5305,23 @@
       "name": {
         "extra": [],
         "cn": "SUKI酱_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65f6e382-71b7-5026-a9a2-da82c59e23a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1780983970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Saku悠娜",
         "default": "cn"
       }
     },
