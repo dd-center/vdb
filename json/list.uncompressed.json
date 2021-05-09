@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620542062
+    "timestamp": 1620542090
   },
   "vtbs": [
     {
@@ -53888,6 +53888,23 @@
       "name": {
         "extra": [],
         "cn": "艾瑟Aether_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41fbe07e-460e-538c-84ed-6b7a64bb4c2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6223905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾科索Axl",
         "default": "cn"
       }
     },
