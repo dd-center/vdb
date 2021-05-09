@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620539854
+    "timestamp": 1620540297
   },
   "vtbs": [
     {
@@ -54553,6 +54553,26 @@
         "extra": [],
         "cn": "花守海露希",
         "jp": "花守へるし",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "14b1c39c-ecbf-5b1e-ae15-466feb9e9176",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1274610906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "花宴一夏"
+        ],
+        "cn": "花宴ichika",
+        "jp": "はなえいちか",
         "default": "cn"
       }
     },
