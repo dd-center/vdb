@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620539538
+    "timestamp": 1620539654
   },
   "vtbs": [
     {
@@ -48366,6 +48366,33 @@
         "default": "jp"
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364"
+    },
+    {
+      "uuid": "227dbafb-4c8f-5ca3-ae53-b155572f6122",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17573731",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kirari_emoechi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCQjGy9ZkIuqqzrqyLvml4Bg",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "真城煌璃",
+        "default": "jp"
+      }
     },
     {
       "uuid": "e8957d55-b16a-51c4-b385-5d359f19517f",
