@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620540780
+    "timestamp": 1620541475
   },
   "vtbs": [
     {
@@ -38596,6 +38596,23 @@
         "extra": [],
         "cn": "梦想的塔尔斯",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "520643af-22b0-5bc7-b5cd-28f9ee534730",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1766612829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "梦月真白Official",
+        "default": "jp"
       }
     },
     {
