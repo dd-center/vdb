@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620539299
+    "timestamp": 1620539372
   },
   "vtbs": [
     {
@@ -66531,6 +66531,33 @@
       "name": {
         "extra": [],
         "jp": "黒井しば",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "03d718ee-ed25-5a0a-b378-104d6e078196",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1996012015",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "https://www.youtube.com/channel/UC7VqT2rLOpVH6LmZsMbNyPg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "https://twitter.com/mimi_emoechi",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "黒兎みみ",
         "default": "jp"
       }
     },
