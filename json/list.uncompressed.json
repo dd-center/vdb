@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620211550
+    "timestamp": 1620539299
   },
   "vtbs": [
     {
@@ -59880,6 +59880,23 @@
       "name": {
         "extra": [],
         "cn": "遠野莉緒奈_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "14f20531-ed98-579a-9dbc-62d6d5fbe753",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383784478",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "遥光Haruka",
         "default": "cn"
       }
     },
