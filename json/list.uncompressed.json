@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620542138
+    "timestamp": 1620544181
   },
   "vtbs": [
     {
@@ -2897,6 +2897,24 @@
         "default": "cn"
       },
       "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f"
+    },
+    {
+      "uuid": "a55e1daa-b902-5dcd-8447-85ed6609b1b5",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1909831457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LepusLive",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "b3ba25af-7413-53c4-b658-ed0c47d1c4f6",
@@ -25903,6 +25921,24 @@
       "group": "73102f48-57f2-5d59-94ef-7aac41e97f65"
     },
     {
+      "uuid": "24d7248f-b149-53f5-8009-53846c79b6f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35819875",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宋三岁sss",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
+    },
+    {
       "uuid": "ae0209be-6988-5412-a1a2-42fbeb8055fa",
       "type": "vtuber",
       "bot": false,
@@ -36783,6 +36819,24 @@
         "default": "cn"
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
+    },
+    {
+      "uuid": "c62e2c9c-54f9-5be0-b22b-04f84603aa74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1243266187",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林莉奈RinaHayashi",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "1344702a-38ab-5e42-8f94-898b56b30dde",
@@ -61385,7 +61439,7 @@
         "cn": "阿尔瓦Alvar",
         "default": "cn"
       },
-      "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "7300ba02-845b-563f-aae7-6070e6770901",
@@ -64751,6 +64805,24 @@
         "default": "jp"
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
+      "uuid": "7bd0ffb5-7434-5ac9-8ed3-f5911d102559",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "663030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鬼狐狸OniKitsune",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "14bfdb96-5f86-544c-b677-c07705600385",
