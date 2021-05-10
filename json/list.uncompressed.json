@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620544670
+    "timestamp": 1620630428
   },
   "vtbs": [
     {
@@ -5580,6 +5580,31 @@
       "name": {
         "extra": [],
         "cn": "SoulliesOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f95e206-a5d4-57cd-9f2f-1bb5fbe05a05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "554883",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "1621532613",
+          "type": "official",
+          "platform": "weibo"
+        }
+      ],
+      "name": {
+        "extra": [
+          "St 色太"
+        ],
+        "cn": "色太",
+        "en": "Sunatte",
         "default": "cn"
       }
     },
