@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620803053
+    "timestamp": 1620811950
   },
   "vtbs": [
     {
@@ -19830,6 +19830,23 @@
         "extra": [],
         "cn": "叶崎花火",
         "en": "LekiHanabi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3168389a-d6e5-5c7e-a7c1-048a283cdc4f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "578235569",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶晞_Official",
         "default": "cn"
       }
     },
