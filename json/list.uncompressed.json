@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620861230
+    "timestamp": 1620861248
   },
   "vtbs": [
     {
@@ -53658,6 +53658,23 @@
       "name": {
         "extra": [],
         "cn": "耳可Milo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7704e91a-0ade-5d14-b3e6-bb3d466222df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14485806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "耳可家的猪蹄子",
         "default": "cn"
       }
     },
