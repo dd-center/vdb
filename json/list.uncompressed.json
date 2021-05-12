@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620858096
+    "timestamp": 1620858306
   },
   "vtbs": [
     {
@@ -47265,6 +47265,23 @@
         "extra": [],
         "cn": "白桜みこの",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d1605440-a0e6-5327-9503-32db667fece2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1117407845",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白梅子しらうめこ",
+        "default": "jp"
       }
     },
     {
