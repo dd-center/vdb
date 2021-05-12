@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620802405
+    "timestamp": 1620803053
   },
   "vtbs": [
     {
@@ -40690,6 +40690,23 @@
         "default": "cn"
       },
       "group": "e0b42ce4-0090-560b-96a1-82d5bc8f7164"
+    },
+    {
+      "uuid": "a7d929d6-1884-5af2-93b2-ebfa9e826123",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "47143337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "氷神葉",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02619b68-4f0c-55af-a2cc-be3d4915507b",
