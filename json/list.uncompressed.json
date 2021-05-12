@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620827787
+    "timestamp": 1620828388
   },
   "vtbs": [
     {
@@ -38273,6 +38273,38 @@
         "extra": [],
         "cn": "桜乃rika",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "be00c8a0-7b62-5592-a824-2087161068b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "248109460",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "36900616",
+          "type": "official",
+          "platform": "acfun"
+        },
+        {
+          "id": "14253915",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "127843",
+          "type": "official",
+          "platform": "fantia"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "SakunoMisaki",
+        "default": "en"
       }
     },
     {
