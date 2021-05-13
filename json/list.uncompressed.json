@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620913489
+    "timestamp": 1620913761
   },
   "vtbs": [
     {
@@ -7698,6 +7698,23 @@
       "name": {
         "extra": [],
         "cn": "rurudo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c2906cc-1718-5648-a1cb-f91d63ca424e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4882872",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "sekyota_落",
         "default": "cn"
       }
     },
