@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620898882
+    "timestamp": 1620912856
   },
   "vtbs": [
     {
@@ -24801,6 +24801,23 @@
       "name": {
         "extra": [],
         "cn": "女巫Vivian",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6548ea6-4779-5b90-999f-42d2aaac6454",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3042127",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶皮nya",
         "default": "cn"
       }
     },
