@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620912983
+    "timestamp": 1620913404
   },
   "vtbs": [
     {
@@ -454,6 +454,24 @@
         "en": "AO",
         "default": "en"
       }
+    },
+    {
+      "uuid": "4feeb7e5-cdef-5d2b-bd57-17600127ee14",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1898658005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ARTs学院",
+        "default": "cn"
+      },
+      "group": "4feeb7e5-cdef-5d2b-bd57-17600127ee14"
     },
     {
       "uuid": "7320081f-670c-53d4-bf9b-e5ce6b259955",
@@ -54562,6 +54580,24 @@
       }
     },
     {
+      "uuid": "5b107db8-f972-56a9-b763-797cbbe08e2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1485976062",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙妮耶Official",
+        "default": "cn"
+      },
+      "group": "4feeb7e5-cdef-5d2b-bd57-17600127ee14"
+    },
+    {
       "uuid": "e0aed904-72c9-5e10-85a5-7e1afc84daf4",
       "type": "vtuber",
       "bot": false,
@@ -64591,6 +64627,24 @@
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "a87371a5-7e59-5487-9f5b-2eec77f21234",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1025421127",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风信子Official",
+        "default": "cn"
+      },
+      "group": "4feeb7e5-cdef-5d2b-bd57-17600127ee14"
     },
     {
       "uuid": "cfe916ae-9c03-5191-8590-b84d34918bbd",
