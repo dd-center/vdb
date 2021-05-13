@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620944699
+    "timestamp": 1620944938
   },
   "vtbs": [
     {
@@ -55853,6 +55853,23 @@
       "name": {
         "extra": [],
         "cn": "若芖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a139cfd9-8d36-57c3-ba45-97f40125acc8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21204997",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "若葉绮凛Kinory",
         "default": "cn"
       }
     },
