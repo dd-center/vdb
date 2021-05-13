@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620913761
+    "timestamp": 1620914219
   },
   "vtbs": [
     {
@@ -57627,6 +57627,23 @@
       "name": {
         "extra": [],
         "cn": "藍芽子_Aimeko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72672044-4dab-51e0-a567-20ff9eb88ba8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "54731382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藤原兔海゜",
         "default": "cn"
       }
     },
