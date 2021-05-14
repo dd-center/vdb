@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620944938
+    "timestamp": 1620956966
   },
   "vtbs": [
     {
@@ -651,6 +651,23 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "ec9e758c-2f0e-5c89-94af-3c6cccc3f86b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4176573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Akie秋绘",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b5110c54-7d59-5132-bcb4-3902966f6f4d",
