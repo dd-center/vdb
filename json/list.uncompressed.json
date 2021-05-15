@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621086707
+    "timestamp": 1621110367
   },
   "vtbs": [
     {
@@ -32610,6 +32610,23 @@
       "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
     },
     {
+      "uuid": "ce58b1b1-a808-57a5-9e57-ef3c6d8d16d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524086947",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时歧Toki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "35eae247-c717-581e-8007-2923a4289c86",
       "type": "vtuber",
       "bot": false,
@@ -49031,6 +49048,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "d5b73c9c-5991-5dc8-aa41-829f65568513",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "462646",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "直归子Chokkiko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5a0e66ff-14ca-51f8-8c82-642e5cff1511",
