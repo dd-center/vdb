@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621045422
+    "timestamp": 1621045436
   },
   "vtbs": [
     {
@@ -4155,7 +4155,8 @@
         "extra": [],
         "cn": "Nokooooo_",
         "default": "cn"
-      }
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
@@ -4522,6 +4523,24 @@
         "default": "cn"
       },
       "group": "f0f8d8bd-54fa-56cc-ac3a-ee0466f314d5"
+    },
+    {
+      "uuid": "d0827515-9a79-5e6a-b445-b1145bacfea4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "526402222",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Palette",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "7ffce6a9-47ed-5f4f-960b-0464cd8fbc8f",
@@ -18692,7 +18711,7 @@
         "cn": "千辉Nina_Official",
         "default": "cn"
       },
-      "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "a4d53eef-40ff-5cd1-98dd-f379d1438ee2",
@@ -20822,7 +20841,8 @@
         "extra": [],
         "cn": "咪诺Mino",
         "default": "cn"
-      }
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "268cfcd4-4701-50c5-83e1-ff83a363e6ca",
@@ -35412,6 +35432,24 @@
         "ch": "月小夜official",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "f64ca51c-d322-5067-bf3b-7af7e54807ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2103954767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月泉莳Komaki",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "cd24602f-38e2-55a1-ac8c-2216b7f36648",
@@ -55408,7 +55446,8 @@
         "extra": [],
         "cn": "花茶C-ya",
         "default": "cn"
-      }
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "e1baa2b0-9bb5-5ccd-9eae-574584fcbd15",
@@ -55675,6 +55714,24 @@
         "cn": "芽千千ガチチ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bbc99c35-45c5-5706-b7d0-89f5ebd19392",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "603372954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芽月Meziki",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "3bb079f0-e654-59dd-b380-c96b3a29ba45",
@@ -57342,6 +57399,24 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "09af5f0b-4a4c-5350-9254-2963a0fe5730",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1376650682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "葡冷尔子gagako",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
+    },
+    {
       "uuid": "c3ef091e-b8c0-5878-8bc3-58acf3d29ba0",
       "type": "vtuber",
       "bot": false,
@@ -58915,7 +58990,8 @@
         "extra": [],
         "cn": "诺可Noko",
         "default": "cn"
-      }
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "314dec73-d590-5ea4-8a95-6f679d513691",
