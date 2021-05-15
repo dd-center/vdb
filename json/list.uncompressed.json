@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621042371
+    "timestamp": 1621042706
   },
   "vtbs": [
     {
@@ -22667,6 +22667,23 @@
         "jp": "夕陽リリ",
         "cn": "莉莉",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "5ef8b8cd-cfeb-557e-9715-fb68ec50e2dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "398960725",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "外界",
+        "default": "cn"
       }
     },
     {
