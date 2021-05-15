@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1620985641
+    "timestamp": 1621042337
   },
   "vtbs": [
     {
@@ -34772,6 +34772,26 @@
         "default": "cn"
       },
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
+    },
+    {
+      "uuid": "e161a947-63a1-58e1-8ca7-df84b84883db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36648204",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "景礼"
+        ],
+        "cn": "景礼keiri",
+        "en": "keiri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "318daf82-04e0-5aba-85db-803b2d094ac8",
