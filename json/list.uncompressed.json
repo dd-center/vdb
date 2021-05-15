@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621042706
+    "timestamp": 1621042876
   },
   "vtbs": [
     {
@@ -66468,6 +66468,23 @@
       "name": {
         "extra": [],
         "cn": "鸫_Tsugumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "01967059-073b-5879-9693-ee37584c48bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10038064",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸫璃子Tsugumi",
         "default": "cn"
       }
     },
