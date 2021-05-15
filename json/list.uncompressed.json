@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621045529
+    "timestamp": 1621045614
   },
   "vtbs": [
     {
@@ -33010,6 +33010,36 @@
         "default": "cn"
       },
       "group": "0e2e2085-33c6-5205-a9e2-81702f20a7b0"
+    },
+    {
+      "uuid": "a89c84f2-7ab8-5c49-a146-fcc2b94b65ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1089059487",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCqTymU8oHTygrEzas_gVBFg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HoshinaSuzu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星奈铃-官方WACTOR",
+        "jp": "ホシナスズ",
+        "en": "Suzu Hoshina",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "9c0906d3-d0e8-5414-8232-e919e6586df2",
