@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621110367
+    "timestamp": 1621110811
   },
   "vtbs": [
     {
@@ -7140,6 +7140,40 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "9c9998e0-2b84-5e3b-a73f-804a1e560cd9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCMkILyjhk3YhIa-W1lxInNA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "haranooni",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "haranooni",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "568268D5DFC1332A_7c0e8c",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "波羅ノ鬼 ",
+        "en": "Harano Oni",
+        "cn": "波罗之鬼",
+        "default": "jp"
+      }
     },
     {
       "uuid": "34fb46e8-954f-5de2-b8c0-e0d9296f46d6",
