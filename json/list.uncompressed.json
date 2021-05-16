@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621110811
+    "timestamp": 1621157156
   },
   "vtbs": [
     {
@@ -60292,6 +60292,23 @@
         "default": "cn"
       },
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
+    },
+    {
+      "uuid": "3c8e5d8f-d4f5-5003-8975-689a41054d57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435397683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "超菜的青早",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e488a1f1-4394-5580-861b-15e55f15986b",
