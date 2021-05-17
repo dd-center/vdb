@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621157156
+    "timestamp": 1621234540
   },
   "vtbs": [
     {
@@ -28982,6 +28982,23 @@
       "name": {
         "extra": [],
         "cn": "希普珊瑚剧团",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df9acdf7-a21f-5eb8-9e4d-c32ea6b76930",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "591892279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希月Kitzuki",
         "default": "cn"
       }
     },
