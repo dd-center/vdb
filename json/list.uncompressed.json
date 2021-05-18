@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621234540
+    "timestamp": 1621340049
   },
   "vtbs": [
     {
@@ -4098,6 +4098,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "f424e5a1-751f-584c-9f72-192134e71499",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1230463982",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Niar-2A",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6203f877-a1f8-5c61-99bb-ed20fd02ffef",
@@ -66468,6 +66485,23 @@
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
+      "uuid": "44e219c1-3ee3-53ac-9984-fbf5795e75fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2165981",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法doge",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4f1e9bc6-6564-5b21-ba1d-cfaa3e00218d",
