@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621340049
+    "timestamp": 1621368962
   },
   "vtbs": [
     {
@@ -59866,6 +59866,54 @@
         "default": "cn"
       },
       "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474"
+    },
+    {
+      "uuid": "b6e15286-17b7-5bd4-891f-e84c7d12c643",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "https://cyannyan.com/",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "CyanNyan6",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC9wbdkwvYVSgKtOZ3Oov98g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "cyannyan39",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "cyannyan6",
+          "type": "official",
+          "platform": "peing"
+        },
+        {
+          "id": "vtbcyan",
+          "type": "official",
+          "platform": "telegram"
+        },
+        {
+          "id": "CyanNyan",
+          "type": "official",
+          "platform": "github"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赛小盐",
+        "en": "Cyan",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a5ee134f-34cb-562c-8586-5a0252f8fb1b",
