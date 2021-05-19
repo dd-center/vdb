@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621395978
+    "timestamp": 1621430769
   },
   "vtbs": [
     {
@@ -44868,6 +44868,23 @@
       "name": {
         "extra": [],
         "cn": "狗神由紀",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "58590682-5e3a-5ef7-883a-13f3ff2b0c40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22420295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狗酱ER",
         "default": "cn"
       }
     },
