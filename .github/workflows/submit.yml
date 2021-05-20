@@ -51,11 +51,11 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         pr_label: "bot"
 
-    # - name: Enable Auto Merge
-    #   run: node autoMerge.js
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.gtoken }}
-    #     NUMBER: ${{ steps.open-pr.outputs.pr_number }}
+    - name: Enable Auto Merge
+      run: node autoMerge.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.bottoken }}
+        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
 
   publish:
     if: github.event_name == 'issues'
