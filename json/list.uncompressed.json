@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621576135
+    "timestamp": 1621576225
   },
   "vtbs": [
     {
@@ -24902,7 +24902,8 @@
         "extra": [],
         "cn": "奈芙Nieve",
         "default": "cn"
-      }
+      },
+      "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7"
     },
     {
       "uuid": "4faff489-3c33-50b5-9975-61df2b760fec",
@@ -30794,6 +30795,23 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "ee537d5c-3d48-5645-a596-517d9d099275",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "91352",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心羽ろにOfficial",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c785727d-175a-50cd-8075-163d0f7cb271",
@@ -39479,6 +39497,23 @@
         "extra": [],
         "cn": "梵卓",
         "en": "Ventrue",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3222e897-6cdc-5d3e-9d7a-92fe9eff798e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "77543886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棂春-はる",
         "default": "cn"
       }
     },
@@ -51807,6 +51842,23 @@
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
     },
     {
+      "uuid": "4a79bb90-18cb-59e9-b016-c43798957466",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "601993220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "箱丸美咲Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d809130f-048b-57fc-8541-bfc3a3eddae4",
       "type": "vtuber",
       "bot": false,
@@ -54005,6 +54057,23 @@
       "name": {
         "extra": [],
         "cn": "罚站AI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1041a38-e2da-52f0-9676-cd13b53a3de9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1928416347",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "美南蝶蝶Official",
         "default": "cn"
       }
     },
