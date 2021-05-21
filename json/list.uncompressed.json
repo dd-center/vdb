@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621604533
+    "timestamp": 1621604991
   },
   "vtbs": [
     {
@@ -52954,6 +52954,25 @@
       }
     },
     {
+      "uuid": "4b8b2ea1-b001-51e7-8c67-8e8356ab2de7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29659011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "结城蓝"
+        ],
+        "cn": "結城藍-Larimar",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e969f69e-acfc-527c-aa4e-c141861ff210",
       "type": "vtuber",
       "bot": false,
@@ -65441,6 +65460,25 @@
       "name": {
         "extra": [],
         "cn": "風乃Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b2d7e611-c40e-5cee-8582-11481121471c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "686979207",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "风和凛"
+        ],
+        "cn": "風和凛_Fuwari",
         "default": "cn"
       }
     },
