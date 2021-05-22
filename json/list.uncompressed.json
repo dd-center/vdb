@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621655394
+    "timestamp": 1621688536
   },
   "vtbs": [
     {
@@ -34246,6 +34246,23 @@
         "extra": [],
         "cn": "星语游兔",
         "jp": "ゆうと",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ba2c829-0456-56f5-8b8e-77f7e1252d8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2123801125",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星谷呜冬Udon",
         "default": "cn"
       }
     },
