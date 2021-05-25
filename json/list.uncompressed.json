@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621894764
+    "timestamp": 1621921604
   },
   "vtbs": [
     {
@@ -67519,6 +67519,23 @@
       "name": {
         "extra": [],
         "cn": "鹿木博士鹿太",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f286168f-9a2a-5d09-840a-1ccad9cf05d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17816003",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿泽のchannel",
         "default": "cn"
       }
     },
