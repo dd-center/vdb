@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1621946194
+    "timestamp": 1621949165
   },
   "vtbs": [
     {
@@ -49511,6 +49511,23 @@
       "name": {
         "extra": [],
         "cn": "眠目直木",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a8b7b0a-3b3b-5ee8-92bc-7098bc5620d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1780255602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠眠official",
         "default": "cn"
       }
     },
