@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622018268
+    "timestamp": 1622037573
   },
   "vtbs": [
     {
@@ -44099,6 +44099,23 @@
       "group": "98d092b6-00c1-5728-ac4b-6ace0d407d57"
     },
     {
+      "uuid": "8d31e3f3-500d-58ad-bae1-469fe05737ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "316575926",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱吃辣的白狸",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3e0d5ab1-740c-5f31-9828-10e4b1d86f61",
       "type": "vtuber",
       "bot": false,
@@ -45786,6 +45803,23 @@
       "name": {
         "extra": [],
         "cn": "猫音奈可_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e6545001-4f14-5c3a-9e34-74fc71739222",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "375250638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫音桃桃",
         "default": "cn"
       }
     },
