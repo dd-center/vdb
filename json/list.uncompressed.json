@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622037573
+    "timestamp": 1622108139
   },
   "vtbs": [
     {
@@ -33884,6 +33884,23 @@
       "name": {
         "extra": [],
         "cn": "星灯铃兰Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "252247ab-93c1-5950-bfa1-793ba6d56934",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "629333523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星灵幽蓝",
         "default": "cn"
       }
     },
