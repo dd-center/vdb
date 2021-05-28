@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622173554
+    "timestamp": 1622193755
   },
   "vtbs": [
     {
@@ -37294,6 +37294,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "d84f9cb3-fc43-567d-af8b-c86e172967f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609610777",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杨远洛里斯",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b7e30d0e-1dd8-5c87-ad9e-5e338721ab81",
