@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622114559
+    "timestamp": 1622173554
   },
   "vtbs": [
     {
@@ -39406,6 +39406,23 @@
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
     },
     {
+      "uuid": "480bb3ca-6197-5991-876f-2403c3f480fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "140378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦音茶糯",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d6404d29-89ad-50bf-857d-9d94ad1bf70a",
       "type": "vtuber",
       "bot": false,
@@ -67587,6 +67604,23 @@
         "default": "jp"
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93"
+    },
+    {
+      "uuid": "5f9c495a-2ba2-5654-a877-5bed5189ecff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1376768094",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿予Mori",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b60796f3-fb7d-5a53-94a5-e203dafb84e2",
