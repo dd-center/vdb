@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622193755
+    "timestamp": 1622246235
   },
   "vtbs": [
     {
@@ -36999,6 +36999,23 @@
       "name": {
         "extra": [],
         "cn": "朽木素",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e7e8ec64-97ef-553d-bbfb-f146e120cb4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18808866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "权娜魏斯_KennaWeiss",
         "default": "cn"
       }
     },
