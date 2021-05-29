@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622246235
+    "timestamp": 1622259115
   },
   "vtbs": [
     {
@@ -67129,11 +67129,6 @@
           "platform": "bilibili"
         },
         {
-          "id": "https://www.youtube.com/channel/UCR1vMiGggY5jSDL_eTkXJCA",
-          "type": "official",
-          "platform": "web"
-        },
-        {
           "id": "narukami_sabaki",
           "type": "official",
           "platform": "marshmallow"
@@ -67145,6 +67140,11 @@
         },
         {
           "id": "UC4XkrZwqFWeHNOS3uI5Oh_Q",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "UCR1vMiGggY5jSDL_eTkXJCA",
           "type": "official",
           "platform": "youtube"
         }
@@ -68444,12 +68444,12 @@
           "platform": "bilibili"
         },
         {
-          "id": "https://www.youtube.com/channel/UC7VqT2rLOpVH6LmZsMbNyPg",
+          "id": "UC7VqT2rLOpVH6LmZsMbNyPg",
           "type": "official",
           "platform": "youtube"
         },
         {
-          "id": "https://twitter.com/mimi_emoechi",
+          "id": "mimi_emoechi",
           "type": "official",
           "platform": "twitter"
         }
