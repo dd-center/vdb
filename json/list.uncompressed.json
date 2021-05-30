@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622356597
+    "timestamp": 1622356828
   },
   "vtbs": [
     {
@@ -33020,6 +33020,23 @@
       "name": {
         "extra": [],
         "cn": "昙露拾珠Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "34c58bc5-f927-58f3-9dc4-673401104626",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39660085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星-冰河",
         "default": "cn"
       }
     },
