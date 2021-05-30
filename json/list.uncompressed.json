@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622344841
+    "timestamp": 1622345488
   },
   "vtbs": [
     {
@@ -669,6 +669,40 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "91b6e4c9-c51a-53a5-9fc0-d230ffa41ec6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCwKirAYzzWUQRTC-aAB-aRQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "akatsukiyumerin",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "akatsukiyumerin",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "https://discord.com/invite/qNhJs5xbfp",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "AkatsukiYume",
+        "cn": "晓月梦",
+        "jp": "暁月夢",
+        "default": "en"
+      }
     },
     {
       "uuid": "ec9e758c-2f0e-5c89-94af-3c6cccc3f86b",
@@ -60149,12 +60183,22 @@
           "platform": "other"
         },
         {
+          "id": "https://cyannyan.com/Discord",
+          "type": "official",
+          "platform": "other"
+        },
+        {
           "id": "CyanNyan6",
           "type": "official",
           "platform": "twitter"
         },
         {
           "id": "UC9wbdkwvYVSgKtOZ3Oov98g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "UC9waeFu44i5NwB7x48Tq6Bw",
           "type": "official",
           "platform": "youtube"
         },
