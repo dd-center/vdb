@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622355099
+    "timestamp": 1622355348
   },
   "vtbs": [
     {
@@ -18652,6 +18652,23 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "b2d56a74-0540-51f5-a371-80e24a14c582",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35881918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千島白桜Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e99ae4c9-0bfa-5dc4-9621-e797bbec52a6",
