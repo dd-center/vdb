@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622354668
+    "timestamp": 1622354974
   },
   "vtbs": [
     {
@@ -4304,6 +4304,23 @@
       "name": {
         "extra": [],
         "cn": "Nowhere_終末少女",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "406f11ad-80a0-5c25-9d6b-64c333fd37b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7684135",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "O1ye",
         "default": "cn"
       }
     },
@@ -42841,6 +42858,23 @@
       }
     },
     {
+      "uuid": "ebfd5141-90f7-5e14-af4f-5ab4151c6419",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3810286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淇淋_702",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5d50d459-3f8e-5c00-bff8-a1467f454a69",
       "type": "vtuber",
       "bot": false,
@@ -58665,6 +58699,23 @@
         "default": "cn"
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
+      "uuid": "1751e60b-0618-5433-8df0-df628fa547f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1112031857",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薇Steria",
+        "default": "cn"
+      }
     },
     {
       "uuid": "05c9b26f-585e-597d-9c03-850c8bd4afb5",
