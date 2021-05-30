@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622356828
+    "timestamp": 1622357564
   },
   "vtbs": [
     {
@@ -33161,6 +33161,23 @@
         "default": "cn"
       },
       "group": "227ed47e-4565-5692-b1cc-154463a73773"
+    },
+    {
+      "uuid": "042baf93-cf6e-5650-bc1c-2b39afa064d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "671738413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星乃和歌Uta",
+        "default": "cn"
+      }
     },
     {
       "uuid": "db110413-2220-597b-87fd-febcbaf76afe",
