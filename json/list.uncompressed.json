@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622362139
+    "timestamp": 1622411968
   },
   "vtbs": [
     {
@@ -54694,6 +54694,35 @@
       "name": {
         "extra": [],
         "cn": "羽柴紅魅Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6f1b193d-3679-5ffb-b1c6-80e69f1f94c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1861416807",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCzuuoFRzF16kL9Ukfpmsq3g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "pastelV_milk14",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽澄照乌愈",
+        "jp": "羽澄照うゆ",
+        "en": "Pastel Uyu",
         "default": "cn"
       }
     },
