@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622358784
+    "timestamp": 1622358972
   },
   "vtbs": [
     {
@@ -7108,6 +7108,24 @@
         "cn": "阿苇",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f6394251-a0f4-52dd-ba22-4089f60c3d3d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "499547525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "cafelive",
+        "default": "CN"
+      },
+      "group": "f6394251-a0f4-52dd-ba22-4089f60c3d3d"
     },
     {
       "uuid": "7d14580b-8154-5fdb-9777-b1032d302bfe",
@@ -22567,6 +22585,23 @@
       }
     },
     {
+      "uuid": "3d71de71-ffa0-57ef-9e73-697868f3badb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "87602191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "夏樹サクラ_Channel",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "b8cdf641-6bf7-51cd-82c5-382d93379d83",
       "type": "vtuber",
       "bot": false,
@@ -28794,6 +28829,23 @@
         "extra": [],
         "cn": "嶌永爱娜Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "da6cd5fb-f268-532b-91b3-bb9cf4096bb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "102597800",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "川向鸢",
+        "default": "CN"
       }
     },
     {
@@ -64287,6 +64339,23 @@
         "extra": [],
         "ch": "雨鹦RainParrot",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "e592d0dc-d185-5cde-8b02-13846c1bc2d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1118691022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "雪丸啾理_JYURI",
+        "default": "CN"
       }
     },
     {
