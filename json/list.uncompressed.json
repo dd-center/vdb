@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622358972
+    "timestamp": 1622362075
   },
   "vtbs": [
     {
@@ -48262,6 +48262,23 @@
       "name": {
         "extra": [],
         "cn": "白崎妖梦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cb52410d-926e-56d5-870d-b3102349d227",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11362225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白崎银子",
         "default": "cn"
       }
     },
