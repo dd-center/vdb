@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622355348
+    "timestamp": 1622356317
   },
   "vtbs": [
     {
@@ -14736,6 +14736,23 @@
         "extra": [],
         "jp": "人間と永遠",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "43e8ac75-93da-5af1-86ed-91454f9a6085",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31941203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "人间会社Official",
+        "default": "cn"
       }
     },
     {
