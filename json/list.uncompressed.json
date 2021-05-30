@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622264869
+    "timestamp": 1622344841
   },
   "vtbs": [
     {
@@ -5466,6 +5466,23 @@
         "default": "cn"
       },
       "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+    },
+    {
+      "uuid": "5c9d3b40-3afa-511e-acb2-787157f278c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "613293",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Scholar沫沫",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9de50027-be14-50d7-845c-5a815fcaf00d",
@@ -67825,6 +67842,23 @@
       "name": {
         "extra": [],
         "cn": "麻仓由衣Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0c83a7d7-7a2d-585a-b14c-49991f3d88b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "598578",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻理理_Channel",
         "default": "cn"
       }
     },
