@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622412093
+    "timestamp": 1622505028
   },
   "vtbs": [
     {
@@ -31106,6 +31106,24 @@
         "cn": "恋乃夜舞",
         "jp": "恋乃夜まい",
         "en": "Koinoya Mai",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
+    },
+    {
+      "uuid": "0b705b3d-841f-5946-a1ed-a334c4b01954",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1701495895",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恋乃夜舞字幕组",
         "default": "cn"
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
