@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622546780
+    "timestamp": 1622546824
   },
   "vtbs": [
     {
@@ -47742,6 +47742,23 @@
         "default": "cn"
       },
       "group": "e0b42ce4-0090-560b-96a1-82d5bc8f7164"
+    },
+    {
+      "uuid": "b425d584-af82-5bd5-a6c3-8d957248076a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "113711",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "疾風醬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2f495bb1-f3e4-5eee-8c1b-962ca1453fd6",
