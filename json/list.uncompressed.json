@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622626957
+    "timestamp": 1622709852
   },
   "vtbs": [
     {
@@ -1713,6 +1713,38 @@
         "default": "cn"
       },
       "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+    },
+    {
+      "uuid": "21b3f9c4-a7a9-536e-8c9a-720bdc2632a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCSXOBKJSKfNsVy_nUqew03g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Dadidabest",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "dadisecrets",
+          "type": "official",
+          "platform": "telegram"
+        },
+        {
+          "id": "https://discord.com/invite/5v69Djpq9d",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Dadi",
+        "default": "en"
+      }
     },
     {
       "uuid": "dd6e2358-b673-54b4-8216-aff27fdef775",
