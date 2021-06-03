@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622712995
+    "timestamp": 1622713173
   },
   "vtbs": [
     {
@@ -42325,6 +42325,29 @@
         "default": "cn"
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91"
+    },
+    {
+      "uuid": "c5a0274f-61f9-5fce-a0c8-e89974f6e5bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC6hdjP0rVgCp27DMeY_tQBA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "homoto_akina",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "法元明菜",
+        "jp": "あきなさんち",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c0955e09-1c5e-5e49-8aba-2fcd04647260",
