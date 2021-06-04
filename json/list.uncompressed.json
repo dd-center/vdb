@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622767810
+    "timestamp": 1622770405
   },
   "vtbs": [
     {
@@ -19918,6 +19918,23 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "d4d80ab7-bf37-5571-9b6a-5e7afa7bcca7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "455794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叉烧Chashu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7646fb1d-668c-571e-8627-69db9c182699",
