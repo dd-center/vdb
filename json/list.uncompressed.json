@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622778963
+    "timestamp": 1622779005
   },
   "vtbs": [
     {
@@ -33048,6 +33048,23 @@
       "name": {
         "extra": [],
         "cn": "时歧Toki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c116061-9794-5c77-ac33-3a8b2baa2175",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12768031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时茗白羽_official",
         "default": "cn"
       }
     },
