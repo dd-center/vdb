@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622713173
+    "timestamp": 1622767810
   },
   "vtbs": [
     {
@@ -23967,6 +23967,23 @@
       "name": {
         "extra": [],
         "cn": "大蔵優介-Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ac10395-5485-5715-84d4-7d9be092364c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21151384",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大陌子DMZ",
         "default": "cn"
       }
     },
