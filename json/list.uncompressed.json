@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622771196
+    "timestamp": 1622778963
   },
   "vtbs": [
     {
@@ -48798,6 +48798,23 @@
       "name": {
         "extra": [],
         "cn": "白羽八shiroha",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd525e8a-2f21-520c-8aaa-cc1e68539341",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29473017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白羽梦YOMO_Channel",
         "default": "cn"
       }
     },
