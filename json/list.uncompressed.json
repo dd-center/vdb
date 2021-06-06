@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622779005
+    "timestamp": 1622982805
   },
   "vtbs": [
     {
@@ -29166,6 +29166,23 @@
         "extra": [],
         "jp": "市ノ瀬ミナト",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "151545b5-2d85-5af6-a7cd-d7be83232a26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1472211759",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "市ヶ谷まきOfficial",
+        "default": "cn"
       }
     },
     {
