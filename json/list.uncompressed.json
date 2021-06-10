@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1622982805
+    "timestamp": 1623300819
   },
   "vtbs": [
     {
@@ -21580,6 +21580,23 @@
       "name": {
         "extra": [],
         "cn": "唯诺Vilor",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e4e8595-ca5c-52a4-8740-01b3c658743a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5320543",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啊昭是啊昭",
         "default": "cn"
       }
     },
