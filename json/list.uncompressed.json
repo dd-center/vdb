@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623428221
+    "timestamp": 1623428686
   },
   "vtbs": [
     {
@@ -32574,6 +32574,33 @@
         "default": "cn"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "9b11cf01-8610-5a29-b00a-4d077b71bf64",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1523207400",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCnYhIk9aGEx_bIgheVjs53w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "LutoAraka",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新火ると_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b25b6594-eaa6-5b16-a112-c81a853f4815",
