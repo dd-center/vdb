@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623425232
+    "timestamp": 1623425725
   },
   "vtbs": [
     {
@@ -24070,6 +24070,23 @@
         "extra": [],
         "cn": "天之宫穹",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d23fb5d3-92d9-5c58-9215-5c002eb59ad4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天使うと",
+        "default": "jp"
       }
     },
     {
