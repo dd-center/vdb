@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623425725
+    "timestamp": 1623425814
   },
   "vtbs": [
     {
@@ -1712,7 +1712,7 @@
         "jp": "DUSTCELL",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "21b3f9c4-a7a9-536e-8c9a-720bdc2632a0",
@@ -6317,14 +6317,25 @@
           "id": "1636327445",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCfiSo8tO3WPU-8YOgr4Ba6g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "VWP_virtual",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "VWP_虚拟魔女现象",
+        "en": "V.W.P -Virtual Witch Phenomenon-",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
@@ -7456,35 +7467,6 @@
       }
     },
     {
-      "uuid": "9f29c633-14e6-572c-a516-03da95a361a1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "502445912",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "kamitsubaki_jp",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "UCAOhUv73jM5iCpOhuJOQzxA",
-          "type": "official",
-          "platform": "youtube"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "kamitsubaki_jp",
-        "jp": "KAMITSUBAKI STUDIO",
-        "default": "cn"
-      },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
-    },
-    {
       "uuid": "73102f48-57f2-5d59-94ef-7aac41e97f65",
       "type": "group",
       "bot": false,
@@ -8120,7 +8102,7 @@
         "cn": "特雷莎",
         "default": "en"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "1bc39d16-d102-54fb-a46d-dfebafc223e6",
@@ -12151,7 +12133,7 @@
         "cn": "异世界情绪",
         "default": "jp"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "b4875aec-e6e9-5148-b10c-b15f5eca4654",
@@ -29759,7 +29741,7 @@
         "cn": "幸祜-koko-",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "45ace7ed-7dcf-51d8-a317-f2a7e96d4555",
@@ -35323,7 +35305,7 @@
         "cn": "春猿火",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "1388c2b6-5041-5293-bed1-4ada01717445",
@@ -47077,7 +47059,7 @@
         "en": "rime",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "027966a9-3c64-551b-815a-3d10d15bf224",
@@ -51043,16 +51025,33 @@
       }
     },
     {
-      "uuid": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168",
+      "uuid": "8e11a33b-c9e1-574f-8300-c8e5aa050010",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "502445912",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kamitsubaki_jp",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCAOhUv73jM5iCpOhuJOQzxA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
       "name": {
         "extra": [],
-        "cn": "神椿",
+        "cn": "神椿工作室",
+        "jp": "KAMITSUBAKI STUDIO",
         "default": "cn"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "b9640e19-a9bf-5a8d-91a4-f237e8a91e0b",
@@ -56949,7 +56948,7 @@
         "cn": "花谱",
         "default": "jp"
       },
-      "group": "8cbc45c5-fc34-5ee5-a14b-0d7ce1cf5168"
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
       "uuid": "de1bb422-ac8a-5bda-a356-015f066a8684",
