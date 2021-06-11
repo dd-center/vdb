@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623427602
+    "timestamp": 1623428221
   },
   "vtbs": [
     {
@@ -31207,6 +31207,23 @@
       "name": {
         "extra": [],
         "cn": "忘忧翎Luyori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eb18c47d-4a19-5950-b357-79edcf536f9a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "261700038",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "思廿Mlnia",
         "default": "cn"
       }
     },
