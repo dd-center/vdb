@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623425938
+    "timestamp": 1623426755
   },
   "vtbs": [
     {
@@ -17429,6 +17429,23 @@
       "name": {
         "extra": [],
         "cn": "凛宫鸢_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9c84fb41-a9e7-57db-9ec8-080a4f237825",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25594007",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凛心永远Rinchan",
         "default": "cn"
       }
     },
