@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623384484
+    "timestamp": 1623384531
   },
   "vtbs": [
     {
@@ -47618,6 +47618,23 @@
         "extra": [],
         "CN": "瓦妮Vanee",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "859ec54b-eb06-5095-8e42-4c9a0aa69800",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1569215233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甘乃尸音Amanosion",
+        "default": "cn"
       }
     },
     {
