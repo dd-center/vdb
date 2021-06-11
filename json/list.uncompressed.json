@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623427116
+    "timestamp": 1623427376
   },
   "vtbs": [
     {
@@ -12227,23 +12227,6 @@
         "default": "cn"
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
-    },
-    {
-      "uuid": "4a5954d1-d01f-5066-84e1-35e5e70b77f4",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1265680561",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "一包薯条嘻嘻",
-        "default": "cn"
-      }
     },
     {
       "uuid": "b52b07e4-4bab-5b86-83c4-388b0d415498",
@@ -41923,6 +41906,23 @@
       "name": {
         "extra": [],
         "cn": "永远酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fab615d8-4bde-56b8-834f-210b719a6df9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1265680561",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "永雏塔菲",
         "default": "cn"
       }
     },
