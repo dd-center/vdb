@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623428686
+    "timestamp": 1623429529
   },
   "vtbs": [
     {
@@ -5718,6 +5718,23 @@
       "name": {
         "extra": [],
         "cn": "ShynnKa_白乔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eaba8523-8e98-5fad-952f-1ca9fb381ee1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "342872383",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SilverNova",
         "default": "cn"
       }
     },
