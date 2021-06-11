@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623427376
+    "timestamp": 1623427485
   },
   "vtbs": [
     {
@@ -15733,6 +15733,23 @@
       "name": {
         "extra": [],
         "cn": "佟年年嗷aowu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "541f31cd-87dc-5d90-9c78-7af702b88e05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "720964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "你的可樱已上线",
         "default": "cn"
       }
     },
