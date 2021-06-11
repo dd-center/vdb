@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623431122
+    "timestamp": 1623431264
   },
   "vtbs": [
     {
@@ -13704,6 +13704,23 @@
         "extra": [],
         "cn": "久世鈴奈",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ee7e806-5c80-5660-a247-2081b373019d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCBC7vYFNQoGPupe5NxPG4Bw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "久遠たま",
+        "default": "jp"
       }
     },
     {
@@ -31432,6 +31449,23 @@
         "default": "en"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "8911a2bf-81c5-5ec4-9176-624fd44f5d23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC-o-1qjKkMLq-ZFxXIzOUBQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠白Ubye",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e3d7f888-262b-5c95-a33f-7ff708362295",
