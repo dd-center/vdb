@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623431264
+    "timestamp": 1623511002
   },
   "vtbs": [
     {
@@ -44249,6 +44249,28 @@
         "extra": [],
         "jp": "火羽ひのめ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "e309915f-730c-567e-9f2a-b4ec6dbf7f18",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1401928",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "55844639",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "火西肆",
+        "default": "cn"
       }
     },
     {
