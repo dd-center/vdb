@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623511002
+    "timestamp": 1623580274
   },
   "vtbs": [
     {
@@ -68391,6 +68391,23 @@
         "extra": [],
         "cn": "鸮号机",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "67604212-ecb0-5c4d-ab68-eb821bda76cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "703048900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "鸮岭歌不唱歌",
+        "default": "CN"
       }
     },
     {
