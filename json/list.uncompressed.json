@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623675018
+    "timestamp": 1623675076
   },
   "vtbs": [
     {
@@ -54201,6 +54201,23 @@
         "extra": [],
         "ch": "红辣椒啊",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "84f5c4fc-2b66-503d-89f2-22c7e5b6ce93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1202948480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "约酱",
+        "default": "cn"
       }
     },
     {
