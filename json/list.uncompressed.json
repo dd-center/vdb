@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623580274
+    "timestamp": 1623675018
   },
   "vtbs": [
     {
@@ -60569,6 +60569,23 @@
       "name": {
         "extra": [],
         "cn": "诗音的魔法交流协会",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "479733ac-7136-5c53-bb57-161c93e2f6d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "283886865",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "说说Crystal",
         "default": "cn"
       }
     },
