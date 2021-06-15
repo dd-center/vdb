@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1623675076
+    "timestamp": 1623758197
   },
   "vtbs": [
     {
@@ -6475,6 +6475,24 @@
         "default": "en"
       },
       "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b"
+    },
+    {
+      "uuid": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698148879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Vidol工作室",
+        "default": "cn"
+      },
+      "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77"
     },
     {
       "uuid": "e1f9cb0e-a66d-5c27-8e58-aaf1aa9f880e",
@@ -31779,6 +31797,25 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "b1e337f2-17c3-5bb5-916d-5e9100857c7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3783584",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "憨包yoyi",
+        "jp": "yoyi",
+        "default": "cn"
+      },
+      "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77"
     },
     {
       "uuid": "e4cfe79b-3a17-5fbc-b578-2f5f318109fe",
