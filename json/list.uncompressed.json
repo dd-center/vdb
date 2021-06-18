@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624010251
+    "timestamp": 1624010659
   },
   "vtbs": [
     {
@@ -19453,6 +19453,23 @@
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
     },
     {
+      "uuid": "04c803b1-26e2-550f-a63f-31ecc35f63a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1781408",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卑微小瑟",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "10a57744-a41c-5633-982b-5fd08875738e",
       "type": "vtuber",
       "bot": false,
@@ -19814,6 +19831,23 @@
       "name": {
         "extra": [],
         "cn": "卡琳Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c53293b8-6aa4-5668-b2d3-774cf86d211f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498613820",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡萝尔Professor",
         "default": "cn"
       }
     },
@@ -31374,6 +31408,23 @@
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
     },
     {
+      "uuid": "b5b8b8d6-b967-56c0-8bf5-154199728036",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "105167515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恩微",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c582656d-dad6-554d-8fa2-05b85b5d545d",
       "type": "vtuber",
       "bot": false,
@@ -34363,6 +34414,23 @@
       "name": {
         "extra": [],
         "cn": "星梦希望_hsymkb",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ad77978-39fe-5a9e-811a-a988e8176b89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1573449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星森天_SORA",
         "default": "cn"
       }
     },
