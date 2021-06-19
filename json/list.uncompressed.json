@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624098442
+    "timestamp": 1624109766
   },
   "vtbs": [
     {
@@ -28109,6 +28109,24 @@
       }
     },
     {
+      "uuid": "21baa317-f39b-5c69-8486-5982d3a63aa1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1267463286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小野寺杏砂",
+        "jp": "小野寺杏砂",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5026977c-d422-544e-b1a8-ab1c4767c5ef",
       "type": "vtuber",
       "bot": false,
@@ -35444,6 +35462,24 @@
         "cn": "春原朔良",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4eca5f5c-79e3-56a3-a357-6b4ff124ea9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1970998002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春困Channel",
+        "default": "cn"
+      },
+      "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
     },
     {
       "uuid": "e5855f37-e571-53cd-acae-bbf2dafb0cb4",
