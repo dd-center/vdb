@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624445399
+    "timestamp": 1624498941
   },
   "vtbs": [
     {
@@ -37911,6 +37911,23 @@
       "name": {
         "extra": [],
         "cn": "李紫音VG",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d29198bb-b1b2-5b7b-a334-79ed42261f5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1703797642",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "李豆沙_Channel",
         "default": "cn"
       }
     },
