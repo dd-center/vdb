@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624498941
+    "timestamp": 1624498976
   },
   "vtbs": [
     {
@@ -50371,6 +50371,23 @@
         "default": "jp"
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364"
+    },
+    {
+      "uuid": "9c9bd2b3-deaf-5305-8ebd-acf7c406b586",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8232502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真侑Mayuu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "227dbafb-4c8f-5ca3-ae53-b155572f6122",
