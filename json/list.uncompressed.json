@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624583580
+    "timestamp": 1624583832
   },
   "vtbs": [
     {
@@ -14202,6 +14202,23 @@
         "extra": [],
         "cn": "九重紫Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce0056e1-d45b-561a-8b76-1cdbd5197cbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "107148",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "乾曜Official",
+        "default": "CN"
       }
     },
     {
