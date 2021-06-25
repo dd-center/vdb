@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624583832
+    "timestamp": 1624583932
   },
   "vtbs": [
     {
@@ -54841,6 +54841,23 @@
         "jp": "むすぶ",
         "en": "Musubu",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "fc8a2eea-2df6-52eb-a74e-497ac678f043",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1002731313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "结城amu",
+        "default": "jp"
       }
     },
     {
