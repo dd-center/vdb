@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624514134
+    "timestamp": 1624583277
   },
   "vtbs": [
     {
@@ -48963,6 +48963,23 @@
         "extra": [],
         "cn": "白崎银子",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "0004e0b0-cedf-5772-9960-2c5d02241554",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "66771733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "白川佳奈",
+        "default": "JP"
       }
     },
     {
