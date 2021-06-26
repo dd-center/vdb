@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624583989
+    "timestamp": 1624700630
   },
   "vtbs": [
     {
@@ -49173,6 +49173,24 @@
         "cn": "白澄常花Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b3b3947c-deda-5687-bd95-0efb571effa8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1508519945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白瀬葵",
+        "default": "jp"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "c9fd6aa4-8ed8-567c-9fec-0b7db88986c8",
