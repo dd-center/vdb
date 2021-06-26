@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624700727
+    "timestamp": 1624700860
   },
   "vtbs": [
     {
@@ -58466,6 +58466,23 @@
       "name": {
         "extra": [],
         "cn": "草翦葱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94efea21-01df-55db-8f64-074c5c25e6e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "848398",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "草莓奶冻卷",
         "default": "cn"
       }
     },
