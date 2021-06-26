@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624703215
+    "timestamp": 1624712858
   },
   "vtbs": [
     {
@@ -22499,6 +22499,23 @@
       }
     },
     {
+      "uuid": "8ca2c5e5-2635-5a2e-ab6f-5fd64f9cb3b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7912791",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔诺_Tano",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c37b566a-aec4-5896-9b3f-48f8f862df70",
       "type": "vtuber",
       "bot": false,
@@ -37233,6 +37250,23 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "eeee2b8c-ddbe-5e8a-b73e-a2550cfffd87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCLNbNiqFAuNMj1DH1EBrY-g",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "朝日奈めいろ",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "1a7c7817-2fb1-56c5-a34c-8f093adbc4f5",
       "type": "vtuber",
       "bot": false,
@@ -43530,6 +43564,23 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "a33af058-648e-55d7-9cd2-de1944799cb0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4210335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "海帕hyper",
+        "default": "CN"
+      }
     },
     {
       "uuid": "8fa3049e-4331-5db6-b266-a000a355af60",
@@ -62196,6 +62247,23 @@
       "name": {
         "extra": [],
         "cn": "路普lupu_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f7d548d9-6852-554f-a779-af2ee87f9202",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "179454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路比RU-B1",
         "default": "cn"
       }
     },
