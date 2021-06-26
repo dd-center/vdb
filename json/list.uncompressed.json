@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624701890
+    "timestamp": 1624702911
   },
   "vtbs": [
     {
@@ -19535,6 +19535,23 @@
       "name": {
         "extra": [],
         "cn": "卓玛泉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2cb026c2-d4e9-5403-859c-0d0334d7b765",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1958934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "单单Official",
         "default": "cn"
       }
     },
