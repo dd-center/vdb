@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624700630
+    "timestamp": 1624700727
   },
   "vtbs": [
     {
@@ -49173,6 +49173,24 @@
         "cn": "白澄常花Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "38a5a7f2-cc3a-5b9c-b8c7-5c26c84bee50",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1458080347",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白濑葵字幕组",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "b3b3947c-deda-5687-bd95-0efb571effa8",
