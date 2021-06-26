@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624702911
+    "timestamp": 1624703157
   },
   "vtbs": [
     {
@@ -58056,6 +58056,23 @@
         "extra": [],
         "cn": "苏尔林·哈拉鲁",
         "en": "Sulryn Hlaalu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aa5a14fc-877a-5117-be7f-3955521f32a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "363279279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏糖",
         "default": "cn"
       }
     },
