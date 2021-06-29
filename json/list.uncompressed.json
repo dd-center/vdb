@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1624881966
+    "timestamp": 1624978830
   },
   "vtbs": [
     {
@@ -42788,6 +42788,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "fe7f4f16-9ce0-596f-8ee2-a67f58596c13",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "407220789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沙织Saori",
+        "default": "cn"
+      },
+      "group": "fb2c595a-af26-52f1-b433-bf339409d3d4"
     },
     {
       "uuid": "d7be8a0c-9876-5f5f-9f24-9910286f31c3",
