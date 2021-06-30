@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625035209
+    "timestamp": 1625035509
   },
   "vtbs": [
     {
@@ -59079,6 +59079,23 @@
         "extra": [],
         "ch": "菲蕾嘉V兴登堡Official",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "e9c4c47b-4b8a-5353-860c-dcca422df6a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1289434903",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲诺Channel",
+        "default": "cn"
       }
     },
     {
