@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625033943
+    "timestamp": 1625033957
   },
   "vtbs": [
     {
@@ -4849,24 +4849,6 @@
         "cn": "PlanyaChannel",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "10333fd9-b44c-5faf-ba24-67b2e24491c1",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "473092095",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Plasma電浆社",
-        "default": "cn"
-      },
-      "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
     },
     {
       "uuid": "2bcc8411-8cc7-5304-a564-fa7a0acb1766",
@@ -49807,8 +49789,7 @@
         "extra": [],
         "cn": "白鳕",
         "default": "cn"
-      },
-      "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
+      }
     },
     {
       "uuid": "77567df0-9fc4-5996-a7de-f1743182a222",
@@ -66544,8 +66525,7 @@
         "extra": [],
         "cn": "露蒂",
         "default": "cn"
-      },
-      "group": "10333fd9-b44c-5faf-ba24-67b2e24491c1"
+      }
     },
     {
       "uuid": "4e737866-7754-5b1c-88e8-92e216dfab9a",
