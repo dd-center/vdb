@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625036759
+    "timestamp": 1625037025
   },
   "vtbs": [
     {
@@ -59408,6 +59408,24 @@
         "default": "cn"
       },
       "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
+    },
+    {
+      "uuid": "4bc004be-a5f4-5253-b44f-bf0668fd35d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524101241",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萨卡瑞亚",
+        "en": "ZachaRiah",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b8dcd0d2-cc8f-532d-9504-73d28969efa5",
