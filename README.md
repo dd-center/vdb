@@ -1,5 +1,5 @@
 # VTuber Database [![Build Status](https://github.com/dd-center/vdb/workflows/Node%20CI/badge.svg)](https://github.com/dd-center/vdb/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
 
 The Virtual Youtuber Name List Database.
 
@@ -206,6 +206,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/YukimuraAoi"><img src="https://avatars1.githubusercontent.com/u/46249138?v=4" width="72px;" alt="YukimuraAoi"/><br /><sub><b>YukimuraAoi</b></sub></a><br /><a href="#content-YukimuraAoi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/daBOSSer"><img src="https://avatars1.githubusercontent.com/u/62653664?v=4" width="72px;" alt="daBOSSer"/><br /><sub><b>daBOSSer</b></sub></a><br /><a href="#content-daBOSSer" title="Content">🖋</a></td>
   </tr>
 </table>
 
