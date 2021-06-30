@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625033957
+    "timestamp": 1625035209
   },
   "vtbs": [
     {
@@ -3561,8 +3561,7 @@
         "extra": [],
         "cn": "Meo_Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "d63b7efc-26e9-5aa7-b905-d31450074f52",
@@ -4643,8 +4642,7 @@
         "extra": [],
         "cn": "POKE-Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "5280227e-7149-51ad-a929-cc2da6852f64",
@@ -5561,10 +5559,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "SanGo-",
+        "cn": "-SanGo-",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "5c9d3b40-3afa-511e-acb2-787157f278c9",
@@ -6372,24 +6369,6 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
-      "uuid": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "495224843",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Vcoffee",
-        "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
-    },
-    {
       "uuid": "c411bc2d-ba8d-58d3-9b9c-4da6676006c2",
       "type": "vtuber",
       "bot": false,
@@ -6792,6 +6771,24 @@
         "default": "en"
       },
       "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
+      "uuid": "f49e8e3e-0dc9-5125-81c6-5c8d6c497f94",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1746277828",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "WonIDOLand虚拟社团",
+        "default": "cn"
+      },
+      "group": "f49e8e3e-0dc9-5125-81c6-5c8d6c497f94"
     },
     {
       "uuid": "d61b2662-4588-52c8-99ab-d988b1fc6a6d",
@@ -18778,10 +18775,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "千子立花_Official",
+        "cn": "立之花花花花",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "b2d56a74-0540-51f5-a371-80e24a14c582",
@@ -20012,10 +20008,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "友利和奈_SquareACE",
+        "cn": "友利和奈Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "068eaa6b-23ca-5444-8f85-42350ffb13f9",
@@ -31293,7 +31288,7 @@
         "cn": "心白羽雲",
         "default": "cn"
       },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      "group": "f49e8e3e-0dc9-5125-81c6-5c8d6c497f94"
     },
     {
       "uuid": "ee537d5c-3d48-5645-a596-517d9d099275",
@@ -33499,8 +33494,7 @@
         "extra": [],
         "cn": "易寒winter",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "f3a1208d-7cc1-5b82-b8c7-682f7b6e8e99",
@@ -36072,14 +36066,18 @@
           "id": "15452470",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "442097691",
+          "type": "official",
+          "platform": "163music"
         }
       ],
       "name": {
         "extra": [],
         "cn": "暮雨_Muyu",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "c5c24e22-3629-5c47-b505-3e795947e6c4",
@@ -37805,8 +37803,7 @@
         "extra": [],
         "cn": "杉江二茶-Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "20c971e9-3f6c-5760-b4bf-eb8b58c6a094",
@@ -43931,10 +43928,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "渡鸦Dooya",
+        "cn": "DooyaChannel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "4dc5767b-16ce-57aa-87fa-e5c2600900f2",
@@ -45003,8 +44999,7 @@
         "extra": [],
         "cn": "燃_rot",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "ce59276c-3fe7-5487-b4ba-f19bf36d9b98",
@@ -49975,10 +49970,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "白黎虓_Channel",
+        "cn": "白黎咲",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "12009b18-195c-532f-bd40-8bb1dc3457ef",
@@ -58745,8 +58739,7 @@
         "extra": [],
         "cn": "莫宇声含Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "3c0f21af-554a-54eb-9f17-996080b6dfa3",
@@ -61259,8 +61252,7 @@
         "extra": [],
         "cn": "谷清羽_Channel",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "5d9a1816-d208-56e3-a67f-f1ab1b44789d",
@@ -66862,10 +66854,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "音無_Channel",
+        "cn": "音無otonashi",
         "default": "cn"
-      },
-      "group": "327d386c-ea4f-502d-8e7f-7ba7525eaa5d"
+      }
     },
     {
       "uuid": "05693128-3bec-55bb-a2f6-7c5c98050122",
