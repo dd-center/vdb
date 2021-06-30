@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625035787
+    "timestamp": 1625036652
   },
   "vtbs": [
     {
@@ -45017,6 +45017,33 @@
         "default": "jp"
       },
       "group": "5b24d707-9143-5dbe-8e3c-c38405545e77"
+    },
+    {
+      "uuid": "9c0cbc5e-ca90-57ce-b428-029339c7012c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22092066",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "XunXiaoRan_Ch",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCOUjwo_r0CIKZe2wuzjamEw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熏小染",
+        "default": "cn"
+      }
     },
     {
       "uuid": "56836725-bd8b-55e0-9bc2-72f2085c2243",
