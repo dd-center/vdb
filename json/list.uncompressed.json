@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625035742
+    "timestamp": 1625035787
   },
   "vtbs": [
     {
@@ -29962,6 +29962,23 @@
       "name": {
         "extra": [],
         "cn": "幻幽酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6f84d29-fb59-5b5a-8788-6a048788e5cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17059522",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻想乡的琉璃猫",
         "default": "cn"
       }
     },
