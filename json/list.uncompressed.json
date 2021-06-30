@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625037099
+    "timestamp": 1625037432
   },
   "vtbs": [
     {
@@ -16525,6 +16525,23 @@
       "name": {
         "extra": [],
         "cn": "兔尤好困w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0f6a4c72-a0f4-54fc-ba04-d8216f8698ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "255281598",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔眠sTouch",
         "default": "cn"
       }
     },
@@ -67919,6 +67936,23 @@
       "name": {
         "extra": [],
         "cn": "香草莓巧子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "28a246d4-4432-53da-969b-e51787ea84d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1010093017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "马太Mastest",
         "default": "cn"
       }
     },
