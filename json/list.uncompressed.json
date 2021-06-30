@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625036705
+    "timestamp": 1625036759
   },
   "vtbs": [
     {
@@ -60019,6 +60019,23 @@
       "name": {
         "extra": [],
         "cn": "藍芽子_Aimeko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6278b740-f58b-5d70-84b5-2724af1f9f0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "426",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藤__夏樹",
         "default": "cn"
       }
     },
