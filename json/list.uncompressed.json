@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625095096
+    "timestamp": 1625124028
   },
   "vtbs": [
     {
@@ -19253,6 +19253,23 @@
         "default": "cn"
       },
       "group": "0fd2499a-5caa-51d0-8946-7d61d5aba18b"
+    },
+    {
+      "uuid": "5804291b-540d-577e-ab5f-6bbdb9df01e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1311405530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千鹤-Chizuru",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f0ccd2e1-5888-5f50-a477-d6f6e2849960",
