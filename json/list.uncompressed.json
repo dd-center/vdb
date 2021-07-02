@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625124028
+    "timestamp": 1625194651
   },
   "vtbs": [
     {
@@ -55156,6 +55156,23 @@
       "name": {
         "extra": [],
         "cn": "缪檬Muemon",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ab51927-2641-5752-8236-562d0114e1f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1590297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缱落铃",
         "default": "cn"
       }
     },
