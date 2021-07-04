@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625373536
+    "timestamp": 1625396481
   },
   "vtbs": [
     {
@@ -29114,6 +29114,23 @@
         "extra": [],
         "CN": "川向鸢",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "bfb11c8f-b5f6-5e7b-8d11-9611ac9193bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "95061837",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "川崎桐切Official",
+        "default": "cn"
       }
     },
     {
