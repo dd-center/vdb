@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625396481
+    "timestamp": 1625396688
   },
   "vtbs": [
     {
@@ -2151,6 +2151,24 @@
       }
     },
     {
+      "uuid": "c5f42540-da4e-57de-b4bb-9a3ba91d7494",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1453052493",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "FL的监控室老大爷",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
+    },
+    {
       "uuid": "621939ef-f164-5a7c-bd19-aadbe9679b01",
       "type": "group",
       "bot": false,
@@ -2262,6 +2280,24 @@
         "default": "en"
       },
       "group": "dbb92931-4f6d-52df-b21b-a2ad11fc251e"
+    },
+    {
+      "uuid": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1037847204",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Future Land",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
     },
     {
       "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
@@ -19263,13 +19299,19 @@
           "id": "1311405530",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "Chizuru3",
+          "type": "official",
+          "platform": "pomeet"
         }
       ],
       "name": {
         "extra": [],
         "cn": "千鹤-Chizuru",
         "default": "cn"
-      }
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
     },
     {
       "uuid": "f0ccd2e1-5888-5f50-a477-d6f6e2849960",
@@ -32023,6 +32065,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "c5cda7b8-5d0a-59e5-9b94-b829d320246e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2009235986",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "戌夜初Hajime",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
     },
     {
       "uuid": "01aa8469-8af1-56e9-97e3-ea19d15b7147",
@@ -56806,6 +56866,24 @@
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
     },
     {
+      "uuid": "d1107013-5b30-5414-8903-834f5c32ff80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1315870194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙拉_Fula",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
+    },
+    {
       "uuid": "e0aed904-72c9-5e10-85a5-7e1afc84daf4",
       "type": "vtuber",
       "bot": false,
@@ -63971,6 +64049,29 @@
         "default": "cn"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "2ba43540-71b2-5ca8-858f-b0c83d9c9867",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1263271233",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Rei1011",
+          "type": "official",
+          "platform": "pomeet"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃伊_Rei",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
     },
     {
       "uuid": "fb49926d-3e6b-5317-ba2c-1a64d2d0081b",
