@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625412235
+    "timestamp": 1625575042
   },
   "vtbs": [
     {
@@ -45026,6 +45026,23 @@
       "name": {
         "extra": [],
         "cn": "熏小染",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d70d5b0d-845b-53e8-8888-aab330cc563b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3016287",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熹咕哇",
         "default": "cn"
       }
     },
