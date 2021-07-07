@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625630467
+    "timestamp": 1625640312
   },
   "vtbs": [
     {
@@ -15898,6 +15898,25 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "534b29d1-4866-519b-9ccb-8bd0d878cb5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2277475",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "依久奈",
+        "en": "ikyuna",
+        "jp": "いきゅな",
+        "default": "cn"
+      }
     },
     {
       "uuid": "733be5df-3c41-5d04-acae-6d9448011e0b",
