@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625658526
+    "timestamp": 1625665209
   },
   "vtbs": [
     {
@@ -752,6 +752,23 @@
       "name": {
         "extra": [],
         "cn": "Akie秋绘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5095517d-5ba4-5d47-b291-92faf62d7b0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4400255",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Akira",
         "default": "cn"
       }
     },
