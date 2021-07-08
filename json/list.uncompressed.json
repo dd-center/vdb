@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625665209
+    "timestamp": 1625749701
   },
   "vtbs": [
     {
@@ -24479,6 +24479,27 @@
         "default": "jp"
       },
       "group": "6696f9f6-e159-5fa0-882a-1b1213a68556"
+    },
+    {
+      "uuid": "5fbbe9bf-f88b-5481-8bc9-fded177d9e6e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1120544917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "可愛川ゆあの",
+        "cn": "原酱",
+        "kr": "유아노",
+        "en": "Enokawa Yuano",
+        "default": "jp"
+      },
+      "group": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56"
     },
     {
       "uuid": "670a576c-c9f7-589e-9479-0ca4e447137b",
