@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625749933
+    "timestamp": 1625755828
   },
   "vtbs": [
     {
@@ -43564,6 +43564,23 @@
         "extra": [],
         "CN": "海帕hyper",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "41941530-99d2-5c7f-944b-b6d76fbf534b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1687766935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海月薰kaoru",
+        "default": "cn"
       }
     },
     {
