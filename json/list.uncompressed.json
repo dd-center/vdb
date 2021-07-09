@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625815365
+    "timestamp": 1625820745
   },
   "vtbs": [
     {
@@ -35689,6 +35689,23 @@
       "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
     },
     {
+      "uuid": "eb3021ae-adc8-5982-9402-237b4e30996d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1782342595",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春里Haruri",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1388c2b6-5041-5293-bed1-4ada01717445",
       "type": "vtuber",
       "bot": false,
@@ -37979,6 +37996,23 @@
       "name": {
         "extra": [],
         "cn": "李豆沙_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8cc309cd-5fbb-523b-a27f-af8510a9c22d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34099792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "李青云LiQingyun",
         "default": "cn"
       }
     },
