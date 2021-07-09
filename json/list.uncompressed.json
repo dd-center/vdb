@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625815010
+    "timestamp": 1625815365
   },
   "vtbs": [
     {
@@ -5047,11 +5047,10 @@
         }
       ],
       "name": {
-        "extra": [
-          "普罗维登"
-        ],
-        "cn": "Providence",
-        "default": "cn"
+        "extra": [],
+        "en": "Providence",
+        "cn": "普罗维登",
+        "default": "en"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
