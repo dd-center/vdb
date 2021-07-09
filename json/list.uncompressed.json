@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625820745
+    "timestamp": 1625829848
   },
   "vtbs": [
     {
@@ -12916,6 +12916,24 @@
         "jp": "三日暦Official",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "8f32eb28-94f7-5833-8a28-056361a5fadc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2022864237",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三日月佑Official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
       "uuid": "33cbcee9-b260-5842-8a0d-d10bd6dc38fc",
