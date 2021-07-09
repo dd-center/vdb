@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625761706
+    "timestamp": 1625814940
   },
   "vtbs": [
     {
@@ -52196,6 +52196,23 @@
       "name": {
         "extra": [],
         "cn": "秋月枫Kaede",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9dd66035-f33c-5cce-aaad-3ea2c1c2cdd6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "286914392",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋淩",
         "default": "cn"
       }
     },
