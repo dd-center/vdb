@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625830516
+    "timestamp": 1625839685
   },
   "vtbs": [
     {
@@ -63231,6 +63231,24 @@
         "cn": "邀墨やも_channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "97afa6e0-c85c-5177-9434-f44d77aa9c2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8099542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "邪恶的呆毛",
+        "default": "cn"
+      },
+      "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
     },
     {
       "uuid": "3dd3ef2e-5c8d-513b-81b5-ab247609c096",
