@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1625840066
+    "timestamp": 1625850191
   },
   "vtbs": [
     {
@@ -25933,7 +25933,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "姬咲柚流Official",
+        "cn": "姬咲柚流",
+        "jp": "姫咲ゆずる",
         "default": "cn"
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
@@ -63132,6 +63133,24 @@
       "group": "9934d233-a130-5459-8554-ecc7234d2891"
     },
     {
+      "uuid": "37a214f9-8e8f-5a7a-a586-4001050e52a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "471934420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "逢魔琪拉拉搬运",
+        "default": "cn"
+      },
+      "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
+    },
+    {
       "uuid": "7c6365ec-202e-5ad1-85f1-2c11c0decd66",
       "type": "vtuber",
       "bot": false,
@@ -68487,7 +68506,7 @@
       ],
       "name": {
         "extra": [],
-        "jp": "鬼灯わらべ",
+        "jp": "鬼灯童搬运",
         "default": "jp"
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1"
