@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626528254
+    "timestamp": 1626588858
   },
   "vtbs": [
     {
@@ -3742,6 +3742,18 @@
         "cn": "Minto薄荷糖",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "da920113-15d7-5094-8475-71c887d37f0d",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "Miracle-Link",
+        "default": "cn"
+      },
+      "group": "da920113-15d7-5094-8475-71c887d37f0d"
     },
     {
       "uuid": "35e48da1-ce7f-544b-a4a6-45bf312b0190",
@@ -39544,6 +39556,24 @@
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
+      "uuid": "67bd7ddf-dcc8-5559-8822-88a0457d4e96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1936358544",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗蝶Chyou",
+        "default": "cn"
+      },
+      "group": "da920113-15d7-5094-8475-71c887d37f0d"
+    },
+    {
       "uuid": "6c646955-a85d-5eb5-b535-820a72f71ce4",
       "type": "vtuber",
       "bot": false,
@@ -61260,6 +61290,24 @@
         "ch": "観月瑠璃Official",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "e0a6ee97-0f39-5b61-92d6-0b343d4f3f78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2619005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "见月izumi",
+        "default": "cn"
+      },
+      "group": "da920113-15d7-5094-8475-71c887d37f0d"
     },
     {
       "uuid": "fda4482f-2d34-5354-a94c-a83d94d3d53f",
