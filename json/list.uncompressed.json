@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626601377
+    "timestamp": 1626603851
   },
   "vtbs": [
     {
@@ -51254,6 +51254,28 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "3dff61ea-0bc4-5ab4-8ec7-28d0d0c732ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "74917341",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ishikawaHneko",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "石川胜",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b7959579-1499-5459-86d3-79d9436b6716",
