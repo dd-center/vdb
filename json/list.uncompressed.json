@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626588858
+    "timestamp": 1626589425
   },
   "vtbs": [
     {
@@ -3747,7 +3747,13 @@
       "uuid": "da920113-15d7-5094-8475-71c887d37f0d",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "1572906896",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "Miracle-Link",
@@ -56804,7 +56810,7 @@
         "cn": "艾柚ayo",
         "default": "cn"
       },
-      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+      "group": "da920113-15d7-5094-8475-71c887d37f0d"
     },
     {
       "uuid": "76c914b7-9fcc-5cc4-9a17-e5364699b7cc",
