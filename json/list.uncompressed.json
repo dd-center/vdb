@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626611032
+    "timestamp": 1626619394
   },
   "vtbs": [
     {
@@ -22636,6 +22636,24 @@
         "cn": "墨茶Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "14893d49-5bac-55ef-9d90-bcb1b1b242ca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1405239035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨菲丝Moffys",
+        "default": "cn"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
       "uuid": "92594607-8f7e-5bda-9990-69aa25f519ff",
