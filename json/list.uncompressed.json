@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626589425
+    "timestamp": 1626590288
   },
   "vtbs": [
     {
@@ -69318,6 +69318,24 @@
         "jp": "鶴傘リア",
         "en": "tsukasa ria",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "55efd8ac-9f4d-5b77-86c0-9fa11ca4437e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1329262",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹤见星绪",
+        "jp": "鶴見星緒",
+        "default": "cn"
       }
     },
     {
