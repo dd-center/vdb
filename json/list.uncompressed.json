@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626704986
+    "timestamp": 1626707661
   },
   "vtbs": [
     {
@@ -28987,6 +28987,24 @@
         "default": "cn"
       },
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
+    },
+    {
+      "uuid": "2e0ed61c-64ba-55d5-b099-51ead29e4021",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1323227037",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山椒阿露波Arpa",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "f49cddce-5ad0-54e6-b876-da39f36944b4",
