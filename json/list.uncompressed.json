@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626780746
+    "timestamp": 1626787351
   },
   "vtbs": [
     {
@@ -54797,6 +54797,23 @@
       "name": {
         "extra": [],
         "cn": "絵守未來",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "45780424-560d-5be5-8476-757dcb5bd2fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "776784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "絵梨奈えりな",
         "default": "cn"
       }
     },
