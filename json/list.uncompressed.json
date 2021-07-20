@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626787351
+    "timestamp": 1626787378
   },
   "vtbs": [
     {
@@ -50386,6 +50386,23 @@
       "name": {
         "extra": [],
         "cn": "白鸟泽野",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a69de47-771b-583a-b1b9-d835a4291ecd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "673614536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鸟爱KiRa",
         "default": "cn"
       }
     },
