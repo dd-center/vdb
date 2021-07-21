@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626879692
+    "timestamp": 1626879825
   },
   "vtbs": [
     {
@@ -18466,6 +18466,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "1935fb23-e580-5e65-b192-4df7dfad82cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4893930",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "化学炼金师清小岚Seiran",
+        "default": "cn"
+      }
     },
     {
       "uuid": "033d09e7-801f-59f1-af91-6fe271f15b10",
