@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1626876439
+    "timestamp": 1626879692
   },
   "vtbs": [
     {
@@ -60433,6 +60433,23 @@
       "name": {
         "extra": [],
         "cn": "蓝朵_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a8db64d0-dc4d-5548-88f1-fb71e1f4a216",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1828371367",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蓝歌Aika",
         "default": "cn"
       }
     },
