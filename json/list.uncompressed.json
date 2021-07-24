@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627136337
+    "timestamp": 1627136389
   },
   "vtbs": [
     {
@@ -13003,6 +13003,26 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "ad4feb99-5441-5bd6-a9aa-c53884773c82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36887854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三日月真夜",
+        "jp": "三日月真夜",
+        "en": "Mayo Mikazuki",
+        "default": "cn"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "33cbcee9-b260-5842-8a0d-d10bd6dc38fc",
