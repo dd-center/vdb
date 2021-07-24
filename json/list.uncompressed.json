@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627014009
+    "timestamp": 1627136337
   },
   "vtbs": [
     {
@@ -8124,6 +8124,23 @@
       "name": {
         "extra": [],
         "cn": "shadow_sakuya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "80968383-437f-59d9-85dd-16b4216b0251",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "249118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "shourei小N",
         "default": "cn"
       }
     },
