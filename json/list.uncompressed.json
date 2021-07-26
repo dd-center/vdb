@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627288277
+    "timestamp": 1627288537
   },
   "vtbs": [
     {
@@ -51609,6 +51609,23 @@
         "default": "jp"
       },
       "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
+    },
+    {
+      "uuid": "0cf73531-0ec4-5208-8708-3a814b12d543",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14397741",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "礼弥Hisashi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b99162d6-7e23-5efc-b144-52572320e7d1",
