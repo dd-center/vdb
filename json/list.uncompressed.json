@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627136420
+    "timestamp": 1627288206
   },
   "vtbs": [
     {
@@ -56679,6 +56679,23 @@
         "extra": [],
         "jp": "能美枫铃だよ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "b77f6ca3-963b-52fb-ae86-f30289d4d2f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "188888131",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "脆鲨12138",
+        "default": "cn"
       }
     },
     {
