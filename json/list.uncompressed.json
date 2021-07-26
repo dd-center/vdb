@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627288206
+    "timestamp": 1627288277
   },
   "vtbs": [
     {
@@ -66559,6 +66559,23 @@
       "name": {
         "extra": [],
         "cn": "雪樱の神",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eadfd806-ee16-53c1-9d84-5cd689c0e9e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2284456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪歌Hana_Official",
         "default": "cn"
       }
     },
