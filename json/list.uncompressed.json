@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627288537
+    "timestamp": 1627389291
   },
   "vtbs": [
     {
@@ -67383,6 +67383,23 @@
       "name": {
         "extra": [],
         "cn": "霞水母Cyan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cb918f8b-f43f-55ee-ad0f-eee444e635a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1648978526",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霧切澪official",
         "default": "cn"
       }
     },
