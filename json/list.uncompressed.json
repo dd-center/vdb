@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627458521
+    "timestamp": 1627458595
   },
   "vtbs": [
     {
@@ -54674,6 +54674,23 @@
         "extra": [],
         "ch": "紫澪心",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "48cb876c-ed48-54ec-9677-9a1ba51ad133",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34063004",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫盐酱Official",
+        "default": "cn"
       }
     },
     {
