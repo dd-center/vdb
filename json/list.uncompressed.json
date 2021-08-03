@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627970793
+    "timestamp": 1627970853
   },
   "vtbs": [
     {
@@ -10541,31 +10541,6 @@
         "default": "cn"
       },
       "group": "2773e11c-0c30-55f6-93b5-042687c64d38"
-    },
-    {
-      "uuid": "549a7f54-6047-54a8-a450-7af043fc8d98",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "12485637",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "handking10",
-          "type": "official",
-          "platform": "peing"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "エチちゃん",
-        "cn": "宫园凛",
-        "en": "RinMiyazono",
-        "default": "jp"
-      },
-      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "c231520a-4f8b-54c1-b88c-80e6f4a34785",
@@ -27220,6 +27195,31 @@
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
     },
     {
+      "uuid": "fc549c74-5c77-5777-b06d-6d3fc2e375e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12485637",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "handking10",
+          "type": "official",
+          "platform": "peing"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "エチちゃん",
+        "cn": "宫园凛",
+        "en": "RinMiyazono",
+        "default": "jp"
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+    },
+    {
       "uuid": "fbfeac0a-437a-50d5-a43d-993a508533a9",
       "type": "vtuber",
       "bot": false,
@@ -27763,24 +27763,6 @@
         "cn": "小木木呀-",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "39900308-4d5e-5039-9133-9c3808d46bb2",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "741520",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "小本本_茶冷",
-        "default": "cn"
-      },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "997f057b-97fa-56f6-8dcf-39fdbad3accf",
@@ -48087,7 +48069,7 @@
       }
     },
     {
-      "uuid": "a8b505cb-0760-53cf-a6dd-83112bbd475b",
+      "uuid": "c5c50884-8c9a-502e-a82b-3e0f0695effc",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -48099,8 +48081,9 @@
       ],
       "name": {
         "extra": [],
-        "en": "琉绮Ruk",
-        "default": "en"
+        "cn": "琉绮",
+        "en": "Ruki",
+        "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
@@ -51783,6 +51766,7 @@
       "name": {
         "extra": [],
         "cn": "祖娅纳惜",
+        "en": "Aria",
         "default": "cn"
       },
       "group": "9929349e-5054-5d7d-b452-7439636aaa33"
@@ -59100,6 +59084,25 @@
       }
     },
     {
+      "uuid": "ab35112d-71be-5f70-84d1-2fae01ffacab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "741520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶冷",
+        "en": "Karon",
+        "default": "cn"
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+    },
+    {
       "uuid": "29e2e633-e36f-5966-a221-20ea159e45fb",
       "type": "vtuber",
       "bot": false,
@@ -65631,10 +65634,11 @@
       ],
       "name": {
         "extra": [],
-        "cn": "阿梓从小就很可爱",
+        "cn": "阿梓",
+        "en": "Azuka",
         "default": "cn"
       },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "dd46fab8-0aae-5498-9cca-ad362c9884ac",
@@ -66784,7 +66788,7 @@
       }
     },
     {
-      "uuid": "0f4e14f3-3fba-5102-b627-1af4100fadd4",
+      "uuid": "6d2d92b9-3c98-5d16-9363-89adbfa01a64",
       "type": "vtuber",
       "bot": false,
       "accounts": [
