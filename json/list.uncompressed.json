@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627970853
+    "timestamp": 1627970995
   },
   "vtbs": [
     {
@@ -64258,6 +64258,24 @@
         "default": "cn"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "949b2f02-4c66-59cd-a058-23184aa8795c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1252264991",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金城院花恋Official",
+        "jp": "金城院カレン",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c8239140-5945-53bc-860e-b02f62c29243",
