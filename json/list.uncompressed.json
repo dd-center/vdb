@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1627971353
+    "timestamp": 1628092806
   },
   "vtbs": [
     {
@@ -48412,6 +48412,24 @@
         "default": "cn"
       },
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
+      "uuid": "532b2e69-1742-533d-b203-c2a57c1f39b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞娅_Rhea",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "6571616b-f070-5c65-9320-5bd92bd4275b",
