@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628870407
+    "timestamp": 1628870538
   },
   "vtbs": [
     {
@@ -47861,6 +47861,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "396ccbfa-c459-5073-9061-8e0477a1e3d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "556027338",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玥一筱Yumi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "38e7d474-ac58-516d-88f1-de6fd7b04f03",
