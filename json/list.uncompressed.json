@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628870335
+    "timestamp": 1628870407
   },
   "vtbs": [
     {
@@ -31811,6 +31811,24 @@
         "default": "cn"
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
+    },
+    {
+      "uuid": "35e0a83c-5085-59f5-86a5-be71115852d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608690",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恋诗夜Koxia",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "2367f849-39f8-57f5-875d-a75b6e232f9b",
