@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628869995
+    "timestamp": 1628870335
   },
   "vtbs": [
     {
@@ -57808,6 +57808,40 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "5180089e-2364-5e77-9081-d4c4a512ca01",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1340967709",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hanakumo_rin",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCPdKdMpXlmwcGdfiUTNusfg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "5ADF71CB910CB046_e54ef8",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花云凛",
+        "jp": "花雲りん",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "47a1c73a-980a-569c-91e2-af8c085cae9c",
