@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628871071
+    "timestamp": 1628871319
   },
   "vtbs": [
     {
@@ -30634,6 +30634,24 @@
         "cn": "广音笑颜_Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "99527031-3ac0-5483-a4e7-5a68628f34a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608695",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "库伽Hakuja",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "d34a7739-92e7-5a0f-a13f-bd5469900202",
