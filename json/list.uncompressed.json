@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628870840
+    "timestamp": 1628871052
   },
   "vtbs": [
     {
@@ -33183,6 +33183,23 @@
         "default": "cn"
       },
       "group": "81fb6430-675c-5177-9443-8dedd2b96730"
+    },
+    {
+      "uuid": "ce3f78e1-ed99-5f5a-a67a-9705f23a704a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "117199262",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "斯托拉斯sato",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02a19a40-7cf1-5d3e-a95c-ec0f720ab4ee",
