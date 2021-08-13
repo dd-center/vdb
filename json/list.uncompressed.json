@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628528541
+    "timestamp": 1628869995
   },
   "vtbs": [
     {
@@ -39142,6 +39142,23 @@
       "name": {
         "extra": [],
         "cn": "柒玖or伍陆channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5ff84340-9696-575e-9514-312edeaba0f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8198901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "染哥哥_",
         "default": "cn"
       }
     },
