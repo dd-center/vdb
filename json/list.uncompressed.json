@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1629077093
+    "timestamp": 1629132108
   },
   "vtbs": [
     {
@@ -21415,6 +21415,23 @@
       "name": {
         "extra": [],
         "cn": "咕噜大魔王w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0dbaac1f-abcb-5fd3-aae7-df2a3a34854e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1620747197",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咖栗kari",
         "default": "cn"
       }
     },
