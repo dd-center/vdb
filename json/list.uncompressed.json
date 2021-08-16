@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1628871319
+    "timestamp": 1629077093
   },
   "vtbs": [
     {
@@ -14315,6 +14315,23 @@
       "name": {
         "extra": [],
         "cn": "九重紫Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5803302e-184a-52b5-8253-7cb3ab8a6310",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "168168915",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九降",
         "default": "cn"
       }
     },
