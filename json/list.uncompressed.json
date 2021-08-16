@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1629132108
+    "timestamp": 1629132314
   },
   "vtbs": [
     {
@@ -27909,6 +27909,23 @@
       "name": {
         "extra": [],
         "cn": "小松幸Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "16c5727e-72e1-576a-89c6-0d3c013154d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "385579511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小林かのんOfficial",
         "default": "cn"
       }
     },
