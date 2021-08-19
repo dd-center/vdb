@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1629132314
+    "timestamp": 1629351653
   },
   "vtbs": [
     {
@@ -15572,7 +15572,7 @@
         "en": "Isabella",
         "default": "cn"
       },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "04bd5c4e-f904-5705-9a34-73bcc77a9888",
@@ -22807,7 +22807,7 @@
         "en": "Syo",
         "default": "cn"
       },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "0fbc2d36-d336-50fd-903b-c3c677371587",
@@ -23640,6 +23640,24 @@
         "default": "jp"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "0c409ac5-af97-51aa-9eaa-99acbd0403d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608689",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜宫Yomiya",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "78df8c3c-5a41-5e16-9df4-86ecbc26ab58",
@@ -27708,7 +27726,7 @@
         "cn": "小可学妹",
         "default": "cn"
       },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "08eb207a-8139-5b69-acba-ec1c043429f0",
@@ -31233,23 +31251,6 @@
         "default": "cn"
       },
       "group": "4119dbf4-9390-5a1e-8b90-6734005c8b85"
-    },
-    {
-      "uuid": "475f85fb-e928-5807-8ce2-93e2d47d5fdc",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "176836079",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "徐天依",
-        "default": "cn"
-      }
     },
     {
       "uuid": "87e847b7-83eb-5276-b2a7-db96d3f1f27f",
@@ -37982,6 +37983,24 @@
         "default": "cn"
       },
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
+    },
+    {
+      "uuid": "4d56b351-89fa-504a-9728-c32c66f06e2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未羽Miyu",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "7b80509b-d947-571b-9de5-0cd70d89de0a",
@@ -54460,6 +54479,24 @@
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
+      "uuid": "e9fdd01c-d1c3-5752-9b74-f789fb7cc4de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "176836079",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糯依Noi",
+        "default": "cn"
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+    },
+    {
       "uuid": "1031fc63-666d-51ee-b562-9f4bb3689f2b",
       "type": "vtuber",
       "bot": false,
@@ -54693,8 +54730,7 @@
         "extra": [],
         "cn": "素星_Official",
         "default": "cn"
-      },
-      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
+      }
     },
     {
       "uuid": "41edaa54-bd87-5c7c-88f7-04326c4ecfd4",
@@ -57043,6 +57079,11 @@
           "id": "6853766",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "8uJ3LMdt",
+          "type": "official",
+          "platform": "pomeet"
         }
       ],
       "name": {
@@ -57050,7 +57091,7 @@
         "cn": "舒三妈",
         "default": "cn"
       },
-      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "f85771ea-db39-51a6-bffa-246b8cbdce17",
@@ -61593,7 +61634,7 @@
         "cn": "蜜球兔",
         "default": "cn"
       },
-      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "921fc652-6a83-55db-a574-6ce583745bd7",
@@ -63560,7 +63601,7 @@
         "cn": "轴伊Joi",
         "default": "cn"
       },
-      "group": "53ad5ef0-5125-56c0-99c1-8c4352b7afbe"
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "f904d565-5126-5d2a-8ae5-6786da193937",
