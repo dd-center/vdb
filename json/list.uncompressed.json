@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1629351653
+    "timestamp": 1629358442
   },
   "vtbs": [
     {
@@ -67547,6 +67547,23 @@
       "name": {
         "extra": [],
         "cn": "雷柏磷ボリン",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5a2e91f1-c7fc-5bb1-9285-b9c57c4159f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "604738184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雷米尔Remiel",
         "default": "cn"
       }
     },
