@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1629637823
+    "timestamp": 1630246136
   },
   "vtbs": [
     {
@@ -43843,6 +43843,24 @@
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
     },
     {
+      "uuid": "3cf1c690-0e30-5e37-a9d8-d3cacd868a82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22792002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛汐亚Lucia",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
       "uuid": "685f391f-1896-548a-86d0-797e2bb06c30",
       "type": "vtuber",
       "bot": false,
@@ -51837,6 +51855,24 @@
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
+    },
+    {
+      "uuid": "77729433-141a-5f37-9b22-6cc1232cf124",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2110481733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "砂糖Satou_",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "c29f7242-7962-5adb-8987-515c30476106",
