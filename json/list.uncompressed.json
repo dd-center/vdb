@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630646950
+    "timestamp": 1630690281
   },
   "vtbs": [
     {
@@ -41832,6 +41832,39 @@
       "name": {
         "extra": [],
         "cn": "樱岛泽_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eaa1c31f-8ded-5adf-bbc9-1e62370e40ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435539662",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UC3-jXrZXv-PQshpaTQpicPQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "SakurazukiKanon",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://17.live/ja/profile/r/2200494",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱月花音",
+        "jp": "桜月花音",
         "default": "cn"
       }
     },
