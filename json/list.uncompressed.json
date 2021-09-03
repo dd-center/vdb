@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630646555
+    "timestamp": 1630646883
   },
   "vtbs": [
     {
@@ -38947,6 +38947,24 @@
         "default": "cn"
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
+    },
+    {
+      "uuid": "8fe04c5e-fa64-552b-8f65-ccecfe751a87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1408050616",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林原白夜",
+        "default": "cn"
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "510de6c0-6f38-53ce-b644-42923f7953ec",
