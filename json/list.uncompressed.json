@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630246136
+    "timestamp": 1630646395
   },
   "vtbs": [
     {
@@ -43966,6 +43966,23 @@
       "name": {
         "extra": [],
         "cn": "派大露が",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a09aba4d-5702-525e-bbd4-9a5c5c583748",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "470085432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "派萝喵Official",
         "default": "cn"
       }
     },
