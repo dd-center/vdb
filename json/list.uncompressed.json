@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630732658
+    "timestamp": 1630732830
   },
   "vtbs": [
     {
@@ -36761,6 +36761,23 @@
       "name": {
         "extra": [],
         "cn": "最poi的Nia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4da1a040-97c0-5fe0-802c-2c2ea53172cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2960092",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "最喜欢派蒙了",
         "default": "cn"
       }
     },
