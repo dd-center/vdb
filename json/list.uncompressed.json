@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630690281
+    "timestamp": 1630731748
   },
   "vtbs": [
     {
@@ -59938,6 +59938,23 @@
       "name": {
         "extra": [],
         "cn": "莉莉斯official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d991c164-c2e0-5823-9bea-a7cc807acb9b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1055615738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉莉洁想吃点心",
         "default": "cn"
       }
     },
