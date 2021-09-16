@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1630732830
+    "timestamp": 1631767026
   },
   "vtbs": [
     {
@@ -16444,6 +16444,23 @@
       }
     },
     {
+      "uuid": "503b94e4-f6aa-5c9e-a500-48752aa23fa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2076245548",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兎乃",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e926839f-6734-5c39-bac8-66019391042e",
       "type": "vtuber",
       "bot": false,
@@ -25302,7 +25319,9 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "沫茗Awako"
+        ],
         "cn": "天香沫茗_Official",
         "default": "cn"
       }
@@ -27865,6 +27884,25 @@
       "name": {
         "extra": [],
         "cn": "小怪受",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "00cf8160-de57-5476-b540-11864d587b39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2138226313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "小懒猫"
+        ],
+        "cn": "小懒猫Meow",
         "default": "cn"
       }
     },
@@ -37722,10 +37760,13 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "朝海沫霓Moni"
+        ],
         "cn": "朝海沫霓",
         "default": "cn"
-      }
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "be1ee63e-6435-579b-980f-5053140c5903",
@@ -62765,6 +62806,23 @@
       "name": {
         "extra": [],
         "cn": "谷清羽_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a3cad974-12da-56b0-9231-f73d93b01591",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1252992677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆包软软哒",
         "default": "cn"
       }
     },
