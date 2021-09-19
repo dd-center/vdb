@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1631767056
+    "timestamp": 1632045147
   },
   "vtbs": [
     {
@@ -47525,6 +47525,23 @@
       "name": {
         "extra": [],
         "cn": "猫沢沢沢",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e5c3386-ba7b-5178-8df0-f61f7019863e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5393924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫沢玉",
         "default": "cn"
       }
     },
