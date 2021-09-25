@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632559920
+    "timestamp": 1632559989
   },
   "vtbs": [
     {
@@ -39299,6 +39299,23 @@
         "default": "cn"
       },
       "group": "ef62fd18-c22b-5457-9453-48819f385b8f"
+    },
+    {
+      "uuid": "01afd35f-b4b5-5f2d-84a4-55af6431f62a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1441210790",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林月音Tsukine",
+        "default": "cn"
+      }
     },
     {
       "uuid": "636468a5-e366-5532-81c7-7343b8dea390",
