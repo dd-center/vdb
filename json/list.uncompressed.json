@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561686
+    "timestamp": 1632561735
   },
   "vtbs": [
     {
@@ -63297,6 +63297,23 @@
         "default": "cn"
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
+    },
+    {
+      "uuid": "ba2cd3df-0d1b-5996-adc1-04b71b6e1176",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1512788587",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺娅Suki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "314dec73-d590-5ea4-8a95-6f679d513691",
