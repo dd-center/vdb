@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560849
+    "timestamp": 1632560875
   },
   "vtbs": [
     {
@@ -26487,6 +26487,24 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "6e7a071d-1e7c-57c8-a0ad-09414a9baf7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477995020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娜塔莉娅_FoxChannel",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "d92eab98-0ae5-5312-b55f-110c24e74f1f",
