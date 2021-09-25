@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560181
+    "timestamp": 1632560360
   },
   "vtbs": [
     {
@@ -38359,6 +38359,23 @@
       "name": {
         "extra": [],
         "cn": "本气黑猫",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b365aba0-002b-58ec-b1f5-659037df0a9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7309773",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "本猫official",
         "default": "cn"
       }
     },
