@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632558465
+    "timestamp": 1632558692
   },
   "vtbs": [
     {
@@ -60567,6 +60567,23 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
+    },
+    {
+      "uuid": "69da0617-2ad3-5407-89ef-f7b50fb62d2f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "926723",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菅原樱-channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dacce07a-5df5-575c-aa3e-8f06485dafa4",
