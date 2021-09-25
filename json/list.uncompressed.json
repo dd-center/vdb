@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561776
+    "timestamp": 1632561897
   },
   "vtbs": [
     {
@@ -4393,6 +4393,23 @@
         "extra": [],
         "en": "NoWorld",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "d6a47ef4-34b3-507f-90e7-4e966e973cc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "415481887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "NoWorld_思绪イデア",
+        "default": "jp"
       }
     },
     {
