@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560574
+    "timestamp": 1632560688
   },
   "vtbs": [
     {
@@ -70511,6 +70511,23 @@
         "default": "cn"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "1ee553e8-5e7f-5ca5-a089-050f0fbd8eaf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1286614712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔仙女团-严莉莉",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ec28febd-6eaf-549b-95a2-449acdba9b10",
