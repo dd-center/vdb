@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632557117
+    "timestamp": 1632557296
   },
   "vtbs": [
     {
@@ -61494,6 +61494,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "89275e6d-4b61-5aa3-b593-9e82b71bab5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "532791",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薇拉Vera-Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "05c9b26f-585e-597d-9c03-850c8bd4afb5",
