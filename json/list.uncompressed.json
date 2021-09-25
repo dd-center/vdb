@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560063
+    "timestamp": 1632560181
   },
   "vtbs": [
     {
@@ -21063,6 +21063,33 @@
         "default": "cn"
       },
       "group": "a0ee759e-2876-5954-a8fd-fb8bf8db84d2"
+    },
+    {
+      "uuid": "7948bf60-24ed-52ad-8366-ec3f392ffcbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1417202064",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "aoichannel",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "v_Aoii",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "向葵": "Official",
+        "default": "向葵"
+      }
     },
     {
       "uuid": "71bc7ef1-2087-575d-88b2-f03c3e8e35aa",
