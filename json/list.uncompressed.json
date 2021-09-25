@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561157
+    "timestamp": 1632561294
   },
   "vtbs": [
     {
@@ -42169,6 +42169,23 @@
       "name": {
         "extra": [],
         "cn": "樱井花咲_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0aedda30-523c-5dbb-8ebb-80995631c80e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1360503484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱井遥Officia",
         "default": "cn"
       }
     },
