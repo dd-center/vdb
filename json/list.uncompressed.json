@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632559989
+    "timestamp": 1632560063
   },
   "vtbs": [
     {
@@ -43659,6 +43659,23 @@
       "name": {
         "extra": [],
         "cn": "沙华Candy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9c7c1dbf-67f0-518d-adff-45b01c1f504a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "569192826",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沙口酱official",
         "default": "cn"
       }
     },
