@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632562856
+    "timestamp": 1632562975
   },
   "vtbs": [
     {
@@ -16410,6 +16410,24 @@
       "group": "003983a6-421a-5e75-93e1-841d5c8ee9f2"
     },
     {
+      "uuid": "0b9c009b-2b44-5919-96ef-ce3ced865ab8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608711",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克克_Keke",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "9329e3c3-2b3d-5ebd-8db1-b00571aafad0",
       "type": "vtuber",
       "bot": false,
@@ -20359,6 +20377,24 @@
         "cn": "友利和奈Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9dfea21c-6c2f-5e3c-937e-b0f919b7ddbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "友夏Uka",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "068eaa6b-23ca-5444-8f85-42350ffb13f9",
@@ -29147,6 +29183,24 @@
       }
     },
     {
+      "uuid": "b8c1ce8f-a98e-540e-b8b2-0f8f48bff7b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤格Yog",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "916d05db-e0a3-55d7-b1a5-b9cdd46a7720",
       "type": "vtuber",
       "bot": false,
@@ -37110,6 +37164,24 @@
         "ch": "暴躁dd兔栗",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "7666a10c-b134-57b4-8d4c-9b6e24082567",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暴食Hunger",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "61d9a456-a6f7-57ab-a52b-407530269acc",
@@ -65657,7 +65729,8 @@
         "extra": [],
         "cn": "金克茜Jinxy",
         "default": "cn"
-      }
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "d77eb52e-b44c-5819-9972-aeae9952b92d",
@@ -69175,7 +69248,8 @@
         "extra": [],
         "cn": "露露娜Ruruna",
         "default": "cn"
-      }
+      },
+      "group": "f40ed228-184f-5f87-83a2-ea4278286345"
     },
     {
       "uuid": "6905d035-e99d-509e-8fe2-ff38adfbba2d",
