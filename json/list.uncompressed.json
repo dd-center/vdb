@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632559328
+    "timestamp": 1632559364
   },
   "vtbs": [
     {
@@ -39121,6 +39121,23 @@
       "name": {
         "extra": [],
         "cn": "松永彼方_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a5559a4-f58d-5ba4-b753-b9cd62f682df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1061608795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "松雪安娜",
         "default": "cn"
       }
     },
