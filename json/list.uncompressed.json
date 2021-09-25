@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561897
+    "timestamp": 1632562683
   },
   "vtbs": [
     {
@@ -12902,6 +12902,23 @@
       "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
+      "uuid": "aa4611fe-7ede-5515-b21f-e994faa6289f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1121411561",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万灼",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f1f7479c-c638-56bd-85b8-be76e9d6d915",
       "type": "vtuber",
       "bot": false,
@@ -23057,6 +23074,23 @@
       "name": {
         "extra": [],
         "cn": "夏卜卜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2c5b9b81-8608-5bf3-b6e9-7e71caef984f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3070918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏威夷的尾巴是青椒",
         "default": "cn"
       }
     },
@@ -33546,6 +33580,23 @@
       }
     },
     {
+      "uuid": "a54cef11-e2e9-53d6-a5a8-825eae6da5a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24569235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "文艺",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "820aab3f-7757-5952-bd83-62fb5c6ccfd7",
       "type": "vtuber",
       "bot": false,
@@ -35494,19 +35545,38 @@
       }
     },
     {
-      "uuid": "ae491a1c-c400-5e88-9eb6-3622c698f8f1",
-      "type": "group",
+      "uuid": "d38be169-00fc-543c-874f-134171cd38a8",
+      "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "32892448",
+          "id": "401315430",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "en": "星研社",
+        "cn": "星瞳official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ae491a1c-c400-5e88-9eb6-3622c698f8f1",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1239365873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Hoshisaguri Project",
+        "jp": "星研社プロジェクト",
+        "cn": "星研社project",
         "default": "en"
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
@@ -45799,6 +45869,23 @@
       }
     },
     {
+      "uuid": "ec67e0c3-538f-5942-ae3b-78563fc95622",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4947340",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澪音奏Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9629bc5a-5d2e-54a8-b7cd-2507843aceb0",
       "type": "vtuber",
       "bot": false,
@@ -51851,6 +51938,23 @@
       "name": {
         "extra": [],
         "cn": "皮皮梦_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3ce4c6ad-f9dc-5725-a81b-9d291354ac86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1020600904",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盏筠",
         "default": "cn"
       }
     },
@@ -63316,7 +63420,7 @@
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
-      "uuid": "ba2cd3df-0d1b-5996-adc1-04b71b6e1176",
+      "uuid": "d2df2852-da96-5722-9b4f-995d2b9560eb",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -63328,7 +63432,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "诺娅Suki",
+        "cn": "诺娅Sukie",
         "default": "cn"
       }
     },
