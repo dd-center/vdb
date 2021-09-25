@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632557296
+    "timestamp": 1632557333
   },
   "vtbs": [
     {
@@ -60188,6 +60188,23 @@
       "name": {
         "extra": [],
         "cn": "莉蒂娅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "89e353dd-c535-5240-b524-28a59281a981",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19076344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉香_Rika",
         "default": "cn"
       }
     },
