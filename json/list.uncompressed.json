@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561735
+    "timestamp": 1632561752
   },
   "vtbs": [
     {
@@ -64248,6 +64248,24 @@
         "cn": "路人甲official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c568db16-e1c3-56c0-a82b-7f792b59c4de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1324211803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路伊丝Louise",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "f6f4a2a1-686d-5c50-830a-7b07a93829b9",
