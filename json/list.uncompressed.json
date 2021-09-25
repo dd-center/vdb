@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632558692
+    "timestamp": 1632558929
   },
   "vtbs": [
     {
@@ -14366,6 +14366,23 @@
       "name": {
         "extra": [],
         "cn": "乾杯君Sennke",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cce5db61-36ad-5fb8-b4fd-5d33be8b41f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "686340",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二之前是一",
         "default": "cn"
       }
     },
