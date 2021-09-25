@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560911
+    "timestamp": 1632560969
   },
   "vtbs": [
     {
@@ -17531,6 +17531,23 @@
       "name": {
         "extra": [],
         "cn": "凉星狸子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "980b3288-1225-5c54-a766-dba1a092125c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "67246581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉米饭Channel",
         "default": "cn"
       }
     },
