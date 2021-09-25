@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561480
+    "timestamp": 1632561534
   },
   "vtbs": [
     {
@@ -32926,6 +32926,23 @@
       "name": {
         "extra": [],
         "cn": "战斗吧歌姬",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd4ee0b8-e733-58d6-8f33-fb521d652ab5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4600451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "戦-ZHan",
         "default": "cn"
       }
     },
