@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632561294
+    "timestamp": 1632561341
   },
   "vtbs": [
     {
@@ -29612,6 +29612,23 @@
         "default": "cn"
       },
       "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
+    },
+    {
+      "uuid": "86521b42-6c72-5b02-a513-57711e3bb35d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1643484295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岱川Doris",
+        "default": "cn"
+      }
     },
     {
       "uuid": "36f19f32-4204-5a38-963e-61c03dacd148",
