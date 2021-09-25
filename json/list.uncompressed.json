@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632560688
+    "timestamp": 1632560849
   },
   "vtbs": [
     {
@@ -61460,6 +61460,23 @@
         "extra": [],
         "cn": "葵三三",
         "en": "Haku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee0b969e-55e1-5e32-92d5-a4a49845f9ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "503820721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒂莉雅Official",
         "default": "cn"
       }
     },
