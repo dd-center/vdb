@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632562975
+    "timestamp": 1632563205
   },
   "vtbs": [
     {
@@ -32593,6 +32593,23 @@
       "name": {
         "extra": [],
         "cn": "惑星伊吕波",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "904d25e2-0dcf-5175-863d-ec4200633931",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "400421892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "惠惠_channel",
         "default": "cn"
       }
     },
