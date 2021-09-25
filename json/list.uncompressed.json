@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1632559035
+    "timestamp": 1632559165
   },
   "vtbs": [
     {
@@ -35387,6 +35387,23 @@
         "extra": [],
         "jp": "星空モノカ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d07a08e8-7385-5ff4-8d64-a51caae14284",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19488841",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星空凌",
+        "default": "cn"
       }
     },
     {
