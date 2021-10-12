@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074878
+    "timestamp": 1634075547
   },
   "vtbs": [
     {
@@ -7921,6 +7921,23 @@
       "name": {
         "extra": [],
         "cn": "miracle竹夭",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52c01b6d-ba1f-5c29-887a-e776de4a3c60",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4249389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌流Mofuu",
         "default": "cn"
       }
     },
