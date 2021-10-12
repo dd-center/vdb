@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634076143
+    "timestamp": 1634076751
   },
   "vtbs": [
     {
@@ -2518,6 +2518,23 @@
         ],
         "en": "Hetmes Askalana",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "d9f3f40a-5ca9-5905-9e0b-22f58586e104",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "369349661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn.en": "Hibi_",
+        "default": "cn.en"
       }
     },
     {
