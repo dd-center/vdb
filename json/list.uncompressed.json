@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1633955448
+    "timestamp": 1634074026
   },
   "vtbs": [
     {
@@ -52403,6 +52403,34 @@
         "extra": [],
         "cn": "真白まゆ",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "488658f2-ae65-5df9-aa54-10693821f748",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2113007488",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCW9IM0Hns7pNCoOm1OSmfEw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "spica_mV",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "真綿アルマ",
+        "cn": "真綿真珠星",
+        "default": "jp"
       }
     },
     {
