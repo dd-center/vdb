@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634076019
+    "timestamp": 1634076050
   },
   "vtbs": [
     {
@@ -5535,6 +5535,25 @@
         "cn": "Ryoko凉子",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6b4fe264-aa6e-5e59-828d-a250ba0509dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1217141241",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "RyumaChannel",
+        "jp": "リュウマ",
+        "default": "en"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "a86abd0c-cfa6-5357-bdd5-738572759560",
@@ -13123,6 +13142,11 @@
           "id": "36887854",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "https://mikazuki-channel.com",
+          "type": "official",
+          "platform": "web"
         }
       ],
       "name": {
@@ -25529,6 +25553,24 @@
       }
     },
     {
+      "uuid": "3dd75e95-daa7-5491-b896-974545580550",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2005932785",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天草ミライ",
+        "default": "jp"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
       "uuid": "8989aa39-b094-5a37-b185-dd52c81a5d83",
       "type": "vtuber",
       "bot": false,
@@ -31329,6 +31371,25 @@
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
+      "uuid": "f0a3d45f-0a9f-5298-a050-3bfb877e1055",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1555453291",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "クリームCream",
+        "cn": "库莉姆Cream",
+        "default": "jp"
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
       "uuid": "44e37102-5d91-5d80-a78b-f5587316c437",
       "type": "vtuber",
       "bot": false,
@@ -35850,6 +35911,11 @@
           "id": "1239365873",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "https://www.kty-tokyo.co.jp/vtuber",
+          "type": "official",
+          "platform": "web"
         }
       ],
       "name": {
@@ -45003,9 +45069,11 @@
       ],
       "name": {
         "extra": [],
-        "cn": "浅井有紗Arisa",
+        "cn": "浅井有纱Arisa",
+        "jp": "浅井有紗",
         "default": "cn"
-      }
+      },
+      "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
       "uuid": "17b5ec7d-2fdc-5cf7-a80b-4bead5bb4e76",
