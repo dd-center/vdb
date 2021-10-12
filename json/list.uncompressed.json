@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074818
+    "timestamp": 1634074878
   },
   "vtbs": [
     {
@@ -17227,6 +17227,29 @@
         "extra": [],
         "ch": "兮樱KaNa",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "5e3c0521-c471-5e33-99cd-dfd3ae25c443",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "381439252",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCybUlvX1pLcwwHD8ZtJWzOw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兰笛saku",
+        "jp": "蘭笛Saku",
+        "default": "cn"
       }
     },
     {
