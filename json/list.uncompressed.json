@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634076751
+    "timestamp": 1634076769
   },
   "vtbs": [
     {
@@ -29047,6 +29047,23 @@
         "extra": [],
         "jp": "小野町春香",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "fac45c40-70d8-56ba-936f-39901e32d2fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "375808112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "小金offical",
+        "default": "CN"
       }
     },
     {
