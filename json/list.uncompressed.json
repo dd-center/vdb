@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634075966
+    "timestamp": 1634076019
   },
   "vtbs": [
     {
@@ -25307,6 +25307,24 @@
         "cn": "天满妮娅Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "50e4dce0-3c82-5771-8678-6dde06b1db61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1214419475",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天瀬椿",
+        "default": "cn"
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "85fed3db-213e-581e-a2cf-86e89d5f7819",
