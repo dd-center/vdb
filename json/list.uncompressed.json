@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074493
+    "timestamp": 1634074533
   },
   "vtbs": [
     {
@@ -33098,6 +33098,23 @@
         "default": "cn"
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
+    },
+    {
+      "uuid": "07240c1a-ed85-53b5-99d6-a9b416642d7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "147297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "我可是pika",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c727277a-064f-5f10-b58f-d7177a7f0e9a",
