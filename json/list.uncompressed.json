@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074231
+    "timestamp": 1634074284
   },
   "vtbs": [
     {
@@ -45531,6 +45531,29 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+    },
+    {
+      "uuid": "8a35a6f9-0e16-50ef-b5ed-e888e593bb3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "285763930",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "452820901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温彻思墨",
+        "en": "WintrestMo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "908e5b98-8972-57f8-a0be-ab2a632fe886",
