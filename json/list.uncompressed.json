@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074662
+    "timestamp": 1634074818
   },
   "vtbs": [
     {
@@ -8383,6 +8383,24 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "66e12035-c8a0-5cb1-a5d4-365f89a544d3",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "virtio-project",
+          "type": "official",
+          "platform": "github"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "virtio",
+        "default": "cn"
+      },
+      "group": "66e12035-c8a0-5cb1-a5d4-365f89a544d3"
     },
     {
       "uuid": "73f553fe-bc06-5b12-be20-44b1190b6237",
@@ -63401,6 +63419,29 @@
         "ch": "観月瑠璃Official",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "40ceb8c8-dd06-59bb-9ae4-59fec45c1e1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12348381",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ForzenMemory",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "见习医白忆寒",
+        "default": "cn"
+      },
+      "group": "66e12035-c8a0-5cb1-a5d4-365f89a544d3"
     },
     {
       "uuid": "e0a6ee97-0f39-5b61-92d6-0b343d4f3f78",
