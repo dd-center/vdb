@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634074641
+    "timestamp": 1634074662
   },
   "vtbs": [
     {
@@ -59516,6 +59516,34 @@
       "name": {
         "extra": [],
         "cn": "花嶺_ハナレ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7d03864e-cb0a-569b-8408-a13500570837",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1988157612",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UC-Sx2HYqUS2U15LjWkh7t8w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "@HanataruRishu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花樽栗守",
+        "jp": "花樽りしゅ",
         "default": "cn"
       }
     },
