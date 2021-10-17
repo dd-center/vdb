@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634078576
+    "timestamp": 1634441745
   },
   "vtbs": [
     {
@@ -47557,6 +47557,24 @@
         "default": "cn"
       },
       "group": "cd523351-a878-58fa-a097-0e6217b2ce5d"
+    },
+    {
+      "uuid": "3fc4ec8c-74e2-5d1b-9cd4-d3fc91a2b88f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1386545245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬卷日鞠-官方WACTOR",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "adb5c2fc-00c5-508b-b3a3-447ffb5a3f1e",
