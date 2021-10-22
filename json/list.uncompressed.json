@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634882045
+    "timestamp": 1634907073
   },
   "vtbs": [
     {
@@ -33195,6 +33195,35 @@
         "default": "cn"
       },
       "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77"
+    },
+    {
+      "uuid": "3795abe6-008c-5de5-bb28-ffd8b0d4c231",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCPcsJUA8PhOy3c4y1Q1eu3g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "1212701254",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ikoimomoa",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "憩居桃爱",
+        "jp": "憩居ももあ",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "e4cfe79b-3a17-5fbc-b578-2f5f318109fe",
