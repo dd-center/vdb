@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634881996
+    "timestamp": 1634882008
   },
   "vtbs": [
     {
@@ -63986,6 +63986,24 @@
         "cn": "许七",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bb4540e6-8222-508e-a164-08f9027e1945",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1348728457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗凛_Official",
+        "default": "cn"
+      },
+      "group": "aebb8a27-96ad-575f-99f7-485fb958d709"
     },
     {
       "uuid": "1deb8ed0-eb03-5386-8188-d5f33e0fc5fa",
