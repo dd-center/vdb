@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634881776
+    "timestamp": 1634881867
   },
   "vtbs": [
     {
@@ -40741,6 +40741,23 @@
       "name": {
         "extra": [],
         "cn": "柴崎连_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f7c515af-52a9-57ea-aac5-781a8962685b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22943325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柴田草莓",
         "default": "cn"
       }
     },
