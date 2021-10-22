@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634441745
+    "timestamp": 1634881776
   },
   "vtbs": [
     {
@@ -57417,6 +57417,23 @@
         "default": "cn"
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
+    },
+    {
+      "uuid": "d03e8386-5453-5ad1-b832-1a3fc5e88527",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3526739",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯叶明依",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1b3e0e6e-daf5-5ab5-944e-50232de029b8",
