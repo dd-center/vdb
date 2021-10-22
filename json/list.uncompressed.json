@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634882008
+    "timestamp": 1634882021
   },
   "vtbs": [
     {
@@ -55371,6 +55371,23 @@
       "name": {
         "extra": [],
         "cn": "箱丸美咲Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "acb2738e-3ec8-5e57-bd13-f25b9b6e09db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "28842735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "箱梓",
         "default": "cn"
       }
     },
