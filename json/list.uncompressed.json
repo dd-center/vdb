@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634881867
+    "timestamp": 1634881996
   },
   "vtbs": [
     {
@@ -49394,6 +49394,24 @@
         "cn": "珞庭庭",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a75c5b9d-4cd6-53ff-ba65-6afa6139868b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1816182565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珞璃Official",
+        "default": "cn"
+      },
+      "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
       "uuid": "aeb8dbbb-46e0-5acd-946d-f99bffd3dd25",
