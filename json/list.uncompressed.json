@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635858445
+    "timestamp": 1635858732
   },
   "vtbs": [
     {
@@ -72235,6 +72235,24 @@
         "extra": [],
         "cn": "魔王YALU",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "43cdeb33-edb2-5085-8e2e-6baab429b39d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "591104841",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "魔王舞桜",
+        "CN": "魔王舞樱",
+        "default": "JP"
       }
     },
     {
