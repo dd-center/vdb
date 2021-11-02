@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859694
+    "timestamp": 1635862825
   },
   "vtbs": [
     {
@@ -7755,6 +7755,24 @@
       }
     },
     {
+      "uuid": "712304bc-e23a-5616-8ee9-82823c778b79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1405060701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Jelly_DAIBI",
+        "default": "en"
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
+    },
+    {
       "uuid": "73102f48-57f2-5d59-94ef-7aac41e97f65",
       "type": "group",
       "bot": false,
@@ -9906,6 +9924,11 @@
           "id": "sihuto100_1e2b72",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "1369335586",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
@@ -14327,6 +14350,23 @@
       }
     },
     {
+      "uuid": "2d4d846b-48b2-5184-a770-bb2a3f2e3bdf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "156986660",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乔沐Mu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ec75bc35-e67c-57d8-a6c4-98c7203e808c",
       "type": "vtuber",
       "bot": false,
@@ -16457,6 +16497,24 @@
         "cn": "倉田千夏Chinatsu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1b541100-dfde-5db8-aa11-81069da5b9e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31909735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "倾澜vegetable",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "674c21dd-77db-5937-bccc-7b0899d82f16",
@@ -22048,6 +22106,23 @@
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
     },
     {
+      "uuid": "205168b1-fc4a-510b-a240-630cd5db6f15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1354255177",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "咲花なる",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "771969d3-b61d-561d-a119-de179514577e",
       "type": "vtuber",
       "bot": false,
@@ -26298,6 +26373,23 @@
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
     },
     {
+      "uuid": "95f4ecb8-5b59-5855-a44d-f0af47088192",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4421752",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奏江ヘラ_Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1c0fada7-16fa-5948-95c1-e4e12ae025f9",
       "type": "vtuber",
       "bot": false,
@@ -30306,6 +30398,23 @@
       }
     },
     {
+      "uuid": "524875b6-bc03-53bb-aa59-eb42bfb8f6c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1678929972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巫小月_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "283177f1-e42a-52b1-b186-a6286e81792e",
       "type": "vtuber",
       "bot": false,
@@ -32743,6 +32852,24 @@
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
     },
     {
+      "uuid": "4521d038-afda-5cbf-a26a-6bbeb602c7b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "399491783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恰蘑菇Channel",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+    },
+    {
       "uuid": "15cc0132-51e9-54e9-8cc5-f290117da07b",
       "type": "vtuber",
       "bot": false,
@@ -32880,6 +33007,23 @@
         "extra": [],
         "cn": "悠白Ubye",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d770b0dc-e38f-5d82-bfa0-492f7c32db98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698524795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "悠米_Yuumi",
+        "default": "CN"
       }
     },
     {
@@ -41472,6 +41616,23 @@
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
     },
     {
+      "uuid": "aa048963-0eed-568b-875c-9f8eee4e9d02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2028757342",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "桃祁怪千Channel",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "2cdec754-410b-5157-9733-9483b0c477cb",
       "type": "vtuber",
       "bot": false,
@@ -45885,6 +46046,23 @@
       "name": {
         "extra": [],
         "cn": "清則子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd5262bb-3538-5620-8ee9-c3df1e0c1205",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "694914748",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清影醉是兔兔吖",
         "default": "cn"
       }
     },
@@ -57747,6 +57925,23 @@
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d"
     },
     {
+      "uuid": "0fdb66d7-be0c-57d9-be35-1d0577ed14d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20966016",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫濑Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5dc5684f-e3ca-5f02-8134-a47b44f499e9",
       "type": "vtuber",
       "bot": false,
@@ -61624,6 +61819,23 @@
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
+      "uuid": "cb6be199-7e38-53ec-8c8a-6c32d133fefe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2669022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉姆RIMU",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2d4d94dc-443d-5e85-830b-1c29f750b9fe",
       "type": "vtuber",
       "bot": false,
@@ -63768,6 +63980,23 @@
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
     },
     {
+      "uuid": "b28ceecb-bf7b-58df-9d0c-6f7df52a1a73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "744031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶蝶狐_Chouko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e85f1e0a-82b5-532f-beac-5bff83b7b905",
       "type": "group",
       "bot": false,
@@ -65616,6 +65845,23 @@
       "name": {
         "extra": [],
         "cn": "路菲比Febee",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "66d38f65-510f-5457-87af-f2c5f6a9525c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "325524604",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "",
         "default": "cn"
       }
     },
@@ -68624,6 +68870,23 @@
       "name": {
         "extra": [],
         "cn": "陈宣姝Doro",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f8bbcb29-fca3-5c4c-bb3d-ee6697325884",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1359460505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陌千零Molex",
         "default": "cn"
       }
     },
@@ -71687,6 +71950,23 @@
       }
     },
     {
+      "uuid": "0b67188e-ca69-5c17-919c-98c53084c0ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "694780077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "驱动露露Official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "b706370b-2dfe-5b17-b774-e1690c030573",
       "type": "vtuber",
       "bot": false,
@@ -72326,7 +72606,7 @@
       }
     },
     {
-      "uuid": "43cdeb33-edb2-5085-8e2e-6baab429b39d",
+      "uuid": "a3380ff2-0ea4-5d8f-a572-ec55a7980ab6",
       "type": "vtuber",
       "bot": false,
       "accounts": [
