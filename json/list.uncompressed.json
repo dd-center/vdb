@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859644
+    "timestamp": 1635859694
   },
   "vtbs": [
     {
@@ -34615,6 +34615,23 @@
         "extra": [],
         "cn": "早凉",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ec65757-6e41-5e64-a5fd-a8f87c248bf3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "30688252",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "中文": "早季ちゃん",
+        "default": "中文"
       }
     },
     {
