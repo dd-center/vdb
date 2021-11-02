@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859578
+    "timestamp": 1635859589
   },
   "vtbs": [
     {
@@ -44262,6 +44262,24 @@
         "cn": "氷神葉",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6f7a13cc-1e3c-5eb2-b140-3f4b860c5b4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1844336971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "氷雨零Rei",
+        "default": "jp"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
       "uuid": "2a798a3c-f06c-5ee3-96bd-75c05372eec8",
