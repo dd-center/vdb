@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859270
+    "timestamp": 1635859283
   },
   "vtbs": [
     {
@@ -44083,6 +44083,23 @@
       "name": {
         "extra": [],
         "cn": "水無神音ctsu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "78fc1897-379e-5760-bc62-93ada302b1ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1384189844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水玉莓",
         "default": "cn"
       }
     },
