@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635858830
+    "timestamp": 1635858947
   },
   "vtbs": [
     {
@@ -65911,6 +65911,23 @@
       "name": {
         "extra": [],
         "cn": "辛梅尔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "00cc1f96-1769-5a03-b3ee-62191f38c03d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15225468",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辛西娅_Cynthiaa",
         "default": "cn"
       }
     },
