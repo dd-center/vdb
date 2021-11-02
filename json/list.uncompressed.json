@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635858732
+    "timestamp": 1635858830
   },
   "vtbs": [
     {
@@ -63030,6 +63030,23 @@
         "default": "cn"
       },
       "group": "e85f1e0a-82b5-532f-beac-5bff83b7b905"
+    },
+    {
+      "uuid": "d11a0fd3-c773-503f-aae5-18e9ad3ac3d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473244363",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾尔娜Leona",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02c0bdd7-8208-51f8-b181-336051e11af9",
