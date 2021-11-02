@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1634907073
+    "timestamp": 1635856609
   },
   "vtbs": [
     {
@@ -71328,6 +71328,24 @@
         "cn": "餅餅結Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "35021c43-a49b-5b31-b29b-a7a714bb7d83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1357409459",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "饴宫Doki",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "d3f05968-bcc4-5e66-b0f8-111e83385ec5",
