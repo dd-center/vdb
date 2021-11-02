@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859627
+    "timestamp": 1635859644
   },
   "vtbs": [
     {
@@ -73310,6 +73310,23 @@
       "name": {
         "extra": [],
         "cn": "麦可可提不起劲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e836fb41-b4f0-565e-814d-3d05578710ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "582225536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麦芽不甜",
         "default": "cn"
       }
     },
