@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635859344
+    "timestamp": 1635859081
   },
   "vtbs": [
     {
@@ -14424,24 +14424,6 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
-      "uuid": "69550d01-a8e2-53d4-8df5-143c7af2d7a2",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "11416708",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "九奈猹猹",
-        "default": "cn"
-      },
-      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
-    },
-    {
       "uuid": "bce59e9c-b0be-56fd-9ac6-ddc2c9b3a8de",
       "type": "vtuber",
       "bot": false,
@@ -24198,15 +24180,39 @@
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
     },
     {
+      "uuid": "0c409ac5-af97-51aa-9eaa-99acbd0403d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "69060868900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜宫Yomiya（临时维护中）",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cfe0c2fd-1400-579a-bace-6ff971072262",
       "type": "vtuber",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "690608689",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
-        "cn": "夜宮Yomiya_临时数据维护",
+        "cn": "夜宮Yomiya",
         "default": "cn"
-      }
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "78df8c3c-5a41-5e16-9df4-86ecbc26ab58",
@@ -35491,8 +35497,7 @@
         "extra": [],
         "cn": "星宫颜Channel",
         "default": "cn"
-      },
-      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+      }
     },
     {
       "uuid": "6bac5d28-e176-5c6b-bf4e-ce57480c1c25",
@@ -44077,23 +44082,6 @@
       "name": {
         "extra": [],
         "cn": "水無神音ctsu",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "78fc1897-379e-5760-bc62-93ada302b1ed",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1384189844",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "水玉莓",
         "default": "cn"
       }
     },
