@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1635934224
+    "timestamp": 1635945882
   },
   "vtbs": [
     {
@@ -4303,6 +4303,25 @@
         "default": "en"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1795366254",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星律动",
+        "en": "Nebula-Beat​",
+        "default": "cn"
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "af2e6539-d05a-5b54-b893-7b42ee8a58eb",
@@ -16620,6 +16639,23 @@
       }
     },
     {
+      "uuid": "e6182092-6934-5939-ab6a-839770abfa4a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24892260",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "光点科技官方": "cn",
+        "default": "光点科技官方"
+      }
+    },
+    {
       "uuid": "ba9220cc-5ad6-5bae-925a-a5a8aed19b02",
       "type": "vtuber",
       "bot": false,
@@ -21369,7 +21405,7 @@
         "cn": "吉诺儿kino",
         "default": "cn"
       },
-      "group": "b5e56b02-c1f5-5c5b-85d3-870a392d3d8a"
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "7bd8a758-8c03-5d72-b9d0-c40e586a42c2",
@@ -22285,6 +22321,24 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "ecc1c1c4-d618-5e61-97e1-7c21cb30bef9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1219196749",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐九夏",
+        "default": "cn"
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "d5eea4ae-22c4-539c-b3b3-84efc00ca547",
