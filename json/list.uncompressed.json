@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636114731
+    "timestamp": 1636114772
   },
   "vtbs": [
     {
@@ -34298,6 +34298,23 @@
       "name": {
         "extra": [],
         "cn": "政委Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e23290d-a7b1-534c-bec0-25731df97e53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "284453783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "敖霜_Channel",
         "default": "cn"
       }
     },
