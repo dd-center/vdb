@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636114772
+    "timestamp": 1636114848
   },
   "vtbs": [
     {
@@ -44614,6 +44614,23 @@
       "name": {
         "extra": [],
         "cn": "永华莲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "68003c96-5384-5ac8-9504-c0a3eef43040",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1675771267",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "永瀬叶枝Kanae",
         "default": "cn"
       }
     },
