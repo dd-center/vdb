@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636108649
+    "timestamp": 1636108696
   },
   "vtbs": [
     {
@@ -5937,6 +5937,24 @@
       "name": {
         "extra": [],
         "cn": "ShynnKa_白乔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7ae89cd9-f002-5bec-9c05-6e402bc0b2d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1041786022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西比尔",
+        "en": "Sibylla",
         "default": "cn"
       }
     },
