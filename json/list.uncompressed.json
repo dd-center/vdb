@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636108780
+    "timestamp": 1636108814
   },
   "vtbs": [
     {
@@ -34540,6 +34540,23 @@
       "name": {
         "extra": [],
         "cn": "施晴Qing",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "444afa64-3428-5448-8b52-d6c2339f120d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29080",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无前Namae",
         "default": "cn"
       }
     },
