@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636108814
+    "timestamp": 1636113666
   },
   "vtbs": [
     {
@@ -53481,6 +53481,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "0edc0b67-7a82-5e62-853b-72d668558d43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "169407172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠心琉月_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8365a14a-bd0a-5a3b-b3a7-59cefa432c35",
