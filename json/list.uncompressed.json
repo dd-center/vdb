@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1636114848
+    "timestamp": 1636251847
   },
   "vtbs": [
     {
@@ -47168,6 +47168,30 @@
         "cn": "灵源道长_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "dd80c3f0-46cf-59d3-966b-6a56607f4826",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2097219437",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "reno_rereno",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灵灵乃reno",
+        "jp": "れれのれの",
+        "default": "cn"
+      },
+      "group": "a5f67427-dbfe-5cb0-be05-ef701454c3aa"
     },
     {
       "uuid": "286a95d4-d743-5132-98a0-4201d5246677",
