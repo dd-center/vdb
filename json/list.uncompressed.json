@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637158329
+    "timestamp": 1637158396
   },
   "vtbs": [
     {
@@ -59751,6 +59751,25 @@
         "cn": "艾妮娅Enia",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "69a05a1d-1ebe-5d53-9cd1-8e8d56efcab9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1521415",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾尔莎",
+        "en": "Elza",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "4ad692dc-79c8-58ce-b507-268783200113",
