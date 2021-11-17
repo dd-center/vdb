@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637161100
+    "timestamp": 1637161141
   },
   "vtbs": [
     {
@@ -33068,6 +33068,23 @@
       }
     },
     {
+      "uuid": "3e019b3a-acd7-562f-b8b1-9fb382ef60ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1699339194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恩缇_Nte",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c582656d-dad6-554d-8fa2-05b85b5d545d",
       "type": "vtuber",
       "bot": false,
@@ -46334,6 +46351,23 @@
       "name": {
         "extra": [],
         "cn": "深井時礼official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "632c5312-3269-571c-aceb-8234798c95e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "495876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "深山大狐喵",
         "default": "cn"
       }
     },
