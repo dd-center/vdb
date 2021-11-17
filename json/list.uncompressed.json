@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637159947
+    "timestamp": 1637160334
   },
   "vtbs": [
     {
@@ -75184,7 +75184,13 @@
       "uuid": "6e5c922f-d804-5021-a9d4-6275ea04f02e",
       "type": "vtuber",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "1905040380",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "龙王本王梓璃璃",
