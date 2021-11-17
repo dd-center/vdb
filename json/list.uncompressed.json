@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637158396
+    "timestamp": 1637158676
   },
   "vtbs": [
     {
@@ -44107,6 +44107,24 @@
         "default": "cn"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "d8f2be62-1df0-51c7-8d1b-913a7f628d78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1912415960",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "歌音Utane",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "f9eb35de-6353-5ab4-af43-b371bbdc0b79",
