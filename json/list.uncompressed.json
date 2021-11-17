@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637160980
+    "timestamp": 1637161070
   },
   "vtbs": [
     {
@@ -49285,6 +49285,23 @@
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
     },
     {
+      "uuid": "d5e9cb70-bf42-5015-a9ea-f8ecf7cf3442",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "126676",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "猫宮梅メイ",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "6c186d29-6c00-5e6b-8671-93feaa89e9c4",
       "type": "vtuber",
       "bot": false,
@@ -49996,6 +50013,23 @@
         "default": "cn"
       },
       "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
+    },
+    {
+      "uuid": "ef21b289-9bd9-58c9-ae45-b9e83023060d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "500289236",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王沐沐_mumu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "872f42c1-8434-5b39-be98-9486d4fb5b78",
