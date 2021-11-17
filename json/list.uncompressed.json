@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637159060
+    "timestamp": 1637159947
   },
   "vtbs": [
     {
@@ -7879,6 +7879,29 @@
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
     },
     {
+      "uuid": "726d2323-bba0-50fa-af4b-92b9f5b6578c",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1830906165",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "386670994",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "KingdomKnight",
+        "default": "en"
+      },
+      "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c"
+    },
+    {
       "uuid": "37c14bf0-5b8a-5168-aa3d-564c046b6b25",
       "type": "vtuber",
       "bot": false,
@@ -12650,6 +12673,25 @@
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
     },
     {
+      "uuid": "681a7593-242a-553e-af32-b252b9b0bc75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21591929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只小菟伊",
+        "en": "Tue",
+        "default": "cn"
+      },
+      "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c"
+    },
+    {
       "uuid": "b52b07e4-4bab-5b86-83c4-388b0d415498",
       "type": "vtuber",
       "bot": false,
@@ -13591,6 +13633,24 @@
         "cn": "上野桃香Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4d1bc5ad-6598-5d00-a4c6-7cbba4d6f270",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3570093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不举萌栗",
+        "default": "cn"
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
     },
     {
       "uuid": "e246cd38-5d08-57d9-8d0a-d7dbcf945980",
@@ -30746,7 +30806,8 @@
         "extra": [],
         "cn": "帅比笙歌超可爱OvO",
         "default": "cn"
-      }
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
     },
     {
       "uuid": "4d6bccbe-2784-566c-beac-5671c86a6bc3",
@@ -34741,6 +34802,23 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
+      "uuid": "cf25dc5b-ce1a-5f95-8974-dd99ddec4dca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25541767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无熙",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "514338cb-d986-509c-a7c7-2f434e862f95",
       "type": "vtuber",
       "bot": false,
@@ -37511,6 +37589,25 @@
       }
     },
     {
+      "uuid": "5bea399f-5a59-5093-949e-4151bea7202a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14280897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是伊梵娜呀",
+        "en": "Ivana",
+        "default": "cn"
+      },
+      "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c"
+    },
+    {
       "uuid": "b7187b16-1cff-5b99-a560-16c68f89928f",
       "type": "vtuber",
       "bot": false,
@@ -39929,7 +40026,8 @@
         "extra": [],
         "cn": "李豆沙_Channel",
         "default": "cn"
-      }
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
     },
     {
       "uuid": "8cc309cd-5fbb-523b-a27f-af8510a9c22d",
@@ -48486,6 +48584,25 @@
       }
     },
     {
+      "uuid": "819ce5cf-df46-58eb-bc7c-e7be8c8a83ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1444808410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犽月",
+        "en": "Kitsuki",
+        "default": "cn"
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
+    },
+    {
       "uuid": "83bc1120-f2c1-5021-832f-17200586937e",
       "type": "vtuber",
       "bot": false,
@@ -51361,9 +51478,10 @@
       ],
       "name": {
         "extra": [],
-        "cn": "病院坂れい",
+        "cn": "病院坂Rei",
         "default": "cn"
-      }
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
     },
     {
       "uuid": "1f7e012e-31b2-554c-a704-641be0384ea8",
@@ -57967,6 +58085,24 @@
       }
     },
     {
+      "uuid": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21935620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纸片人计划",
+        "default": "cn"
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4"
+    },
+    {
       "uuid": "f16a5b14-4087-5afa-a0b8-319cd22fb199",
       "type": "vtuber",
       "bot": false,
@@ -60105,6 +60241,24 @@
         "default": "cn"
       },
       "group": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f"
+    },
+    {
+      "uuid": "327b0d1d-99f6-5758-8831-d28f0dc888c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "341122517",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芊绫喵",
+        "default": "cn"
+      },
+      "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c"
     },
     {
       "uuid": "c9f6e1a7-ea2d-54a3-be9c-abc96a9ccb80",
@@ -75025,6 +75179,19 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "6e5c922f-d804-5021-a9d4-6275ea04f02e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "龙王本王梓璃璃",
+        "en": "Zuri",
+        "default": "cn"
+      },
+      "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c"
     },
     {
       "uuid": "7ebbc5b8-af9a-5f0f-a263-92c91da1944a",
