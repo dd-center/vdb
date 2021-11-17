@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1637160334
+    "timestamp": 1637160492
   },
   "vtbs": [
     {
@@ -62275,6 +62275,23 @@
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
+      "uuid": "4ce1085d-7878-54df-88af-53d73bde3e8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1518296186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉奥拉Liala",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cb6be199-7e38-53ec-8c8a-6c32d133fefe",
       "type": "vtuber",
       "bot": false,
@@ -71403,6 +71420,23 @@
         "default": "cn"
       },
       "group": "464d8696-2f1b-55f2-8091-d4b53ae1df4c"
+    },
+    {
+      "uuid": "1ef53ad1-4b61-5732-bca0-48272ba1a437",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2201615",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "非酋喵_",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f497d912-d846-5d5d-aa20-2d1708ebe35c",
