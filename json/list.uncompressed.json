@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1640277140
+    "timestamp": 1640336895
   },
   "vtbs": [
     {
@@ -72932,6 +72932,24 @@
         "jp": "鬼ヶ島ちゃんねるฅ •ω• ฅ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "d47dc7f3-5a59-5f6f-9680-7e384ff7bbf8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1617745556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鬼怒千月",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "c311ecb2-3449-5c4e-9b3a-4000be27d15d",
