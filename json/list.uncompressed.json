@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1640919144
+    "timestamp": 1640919311
   },
   "vtbs": [
     {
@@ -68506,6 +68506,35 @@
       "name": {
         "extra": [],
         "cn": "铃音Suzune",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "827065c7-eae6-5c36-aa04-ca15d5c10de1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1238492302",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "bc_hakumai",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCg3tKEUFef2R-wQ-hRahkiQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃音舞梦_official",
+        "jp": "鈴音舞夢",
+        "en": "Suzune Maimu",
         "default": "cn"
       }
     },
