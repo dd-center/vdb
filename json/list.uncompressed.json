@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1640336895
+    "timestamp": 1640919144
   },
   "vtbs": [
     {
@@ -17150,6 +17150,24 @@
         "default": "jp"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "40666f36-8419-5362-ad5c-769f2853aaca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11864934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓实兔丸",
+        "jp": "苺実兎丸",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b30beb18-2e28-5b6d-856f-27aa66726e00",
