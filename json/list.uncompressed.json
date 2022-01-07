@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1641236636
+    "timestamp": 1641543497
   },
   "vtbs": [
     {
@@ -26493,6 +26493,23 @@
       "name": {
         "extra": [],
         "cn": "奈美",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d06ec123-6b62-5bc1-ae1c-41d99e3d62d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702843929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": " 奈芊歌_Channel",
         "default": "cn"
       }
     },
