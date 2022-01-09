@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1641543497
+    "timestamp": 1641728159
   },
   "vtbs": [
     {
@@ -6224,6 +6224,24 @@
         "default": "cn"
       },
       "group": "d4d3135b-dd1c-57e2-9122-a249c97d40e7"
+    },
+    {
+      "uuid": "e6811a24-4541-5778-b418-063de76ebb2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1880226316",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Tika_official",
+        "default": "cn"
+      },
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
     },
     {
       "uuid": "70f1f721-20b7-5862-abfb-608a72a7ab5a",
@@ -67906,6 +67924,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "bae77524-5290-5760-b713-a0ed3fd5c973",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1647745153",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金鱼叩叩",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ce3da710-4c0c-5839-82d6-6c6de7cb27cf",
