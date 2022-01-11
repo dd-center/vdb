@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1641728159
+    "timestamp": 1641911766
   },
   "vtbs": [
     {
@@ -28653,6 +28653,23 @@
       }
     },
     {
+      "uuid": "c38f85bf-45bc-58c2-81df-beee148fe713",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1330354774",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小侦探由梨佳_official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ce02675b-8c03-572d-b521-abedf4501e7e",
       "type": "vtuber",
       "bot": false,
@@ -29912,6 +29929,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "a9c7a179-6ff0-5052-8b8f-3909159c2af6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "230927369",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤狸Yuriri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "916d05db-e0a3-55d7-b1a5-b9cdd46a7720",
@@ -47028,6 +47062,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "bf736afb-e56a-5eaf-a108-955960d2d6ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12349444",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "溺死热带鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "80ca3bea-e010-54fa-be64-81c6cf6afd12",
