@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1642069817
+    "timestamp": 1642069894
   },
   "vtbs": [
     {
@@ -5955,6 +5955,38 @@
         "extra": [],
         "cn": "Shimimo_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6e323198-c3ee-5ea9-abbe-59b28aec4ead",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1042854135",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "shizukou",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "Shizukougames",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCYKX4HL54erXdCyMj7TpFyg",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Shizukou",
+        "default": "en"
       }
     },
     {
