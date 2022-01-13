@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1641911766
+    "timestamp": 1642069256
   },
   "vtbs": [
     {
@@ -28796,6 +28796,23 @@
       "name": {
         "extra": [],
         "cn": "小司无常",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b0c8d220-db68-55c7-9279-6ec8334e56cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1237746158",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小夜铃",
         "default": "cn"
       }
     },
