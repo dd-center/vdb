@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1642736954
+    "timestamp": 1642737128
   },
   "vtbs": [
     {
@@ -15616,6 +15616,23 @@
       "name": {
         "extra": [],
         "cn": "伊丝塔_Easter",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8d888a61-f916-52a6-b96b-ce5ca12cf16b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1347242112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊丝塔璐",
         "default": "cn"
       }
     },
