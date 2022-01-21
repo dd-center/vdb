@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1642520725
+    "timestamp": 1642736733
   },
   "vtbs": [
     {
@@ -31064,6 +31064,24 @@
         "cn": "希亚娜Ciyana",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "40d7db0f-fbd1-57dd-b7f6-9bbea8f0b1fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23805066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希侑Kiyuu",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "cf57790f-fbde-565c-b2b1-272e8209d69a",
