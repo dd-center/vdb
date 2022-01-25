@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1642738431
+    "timestamp": 1643128758
   },
   "vtbs": [
     {
@@ -24968,6 +24968,23 @@
       "name": {
         "extra": [],
         "cn": "夜骑Night",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5ae95423-5990-5b5f-b284-8ab9c9c0dbc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1265380228",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夢乃夜紫",
         "default": "cn"
       }
     },
