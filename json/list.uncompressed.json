@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643128758
+    "timestamp": 1643128965
   },
   "vtbs": [
     {
@@ -1955,6 +1955,34 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
+      "uuid": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1548714025",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "6710612989",
+          "type": "official",
+          "platform": "weibo"
+        },
+        {
+          "id": "bdyukiyue@qq.com",
+          "type": "official",
+          "platform": "email"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ENIAC",
+        "default": "en"
+      },
+      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
@@ -74941,6 +74969,31 @@
         "cn": "麻仓由衣Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "91c2dc51-2ac0-57f9-8a33-a66d7bfe4b4d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1277310992",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "6476005913",
+          "type": "official",
+          "platform": "weibo"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻可可",
+        "en": "Nacoco",
+        "jp": "Nacoco",
+        "default": "cn"
+      },
+      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "0c83a7d7-7a2d-585a-b14c-49991f3d88b6",
