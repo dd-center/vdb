@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643356140
+    "timestamp": 1643356228
   },
   "vtbs": [
     {
@@ -40076,6 +40076,23 @@
         "default": "cn"
       },
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
+    },
+    {
+      "uuid": "eebb8b6c-0656-5d6f-a9b0-fbb00bd3f5cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494669125",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未絵Mieko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d56b351-89fa-504a-9728-c32c66f06e2a",
