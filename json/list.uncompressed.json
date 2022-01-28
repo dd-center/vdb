@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643355532
+    "timestamp": 1643355548
   },
   "vtbs": [
     {
@@ -46408,6 +46408,23 @@
         "default": "cn"
       },
       "group": "003983a6-421a-5e75-93e1-841d5c8ee9f2"
+    },
+    {
+      "uuid": "a007f447-20ee-5d16-b047-68adf5061b51",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427903198",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "流筝芝士多",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dfc85eb7-4a31-528c-b4df-9c01abd74c55",
