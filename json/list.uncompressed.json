@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643356723
+    "timestamp": 1643357127
   },
   "vtbs": [
     {
@@ -29168,6 +29168,23 @@
           "小懒猫"
         ],
         "cn": "小懒猫Meow",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f122693-ae0f-5369-a4ca-d2eb3a0e5364",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1095803401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小春_Koharu",
         "default": "cn"
       }
     },
