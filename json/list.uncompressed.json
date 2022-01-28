@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643356228
+    "timestamp": 1643356723
   },
   "vtbs": [
     {
@@ -9852,6 +9852,23 @@
         "extra": [],
         "jp": "なるはやちゃん",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "95c92b89-a4c8-569d-9673-bca547d2b409",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1688076885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "ｊｐ": "ねっこねっこねー",
+        "default": "ｊｐ"
       }
     },
     {
@@ -38559,6 +38576,24 @@
         "default": "cn"
       },
       "group": "d71b4174-d0c3-5d9d-ac1f-bef92136f290"
+    },
+    {
+      "uuid": "4e3af5f7-24d1-5ac7-a833-4232a413c935",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475656353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暮月Medus",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "7d81f1a4-4310-5558-826b-0b665c9850bf",
