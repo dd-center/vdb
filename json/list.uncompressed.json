@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643357646
+    "timestamp": 1643357833
   },
   "vtbs": [
     {
@@ -33252,6 +33252,24 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "85170371-3c42-5827-998e-8a10dae99a3c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "484055",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心海未散_channel",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "ca598f6e-c843-5ac6-b3b6-19a42633d907",
