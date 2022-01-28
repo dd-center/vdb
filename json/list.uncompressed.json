@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643355719
+    "timestamp": 1643356140
   },
   "vtbs": [
     {
@@ -22839,6 +22839,23 @@
       "name": {
         "extra": [],
         "cn": "喑铃忍_Shinobu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9ffe4b9-bbfb-54f7-b3ad-650dcc1a0c2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "104606967",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喜欢做作业的alien",
         "default": "cn"
       }
     },
