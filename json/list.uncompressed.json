@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643357354
+    "timestamp": 1643357399
   },
   "vtbs": [
     {
@@ -39163,24 +39163,6 @@
       }
     },
     {
-      "uuid": "f64ca51c-d322-5067-bf3b-7af7e54807ac",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2103954767",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "月泉莳Komaki",
-        "default": "cn"
-      },
-      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
-    },
-    {
       "uuid": "cd24602f-38e2-55a1-ac8c-2216b7f36648",
       "type": "vtuber",
       "bot": false,
@@ -70087,6 +70069,26 @@
         "cn": "阿莉娅Aliya_",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c7c29734-8e53-526f-be64-1db075e5f081",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2103954767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "阿莳Komaki"
+        ],
+        "cn": "月泉莳Komaki",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "fc4db2c9-be92-5b8c-8ee6-0d95352a1fd5",
