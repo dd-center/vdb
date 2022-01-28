@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643354855
+    "timestamp": 1643355274
   },
   "vtbs": [
     {
@@ -17938,6 +17938,23 @@
       "name": {
         "extra": [],
         "cn": "冬妮娅Tonia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b789f74f-c58c-53c0-a8ee-406339cc44a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25644004",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬月の北极猫",
         "default": "cn"
       }
     },
