@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643454162
+    "timestamp": 1643454229
   },
   "vtbs": [
     {
@@ -55343,6 +55343,23 @@
       "name": {
         "extra": [],
         "cn": "神代芷月official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f92d433-02a8-536d-b6fc-b14fc4364ede",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1483935022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神优优yuu",
         "default": "cn"
       }
     },
