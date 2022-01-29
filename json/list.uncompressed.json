@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643454229
+    "timestamp": 1643477403
   },
   "vtbs": [
     {
@@ -68557,6 +68557,23 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
+    },
+    {
+      "uuid": "5012da3d-337f-5a02-95df-4b9a498321b1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1535525542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子少年-泽一",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d4dcbf0-f576-58fa-a1e2-1db1e4acc346",
