@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643477403
+    "timestamp": 1643477814
   },
   "vtbs": [
     {
@@ -37606,6 +37606,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "d4f1a94a-e421-57bb-aa8a-c03f49ee1b84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5816642",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星谷樹_itsuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8f769094-5619-5057-81a9-9ee3484e4d9b",
