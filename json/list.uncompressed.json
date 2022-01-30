@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643566283
+    "timestamp": 1643566701
   },
   "vtbs": [
     {
@@ -15821,6 +15821,24 @@
       "group": "335986d3-a35c-5a0d-98a7-7891d9f33956"
     },
     {
+      "uuid": "f766eb74-1934-5df2-afa3-3ddbae6c589e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608708",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊卜拉新Official",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "458f6421-72d2-5a6c-b5eb-0907f0e08587",
       "type": "vtuber",
       "bot": false,
@@ -25806,6 +25824,11 @@
         },
         {
           "id": "488976342",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "690608699",
           "type": "official",
           "platform": "bilibili"
         }
@@ -39875,6 +39898,24 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "a3a8d9cb-389a-54ea-837d-fa64c4e2a88f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝日南茜Official",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "eeee2b8c-ddbe-5e8a-b73e-a2550cfffd87",
       "type": "vtuber",
       "bot": false,
@@ -43007,6 +43048,24 @@
         "cn": "梅_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d6eeaa00-3764-5ea4-812e-e9d9712588f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608707",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅丽莎・金莲花Official",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "297f8f30-80d3-5976-abb2-2f3f78feaa17",
@@ -61416,6 +61475,24 @@
         "cn": "芙芙hana",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ee93704d-aba7-5bf2-9f5d-829f16fc98b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690608705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙莲Official",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "25315342-eaf9-5d74-9b9c-89e896a298d7",
