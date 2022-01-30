@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643566951
+    "timestamp": 1643567060
   },
   "vtbs": [
     {
@@ -62042,6 +62042,23 @@
         "default": "cn"
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
+      "uuid": "e1834148-b394-571b-8313-a98d40d66fc1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1953418936",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花燭乃婭_Noah",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3136764c-1a1c-596b-b291-7707020099af",
