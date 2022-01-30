@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643566701
+    "timestamp": 1643566951
   },
   "vtbs": [
     {
@@ -29537,6 +29537,23 @@
         "default": "cn"
       },
       "group": "237a4185-0f24-5da0-b270-a259328e744d"
+    },
+    {
+      "uuid": "a6f74cfb-86c3-5392-b258-e7a048dbde1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "276246981",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小漆是吸血鬼_ki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ea9f89d8-51f3-5dd5-a10f-be66209cc199",
