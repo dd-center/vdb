@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643647668
+    "timestamp": 1643647729
   },
   "vtbs": [
     {
@@ -36859,6 +36859,23 @@
         "extra": [],
         "jp": "星宮とと",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "53db6cad-c4dd-51bf-9bcb-f14486c272c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4376323",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "星宮乃乃花Nonoka",
+        "default": "CN"
       }
     },
     {
