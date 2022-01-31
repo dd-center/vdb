@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643619085
+    "timestamp": 1643619243
   },
   "vtbs": [
     {
@@ -1698,6 +1698,23 @@
       "name": {
         "extra": [],
         "cn": "DENKIMOFU",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7dc07217-683a-5a50-a985-ce07e7a2d2f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2088874781",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "DJGun",
         "default": "cn"
       }
     },
