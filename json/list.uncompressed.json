@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643648029
+    "timestamp": 1643648151
   },
   "vtbs": [
     {
@@ -15786,6 +15786,23 @@
       "group": "a5a6750b-a591-516f-a261-f1a77f46d4db"
     },
     {
+      "uuid": "52331ed6-2ca8-5994-81c9-01bf00c7b974",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "128976078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仿生電子安安喵_nyanko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d",
       "type": "group",
       "bot": false,
@@ -28747,6 +28764,23 @@
       }
     },
     {
+      "uuid": "bd626db2-fdda-5298-b3a4-fc24cbd2a561",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4024901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宙宇尘星Duststar",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e4437d9c-0dec-5acf-84a1-96df7f6067a0",
       "type": "vtuber",
       "bot": false,
@@ -41211,6 +41245,23 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "af13ec29-ca3b-549e-a054-5209383788ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "163745074",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杜安_Duane",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0fa3255d-f78c-5430-97d1-88bbd6713f80",
