@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643648514
+    "timestamp": 1643648571
   },
   "vtbs": [
     {
@@ -20209,6 +20209,23 @@
         "jp": "千草はな",
         "cn": "千草はな",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "1ca0cc13-1bb6-5757-930a-d25bae509dff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2116268302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千葉Clover",
+        "default": "cn"
       }
     },
     {
