@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643649041
+    "timestamp": 1643649126
   },
   "vtbs": [
     {
@@ -31298,6 +31298,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "97a91547-dc09-5320-ae19-a646172a6c1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1788435884",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "崔小茶tea",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9f0239cf-3b09-55eb-8986-9752c8e7ea09",
