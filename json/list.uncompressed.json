@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643618810
+    "timestamp": 1643618849
   },
   "vtbs": [
     {
@@ -20963,7 +20963,7 @@
       "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
-      "uuid": "b5cd57f1-5fd3-5d46-b898-a8dfd2a69e28",
+      "uuid": "e4bda156-1e9b-57d6-9ef9-5be1ac78a439",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -20974,10 +20974,13 @@
         }
       ],
       "name": {
-        "extra": [],
-        "cn": "卡诺亚",
+        "extra": [
+          "卡诺娅"
+        ],
+        "cn": "卡诺娅Kanoa",
         "default": "cn"
-      }
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "7d537640-6df1-588c-9b7f-61358d080774",
