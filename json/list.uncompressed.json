@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643649126
+    "timestamp": 1643649314
   },
   "vtbs": [
     {
@@ -7709,6 +7709,24 @@
         "default": "CN"
       },
       "group": "f6394251-a0f4-52dd-ba22-4089f60c3d3d"
+    },
+    {
+      "uuid": "a7359b76-4ce6-552e-8a2a-31224a4dd542",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "399582503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "cesirelive",
+        "default": "en"
+      },
+      "group": "a7359b76-4ce6-552e-8a2a-31224a4dd542"
     },
     {
       "uuid": "7d14580b-8154-5fdb-9777-b1032d302bfe",
@@ -60135,6 +60153,24 @@
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
+      "uuid": "126b16c5-39a2-5a6e-9688-825cef2a9401",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "88035929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫音乃苏",
+        "default": "cn"
+      },
+      "group": "a7359b76-4ce6-552e-8a2a-31224a4dd542"
+    },
+    {
       "uuid": "d25a6b23-740f-5802-a81c-ba4a8cda8375",
       "type": "vtuber",
       "bot": false,
@@ -76304,6 +76340,24 @@
         "cn": "鹿予Mori",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6c8355d2-268d-5291-941d-0fae41d137b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "65463088",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿伶儿",
+        "default": "cn"
+      },
+      "group": "a7359b76-4ce6-552e-8a2a-31224a4dd542"
     },
     {
       "uuid": "b60796f3-fb7d-5a53-94a5-e203dafb84e2",
