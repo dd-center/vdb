@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643646716
+    "timestamp": 1643646991
   },
   "vtbs": [
     {
@@ -48049,6 +48049,23 @@
       "name": {
         "extra": [],
         "cn": "满地乱爬Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "89891fa0-6c25-5ed5-9e0c-7cfca1559b26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4242014",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "满天星Hoshi",
         "default": "cn"
       }
     },
