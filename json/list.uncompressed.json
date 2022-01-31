@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643648218
+    "timestamp": 1643648240
   },
   "vtbs": [
     {
@@ -73407,6 +73407,23 @@
       "name": {
         "extra": [],
         "cn": "非酋喵_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5a67a04f-b32e-5d84-80f7-d3815da6bfdd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1958703906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "靡烟miya",
         "default": "cn"
       }
     },
