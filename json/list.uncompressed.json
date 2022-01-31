@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643648151
+    "timestamp": 1643648197
   },
   "vtbs": [
     {
@@ -75319,6 +75319,23 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
+      "uuid": "f9dca356-2930-59d5-88a0-8e7438089a6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612700521",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鯨魚躍清魚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7411f538-2dfe-5a71-812b-1c780a04ec3b",
