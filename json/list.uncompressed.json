@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643617624
+    "timestamp": 1643617733
   },
   "vtbs": [
     {
@@ -67484,6 +67484,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "981fc30a-a823-56c8-882d-825ad13b8db2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1206746892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路易_rui",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f6f4a2a1-686d-5c50-830a-7b07a93829b9",
