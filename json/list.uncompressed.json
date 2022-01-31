@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643618885
+    "timestamp": 1643619085
   },
   "vtbs": [
     {
@@ -76231,6 +76231,23 @@
       "name": {
         "extra": [],
         "cn": "黑川言",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d210f3d3-832e-5b41-bc6e-54a0dcda26b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "648053",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑弦_Channel",
         "default": "cn"
       }
     },
