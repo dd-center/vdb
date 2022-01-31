@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643646991
+    "timestamp": 1643647055
   },
   "vtbs": [
     {
@@ -74248,6 +74248,23 @@
         "default": "cn"
       },
       "group": "003983a6-421a-5e75-93e1-841d5c8ee9f2"
+    },
+    {
+      "uuid": "7781b26d-6e2e-5c96-ba54-10be2f19447c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7074812",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "香草玉banira",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f217933e-a378-5c42-81a3-b2c598554733",
