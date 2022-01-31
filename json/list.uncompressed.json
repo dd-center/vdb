@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643618403
+    "timestamp": 1643618598
   },
   "vtbs": [
     {
@@ -25626,6 +25626,23 @@
       "name": {
         "extra": [],
         "cn": "大陌子DMZ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8fde0824-0516-5f35-8cbc-28a515943e5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434103940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天不生我小樱桃",
         "default": "cn"
       }
     },
