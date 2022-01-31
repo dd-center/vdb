@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643617810
+    "timestamp": 1643618209
   },
   "vtbs": [
     {
@@ -6319,6 +6319,30 @@
         "cn": "Tilinme时澪",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e2e54677-6608-5996-9976-464cfd4ed739",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1027793592",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "tinsgoo",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Tinsgoo-Project",
+        "cn": "听世",
+        "default": "en"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
     },
     {
       "uuid": "1f51b9de-04d9-586b-b826-51ec902664c2",
@@ -23660,6 +23684,30 @@
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
+      "uuid": "26beac47-77d4-5abf-b08c-74b3dbea5226",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1257095895",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "TP_Tartaros",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔洛斯Tartarus",
+        "en": "Tartarus",
+        "default": "cn"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
       "uuid": "dc0ef00d-6d20-556d-a4c1-8d9397ed2190",
       "type": "vtuber",
       "bot": false,
@@ -24924,6 +24972,34 @@
         "default": "cn"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "2b0bb0a4-e6f6-51fc-99d3-772c07e6620d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1534034241",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yotsugiasuka",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC4Nu2mCoCKz9TplcxLS0pQQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜棺飞鸟official",
+        "jp": "夜棺あすか",
+        "default": "cn"
+      }
     },
     {
       "uuid": "71e22478-863e-52ed-b9da-5605b30430c5",
@@ -71235,6 +71311,31 @@
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
+      "uuid": "b138e992-8b6b-5c18-8ca2-b5becb4ec584",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1533569609",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "TP_AmnKrn",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨音歌恋karen",
+        "jp": "雨音歌恋",
+        "en": "Amn Krn",
+        "default": "cn"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
       "uuid": "08bac4ec-6c3e-5c62-b6f9-787a59e71e4c",
       "type": "vtuber",
       "bot": false,
@@ -72977,6 +73078,34 @@
       "name": {
         "extra": [],
         "cn": "音無来未Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f06d5914-1161-5d57-b4c1-0c1fe9812624",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1061196719",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NekotoKanami",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCZwsOhl_T0k2Sgf7S3JReNQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音琴かなみ_official",
+        "jp": "音琴かなみ",
         "default": "cn"
       }
     },
@@ -74794,6 +74923,31 @@
       }
     },
     {
+      "uuid": "ae174067-0df9-55db-9bb7-4f945aa621b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1224950348",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "TP_rumi",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鳯龙美Rumi",
+        "jp": "鳳龍美",
+        "en": "Otori Rumi",
+        "default": "cn"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
       "uuid": "a0e1863d-538e-590b-bab8-4eb377ab91d5",
       "type": "vtuber",
       "bot": false,
@@ -75294,13 +75448,21 @@
           "id": "1573437898",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "TP_TurusakiKana",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "cn": "鹤咲花菜kana",
+        "en": "Turusaki Kana",
+        "jp": "鶴咲花菜",
         "default": "cn"
-      }
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
     },
     {
       "uuid": "dea71fc3-6234-52c0-ae1f-a823e84fc777",
