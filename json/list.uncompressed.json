@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643617425
+    "timestamp": 1643617543
   },
   "vtbs": [
     {
@@ -49572,6 +49572,24 @@
       }
     },
     {
+      "uuid": "811ad373-4359-562c-add8-3c2492dc209b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "598585141",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狄灵计划 Project-D",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
+    },
+    {
       "uuid": "87a92ca9-54bd-5342-beb3-8e988139e6c1",
       "type": "vtuber",
       "bot": false,
@@ -51791,6 +51809,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "c8d749ea-9459-5dca-ab55-6d9ab5fa0a58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8381620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞狩是只喵",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
     },
     {
       "uuid": "96accc90-fdc1-53a2-a4a9-ee4591f48f9f",
