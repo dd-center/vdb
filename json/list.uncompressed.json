@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643648571
+    "timestamp": 1643648796
   },
   "vtbs": [
     {
@@ -41642,6 +41642,24 @@
       "group": "68c5984b-6cab-56fa-b8d9-23f45378a877"
     },
     {
+      "uuid": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "极光社",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
+    },
+    {
       "uuid": "d57dabaf-8380-5079-a880-c3c4bddccbab",
       "type": "vtuber",
       "bot": false,
@@ -54215,6 +54233,24 @@
         "cn": "白雪霙",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d7505e34-cbbc-5d7c-83ff-53b088e1f7b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1189811162",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白露_Hakuro",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "69ba2ca8-117b-5298-a2ab-73ee60d84adb",
