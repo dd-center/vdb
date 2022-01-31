@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643647990
+    "timestamp": 1643648029
   },
   "vtbs": [
     {
@@ -2300,6 +2300,23 @@
         "default": "cn"
       },
       "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0"
+    },
+    {
+      "uuid": "7fd6c3e3-d384-5d6e-81a0-9bdf427de682",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16485175",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Fever无糖",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ef495aa2-dd2f-57d0-9112-ff1f39354c51",
