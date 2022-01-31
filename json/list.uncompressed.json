@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643647310
+    "timestamp": 1643647455
   },
   "vtbs": [
     {
@@ -28967,6 +28967,24 @@
       }
     },
     {
+      "uuid": "3e912169-5d6e-587c-bdec-459b272efd2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "366525894",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "寄白_Yorishiro",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
       "uuid": "47a4510f-b1c4-552f-9bca-92824957a063",
       "type": "vtuber",
       "bot": false,
@@ -36481,6 +36499,24 @@
         "cn": "星井まゆき",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "61bd2311-4163-5713-ba45-98878e9132cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612658912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星佑Shiuyoo",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "55d17356-a818-55b7-9366-bf7b8d4aa35a",
