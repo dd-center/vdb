@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643619536
+    "timestamp": 1643619731
   },
   "vtbs": [
     {
@@ -66430,6 +66430,23 @@
         "extra": [],
         "cn": "言寺Yio",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6c8c9c50-2857-537b-808e-6c85f626d28f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1086675151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "言彦_SAY",
+        "default": "CN"
       }
     },
     {
