@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643618209
+    "timestamp": 1643618403
   },
   "vtbs": [
     {
@@ -68850,6 +68850,42 @@
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
     },
     {
+      "uuid": "ec826ff0-8f5d-51bb-bbea-d94baa7b421e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1230039261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子少年-慕宇",
+        "default": "cn"
+      },
+      "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f"
+    },
+    {
+      "uuid": "fef0b7d2-eec4-50e7-82dc-7e088b25945d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1757836012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子少年-楚枫",
+        "default": "cn"
+      },
+      "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f"
+    },
+    {
       "uuid": "5012da3d-337f-5a02-95df-4b9a498321b1",
       "type": "vtuber",
       "bot": false,
@@ -68864,7 +68900,44 @@
         "extra": [],
         "cn": "量子少年-泽一",
         "default": "cn"
-      }
+      },
+      "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f"
+    },
+    {
+      "uuid": "f69a6948-02a5-5876-8ce4-61672a1aa3a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1461176910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子少年-祥太",
+        "default": "cn"
+      },
+      "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f"
+    },
+    {
+      "uuid": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1895683714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子少年Official",
+        "default": "cn"
+      },
+      "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f"
     },
     {
       "uuid": "4d4dcbf0-f576-58fa-a1e2-1db1e4acc346",
