@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643620138
+    "timestamp": 1643620187
   },
   "vtbs": [
     {
@@ -15537,6 +15537,30 @@
         "default": "cn"
       },
       "group": "6fb3fa4d-5741-5602-b538-0117b8a90348"
+    },
+    {
+      "uuid": "68f8bef4-0f77-53a3-95d4-688ed221c7cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "531329531",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "asyuka_v",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亚朱香",
+        "jp": "亜朱香",
+        "en": "Asyuka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "71060132-0d53-5275-9166-eb8b79a62ab2",
