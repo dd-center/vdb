@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643647474
+    "timestamp": 1643647668
   },
   "vtbs": [
     {
@@ -51499,6 +51499,23 @@
         "cn": "珈百璃_Official",
         "jp": "がぶりえる",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2b93e90b-dc60-5f69-89f2-7d027013077e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "416231451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "珊瑚_35",
+        "default": "CN"
       }
     },
     {
