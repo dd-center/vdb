@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643707229
+    "timestamp": 1643707269
   },
   "vtbs": [
     {
@@ -36215,6 +36215,28 @@
         "default": "cn"
       },
       "group": "a9c452b8-faba-53d1-92ad-83337135e2c3"
+    },
+    {
+      "uuid": "5f074b1d-c48a-58b9-8681-65b4912ee2e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "545539883",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "jiraichan",
+          "type": "official",
+          "platform": "marshmallow"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时来梦爱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ce58b1b1-a808-57a5-9e57-ef3c6d8d16d1",
