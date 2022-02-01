@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643707143
+    "timestamp": 1643707229
   },
   "vtbs": [
     {
@@ -47095,6 +47095,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "80b3ff07-92a7-5fa0-a897-80541318ad9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "574477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn.": "洛洛freme",
+        "default": "cn."
+      }
     },
     {
       "uuid": "685f391f-1896-548a-86d0-797e2bb06c30",
