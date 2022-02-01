@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643707654
+    "timestamp": 1643707754
   },
   "vtbs": [
     {
@@ -67730,6 +67730,24 @@
       "name": {
         "extra": [],
         "cn": "贝贝web",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3bf5c957-61df-555e-8f6f-10d6e3e95a11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "417826",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贪吃羊大作战",
+        "en": "DeCodeKuMa",
         "default": "cn"
       }
     },
