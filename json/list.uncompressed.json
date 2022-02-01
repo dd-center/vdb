@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643707094
+    "timestamp": 1643707143
   },
   "vtbs": [
     {
@@ -57213,6 +57213,23 @@
       "name": {
         "extra": [],
         "cn": "究极拉垮的天上Sora",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "37c1b3a1-06a6-5dd4-b148-b8e98cd1ae02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3084780",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空伶cherry",
         "default": "cn"
       }
     },
