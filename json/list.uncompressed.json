@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643707922
+    "timestamp": 1643708231
   },
   "vtbs": [
     {
@@ -51081,6 +51081,23 @@
         "default": "cn"
       },
       "group": "c9d461d8-ada6-5bb4-a347-42d6a30813e0"
+    },
+    {
+      "uuid": "cf479c3f-2211-5436-a7b2-7417046c4fbe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "689274741",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫白ShiroNeko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "444ac57e-5aa3-554c-b3d3-f736910dec30",
