@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643952014
+    "timestamp": 1643952083
   },
   "vtbs": [
     {
@@ -47729,6 +47729,23 @@
       "name": {
         "extra": [],
         "cn": "海里Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "585684a9-e6af-512f-9f3e-c6c30ee984ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1269309692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涅梨Nier",
         "default": "cn"
       }
     },
