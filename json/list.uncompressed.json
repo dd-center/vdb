@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643952083
+    "timestamp": 1643952323
   },
   "vtbs": [
     {
@@ -42959,6 +42959,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "b311cb82-bba1-52fa-b9e3-4a03651a35e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14977446",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗原澪Rei",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b0d7fcd1-fd43-524d-b30d-4260d035ef58",
