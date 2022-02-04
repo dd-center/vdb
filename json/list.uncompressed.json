@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643786249
+    "timestamp": 1643952014
   },
   "vtbs": [
     {
@@ -35562,6 +35562,23 @@
       }
     },
     {
+      "uuid": "32b328d2-b194-5758-8c04-df91c1b80a1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24911306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "文何Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bd3f2787-0279-5fd4-b376-310e28a85bc8",
       "type": "vtuber",
       "bot": false,
@@ -40923,6 +40940,23 @@
         "extra": [],
         "jp": "末音むかさ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "5d24b316-2699-5665-80a9-1ca92be57065",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "58814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "本心Honshin",
+        "default": "cn"
       }
     },
     {
