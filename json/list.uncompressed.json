@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1643952323
+    "timestamp": 1644161652
   },
   "vtbs": [
     {
@@ -42081,6 +42081,24 @@
         "default": "cn"
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
+    },
+    {
+      "uuid": "8985748a-a016-57b6-bb3f-b1cdbeb404be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1289581866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林美命_Official",
+        "default": "cn"
+      },
+      "group": "f49e8e3e-0dc9-5125-81c6-5c8d6c497f94"
     },
     {
       "uuid": "c62e2c9c-54f9-5be0-b22b-04f84603aa74",
