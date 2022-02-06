@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1644161652
+    "timestamp": 1644161777
   },
   "vtbs": [
     {
@@ -28316,6 +28316,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "4b67cf04-a80a-5d4e-8c0c-004a112146b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "305632924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宇佐未Usami",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5de82621-3b4f-5035-b635-d86022b4b082",
@@ -66480,6 +66497,24 @@
       "group": "8dbd1e05-a7d6-5f57-82f8-92f788450b28"
     },
     {
+      "uuid": "86ac9b63-4959-55ba-8a78-8a8c5548f055",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1186762218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蛇目Janome",
+        "default": "cn"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
       "uuid": "5bad0639-8df8-50ef-81e7-ba35d06d11d8",
       "type": "vtuber",
       "bot": false,
@@ -72978,6 +73013,29 @@
         "cn": "雪菜卷儿Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "03a404f7-a21d-581d-9f5b-b4a2ff53c5bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16907771",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "TP_YTBlack",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪虎Black",
+        "default": "cn"
+      },
+      "group": "e2e54677-6608-5996-9976-464cfd4ed739"
     },
     {
       "uuid": "d1edbe2b-2c7e-50bb-8908-60358f99c476",
