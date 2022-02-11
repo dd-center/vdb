@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1644168109
+    "timestamp": 1644587720
   },
   "vtbs": [
     {
@@ -42871,6 +42871,23 @@
       "name": {
         "extra": [],
         "cn": "柾花音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ddcb8d59-cac4-50cc-ac89-719042c6fac5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "57871034",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栀小朵",
         "default": "cn"
       }
     },
