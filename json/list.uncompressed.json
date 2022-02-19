@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645257468
+    "timestamp": 1645294386
   },
   "vtbs": [
     {
@@ -20399,6 +20399,23 @@
       "name": {
         "extra": [],
         "cn": "千铃SR",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98efb884-d47c-5f18-a850-6e2a473de96c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4664744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千雪汤儿_Yunokawa",
         "default": "cn"
       }
     },
