@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645214913
+    "timestamp": 1645257203
   },
   "vtbs": [
     {
@@ -42171,6 +42171,24 @@
         "cn": "林薄犬",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "069b2d87-1c48-585b-b406-1755f6f7712e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25032753",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "果汁erR",
+        "default": "cn"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
     },
     {
       "uuid": "bf79db67-10f8-5207-ad1a-3b5fd370ea50",
