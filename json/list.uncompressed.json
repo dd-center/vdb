@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645257203
+    "timestamp": 1645257271
   },
   "vtbs": [
     {
@@ -30572,6 +30572,23 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "8138f570-a61d-5887-9148-5bf8bded0fbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1069108539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小鳥遊杏子",
+        "default": "jp"
+      }
     },
     {
       "uuid": "55811124-cd3c-534b-a1d8-7c0d7e35a7a5",
