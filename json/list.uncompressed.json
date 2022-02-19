@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645257335
+    "timestamp": 1645257468
   },
   "vtbs": [
     {
@@ -4335,6 +4335,24 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "1cbf2cd9-3576-5d78-ad0b-0d0cb176c917",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3430222",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Natsumesaki",
+        "default": "cn"
+      },
+      "group": "668fb094-6abc-5d42-affd-411bde41cbdd"
     },
     {
       "uuid": "d59fd3c1-5c4b-5b83-8ce1-8bd15fee9529",
@@ -66103,6 +66121,18 @@
         "jp": "薬師寺朱雀",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "668fb094-6abc-5d42-affd-411bde41cbdd",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "薯条project",
+        "default": "cn"
+      },
+      "group": "668fb094-6abc-5d42-affd-411bde41cbdd"
     },
     {
       "uuid": "deaac30b-5fe9-50b6-805d-78006394c9d7",
