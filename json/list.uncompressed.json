@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645532085
+    "timestamp": 1645532304
   },
   "vtbs": [
     {
@@ -43222,6 +43222,23 @@
         "default": "cn"
       },
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
+    },
+    {
+      "uuid": "03aba6a6-3be2-57f1-bf2c-026e6b839a11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "48217254",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗牧Muri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "67bd7ddf-dcc8-5559-8822-88a0457d4e96",
