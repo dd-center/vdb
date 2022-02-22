@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645506682
+    "timestamp": 1645508310
   },
   "vtbs": [
     {
@@ -71174,6 +71174,23 @@
       "name": {
         "extra": [],
         "cn": "阮卿言",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9822d6d1-d338-5b63-ace2-cf4be6defad3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阳炎_Official",
         "default": "cn"
       }
     },
