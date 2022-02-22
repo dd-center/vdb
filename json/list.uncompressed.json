@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645506101
+    "timestamp": 1645506682
   },
   "vtbs": [
     {
@@ -38203,6 +38203,23 @@
           "星见糖"
         ],
         "cn": "星見糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ca950dc-0117-556a-8fea-a1a6bf341ac4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "443608708",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星见玫奈Mena",
         "default": "cn"
       }
     },
