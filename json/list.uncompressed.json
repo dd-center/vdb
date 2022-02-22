@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645513398
+    "timestamp": 1645514832
   },
   "vtbs": [
     {
@@ -53867,6 +53867,23 @@
         "default": "cn"
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
+      "uuid": "680d370e-f8ae-5441-9f3c-92173db4b65c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16217876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "白夜小鸠Hato",
+        "default": "CN"
+      }
     },
     {
       "uuid": "a75ad03e-d100-5e84-a58d-961936cc6630",
