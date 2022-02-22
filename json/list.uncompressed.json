@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645516213
+    "timestamp": 1645526637
   },
   "vtbs": [
     {
@@ -43258,6 +43258,25 @@
         "cn": "根羽Neva",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "69f01517-2a6b-5e94-8077-34e5cd5b3c81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1278545",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "格蕾缇娅Gretia",
+        "en": "Gretia",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "89945d7d-83bd-547a-aa3a-4c126d682b95",
