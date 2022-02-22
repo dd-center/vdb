@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645532635
+    "timestamp": 1645541820
   },
   "vtbs": [
     {
@@ -39860,6 +39860,23 @@
       "name": {
         "extra": [],
         "cn": "月之濑由美Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6231c95-b458-5209-88fc-41132c2104c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "302570366",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月亮也在想你MoYa",
         "default": "cn"
       }
     },
