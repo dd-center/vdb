@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645604720
+    "timestamp": 1645605119
   },
   "vtbs": [
     {
@@ -43825,6 +43825,24 @@
         "default": "cn"
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef"
+    },
+    {
+      "uuid": "f25296b0-81e5-5293-b527-fb8e6bc1086f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "106415",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桑吉",
+        "en": "Sage",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b3682265-4546-5e44-a3e8-a53352aca4f4",
