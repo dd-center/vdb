@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645608737
+    "timestamp": 1645616268
   },
   "vtbs": [
     {
@@ -49358,6 +49358,23 @@
       "name": {
         "extra": [],
         "cn": "濑户Totoni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "06500573-8e0c-52bf-9709-0dcb760b4338",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "56546937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瀞酒其姝",
         "default": "cn"
       }
     },
