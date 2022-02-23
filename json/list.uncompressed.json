@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645607799
+    "timestamp": 1645608086
   },
   "vtbs": [
     {
@@ -23666,6 +23666,23 @@
         "default": "cn"
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
+      "uuid": "998aeaff-809a-5cac-98b6-59fdfd241041",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "230487728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嚼着软糖想昵称",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e1e197b8-60c1-5c76-bc91-f39a31834bff",
