@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645608238
+    "timestamp": 1645608737
   },
   "vtbs": [
     {
@@ -74161,6 +74161,23 @@
       "name": {
         "extra": [],
         "cn": "霧島アラシStudio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cbb99628-d033-54f8-8283-e5f7a2246787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "570888894",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霧旎Muninn",
         "default": "cn"
       }
     },
