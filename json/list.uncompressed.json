@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645605119
+    "timestamp": 1645607430
   },
   "vtbs": [
     {
@@ -3237,6 +3237,23 @@
         "default": "en"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "18cf8a2a-dfad-52f9-a54d-7caa7f02c00a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "110725714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LUNA_月老板",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a4fe531e-315a-5a06-b2f1-1887c7b3327a",
@@ -61865,6 +61882,24 @@
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "828b3f86-48fd-5407-8513-42dbe834f52c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "321515030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "翼莉雅Eliya",
+        "default": "cn"
+      },
+      "group": "de5c38bf-6baa-557a-ab50-70021dfd22b1"
     },
     {
       "uuid": "40d0f327-4709-502d-abbb-26c565436f8a",
