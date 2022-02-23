@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645541820
+    "timestamp": 1645592521
   },
   "vtbs": [
     {
@@ -64371,6 +64371,23 @@
       "name": {
         "extra": [],
         "cn": "茉莉Mari_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cf7b7c6f-30df-5ec7-a155-d3f8b090be9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8491226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉莉奶芙Molly",
         "default": "cn"
       }
     },
