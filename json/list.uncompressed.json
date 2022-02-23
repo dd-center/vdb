@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645604157
+    "timestamp": 1645604421
   },
   "vtbs": [
     {
@@ -7843,6 +7843,23 @@
       "name": {
         "extra": [],
         "cn": "creammarchen7",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5010562e-8cb9-5f42-a3b7-cd267e1e74c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1855519979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "dodo_Official",
         "default": "cn"
       }
     },
