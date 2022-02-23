@@ -35,9 +35,27 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645616696
+    "timestamp": 1645616714
   },
   "vtbs": [
+    {
+      "uuid": "13ca7744-33f9-5011-9472-c3df4fb20117",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1041786022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西比尔",
+        "en": "Sibylla",
+        "default": "cn"
+      }
+    },
     {
       "uuid": "9b44e2a9-3334-5792-b57d-1bf0939afe49",
       "type": "vtuber",
@@ -6170,24 +6188,6 @@
       "name": {
         "extra": [],
         "cn": "ShynnKa_白乔",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "7ae89cd9-f002-5bec-9c05-6e402bc0b2d1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1041786022",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "西比尔",
-        "en": "Sibylla",
         "default": "cn"
       }
     },
