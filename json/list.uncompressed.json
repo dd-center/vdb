@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645593879
+    "timestamp": 1645601533
   },
   "vtbs": [
     {
@@ -69414,6 +69414,28 @@
         "default": "cn"
       },
       "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
+    },
+    {
+      "uuid": "2799f8d7-25cf-5d39-9e3d-e6d0329a8da8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2067739276",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCoLHE6uhg5lNqTM4q8l4bqw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "达莲Darlen",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b732f0df-c8b0-5840-9f6a-c8316dbc622b",
