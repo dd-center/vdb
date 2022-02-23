@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645618330
+    "timestamp": 1645619004
   },
   "vtbs": [
     {
@@ -24675,6 +24675,49 @@
       "group": "779b8800-af13-58ba-a384-bebeed4428c6"
     },
     {
+      "uuid": "c8b5bee7-5fe3-5bdc-ac96-756db409332b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCPkhI1WcLilaKu44B5p0jZg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HIMA_ASMR",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://www.pixiv.net/fanbox/creator/33047683",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "himaasmr",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "id": "239K4P15SMPIM",
+          "type": "official",
+          "platform": "amazon.co.jp"
+        },
+        {
+          "id": "1940246442",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夏恋ひまわり",
+        "en": "hima",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "e01eea10-c7d1-53f1-9ab9-49cb068963e3",
       "type": "vtuber",
       "bot": false,
@@ -25070,6 +25113,23 @@
         "extra": [],
         "jp": "夕刻ロベル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bfe67047-064c-593e-9385-9968d95e8c75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1239518334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕岚Cilla",
+        "default": "cn"
       }
     },
     {
@@ -26123,6 +26183,23 @@
       "name": {
         "extra": [],
         "cn": "大蔵優介-Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "18942c1a-6723-51d1-ac38-3a1ac91ffda3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19659802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大钉子欸嘿嘿",
         "default": "cn"
       }
     },
@@ -39409,6 +39486,23 @@
       "name": {
         "extra": [],
         "cn": "時葉美澄_Misumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5a41def-c526-5013-8bcd-6f59d47a3b43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3151738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "時雨Zeta",
         "default": "cn"
       }
     },
