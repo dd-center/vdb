@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645607430
+    "timestamp": 1645607799
   },
   "vtbs": [
     {
@@ -21893,6 +21893,50 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
+      "uuid": "5cdc44dc-bd8c-5f49-99b1-15b4ca4ab5d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1372936974",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCeFTC3xirwjAXjokhmY39zA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "__konishisan",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "konishikoni",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "id": "https://lit.link/konishi",
+          "type": "official",
+          "platform": "web"
+        },
+        {
+          "id": "konishikoni",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可妮Koni_Official",
+        "en": "KonishiKoni",
+        "jp": "小西こに",
+        "default": "cn"
+      }
     },
     {
       "uuid": "98106bfd-28d3-59c2-8970-76c6068160e5",
