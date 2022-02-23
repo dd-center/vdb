@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645601533
+    "timestamp": 1645603489
   },
   "vtbs": [
     {
@@ -951,7 +951,7 @@
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
     },
     {
-      "uuid": "89a9f6e4-cb76-55ba-bbd3-79b3f72954ed",
+      "uuid": "941f75ba-5817-5d75-ab93-5c547f44bfb9",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -963,7 +963,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "Aruka_official",
+        "cn": "Aruka搬运组",
         "default": "cn"
       }
     },
@@ -29788,6 +29788,23 @@
       }
     },
     {
+      "uuid": "c6e96c62-8eb1-51b4-932e-33197953fb1c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6483727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小恶魔channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "00cf8160-de57-5476-b540-11864d587b39",
       "type": "vtuber",
       "bot": false,
@@ -34387,23 +34404,6 @@
         "default": "cn"
       },
       "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
-    },
-    {
-      "uuid": "f9809da8-909d-5b65-a297-264e124f9bcb",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "6483727",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "恶魔",
-        "default": "cn"
-      }
     },
     {
       "uuid": "30978d42-725c-5682-ae83-208596251f96",
@@ -61045,24 +61045,6 @@
       }
     },
     {
-      "uuid": "03387971-ed80-50b7-9b07-0a4d2d66c6df",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "526071118",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "绿袖子Official",
-        "default": "cn"
-      },
-      "group": "aebb8a27-96ad-575f-99f7-485fb958d709"
-    },
-    {
       "uuid": "bab88359-5230-508d-a6b3-76caca879350",
       "type": "vtuber",
       "bot": false,
@@ -76214,6 +76196,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少女乐府酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "63229619-f44d-59a5-bc25-97b15fa7d8ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "526071118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法少女真理酱",
         "default": "cn"
       }
     },
