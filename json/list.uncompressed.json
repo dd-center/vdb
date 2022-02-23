@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645619004
+    "timestamp": 1645622687
   },
   "vtbs": [
     {
@@ -17798,6 +17798,23 @@
       "name": {
         "extra": [],
         "cn": "兔尤好困w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bdd4c474-9665-54c6-b840-eeac4ec95463",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44887917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔瑞卡Toreka",
         "default": "cn"
       }
     },
