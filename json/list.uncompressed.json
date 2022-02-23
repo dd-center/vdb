@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645617228
+    "timestamp": 1645617380
   },
   "vtbs": [
     {
@@ -49529,6 +49529,23 @@
       "name": {
         "extra": [],
         "cn": "灯火橘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7bdfb901-6bc3-5e0a-afab-53b55f5fb95e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "28968096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灰咕娘-灰风字幕组",
         "default": "cn"
       }
     },
