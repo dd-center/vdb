@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645616268
+    "timestamp": 1645616696
   },
   "vtbs": [
     {
@@ -76418,6 +76418,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少女乐府酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1683c3e4-8c18-52bf-95a1-989ecef65d1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2933480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法少女初柒",
         "default": "cn"
       }
     },
