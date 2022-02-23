@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645617704
+    "timestamp": 1645617946
   },
   "vtbs": [
     {
@@ -16636,6 +16636,23 @@
         "extra": [],
         "jp": "伏見ガク",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "541fa888-d1e3-558f-b382-c02ffd0bdedb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "693803974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "优莉酱Channel",
+        "default": "cn"
       }
     },
     {
@@ -61897,6 +61914,23 @@
       "name": {
         "extra": [],
         "cn": "羽织希_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e4708b9-22a2-5dc9-aee5-27d512bb3769",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1357988245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽霁_",
         "default": "cn"
       }
     },
