@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645604421
+    "timestamp": 1645604720
   },
   "vtbs": [
     {
@@ -52349,6 +52349,24 @@
         "cn": "玩具喵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "94a7c279-f711-55f7-ac99-f30bd6994032",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1221600493",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "环Tamaki_channel",
+        "default": "cn"
+      },
+      "group": "5280227e-7149-51ad-a929-cc2da6852f64"
     },
     {
       "uuid": "a629223f-5cb6-50df-8d28-5400b4d1c497",
