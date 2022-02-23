@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645617380
+    "timestamp": 1645617518
   },
   "vtbs": [
     {
@@ -14612,6 +14612,29 @@
       "name": {
         "extra": [],
         "cn": "久世鈴奈",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9fe8085a-4223-5122-a472-03397218b00a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19650530",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "4214236",
+          "type": "official",
+          "platform": "pixiv"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "久瑠麻衣",
+        "en": "Kurumai",
         "default": "cn"
       }
     },
