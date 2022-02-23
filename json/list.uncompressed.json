@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645592540
+    "timestamp": 1645592553
   },
   "vtbs": [
     {
@@ -33902,6 +33902,23 @@
       "name": {
         "extra": [],
         "cn": "心夏kokona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "305a3a55-1eb1-5255-be1e-8c024cc45633",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "76818693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心奈是杯奶茶",
         "default": "cn"
       }
     },
