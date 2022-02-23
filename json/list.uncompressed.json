@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645603489
+    "timestamp": 1645604157
   },
   "vtbs": [
     {
@@ -46775,6 +46775,28 @@
         "extra": [],
         "cn": "汐月Shiotsuki",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "73eebe50-35d7-5f3d-86cc-a2d4a8e0c010",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23130470",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCNybeZZtR1V7dJK22PIX0zQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "汐梦_Official",
+        "default": "CN"
       }
     },
     {
