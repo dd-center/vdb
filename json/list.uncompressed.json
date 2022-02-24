@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645694643
+    "timestamp": 1645694793
   },
   "vtbs": [
     {
@@ -58366,6 +58366,23 @@
       "name": {
         "extra": [],
         "cn": "稚九鸟Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "25f0db88-325d-5a8b-b8ca-805b7c9df18c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "318675220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "稚僮_Rumimi",
         "default": "cn"
       }
     },
