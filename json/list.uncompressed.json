@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645662117
+    "timestamp": 1645662616
   },
   "vtbs": [
     {
@@ -56353,6 +56353,23 @@
         "extra": [],
         "jp": "真理シンリ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3c60d7d6-d17e-56ff-96e5-4b83b459a961",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4525128",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真白Kizune",
+        "default": "cn"
       }
     },
     {
