@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645693028
+    "timestamp": 1645693320
   },
   "vtbs": [
     {
@@ -44380,6 +44380,23 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "a080a654-108f-543a-9465-112843dc5360",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1126480831",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅林-Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "297f8f30-80d3-5976-abb2-2f3f78feaa17",
