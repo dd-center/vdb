@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645693808
+    "timestamp": 1645694334
   },
   "vtbs": [
     {
@@ -48388,6 +48388,23 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "9d9d645f-c721-57a5-97b4-1a877415ebd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2133978130",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海俐HaiL_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a33af058-648e-55d7-9cd2-de1944799cb0",
