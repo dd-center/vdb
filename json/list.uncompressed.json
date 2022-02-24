@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645685794
+    "timestamp": 1645692855
   },
   "vtbs": [
     {
@@ -77949,6 +77949,23 @@
       "name": {
         "extra": [],
         "cn": "麦芽不甜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5d9c4cbc-1026-5944-a692-86e85d8ea3e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "429866241",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻仓叶童",
         "default": "cn"
       }
     },
