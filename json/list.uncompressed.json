@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645662859
+    "timestamp": 1645685794
   },
   "vtbs": [
     {
@@ -72245,6 +72245,25 @@
         "default": "cn"
       },
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
+    },
+    {
+      "uuid": "9968095a-f449-5b35-bf14-3841d5428512",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1258178536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿希娜Emma",
+        "en": "Emma",
+        "default": "cn"
+      },
+      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "3da2eea5-aff1-5220-a4c0-234ba1eb344b",
