@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645694793
+    "timestamp": 1645705114
   },
   "vtbs": [
     {
@@ -66175,6 +66175,23 @@
       "name": {
         "extra": [],
         "cn": "萌璃子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "186c266e-a743-5fe7-98f3-b19142e51416",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "124060945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梧桐树夏",
         "default": "cn"
       }
     },
