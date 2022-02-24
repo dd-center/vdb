@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645693500
+    "timestamp": 1645693808
   },
   "vtbs": [
     {
@@ -65394,6 +65394,23 @@
         "default": "jp"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
+    },
+    {
+      "uuid": "a3c318e9-0d48-5ec3-935e-4e93c7038bcf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "873389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉娅Eliana",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4f361925-7483-59b8-a735-d792214d115d",
