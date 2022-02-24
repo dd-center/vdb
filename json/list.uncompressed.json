@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645622687
+    "timestamp": 1645661626
   },
   "vtbs": [
     {
@@ -32543,6 +32543,23 @@
       "name": {
         "extra": [],
         "cn": "希露卡_特瓦伊莱特",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "02480195-aa1c-5668-8bc4-03531d93cd5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1788955114",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕妮punny",
         "default": "cn"
       }
     },
