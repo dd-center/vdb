@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645811566
+    "timestamp": 1645811823
   },
   "vtbs": [
     {
@@ -21359,6 +21359,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "fab92511-9355-5299-b844-235ac55de265",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2790049",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡氧吃不饱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "116d0020-c961-5c66-928f-b35d08d12b81",
