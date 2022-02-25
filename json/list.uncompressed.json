@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645803344
+    "timestamp": 1645803404
   },
   "vtbs": [
     {
@@ -74049,6 +74049,24 @@
         "cn": "雪璐Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "056963f1-e8d8-59e3-94f2-b2a4e53548a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1476333866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪璐Sheryl",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "19533983-1dc8-5098-b72c-c6b073d4f648",
