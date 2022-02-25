@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645803404
+    "timestamp": 1645811566
   },
   "vtbs": [
     {
@@ -61948,6 +61948,24 @@
         "default": "cn"
       },
       "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
+    },
+    {
+      "uuid": "b6e5006e-349d-58d8-877f-a10c499c388a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1315573139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗兹Blazing",
+        "default": "cn"
+      },
+      "group": "2ff15133-b0bb-5088-9163-a209b029d196"
     },
     {
       "uuid": "d1b293d5-387f-5d1d-9375-4e9d464efb0a",
