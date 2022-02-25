@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645812039
+    "timestamp": 1645812239
   },
   "vtbs": [
     {
@@ -8660,14 +8660,14 @@
       "bot": false,
       "accounts": [
         {
-          "id": "1745191666",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
           "id": "UCH6jR8Ddrevo4OFddNr5ACg",
           "type": "official",
           "platform": "youtube"
+        },
+        {
+          "id": "1745191666",
+          "type": "official",
+          "platform": "bilibili"
         },
         {
           "id": "_rucaco_",
@@ -14535,6 +14535,23 @@
       "name": {
         "extra": [],
         "cn": "中南小团子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "700d3cd5-4678-5bad-bcb7-ff33e7775021",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "357672624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "中原米米子",
         "default": "cn"
       }
     },
@@ -46090,6 +46107,23 @@
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
     },
     {
+      "uuid": "45ad5ca1-94a4-5e7d-8af3-51422218ace1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3774410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱饼饼Sakura",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "99b6d38d-5cdd-5007-8846-e563489b22f8",
       "type": "vtuber",
       "bot": false,
@@ -57632,6 +57666,23 @@
       }
     },
     {
+      "uuid": "05c66d64-1d70-5632-b08c-6cd14188ef20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "341688520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神宫咲Saki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d6ba9541-9410-5f5c-b52b-949ce870eaec",
       "type": "vtuber",
       "bot": false,
@@ -60072,6 +60123,23 @@
       "name": {
         "extra": [],
         "cn": "糯米团子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1454a2b7-a8dd-5730-baef-47af61b8efe6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "238242280",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糯米狐nome",
         "default": "cn"
       }
     },
