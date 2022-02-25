@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645759627
+    "timestamp": 1645803344
   },
   "vtbs": [
     {
@@ -25520,6 +25520,23 @@
         "default": "jp"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "ca592826-726b-5ff4-bc18-88f133fd2913",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "482318682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜分Melanin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0c409ac5-af97-51aa-9eaa-99acbd0403d5",
