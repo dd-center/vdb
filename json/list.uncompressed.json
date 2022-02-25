@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645811823
+    "timestamp": 1645811973
   },
   "vtbs": [
     {
@@ -4293,6 +4293,23 @@
         "extra": [],
         "en": "NACHOCO",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "17f028e8-bb58-5d58-9a21-0acfdebaa7ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32155552",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "NAKUwac",
+        "default": "cn"
       }
     },
     {
