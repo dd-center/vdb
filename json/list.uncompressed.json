@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645885263
+    "timestamp": 1645890018
   },
   "vtbs": [
     {
@@ -9665,38 +9665,6 @@
       "name": {
         "extra": [],
         "jp": "くもの上ユメミ",
-        "default": "jp"
-      }
-    },
-    {
-      "uuid": "b41abb5d-0492-5c36-8da6-c5212fd173ba",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "433447639",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "UCBJFtEEDnCpz8koPH-nLWUA",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "kurumi_UoxoU",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "kuru3.v＠gmail.com",
-          "type": "official",
-          "platform": "email"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "くるみ",
         "default": "jp"
       }
     },
@@ -54500,6 +54468,39 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "24b4bd52-6fbc-5cfe-b525-c72b841652ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1609920889",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCBJFtEEDnCpz8koPH-nLWUA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kurumi_UoxoU",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kuru3.v＠gmail.com",
+          "type": "official",
+          "platform": "email"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "癒音くるみ",
+        "cn": "癒音kurumi",
+        "default": "jp"
+      }
     },
     {
       "uuid": "0ab57f16-439d-56c2-a875-d4ce9d93a731",
