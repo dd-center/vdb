@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645885184
+    "timestamp": 1645885263
   },
   "vtbs": [
     {
@@ -67788,6 +67788,23 @@
         "default": "cn"
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
+      "uuid": "2a5939a9-d20d-576d-b4a3-e26dceb61252",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "358336849",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蛋蛋布奶Neko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5bad0639-8df8-50ef-81e7-ba35d06d11d8",
