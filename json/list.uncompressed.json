@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645933018
+    "timestamp": 1645953772
   },
   "vtbs": [
     {
@@ -55365,7 +55365,7 @@
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd"
     },
     {
-      "uuid": "b0149242-a4e7-5784-a269-3adc5bc3d12d",
+      "uuid": "375f8c68-7eae-5eec-b3ae-656fd5682cd6",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -58412,7 +58412,7 @@
       "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
-      "uuid": "86b4e5b7-8cf2-51ee-b3aa-9f8b0f4d002d",
+      "uuid": "eed6d56b-ae42-51eb-8031-dc84ad18b57b",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -60266,32 +60266,6 @@
       "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
     },
     {
-      "uuid": "8d5e2d4d-329d-56d2-a09f-0e34736e096b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "899804",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "kurenaiXakane",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [
-          "红晓音l"
-        ],
-        "cn": "紅暁音",
-        "en": "Kurenai Akane",
-        "default": "cn"
-      },
-      "group": "f076e35d-500d-57ba-9149-6caed8275768"
-    },
-    {
       "uuid": "72759a29-1164-5b45-8ab9-7693dcffbdbd",
       "type": "vtuber",
       "bot": false,
@@ -61215,6 +61189,31 @@
         "ch": "红墨-Official",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "0bc92ad4-2d33-5f67-b082-a32620949673",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "899804",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kurenaiXakane",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "红晓音",
+        "en": "Kurenai Akane",
+        "jp": "紅暁音",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "da35bc88-c6d7-57be-b0eb-6e4823b45548",
@@ -70533,7 +70532,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "YY",
+        "cn": "这是亦枝YY",
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
