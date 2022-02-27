@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645932717
+    "timestamp": 1645932952
   },
   "vtbs": [
     {
@@ -5366,6 +5366,18 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "64ec0374-8bc6-5927-be96-f4457c0021c4",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "Project_Lark",
+        "default": "cn"
+      },
+      "group": "64ec0374-8bc6-5927-be96-f4457c0021c4"
     },
     {
       "uuid": "538f9a43-553b-521e-b3b9-8199d5840382",
@@ -34385,7 +34397,8 @@
         "extra": [],
         "cn": "心奈是杯奶茶",
         "default": "cn"
-      }
+      },
+      "group": "64ec0374-8bc6-5927-be96-f4457c0021c4"
     },
     {
       "uuid": "d2f3bfcb-dfa2-5c84-96e3-691ebd122a67",
