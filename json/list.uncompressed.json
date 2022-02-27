@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645890018
+    "timestamp": 1645932464
   },
   "vtbs": [
     {
@@ -29893,6 +29893,23 @@
         "extra": [],
         "cn": "小侦探由梨佳_official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9a81f6d-529e-5e10-8e78-fd29e30d3ced",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1475213406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小兔姬ゆるあ_Official",
+        "default": "jp"
       }
     },
     {
