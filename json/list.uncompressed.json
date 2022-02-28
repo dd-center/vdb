@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1645954224
+    "timestamp": 1646067161
   },
   "vtbs": [
     {
@@ -40827,6 +40827,23 @@
       "name": {
         "extra": [],
         "cn": "月野奈奈子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39985a58-e3e6-5267-9613-9432bc989a5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "342214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月铃Lin想狂吸猫肚子",
         "default": "cn"
       }
     },
