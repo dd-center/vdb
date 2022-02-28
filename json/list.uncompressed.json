@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646067161
+    "timestamp": 1646092368
   },
   "vtbs": [
     {
@@ -16884,6 +16884,35 @@
         "cn": "佐佐子MIAO",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "69d79a89-7d4a-5fc9-b0b8-3f719a9469c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1923344666",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCIm8pnnTNhCgGAtNxrQQv-g",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "SaohimeYue",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佐保姬夕映",
+        "jp": "サオヒメユエ",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "70a7f990-327b-55d5-a56b-eda0b0f88c40",
