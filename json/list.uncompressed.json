@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646190878
+    "timestamp": 1646204256
   },
   "vtbs": [
     {
@@ -26459,6 +26459,23 @@
       "name": {
         "extra": [],
         "cn": "天之宫穹",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2f26f989-1e55-5da7-a41d-2b258bccb466",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "126401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天仓五Alice",
         "default": "cn"
       }
     },
