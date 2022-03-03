@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646223793
+    "timestamp": 1646266684
   },
   "vtbs": [
     {
@@ -67883,6 +67883,23 @@
         "default": "cn"
       },
       "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77"
+    },
+    {
+      "uuid": "3aeca963-d283-564f-8379-64761cd794be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10039139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蚊主任",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cff8ef63-57a5-5823-b243-53a14c7d1912",
