@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646393938
+    "timestamp": 1646394019
   },
   "vtbs": [
     {
@@ -46710,6 +46710,23 @@
       "name": {
         "extra": [],
         "cn": "欧阳凌空",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3cbc562e-2708-55f9-9f94-c114e05569ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34135251",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "歌爱千岁",
         "default": "cn"
       }
     },
