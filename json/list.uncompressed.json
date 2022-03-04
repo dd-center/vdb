@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646394019
+    "timestamp": 1646394088
   },
   "vtbs": [
     {
@@ -47527,6 +47527,24 @@
       "name": {
         "extra": [],
         "cn": "汐水琉月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c85982d9-0065-555a-8e32-3928d58e51fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "134742724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐莓",
+        "en": "Akane",
         "default": "cn"
       }
     },
