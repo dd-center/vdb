@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646266684
+    "timestamp": 1646393858
   },
   "vtbs": [
     {
@@ -2831,6 +2831,24 @@
         "default": "en"
       },
       "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
+    },
+    {
+      "uuid": "a18c9fd2-13bb-50ee-850f-114360843161",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1895255207",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "IRA艾芮",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "f30adaff-4cda-5702-89d5-5c09c07533f7",
