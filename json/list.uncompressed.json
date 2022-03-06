@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646488692
+    "timestamp": 1646568207
   },
   "vtbs": [
     {
@@ -71244,6 +71244,23 @@
       "name": {
         "extra": [],
         "cn": "酒酒井アンリ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c2a79d43-2d9b-5814-b75b-fda56cbfe457",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454223734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酥芷Chakku",
         "default": "cn"
       }
     },
