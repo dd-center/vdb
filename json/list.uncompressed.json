@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646568207
+    "timestamp": 1646630337
   },
   "vtbs": [
     {
@@ -6748,6 +6748,24 @@
         "jp": "魚見音凅",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "466b2417-38ec-5162-8b5e-82ea6eabcef3",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "669412983",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "UpAllLight",
+        "default": "en"
+      },
+      "group": "466b2417-38ec-5162-8b5e-82ea6eabcef3"
     },
     {
       "uuid": "852cbe7e-95b1-5301-871b-25a53a8da777",
@@ -34512,7 +34530,8 @@
         "extra": [],
         "cn": "心夏kokona",
         "default": "cn"
-      }
+      },
+      "group": "466b2417-38ec-5162-8b5e-82ea6eabcef3"
     },
     {
       "uuid": "305a3a55-1eb1-5255-be1e-8c024cc45633",
@@ -45955,7 +45974,8 @@
         "extra": [],
         "cn": "樱井花咲_Channel",
         "default": "cn"
-      }
+      },
+      "group": "466b2417-38ec-5162-8b5e-82ea6eabcef3"
     },
     {
       "uuid": "0aedda30-523c-5dbb-8ebb-80995631c80e",
