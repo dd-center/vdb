@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646741807
+    "timestamp": 1646741925
   },
   "vtbs": [
     {
@@ -28125,6 +28125,23 @@
       "name": {
         "extra": [],
         "cn": "奶茶姬",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "38163465-4a80-5fd5-880d-db77fb3dec0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1953558829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶豆豆o",
         "default": "cn"
       }
     },
@@ -68275,6 +68292,23 @@
         "default": "cn"
       },
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
+    },
+    {
+      "uuid": "31f7cc01-b423-5189-9145-dc18f0f36c89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "697737710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶蝶Hikari",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b28ceecb-bf7b-58df-9d0c-6f7df52a1a73",
