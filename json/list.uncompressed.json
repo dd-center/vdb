@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646804251
+    "timestamp": 1646826549
   },
   "vtbs": [
     {
@@ -28536,6 +28536,23 @@
       "name": {
         "extra": [],
         "cn": "姬野青",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e9c4791f-9019-5192-a41b-7ca75169b136",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "511017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅丝咩Yasumi",
         "default": "cn"
       }
     },
