@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646742013
+    "timestamp": 1646804184
   },
   "vtbs": [
     {
@@ -63575,6 +63575,30 @@
       "name": {
         "extra": [],
         "cn": "艾可echo_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e2829c81-f541-5fe5-b105-5a49a1b9a874",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35954791",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "204885",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [
+          "艾可"
+        ],
+        "cn": "艾可offical",
         "default": "cn"
       }
     },
