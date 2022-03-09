@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646804184
+    "timestamp": 1646804251
   },
   "vtbs": [
     {
@@ -8753,6 +8753,25 @@
       "name": {
         "extra": [],
         "cn": "rurudo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "37b81543-cae5-5fde-b1a9-b153e7b01dcf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49653129",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "stage1st宅社区"
+        ],
+        "cn": "s1姬",
         "default": "cn"
       }
     },
