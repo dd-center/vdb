@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646873187
+    "timestamp": 1646897400
   },
   "vtbs": [
     {
@@ -8204,6 +8204,23 @@
       "name": {
         "extra": [],
         "cn": "karory",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e9701230-c994-577b-815f-712bedec305e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2369483",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kasa酱",
         "default": "cn"
       }
     },
