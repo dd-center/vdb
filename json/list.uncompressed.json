@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1646897400
+    "timestamp": 1646967302
   },
   "vtbs": [
     {
@@ -48147,6 +48147,23 @@
         "extra": [],
         "jp": "滄藍メロディ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2e7cfd5e-5c52-57c0-8d41-ce540c51be39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1192174259",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沫乃Meroy",
+        "default": "cn"
       }
     },
     {
