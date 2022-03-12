@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647094596
+    "timestamp": 1647094884
   },
   "vtbs": [
     {
@@ -38059,6 +38059,21 @@
           "id": "402417817",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "Hosimiya_Sio",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hosimiyasio",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "UCIqtB1-thWl70YZrKK5NO9w",
+          "type": "official",
+          "platform": "youtube"
         }
       ],
       "name": {
@@ -52705,6 +52720,34 @@
       "name": {
         "extra": [],
         "cn": "猫羽祀玖Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "feff7a61-dbcf-57da-ab9e-23fed81e98fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2106656188",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCMeRRRZAHlYeOYzBV478Aag",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "sora_nekoha",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫羽空",
+        "jp": "猫羽そら",
         "default": "cn"
       }
     },
