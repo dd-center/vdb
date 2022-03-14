@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647235809
+    "timestamp": 1647235936
   },
   "vtbs": [
     {
@@ -23222,6 +23222,23 @@
       "name": {
         "extra": [],
         "cn": "咦我的头发呢",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1bbb3a00-92b9-5e04-a0c1-df6de92955ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16955731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咩小忒",
         "default": "cn"
       }
     },
