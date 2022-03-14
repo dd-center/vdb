@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647235936
+    "timestamp": 1647236034
   },
   "vtbs": [
     {
@@ -59708,6 +59708,23 @@
       "name": {
         "extra": [],
         "cn": "竹子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4aa5e003-24ff-521c-af87-c6baa9d1ca70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1343252680",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹已Take",
         "default": "cn"
       }
     },
