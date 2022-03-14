@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647094884
+    "timestamp": 1647235672
   },
   "vtbs": [
     {
@@ -47753,6 +47753,23 @@
       "name": {
         "extra": [],
         "cn": "汐詺-sekina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a786baa0-0eba-51da-9f5b-811d0ed83052",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "324884920",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江壹纯",
         "default": "cn"
       }
     },
