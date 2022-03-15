@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647249265
+    "timestamp": 1647329796
   },
   "vtbs": [
     {
@@ -57079,6 +57079,23 @@
       "name": {
         "extra": [],
         "cn": "真侑Mayuu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8dd776d5-3942-5a4b-b09d-536ba8a13b5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384589370",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真凛-marin",
         "default": "cn"
       }
     },
