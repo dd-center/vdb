@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647329796
+    "timestamp": 1647437090
   },
   "vtbs": [
     {
@@ -31754,6 +31754,23 @@
       "name": {
         "extra": [],
         "cn": "尾塚洛琦_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ae67796-be92-5001-8e34-858870226120",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "75094637",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尾巴困困",
         "default": "cn"
       }
     },
