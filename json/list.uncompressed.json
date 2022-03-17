@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647437090
+    "timestamp": 1647501019
   },
   "vtbs": [
     {
@@ -55076,6 +55076,23 @@
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
     },
     {
+      "uuid": "e0889b64-0b95-5684-b2d6-c216b6e945ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1373752236",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白云kim",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5a0fff4b-30bf-5a6c-afb7-6ccbde0f5996",
       "type": "vtuber",
       "bot": false,
@@ -62926,6 +62943,23 @@
         "extra": [],
         "cn": "羽咲らびOfficial",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "a10e9eb6-0977-5eed-8f6f-ddc024155362",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "797356",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "羽咲梦蝶",
+        "default": "CN"
       }
     },
     {
