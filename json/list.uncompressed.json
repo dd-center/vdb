@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647519015
+    "timestamp": 1647519229
   },
   "vtbs": [
     {
@@ -71672,6 +71672,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "2e90517a-1b73-5c68-ba5e-59e623ac33e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1840042245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒井奈奈子_Nanako",
+        "default": "cn"
+      }
     },
     {
       "uuid": "75bbf4af-8955-56b6-879d-abea2f162d41",
