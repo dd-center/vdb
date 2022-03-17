@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647518858
+    "timestamp": 1647518927
   },
   "vtbs": [
     {
@@ -25675,7 +25675,7 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
-      "uuid": "aef73f53-1c7f-594e-8b84-c6a4bc9f0242",
+      "uuid": "b6094e47-a984-58b5-b69f-f112c9728cce",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -25686,8 +25686,10 @@
         }
       ],
       "name": {
-        "extra": [],
-        "cn": "多莉",
+        "extra": [
+          "狐狸"
+        ],
+        "cn": "多莉Official",
         "default": "cn"
       }
     },
