@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647501019
+    "timestamp": 1647501059
   },
   "vtbs": [
     {
@@ -63955,6 +63955,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "ba30c60c-3fa2-513f-9357-94d1dd65e84f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2084828421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾妮",
+        "default": "cn"
+      }
     },
     {
       "uuid": "051f88b5-669e-5dd4-a704-741d3a8e7b58",
