@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647519229
+    "timestamp": 1647579071
   },
   "vtbs": [
     {
@@ -22797,6 +22797,23 @@
         "default": "jp"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "7cc7b607-dc3e-5b0f-9704-b77fc46c7d1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "401843345",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "君澜Narada",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b0399ea2-75fc-5b8c-94b8-c95cdb890244",
