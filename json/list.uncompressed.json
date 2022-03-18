@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647579071
+    "timestamp": 1647601808
   },
   "vtbs": [
     {
@@ -1071,6 +1071,23 @@
         "default": "cn"
       },
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
+    },
+    {
+      "uuid": "b5c6e989-a2e8-53f0-86ca-42fef72d629e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1291193028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "Athy_Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "a4f5b5e7-009f-5164-abb8-e2bc4e580086",
@@ -16111,6 +16128,23 @@
       }
     },
     {
+      "uuid": "1c883480-bb50-5ae0-a8d6-4029eb780c6f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2053456684",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "仄架夜未Official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "446cd650-77d9-509e-a975-e87b0b09ac11",
       "type": "vtuber",
       "bot": false,
@@ -26806,10 +26840,15 @@
       "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
     },
     {
-      "uuid": "525c3aa5-8553-5821-9779-ad8119cb1315",
+      "uuid": "ffd47345-d0fb-53e5-b155-50d4592f8d85",
       "type": "vtuber",
       "bot": false,
       "accounts": [
+        {
+          "id": "1922761275",
+          "type": "official",
+          "platform": "bilibili"
+        },
         {
           "id": "1601919108",
           "type": "official",
@@ -26817,9 +26856,11 @@
         }
       ],
       "name": {
-        "extra": [],
-        "cn": "天使花夜乃Official",
-        "default": "cn"
+        "extra": [
+          "天使花夜乃_Official"
+        ],
+        "jp": "天使花夜乃Official",
+        "default": "jp"
       }
     },
     {
@@ -47516,6 +47557,23 @@
       "group": "62f90b65-e8cd-54b1-bae2-ed0fc47d063c"
     },
     {
+      "uuid": "5c0c33a7-936f-5c52-824e-aee0ec640cde",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1040604211",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "水莲Suiren_vt",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "e990bddd-abba-5929-a660-2325fe81896d",
       "type": "vtuber",
       "bot": false,
@@ -59639,6 +59697,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "d53c7d05-4293-5494-b3f3-54c5b03d0430",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1300421811",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "竜輝音緒流_Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d",
@@ -74692,6 +74767,23 @@
         "extra": [],
         "cn": "雪叶凛Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "01317e89-78eb-58cd-a289-200c534a6deb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1485277312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "雪团official",
+        "default": "jp"
       }
     },
     {
