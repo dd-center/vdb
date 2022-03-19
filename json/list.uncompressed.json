@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647695675
+    "timestamp": 1647695721
   },
   "vtbs": [
     {
@@ -73439,6 +73439,40 @@
       "name": {
         "extra": [],
         "jp": "門叶困の野望(仮)",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "e3043c89-78ff-53e6-88b8-3eafc9262932",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1145198317",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "間宵湊誠_Official",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "5b0a9c7f-cd69-56ea-a3a4-f6d9e4aa980d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "125979457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "間宵雫_Official",
         "default": "jp"
       }
     },
