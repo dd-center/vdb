@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647821495
+    "timestamp": 1647821732
   },
   "vtbs": [
     {
@@ -57421,6 +57421,24 @@
       "name": {
         "extra": [],
         "cn": "盐天使riel_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f07bd72-bb86-550b-a84f-8407d948c210",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "927813",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盐月明日",
+        "jp": "ShiodukiAsu",
         "default": "cn"
       }
     },
