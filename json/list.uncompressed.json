@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647821077
+    "timestamp": 1647821495
   },
   "vtbs": [
     {
@@ -43257,6 +43257,24 @@
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
+      "uuid": "628fbe4f-5652-5cd9-a504-dc8c74b72694",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498677185",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "极昼Polar-D",
+        "default": "cn"
+      },
+      "group": "628fbe4f-5652-5cd9-a504-dc8c74b72694"
+    },
+    {
       "uuid": "d57dabaf-8380-5079-a880-c3c4bddccbab",
       "type": "vtuber",
       "bot": false,
@@ -59938,6 +59956,23 @@
       }
     },
     {
+      "uuid": "8ef75a9e-b844-5efe-92dd-d5cdeb01ecb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "199915",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空风Kuu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d65ccf89-3903-5866-b68b-8ced141a293e",
       "type": "vtuber",
       "bot": false,
@@ -65378,6 +65413,23 @@
       }
     },
     {
+      "uuid": "a3d05154-2f01-578a-8009-0d930ab664db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1284818028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花崎Haki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d919f3f8-a11d-544f-980c-f728bc34a0b4",
       "type": "vtuber",
       "bot": false,
@@ -68452,6 +68504,23 @@
       "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
     },
     {
+      "uuid": "a1f8ab4f-b877-5f2b-a8a7-44c3c8154abc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1920016963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蔻蔻Channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fa493b37-fbd9-5498-97d4-c85149aba86d",
       "type": "vtuber",
       "bot": false,
@@ -68483,6 +68552,23 @@
       "name": {
         "extra": [],
         "cn": "蕾尔娜Leona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ba9a1a8f-5bf7-55e0-a6b0-c9123b9c99a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1970153302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾琳Leylin",
         "default": "cn"
       }
     },
