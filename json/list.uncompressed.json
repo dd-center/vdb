@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647906371
+    "timestamp": 1647906411
   },
   "vtbs": [
     {
@@ -14270,6 +14270,23 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "2036bf91-e9d8-50c4-9734-ae7956eb84af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4447907",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不想睡觉的洗洗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d8b69bc4-895e-5f58-a22b-97d6db659f3d",
