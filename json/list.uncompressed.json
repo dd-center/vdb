@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647906411
+    "timestamp": 1647906492
   },
   "vtbs": [
     {
@@ -58684,6 +58684,23 @@
       "name": {
         "extra": [],
         "cn": "神优优yuu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "802ec0c0-b7be-5fe5-9c46-5859c1d13a0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3432647",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神判更纱",
         "default": "cn"
       }
     },
