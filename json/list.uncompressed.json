@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647820550
+    "timestamp": 1647821077
   },
   "vtbs": [
     {
@@ -18551,6 +18551,23 @@
       }
     },
     {
+      "uuid": "08befe5a-2f7a-5d3e-8374-aaed7b72ab89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1577097749",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兰枫Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5e3c0521-c471-5e33-99cd-dfd3ae25c443",
       "type": "vtuber",
       "bot": false,
@@ -25291,6 +25308,23 @@
       "name": {
         "extra": [],
         "cn": "夏柯Shark",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f94e90a-2eb9-5c50-ba84-da1c2e21a6dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1950988748",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏樱Official",
         "default": "cn"
       }
     },
@@ -44609,6 +44643,23 @@
         "default": "cn"
       },
       "group": "8dbd1e05-a7d6-5f57-82f8-92f788450b28"
+    },
+    {
+      "uuid": "ee3696ef-c8a2-5f9a-b71d-7f1f37e5dba0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1970372013",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃子没有在摸鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "927f323a-b68c-57e3-84d6-094d24cdce5e",
