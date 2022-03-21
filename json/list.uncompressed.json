@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647821732
+    "timestamp": 1647906371
   },
   "vtbs": [
     {
@@ -61822,6 +61822,23 @@
       "name": {
         "extra": [],
         "cn": "紫苑寺郁子channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a2a7eb87-bb66-5658-ba95-48b51d7d7a2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16957827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫雀Murasaki",
         "default": "cn"
       }
     },
