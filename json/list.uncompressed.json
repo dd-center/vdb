@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647934981
+    "timestamp": 1647935230
   },
   "vtbs": [
     {
@@ -26676,6 +26676,23 @@
         "extra": [],
         "jp": "大田マト",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "ea5a06a1-56d3-53ad-8027-3ca5d5b0c82b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5778298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大的蒙牛",
+        "default": "cn"
       }
     },
     {
