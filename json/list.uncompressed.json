@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647935230
+    "timestamp": 1647935287
   },
   "vtbs": [
     {
@@ -71527,6 +71527,23 @@
         "extra": [],
         "jp": "輪廻巡るofficial",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "920ca71b-0d7e-57a0-9abe-5f692b5f092f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "131347356",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "轩辕冥雪",
+        "default": "CN"
       }
     },
     {
