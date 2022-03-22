@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647926643
+    "timestamp": 1647934981
   },
   "vtbs": [
     {
@@ -73119,6 +73119,23 @@
         "default": "cn"
       },
       "group": "ee2d6579-f7b2-59e4-be05-ca88f4bdff7d"
+    },
+    {
+      "uuid": "0e3ba006-6348-54c5-a5b2-384e9c2b8ff9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431440579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鈴葉千早Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "66d8af22-1fa5-56d1-be6f-77e319ae25f5",
