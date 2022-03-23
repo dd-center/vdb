@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648015816
+    "timestamp": 1648032389
   },
   "vtbs": [
     {
@@ -33210,6 +33210,23 @@
         "cn": "希欧",
         "en": "Chiot",
         "fr": "Chiot",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a49a28f6-82d4-58bc-a533-efb4c391c5ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1723206278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希洛伊Shiroi",
         "default": "cn"
       }
     },
