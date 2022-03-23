@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648009480
+    "timestamp": 1648015816
   },
   "vtbs": [
     {
@@ -53488,12 +53488,25 @@
           "id": "1605972301",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCl4w441kozTBWNMoPADQrqQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "neko_mizore",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
-        "extra": [],
-        "JP": "猫雨夹雪_official",
-        "default": "JP"
+        "extra": [
+          "ねこみぞれ😽🍑"
+        ],
+        "cn": "猫雨夹雪_official",
+        "jp": "猫乃みぞれ",
+        "default": "cn"
       }
     },
     {
@@ -61859,7 +61872,7 @@
       "group": "ad652370-a736-537f-aa70-6ee528138364"
     },
     {
-      "uuid": "2bd7cb28-06ab-5cf1-a6d6-d7cbc1951766",
+      "uuid": "c4302307-5d56-5c69-bec3-3b3e48080cb0",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -61881,8 +61894,9 @@
       ],
       "name": {
         "extra": [],
-        "cn": "紫槻星砂_propro",
-        "jp": "shiduki senaCh.紫槻セナ / プロプロ",
+        "cn": "紫槻星砂",
+        "en": "ShidukiSena",
+        "jp": "紫槻セナ",
         "default": "cn"
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
