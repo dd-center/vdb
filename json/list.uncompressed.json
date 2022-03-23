@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1647987769
+    "timestamp": 1648007808
   },
   "vtbs": [
     {
@@ -61840,6 +61840,35 @@
         "default": "jp"
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364"
+    },
+    {
+      "uuid": "2bd7cb28-06ab-5cf1-a6d6-d7cbc1951766",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2005402750",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCW5YPK9Cwrlu3wVOX8NWDEg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ShidukiSena",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫槻星砂_propro",
+        "jp": "shiduki senaCh.紫槻セナ / プロプロ",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "c3743f70-282e-5cd6-bdbf-6446702ea0ec",
