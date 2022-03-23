@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648007910
+    "timestamp": 1648009480
   },
   "vtbs": [
     {
@@ -29402,6 +29402,23 @@
       "name": {
         "extra": [],
         "cn": "宅虎tora",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9d8f241a-36d0-5767-8a0c-55d5ad16e58c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8974611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宅音yf",
         "default": "cn"
       }
     },
