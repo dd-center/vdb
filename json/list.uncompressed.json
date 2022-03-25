@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648105018
+    "timestamp": 1648215712
   },
   "vtbs": [
     {
@@ -22709,6 +22709,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "ad6829fd-6dc9-5e5f-9842-66202d10fa8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24957521",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吃肉包的怂鼠",
+        "default": "cn"
+      }
     },
     {
       "uuid": "218916b8-994f-5101-83fc-6826ab3460bf",
