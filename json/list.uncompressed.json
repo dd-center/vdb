@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648215753
+    "timestamp": 1648216085
   },
   "vtbs": [
     {
@@ -24828,6 +24828,23 @@
       "name": {
         "extra": [],
         "cn": "塔菲毛球_Toffy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "43bca9fb-185f-5946-8f28-4d2aea57a57c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "398431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔蒂娜Tattina",
         "default": "cn"
       }
     },
