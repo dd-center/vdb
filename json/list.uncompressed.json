@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648215712
+    "timestamp": 1648215753
   },
   "vtbs": [
     {
@@ -40974,6 +40974,23 @@
       "name": {
         "extra": [],
         "cn": "最喜欢派蒙了",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe75f250-2095-5229-ba81-df81cd3571c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2867683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "最萌的磊",
         "default": "cn"
       }
     },
