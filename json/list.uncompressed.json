@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648216085
+    "timestamp": 1648273101
   },
   "vtbs": [
     {
@@ -2285,6 +2285,23 @@
         "default": "cn"
       },
       "group": "ef62fd18-c22b-5457-9453-48819f385b8f"
+    },
+    {
+      "uuid": "244ad9bd-9848-59fa-a821-d1a1d800677a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "170484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Esaru",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a7b099af-078e-5daf-bc51-ed14544352f4",
