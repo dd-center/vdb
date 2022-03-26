@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648273101
+    "timestamp": 1648285231
   },
   "vtbs": [
     {
@@ -77202,6 +77202,23 @@
       "name": {
         "extra": [],
         "cn": "青川哈露卡_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce2573b0-2814-5bfc-801d-1738d4ead5c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1117904095",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青徵",
         "default": "cn"
       }
     },
