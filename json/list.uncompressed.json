@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648296798
+    "timestamp": 1648442039
   },
   "vtbs": [
     {
@@ -79855,6 +79855,23 @@
       "name": {
         "extra": [],
         "cn": "鸟咕_ぐうちゃん",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "84cb2168-67d1-5aa1-9df7-14da6efceb4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1237941945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸟羽穗Tobaho",
         "default": "cn"
       }
     },
