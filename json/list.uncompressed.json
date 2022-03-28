@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648459441
+    "timestamp": 1648511267
   },
   "vtbs": [
     {
@@ -58087,6 +58087,27 @@
       }
     },
     {
+      "uuid": "46709e23-8441-53fb-aed4-eeea8964cf76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1485277312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "真紅莉愛"
+        ],
+        "cn": "真红莉爱official",
+        "jp": "しんくりあ",
+        "en": "ria",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bddc3994-1209-55ca-bce7-cb3547ee39c3",
       "type": "vtuber",
       "bot": false,
@@ -75820,23 +75841,6 @@
         "extra": [],
         "cn": "雪叶凛Channel",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "01317e89-78eb-58cd-a289-200c534a6deb",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1485277312",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "雪团official",
-        "default": "jp"
       }
     },
     {
