@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648511267
+    "timestamp": 1648598257
   },
   "vtbs": [
     {
@@ -65243,6 +65243,23 @@
       "name": {
         "extra": [],
         "cn": "艾麗卡・エリカチャン",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6c163605-3bc3-55e6-a50a-aab7c14343c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "140543",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芄Makino",
         "default": "cn"
       }
     },
