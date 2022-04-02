@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648895351
+    "timestamp": 1648908667
   },
   "vtbs": [
     {
@@ -79714,6 +79714,24 @@
       "name": {
         "extra": [],
         "cn": "魔法少女真理酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b6bceb8b-3ca5-5813-ac2b-caf3148c3ecb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1838190318",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔狼咪莉娅",
+        "jp": "魔狼ミリヤ",
         "default": "cn"
       }
     },
