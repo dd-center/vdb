@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648877497
+    "timestamp": 1648894933
   },
   "vtbs": [
     {
@@ -21367,6 +21367,23 @@
         "default": "cn"
       },
       "group": "b6c4b873-8000-5178-a76e-4c47aef07d6e"
+    },
+    {
+      "uuid": "ae801afe-c19b-558c-aba9-ebc905c33e5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24626465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "半糖果茶_official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f5f3983c-6212-594a-8325-4f2cc594f9a2",
