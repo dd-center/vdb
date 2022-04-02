@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648875332
+    "timestamp": 1648876841
   },
   "vtbs": [
     {
@@ -4125,6 +4125,24 @@
         "cn": "Minto薄荷糖",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bf741674-6d02-574e-b862-a404fdb6d6dc",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1918746401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MiosLive",
+        "default": "cn"
+      },
+      "group": "bf741674-6d02-574e-b862-a404fdb6d6dc"
     },
     {
       "uuid": "da920113-15d7-5094-8475-71c887d37f0d",
