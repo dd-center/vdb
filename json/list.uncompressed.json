@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648895215
+    "timestamp": 1648895351
   },
   "vtbs": [
     {
@@ -40073,6 +40073,23 @@
       "name": {
         "extra": [],
         "cn": "星野光_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a226512-44e2-50e8-820b-fe776af2f8ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "352105592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野心kokoro",
         "default": "cn"
       }
     },
