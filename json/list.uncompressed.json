@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648876841
+    "timestamp": 1648877188
   },
   "vtbs": [
     {
@@ -21903,6 +21903,23 @@
       "name": {
         "extra": [],
         "cn": "卡琳Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6e9d10ba-1974-5516-a6a1-d1f0fde57c58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1999095012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡米尔doffy",
         "default": "cn"
       }
     },
@@ -68318,6 +68335,23 @@
       "name": {
         "extra": [],
         "cn": "菲诺Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e6a3532-f9e1-5a01-b412-386748aec4fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "571454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲诺尔noel",
         "default": "cn"
       }
     },
