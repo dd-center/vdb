@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648874680
+    "timestamp": 1648875332
   },
   "vtbs": [
     {
@@ -22129,6 +22129,23 @@
       }
     },
     {
+      "uuid": "0a5cfd2b-fc33-50ef-be6d-06486f5dcc4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "279704683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "友利Mori",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7646fb1d-668c-571e-8627-69db9c182699",
       "type": "vtuber",
       "bot": false,
@@ -25111,6 +25128,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "80ece560-8468-57be-9460-70e02459993a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4339573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨神雅雅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "56ed79e2-4dee-5c3a-9b60-ce8d6fea9fdb",
@@ -54306,6 +54340,23 @@
         "extra": [],
         "cn": "玹碎之晶",
         "jp": "咲間晶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9b9b521-1d86-5c62-86bf-471a0a8124f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1829633422",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珂珞哲official",
         "default": "cn"
       }
     },
