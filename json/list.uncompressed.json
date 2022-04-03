@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648958149
+    "timestamp": 1648985827
   },
   "vtbs": [
     {
@@ -30182,6 +30182,23 @@
         "extra": [],
         "cn": "安蒂维娜·克莱因",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "42c89519-5e4a-54ea-a258-020a25ab9db5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2096043427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "安赫尔Angelos",
+        "default": "CN"
       }
     },
     {
