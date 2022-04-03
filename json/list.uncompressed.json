@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1648946718
+    "timestamp": 1648958149
   },
   "vtbs": [
     {
@@ -14617,6 +14617,24 @@
       }
     },
     {
+      "uuid": "fbdc8ec5-029d-54fd-b21b-6ab0040085d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38337667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "东堂琥珀的蜜罐",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "3182f463-a857-506f-a7dd-fc1ad64ea15a",
       "type": "vtuber",
       "bot": false,
@@ -20508,6 +20526,24 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "880d0572-b215-5416-9311-d7b99080e2a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "123012539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北小路翡翠的糖果屋",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "f777ad8c-8d49-5c53-b8e0-fd71476fc3b3",
       "type": "vtuber",
       "bot": false,
@@ -23411,6 +23447,24 @@
         "extra": [],
         "jp": "周央サンゴ",
         "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "543d9ae9-7437-57ce-b96d-4b0f2282ab6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "662550612",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "周央珊瑚的帕恰狗乐园",
+        "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
