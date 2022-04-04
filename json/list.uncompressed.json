@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649035002
+    "timestamp": 1649035135
   },
   "vtbs": [
     {
@@ -63442,6 +63442,23 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "56201821-f125-5eb3-977b-8083613edeea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "287769888",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绊月柒_kissne",
+        "default": "cn"
+      }
     },
     {
       "uuid": "71ba5e97-047b-5dc7-a2d7-4e593739bb20",
