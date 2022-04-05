@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649078391
+    "timestamp": 1649163496
   },
   "vtbs": [
     {
@@ -46158,6 +46158,23 @@
         "extra": [],
         "jp": "梦月真白Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4d2a6b94-a4b4-5929-9cdf-ebd0dff04a08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1849006220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦珑拌饭",
+        "default": "cn"
       }
     },
     {
