@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649163496
+    "timestamp": 1649169546
   },
   "vtbs": [
     {
@@ -20832,6 +20832,23 @@
         "extra": [],
         "jp": "千代家ぷりり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "45713fa3-e2d0-56f9-be10-dd6990dac173",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524787140",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千夏official",
+        "default": "cn"
       }
     },
     {
