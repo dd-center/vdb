@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649221604
+    "timestamp": 1649221722
   },
   "vtbs": [
     {
@@ -26571,6 +26571,25 @@
       "name": {
         "extra": [],
         "cn": "夜樱诺娅_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "03e800c7-03ac-55e0-8b0a-985d7b555b7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2028715597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜熊柊乃",
+        "en": "Yoguma Syuno",
+        "jp": "夜熊しゅの",
         "default": "cn"
       }
     },
