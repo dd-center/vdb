@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649221722
+    "timestamp": 1649258483
   },
   "vtbs": [
     {
@@ -53128,6 +53128,25 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
+    },
+    {
+      "uuid": "c66d97bc-d109-5c94-b2e3-f18cf7689cc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1196221938",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狗灰Omochi",
+        "en": "Omochi",
+        "jp": "狗灰おもち",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f5a2984b-b86a-5c4c-b399-ea500f9f5a58",
