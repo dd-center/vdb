@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649258801
+    "timestamp": 1649258840
   },
   "vtbs": [
     {
@@ -2238,6 +2238,24 @@
         "ch": "Elena-沐沐",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "36640dd2-c41d-52ca-9443-5669a1b234bc",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "674692942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Emina-Studio",
+        "default": "cn"
+      },
+      "group": "36640dd2-c41d-52ca-9443-5669a1b234bc"
     },
     {
       "uuid": "3082b3e2-efad-51ed-8129-48c49e5020b4",
