@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649290829
+    "timestamp": 1649292251
   },
   "vtbs": [
     {
@@ -6213,6 +6213,24 @@
         "cn": "Scholar沫沫",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0c9cafb2-e8a9-5935-a9e7-dc1aef177f27",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1689340733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Schoolive",
+        "default": "cn"
+      },
+      "group": "0c9cafb2-e8a9-5935-a9e7-dc1aef177f27"
     },
     {
       "uuid": "9de50027-be14-50d7-845c-5a815fcaf00d",
@@ -63798,6 +63816,24 @@
         "default": "cn"
       },
       "group": "4119dbf4-9390-5a1e-8b90-6734005c8b85"
+    },
+    {
+      "uuid": "5d5ab407-baac-5c52-adb3-9194310cb658",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "358054682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绪山雪Yuki",
+        "default": "cn"
+      },
+      "group": "0c9cafb2-e8a9-5935-a9e7-dc1aef177f27"
     },
     {
       "uuid": "b01bdb92-0465-53cb-9a17-9020b6590fff",
