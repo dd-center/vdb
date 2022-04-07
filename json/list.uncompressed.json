@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649259160
+    "timestamp": 1649290829
   },
   "vtbs": [
     {
@@ -19054,6 +19054,23 @@
         "extra": [],
         "cn": "冥冥meichan",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2982bcf1-4bf9-5e0f-a8b7-dd164a66da42",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "131347356",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "冥雪にゃ゜Channel",
+        "default": "CN"
       }
     },
     {
@@ -72488,23 +72505,6 @@
         "extra": [],
         "jp": "輪廻巡るofficial",
         "default": "jp"
-      }
-    },
-    {
-      "uuid": "920ca71b-0d7e-57a0-9abe-5f692b5f092f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "131347356",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "CN": "轩辕冥雪offlcial",
-        "default": "CN"
       }
     },
     {
