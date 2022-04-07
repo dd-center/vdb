@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649292320
+    "timestamp": 1649375857
   },
   "vtbs": [
     {
@@ -21870,6 +21870,24 @@
         "default": "cn"
       },
       "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
+    },
+    {
+      "uuid": "974ee197-db05-519d-9060-e8c187219ad3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1566652449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南海星光Seikou",
+        "default": "cn"
+      },
+      "group": "bf741674-6d02-574e-b862-a404fdb6d6dc"
     },
     {
       "uuid": "56cf1c9e-0656-5fee-af23-37a165b68561",
@@ -66590,6 +66608,24 @@
         "CN": "花川玫玫",
         "default": "CN"
       }
+    },
+    {
+      "uuid": "1f015277-4263-535e-90ab-7c9ed3194a5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "350764795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花楓kae",
+        "default": "cn"
+      },
+      "group": "bf741674-6d02-574e-b862-a404fdb6d6dc"
     },
     {
       "uuid": "7d03864e-cb0a-569b-8408-a13500570837",
