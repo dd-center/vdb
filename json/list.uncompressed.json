@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649467416
+    "timestamp": 1649467644
   },
   "vtbs": [
     {
@@ -26072,6 +26072,23 @@
       }
     },
     {
+      "uuid": "4e778d5f-3aa4-52b8-b4b0-591364c90f2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2002590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏音蓝蓝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9d5ab273-75d4-5910-9224-0514d1396de6",
       "type": "vtuber",
       "bot": false,
@@ -41148,6 +41165,23 @@
       "name": {
         "extra": [],
         "cn": "晓杰Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6c54201f-3e66-5c64-8f40-ddb381e54ad3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4516245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晓镜子channel",
         "default": "cn"
       }
     },
