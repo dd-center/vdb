@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649467813
+    "timestamp": 1649467899
   },
   "vtbs": [
     {
@@ -36298,6 +36298,23 @@
       "name": {
         "extra": [],
         "cn": "悠织YURI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f42c043c-8a72-58d7-a744-66915f9b01d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "620905044",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠蕾娜",
         "default": "cn"
       }
     },
