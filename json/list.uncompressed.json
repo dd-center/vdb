@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649467644
+    "timestamp": 1649467752
   },
   "vtbs": [
     {
@@ -65762,6 +65762,23 @@
         "extra": [],
         "jp": "艾玛莉莉丝-channel",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "6220b466-cc57-5860-ab6a-89ae3e8ba1ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1129165390",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾玫Aimer",
+        "default": "cn"
       }
     },
     {
