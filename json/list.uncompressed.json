@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649375857
+    "timestamp": 1649467416
   },
   "vtbs": [
     {
@@ -27040,6 +27040,33 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "970334ff-0dd6-5e71-86f0-fa8249951b1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1814082452",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCKISpwGGbnyfMWHLLSIDoNw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "J1a2m3e4s5",
+          "type": "official",
+          "platform": "afdian"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大七包Qi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "499d5767-c5ad-520f-9b3c-c6e578737007",
