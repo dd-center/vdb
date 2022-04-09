@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649467899
+    "timestamp": 1649489623
   },
   "vtbs": [
     {
@@ -25288,6 +25288,24 @@
         "cn": "塔诺_Tano",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d5763494-1890-508b-86c8-dbe7d2a8abed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1025491703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞拉菲娜_Serafina",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "c37b566a-aec4-5896-9b3f-48f8f862df70",
