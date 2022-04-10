@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649560501
+    "timestamp": 1649560633
   },
   "vtbs": [
     {
@@ -16458,6 +16458,23 @@
         "extra": [],
         "cn": "仄架夜未Official",
         "jp": "仄架よみ🌙VTuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "96f26e3d-39f0-5c4e-87e7-7c94711e02ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "272705818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仓仓爱吃牛肉干",
         "default": "cn"
       }
     },
