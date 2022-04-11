@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649665287
+    "timestamp": 1649676755
   },
   "vtbs": [
     {
@@ -3293,6 +3293,24 @@
         "extra": [],
         "cn": "Kiroko96_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "c986ace0-c197-59ee-907f-6e242cb4ac9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "315298331",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "KolIcK",
+        "cn": "小林",
+        "default": "en"
       }
     },
     {
@@ -13541,6 +13559,25 @@
         "default": "cn"
       },
       "group": "b397df70-8418-5dc0-94c4-e8973f1316c8"
+    },
+    {
+      "uuid": "32545a83-16ac-5534-b5ec-6301cd0a6575",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1589033024",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "梓宛"
+        ],
+        "cn": "一般路过的梓宛",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9d06bf76-f13e-59f3-a607-c35bdfecc9ac",
