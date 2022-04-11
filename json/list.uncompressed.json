@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649676755
+    "timestamp": 1649683839
   },
   "vtbs": [
     {
@@ -32533,6 +32533,23 @@
       "name": {
         "extra": [],
         "cn": "尤卡伊Yucay",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f81f2182-8abc-5c32-a7c1-856806442f73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1062810784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤奈_Nafisa",
         "default": "cn"
       }
     },
