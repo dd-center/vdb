@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649651094
+    "timestamp": 1649665287
   },
   "vtbs": [
     {
@@ -64463,6 +64463,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "d4efcdfd-7a2f-55a4-aafd-e1205bf8c86c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40513",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗耶Royer",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bc59b9fe-6e00-5a0a-9f40-1fe37bfa9251",
