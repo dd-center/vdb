@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649683839
+    "timestamp": 1649814970
   },
   "vtbs": [
     {
@@ -24721,6 +24721,23 @@
       "name": {
         "extra": [],
         "cn": "嗷嗷",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4853e602-9414-544d-a081-a3661ed74459",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "279348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嘉兰诺德",
         "default": "cn"
       }
     },
