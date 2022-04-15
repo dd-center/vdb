@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650061310
+    "timestamp": 1650061339
   },
   "vtbs": [
     {
@@ -47435,6 +47435,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "22ce4a4f-67f8-5c2e-b088-db2bd24abc03",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1802392",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "榛葉nami",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ebd4a6f2-8364-5429-b366-71185ca461ba",
