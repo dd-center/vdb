@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1649815062
+    "timestamp": 1650061262
   },
   "vtbs": [
     {
@@ -72161,6 +72161,24 @@
         "extra": [],
         "cn": "赛小盐",
         "en": "Cyan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b3a139ac-7db8-5e33-8b3d-ef85ddf4d9b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15299208",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赛拉",
+        "en": "Sera",
         "default": "cn"
       }
     },
