@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650133280
+    "timestamp": 1650158453
   },
   "vtbs": [
     {
@@ -35474,6 +35474,24 @@
         "default": "cn"
       },
       "group": "4119dbf4-9390-5a1e-8b90-6734005c8b85"
+    },
+    {
+      "uuid": "8cbd7b94-0edf-5f29-83fb-9abeccd0da2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1886584783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "徒花院红Beni",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "87e847b7-83eb-5276-b2a7-db96d3f1f27f",
