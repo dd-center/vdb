@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650240038
+    "timestamp": 1650240602
   },
   "vtbs": [
     {
@@ -35273,6 +35273,38 @@
         "extra": [],
         "cn": "弦羽Hane",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce5adb65-321d-5b01-831b-88e1d254d4b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCs_IVAqpWMnsb9bbDi7UMxw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "trombeningen",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "00E2FDA518D3C649_0a507e",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "trombeningen",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "強化人間",
+        "default": "jp"
       }
     },
     {
