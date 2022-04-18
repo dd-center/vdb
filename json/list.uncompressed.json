@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650287924
+    "timestamp": 1650287976
   },
   "vtbs": [
     {
@@ -42774,6 +42774,23 @@
       "name": {
         "extra": [],
         "cn": "有栖川曜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e2bf94ba-d30c-5336-b2dc-b759576171d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12939237",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有棵里里",
         "default": "cn"
       }
     },
