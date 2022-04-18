@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650262096
+    "timestamp": 1650287924
   },
   "vtbs": [
     {
@@ -3113,6 +3113,23 @@
         "default": "cn"
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af"
+    },
+    {
+      "uuid": "3f84ecf3-0086-56cc-af59-867a8085a532",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1609261349",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KONO零牙哒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ce8e45a7-b744-5af2-8787-5a22aa60c00f",
