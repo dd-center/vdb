@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650287976
+    "timestamp": 1650288009
   },
   "vtbs": [
     {
@@ -35175,6 +35175,23 @@
         "default": "cn"
       },
       "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
+    },
+    {
+      "uuid": "8516b0b9-0a2f-5399-897d-8a3f29119b21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1281818069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥利雅Miya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "95eb3c99-03b7-51a2-bd8b-7ae74ab215d9",
