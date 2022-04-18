@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650288099
+    "timestamp": 1650288144
   },
   "vtbs": [
     {
@@ -41186,6 +41186,23 @@
         "default": "cn"
       },
       "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010"
+    },
+    {
+      "uuid": "71484a8a-a6ee-5bd4-b315-1cff4112ba73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427469551",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春见雪Yuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "eb3021ae-adc8-5982-9402-237b4e30996d",
