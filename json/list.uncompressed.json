@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650288192
+    "timestamp": 1650347512
   },
   "vtbs": [
     {
@@ -72223,6 +72223,23 @@
       "name": {
         "extra": [],
         "cn": "诺娅Sukie",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75522c9b-a904-577d-82be-82660a7b5b20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1027581210",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺尔official",
         "default": "cn"
       }
     },
