@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650693186
+    "timestamp": 1650722847
   },
   "vtbs": [
     {
@@ -71394,6 +71394,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "f3e73102-9be9-54a8-9d3a-928bef77757b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1267348553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜瓜Melo_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "774ae900-98ba-5dbd-80a6-c93d50fde7ba",
