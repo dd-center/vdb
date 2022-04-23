@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650693009
+    "timestamp": 1650693030
   },
   "vtbs": [
     {
@@ -64645,6 +64645,23 @@
         "default": "cn"
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d"
+    },
+    {
+      "uuid": "5ee10674-65e0-5d37-87a0-cb8610abd97a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5986897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫月汐Shio",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0fdb66d7-be0c-57d9-be35-1d0577ed14d8",
