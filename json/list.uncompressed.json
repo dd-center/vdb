@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650693051
+    "timestamp": 1650693161
   },
   "vtbs": [
     {
@@ -47021,6 +47021,23 @@
       "name": {
         "extra": [],
         "cn": "梦音茶糯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a04bebcf-b56a-5ba5-99f8-79d352685ca0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "59275",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦魇Tsuki",
         "default": "cn"
       }
     },
