@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650692932
+    "timestamp": 1650693009
   },
   "vtbs": [
     {
@@ -25600,6 +25600,23 @@
       "name": {
         "extra": [],
         "cn": "墨喵星突突母舰Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bf1166f5-f70c-56a9-9a11-674983d5cb17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1375248534",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨姬wow",
         "default": "cn"
       }
     },
