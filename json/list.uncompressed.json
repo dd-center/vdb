@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650496475
+    "timestamp": 1650692857
   },
   "vtbs": [
     {
@@ -3582,6 +3582,23 @@
         "default": "cn"
       },
       "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
+    },
+    {
+      "uuid": "b3c5fedc-1a0a-5f62-b1e9-7b4f7060aece",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3709626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Love丶伊卡洛斯",
+        "default": "cn"
+      }
     },
     {
       "uuid": "448c9cb0-32d9-554e-9da8-b47f0e26ffed",
