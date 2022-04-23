@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650693161
+    "timestamp": 1650693186
   },
   "vtbs": [
     {
@@ -52374,6 +52374,24 @@
         "cn": "灯火橘",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "293cdc07-8538-52b0-81bd-0c8115bb657f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1848290057",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灯瑠hiru",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "7bdfb901-6bc3-5e0a-afab-53b55f5fb95e",
