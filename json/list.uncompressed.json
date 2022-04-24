@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650778567
+    "timestamp": 1650778631
   },
   "vtbs": [
     {
@@ -55636,6 +55636,23 @@
         "extra": [],
         "CN": "珊瑚_35",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "4977a096-1990-556e-aed2-ce1b8045ea31",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1649761300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珍爱网",
+        "default": "cn"
       }
     },
     {
