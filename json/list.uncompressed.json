@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650722863
+    "timestamp": 1650778426
   },
   "vtbs": [
     {
@@ -58270,6 +58270,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "4ac6c89b-605e-52f7-b482-a32c246125e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1333101968",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白雪瑞莎",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "9834bc67-ec29-5876-a78b-94bab56f0724",
