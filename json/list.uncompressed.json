@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650778631
+    "timestamp": 1650778714
   },
   "vtbs": [
     {
@@ -26756,6 +26756,23 @@
       "name": {
         "extra": [],
         "cn": "夜分Melanin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dab2fd16-bfad-5667-b6a8-4b1cf2d74602",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1232722862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜半真姬",
         "default": "cn"
       }
     },
