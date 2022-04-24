@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650778942
+    "timestamp": 1650779074
   },
   "vtbs": [
     {
@@ -14151,6 +14151,23 @@
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
     },
     {
+      "uuid": "f67a8010-9b47-5380-86ae-03a5dd5ba6d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1118842758",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "三日月千留Channel",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "ad4feb99-5441-5bd6-a9aa-c53884773c82",
       "type": "vtuber",
       "bot": false,
@@ -22821,6 +22838,23 @@
         "default": "cn"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "7ef1f289-d056-51a3-97fe-398e32c263a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1813007857",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "古乃叶羽留Channel",
+        "default": "jp"
+      }
     },
     {
       "uuid": "1b5ed32a-1109-59b8-a6c7-989629f35a41",
