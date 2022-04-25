@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650861213
+    "timestamp": 1650861268
   },
   "vtbs": [
     {
@@ -36423,6 +36423,24 @@
         "cn": "忘忧翎Luyori",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "274b7b33-c74d-5232-8e40-dc7ef9ffb934",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "384085516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怜奈Leciel",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
     },
     {
       "uuid": "eb18c47d-4a19-5950-b357-79edcf536f9a",
