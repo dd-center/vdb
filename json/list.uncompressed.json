@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650861268
+    "timestamp": 1650861480
   },
   "vtbs": [
     {
@@ -27716,6 +27716,23 @@
       "name": {
         "extra": [],
         "cn": "大陌子DMZ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "249a3d91-9db5-5157-a05a-a7e77b738fc6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13676468",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天上院凛花",
         "default": "cn"
       }
     },
