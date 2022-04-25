@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650861742
+    "timestamp": 1650892303
   },
   "vtbs": [
     {
@@ -62781,6 +62781,23 @@
       "name": {
         "extra": [],
         "cn": "箱梓",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d751acaf-8193-5752-8dcf-98893d5f4f96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5140781",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "簌澪SuMio",
         "default": "cn"
       }
     },
