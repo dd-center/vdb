@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650892481
+    "timestamp": 1650892564
   },
   "vtbs": [
     {
@@ -51721,6 +51721,23 @@
       "name": {
         "extra": [],
         "cn": "清水琴美",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "91e4f728-bef5-5d58-aede-c226cca54323",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8558528",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清濑冰ices",
         "default": "cn"
       }
     },
