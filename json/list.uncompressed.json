@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650892303
+    "timestamp": 1650892378
   },
   "vtbs": [
     {
@@ -5676,6 +5676,24 @@
         "cn": "PulsarGame",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e73263e5-7914-5da0-a523-475213ae2d4e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1944602110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pursue-live",
+        "default": "cn"
+      },
+      "group": "e73263e5-7914-5da0-a523-475213ae2d4e"
     },
     {
       "uuid": "a5f67427-dbfe-5cb0-be05-ef701454c3aa",
