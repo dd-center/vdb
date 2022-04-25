@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650779074
+    "timestamp": 1650861140
   },
   "vtbs": [
     {
@@ -31416,6 +31416,24 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "f3d8bb2b-80aa-5228-89c8-41c151bc9bc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2081913744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小兔姬",
+        "en": "Yurua",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9a81f6d-529e-5e10-8e78-fd29e30d3ced",
