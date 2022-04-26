@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650971647
+    "timestamp": 1650972428
   },
   "vtbs": [
     {
@@ -10187,6 +10187,23 @@
         "jp": "しぐれうい",
         "cn": "時雨羽衣",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "e8ff4191-6e21-5123-b233-92234696c025",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "274025706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "しみず磷-shimizulinn",
+        "default": "cn"
       }
     },
     {
