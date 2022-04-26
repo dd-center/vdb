@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650973857
+    "timestamp": 1651015993
   },
   "vtbs": [
     {
@@ -19196,6 +19196,23 @@
         "default": "cn"
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+    },
+    {
+      "uuid": "d17909a0-cccb-5a8f-8d6c-f69e1d79e30b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22612759",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "关于莓芙可的一切",
+        "default": "cn"
+      }
     },
     {
       "uuid": "521eeeeb-6ac9-51dc-88bf-42eee12c864b",
