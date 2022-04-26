@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650972428
+    "timestamp": 1650972473
   },
   "vtbs": [
     {
@@ -52460,6 +52460,23 @@
       "name": {
         "extra": [],
         "cn": "潮留芥末",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d0ea09e0-d4cc-5ec1-8b0b-4dfda3c12413",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1283985270",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澜绾卿_Channel",
         "default": "cn"
       }
     },
