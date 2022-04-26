@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1650972590
+    "timestamp": 1650972730
   },
   "vtbs": [
     {
@@ -1282,6 +1282,23 @@
         "extra": [],
         "en": "BiBiDao",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "2e0b7807-1717-5381-9111-860d4aa622a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "136107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Bison仓鼠",
+        "default": "cn"
       }
     },
     {
@@ -33940,6 +33957,23 @@
         "default": "cn"
       },
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
+    },
+    {
+      "uuid": "444a26e2-9c80-5cdd-ac63-bd106a11fa9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12678325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巴班尼特尔晴",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1afbed90-6e8a-5c91-86c1-f9c262d66642",
