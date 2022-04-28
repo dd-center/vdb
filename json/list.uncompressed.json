@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651015993
+    "timestamp": 1651145514
   },
   "vtbs": [
     {
@@ -46106,6 +46106,23 @@
       "name": {
         "extra": [],
         "cn": "栗の安沙_鮟鱇official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b31ef43f-5c4f-576a-b5de-fa19aeb1bb86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2898345",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗卡小行星Rii",
         "default": "cn"
       }
     },
