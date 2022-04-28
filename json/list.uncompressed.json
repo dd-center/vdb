@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651145967
+    "timestamp": 1651146017
   },
   "vtbs": [
     {
@@ -67964,6 +67964,23 @@
         "default": "jp"
       },
       "group": "a5f67427-dbfe-5cb0-be05-ef701454c3aa"
+    },
+    {
+      "uuid": "854e3303-8d47-52fe-8a64-7e70e04fffa9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1026919409",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花奏kanade",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b7e78858-c04d-550e-b8f3-365cd1835ae5",
