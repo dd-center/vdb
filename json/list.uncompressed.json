@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651145816
+    "timestamp": 1651145844
   },
   "vtbs": [
     {
@@ -82490,6 +82490,23 @@
       "name": {
         "extra": [],
         "cn": "鸣砂Nasuna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c94f14c3-6211-5e60-9f74-1bc869e8f56d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351335373",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸥诶Oak",
         "default": "cn"
       }
     },
