@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651146107
+    "timestamp": 1651146148
   },
   "vtbs": [
     {
@@ -44225,6 +44225,23 @@
       "name": {
         "extra": [],
         "cn": "朵一酱Duoyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "273a047d-e602-5280-b882-1bb36d0a5222",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "587226178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朵拉Dooora",
         "default": "cn"
       }
     },
