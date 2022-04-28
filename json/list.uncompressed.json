@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651145514
+    "timestamp": 1651145816
   },
   "vtbs": [
     {
@@ -13660,6 +13660,28 @@
       "name": {
         "extra": [],
         "cn": "一焰_Makuma",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e9aa6d6-85cb-5e2c-b1aa-697f2696fbf1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1465794112",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "sekai_icmks",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一番合戦セカイ",
         "default": "cn"
       }
     },
