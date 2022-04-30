@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651292223
+    "timestamp": 1651292286
   },
   "vtbs": [
     {
@@ -78935,6 +78935,23 @@
         "default": "cn"
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
+      "uuid": "d810f239-e428-59a4-bd3e-6eb0d21ccf4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "269918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪见世子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d1edbe2b-2c7e-50bb-8908-60358f99c476",
