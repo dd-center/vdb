@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651292286
+    "timestamp": 1651292395
   },
   "vtbs": [
     {
@@ -5542,6 +5542,23 @@
       "name": {
         "extra": [],
         "cn": "PochiKorone",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10712431-81df-567b-8495-5acb3af9550d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4697767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pomelo安妮",
         "default": "cn"
       }
     },
