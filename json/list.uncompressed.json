@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651292011
+    "timestamp": 1651292223
   },
   "vtbs": [
     {
@@ -4178,6 +4178,34 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "0ec72431-86da-5f42-9897-c79bb4f71281",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1172195900",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KinniVT",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kinnimin",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "密涅瓦·劳伦特",
+        "en": "Minerva_Laurent",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e057379-6318-5d2d-a15e-cb1f6ab5ac2b",
