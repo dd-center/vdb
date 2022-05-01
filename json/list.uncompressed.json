@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651415231
+    "timestamp": 1651415380
   },
   "vtbs": [
     {
@@ -46420,6 +46420,23 @@
         "default": "cn"
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+    },
+    {
+      "uuid": "099af6e8-14dd-5108-8c3b-732efaf5dbb8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1829051701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "格蕾西雅_Gracia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "89945d7d-83bd-547a-aa3a-4c126d682b95",
