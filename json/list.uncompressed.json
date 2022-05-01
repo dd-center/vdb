@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651415577
+    "timestamp": 1651426094
   },
   "vtbs": [
     {
@@ -2978,6 +2978,24 @@
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
+      "uuid": "d94e7e90-a5c2-50eb-9870-744f6aae7bbe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1921596130",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ike_Official",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "f30adaff-4cda-5702-89d5-5c09c07533f7",
       "type": "vtuber",
       "bot": false,
@@ -3633,6 +3651,24 @@
         "cn": "Love丶伊卡洛斯",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "71bb28aa-3e8f-51bf-acbe-bb5a070e868e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1673137696",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Luca_EN_Official",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "448c9cb0-32d9-554e-9da8-b47f0e26ffed",
@@ -4527,6 +4563,24 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "33c660f8-a01d-5afb-b3b1-7d89cb8903eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1544125954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mysta_Official",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "9709a34c-bec7-588d-a7c6-2045e8638c82",
@@ -6532,6 +6586,24 @@
         "en": "Shizukou",
         "default": "en"
       }
+    },
+    {
+      "uuid": "62e774e2-c554-5df2-b3a6-3db342312c44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1420890712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Shu_Official",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "341ea148-e8ae-5e59-a4fb-f679c8c665f8",
