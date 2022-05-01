@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651415417
+    "timestamp": 1651415468
   },
   "vtbs": [
     {
@@ -13906,6 +13906,23 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "53f07e10-30ea-5a66-a490-f9c23aa5c004",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1041460269",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七夏浅笑",
+        "default": "cn"
+      }
     },
     {
       "uuid": "249bd211-4d54-5159-a6b9-e4199d54bc61",
