@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651292395
+    "timestamp": 1651415231
   },
   "vtbs": [
     {
@@ -1042,6 +1042,23 @@
         "default": "en"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
+    },
+    {
+      "uuid": "4416ac8f-eec0-5e47-878f-e71acd1c4ea0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3802666",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ask是Asuka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e8ad004f-a2c1-5c71-81d6-4d809b47b1c2",
