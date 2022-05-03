@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651516501
+    "timestamp": 1651592787
   },
   "vtbs": [
     {
@@ -68201,6 +68201,23 @@
         "default": "jp"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "0d4f96db-8cda-56f3-987e-766fe66380e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花园花玲",
+        "default": "cn"
+      }
     },
     {
       "uuid": "20a5677a-d06d-596c-887f-206af802970c",
