@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651593116
+    "timestamp": 1651593434
   },
   "vtbs": [
     {
@@ -55434,6 +55434,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "7a4dea2e-c1f8-5583-a6d4-e8e837190e0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1926687",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫川多多道",
+        "default": "cn"
+      }
     },
     {
       "uuid": "039805fe-5052-55e5-a35c-2f8cff5ce367",
