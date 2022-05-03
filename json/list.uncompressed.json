@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651593434
+    "timestamp": 1651593503
   },
   "vtbs": [
     {
@@ -75151,6 +75151,24 @@
         "default": "cn"
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
+    },
+    {
+      "uuid": "a7f96cbd-50af-5ce0-8bc0-b44adfd5ada3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1536225244",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迦黎娅",
+        "en": "Garyia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "53c87b84-6e08-5eb0-8149-a05e474b3cc3",
