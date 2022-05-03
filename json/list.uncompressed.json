@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651593503
+    "timestamp": 1651593531
   },
   "vtbs": [
     {
@@ -43082,6 +43082,23 @@
         "default": "cn"
       },
       "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f"
+    },
+    {
+      "uuid": "004144d4-e05a-59c8-a570-91fc4675dc95",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9312446",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月夜织Orihime",
+        "default": "cn"
+      }
     },
     {
       "uuid": "811e6321-a02f-5229-8e0e-450bcb739a94",
