@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651593015
+    "timestamp": 1651593116
   },
   "vtbs": [
     {
@@ -20247,6 +20247,24 @@
         "cn": "凤鸠鸠",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "984e0e72-0304-5730-bd94-c5fa0b77fbdf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1704351924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凪紗nagisa",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52"
     },
     {
       "uuid": "4847962c-c747-5518-89e2-5284e8297fbc",
@@ -72075,6 +72093,24 @@
         "cn": "虚拟萌神七音sama丶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "105512032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虚研学园",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52"
     },
     {
       "uuid": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
