@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651592787
+    "timestamp": 1651593015
   },
   "vtbs": [
     {
@@ -14293,6 +14293,23 @@
       "name": {
         "extra": [],
         "cn": "三井遥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a5c4fb85-879d-5b3b-ba98-3515a3d6b473",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "27193710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三千ホシOfficial",
         "default": "cn"
       }
     },
