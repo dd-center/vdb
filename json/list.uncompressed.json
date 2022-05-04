@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651593531
+    "timestamp": 1651627249
   },
   "vtbs": [
     {
@@ -27012,6 +27012,23 @@
       "name": {
         "extra": [],
         "cn": "多多poi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "09b7e328-e72a-521e-9407-8bba91eb7d78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "534963525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多多poi二创组",
         "default": "cn"
       }
     },
@@ -73841,6 +73858,23 @@
         "extra": [],
         "cn": "贪吃羊大作战",
         "en": "DeCodeKuMa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4ad0bdfb-42c0-5c1c-a922-b79f8161cc11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2107634649",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "费克の转发组",
         "default": "cn"
       }
     },
