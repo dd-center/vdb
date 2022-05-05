@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651657443
+    "timestamp": 1651767594
   },
   "vtbs": [
     {
@@ -24065,6 +24065,24 @@
         "extra": [],
         "cn": "君澜Narada",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "f8f7190d-53a7-51b5-bb95-e8cd53c66ea5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1253510454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "君野りるる_Official",
+        "cn": "君野莉露露",
+        "default": "jp"
       }
     },
     {
