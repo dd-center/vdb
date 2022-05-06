@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651804522
+    "timestamp": 1651839636
   },
   "vtbs": [
     {
@@ -22811,6 +22811,24 @@
       "group": "bf741674-6d02-574e-b862-a404fdb6d6dc"
     },
     {
+      "uuid": "57972a23-01bd-5ee7-96c7-4159fb47b070",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1011797664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡缇娅",
+        "default": "cn"
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
+    },
+    {
       "uuid": "c53293b8-6aa4-5668-b2d3-774cf86d211f",
       "type": "vtuber",
       "bot": false,
@@ -38106,7 +38124,8 @@
         "extra": [],
         "cn": "战斗吧歌姬",
         "default": "cn"
-      }
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "cd4ee0b8-e733-58d6-8f33-fb521d652ab5",
@@ -66250,7 +66269,7 @@
         "cn": "罗兹Blazing",
         "default": "cn"
       },
-      "group": "2ff15133-b0bb-5088-9163-a209b029d196"
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "d1b293d5-387f-5d1d-9375-4e9d464efb0a",
