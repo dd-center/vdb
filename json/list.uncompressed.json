@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651968336
+    "timestamp": 1651968385
   },
   "vtbs": [
     {
@@ -50529,6 +50529,23 @@
         "extra": [],
         "cn": "汉特",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "545861af-feb8-5c9c-a462-a04605a57b84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1035652768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "汐华花音",
+        "default": "CN"
       }
     },
     {
