@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651968385
+    "timestamp": 1651968468
   },
   "vtbs": [
     {
@@ -66667,6 +66667,23 @@
       "name": {
         "extra": [],
         "cn": "羽柴紅魅Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "911e7ead-5051-5799-9107-f8b70175d424",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "406861467",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽泽奈奈咩",
         "default": "cn"
       }
     },
