@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1651968468
+    "timestamp": 1651978730
   },
   "vtbs": [
     {
@@ -78650,6 +78650,23 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "61fb41d0-8f97-51b6-82fd-ebe9d4f1f21f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1792461375",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雅特弥丝Yatamis",
+        "default": "cn"
+      }
     },
     {
       "uuid": "221a1af7-f4cc-5f87-b72d-482e75162c29",
