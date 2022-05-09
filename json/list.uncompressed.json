@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652060753
+    "timestamp": 1652060782
   },
   "vtbs": [
     {
@@ -21544,6 +21544,23 @@
         "extra": [],
         "jp": "千代家ぷりり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "81092a6a-4b58-5dd3-997c-127539102506",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1662426",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千叶是棵草_official",
+        "default": "cn"
       }
     },
     {
