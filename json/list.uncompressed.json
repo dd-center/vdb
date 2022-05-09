@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652061001
+    "timestamp": 1652061891
   },
   "vtbs": [
     {
@@ -53819,6 +53819,24 @@
         "cn": "熊くま喵",
         "en": "kumaneko",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b99ce55-c32b-5ab4-ae8b-7aabad06e798",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2075179777",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "熊之霓",
+        "en": "熊之霓",
+        "default": "jp"
       }
     },
     {
