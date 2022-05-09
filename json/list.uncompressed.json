@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652059745
+    "timestamp": 1652059835
   },
   "vtbs": [
     {
@@ -72103,6 +72103,23 @@
         "extra": [],
         "ch": "薛ちゃんねる",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "c85421f6-5886-56de-87e8-6c6983c4c64f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11013822",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薛定咔Shoka",
+        "default": "cn"
       }
     },
     {
