@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652060413
+    "timestamp": 1652060753
   },
   "vtbs": [
     {
@@ -62121,6 +62121,24 @@
       "name": {
         "extra": [],
         "cn": "祢戮NERO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72bbf9fa-7cbb-555e-b6a2-baa1cd99445c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22606862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祢礼",
+        "en": "Miri",
         "default": "cn"
       }
     },
