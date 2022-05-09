@@ -6,6 +6,7 @@ on:
 jobs:
   delete-branch:
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == false
     steps:
       - name: delete branch
         uses: SvanBoxel/delete-merged-branch@main
