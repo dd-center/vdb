@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652101452
+    "timestamp": 1652105260
   },
   "vtbs": [
     {
@@ -74850,6 +74850,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "08f8c0f7-c333-5c36-9472-d4030b3c0797",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2006452883",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路希维德Wiede",
+        "default": "cn"
+      }
     },
     {
       "uuid": "981fc30a-a823-56c8-882d-825ad13b8db2",
