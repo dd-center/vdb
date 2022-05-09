@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652060782
+    "timestamp": 1652060877
   },
   "vtbs": [
     {
@@ -81004,6 +81004,23 @@
         "extra": [],
         "cn": "音琴かなみ_official",
         "jp": "音琴かなみ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3a890b06-38f7-51fc-88be-22d5d9d83d18",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1874964584",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音符Veno_Official",
         "default": "cn"
       }
     },
