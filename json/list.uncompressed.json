@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652160600
+    "timestamp": 1652195451
   },
   "vtbs": [
     {
@@ -48662,6 +48662,24 @@
         "default": "cn"
       },
       "group": "aebb8a27-96ad-575f-99f7-485fb958d709"
+    },
+    {
+      "uuid": "cccbc53d-ce8e-5df1-9779-c09b79721426",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1278321533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椰乃不是椰奶",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "36703164-9f00-5c49-bbf8-a128f1b0e39d",
