@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652207104
+    "timestamp": 1652207137
   },
   "vtbs": [
     {
@@ -51742,6 +51742,24 @@
       "name": {
         "extra": [],
         "cn": "洛冰凌Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "43031345-e79d-51af-80be-894bb9eabb5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "391127091",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛弗洛萨",
+        "en": "LovreLothar",
         "default": "cn"
       }
     },
