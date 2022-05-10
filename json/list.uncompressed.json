@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652105454
+    "timestamp": 1652160478
   },
   "vtbs": [
     {
@@ -53292,6 +53292,23 @@
       "name": {
         "extra": [],
         "cn": "瀞酒其姝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7b0a58f1-45ea-5f27-8ade-b9d3b141531f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1006140314",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瀬兎一也_Official",
         "default": "cn"
       }
     },
