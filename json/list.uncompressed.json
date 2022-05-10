@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652195591
+    "timestamp": 1652195684
   },
   "vtbs": [
     {
@@ -36566,6 +36566,33 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "8a2195ec-497e-525e-b626-efd1ab3b2364",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1944648347",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kuramaosk",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCS8w-7krErjLdDXY93yAeLA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御先蔵馬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a7c6dd14-208f-59c1-8b6f-e5cd460a98e4",
