@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652195451
+    "timestamp": 1652195591
   },
   "vtbs": [
     {
@@ -6706,6 +6706,29 @@
         "cn": "SilverNova",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32245273",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCxALOUXWq5Jb-YQp4FWpR-w",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SiriusProject",
+        "default": "cn"
+      },
+      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
     },
     {
       "uuid": "ded378d7-eb94-52a1-9905-24f93a0a9926",
@@ -21721,6 +21744,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "17b5bc6a-96ca-53fb-b197-18472f43635c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "220293909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千春葵",
+        "default": "cn"
+      },
+      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
     },
     {
       "uuid": "623dda9a-5c55-59ad-bf45-e70d5dbf6a12",
@@ -71656,6 +71697,24 @@
         "default": "cn"
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
+      "uuid": "c4309420-284b-5cf9-afe0-028f8da405e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCOnatvMEoDD-ARYySwnvr6g",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "葛城奇跡",
+        "default": "jp"
+      },
+      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
     },
     {
       "uuid": "2717b68d-977f-5ada-931d-c900eb15d23a",
