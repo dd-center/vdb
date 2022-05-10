@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652205481
+    "timestamp": 1652205855
   },
   "vtbs": [
     {
@@ -57200,6 +57200,24 @@
         "extra": [],
         "cn": "琥珀玲Official",
         "jp": "琥珀りん",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f44739e-3677-5dab-b8a5-455a70bffe37",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1863822023",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琥珀珀",
+        "en": "kohaku",
         "default": "cn"
       }
     },
