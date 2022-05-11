@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652307549
+    "timestamp": 1652307754
   },
   "vtbs": [
     {
@@ -793,6 +793,23 @@
         "extra": [],
         "cn": "Akira",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "3a422fea-42e3-5828-9eb5-fcbd790124a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1071993421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ako_official",
+        "default": "en"
       }
     },
     {
