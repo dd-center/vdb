@@ -35,7 +35,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652207165
+    "timestamp": 1652245894
   },
   "vtbs": [
     {
@@ -1978,6 +1978,24 @@
         "default": "cn"
       },
       "group": "8ddf8a4d-c59b-51fc-a7b5-1b12d46e96f0"
+    },
+    {
+      "uuid": "0b6021b2-9152-5b08-8786-74f6a7ab57c6",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1236638112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "DiscoverPS企划",
+        "default": "cn"
+      },
+      "group": "0b6021b2-9152-5b08-8786-74f6a7ab57c6"
     },
     {
       "uuid": "d3b56528-8045-5a35-8314-c49c17a297b5",
