@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652279851
+    "timestamp": 1652307549
   },
   "vtbs": [
     {
@@ -1351,8 +1351,7 @@
         "extra": [],
         "cn": "Bunny_Channel",
         "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      }
     },
     {
       "uuid": "4de16f17-cd74-5be0-a674-5930689c7bfb",
@@ -15527,8 +15526,7 @@
         "cn": "乌贼",
         "en": "Kino",
         "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      }
     },
     {
       "uuid": "7bb978ca-a208-57d6-a17b-d3bf3e4edc34",
@@ -16764,24 +16762,6 @@
       }
     },
     {
-      "uuid": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "367310491",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "企鹅公馆Penguin",
-        "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
-    },
-    {
       "uuid": "7d7be7bb-e445-59f7-8a15-4dec05a17bca",
       "type": "vtuber",
       "bot": false,
@@ -16970,23 +16950,6 @@
       "name": {
         "extra": [],
         "cn": "伊可璐echo",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "4dd311b9-4980-5a70-a2a2-0d7edf06b512",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "480314438",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "伊布莉香",
         "default": "cn"
       }
     },
@@ -19344,8 +19307,7 @@
         "extra": [],
         "cn": "写书人虞心",
         "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      }
     },
     {
       "uuid": "dd5d968f-ab9b-528c-94d9-e1457d95b26c",
@@ -21700,8 +21662,7 @@
         "extra": [],
         "cn": "千鶴川channel",
         "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      }
     },
     {
       "uuid": "0fd2499a-5caa-51d0-8946-7d61d5aba18b",
@@ -54366,8 +54327,7 @@
         "extra": [],
         "cn": "狐妖小时莩",
         "default": "cn"
-      },
-      "group": "bf51cd81-7c9c-5e41-adfa-ee617fe0b62d"
+      }
     },
     {
       "uuid": "011c69c2-5404-5268-8cb6-1ccd681c8c40",
