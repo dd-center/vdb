@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652269338
+    "timestamp": 1652269437
   },
   "vtbs": [
     {
@@ -83722,11 +83722,17 @@
           "id": "316381099",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "kano_dayo",
+          "type": "official",
+          "platform": "weiboByName"
         }
       ],
       "name": {
         "extra": [],
-        "jp": "鹿乃",
+        "jp": "鹿乃まほろ",
+        "en": "Mahoro Kano",
         "default": "jp"
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93"
