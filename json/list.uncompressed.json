@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652361375
+    "timestamp": 1652368010
   },
   "vtbs": [
     {
@@ -76498,6 +76498,23 @@
         "default": "cn"
       },
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
+    },
+    {
+      "uuid": "b18c3f21-afa3-5889-92ec-eddb13d551d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1432977452",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "铃音Milk_Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "4a02ae97-b19b-5d1e-ae2e-d645cf0d84a9",
