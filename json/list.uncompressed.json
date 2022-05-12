@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652322704
+    "timestamp": 1652325864
   },
   "vtbs": [
     {
@@ -11269,23 +11269,12 @@
           "id": "UCqHhsPDG1LlnhvgIn4O9gHA",
           "type": "official",
           "platform": "youtube"
-        },
-        {
-          "id": "MetamoeTube",
-          "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "401795607",
-          "type": "official",
-          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "en": "めたもえ",
         "jp": "めたもえ",
-        "default": "en"
+        "default": "jp"
       }
     },
     {
@@ -77793,11 +77782,6 @@
           "id": "26055450",
           "type": "official",
           "platform": "acfun"
-        },
-        {
-          "id": "487636203",
-          "type": "official",
-          "platform": "bilibili"
         }
       ],
       "name": {
@@ -84216,23 +84200,6 @@
       "name": {
         "extra": [],
         "cn": "默默",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "95c82ec8-faac-5e08-be3a-820c744f3789",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1332477605",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "黛妮NINI_Official",
         "default": "cn"
       }
     },
