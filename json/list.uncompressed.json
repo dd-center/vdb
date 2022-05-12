@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652321021
+    "timestamp": 1652322704
   },
   "vtbs": [
     {
@@ -50551,6 +50551,24 @@
         "cn": "沫熠Moyi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1fac360d-f550-5f29-8bbe-d8d51a641c86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "593793031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泉鹅Izumi",
+        "default": "cn"
+      },
+      "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
     },
     {
       "uuid": "0bcc08c6-8541-5442-aff9-faf3e88a8c44",
