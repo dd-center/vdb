@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652424286
+    "timestamp": 1652424498
   },
   "vtbs": [
     {
@@ -31601,6 +31601,23 @@
       "name": {
         "extra": [],
         "cn": "小凌漆漆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cc87925e-a8fb-50b8-8d31-5283b764d042",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1299484808",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小凌酱要很努力",
         "default": "cn"
       }
     },
