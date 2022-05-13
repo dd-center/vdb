@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652454183
+    "timestamp": 1652454597
   },
   "vtbs": [
     {
@@ -50630,6 +50630,23 @@
         "extra": [],
         "cn": "法元明菜",
         "jp": "あきなさんち",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41cef274-42a9-5037-9d88-82afeb22a387",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21191392",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "法娜Fyna",
         "default": "cn"
       }
     },
