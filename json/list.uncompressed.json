@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652492530
+    "timestamp": 1652492582
   },
   "vtbs": [
     {
@@ -45389,6 +45389,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "14928344-80f9-525f-acd3-894eb547ea63",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1535788044",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柊苓月",
+        "default": "cn"
+      }
     },
     {
       "uuid": "85ca57d7-f4a3-52c5-aba5-6b342e289231",
