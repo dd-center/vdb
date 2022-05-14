@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652492611
+    "timestamp": 1652551542
   },
   "vtbs": [
     {
@@ -68110,6 +68110,23 @@
         "extra": [],
         "CN": "花川玫玫",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "2eb89d4d-71be-53df-91d5-546b610f0157",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1784943007",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花梦玛丽亚Official",
+        "default": "cn"
       }
     },
     {
