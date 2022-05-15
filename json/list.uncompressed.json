@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652621919
+    "timestamp": 1652645124
   },
   "vtbs": [
     {
@@ -54977,6 +54977,23 @@
         "extra": [],
         "jp": "猫宫ノル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "294b1b8e-ef6f-50d4-9f53-37dd7a5de6c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "108398",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫宫梦铃",
+        "default": "cn"
       }
     },
     {
