@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652718799
+    "timestamp": 1652718838
   },
   "vtbs": [
     {
@@ -38552,6 +38552,23 @@
         "default": "cn"
       },
       "group": "b25b6594-eaa6-5b16-a112-c81a853f4815"
+    },
+    {
+      "uuid": "28123d25-37b4-5fae-8557-ee593c161af6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "622383747",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新野瑶衣",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1208614f-5cb4-547b-bd26-e145b3994919",
