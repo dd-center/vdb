@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652689852
+    "timestamp": 1652718206
   },
   "vtbs": [
     {
@@ -41016,6 +41016,23 @@
           "星见糖"
         ],
         "cn": "星見糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "32a26474-b754-553a-89c8-2a6c1728fe93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1584039005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星见汐娅",
         "default": "cn"
       }
     },
