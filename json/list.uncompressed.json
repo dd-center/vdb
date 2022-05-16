@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652719265
+    "timestamp": 1652719333
   },
   "vtbs": [
     {
@@ -1717,6 +1717,24 @@
         "default": "cn"
       },
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
+    },
+    {
+      "uuid": "909b9dfc-3691-5887-8f38-40d8287fceb0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1265574047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ColorLink",
+        "default": "en"
+      },
+      "group": "909b9dfc-3691-5887-8f38-40d8287fceb0"
     },
     {
       "uuid": "4af017fc-2b52-56ed-8ba9-b7e3e11dba56",
