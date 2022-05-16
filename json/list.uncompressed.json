@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652730217
+    "timestamp": 1652730732
   },
   "vtbs": [
     {
@@ -26603,6 +26603,24 @@
         "cn": "夏音蓝蓝",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ba1566f0-b8b1-5ba5-bfea-db98cfea89e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3338927",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏鲤鲤不是非酋",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "9d5ab273-75d4-5910-9224-0514d1396de6",
