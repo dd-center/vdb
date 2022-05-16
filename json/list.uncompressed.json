@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652672366
+    "timestamp": 1652683400
   },
   "vtbs": [
     {
@@ -30747,6 +30747,24 @@
       }
     },
     {
+      "uuid": "1b153525-79f4-5be7-bedf-24ddc258507a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16957103",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安曦Anxi",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
+    },
+    {
       "uuid": "7d3c05c7-6986-57aa-b032-b8d0aec30951",
       "type": "vtuber",
       "bot": false,
@@ -31077,6 +31095,24 @@
         "cn": "实验员NuNu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "907d6fd5-fe4c-5efd-bf21-0c3c577e06b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18982435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宠儿voli",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "fc549c74-5c77-5777-b06d-6d3fc2e375e9",
@@ -31750,6 +31786,24 @@
         "cn": "小夜铃",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3d511a20-2dac-589c-ac38-c885e2e575aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1943729690",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小天夏",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "d2fe385d-056a-51e8-97e2-b7f6ec117dd1",
@@ -68948,6 +69002,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "7252f5e7-6741-5208-a593-3a36c54b609b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9962651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苍火Aoi",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "d1ad0f8a-0302-5ffc-8110-1bc7de5761bc",
