@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652683400
+    "timestamp": 1652689852
   },
   "vtbs": [
     {
@@ -41412,6 +41412,23 @@
       "name": {
         "extra": [],
         "cn": "星野綾乃Ayanya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0f3f9087-a3f3-5ff2-a091-38a333591a17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "45336140",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野绵奈",
         "default": "cn"
       }
     },
