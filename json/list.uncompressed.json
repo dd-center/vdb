@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652743127
+    "timestamp": 1652745441
   },
   "vtbs": [
     {
@@ -26601,6 +26601,23 @@
       "name": {
         "extra": [],
         "cn": "夏野なつの",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9df0b67f-6319-5dc4-a264-5a1c893564cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1354106821",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏野铃铃",
         "default": "cn"
       }
     },
