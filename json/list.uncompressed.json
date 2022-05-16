@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652719333
+    "timestamp": 1652719654
   },
   "vtbs": [
     {
@@ -65090,6 +65090,23 @@
       "name": {
         "extra": [],
         "cn": "纱音_Syanon",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "19abd6fa-fa6d-5e17-921c-41eebb4fb5b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1927037753",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱鱼sayu",
         "default": "cn"
       }
     },
