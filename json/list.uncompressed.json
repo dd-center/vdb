@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652730193
+    "timestamp": 1652730217
   },
   "vtbs": [
     {
@@ -58768,6 +58768,24 @@
       "name": {
         "extra": [],
         "cn": "白芙Yuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5b8c1419-6a96-559a-a1c2-023e1cc63ca9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1958593681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白芷卷",
+        "jp": "シロカミ",
         "default": "cn"
       }
     },
