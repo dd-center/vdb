@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652718206
+    "timestamp": 1652718799
   },
   "vtbs": [
     {
@@ -44338,6 +44338,23 @@
       "name": {
         "extra": [],
         "cn": "机动型青空",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "83618dfe-ac4e-523d-82e3-eac5f6e3ffe7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16510117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "机智大灯灯",
         "default": "cn"
       }
     },
