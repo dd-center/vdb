@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652742912
+    "timestamp": 1652742948
   },
   "vtbs": [
     {
@@ -88,6 +88,23 @@
       "name": {
         "extra": [],
         "cn": "-可乐KORA-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e8480a69-58a5-5915-8bf1-f14ce3885a6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "356113776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-晚风铃-",
         "default": "cn"
       }
     },
@@ -69581,6 +69598,23 @@
         "default": "cn"
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9"
+    },
+    {
+      "uuid": "6bce422f-0207-55f6-994b-779875e85fb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498531795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉柚suki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "65921977-7c4f-5011-9842-e30ca4adcbd6",
