@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652743114
+    "timestamp": 1652743127
   },
   "vtbs": [
     {
@@ -49265,6 +49265,23 @@
       "name": {
         "extra": [],
         "cn": "橙子言Charie",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7bab930c-dbab-584b-8e0f-472a17674ab6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1865791469",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙歌歌睡不醒OvO",
         "default": "cn"
       }
     },
