@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652745534
+    "timestamp": 1652745548
   },
   "vtbs": [
     {
@@ -2132,6 +2132,23 @@
       "name": {
         "extra": [],
         "cn": "EC-03C型试作机",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1eed10fc-5016-5266-96c8-faf480c0cffb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20946335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ELA辰",
         "default": "cn"
       }
     },
