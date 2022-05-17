@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652801895
+    "timestamp": 1652802017
   },
   "vtbs": [
     {
@@ -17557,6 +17557,23 @@
       "name": {
         "extra": [],
         "cn": "伞盾战士伊狸_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9fc182d-bef3-5b12-8528-1652b587c852",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "148885908",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伴晴orz",
         "default": "cn"
       }
     },
