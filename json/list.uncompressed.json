@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652745548
+    "timestamp": 1652765323
   },
   "vtbs": [
     {
@@ -54514,6 +54514,24 @@
       "name": {
         "extra": [],
         "cn": "犬川面面Miami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2c650585-9c1e-5881-a794-db531ad2a00b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1795978925",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬神犬汰",
+        "jp": "いぬがみ犬汰",
         "default": "cn"
       }
     },
