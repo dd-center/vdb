@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652802017
+    "timestamp": 1652802134
   },
   "vtbs": [
     {
@@ -79062,6 +79062,23 @@
       "name": {
         "extra": [],
         "cn": "雪乃衣Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4cc8c4c7-95c8-5bb4-b0b4-ae02b28deaf4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1241565217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪利要睡觉",
         "default": "cn"
       }
     },
