@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652913082
+    "timestamp": 1652913094
   },
   "vtbs": [
     {
@@ -50324,6 +50324,23 @@
       "name": {
         "extra": [],
         "cn": "沫熠Moyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "331ab613-8bcb-5eba-8ac3-f83fded51d19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "65566781",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "河豚不是海豚音",
         "default": "cn"
       }
     },
