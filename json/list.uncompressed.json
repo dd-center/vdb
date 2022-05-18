@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652913094
+    "timestamp": 1652913120
   },
   "vtbs": [
     {
@@ -8198,6 +8198,23 @@
       }
     },
     {
+      "uuid": "8e0f9bbc-3479-58a2-b05b-c4c33d701e16",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "650592442",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "biubiu有颗奶糖",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5ad75a5c-e949-5847-9a8b-efe96376511c",
       "type": "vtuber",
       "bot": false,
@@ -13501,6 +13518,23 @@
         "default": "cn"
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
+      "uuid": "25656ede-1719-5a7f-a876-581663d7a653",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5683525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一口一个灼晚晚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "681a7593-242a-553e-af32-b252b9b0bc75",
