@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652864929
+    "timestamp": 1652865096
   },
   "vtbs": [
     {
@@ -20196,8 +20196,7 @@
         "cn": "凯恩",
         "en": "Cain",
         "default": "cn"
-      },
-      "group": "daa48a2e-57b4-5db4-b440-15604bdd7e68"
+      }
     },
     {
       "uuid": "5c42852c-302a-5331-bbd2-4ad28ee57106",
@@ -33146,24 +33145,6 @@
       "name": {
         "extra": [],
         "cn": "小鹿茉莉",
-        "default": "cn"
-      },
-      "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
-    },
-    {
-      "uuid": "daa48a2e-57b4-5db4-b440-15604bdd7e68",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "702336900",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "尘阿萧",
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
