@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652865171
+    "timestamp": 1652865202
   },
   "vtbs": [
     {
@@ -7407,24 +7407,6 @@
         "jp": "VOMS Project",
         "default": "jp"
       }
-    },
-    {
-      "uuid": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "508520559",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "VTNeko",
-        "default": "cn"
-      },
-      "group": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f"
     },
     {
       "uuid": "f6e5b4ce-2240-56bd-8ccd-0dfcd31dd481",
@@ -24984,24 +24966,6 @@
         "default": "cn"
       },
       "group": "8b323527-39eb-519a-b7d5-f27a54ea118b"
-    },
-    {
-      "uuid": "90b38202-f8f3-5b74-8772-cbf50c6eabd0",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "327335121",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "喵咚_VTNeko",
-        "default": "cn"
-      },
-      "group": "2cfbce43-39bb-5ab8-9c20-f6b59bbbce7f"
     },
     {
       "uuid": "d71f481e-ac10-5990-a413-026c72c31ae2",
