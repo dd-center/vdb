@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652865613
+    "timestamp": 1652865709
   },
   "vtbs": [
     {
@@ -38029,6 +38029,24 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "571fe90f-58b3-5a18-a448-99e5fae328a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1709066906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉斐娜Patience",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "ecf5a24e-f9a8-50d4-a148-6e3ed552f75f",
