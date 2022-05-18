@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652900830
+    "timestamp": 1652911236
   },
   "vtbs": [
     {
@@ -24231,6 +24231,23 @@
       "name": {
         "extra": [],
         "cn": "咲间芽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8035e1e6-5dd1-56bc-b1b8-2b6f99c4b228",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1382719257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咸蛋黄饭团-official",
         "default": "cn"
       }
     },
