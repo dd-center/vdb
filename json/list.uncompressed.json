@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652917121
+    "timestamp": 1652917254
   },
   "vtbs": [
     {
@@ -18066,6 +18066,24 @@
         "ch": "元气少年洛鸢",
         "default": "ch"
       }
+    },
+    {
+      "uuid": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "520963505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "光年神话",
+        "default": "cn"
+      },
+      "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846"
     },
     {
       "uuid": "e6182092-6934-5939-ab6a-839770abfa4a",
