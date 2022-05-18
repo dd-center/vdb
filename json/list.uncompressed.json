@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652883984
+    "timestamp": 1652884008
   },
   "vtbs": [
     {
@@ -4342,24 +4342,6 @@
       "group": "bf741674-6d02-574e-b862-a404fdb6d6dc"
     },
     {
-      "uuid": "da920113-15d7-5094-8475-71c887d37f0d",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1572906896",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Miracle-Link",
-        "default": "cn"
-      },
-      "group": "da920113-15d7-5094-8475-71c887d37f0d"
-    },
-    {
       "uuid": "35e48da1-ce7f-544b-a4a6-45bf312b0190",
       "type": "vtuber",
       "bot": false,
@@ -6682,29 +6664,6 @@
         "cn": "SilverNova",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "32245273",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "UCxALOUXWq5Jb-YQp4FWpR-w",
-          "type": "official",
-          "platform": "youtube"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "SiriusProject",
-        "default": "cn"
-      },
-      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
     },
     {
       "uuid": "ded378d7-eb94-52a1-9905-24f93a0a9926",
@@ -21241,8 +21200,7 @@
         "extra": [],
         "cn": "千春葵",
         "default": "cn"
-      },
-      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
+      }
     },
     {
       "uuid": "623dda9a-5c55-59ad-bf45-e70d5dbf6a12",
@@ -45891,8 +45849,7 @@
         "extra": [],
         "cn": "栗蝶Chyou",
         "default": "cn"
-      },
-      "group": "da920113-15d7-5094-8475-71c887d37f0d"
+      }
     },
     {
       "uuid": "125e7c72-48cf-561c-be67-f89af7d550c5",
@@ -66717,8 +66674,7 @@
         "extra": [],
         "cn": "艾柚ayo",
         "default": "cn"
-      },
-      "group": "da920113-15d7-5094-8475-71c887d37f0d"
+      }
     },
     {
       "uuid": "be304a60-18c5-5720-b7c8-88b1e43dc397",
@@ -70584,8 +70540,7 @@
         "extra": [],
         "jp": "葛城奇跡",
         "default": "jp"
-      },
-      "group": "4a0e7381-9eb0-5137-ae2a-a280f6223cd0"
+      }
     },
     {
       "uuid": "2717b68d-977f-5ada-931d-c900eb15d23a",
@@ -72364,24 +72319,6 @@
         "default": "cn"
       },
       "group": "66e12035-c8a0-5cb1-a5d4-365f89a544d3"
-    },
-    {
-      "uuid": "e0a6ee97-0f39-5b61-92d6-0b343d4f3f78",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2619005",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "见月izumi",
-        "default": "cn"
-      },
-      "group": "da920113-15d7-5094-8475-71c887d37f0d"
     },
     {
       "uuid": "07082090-1f14-50ab-8300-348a8ddddd31",
