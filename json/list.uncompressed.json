@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652912313
+    "timestamp": 1652912512
   },
   "vtbs": [
     {
@@ -16563,6 +16563,23 @@
         ],
         "jp": "仔犬丸たねこ_official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2dc2be8d-9eeb-5606-b7a6-77d963660c47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "410689349",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仙女安_",
+        "default": "cn"
       }
     },
     {
