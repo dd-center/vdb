@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652911236
+    "timestamp": 1652912313
   },
   "vtbs": [
     {
@@ -48573,6 +48573,23 @@
           "橘音"
         ],
         "cn": "橘音kkkitsune",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "09244ce2-943b-5bef-977d-ee780448ca26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50731137",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙喵兮兮",
         "default": "cn"
       }
     },
