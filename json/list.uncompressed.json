@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652913007
+    "timestamp": 1652913082
   },
   "vtbs": [
     {
@@ -9311,6 +9311,23 @@
         "extra": [],
         "en": "sunyeojin",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "da39194e-8086-52b6-af06-572c979d7845",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2242273",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "szswindy",
+        "default": "cn"
       }
     },
     {
