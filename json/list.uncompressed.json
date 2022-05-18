@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652802134
+    "timestamp": 1652832773
   },
   "vtbs": [
     {
@@ -65951,6 +65951,31 @@
       "name": {
         "extra": [],
         "cn": "维斯蒂亚Vastia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "990591ed-c543-5b4b-8544-246ec9b044f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1055945681",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "VinettaEsco",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [
+          "维喵"
+        ],
+        "cn": "维涅塔",
+        "en": "Vinetta",
         "default": "cn"
       }
     },
