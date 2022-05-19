@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652943128
+    "timestamp": 1652963812
   },
   "vtbs": [
     {
@@ -41942,6 +41942,23 @@
       "name": {
         "extra": [],
         "cn": "晴奈子_Senako",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "876cc823-c875-5b19-84f1-7d310f3576e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1402290747",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晴晴子Hare",
         "default": "cn"
       }
     },
