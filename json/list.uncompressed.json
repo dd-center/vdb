@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652963812
+    "timestamp": 1652966433
   },
   "vtbs": [
     {
@@ -65942,6 +65942,23 @@
       "name": {
         "extra": [],
         "cn": "羽织希_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f91762dc-c982-507f-9094-a07c056f80c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2996496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽连音legato",
         "default": "cn"
       }
     },
