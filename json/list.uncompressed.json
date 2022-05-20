@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1652966433
+    "timestamp": 1653006681
   },
   "vtbs": [
     {
@@ -23497,6 +23497,23 @@
       "name": {
         "extra": [],
         "cn": "吉鲤yuriri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7ba34fa9-ed16-5e31-b704-a1f0572ba04d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3215962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "名乃_NAN0",
         "default": "cn"
       }
     },
