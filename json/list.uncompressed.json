@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653057273
+    "timestamp": 1653057662
   },
   "vtbs": [
     {
@@ -51757,6 +51757,23 @@
       "name": {
         "extra": [],
         "cn": "清濑泉izumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ab081ae9-cc97-5754-a294-4639bd3519fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "327369531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清爽天使",
         "default": "cn"
       }
     },
