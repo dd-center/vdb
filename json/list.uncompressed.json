@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653107492
+    "timestamp": 1653107599
   },
   "vtbs": [
     {
@@ -19591,6 +19591,23 @@
       "name": {
         "extra": [],
         "cn": "凉宫千雪Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f188f355-80f7-5a32-bd32-aa86207721d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "134637395",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉宫雨Ame",
         "default": "cn"
       }
     },
