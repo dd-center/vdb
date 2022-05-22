@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653236593
+    "timestamp": 1653242233
   },
   "vtbs": [
     {
@@ -19368,6 +19368,23 @@
         "extra": [],
         "jp": "冬守雫_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9c6d9a08-75ad-53ec-950b-711a5c01b377",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "325907302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬日不要酱子",
+        "default": "cn"
       }
     },
     {
