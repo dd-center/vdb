@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242741
+    "timestamp": 1653242757
   },
   "vtbs": [
     {
@@ -43045,6 +43045,23 @@
         "extra": [],
         "ch": "月小夜official",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "7db50b21-109e-5d52-8d4c-31a163285ce9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1598050030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月纱_Lilith",
+        "default": "cn"
       }
     },
     {
