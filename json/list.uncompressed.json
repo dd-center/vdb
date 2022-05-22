@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242233
+    "timestamp": 1653242248
   },
   "vtbs": [
     {
@@ -19487,6 +19487,23 @@
       "name": {
         "extra": [],
         "cn": "冰奶茶Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a309803-588c-5fc4-8bec-85ebf7cf9490",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "599254182",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰淇柠QAQ",
         "default": "cn"
       }
     },
