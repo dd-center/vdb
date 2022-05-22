@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242661
+    "timestamp": 1653242686
   },
   "vtbs": [
     {
@@ -13555,6 +13555,23 @@
         "extra": [],
         "jp": "一ノ瀬うるは",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "7c3cc740-7db7-5a8f-8f6f-1f181f382458",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1501875279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一个多才多艺的花瓶",
+        "default": "cn"
       }
     },
     {
@@ -69857,6 +69874,23 @@
       "name": {
         "extra": [],
         "cn": "草翦葱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a44a3ca5-599f-54ef-90c0-836d11dfe961",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32946464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "草药呐喵呜",
         "default": "cn"
       }
     },
