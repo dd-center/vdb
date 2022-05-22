@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242562
+    "timestamp": 1653242575
   },
   "vtbs": [
     {
@@ -15554,6 +15554,23 @@
       "name": {
         "extra": [],
         "cn": "乔若Anki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d635a7f9-3488-5e20-b21a-5a8abf9d5891",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22782703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乔薇学姐",
         "default": "cn"
       }
     },
