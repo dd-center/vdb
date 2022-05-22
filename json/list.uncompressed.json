@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653210379
+    "timestamp": 1653229837
   },
   "vtbs": [
     {
@@ -32277,6 +32277,23 @@
         "extra": [],
         "jp": "小町ノノ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f371dc31-40d9-510d-98f3-7158ed1bdac2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "385160231",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小白龍_Hakuryu",
+        "default": "cn"
       }
     },
     {
