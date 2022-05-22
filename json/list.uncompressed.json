@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242757
+    "timestamp": 1653242769
   },
   "vtbs": [
     {
@@ -72497,6 +72497,23 @@
       "name": {
         "extra": [],
         "cn": "蜜汁姬工坊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7748cba0-0484-51f6-9827-15fbd44b2b71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "699327470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜汁粥粥_",
         "default": "cn"
       }
     },
