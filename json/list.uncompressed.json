@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653243071
+    "timestamp": 1653243097
   },
   "vtbs": [
     {
@@ -48656,6 +48656,23 @@
       }
     },
     {
+      "uuid": "fd2aba9e-3053-543e-9b03-c8e28ba88e91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "436309428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "槑宝koci",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4e053bf8-9e8b-5f7f-8f01-ed28524e7d3e",
       "type": "vtuber",
       "bot": false,
@@ -71041,6 +71058,23 @@
         "default": "jp"
       },
       "group": "19e4ef43-6a9d-5ff5-b79b-d59e8c98d19e"
+    },
+    {
+      "uuid": "53ac2652-7e46-52f6-bfa4-dfcbbf3b765f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1063487269",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌兔丽莎miya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e42cf4bf-cae5-55ae-b610-d59ef1634133",
