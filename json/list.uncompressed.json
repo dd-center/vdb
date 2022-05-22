@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242307
+    "timestamp": 1653242323
   },
   "vtbs": [
     {
@@ -32361,6 +32361,23 @@
       "name": {
         "extra": [],
         "cn": "小禾mohu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0fd54d8-52b7-52da-8a51-1d54dfdf825c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1641265464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小禾快快长",
         "default": "cn"
       }
     },
