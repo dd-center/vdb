@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242852
+    "timestamp": 1653242875
   },
   "vtbs": [
     {
@@ -1796,6 +1796,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "cc5c7bc6-a091-5fc1-ba75-e67150db2502",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "516678537",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "C叔小酒馆",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7910cd12-2398-5b87-9acb-15b71cb707a0",
@@ -29983,6 +30000,23 @@
       "name": {
         "extra": [],
         "cn": "姉崎雪美Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1beddf35-6929-5a33-b3f2-37e05f8a535d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "399923919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姜南星_",
         "default": "cn"
       }
     },
