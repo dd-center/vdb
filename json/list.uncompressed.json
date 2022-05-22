@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242536
+    "timestamp": 1653242547
   },
   "vtbs": [
     {
@@ -70569,6 +70569,23 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
+    },
+    {
+      "uuid": "eea8d13f-3f26-51b7-b5be-4b27181b5e9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1244296084",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲莉丝_Phyllis",
+        "default": "cn"
+      }
     },
     {
       "uuid": "071f2648-f257-5d0f-9e1d-1c9f9946386b",
