@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653243012
+    "timestamp": 1653243057
   },
   "vtbs": [
     {
@@ -38851,6 +38851,23 @@
       "name": {
         "extra": [],
         "cn": "无名Couture",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a58a35dd-0183-5fe1-98d2-7d6eaf659191",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20875904",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无家可归的流浪鲲鲲",
         "default": "cn"
       }
     },
