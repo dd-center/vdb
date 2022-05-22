@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242393
+    "timestamp": 1653242421
   },
   "vtbs": [
     {
@@ -3848,6 +3848,23 @@
         "extra": [],
         "cn": "MIOUIHARU",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a54cb05-0912-547f-855c-02de1ce3db22",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "210628",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MKiiiiii",
+        "default": "en"
       }
     },
     {
@@ -63899,6 +63916,23 @@
         "default": "cn"
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
+    },
+    {
+      "uuid": "9eca7068-8cf2-55c4-97c4-87911da943bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2091254050",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "索诺尔_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cd14eae9-a255-5669-9a4d-6d1620b0ecc9",
