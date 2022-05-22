@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242508
+    "timestamp": 1653242536
   },
   "vtbs": [
     {
@@ -23424,6 +23424,23 @@
       "name": {
         "extra": [],
         "cn": "叶月米柚_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "753e5818-33d9-5639-ab36-bb4b6ae2884a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4589556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶的空投物资箱",
         "default": "cn"
       }
     },
