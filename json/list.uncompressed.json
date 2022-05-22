@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242973
+    "timestamp": 1653242988
   },
   "vtbs": [
     {
@@ -22714,6 +22714,23 @@
         "default": "cn"
       },
       "group": "95596f4b-a413-5afe-a0f9-35c596f4543d"
+    },
+    {
+      "uuid": "10b9b825-8995-55f5-adf4-7f3a6a61ee47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1860756890",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡特莉亚_katelia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8dc1559d-af5a-5945-a33f-dc3c5eba3935",
