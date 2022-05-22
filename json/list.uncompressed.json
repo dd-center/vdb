@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653243057
+    "timestamp": 1653243071
   },
   "vtbs": [
     {
@@ -68681,6 +68681,23 @@
         "extra": [],
         "cn": "花樽栗守",
         "jp": "花樽りしゅ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d3075e2f-6018-54f3-984e-0fb9ac6da5c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "669374700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花沢祈",
         "default": "cn"
       }
     },
