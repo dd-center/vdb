@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653243097
+    "timestamp": 1653243111
   },
   "vtbs": [
     {
@@ -72031,6 +72031,23 @@
       "name": {
         "extra": [],
         "cn": "蕾蕾大表哥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd1e6646-0f21-526c-b175-5ddb71587414",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1545968622",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薄雪Yuki",
         "default": "cn"
       }
     },
