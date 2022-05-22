@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242951
+    "timestamp": 1653242963
   },
   "vtbs": [
     {
@@ -75861,6 +75861,23 @@
         "extra": [],
         "jp": "酒呑みみこ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "47f5160f-2a35-5c90-9dce-f65af7f1299c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1734677911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒菜禾子呀",
+        "default": "cn"
       }
     },
     {
