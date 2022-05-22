@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242248
+    "timestamp": 1653242307
   },
   "vtbs": [
     {
@@ -46677,6 +46677,23 @@
         "default": "cn"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "8c16d6af-e14c-5a72-83c5-3ab0595753da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486989682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃香雪奈Yukino",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5e743f83-a00e-5554-b57c-818d4655b9e0",
