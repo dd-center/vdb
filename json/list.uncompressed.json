@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653229837
+    "timestamp": 1653236593
   },
   "vtbs": [
     {
@@ -7999,6 +7999,23 @@
       "name": {
         "extra": [],
         "cn": "Yuki居居_nya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c0c12fb-8e9a-5286-8490-54ace8d3c693",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1749672325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Yumio今晚吃什么",
         "default": "cn"
       }
     },
@@ -38321,6 +38338,24 @@
         "default": "cn"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "26092163-9c52-505b-bd98-2d5aa9060dfd",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1753158001",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新月社FCrescent",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd"
     },
     {
       "uuid": "9b11cf01-8610-5a29-b00a-4d077b71bf64",
