@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242722
+    "timestamp": 1653242741
   },
   "vtbs": [
     {
@@ -41725,6 +41725,23 @@
         "default": "cn"
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497"
+    },
+    {
+      "uuid": "d9aaa7ec-679e-51a2-89ab-cb6a19372bad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "598716541",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春小花sama",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e5855f37-e571-53cd-acae-bbf2dafb0cb4",
