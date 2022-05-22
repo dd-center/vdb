@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242686
+    "timestamp": 1653242709
   },
   "vtbs": [
     {
@@ -20423,6 +20423,23 @@
       "name": {
         "extra": [],
         "cn": "初焰Hatsuhomura",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3d5a8305-09f6-5443-a225-462b62a3b2e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12818595",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初霁睡不醒",
         "default": "cn"
       }
     },
@@ -83343,6 +83360,23 @@
       "name": {
         "extra": [],
         "cn": "鹤羽Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0cbec8cb-5d96-58eb-b68e-8195d65b4541",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "597823619",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹭仔想喝冰阔落",
         "default": "cn"
       }
     },
