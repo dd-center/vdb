@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242988
+    "timestamp": 1653243012
   },
   "vtbs": [
     {
@@ -32344,6 +32344,23 @@
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
+      "uuid": "8fdca0e6-b142-5ec5-995f-9e27cdb57f61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "231881947",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小棉不是小菜包",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "418e73ce-e7b9-5721-9e53-e104cc7741d2",
       "type": "vtuber",
       "bot": false,
@@ -33047,6 +33064,23 @@
         "default": "cn"
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c"
+    },
+    {
+      "uuid": "414d77ea-aaf7-5fad-9df0-7829eee469ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "160450916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小风铃是只咕咕狐",
+        "default": "cn"
+      }
     },
     {
       "uuid": "811a1135-6475-525c-9765-bc7099cf919a",
