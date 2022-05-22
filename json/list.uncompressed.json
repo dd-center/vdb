@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242348
+    "timestamp": 1653242374
   },
   "vtbs": [
     {
@@ -61500,6 +61500,23 @@
       }
     },
     {
+      "uuid": "c414f02b-3f0c-5a8d-813f-2ad06b65a9ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8702159",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "离火hotaru",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3b08fa9c-dfef-5f18-9479-2caad273120e",
       "type": "vtuber",
       "bot": false,
@@ -84341,6 +84358,23 @@
       "name": {
         "extra": [],
         "cn": "默默",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d3329307-f6d3-59ac-8a64-883bc641a561",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1888960985",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黛兔呆呆",
         "default": "cn"
       }
     },
