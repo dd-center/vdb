@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653107599
+    "timestamp": 1653210379
   },
   "vtbs": [
     {
@@ -4405,6 +4405,23 @@
         "default": "cn"
       },
       "group": "89382922-bb93-5a94-94b6-06f217575139"
+    },
+    {
+      "uuid": "95a617da-e5fd-53a3-a541-5371c1880796",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25415856",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mlle_Rebecca",
+        "default": "en"
+      }
     },
     {
       "uuid": "9934d233-a130-5459-8554-ecc7234d2891",
