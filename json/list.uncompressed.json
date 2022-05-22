@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653242547
+    "timestamp": 1653242562
   },
   "vtbs": [
     {
@@ -40944,6 +40944,23 @@
         "default": "cn"
       },
       "group": "62f90b65-e8cd-54b1-bae2-ed0fc47d063c"
+    },
+    {
+      "uuid": "c26aebcd-7099-5c8c-bf6d-622d6abcd630",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "364728311",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星蚀_Finsternis",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6cbf303f-2cc1-5136-af12-733088b0176a",
