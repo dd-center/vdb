@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653277030
+    "timestamp": 1653294126
   },
   "vtbs": [
     {
@@ -29155,6 +29155,23 @@
         "extra": [],
         "cn": "天音りりあOfficial",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "901e9fe5-743d-5e78-b692-766fb301d2b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1801527765",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "天音マリー",
+        "default": "jp"
       }
     },
     {
