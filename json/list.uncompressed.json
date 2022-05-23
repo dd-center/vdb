@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653264561
+    "timestamp": 1653264593
   },
   "vtbs": [
     {
@@ -42908,6 +42908,23 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "881ae7c7-88de-58f5-9967-b7aa63bc63a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "364519161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月上Tsuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c3a5fb26-be12-5fee-981c-ec31f23c4051",
