@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653322601
+    "timestamp": 1653349713
   },
   "vtbs": [
     {
@@ -83494,6 +83494,23 @@
       "name": {
         "extra": [],
         "cn": "鸢尾牙牙Yamia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8f744030-1763-5a1d-ad7d-b808b5a070a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "409524232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸢尾默",
         "default": "cn"
       }
     },
