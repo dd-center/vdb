@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653264639
+    "timestamp": 1653275798
   },
   "vtbs": [
     {
@@ -47493,6 +47493,24 @@
         "default": "cn"
       },
       "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
+    },
+    {
+      "uuid": "669636be-375d-5e25-b0d3-c35019deb583",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4131251",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桥雾见Jolno",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "d6eeaa00-3764-5ea4-812e-e9d9712588f9",
