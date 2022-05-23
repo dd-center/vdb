@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653275798
+    "timestamp": 1653277030
   },
   "vtbs": [
     {
@@ -10810,6 +10810,23 @@
         "extra": [],
         "jp": "はるか",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "91d56e40-1e8c-50aa-9b0e-4af227aae88a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24461374",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "はるかOfficial",
+        "default": "cn"
       }
     },
     {
@@ -38294,6 +38311,23 @@
         "jp": "招福にゃこ",
         "cn": "招福Nyako",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "21c31260-54de-5354-af1f-3282fe7e882c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "74130542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拾夜在拾夜_Official",
+        "default": "cn"
       }
     },
     {
