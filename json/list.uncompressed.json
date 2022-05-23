@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653294126
+    "timestamp": 1653294851
   },
   "vtbs": [
     {
@@ -2624,6 +2624,24 @@
         "default": "cn"
       },
       "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
+    },
+    {
+      "uuid": "36fdf231-61bf-520c-adb7-d3081d7deb6c",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1682620519",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "GALAXY群星社",
+        "default": "cn"
+      },
+      "group": "36fdf231-61bf-520c-adb7-d3081d7deb6c"
     },
     {
       "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
