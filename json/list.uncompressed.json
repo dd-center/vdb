@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653243480
+    "timestamp": 1653264251
   },
   "vtbs": [
     {
@@ -80018,6 +80018,23 @@
       "name": {
         "extra": [],
         "cn": "雾原伊蔓Iman",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e9ef37f-7be4-543c-a4c6-9a24c9d8e1df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2750975",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾屿Yugi",
         "default": "cn"
       }
     },
