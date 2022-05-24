@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653435814
+    "timestamp": 1653435864
   },
   "vtbs": [
     {
@@ -88,6 +88,23 @@
       "name": {
         "extra": [],
         "cn": "-可乐KORA-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56e1fb8d-cf3a-5b42-b18e-cecd7831f705",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506184344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-小奈同学",
         "default": "cn"
       }
     },
