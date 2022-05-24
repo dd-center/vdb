@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653436073
+    "timestamp": 1653436104
   },
   "vtbs": [
     {
@@ -80860,6 +80860,23 @@
       "name": {
         "extra": [],
         "cn": "霰月Arzki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52bf5fd3-4d99-50a3-a3e3-b870553e7f8f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1733970192",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露希菲儿",
         "default": "cn"
       }
     },
