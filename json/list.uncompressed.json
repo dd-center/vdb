@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653427150
+    "timestamp": 1653427526
   },
   "vtbs": [
     {
@@ -35394,6 +35394,23 @@
       "name": {
         "extra": [],
         "cn": "幻海玲岚w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e30ff99-6bd1-5b43-b059-7535885ab186",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7279031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻蓿不太甜",
         "default": "cn"
       }
     },
