@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653435446
+    "timestamp": 1653435497
   },
   "vtbs": [
     {
@@ -5054,6 +5054,23 @@
       "name": {
         "extra": [],
         "cn": "Niar-2A",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fdacf0f3-5599-5468-9f8c-118556c18537",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3220897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nico莉莉",
         "default": "cn"
       }
     },
