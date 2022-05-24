@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653435864
+    "timestamp": 1653435907
   },
   "vtbs": [
     {
@@ -17459,6 +17459,23 @@
         "default": "cn"
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
+      "uuid": "0de22ea4-4d8c-5572-8fb2-a6c97d5462ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "298217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊蕾雅Ereya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3e62701b-3d86-5b83-b0f1-815a409c86c3",
