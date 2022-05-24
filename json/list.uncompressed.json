@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653427526
+    "timestamp": 1653427776
   },
   "vtbs": [
     {
@@ -55860,6 +55860,23 @@
       "name": {
         "extra": [],
         "cn": "猫川多多道",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d43a45e7-5e5d-511d-a900-986ee1b67cd1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2740798",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫弥Mino",
         "default": "cn"
       }
     },
