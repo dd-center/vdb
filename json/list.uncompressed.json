@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653435497
+    "timestamp": 1653435814
   },
   "vtbs": [
     {
@@ -67600,6 +67600,23 @@
       "name": {
         "extra": [],
         "cn": "舞鹤福冈独自游计划R",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a2bae92d-8239-52a5-925f-35e8d29ef0c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "71657517",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "船儿学姐",
         "default": "cn"
       }
     },
