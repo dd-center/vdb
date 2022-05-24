@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653370683
+    "timestamp": 1653400833
   },
   "vtbs": [
     {
@@ -54387,6 +54387,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "24badac1-3223-586b-94d1-ff53784c0977",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2231439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牙牙丸绘",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "e2389553-9a51-5f2f-8705-92d1a8095a7e",
