@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653400833
+    "timestamp": 1653423599
   },
   "vtbs": [
     {
@@ -23922,6 +23922,23 @@
         "extra": [],
         "jp": "名取さな",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "eabe2267-5b39-54ae-8a62-279ae15ac095",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441569",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "名無しタコ",
+        "default": "cn"
       }
     },
     {
