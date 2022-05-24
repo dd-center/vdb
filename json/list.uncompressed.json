@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653427776
+    "timestamp": 1653435446
   },
   "vtbs": [
     {
@@ -61078,6 +61078,23 @@
       "name": {
         "extra": [],
         "cn": "矢上飞鸟_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "568441ab-4686-5b58-98e0-5faa3512fb58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "813857",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "矢吹四葉",
         "default": "cn"
       }
     },
