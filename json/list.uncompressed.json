@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653427136
+    "timestamp": 1653427150
   },
   "vtbs": [
     {
@@ -53390,6 +53390,23 @@
       "name": {
         "extra": [],
         "cn": "澪音奏Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "01d8f770-123c-5f13-b8e1-7a358d556d62",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "193558681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "激辣味噌",
         "default": "cn"
       }
     },
