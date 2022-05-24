@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653423599
+    "timestamp": 1653423631
   },
   "vtbs": [
     {
@@ -29362,6 +29362,23 @@
       "name": {
         "extra": [],
         "cn": "奈丽莎卡里乌斯Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "21d7a835-65e6-5977-8355-527c27c05f9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1785284354",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈亚初Hatsu",
         "default": "cn"
       }
     },
