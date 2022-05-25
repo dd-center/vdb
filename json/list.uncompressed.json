@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653472185
+    "timestamp": 1653472478
   },
   "vtbs": [
     {
@@ -18948,7 +18948,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "665759522",
+          "id": "1531227247",
           "type": "official",
           "platform": "bilibili"
         }
@@ -69055,6 +69055,30 @@
       "name": {
         "extra": [],
         "cn": "花崎Haki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65208c2f-8256-53de-a7c5-82c5068aa9a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1486124092",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "193194645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "花崎千代Chiyo"
+        ],
+        "cn": "花崎千代Copy",
         "default": "cn"
       }
     },
