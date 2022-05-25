@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653487255
+    "timestamp": 1653496957
   },
   "vtbs": [
     {
@@ -46521,6 +46521,24 @@
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
     },
     {
+      "uuid": "f3b089f6-164d-515c-919e-4208a3879b6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1919353617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯蕾纱",
+        "en": "resa",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "44290341-e938-52be-828c-359116bbeaf7",
       "type": "vtuber",
       "bot": false,
@@ -51684,6 +51702,24 @@
       "name": {
         "extra": [],
         "cn": "波伊森",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b00e8c2d-ec82-59ff-a5b9-453eb4a05169",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1138231312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波利佧",
+        "en": "borika",
         "default": "cn"
       }
     },
@@ -74788,6 +74824,24 @@
         "extra": [],
         "cn": "赛拉",
         "en": "Sera",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e45422e-c609-533a-a27c-d66642a5eaa1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7396511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赛薇琳",
+        "en": "XaviRynn",
         "default": "cn"
       }
     },
