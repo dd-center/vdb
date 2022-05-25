@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653437293
+    "timestamp": 1653472185
   },
   "vtbs": [
     {
@@ -58468,6 +58468,33 @@
         "extra": [],
         "jp": "癒音くるみ",
         "cn": "癒音kurumi",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "849e269a-3d9b-57b5-80cb-af036843fb44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "604197572",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Iyashima_Myua",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCZg_qvSbb1ha2bmQT3Tm3dQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "癒魔魅娅",
         "default": "jp"
       }
     },
