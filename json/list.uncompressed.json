@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653436104
+    "timestamp": 1653437293
   },
   "vtbs": [
     {
@@ -63706,6 +63706,23 @@
       "name": {
         "extra": [],
         "cn": "符瑶koritsu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "569afcb1-c659-55d4-a9a4-23714eb228ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "168130052",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "符离桑",
         "default": "cn"
       }
     },
