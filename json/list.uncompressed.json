@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653496957
+    "timestamp": 1653563776
   },
   "vtbs": [
     {
@@ -25665,6 +25665,28 @@
         "default": "cn"
       },
       "group": "eef5fb94-75dc-532d-82c8-8c6e78457ed9"
+    },
+    {
+      "uuid": "d3fd12bc-5f6b-5b22-ba24-6219d549e103",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1219505772",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "shinomiyakurumi",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四宮胡桃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "631d5c40-63f5-5958-be7a-e84b23d2d1e6",
