@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653563789
+    "timestamp": 1653609212
   },
   "vtbs": [
     {
@@ -58443,6 +58443,23 @@
         "extra": [],
         "jp": "病井こころ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d219b46d-d7b8-529d-8a07-5e37e4e180cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1729590620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "病井心爱_OvO",
+        "default": "cn"
       }
     },
     {
