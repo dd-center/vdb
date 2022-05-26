@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653563776
+    "timestamp": 1653563789
   },
   "vtbs": [
     {
@@ -11519,6 +11519,23 @@
         "extra": [],
         "cn": "ゆるりめぐ",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "440115ab-ce45-545c-90d1-bfbb04010474",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34815578",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "りんうらん霖雨蘭",
+        "default": "jp"
       }
     },
     {
