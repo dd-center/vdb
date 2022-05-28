@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653609212
+    "timestamp": 1653750581
   },
   "vtbs": [
     {
@@ -30295,6 +30295,23 @@
       "name": {
         "extra": [],
         "cn": "姜南星_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f784bdb-a45f-5e43-ad3f-8d24b610bd7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1943499143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姫崎玖刀Official",
         "default": "cn"
       }
     },
