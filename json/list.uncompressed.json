@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653750581
+    "timestamp": 1653866137
   },
   "vtbs": [
     {
@@ -16643,6 +16643,23 @@
         "cn": "亚朱香",
         "jp": "亜朱香",
         "en": "Asyuka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca06565d-ce69-55a3-8c8b-b4ca82692668",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "66598646",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亡靈k_HotEA",
         "default": "cn"
       }
     },
@@ -68452,6 +68469,23 @@
         "extra": [],
         "cn": "艾菲",
         "en": "Alfy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a5ed1dc8-8771-5fe4-abd9-58a04aeec0de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "770719",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾薇塔_Official",
         "default": "cn"
       }
     },
