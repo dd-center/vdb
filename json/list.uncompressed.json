@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653891580
+    "timestamp": 1653891690
   },
   "vtbs": [
     {
@@ -32999,6 +32999,23 @@
         "default": "ch"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "1d73bc0f-bafc-5a6b-94f1-11d68524018f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44237258",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小紬先生",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f1448a6a-b72d-59c0-9003-23dbf63826d8",
