@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653891690
+    "timestamp": 1653891807
   },
   "vtbs": [
     {
@@ -21885,6 +21885,24 @@
         "default": "cn"
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
+    },
+    {
+      "uuid": "ecd65e41-e194-5768-ba02-6c33a70acd48",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2066224812",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千瑠火Ruka",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "1ca799c6-ebaf-5340-83b1-f061c9fd7902",
