@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653891807
+    "timestamp": 1653910460
   },
   "vtbs": [
     {
@@ -43675,8 +43675,7 @@
         "extra": [],
         "cn": "月見夜兰Official",
         "default": "cn"
-      },
-      "group": "f233165c-3a1b-5398-8bee-28da338189fa"
+      }
     },
     {
       "uuid": "6fb82e77-ab52-5898-9c47-c023ee0bc218",
@@ -44270,8 +44269,7 @@
         "extra": [],
         "cn": "朝日奈乃Official",
         "default": "cn"
-      },
-      "group": "f233165c-3a1b-5398-8bee-28da338189fa"
+      }
     },
     {
       "uuid": "1a7c7817-2fb1-56c5-a34c-8f093adbc4f5",
@@ -66302,24 +66300,6 @@
       }
     },
     {
-      "uuid": "f233165c-3a1b-5398-8bee-28da338189fa",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1690671690",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "结缘屋",
-        "default": "cn"
-      },
-      "group": "f233165c-3a1b-5398-8bee-28da338189fa"
-    },
-    {
       "uuid": "91f60777-a903-5df9-9428-b63c56af7d15",
       "type": "vtuber",
       "bot": false,
@@ -82279,23 +82259,6 @@
         "default": "cn"
       },
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
-    },
-    {
-      "uuid": "47b119fc-1504-56f6-ad19-9782bbed64fe",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "412113528",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "风月莉莉娅",
-        "default": "cn"
-      }
     },
     {
       "uuid": "831f3080-9616-5bbe-a3c1-86a40889defb",
