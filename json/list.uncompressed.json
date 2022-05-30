@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653866137
+    "timestamp": 1653869559
   },
   "vtbs": [
     {
@@ -84788,6 +84788,23 @@
       "name": {
         "extra": [],
         "cn": "麦芽不甜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c539554-8060-53d3-b5d8-fe24164dc0d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2000244836",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麦麦Mira",
         "default": "cn"
       }
     },
