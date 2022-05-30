@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1653891549
+    "timestamp": 1653891580
   },
   "vtbs": [
     {
@@ -84386,6 +84386,23 @@
         "default": "cn"
       },
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
+    },
+    {
+      "uuid": "def07a50-53fa-5604-a650-b136132ce0c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "437044819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸾玥馨_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "be5b4391-d5b7-5f35-8d3c-f27caa9aff2f",
