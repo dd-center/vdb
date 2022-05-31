@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654040812
+    "timestamp": 1654040904
   },
   "vtbs": [
     {
@@ -72072,6 +72072,23 @@
       "name": {
         "extra": [],
         "cn": "萤失Hinano",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f04ff7a8-ce8a-5033-ae63-2c20d3df3183",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10847989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萤笼Official",
         "default": "cn"
       }
     },
