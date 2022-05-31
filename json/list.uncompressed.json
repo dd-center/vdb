@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654041038
+    "timestamp": 1654041433
   },
   "vtbs": [
     {
@@ -19864,6 +19864,23 @@
         "extra": [],
         "ch": "冰茶_IcedTea",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "0a0a9c03-d6e3-5127-892b-1883d927bbbd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25395147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰雪的次元酱",
+        "default": "cn"
       }
     },
     {
