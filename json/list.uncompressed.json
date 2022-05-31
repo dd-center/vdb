@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654041433
+    "timestamp": 1654041468
   },
   "vtbs": [
     {
@@ -47464,6 +47464,23 @@
       "name": {
         "extra": [],
         "cn": "桃泽绒球",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6225806e-5624-55c3-add9-f0cb4f31db31",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1712293375",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃泽英梨梨channel",
         "default": "cn"
       }
     },
