@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654048584
+    "timestamp": 1654051062
   },
   "vtbs": [
     {
@@ -40401,6 +40401,35 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "ef770ca6-aede-5615-b3cd-90caa2b0bc05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12602690",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCppj0E_vB6cseH9tcw6czPg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "HoshinaLuna",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星名露娜Official",
+        "jp": "星名ルナ",
+        "default": "cn"
+      },
+      "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
     },
     {
       "uuid": "0a1bc1e3-4b0c-5108-aadb-768395aef545",
