@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654051062
+    "timestamp": 1654088888
   },
   "vtbs": [
     {
@@ -16214,6 +16214,24 @@
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
+    },
+    {
+      "uuid": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1220362929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云光计划",
+        "default": "cn"
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "02582eed-0001-5836-bdad-aea557c32dc1",
