@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654041527
+    "timestamp": 1654042223
   },
   "vtbs": [
     {
@@ -38467,6 +38467,23 @@
       "name": {
         "extra": [],
         "cn": "打酱油的魔神_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "475ab590-e9e7-5d24-b40f-49d764902a85",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1779286757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托丽Tori",
         "default": "cn"
       }
     },
