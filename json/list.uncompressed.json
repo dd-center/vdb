@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654042223
+    "timestamp": 1654048584
   },
   "vtbs": [
     {
@@ -20201,6 +20201,23 @@
       "name": {
         "extra": [],
         "cn": "凛可_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a9b1fda-ae8a-552b-8edf-b8c9abadbc2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "169156719",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凛可りんこ",
         "default": "cn"
       }
     },
@@ -69763,6 +69780,23 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "7bd034c9-b3f4-5071-a767-7faa66ab1be9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13928503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花筝Anly",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1d2de820-90a1-5695-82cc-2a125f25f460",
       "type": "vtuber",
       "bot": false,
@@ -71633,6 +71667,24 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "10575245-fb69-591e-9366-12311ff14848",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1569210258",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱茵Rhein",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "2b4fd940-7efa-50c3-85eb-8b5b253f4949",
