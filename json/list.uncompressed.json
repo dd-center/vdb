@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654169686
+    "timestamp": 1654181718
   },
   "vtbs": [
     {
@@ -17525,6 +17525,23 @@
       "name": {
         "extra": [],
         "cn": "伊莱莎凯瑟琳Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "773ceff4-5a87-5b04-933a-6c353912b4c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11222009",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊莺",
         "default": "cn"
       }
     },
