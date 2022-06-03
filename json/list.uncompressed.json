@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654181718
+    "timestamp": 1654216948
   },
   "vtbs": [
     {
@@ -16229,6 +16229,37 @@
       "name": {
         "extra": [],
         "cn": "云光计划",
+        "default": "cn"
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
+    },
+    {
+      "uuid": "66f00735-fd3d-50d2-a26c-6adf5a715f23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "499713932",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "9000964",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "630559288",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "夜萤秋月",
+          "娜纱Nasa"
+        ],
+        "cn": "椰芙eve",
         "default": "cn"
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
@@ -38554,7 +38585,8 @@
         "extra": [],
         "cn": "托丽Tori",
         "default": "cn"
-      }
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "9717d9b8-b9e3-5550-b3e2-c01860b26b0e",
@@ -68859,7 +68891,8 @@
         "extra": [],
         "cn": "芄Makino",
         "default": "cn"
-      }
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "327b0d1d-99f6-5758-8831-d28f0dc888c2",
@@ -82910,7 +82943,8 @@
         "extra": [],
         "cn": "饭团喵にゃん",
         "default": "cn"
-      }
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "35021c43-a49b-5b31-b29b-a7a714bb7d83",
