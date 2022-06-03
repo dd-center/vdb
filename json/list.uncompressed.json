@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654248880
+    "timestamp": 1654248910
   },
   "vtbs": [
     {
@@ -19864,6 +19864,23 @@
       "name": {
         "extra": [],
         "cn": "冰淇柠QAQ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8df4d672-23d2-5c53-ad20-a260950027b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1518831",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰箱旅人",
         "default": "cn"
       }
     },
@@ -74873,6 +74890,23 @@
         "default": "cn"
       },
       "group": "a466cec7-5670-59a2-8dd4-66d1a73ad32a"
+    },
+    {
+      "uuid": "fc56bb72-5b34-5d58-859d-bd7f74058de8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "415439089",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "讷讷Nene_",
+        "default": "cn"
+      }
     },
     {
       "uuid": "40799ffe-3f09-516c-a1a3-cd81da70e7a7",
