@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654248910
+    "timestamp": 1654248939
   },
   "vtbs": [
     {
@@ -23228,6 +23228,23 @@
         "default": "cn"
       },
       "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77"
+    },
+    {
+      "uuid": "60500c2f-10d4-54ec-82bc-5d6864971701",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19274776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "原上雪",
+        "default": "cn"
+      }
     },
     {
       "uuid": "92195db8-70e2-59e9-9cb6-d378ff865115",
