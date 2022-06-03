@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654248939
+    "timestamp": 1654249335
   },
   "vtbs": [
     {
@@ -38734,6 +38734,24 @@
         "default": "cn"
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
+    },
+    {
+      "uuid": "e7fde270-06b6-5e01-a828-09132352e1af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4929299",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托莉Tauri_Channel",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "b87299b1-faba-52a3-8389-701694f73035",
