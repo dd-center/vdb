@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654249335
+    "timestamp": 1654257008
   },
   "vtbs": [
     {
@@ -83354,6 +83354,23 @@
       "name": {
         "extra": [],
         "cn": "馄饨饨wonton",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "53078672-25a9-565c-bc53-9551e4d96078",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1185495353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "馅寿桃咖_official",
         "default": "cn"
       }
     },
