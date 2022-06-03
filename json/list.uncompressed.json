@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654216948
+    "timestamp": 1654217991
   },
   "vtbs": [
     {
@@ -16234,37 +16234,6 @@
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
-      "uuid": "66f00735-fd3d-50d2-a26c-6adf5a715f23",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "499713932",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "9000964",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "630559288",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "夜萤秋月",
-          "娜纱Nasa"
-        ],
-        "cn": "椰芙eve",
-        "default": "cn"
-      },
-      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
-    },
-    {
       "uuid": "02582eed-0001-5836-bdad-aea557c32dc1",
       "type": "vtuber",
       "bot": false,
@@ -27974,6 +27943,24 @@
       }
     },
     {
+      "uuid": "e87f3582-bb91-5f90-b975-6162c6a2d6a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9000964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜萤秋月",
+        "default": "cn"
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
+    },
+    {
       "uuid": "9e61cf82-96f9-5c6b-90c8-702bf8825f17",
       "type": "vtuber",
       "bot": false,
@@ -30775,6 +30762,24 @@
         "default": "ch"
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
+      "uuid": "f1881775-210b-5f83-8568-f3e79f461b33",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630559288",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娜纱Nasa",
+        "default": "cn"
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "207f5977-81d8-5d82-8c5a-a5f37c3740f4",
@@ -49213,6 +49218,24 @@
         "default": "cn"
       },
       "group": "335986d3-a35c-5a0d-98a7-7891d9f33956"
+    },
+    {
+      "uuid": "8e8adec2-f8d6-5092-a441-a2bfa27992e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "499713932",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椰芙eve",
+        "default": "cn"
+      },
+      "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
       "uuid": "ddb642ac-c258-5b54-8b9c-ede6fbadb904",
