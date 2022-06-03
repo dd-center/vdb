@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654257008
+    "timestamp": 1654259845
   },
   "vtbs": [
     {
@@ -3786,6 +3786,23 @@
         "default": "en"
       },
       "group": "5738c8e4-809a-5396-b107-81261d6a3907"
+    },
+    {
+      "uuid": "a1d24fe6-24db-56d8-8e01-e74a89d6c41e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1195405071",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "LuckyCupcake",
+        "default": "en"
+      }
     },
     {
       "uuid": "42dffa71-00ea-5f6b-8c4f-5f78134ed38e",
