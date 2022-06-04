@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654259845
+    "timestamp": 1654325267
   },
   "vtbs": [
     {
@@ -78993,6 +78993,23 @@
         "extra": [],
         "cn": "間宵雫_Official",
         "jp": "間宵 雫☾☔@イラストレーターVtuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a6a65363-a17d-5306-b2e4-cc87275043d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1522990829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "閻麟麟是大聪明呀",
         "default": "cn"
       }
     },
