@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654350399
+    "timestamp": 1654473497
   },
   "vtbs": [
     {
@@ -32874,6 +32874,23 @@
         "default": "jp"
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93"
+    },
+    {
+      "uuid": "0dc4394a-4988-5e94-9e2f-4f5d875a6978",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1731746796",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小松崎梨乃_rino",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16c5727e-72e1-576a-89c6-0d3c013154d5",
