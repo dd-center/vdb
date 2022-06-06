@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654473497
+    "timestamp": 1654473572
   },
   "vtbs": [
     {
@@ -31611,6 +31611,23 @@
       "name": {
         "extra": [],
         "cn": "安洁洛特SAMA",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee3816b5-0e55-5fd5-9eb3-016c9e8bbb69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1768094747",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安纪亚",
         "default": "cn"
       }
     },
