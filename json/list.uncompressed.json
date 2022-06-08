@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654656477
+    "timestamp": 1654687850
   },
   "vtbs": [
     {
@@ -2742,6 +2742,23 @@
         "extra": [],
         "cn": "H2SiO3笋",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "5717f50d-c888-50a2-8f44-c283c04cb1b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431040954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "HE-Atieyar",
+        "default": "en"
       }
     },
     {
