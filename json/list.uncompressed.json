@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654689886
+    "timestamp": 1654704261
   },
   "vtbs": [
     {
@@ -38369,6 +38369,24 @@
         "cn": "慕泽晴-Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fac11533-ddbe-5b07-9c9d-2a46b0b2b57d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1084324803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "慕芸Muvis",
+        "default": "cn"
+      },
+      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2"
     },
     {
       "uuid": "9f5c5a07-a2fc-505b-b349-05b3754a17b0",
