@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654648869
+    "timestamp": 1654656477
   },
   "vtbs": [
     {
@@ -39595,6 +39595,24 @@
       "name": {
         "extra": [],
         "cn": "新野瑶衣",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f632912e-b141-5765-9f99-2a6ead13e0c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "66261012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "方块上的枕木酱",
+        "en": "MakuragiWood",
         "default": "cn"
       }
     },
