@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654704261
+    "timestamp": 1654757315
   },
   "vtbs": [
     {
@@ -13948,6 +13948,23 @@
       "name": {
         "extra": [],
         "cn": "一水还宗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e748560e-a71f-5286-9e4e-8818f033d904",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2075874",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一澄_Izumi",
         "default": "cn"
       }
     },
