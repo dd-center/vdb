@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654822562
+    "timestamp": 1654822597
   },
   "vtbs": [
     {
@@ -78808,6 +78808,23 @@
       "name": {
         "extra": [],
         "cn": "铃屋Dust",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8cc68ea7-9c57-5343-9eec-21fa01177c40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2305653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃当Reito",
         "default": "cn"
       }
     },
