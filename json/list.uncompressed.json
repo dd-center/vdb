@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654757315
+    "timestamp": 1654822562
   },
   "vtbs": [
     {
@@ -6929,6 +6929,25 @@
         "en": "Sunatte",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1966003456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "StarDust星云社",
+        "en": "StarDustProject",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "2a539dd2-fb7d-578c-8730-153bb8874a62",
@@ -18994,6 +19013,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "95d195b1-adaf-570d-8b5d-a3e55f37addb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1576765151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔宝Rabbit・v",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "8e09ec71-f466-5ce3-b3b3-65c2a0931ef3",
@@ -38042,6 +38079,24 @@
       }
     },
     {
+      "uuid": "a939649c-790e-59ab-9c44-adf235d09f76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "172427807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠米Umii",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
+    },
+    {
       "uuid": "d770b0dc-e38f-5d82-bfa0-492f7c32db98",
       "type": "vtuber",
       "bot": false,
@@ -42539,6 +42594,24 @@
         "default": "cn"
       },
       "group": "464d8696-2f1b-55f2-8091-d4b53ae1df4c"
+    },
+    {
+      "uuid": "f318cb5d-ce44-5161-a4bb-384c85ebd025",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1806974352",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野澪_Mio",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "f9b4f0fd-141f-558d-9950-a5957a13823c",
