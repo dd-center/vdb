@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1654925155
+    "timestamp": 1654931233
   },
   "vtbs": [
     {
@@ -17422,6 +17422,24 @@
         "cn": "伊月猫凛",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a0dfe45c-5bfd-5c8a-93f2-ac06eb5b34df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35806727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊橙Yzumi",
+        "default": "cn"
+      },
+      "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
     },
     {
       "uuid": "1136fefe-98cf-5fb5-95ca-a7c5d09e8262",
