@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655096979
+    "timestamp": 1655097084
   },
   "vtbs": [
     {
@@ -73351,6 +73351,24 @@
         "en": "Haku",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fa99c4f0-178b-54ec-bab9-fcca207c92a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1844389965",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "葵西西April",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52"
     },
     {
       "uuid": "ee0b969e-55e1-5e32-92d5-a4a49845f9ae",
