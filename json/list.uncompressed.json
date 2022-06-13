@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655097084
+    "timestamp": 1655115323
   },
   "vtbs": [
     {
@@ -81874,6 +81874,23 @@
       "name": {
         "extra": [],
         "cn": "雾川狐尧",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b41a2735-577c-5727-b80f-2d537faad188",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1305578223",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾无无Official",
         "default": "cn"
       }
     },
