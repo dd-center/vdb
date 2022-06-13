@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655115323
+    "timestamp": 1655142565
   },
   "vtbs": [
     {
@@ -53377,6 +53377,23 @@
       "name": {
         "extra": [],
         "cn": "海苹果小学校",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0fe2287a-eb11-565b-9247-0e2e87be3032",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "295047677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海葵Noah",
         "default": "cn"
       }
     },
