@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655078668
+    "timestamp": 1655096979
   },
   "vtbs": [
     {
@@ -36157,6 +36157,24 @@
         "cn": "幻海玲岚w",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f05c939b-f75a-51fd-aae4-949150898869",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40386896",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻空_Sora",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "3e30ff99-6bd1-5b43-b059-7535885ab186",
