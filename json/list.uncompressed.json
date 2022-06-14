@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655177844
+    "timestamp": 1655178351
   },
   "vtbs": [
     {
@@ -39299,6 +39299,23 @@
         "jp": "招福にゃこ",
         "cn": "招福Nyako",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "b460cd2a-8871-52e4-ad0e-1a6ef681b5eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1749046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "括号笑叔",
+        "default": "cn"
       }
     },
     {
