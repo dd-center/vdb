@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655185208
+    "timestamp": 1655187634
   },
   "vtbs": [
     {
@@ -8213,6 +8213,33 @@
       "name": {
         "extra": [],
         "cn": "Yu酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b55f4d7f-7863-5618-8a82-bbe13e74d0e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9638159",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "427909325",
+          "type": "official",
+          "platform": "163music"
+        },
+        {
+          "id": "5103974015",
+          "type": "official",
+          "platform": "weibo"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Yvaine可可",
         "default": "cn"
       }
     },
