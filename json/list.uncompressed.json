@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655184881
+    "timestamp": 1655184904
   },
   "vtbs": [
     {
@@ -34097,6 +34097,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "bac25aa0-e072-5b6c-a1e1-b80b0204b471",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "562935153",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鹿比酱又迷路啦",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a6c73fb7-26de-5407-b2a3-28152321eca6",
