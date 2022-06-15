@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655276851
+    "timestamp": 1655305469
   },
   "vtbs": [
     {
@@ -80466,6 +80466,23 @@
       "name": {
         "extra": [],
         "cn": "阿雾Awu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "97fa9a14-297a-5f3e-93f2-69f5c3e27ef4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1795716989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿鹤-Crane",
         "default": "cn"
       }
     },
