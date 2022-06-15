@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655276352
+    "timestamp": 1655276396
   },
   "vtbs": [
     {
@@ -22278,6 +22278,24 @@
         "cn": "千羽黑乃official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0b10c32a-ce5d-5169-9b6a-dbc039262f98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5658712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千耘official",
+        "default": "cn"
+      },
+      "group": "4477f316-79c8-5474-8933-4a047319c17e"
     },
     {
       "uuid": "66f4de29-9562-5db3-86df-29ae968d362c",
@@ -50394,6 +50412,24 @@
       }
     },
     {
+      "uuid": "4477f316-79c8-5474-8933-4a047319c17e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6789240",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风云奆奆",
+        "default": "cn"
+      },
+      "group": "4477f316-79c8-5474-8933-4a047319c17e"
+    },
+    {
       "uuid": "33fac334-ab26-5e3c-a947-9b61a2581157",
       "type": "vtuber",
       "bot": false,
@@ -59049,6 +59085,24 @@
         "cn": "璃依Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "09cd3bcc-fedd-5192-9c41-bb2e56919ae2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2132912895",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "璃奈LNai",
+        "default": "cn"
+      },
+      "group": "4477f316-79c8-5474-8933-4a047319c17e"
     },
     {
       "uuid": "e3a3bbd8-5cc3-5d67-b4f1-1acaa43059d8",
@@ -69873,6 +69927,23 @@
       }
     },
     {
+      "uuid": "d2eaa3bf-d81a-514f-b495-900b4ff9e344",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17992194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芝士饿晕了耶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "25315342-eaf9-5d74-9b9c-89e896a298d7",
       "type": "vtuber",
       "bot": false,
@@ -75888,6 +75959,23 @@
         "default": "cn"
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee"
+    },
+    {
+      "uuid": "6555e50c-6c54-5cd6-b8a4-ef18b8494254",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7664000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "貓小涼nya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f198a457-8b81-5505-a41d-11c47025c007",
