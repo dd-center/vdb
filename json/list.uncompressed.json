@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655276745
+    "timestamp": 1655276851
   },
   "vtbs": [
     {
@@ -28296,6 +28296,23 @@
         "default": "cn"
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
+    },
+    {
+      "uuid": "5a14a317-7268-5c5b-9d6e-f72b6fc2cb2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1048095329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜行性あんこ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9e61cf82-96f9-5c6b-90c8-702bf8825f17",
@@ -81122,6 +81139,23 @@
         "default": "cn"
       },
       "group": "987f6e87-c3ef-5c17-8079-5dfdab027074"
+    },
+    {
+      "uuid": "d177e2fa-7630-5e29-808c-ecd61ff49377",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "129946331",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨诉夏是",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b138e992-8b6b-5c18-8ca2-b5becb4ec584",
