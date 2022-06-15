@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655187634
+    "timestamp": 1655276352
   },
   "vtbs": [
     {
@@ -36847,6 +36847,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "67ae3491-4831-59cb-aa84-c0bd92092500",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6433651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "弥栄クアム_YaSaka",
+        "default": "jp"
+      }
     },
     {
       "uuid": "068f5464-fa7d-5296-9f8c-7acc595f6f1f",
