@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655368339
+    "timestamp": 1655431656
   },
   "vtbs": [
     {
@@ -67158,6 +67158,23 @@
       "name": {
         "extra": [],
         "cn": "纱布文轻子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "71204c43-e46b-5d77-8035-fc3f96a0c652",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1543083238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱箬sariel",
         "default": "cn"
       }
     },
