@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655883359
+    "timestamp": 1655883878
   },
   "vtbs": [
     {
@@ -28064,6 +28064,23 @@
       "name": {
         "extra": [],
         "cn": "夜月Yotsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c00967c-e9ad-526b-94ac-eb8f68b83117",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "136322951",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜月心音",
         "default": "cn"
       }
     },
