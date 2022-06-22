@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655884614
+    "timestamp": 1655884635
   },
   "vtbs": [
     {
@@ -23411,6 +23411,23 @@
         "default": "cn"
       },
       "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
+    },
+    {
+      "uuid": "295ac537-fc81-5ba2-87e3-ad2bd92dd777",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1942864208",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡萝尔Akuma",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c53293b8-6aa4-5668-b2d3-774cf86d211f",
