@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655884926
+    "timestamp": 1655884963
   },
   "vtbs": [
     {
@@ -53217,6 +53217,24 @@
         "cn": "泰蕾莎",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fcae0bc8-85b2-5ba2-8d22-e7763eaf192a",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1806427738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泷滨_Official",
+        "default": "cn"
+      },
+      "group": "fcae0bc8-85b2-5ba2-8d22-e7763eaf192a"
     },
     {
       "uuid": "1808e2a5-c84e-5643-8a73-46f730be48d2",
