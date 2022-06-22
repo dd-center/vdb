@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655883103
+    "timestamp": 1655883288
   },
   "vtbs": [
     {
@@ -1041,6 +1041,23 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
+    },
+    {
+      "uuid": "3854fe46-f4af-5a1c-9617-61f1914a55ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1283658",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ara手一滑_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "941f75ba-5817-5d75-ab93-5c547f44bfb9",
