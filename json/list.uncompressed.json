@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655759412
+    "timestamp": 1655883019
   },
   "vtbs": [
     {
@@ -74051,6 +74051,23 @@
       "name": {
         "extra": [],
         "cn": "蓝皓冰晨Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee7dcc3a-3891-5c20-9c40-5ee8b0f744ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488053",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蓬莱寺樱花",
         "default": "cn"
       }
     },
