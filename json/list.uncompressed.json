@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655884664
+    "timestamp": 1655884698
   },
   "vtbs": [
     {
@@ -44717,6 +44717,23 @@
       "name": {
         "extra": [],
         "cn": "月見夜兰Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c63b083c-4f03-599a-8f4e-ec4b5d63e5bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690712513",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月見由奈",
         "default": "cn"
       }
     },
