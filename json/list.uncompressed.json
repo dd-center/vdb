@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655883878
+    "timestamp": 1655884264
   },
   "vtbs": [
     {
@@ -6717,6 +6717,23 @@
         "extra": [],
         "cn": "Shalala蝦拉拉_",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d93a7dc8-7d48-5797-8b7e-a935fe9d3d2f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2034172427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Shana",
+        "default": "en"
       }
     },
     {
@@ -53271,6 +53288,23 @@
       "name": {
         "extra": [],
         "cn": "洛清瑶Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e139653c-2273-5707-a97f-fa4eae0f8ed7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "106369383",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛翎lolin",
         "default": "cn"
       }
     },
