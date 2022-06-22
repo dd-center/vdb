@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655883019
+    "timestamp": 1655883053
   },
   "vtbs": [
     {
@@ -59582,6 +59582,23 @@
       "name": {
         "extra": [],
         "cn": "申䒕雅Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2f9f529a-f862-522f-a1f7-cfe515b5a209",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2022787460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "电気壳壳Kara",
         "default": "cn"
       }
     },
