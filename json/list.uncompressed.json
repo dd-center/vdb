@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655883288
+    "timestamp": 1655883322
   },
   "vtbs": [
     {
@@ -73018,6 +73018,23 @@
       "name": {
         "extra": [],
         "cn": "菟子苓Doreen_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51f0d220-648e-5c08-84c8-ac309471ca0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17799504",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菩提仔Puti",
         "default": "cn"
       }
     },
