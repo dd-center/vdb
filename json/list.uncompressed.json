@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655986148
+    "timestamp": 1656009749
   },
   "vtbs": [
     {
@@ -70402,6 +70402,23 @@
       "name": {
         "extra": [],
         "cn": "芙栗希娅Felicia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "979e35bb-fb8a-58c6-b3d6-ce92becef42d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1589833236",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙瑞free",
         "default": "cn"
       }
     },
