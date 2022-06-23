@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655895765
+    "timestamp": 1655985764
   },
   "vtbs": [
     {
@@ -80483,6 +80483,25 @@
         "cn": "阿媂娅",
         "jp": "アティア",
         "en": "Artia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5167ce56-dfc8-5482-9dd4-f8ee5265e1f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "51299730",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "阿嬉"
+        ],
+        "cn": "阿嬉不甜了",
         "default": "cn"
       }
     },
