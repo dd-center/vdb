@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655985764
+    "timestamp": 1655985994
   },
   "vtbs": [
     {
@@ -51923,6 +51923,40 @@
         "default": "jp"
       },
       "group": "62f90b65-e8cd-54b1-bae2-ed0fc47d063c"
+    },
+    {
+      "uuid": "3578673d-acf6-5e71-8a6b-7c02c2cb949d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1528953296",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MizuhaneSora",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCF7bh0hs92ASGjt3iIMq5fw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "sora_mizuhane",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水羽空",
+        "jp": "水羽そら",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "5c0c33a7-936f-5c52-824e-aee0ec640cde",
