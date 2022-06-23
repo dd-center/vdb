@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1655985994
+    "timestamp": 1655986069
   },
   "vtbs": [
     {
@@ -53922,6 +53922,40 @@
         "cn": "海离",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5c61e3ea-9eeb-5c54-a210-b5f5155e4ad9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1116286149",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kaidouanone",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCCWf-ulPCiuMr5MtULCyKbw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "https://fanicon.net/fancommunities/4410",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海童亚奈子",
+        "jp": "海童あのね",
+        "default": "cn"
+      },
+      "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
       "uuid": "b5cd7ee8-2354-596c-8883-b6d63a59c55d",
