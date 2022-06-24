@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656063669
+    "timestamp": 1656063816
   },
   "vtbs": [
     {
@@ -58683,6 +58683,23 @@
         "extra": [],
         "cn": "珈百璃_Official",
         "jp": "がぶりえる",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c7b79c1-e54b-539e-9438-06a6f44d9813",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1713770620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珈诺Kano",
         "default": "cn"
       }
     },
