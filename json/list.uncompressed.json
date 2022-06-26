@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656223354
+    "timestamp": 1656223495
   },
   "vtbs": [
     {
@@ -17421,6 +17421,24 @@
         "cn": "伊可璐echo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d572edb3-b67c-553b-95be-5efee3d440cb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1632064048",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊吹千代",
+        "default": "cn"
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "a3e1795e-a3a5-512c-b016-98f84dfd3658",
