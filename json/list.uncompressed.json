@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656322283
+    "timestamp": 1656396132
   },
   "vtbs": [
     {
@@ -44917,6 +44917,34 @@
       "name": {
         "extra": [],
         "cn": "月纱_Lilith",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "860ef0c7-bd7e-55c6-bc66-30c57ca8e330",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1742355199",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MunMosh",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC7cZJOAJZD1W4aOfqnRgWiA",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月萌诗由",
+        "jp": "むんもっしゅ",
         "default": "cn"
       }
     },
