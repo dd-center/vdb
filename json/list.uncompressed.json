@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656396132
+    "timestamp": 1656396176
   },
   "vtbs": [
     {
@@ -25820,6 +25820,34 @@
         "default": "cn"
       },
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
+    },
+    {
+      "uuid": "56b5d934-5f0d-5c0d-b428-4743f8431a52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1231880683",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yuimaru_1031",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCiw0IHf0T1XWNDgTOA57CbQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唯茉瑠",
+        "jp": "ゆいまるちゃん",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1399f491-19a9-5857-a82c-3a6780283f90",
