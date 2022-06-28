@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656433850
+    "timestamp": 1656448584
   },
   "vtbs": [
     {
@@ -75802,6 +75802,23 @@
         "default": "cn"
       },
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
+    },
+    {
+      "uuid": "887600c3-8bfe-5817-b348-3a7e6eca96b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1270055263",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶理紗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "31f7cc01-b423-5189-9145-dc18f0f36c89",
