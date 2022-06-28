@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656396176
+    "timestamp": 1656396235
   },
   "vtbs": [
     {
@@ -50830,6 +50830,34 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "a488f9ed-c3d0-5392-bab5-c5346889dc14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1719558482",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "sakura_n753",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC0GErsdTh7BijpLG7Qd-gpQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱和",
+        "jp": "桜なごみ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "15e7d51c-6246-5dd0-8398-8b791c812684",
