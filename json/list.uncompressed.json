@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656493607
+    "timestamp": 1656494037
   },
   "vtbs": [
     {
@@ -46868,6 +46868,23 @@
       "name": {
         "extra": [],
         "cn": "杨远洛里斯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "149635d0-fb53-5db8-8f03-b78c1f906588",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9264492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杰池莉尔-Succubus",
         "default": "cn"
       }
     },
