@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656448584
+    "timestamp": 1656493607
   },
   "vtbs": [
     {
@@ -65284,6 +65284,35 @@
         "default": "cn"
       },
       "group": "da74be58-904f-586f-99f3-49f26c496892"
+    },
+    {
+      "uuid": "c1edbce7-2557-57b4-93b5-19bfb3c5f80d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1491057187",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KuumaMireille",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCUUjykb68Lf85CbWX6gAmog",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空真密丽",
+        "jp": "クウマ ミレイ",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "98e02d32-6ce1-5db6-a7ea-153ab2074a39",
