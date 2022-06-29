@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656494126
+    "timestamp": 1656494175
   },
   "vtbs": [
     {
@@ -16853,6 +16853,23 @@
       "name": {
         "extra": [],
         "cn": "井野川歌鈴",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c43e46a-a728-5967-a4ff-106465f0877d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "242067082",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亚亚喵Aya",
         "default": "cn"
       }
     },
