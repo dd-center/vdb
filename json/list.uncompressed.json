@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656534105
+    "timestamp": 1656535129
   },
   "vtbs": [
     {
@@ -67996,6 +67996,23 @@
       "name": {
         "extra": [],
         "cn": "纪代因果_Inga",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0dcbb40-58f8-5f25-b517-8d6db27cbf38",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1227964496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱夏sayaka",
         "default": "cn"
       }
     },
