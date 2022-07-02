@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656535129
+    "timestamp": 1656731804
   },
   "vtbs": [
     {
@@ -53561,6 +53561,23 @@
       "name": {
         "extra": [],
         "cn": "波娜娜豹豹子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0eedf1bf-e7e6-5973-8a04-07abbc8d8ed1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1769370346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波音学姐180",
         "default": "cn"
       }
     },
