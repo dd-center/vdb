@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656825483
+    "timestamp": 1656985670
   },
   "vtbs": [
     {
@@ -5938,6 +5938,24 @@
         "default": "en"
       },
       "group": "303f0327-99b2-5643-bbb6-23c48d2a613a"
+    },
+    {
+      "uuid": "e94c397a-eb34-56c9-a0cf-051bccc0dab4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1247559638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Project-Hilda",
+        "default": "cn"
+      },
+      "group": "e94c397a-eb34-56c9-a0cf-051bccc0dab4"
     },
     {
       "uuid": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
@@ -38148,6 +38166,24 @@
         "cn": "德沃莉DevolyChannel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f0366c2e-b3aa-512a-83e8-32b6b995da26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1494109995",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德莉亚-沃尔夫",
+        "default": "cn"
+      },
+      "group": "e94c397a-eb34-56c9-a0cf-051bccc0dab4"
     },
     {
       "uuid": "3fba33d2-829a-585c-b6d9-5514bc362324",
