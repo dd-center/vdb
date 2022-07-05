@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1656985670
+    "timestamp": 1657031615
   },
   "vtbs": [
     {
@@ -42948,6 +42948,23 @@
       "name": {
         "extra": [],
         "cn": "星织灯Akariii",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "23b789e7-5783-5e1c-9697-df8c4873e7a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2828592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星罗月兔",
         "default": "cn"
       }
     },
