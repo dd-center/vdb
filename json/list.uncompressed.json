@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657198605
+    "timestamp": 1657198664
   },
   "vtbs": [
     {
@@ -35814,6 +35814,24 @@
       "name": {
         "extra": [],
         "cn": "巴班尼特尔晴",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f82c2752-e3b8-51f7-b219-f065efd5e751",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1588646945",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巴绮",
+        "en": "Baki",
         "default": "cn"
       }
     },
