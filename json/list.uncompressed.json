@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657198395
+    "timestamp": 1657198447
   },
   "vtbs": [
     {
@@ -76379,6 +76379,23 @@
       "name": {
         "extra": [],
         "cn": "血色星辰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b33b5eb3-3156-5c91-bca4-61496aebdd2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "282875499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "衣娅",
         "default": "cn"
       }
     },
