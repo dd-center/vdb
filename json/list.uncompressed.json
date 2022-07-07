@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657198664
+    "timestamp": 1657198748
   },
   "vtbs": [
     {
@@ -3465,6 +3465,23 @@
       "name": {
         "extra": [],
         "cn": "Kekon",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "773e16ef-d237-54e4-bab6-81f64c8453b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2059201075",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Kiko_Official",
         "default": "cn"
       }
     },
