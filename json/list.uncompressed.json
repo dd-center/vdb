@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657198447
+    "timestamp": 1657198493
   },
   "vtbs": [
     {
@@ -54583,6 +54583,23 @@
         "default": "cn"
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
+    },
+    {
+      "uuid": "5e5cc39c-4a96-5436-9d1f-8a9c5d7a0323",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "629350367",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海胆黑二号机",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b5cd7ee8-2354-596c-8883-b6d63a59c55d",
