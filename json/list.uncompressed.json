@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657258316
+    "timestamp": 1657258534
   },
   "vtbs": [
     {
@@ -5192,6 +5192,23 @@
       "name": {
         "extra": [],
         "cn": "Nico莉莉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc816948-f5ed-5a9c-a51f-910fe2fae374",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1329085897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nightinnn",
         "default": "cn"
       }
     },
