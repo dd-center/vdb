@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657258278
+    "timestamp": 1657258316
   },
   "vtbs": [
     {
@@ -72543,6 +72543,23 @@
       "name": {
         "extra": [],
         "cn": "芳乃推Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca24948c-a418-50e0-9413-cdda536e3141",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12344466",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芷小菡",
         "default": "cn"
       }
     },
