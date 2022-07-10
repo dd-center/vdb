@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657379183
+    "timestamp": 1657478020
   },
   "vtbs": [
     {
@@ -81793,6 +81793,23 @@
         "extra": [],
         "CN": "阿芙兰娜",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "a439702d-7982-5aa1-aaed-baf005664c9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "82134582",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿芙罗拉Lola",
+        "default": "cn"
       }
     },
     {
