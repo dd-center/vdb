@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887617
+    "timestamp": 1657887700
   },
   "vtbs": [
     {
@@ -51869,6 +51869,23 @@
       }
     },
     {
+      "uuid": "a3b533a7-579b-5f06-a627-39e3814d33bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13089665",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙子miu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "02c1e0a3-0cf3-5ef6-965d-1c4ef75e2207",
       "type": "vtuber",
       "bot": false,
@@ -53633,6 +53650,23 @@
       "name": {
         "extra": [],
         "cn": "河豚不是海豚音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "30edcb83-d112-5bf2-8d2e-87e3df9cc5ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1583419290",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泉音夢Nemu",
         "default": "cn"
       }
     },
