@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657888202
+    "timestamp": 1657888249
   },
   "vtbs": [
     {
@@ -73361,6 +73361,43 @@
         "cn": "范塞尼尔",
         "en": "VamSenior",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "121a276a-a4d6-5a4d-be8f-787bd9d53e10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1476883988",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCkxoYbRDfOiK9830d54Bg_A",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "chigaya_ame",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://twitcasting.tv/chigaya_ame",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "FR45XDXVFRP?ref_=wl_share",
+          "type": "official",
+          "platform": "amazon.co.jp"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "茅谷あめ",
+        "default": "jp"
       }
     },
     {
