@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887303
+    "timestamp": 1657887356
   },
   "vtbs": [
     {
@@ -36338,6 +36338,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "5b0825b7-d48b-5360-a5d8-4e03a2b3e5dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16649310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希莉娅CCelia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a5e154c8-6ba0-5d0d-b387-4069c4fce216",
