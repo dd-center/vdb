@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887726
+    "timestamp": 1657887794
   },
   "vtbs": [
     {
@@ -4898,6 +4898,18 @@
       "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
     },
     {
+      "uuid": "1689a361-899d-5037-bd95-c45c3adaae15",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "en": "NHOTBOT",
+        "default": "en"
+      },
+      "group": "1689a361-899d-5037-bd95-c45c3adaae15"
+    },
+    {
       "uuid": "48e663ba-f429-5396-bc95-0403c6e4be98",
       "type": "vtuber",
       "bot": false,
@@ -7540,6 +7552,24 @@
         "default": "en"
       },
       "group": "466b2417-38ec-5162-8b5e-82ea6eabcef3"
+    },
+    {
+      "uuid": "eeb5b109-b276-5723-9793-5baec546c911",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1523315824",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "UzuMe舞紫梦",
+        "default": "cn"
+      },
+      "group": "1689a361-899d-5037-bd95-c45c3adaae15"
     },
     {
       "uuid": "852cbe7e-95b1-5301-871b-25a53a8da777",
@@ -43179,6 +43209,24 @@
         "cn": "星罗月兔",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9f9169f5-b1c8-5914-a53e-9a7b17b4ae76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1548880519",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星罗薄荷",
+        "default": "cn"
+      },
+      "group": "1689a361-899d-5037-bd95-c45c3adaae15"
     },
     {
       "uuid": "c3657f6c-40a1-5bac-bbd2-4211d11919a0",
@@ -82934,6 +82982,24 @@
         "cn": "雨诉夏是",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "161b5ae5-a5ac-5f15-8df1-392c7f4ede4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2139886807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨音月奈",
+        "default": "cn"
+      },
+      "group": "1689a361-899d-5037-bd95-c45c3adaae15"
     },
     {
       "uuid": "b138e992-8b6b-5c18-8ca2-b5becb4ec584",
