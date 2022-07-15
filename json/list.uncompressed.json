@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887356
+    "timestamp": 1657887378
   },
   "vtbs": [
     {
@@ -39722,6 +39722,24 @@
         "cn": "我妻雪橙",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2feb3278-3710-5261-9c47-dd8e98b24de7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1710581961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "zh": "我是毛77",
+        "default": "zh"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "2ff15133-b0bb-5088-9163-a209b029d196",
