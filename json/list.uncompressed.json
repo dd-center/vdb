@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657891112
+    "timestamp": 1657892867
   },
   "vtbs": [
     {
@@ -1386,6 +1386,35 @@
         "extra": [],
         "en": "BiBiDao",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "78dce903-a9c2-5dde-a5cc-9986f302475c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1487567861",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCM-2SLEsFuST9rxUsADMvgQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Bibibi_Vtuber",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "微々微みくろ",
+        "en": "Bibibi Micro",
+        "cn": "微微微",
+        "default": "jp"
       }
     },
     {
@@ -20970,6 +20999,23 @@
         "extra": [],
         "CN": "凛音秀吉",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "ae559ed0-261c-5bc0-abb8-3eef366c5d2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1220317431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凜凜蝶凜",
+        "default": "cn"
       }
     },
     {
@@ -70691,6 +70737,23 @@
       }
     },
     {
+      "uuid": "b671611a-dca2-593a-afd0-2807ece488ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19653835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "良小辰Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ddb3a443-d855-5c71-80e4-91bcdd792174",
       "type": "vtuber",
       "bot": false,
@@ -73814,6 +73877,24 @@
         "cn": "荀异",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "62ee55f0-269b-5a55-9e70-442c43b75c7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3914363",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荆棘鸟-纳星Nothing",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "7812f645-e4fe-51d1-9f5e-885e787d4a6d",
