@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887393
+    "timestamp": 1657887413
   },
   "vtbs": [
     {
@@ -67311,6 +67311,23 @@
       "name": {
         "extra": [],
         "cn": "紗耶_sayako",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cba3bc49-f770-56af-9557-2c64570be26c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "46225073",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紘雪Hiroyuki",
         "default": "cn"
       }
     },
