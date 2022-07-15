@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887794
+    "timestamp": 1657888202
   },
   "vtbs": [
     {
@@ -1127,23 +1127,6 @@
         "default": "en"
       },
       "group": "9397afca-d6a2-5519-986d-dca40a94f813"
-    },
-    {
-      "uuid": "4416ac8f-eec0-5e47-878f-e71acd1c4ea0",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3802666",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Ask是Asuka",
-        "default": "cn"
-      }
     },
     {
       "uuid": "5e8abe81-cffe-59b8-91c4-c1a07b737c7b",
@@ -8636,6 +8619,23 @@
         "default": "cn"
       },
       "group": "6fb3fa4d-5741-5602-b538-0117b8a90348"
+    },
+    {
+      "uuid": "2b750d24-7fd0-52d7-aba4-2075b91a45ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3802666",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn，en": "ask是asuka",
+        "default": "cn，en"
+      }
     },
     {
       "uuid": "0d9ff8e0-6301-5e61-8ad8-bd63f5f9e03c",
