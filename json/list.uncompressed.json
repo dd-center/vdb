@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657478020
+    "timestamp": 1657875843
   },
   "vtbs": [
     {
@@ -84721,6 +84721,23 @@
       "name": {
         "extra": [],
         "cn": "音艾纱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d48fd70b-34d9-566f-a6c9-3eeef642259d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628567827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音音小肥羊",
         "default": "cn"
       }
     },
