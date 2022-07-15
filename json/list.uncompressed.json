@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657888521
+    "timestamp": 1657891112
   },
   "vtbs": [
     {
@@ -29874,6 +29874,23 @@
       "name": {
         "extra": [],
         "cn": "天才小尾仙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f339a71-79b6-5aa4-aadf-1a45b7929e58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "278406849",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天才果奶",
         "default": "cn"
       }
     },
