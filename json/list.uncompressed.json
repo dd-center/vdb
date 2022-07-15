@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657888492
+    "timestamp": 1657888521
   },
   "vtbs": [
     {
@@ -43527,6 +43527,23 @@
       }
     },
     {
+      "uuid": "19ea7624-891c-52ff-b188-da8635cda57c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1743015",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星越Koshi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8f769094-5619-5057-81a9-9ee3484e4d9b",
       "type": "vtuber",
       "bot": false,
@@ -45732,6 +45749,23 @@
       "name": {
         "extra": [],
         "cn": "月霖_咕咕",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "32c1a468-095f-50d0-b3bf-c68e1a3301b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1692720413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月食mooneat",
         "default": "cn"
       }
     },
