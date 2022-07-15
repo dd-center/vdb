@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1657887209
+    "timestamp": 1657887237
   },
   "vtbs": [
     {
@@ -26503,6 +26503,23 @@
       "group": "a0ee759e-2876-5954-a8fd-fb8bf8db84d2"
     },
     {
+      "uuid": "02d934ce-2963-548e-97fc-a3b2d14a60e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1300801804",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "噜玛RUMA_channel": "",
+        "default": "噜玛RUMA_channel"
+      }
+    },
+    {
       "uuid": "e3132f27-7b99-5983-9224-e68475e3ffac",
       "type": "vtuber",
       "bot": false,
@@ -34814,6 +34831,23 @@
       "name": {
         "extra": [],
         "cn": "尤尤-official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f417ed0-2df2-522c-b101-a1f93dcdd6bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1442355434",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤弥尔帕_Channel",
         "default": "cn"
       }
     },
