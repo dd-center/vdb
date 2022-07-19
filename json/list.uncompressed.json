@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208123
+    "timestamp": 1658208261
   },
   "vtbs": [
     {
@@ -8978,6 +8978,29 @@
         "jp": "羽月奏ちゆ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "4d66bbfb-bee8-59ec-88f6-495507330f10",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "hitorino_tv",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hitorino_JP",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "hitorino",
+        "default": "en"
+      },
+      "group": "4d66bbfb-bee8-59ec-88f6-495507330f10"
     },
     {
       "uuid": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
@@ -31851,6 +31874,26 @@
       }
     },
     {
+      "uuid": "6d72e2cf-961c-5339-a5ad-5fc942f60025",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13376066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嫒法·艾克赛尔",
+        "jp": "エヴァ·エクシル",
+        "en": "Eva Exile",
+        "default": "cn"
+      },
+      "group": "4d66bbfb-bee8-59ec-88f6-495507330f10"
+    },
+    {
       "uuid": "97336fc7-5a43-5523-9705-bcb423b81366",
       "type": "vtuber",
       "bot": true,
@@ -54490,6 +54533,25 @@
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
     },
     {
+      "uuid": "8069d99c-3d89-5e44-ac6d-4c649f4de4ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1968806678",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洲上光",
+        "jp": "すのうえひかり",
+        "default": "cn"
+      },
+      "group": "4d66bbfb-bee8-59ec-88f6-495507330f10"
+    },
+    {
       "uuid": "2ff9e911-d192-59be-ac52-e52e5fef3422",
       "type": "vtuber",
       "bot": false,
@@ -58796,7 +58858,8 @@
         "extra": [],
         "cn": "猫竹璃星",
         "default": "cn"
-      }
+      },
+      "group": "4d66bbfb-bee8-59ec-88f6-495507330f10"
     },
     {
       "uuid": "264e7f18-61f7-5917-a392-6b7533f4f893",
