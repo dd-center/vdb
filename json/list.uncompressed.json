@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658158094
+    "timestamp": 1658207984
   },
   "vtbs": [
     {
@@ -75742,6 +75742,35 @@
         "default": "cn"
       },
       "group": "e85f1e0a-82b5-532f-beac-5bff83b7b905"
+    },
+    {
+      "uuid": "3b6c8bc3-8969-5eae-8fdb-ec42adafbd12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1589583375",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Lea_wactor",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCLrvv6cTzFRnM4DSfHynS8w",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾娅",
+        "jp": "レア",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407"
     },
     {
       "uuid": "d11a0fd3-c773-503f-aae5-18e9ad3ac3d0",
