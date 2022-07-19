@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208684
+    "timestamp": 1658208768
   },
   "vtbs": [
     {
@@ -31927,6 +31927,23 @@
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
     },
     {
+      "uuid": "733ada49-634a-5c13-8627-bddfcfdd1eb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "432194062",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "娜露Neru_Official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "207f5977-81d8-5d82-8c5a-a5f37c3740f4",
       "type": "vtuber",
       "bot": false,
@@ -43888,6 +43905,23 @@
       "name": {
         "extra": [],
         "cn": "星野光-VTuber-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df80cd29-8a4f-578c-ae1a-31b83ec06136",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1952756215",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野娜_",
         "default": "cn"
       }
     },
