@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658207984
+    "timestamp": 1658208044
   },
   "vtbs": [
     {
@@ -70047,6 +70047,23 @@
       "name": {
         "extra": [],
         "cn": "羽织希_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aaf587a1-09d6-55ab-8508-11dc92513854",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39952788",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽蝶酥酥今天被吃了嘛",
         "default": "cn"
       }
     },
