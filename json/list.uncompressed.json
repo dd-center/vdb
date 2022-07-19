@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208398
+    "timestamp": 1658208457
   },
   "vtbs": [
     {
@@ -87558,6 +87558,23 @@
         "default": "cn"
       },
       "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5"
+    },
+    {
+      "uuid": "897edb11-068d-515d-ac56-1a34e02b86a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50570234",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸡蛋小布丁",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8d9f526d-42b7-5a5c-958f-5e83782c2aea",
