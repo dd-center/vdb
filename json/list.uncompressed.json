@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208481
+    "timestamp": 1658208523
   },
   "vtbs": [
     {
@@ -55613,6 +55613,23 @@
       "name": {
         "extra": [],
         "cn": "渚九主-雪Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d07ea7bb-adaf-5bb7-9fd8-cc879fbdc275",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1865655717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "渡筱黎shinori",
         "default": "cn"
       }
     },
