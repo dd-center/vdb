@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208457
+    "timestamp": 1658208481
   },
   "vtbs": [
     {
@@ -27159,6 +27159,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "68b14605-641b-540c-9bca-3fdc69b36877",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519445886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔尼桠Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "26beac47-77d4-5abf-b08c-74b3dbea5226",
