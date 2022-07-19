@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208523
+    "timestamp": 1658208555
   },
   "vtbs": [
     {
@@ -50586,6 +50586,23 @@
         "extra": [],
         "cn": "棉心Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9a6659e-0305-50b0-8ee2-a51dd5dde51a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1816653243",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "棉花糖ame",
+        "default": "jp"
       }
     },
     {
