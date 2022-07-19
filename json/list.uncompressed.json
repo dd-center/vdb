@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208555
+    "timestamp": 1658208598
   },
   "vtbs": [
     {
@@ -3759,6 +3759,23 @@
         "extra": [],
         "jp": "Liberate Anime Studio",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "fd33a833-28ef-5b34-a65d-67d1be85126a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "400128632",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Lily-Official",
+        "default": "CN"
       }
     },
     {
