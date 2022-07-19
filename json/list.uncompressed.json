@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208078
+    "timestamp": 1658208123
   },
   "vtbs": [
     {
@@ -23802,6 +23802,23 @@
         "default": "cn"
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+    },
+    {
+      "uuid": "d2f3df83-0c4e-5524-8ebd-7ec7e1fd887b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1071969272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卢塔斐雅Lutafia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7d537640-6df1-588c-9b7f-61358d080774",
@@ -49965,24 +49982,6 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
-    },
-    {
-      "uuid": "84d17ca3-de94-5084-9afa-41e0d9f48652",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1673451542",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "梅希德丝Mercedes",
-        "default": "cn"
-      },
-      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "a080a654-108f-543a-9465-112843dc5360",
