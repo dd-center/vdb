@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658289476
+    "timestamp": 1658289518
   },
   "vtbs": [
     {
@@ -25652,6 +25652,23 @@
       }
     },
     {
+      "uuid": "0d147235-ea26-5533-9334-6b3fb06ea5fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1763828391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "和裕official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "03e5db22-f42b-57a1-b034-48a7f5642d8a",
       "type": "group",
       "bot": false,
@@ -40769,6 +40786,23 @@
       }
     },
     {
+      "uuid": "4fb48680-3cbf-547f-84ec-a71a4540b2f3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8918512",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "教父白静羽",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e6fb26ff-c7ae-5ea0-8b61-09f032a79259",
       "type": "vtuber",
       "bot": false,
@@ -49145,6 +49179,23 @@
       "name": {
         "extra": [],
         "cn": "栗卡小行星Rii",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b7d9cbd-1edb-5038-8380-dce6d3fa8b07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "255593788",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗原南_minami",
         "default": "cn"
       }
     },
