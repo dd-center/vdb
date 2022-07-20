@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658208900
+    "timestamp": 1658289311
   },
   "vtbs": [
     {
@@ -17058,6 +17058,23 @@
         "extra": [],
         "jp": "五十嵐イツツ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "855c87d7-ab8a-50d8-8951-0953097565ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16059520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五彩呆鸟咩Official",
+        "default": "cn"
       }
     },
     {
