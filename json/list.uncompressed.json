@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658289926
+    "timestamp": 1658290117
   },
   "vtbs": [
     {
@@ -3364,6 +3364,24 @@
         "cn": "KONO零牙哒",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50710770",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "KOT",
+        "default": "en"
+      },
+      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae"
     },
     {
       "uuid": "ce8e45a7-b744-5af2-8787-5a22aa60c00f",
@@ -31343,6 +31361,23 @@
       }
     },
     {
+      "uuid": "0f5f172a-bdcf-53dd-b6e3-5ba025211a96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "342193167",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶思初",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "67b945f2-b114-5314-a96d-bb6dfacc0674",
       "type": "vtuber",
       "bot": false,
@@ -34028,6 +34063,23 @@
       "name": {
         "extra": [],
         "cn": "小恶魔channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1ea5a301-1aa7-5f4f-a54d-e4045ff0cc08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2137105227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小情緒的妲己",
         "default": "cn"
       }
     },
@@ -45322,6 +45374,25 @@
         "default": "cn"
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16"
+    },
+    {
+      "uuid": "dc5d7a22-f3bd-595b-86d0-edf2d1e12dc3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1702608639",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曦娜",
+        "en": "Soina",
+        "default": "cn"
+      },
+      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae"
     },
     {
       "uuid": "e96f8a8b-1722-5454-8713-f80599e0f1de",
@@ -60848,6 +60919,25 @@
         "default": "cn"
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b"
+    },
+    {
+      "uuid": "bce58251-f229-5816-a651-b86d4ba2dab9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "178357118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞肯",
+        "en": "RayKen",
+        "default": "cn"
+      },
+      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae"
     },
     {
       "uuid": "d4dd97e0-0a15-573b-a182-b212f9844793",
@@ -90037,6 +90127,25 @@
         "cn": "齐格鲁_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "631a5e59-1faf-58d9-bb95-7cc9a8d52f3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1802508747",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "齐绫",
+        "en": "KylinMoriaty",
+        "default": "cn"
+      },
+      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae"
     },
     {
       "uuid": "31310e50-2dd5-56c6-b584-7bc03feaaac8",
