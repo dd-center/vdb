@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658290117
+    "timestamp": 1658290154
   },
   "vtbs": [
     {
@@ -42970,6 +42970,24 @@
       }
     },
     {
+      "uuid": "4d912fc9-4c93-5340-b8e5-d60f40a59f03",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8646769",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星拉Sinra",
+        "default": "cn"
+      },
+      "group": "6acf34a1-2562-5fe3-a5e4-a4863861daa7"
+    },
+    {
       "uuid": "4a59b281-48a1-5200-92c9-6d78eadd7462",
       "type": "vtuber",
       "bot": false,
@@ -46222,7 +46240,8 @@
         "extra": [],
         "cn": "月食mooneat",
         "default": "cn"
-      }
+      },
+      "group": "6acf34a1-2562-5fe3-a5e4-a4863861daa7"
     },
     {
       "uuid": "af0eca37-1e9f-578f-bcd6-dc775299a62b",
@@ -78647,6 +78666,24 @@
         "default": "cn"
       },
       "group": "a0ee759e-2876-5954-a8fd-fb8bf8db84d2"
+    },
+    {
+      "uuid": "45a263e0-a04e-5735-879c-bd3fe812510b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "592726738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝萨Bessa",
+        "default": "cn"
+      },
+      "group": "6acf34a1-2562-5fe3-a5e4-a4863861daa7"
     },
     {
       "uuid": "47254d47-0d3a-5bae-a562-e578c5a62b6e",
