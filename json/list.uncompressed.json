@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658289348
+    "timestamp": 1658289405
   },
   "vtbs": [
     {
@@ -55542,6 +55542,23 @@
       }
     },
     {
+      "uuid": "6added79-fd39-5629-92e7-bb279470b5a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "310728619",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清梦_Kira",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a067dc5d-05e8-5451-87f7-9b4f5be7dd69",
       "type": "vtuber",
       "bot": false,
@@ -74755,6 +74772,24 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "b759f508-5abb-548f-ae84-04c2bb4f817b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "62294084",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱斯威特",
+        "en": "LieSweet",
+        "default": "cn"
+      }
     },
     {
       "uuid": "10575245-fb69-591e-9366-12311ff14848",
