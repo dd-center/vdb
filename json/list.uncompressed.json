@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658290154
+    "timestamp": 1658290200
   },
   "vtbs": [
     {
@@ -2215,6 +2215,24 @@
         "cn": "EC-03C型试作机",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "22d93676-ba23-5e64-9771-4f27291dad28",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1984540669",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ECHO-制作委员会",
+        "default": "cn"
+      },
+      "group": "22d93676-ba23-5e64-9771-4f27291dad28"
     },
     {
       "uuid": "1eed10fc-5016-5266-96c8-faf480c0cffb",
