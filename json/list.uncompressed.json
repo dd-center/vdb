@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658424935
+    "timestamp": 1658424974
   },
   "vtbs": [
     {
@@ -82815,6 +82815,24 @@
       "name": {
         "extra": [],
         "cn": "阿怖兔Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ffe41b1-519b-5c13-a567-7cf49b8ab2e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "43854370",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿斯塔",
+        "en": "Aster",
         "default": "cn"
       }
     },
