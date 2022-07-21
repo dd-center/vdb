@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658425122
+    "timestamp": 1658425194
   },
   "vtbs": [
     {
@@ -2307,6 +2307,24 @@
         "default": "cn"
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6"
+    },
+    {
+      "uuid": "d462a5cc-f3b6-54fc-9636-bbc3847c4291",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2018113152",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EOE组合",
+        "default": "cn"
+      },
+      "group": "d462a5cc-f3b6-54fc-9636-bbc3847c4291"
     },
     {
       "uuid": "a68ce9a4-bc0e-5168-9a59-c4e952134265",
@@ -40509,6 +40527,24 @@
         "default": "cn"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "3a6b33d8-8fdd-5c5c-b5bd-c61d8acd0826",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8664698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉塞Lasse",
+        "default": "cn"
+      },
+      "group": "22d93676-ba23-5e64-9771-4f27291dad28"
     },
     {
       "uuid": "ba345afb-b4b7-5c39-8e4b-cb7b8a6f07e4",
@@ -87960,6 +87996,24 @@
         "default": "cn"
       },
       "group": "9afbc338-b7f6-5fa2-ab88-4762d8ad2fa7"
+    },
+    {
+      "uuid": "b8e03e87-ed8c-5e40-9cc8-d72225d639a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1293142895",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲁鲁不想出门啊",
+        "default": "cn"
+      },
+      "group": "22d93676-ba23-5e64-9771-4f27291dad28"
     },
     {
       "uuid": "a22d805c-a956-5deb-ac3b-ff17b98ea829",
