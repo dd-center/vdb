@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658569352
+    "timestamp": 1658569439
   },
   "vtbs": [
     {
@@ -1414,23 +1414,11 @@
           "id": "1487567861",
           "type": "official",
           "platform": "bilibili"
-        },
-        {
-          "id": "UCM-2SLEsFuST9rxUsADMvgQ",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "Bibibi_Vtuber",
-          "type": "official",
-          "platform": "twitter"
         }
       ],
       "name": {
         "extra": [],
         "jp": "微々微みくろ",
-        "en": "Bibibi Micro",
-        "cn": "微微微",
         "default": "jp"
       }
     },
@@ -38809,6 +38797,35 @@
         "extra": [],
         "cn": "微子喵",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ab99a919-2b13-5d5f-bc9d-07db300bbc9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1724970345",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCM-2SLEsFuST9rxUsADMvgQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Bibibi_Vtuber",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "微々微みくろ",
+        "cn": "微微微美玖萝",
+        "en": "Bibibi Micro",
+        "default": "jp"
       }
     },
     {
