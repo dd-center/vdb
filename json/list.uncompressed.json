@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658569323
+    "timestamp": 1658569352
   },
   "vtbs": [
     {
@@ -63007,6 +63007,23 @@
         "extra": [],
         "cn": "白芷卷",
         "jp": "シロカミ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "93a6e2dc-8d5b-5953-b7eb-b72c64016f25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11512994",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白薇Vivia",
         "default": "cn"
       }
     },
