@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658569218
+    "timestamp": 1658569251
   },
   "vtbs": [
     {
@@ -8268,6 +8268,24 @@
         "default": "en"
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
+    },
+    {
+      "uuid": "df9965c7-4901-5180-9ec6-e1ef5fccb550",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1242109519",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Wildfire野火企划",
+        "default": "cn"
+      },
+      "group": "df9965c7-4901-5180-9ec6-e1ef5fccb550"
     },
     {
       "uuid": "06c65a20-8c30-59bf-be40-88b106774c06",
