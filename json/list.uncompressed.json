@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658569439
+    "timestamp": 1658585611
   },
   "vtbs": [
     {
@@ -3286,6 +3286,24 @@
         "cn": "Jason同学",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8dfeeec6-ce6b-5b8b-b90b-b2dec5a6cc7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1405060701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Jelly_Daibi",
+        "default": "en"
+      },
+      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "083005fb-4527-5c7c-903f-0718e39b602f",
@@ -9236,24 +9254,6 @@
         "cn": "i御十二",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "712304bc-e23a-5616-8ee9-82823c778b79",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1405060701",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Jelly_DAIBI",
-        "default": "en"
-      },
-      "group": "dc1aefce-ccce-5bdb-8170-e871ffaefbd6"
     },
     {
       "uuid": "73102f48-57f2-5d59-94ef-7aac41e97f65",
