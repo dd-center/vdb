@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658640899
+    "timestamp": 1658641002
   },
   "vtbs": [
     {
@@ -51833,6 +51833,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "7fa7dc52-8766-56da-b5d8-1ab59277807c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1408772106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "楽烯Roky",
+        "default": "cn"
+      }
     },
     {
       "uuid": "22ce4a4f-67f8-5c2e-b088-db2bd24abc03",
