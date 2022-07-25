@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658714975
+    "timestamp": 1658743681
   },
   "vtbs": [
     {
@@ -29534,6 +29534,23 @@
         "default": "cn"
       },
       "group": "33d285f2-b9a8-595d-a282-4a341ab9d020"
+    },
+    {
+      "uuid": "8ccb1b4c-9d27-5c7b-b6e5-671f291e710e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9248846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大玺玺子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2288aa65-4528-546c-b6f2-ec0667c8cad5",
