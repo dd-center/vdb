@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658811875
+    "timestamp": 1658811894
   },
   "vtbs": [
     {
@@ -49806,6 +49806,24 @@
         "jp": "桃ゐ咲鬼",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "7a2633e1-6cc0-5dd5-b985-3aa3d148645f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39196585",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃井桃Momoi",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52"
     },
     {
       "uuid": "2da30441-d7e8-5efb-9415-aa74cb21567c",
