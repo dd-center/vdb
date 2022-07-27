@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658890407
+    "timestamp": 1658926812
   },
   "vtbs": [
     {
@@ -70175,6 +70175,23 @@
       "name": {
         "extra": [],
         "cn": "绯叶明依",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4bb039ef-1777-591a-9012-fc7def4fa4b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "657516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯吧official",
         "default": "cn"
       }
     },
