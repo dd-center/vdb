@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1658878478
+    "timestamp": 1658890407
   },
   "vtbs": [
     {
@@ -23847,6 +23847,25 @@
         "cn": "卡塔琳娜-迈耶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "584b44a5-3fe4-5e7e-ab02-ca5f58541963",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1095818885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡尔特",
+        "en": "Curt",
+        "default": "cn"
+      },
+      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "a016f644-48f8-51cf-b115-014deeae97a7",
@@ -71841,6 +71860,25 @@
         "cn": "艾利欧斯-艾文",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d476520e-21d9-50f5-976a-7f7997bc3b54",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1887101809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾博单",
+        "en": "Ableton",
+        "default": "cn"
+      },
+      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "cc796f84-fb42-5e1c-a11c-8922c9991f90",
