@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659072167
+    "timestamp": 1659072181
   },
   "vtbs": [
     {
@@ -32837,6 +32837,24 @@
         "extra": [],
         "jp": "安奈るり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d719e56f-ec66-591b-aed7-d27e7ca8694c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688059819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安娜里",
+        "en": "Annalie",
+        "default": "cn"
       }
     },
     {
