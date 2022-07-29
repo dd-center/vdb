@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659072319
+    "timestamp": 1659098080
   },
   "vtbs": [
     {
@@ -69178,6 +69178,23 @@
       "name": {
         "extra": [],
         "cn": "絵梨奈えりな",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "da1171c2-2849-5202-b8df-4df20a8fdcf6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2006574783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "維洛妮卡Veronica",
         "default": "cn"
       }
     },
