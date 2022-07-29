@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659072181
+    "timestamp": 1659072265
   },
   "vtbs": [
     {
@@ -66617,6 +66617,23 @@
       "name": {
         "extra": [],
         "cn": "秘密结社黑盾",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b40f1ae1-446e-5baa-b2b4-3425c524710c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "73857541",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秦曲曲",
         "default": "cn"
       }
     },
