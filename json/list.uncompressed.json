@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659072275
+    "timestamp": 1659072286
   },
   "vtbs": [
     {
@@ -80427,6 +80427,23 @@
       "name": {
         "extra": [],
         "cn": "辞镜Tsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69ce7ae4-4a93-503e-8e90-df66adbe5efd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1164726515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辣奶火锅",
         "default": "cn"
       }
     },
