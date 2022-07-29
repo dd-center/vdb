@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659098080
+    "timestamp": 1659098122
   },
   "vtbs": [
     {
@@ -56004,6 +56004,23 @@
       "name": {
         "extra": [],
         "cn": "深山大狐喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8fa48aa4-7d2a-54b9-83d5-eda3b33b048b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630000721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "深水怠Darara",
         "default": "cn"
       }
     },
