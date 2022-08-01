@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659362276
+    "timestamp": 1659362700
   },
   "vtbs": [
     {
@@ -49693,6 +49693,23 @@
         "default": "cn"
       },
       "group": "277aa1f8-ebf7-5d6c-b6f3-dfecfdfd44c2"
+    },
+    {
+      "uuid": "c23c194a-0356-549c-9092-45237719f3c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1569790062",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗娜Lena",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f389fab7-0251-5083-9f94-e5d33be19291",
