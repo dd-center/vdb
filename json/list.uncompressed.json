@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659362814
+    "timestamp": 1659362868
   },
   "vtbs": [
     {
@@ -63608,6 +63608,23 @@
         "default": "cn"
       },
       "group": "a5f67427-dbfe-5cb0-be05-ef701454c3aa"
+    },
+    {
+      "uuid": "03bc9fd4-5df3-5776-a16c-ee294d26c62b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1087725318",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白雪葵Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ec764bf1-e597-58e0-bec2-257aaa1cfe95",
