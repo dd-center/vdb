@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659362985
+    "timestamp": 1659363039
   },
   "vtbs": [
     {
@@ -19426,6 +19426,24 @@
         "cn": "克拉拉_kirara",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "10aba582-ef56-5ea2-8dc8-c69e88131099",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1249759353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克洛伊_Valkyrie",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "ef408ed0-f63a-53fb-8e27-977bd91cfa85",
