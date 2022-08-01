@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659098170
+    "timestamp": 1659362276
   },
   "vtbs": [
     {
@@ -54814,6 +54814,23 @@
       "name": {
         "extra": [],
         "cn": "泡泡_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "57ab20c8-9fe3-5dd3-9285-b7cb52e65ddc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33780565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芥末泡芙好吃吗",
         "default": "cn"
       }
     },
