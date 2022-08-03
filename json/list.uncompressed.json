@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659542327
+    "timestamp": 1659542362
   },
   "vtbs": [
     {
@@ -41041,6 +41041,23 @@
       "name": {
         "extra": [],
         "cn": "挚抒Makoto",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "16d60437-f631-5c5a-bb81-31bb4c3d606c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "377042295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "挽歌歌_",
         "default": "cn"
       }
     },
