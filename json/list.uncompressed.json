@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659542362
+    "timestamp": 1659542446
   },
   "vtbs": [
     {
@@ -17361,6 +17361,24 @@
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
     },
     {
+      "uuid": "02d16c0a-b006-5fe4-9a6d-e9166e27a444",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1551306539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亚琴Aki",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
+    },
+    {
       "uuid": "8066a03c-46fe-5e1d-9fde-f4e9474b99c8",
       "type": "vtuber",
       "bot": false,
@@ -25108,6 +25126,23 @@
       "name": {
         "extra": [],
         "cn": "叶糖_v",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "13f15060-1614-5d3c-aa46-a401f214b7c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24970050",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶青玳",
         "default": "cn"
       }
     },
@@ -36291,6 +36326,24 @@
         "default": "cn"
       },
       "group": "a2dfbe6d-579b-50da-a404-9d80711403d7"
+    },
+    {
+      "uuid": "393a1f36-e9de-5e11-9ac6-f10c51cd1170",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "53536596",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岐夭夭",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
     },
     {
       "uuid": "86521b42-6c72-5b02-a513-57711e3bb35d",
