@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659542217
+    "timestamp": 1659542248
   },
   "vtbs": [
     {
@@ -74277,6 +74277,23 @@
         "default": "cn"
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
+    },
+    {
+      "uuid": "a3ee4e1e-a513-51be-876b-47023e7d824f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1222755399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芽衣子owo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3bb079f0-e654-59dd-b380-c96b3a29ba45",
