@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659542160
+    "timestamp": 1659542190
   },
   "vtbs": [
     {
@@ -14782,6 +14782,23 @@
       "name": {
         "extra": [],
         "cn": "七宫天空Aria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe6039e6-803d-55e7-b640-267264475d46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "661825871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七念official",
         "default": "cn"
       }
     },
