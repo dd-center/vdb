@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659363112
+    "timestamp": 1659542160
   },
   "vtbs": [
     {
@@ -19303,6 +19303,23 @@
         "extra": [],
         "ch": "元气少年洛鸢",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "8b27de58-72dc-5681-84cc-936ef9cf885a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1876274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "元気少女蘑菇橙",
+        "default": "cn"
       }
     },
     {
