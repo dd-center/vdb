@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659542446
+    "timestamp": 1659608549
   },
   "vtbs": [
     {
@@ -10872,6 +10872,24 @@
       "name": {
         "extra": [],
         "jp": "くもの上ユメミ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "27e8a966-6d27-52f7-a14d-4ad8328c6e7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1126225283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "こころみぃ",
+        "en": "Kokoromii",
         "default": "jp"
       }
     },
