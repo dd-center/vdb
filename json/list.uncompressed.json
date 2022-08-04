@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659608549
+    "timestamp": 1659608582
   },
   "vtbs": [
     {
@@ -37834,6 +37834,23 @@
       "name": {
         "extra": [],
         "cn": "幼Phoenix",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca546b0a-7032-51e5-bd92-64280acd6e5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2082574877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幼栗突然出现",
         "default": "cn"
       }
     },
