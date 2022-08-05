@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659693167
+    "timestamp": 1659693196
   },
   "vtbs": [
     {
@@ -51651,6 +51651,23 @@
         "default": "cn"
       },
       "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
+    },
+    {
+      "uuid": "ef08c646-39d8-596c-a180-b21fd68a47fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6298904",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棠衣衣",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d6aebc1c-0263-5072-b31c-78b8b5dcb503",
