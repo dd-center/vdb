@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659693139
+    "timestamp": 1659693167
   },
   "vtbs": [
     {
@@ -39193,6 +39193,23 @@
         "default": "cn"
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2"
+    },
+    {
+      "uuid": "a6d4d4bc-b07d-5ed5-975c-51c6747d855e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1652576593",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德古拉丝大魔王",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d3436427-93ce-5566-ba67-be758c25e3b2",
