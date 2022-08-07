@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659860823
+    "timestamp": 1659860854
   },
   "vtbs": [
     {
@@ -3386,6 +3386,23 @@
         "cn": "昊月",
         "en": "Kotsuki",
         "jp": "こつき",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "97149bdb-0dd7-5005-ad70-d6dd339f53e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1757495735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KI哞",
         "default": "cn"
       }
     },
