@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659860854
+    "timestamp": 1659860902
   },
   "vtbs": [
     {
@@ -82310,6 +82310,23 @@
       "name": {
         "extra": [],
         "cn": "金鱼姬Kingyo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e26939e-00b9-5e81-b595-56b54c63d781",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "185333",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金鳌珍宝_海蛟",
         "default": "cn"
       }
     },
