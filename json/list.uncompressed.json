@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659735971
+    "timestamp": 1659860823
   },
   "vtbs": [
     {
@@ -29888,6 +29888,23 @@
       "name": {
         "extra": [],
         "cn": "大空家的荞麦面馆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e9aa964-ff8f-5210-ab70-8a55d313ca31",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1517067289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大舌头Annica",
         "default": "cn"
       }
     },
