@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1659860959
+    "timestamp": 1659945804
   },
   "vtbs": [
     {
@@ -27763,6 +27763,23 @@
         "extra": [],
         "cn": "塞菲拉-苏的占卜小屋",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "57f29c40-5dd7-501a-9acf-f24a81c4d904",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "塩本花楓Channel",
+        "default": "CN"
       }
     },
     {
