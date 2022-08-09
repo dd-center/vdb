@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660025929
+    "timestamp": 1660025973
   },
   "vtbs": [
     {
@@ -80490,6 +80490,29 @@
         "default": "cn"
       },
       "group": "0720e97e-ca7a-55b7-9944-94d2e090dcd2"
+    },
+    {
+      "uuid": "f231989b-67d6-594b-8b34-e8cad46c557a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1600260795",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "tensai_mera",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玫菈",
+        "jp": "めら",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e488a1f1-4394-5580-861b-15e55f15986b",
