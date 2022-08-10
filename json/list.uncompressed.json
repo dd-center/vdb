@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660111384
+    "timestamp": 1660111539
   },
   "vtbs": [
     {
@@ -21143,6 +21143,23 @@
         "default": "cn"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
+    },
+    {
+      "uuid": "36c8ed26-3cbe-5474-80e7-ef484f4cb2c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "84202865",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凌喵咲夜_Channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cbfb5562-1a70-54f0-8a10-069693f1e278",
