@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660141777
+    "timestamp": 1660210456
   },
   "vtbs": [
     {
@@ -75110,6 +75110,24 @@
         "default": "cn"
       },
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+    },
+    {
+      "uuid": "55c6d8c6-96b8-586f-ba8d-3b30f9ee6e5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2064099563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茂Sigeru",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
     },
     {
       "uuid": "1f3ebe28-1076-5fc3-83c3-2929e32df5b4",
