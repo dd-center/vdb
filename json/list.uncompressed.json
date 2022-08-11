@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660210456
+    "timestamp": 1660210498
   },
   "vtbs": [
     {
@@ -89044,6 +89044,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "1962d34a-7246-5ff7-a465-e89bb3552f98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "484947299",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔菈",
+        "en": "Morua",
+        "default": "cn"
+      }
     },
     {
       "uuid": "40d8a43c-c2f9-56dc-8c4e-42168e466fcb",
