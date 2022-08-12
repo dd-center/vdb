@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660294385
+    "timestamp": 1660294436
   },
   "vtbs": [
     {
@@ -51329,6 +51329,23 @@
         "default": "cn"
       },
       "group": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56"
+    },
+    {
+      "uuid": "b9d64f2c-1f8c-5843-9ee0-6ccdfa5066bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1637486568",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦咲有绪",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7547220a-cec0-5e16-a4f6-772d6e2500cd",
