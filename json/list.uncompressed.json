@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660294436
+    "timestamp": 1660294511
   },
   "vtbs": [
     {
@@ -48322,6 +48322,23 @@
       "name": {
         "extra": [],
         "cn": "村崎莲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "22d0c616-a4fd-516e-bf17-a1a01790e9b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "409210046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杜兰罕_Duran",
         "default": "cn"
       }
     },
