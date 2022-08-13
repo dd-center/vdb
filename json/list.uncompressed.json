@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660394466
+    "timestamp": 1660394513
   },
   "vtbs": [
     {
@@ -65387,6 +65387,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "9eb04d78-303a-5d6f-b9d6-03d2ce00e8da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1320742569",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真越Zenya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "81ae5b8f-1735-58eb-8c05-2d318675b0c6",
