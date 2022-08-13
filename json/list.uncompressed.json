@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660294511
+    "timestamp": 1660394466
   },
   "vtbs": [
     {
@@ -31624,6 +31624,23 @@
       "name": {
         "extra": [],
         "cn": "奥克塔维娅Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef15130f-273f-5859-927f-4b05ff34f6d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1219797330",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥卡塞特丝_OrcaCetus",
         "default": "cn"
       }
     },
