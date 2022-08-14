@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660424067
+    "timestamp": 1660481119
   },
   "vtbs": [
     {
@@ -68939,6 +68939,23 @@
       "name": {
         "extra": [],
         "cn": "糖小小小包",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11137fa7-e516-52b5-ba8b-2f8e0b757d8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1262316876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖小小爱吃肉",
         "default": "cn"
       }
     },
