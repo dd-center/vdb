@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660481260
+    "timestamp": 1660509722
   },
   "vtbs": [
     {
@@ -25246,6 +25246,23 @@
       "name": {
         "extra": [],
         "cn": "司晨婳锦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1095551d-2f7e-50d5-a308-2959c395827f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1191287283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吃一口药药",
         "default": "cn"
       }
     },
