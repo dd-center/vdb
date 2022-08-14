@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660481221
+    "timestamp": 1660481260
   },
   "vtbs": [
     {
@@ -51186,6 +51186,23 @@
         "extra": [],
         "jp": "桜美ゆな",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a95f60f7-3ad4-54f9-b819-c1f3d5d8392f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397758529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桜都子",
+        "default": "cn"
       }
     },
     {
