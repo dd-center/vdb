@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660648719
+    "timestamp": 1660648777
   },
   "vtbs": [
     {
@@ -8436,6 +8436,23 @@
         "default": "cn"
       },
       "group": "f4d991d0-7877-5221-aa85-d05f92d404f3"
+    },
+    {
+      "uuid": "21dccdbd-d105-5eae-8048-4619bd79ff44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1822027685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Yasuri_",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cdd00a20-79f7-5f62-b400-c46eb5148b80",
@@ -29104,6 +29121,24 @@
       "name": {
         "extra": [],
         "cn": "夜半真姬",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72617c52-bf6b-5e1d-bb36-6a0bc1928d83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "336442974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜原",
+        "en": "Yayu",
         "default": "cn"
       }
     },
