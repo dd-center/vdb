@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660648777
+    "timestamp": 1660648797
   },
   "vtbs": [
     {
@@ -26379,6 +26379,23 @@
       "name": {
         "extra": [],
         "cn": "咸蛋黄饭团-official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9d29410-b541-5710-942c-ab8746e67500",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2766325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咸香椰汁",
         "default": "cn"
       }
     },
