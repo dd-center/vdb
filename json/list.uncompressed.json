@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660814532
+    "timestamp": 1660814678
   },
   "vtbs": [
     {
@@ -68440,6 +68440,23 @@
       "name": {
         "extra": [],
         "cn": "筱凛凛ShinoRin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd137beb-0ef8-5c8c-8706-7ac2239576b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "132595192",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筱陌lucky",
         "default": "cn"
       }
     },
