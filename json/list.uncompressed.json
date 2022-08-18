@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660814678
+    "timestamp": 1660814765
   },
   "vtbs": [
     {
@@ -6588,6 +6588,23 @@
         "default": "cn"
       },
       "group": "934f32b5-19fa-515d-ac7a-b4c95d8774cb"
+    },
+    {
+      "uuid": "be9dd923-3b9b-5f2d-9697-d75586044a83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "546192461",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rinko琳可",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d9bd940-f442-5104-af34-cd5166a7137f",
@@ -63166,6 +63183,23 @@
         "default": "cn"
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d"
+    },
+    {
+      "uuid": "f0640183-2218-5568-a48c-c84ccc20cd42",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1430451810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白唄shiro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "30e19210-a85a-534b-af1a-9ff07e2aceb6",
