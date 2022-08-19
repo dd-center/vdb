@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660920101
+    "timestamp": 1660920138
   },
   "vtbs": [
     {
@@ -27278,6 +27278,23 @@
       "name": {
         "extra": [],
         "cn": "嚼着软糖想昵称",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e13d39d0-34a3-53c0-a25d-278fcc2e1095",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1907738575",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四六间琉衣",
         "default": "cn"
       }
     },
@@ -88895,6 +88912,23 @@
         "extra": [],
         "jp": "鬼ヶ島ちゃんねるฅ •ω• ฅ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "11a5d823-d88b-56e0-b70c-3fada2b3e282",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1854569186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鬼喵",
+        "default": "cn"
       }
     },
     {
