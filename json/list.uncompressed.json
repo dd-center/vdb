@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660920056
+    "timestamp": 1660920101
   },
   "vtbs": [
     {
@@ -34456,6 +34456,23 @@
       }
     },
     {
+      "uuid": "ae78edd6-1a4c-5e17-ba17-7513db8bc7b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18013161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小喵唧Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e508f543-7b0c-5b5d-be79-f2eb962ea1ee",
       "type": "vtuber",
       "bot": false,
@@ -36759,6 +36776,23 @@
       "name": {
         "extra": [],
         "cn": "嶌永爱娜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d43b70fa-cb5d-51f7-9a72-54655185afad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9528430",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "川井月",
         "default": "cn"
       }
     },
