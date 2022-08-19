@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660920229
+    "timestamp": 1660920254
   },
   "vtbs": [
     {
@@ -83901,6 +83901,23 @@
       "name": {
         "extra": [],
         "jp": "間宵湊誠_Official",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "f2825a1f-57c8-5a63-80c7-be4eb24d1733",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1602464609",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "間宵雫",
         "default": "jp"
       }
     },
