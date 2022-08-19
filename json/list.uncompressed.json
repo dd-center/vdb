@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660920178
+    "timestamp": 1660920229
   },
   "vtbs": [
     {
@@ -6893,6 +6893,24 @@
         "default": "cn"
       },
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
+    },
+    {
+      "uuid": "5b370d90-6c58-5e68-89b2-16bc3a89ae4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "409631607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Scarle的绯红权杖",
+        "default": "CN"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "5c9d3b40-3afa-511e-acb2-787157f278c9",
@@ -52993,6 +53011,23 @@
         "extra": [],
         "cn": "樱千奈",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "f462fa10-0ff4-59d7-8911-74093891418e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2022031253",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "樱叶卡农",
+        "default": "jp"
       }
     },
     {
