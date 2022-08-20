@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1660985296
+    "timestamp": 1660985338
   },
   "vtbs": [
     {
@@ -4218,6 +4218,24 @@
         "cn": "MSP_么羊",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e4a9a919-a2c3-5844-a726-7a7f7d19f3c0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1565887006",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MUGEN LIVE",
+        "default": "en"
+      },
+      "group": "e4a9a919-a2c3-5844-a726-7a7f7d19f3c0"
     },
     {
       "uuid": "8d3239cd-4811-570e-a968-7c582e46ead0",
@@ -34645,6 +34663,24 @@
         "cn": "小小约yoo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "71dbcdcf-5ffe-544c-9b11-70f549ee0b3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1288322599",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小尾巴七饭",
+        "default": "cn"
+      },
+      "group": "e4a9a919-a2c3-5844-a726-7a7f7d19f3c0"
     },
     {
       "uuid": "eca06190-ac8b-5a33-9152-df14c46daa0c",
