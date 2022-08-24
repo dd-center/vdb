@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661321087
+    "timestamp": 1661321225
   },
   "vtbs": [
     {
@@ -84138,29 +84138,17 @@
       }
     },
     {
-      "uuid": "f2825a1f-57c8-5a63-80c7-be4eb24d1733",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1602464609",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "間宵雫",
-        "default": "jp"
-      }
-    },
-    {
       "uuid": "5b0a9c7f-cd69-56ea-a3a4-f6d9e4aa980d",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
           "id": "125979457",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "1602464609",
           "type": "official",
           "platform": "bilibili"
         },
@@ -84176,7 +84164,9 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "間宵雫"
+        ],
         "cn": "間宵雫_Official",
         "jp": "間宵 雫☾☔@イラストレーターVtuber",
         "default": "cn"
