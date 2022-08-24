@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661320761
+    "timestamp": 1661320811
   },
   "vtbs": [
     {
@@ -36692,6 +36692,24 @@
       }
     },
     {
+      "uuid": "790b94a7-7a6f-5661-8dfe-e01a05b55bbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1954091502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岁己SUI",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
       "uuid": "a2dfbe6d-579b-50da-a404-9d80711403d7",
       "type": "group",
       "bot": false,
@@ -54920,6 +54938,24 @@
         "cn": "汐詺-sekina",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4f78eaf9-fb52-5169-9e4a-a10f851120c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1739085910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江乱Era",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "a786baa0-0eba-51da-9f5b-811d0ed83052",
@@ -76812,6 +76848,24 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "8e796716-ecd5-58c5-8d7e-ced8b43d1319",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1116072703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱恩Leo",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
       "uuid": "b759f508-5abb-548f-ae84-04c2bb4f817b",
