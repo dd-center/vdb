@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661320598
+    "timestamp": 1661320761
   },
   "vtbs": [
     {
@@ -54866,6 +54866,23 @@
       "name": {
         "extra": [],
         "cn": "汐水琉月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "34f954d3-72d2-5feb-9d36-1a7d773406e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1623136625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐由梨",
         "default": "cn"
       }
     },
