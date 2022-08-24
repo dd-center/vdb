@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661321225
+    "timestamp": 1661321248
   },
   "vtbs": [
     {
@@ -33775,6 +33775,23 @@
       "name": {
         "extra": [],
         "cn": "宝丽尔Masa_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "213965af-3139-5845-acc9-c85ef5bd378a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2096422",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宝叽一",
         "default": "cn"
       }
     },
