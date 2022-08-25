@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661438758
+    "timestamp": 1661438792
   },
   "vtbs": [
     {
@@ -40334,6 +40334,23 @@
       "name": {
         "extra": [],
         "cn": "恶魔乃希碧Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c139a39-59fd-5f4d-8bce-2d4f572c6721",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19366645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悅音幻絲",
         "default": "cn"
       }
     },
