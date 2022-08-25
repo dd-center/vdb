@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661438682
+    "timestamp": 1661438731
   },
   "vtbs": [
     {
@@ -46930,6 +46930,23 @@
         "extra": [],
         "ch": "月小夜official",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "af416cb3-396c-5838-8105-b5a024150929",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1004806358",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月昭tutu",
+        "default": "cn"
       }
     },
     {
