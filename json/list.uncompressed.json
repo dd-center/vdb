@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661438605
+    "timestamp": 1661438682
   },
   "vtbs": [
     {
@@ -38410,6 +38410,23 @@
       "name": {
         "extra": [],
         "cn": "幽乜Yume",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "be88828b-47ba-5be4-bcb0-61eb14b75aa9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1827016353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽刹Yocha",
         "default": "cn"
       }
     },
@@ -80084,6 +80101,23 @@
       "name": {
         "extra": [],
         "cn": "许萧瑶是北极熊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c837947-f8ff-5e34-8d90-c31c0a2fcc10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1766160737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗乃鲤Shinokoi",
         "default": "cn"
       }
     },
