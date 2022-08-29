@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661494729
+    "timestamp": 1661760110
   },
   "vtbs": [
     {
@@ -66775,6 +66775,23 @@
         "default": "cn"
       },
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
+    },
+    {
+      "uuid": "e5279058-7bc9-5edb-aebb-a3bc467565bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "259279517",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神也雪ADDLOY",
+        "default": "cn"
+      }
     },
     {
       "uuid": "eec09422-244a-5d12-93e0-68baea3a8fd6",
