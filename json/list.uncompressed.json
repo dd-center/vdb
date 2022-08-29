@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661760375
+    "timestamp": 1661760406
   },
   "vtbs": [
     {
@@ -1041,6 +1041,23 @@
       "name": {
         "extra": [],
         "cn": "Angelia安洁莉娅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d4b6acb0-67c6-5e28-abcd-bacf87515a57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461566875830931",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Angelica安杰莉卡",
         "default": "cn"
       }
     },
