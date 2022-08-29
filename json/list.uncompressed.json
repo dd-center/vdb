@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661760463
+    "timestamp": 1661760490
   },
   "vtbs": [
     {
@@ -8610,6 +8610,23 @@
         "default": "cn"
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c"
+    },
+    {
+      "uuid": "bae4b88b-17aa-5b7c-bf24-1ea304409468",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14272337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Yommyko",
+        "default": "en"
+      }
     },
     {
       "uuid": "0d7d3df7-37d8-5dc2-b19f-d213c7980655",
