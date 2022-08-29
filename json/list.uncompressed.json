@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661760110
+    "timestamp": 1661760314
   },
   "vtbs": [
     {
@@ -53308,6 +53308,24 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "5690c851-b2d2-54fe-ab08-5f0456c6a48f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "501218873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱吹雪_Yuki",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "a488f9ed-c3d0-5392-bab5-c5346889dc14",
