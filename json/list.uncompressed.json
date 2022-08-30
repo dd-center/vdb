@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661760490
+    "timestamp": 1661866175
   },
   "vtbs": [
     {
@@ -50731,6 +50731,23 @@
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae"
     },
     {
+      "uuid": "2e321ae8-44ed-5461-8a31-7e496df0c518",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1334497126",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗栖陆Riku",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "372ae3c0-e2d7-5fa2-99fe-26d5c9aa58fe",
       "type": "vtuber",
       "bot": false,
@@ -58605,6 +58622,23 @@
         "default": "cn"
       },
       "group": "ce23afd2-6f1a-5106-b1d6-09980187f549"
+    },
+    {
+      "uuid": "a050d877-5ea9-5d93-a2ed-8ce6a07f5f93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "27632493",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灵晓",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b6ce1063-9ed6-53f5-8aea-72bdfefd948a",
@@ -76912,6 +76946,24 @@
         "default": "cn"
       },
       "group": "a2f8bb9b-1b8c-5784-a887-be736c63355f"
+    },
+    {
+      "uuid": "af56781f-4b80-5af8-99e1-6eb66ba67514",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473967891",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓里",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "923df64c-b5df-5264-8d95-c4a429fd438e",
