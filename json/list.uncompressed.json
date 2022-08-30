@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661867050
+    "timestamp": 1661867307
   },
   "vtbs": [
     {
@@ -3404,7 +3404,8 @@
         "en": "Kotsuki",
         "jp": "こつき",
         "default": "cn"
-      }
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
     },
     {
       "uuid": "97149bdb-0dd7-5005-ad70-d6dd339f53e8",
@@ -7659,9 +7660,10 @@
       ],
       "name": {
         "extra": [],
-        "cn": "TwoWolFox丶皮皮",
+        "cn": "皮皮大兽兽",
         "default": "cn"
-      }
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
     },
     {
       "uuid": "672b6fe5-8e2a-54d9-bb9d-61175220cec1",
@@ -15719,6 +15721,23 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
+      "uuid": "d242cd79-9d11-5141-b418-08651d3675a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3242119",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不可食用面包君",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2036bf91-e9d8-50c4-9734-ae7956eb84af",
       "type": "vtuber",
       "bot": false,
@@ -20269,6 +20288,23 @@
       "name": {
         "extra": [],
         "cn": "入間綠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e79e910-de21-575d-8c23-99f578f3b656",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16343250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "八万_80K",
         "default": "cn"
       }
     },
@@ -26555,6 +26591,23 @@
       "name": {
         "extra": [],
         "cn": "咲间芽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "21ccfbda-348d-5f1e-ae84-be711927845b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "457061412",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咸味猫鱼君",
         "default": "cn"
       }
     },
@@ -35284,6 +35337,24 @@
       "group": "52e8ccd6-7432-5007-ab5a-9c0eca7b6e1b"
     },
     {
+      "uuid": "dfa4ad8c-4253-5dcb-aa22-58bb8dd81369",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "109798",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小熊猫玄玄",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
+    },
+    {
       "uuid": "6517f767-313d-5825-9702-1bd10b11a564",
       "type": "vtuber",
       "bot": false,
@@ -43849,6 +43920,24 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "dfae3f06-98cd-500a-a2fe-300f31ee77a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4637750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星尘_StardustSAMA",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
+    },
+    {
       "uuid": "fdf85ced-7957-5284-9768-da3496228006",
       "type": "vtuber",
       "bot": false,
@@ -44427,6 +44516,25 @@
         "cn": "星灵幽蓝",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "faad4eb6-8453-56b1-953d-ab328b320e07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "485374",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星猫",
+        "jp": "Hoshineko",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
     },
     {
       "uuid": "a8439191-3845-5baf-a7f7-18c8d92a1736",
@@ -60415,6 +60523,24 @@
       }
     },
     {
+      "uuid": "2dd4c197-d641-5933-a4de-63f526b00979",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1931030982",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猇犽",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
+    },
+    {
       "uuid": "9eccd3dc-7ec4-5053-aeea-22185c4223db",
       "type": "vtuber",
       "bot": false,
@@ -71787,6 +71913,24 @@
         "cn": "绯吧official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6f978d2a-71f4-5b4d-aea1-03087e4e93a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7922204",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯花爱吃烤面包qwq",
+        "default": "cn"
+      },
+      "group": "811ad373-4359-562c-add8-3c2492dc209b"
     },
     {
       "uuid": "6ed07890-aa35-5f42-9970-68fd2fde3bb8",
