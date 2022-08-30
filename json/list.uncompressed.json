@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1661866959
+    "timestamp": 1661867010
   },
   "vtbs": [
     {
@@ -46060,6 +46060,23 @@
       "name": {
         "extra": [],
         "cn": "時雨Zeta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10f29352-5f4e-55c1-8267-9ec3e3f3c39a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2294686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晓曦Asahino",
         "default": "cn"
       }
     },
