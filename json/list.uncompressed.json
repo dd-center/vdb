@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662218447
+    "timestamp": 1662218556
   },
   "vtbs": [
     {
@@ -55340,6 +55340,23 @@
       }
     },
     {
+      "uuid": "9de4dcca-efbf-5e97-9c7e-4acb0285921e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1780457564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐霂mumu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4f78eaf9-fb52-5169-9e4a-a10f851120c0",
       "type": "vtuber",
       "bot": false,
@@ -80150,6 +80167,23 @@
       "name": {
         "extra": [],
         "cn": "西米子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e2487950-c504-5a0d-b100-9298ee017b5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461564264876150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西西里亚CCelia",
         "default": "cn"
       }
     },
