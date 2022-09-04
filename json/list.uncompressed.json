@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662287850
+    "timestamp": 1662287967
   },
   "vtbs": [
     {
@@ -52407,6 +52407,23 @@
         "extra": [],
         "cn": "梦魇Tsuki",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "8a90ab88-1ec6-51ef-891d-2bcb2d6f9e33",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1674242827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "梨卡Rika",
+        "default": "CN"
       }
     },
     {
