@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662287788
+    "timestamp": 1662287814
   },
   "vtbs": [
     {
@@ -64170,6 +64170,23 @@
       "name": {
         "extra": [],
         "cn": "白崎银子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "33253386-73e6-57d3-8363-1779eeed6a10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "687730248",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白川Yuriko",
         "default": "cn"
       }
     },
