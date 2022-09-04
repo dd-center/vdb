@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662288777
+    "timestamp": 1662288869
   },
   "vtbs": [
     {
@@ -59032,6 +59032,23 @@
         "extra": [],
         "ch": "灵虎爻休Channel",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "9ed63e1e-5c8d-50b7-9309-c8beb352485e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1132450186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灼灼Auburn",
+        "default": "cn"
       }
     },
     {
