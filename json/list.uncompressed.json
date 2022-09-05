@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662380000
+    "timestamp": 1662380104
   },
   "vtbs": [
     {
@@ -26005,6 +26005,23 @@
         "default": "cn"
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
+      "uuid": "7f2f0632-4bb1-57fd-853c-1b6e0cf44ca7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1161258028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吱吱子爱唱歌",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dca961c1-312d-50cc-9d4a-6b7006dc1951",
