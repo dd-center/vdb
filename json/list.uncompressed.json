@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662352903
+    "timestamp": 1662380000
   },
   "vtbs": [
     {
@@ -18665,6 +18665,23 @@
       "name": {
         "extra": [],
         "cn": "伊莺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fae55fa0-6436-5c69-ad8b-5ca21d967761",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2037141",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊菲露诺_channel",
         "default": "cn"
       }
     },
@@ -58144,6 +58161,23 @@
       "name": {
         "extra": [],
         "cn": "游侠曙星",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a54f7744-565d-5a99-920c-e5a55b2a0d5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2078314102",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "游淼yumia",
         "default": "cn"
       }
     },
