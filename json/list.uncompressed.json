@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662467102
+    "timestamp": 1662467424
   },
   "vtbs": [
     {
@@ -1560,6 +1560,24 @@
         "default": "cn"
       },
       "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
+    },
+    {
+      "uuid": "54f12813-1527-5f52-b566-3b36f51d676b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "823718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "C-Live_Project",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
     },
     {
       "uuid": "84c4756a-9100-5690-a63b-b474d86a8b36",
@@ -43141,6 +43159,24 @@
       }
     },
     {
+      "uuid": "3377c47f-2ae5-5448-a32a-ef30ee9fda52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1395549000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时柒_Nana",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
+    },
+    {
       "uuid": "7c116061-9794-5c77-ac33-3a8b2baa2175",
       "type": "vtuber",
       "bot": false,
@@ -51286,6 +51322,24 @@
         "cn": "桃卷子儿",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1bca7d72-8787-5d96-8650-c42c5b8554b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "313064642",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃唯Yui",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
     },
     {
       "uuid": "9d0062eb-41de-581d-8b52-983f6817ce97",
