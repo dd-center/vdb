@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662468155
+    "timestamp": 1662468267
   },
   "vtbs": [
     {
@@ -73705,6 +73705,23 @@
       "name": {
         "extra": [],
         "cn": "臧贺Lunmta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f1f842a-84f0-5f15-b9d9-dd92fece1aa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1282271864",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "自由魂儿儿儿",
         "default": "cn"
       }
     },
