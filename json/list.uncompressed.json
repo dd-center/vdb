@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662569130
+    "timestamp": 1662569311
   },
   "vtbs": [
     {
@@ -1021,8 +1021,7 @@
         "cn": "Ano奈",
         "en": "Anona",
         "default": "cn"
-      },
-      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
+      }
     },
     {
       "uuid": "0f902cbd-31df-53cd-8f5e-a61e02097a25",
@@ -64415,7 +64414,7 @@
         "cn": "白梅雪见",
         "default": "cn"
       },
-      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "1cb58ccf-4fec-5afe-a022-63351f383fcd",
@@ -87435,27 +87434,6 @@
         "en": "Tadyi",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "4808e2b0-1892-56db-91d3-872c490c0606",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "5861431",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "FairyTwin"
-        ],
-        "cn": "零式妖精Project",
-        "en": "Fairy zero",
-        "default": "cn"
-      },
-      "group": "4808e2b0-1892-56db-91d3-872c490c0606"
     },
     {
       "uuid": "b910e5b7-1ae1-5720-8296-9cfbb2bcab7c",
