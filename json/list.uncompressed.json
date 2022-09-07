@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662568611
+    "timestamp": 1662568656
   },
   "vtbs": [
     {
@@ -578,24 +578,6 @@
         "en": "AO",
         "default": "en"
       }
-    },
-    {
-      "uuid": "4feeb7e5-cdef-5d2b-bd57-17600127ee14",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1898658005",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "ARTs学院",
-        "default": "cn"
-      },
-      "group": "4feeb7e5-cdef-5d2b-bd57-17600127ee14"
     },
     {
       "uuid": "7320081f-670c-53d4-bf9b-e5ce6b259955",
@@ -89284,8 +89266,7 @@
         "extra": [],
         "cn": "风信子Official",
         "default": "cn"
-      },
-      "group": "4feeb7e5-cdef-5d2b-bd57-17600127ee14"
+      }
     },
     {
       "uuid": "9a32c8b4-9d2c-53ef-9979-cc1151899858",
