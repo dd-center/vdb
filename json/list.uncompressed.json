@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662569311
+    "timestamp": 1662569377
   },
   "vtbs": [
     {
@@ -1085,24 +1085,6 @@
         "cn": "Asakiri深岚",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "a8ba0711-f7a7-570f-b524-cdd79a927b71",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "17977334",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Ash",
-        "default": "en"
-      },
-      "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
       "uuid": "5e8abe81-cffe-59b8-91c4-c1a07b737c7b",
@@ -2401,6 +2383,23 @@
         "extra": [],
         "ch": "Elena-沐沐",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "cf0d2f93-48d8-52dc-9ee8-4f8d1dbdd38a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17977334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ElskaAsh",
+        "default": "en"
       }
     },
     {
@@ -6172,18 +6171,6 @@
         "en": "Project_V",
         "default": "en"
       }
-    },
-    {
-      "uuid": "9397afca-d6a2-5519-986d-dca40a94f813",
-      "type": "group",
-      "bot": false,
-      "accounts": [],
-      "name": {
-        "extra": [],
-        "en": "Prototidron",
-        "default": "en"
-      },
-      "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
       "uuid": "412f3e13-0742-53c3-80e4-a0ea111657d9",
@@ -42675,6 +42662,23 @@
       "group": "70a6e7b1-b146-5470-a186-39085c45c7ad"
     },
     {
+      "uuid": "f36835c6-4c58-5d22-a19f-f79e5087fc4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2776294",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日子人白枫",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cb96fbf4-1b30-56ec-b59a-75a00a13bf63",
       "type": "vtuber",
       "bot": false,
@@ -48182,24 +48186,6 @@
         "default": "cn"
       },
       "group": "63c9e72d-0157-5c80-9f27-0977653100be"
-    },
-    {
-      "uuid": "69992a4d-0010-5bc4-bc2d-b89f034847cd",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "10257537",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "木木汐",
-        "default": "cn"
-      },
-      "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
       "uuid": "1252ffb7-2a51-5c64-9c67-5ba97eddeae4",
@@ -58962,6 +58948,23 @@
       "name": {
         "extra": [],
         "cn": "炎沐yamu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9e0a9ea-758f-53c1-86c7-fdf95791a8a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10257537",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "炎火猎人的胜利",
         "default": "cn"
       }
     },
@@ -84364,24 +84367,6 @@
         "default": "cn"
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
-    },
-    {
-      "uuid": "75b70f4d-873f-51e3-b0a5-92c4b0fd61ad",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2776294",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "铁血无情白枫酱",
-        "default": "cn"
-      },
-      "group": "9397afca-d6a2-5519-986d-dca40a94f813"
     },
     {
       "uuid": "2ba43540-71b2-5ca8-858f-b0c83d9c9867",
