@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662567297
+    "timestamp": 1662567697
   },
   "vtbs": [
     {
@@ -431,24 +431,6 @@
         "en": "A.I.D",
         "default": "en"
       }
-    },
-    {
-      "uuid": "5c3f4d98-1348-52e0-8a14-832879275933",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "55096752",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "ACGN Project",
-        "default": "cn"
-      },
-      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
     },
     {
       "uuid": "c70b8ae3-8066-5bdb-9520-1e262e917b32",
@@ -21920,8 +21902,7 @@
         "extra": [],
         "cn": "凰清音Official",
         "default": "cn"
-      },
-      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
+      }
     },
     {
       "uuid": "4648ebb7-601f-57fe-acb4-0cced983135d",
@@ -34199,24 +34180,6 @@
         "default": "cn"
       },
       "group": "81d136a4-1fc0-590e-a041-fe5afffc7873"
-    },
-    {
-      "uuid": "1383a3cd-2d96-5b86-8f8f-1a5035fce2c0",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "495707763",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "宫连月Official",
-        "default": "cn"
-      },
-      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
     },
     {
       "uuid": "387e61e0-319d-5284-b006-1bac95ce8b9e",
@@ -64471,24 +64434,6 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
-    },
-    {
-      "uuid": "21b2290a-72cf-572a-bf95-5bf09ebc0c55",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1844102339",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "白怜Official",
-        "default": "cn"
-      },
-      "group": "5c3f4d98-1348-52e0-8a14-832879275933"
     },
     {
       "uuid": "bb365cbc-04e0-568a-a396-ea933afe44a4",
