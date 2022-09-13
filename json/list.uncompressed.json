@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663077790
+    "timestamp": 1663077821
   },
   "vtbs": [
     {
@@ -44409,6 +44409,23 @@
         "extra": [],
         "cn": "星流_Tracer",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d427927c-2982-5db8-b002-ecc72fd00281",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1157885046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "星海るこHoshimiRuko",
+        "default": "jp"
       }
     },
     {
