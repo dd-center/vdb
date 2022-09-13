@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663078283
+    "timestamp": 1663078509
   },
   "vtbs": [
     {
@@ -4346,6 +4346,24 @@
         "default": "cn"
       },
       "group": "8ab1de5c-4685-579a-8a96-b85c83636906"
+    },
+    {
+      "uuid": "cdd516e2-2536-5d7f-892f-98a6f9292be5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "87386257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅露蒂雅",
+        "en": "Melodia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dd43b826-10b4-5255-a3f4-7bb376628fec",
