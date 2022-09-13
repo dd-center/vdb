@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663077821
+    "timestamp": 1663078283
   },
   "vtbs": [
     {
@@ -31777,6 +31777,23 @@
         "default": "cn"
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
+    },
+    {
+      "uuid": "705c671b-e916-56cc-9c65-73c65a9d4edb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "167801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈绪川佑里",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1db9b4e2-0001-5104-9fd7-f1f81d4b1a6d",
