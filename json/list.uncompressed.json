@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1662871229
+    "timestamp": 1663077685
   },
   "vtbs": [
     {
@@ -62617,6 +62617,23 @@
       "name": {
         "extra": [],
         "cn": "琳珑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "716659a3-456b-5286-bcf6-a736fd10f0a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1369019691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琳琅Dazzling",
         "default": "cn"
       }
     },
