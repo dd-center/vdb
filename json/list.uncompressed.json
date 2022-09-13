@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663078527
+    "timestamp": 1663078588
   },
   "vtbs": [
     {
@@ -51933,6 +51933,25 @@
       }
     },
     {
+      "uuid": "07b58ce8-1a85-5d59-9a45-2f1cc4e22c53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690780274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "桜餠理纱"
+        ],
+        "cn": "桜餠の肖乐",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2bc1c497-8c71-56db-b177-b1cbb76b822b",
       "type": "vtuber",
       "bot": false,
@@ -56328,6 +56347,23 @@
       "name": {
         "extra": [],
         "cn": "波娜娜豹豹子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51561539-b0ae-5101-aa27-d03938262ff7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "376831143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波音BOI",
         "default": "cn"
       }
     },
