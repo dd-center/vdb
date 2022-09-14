@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663173584
+    "timestamp": 1663173625
   },
   "vtbs": [
     {
@@ -39231,6 +39231,23 @@
         "extra": [],
         "jp": "強化人間",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "62518f4d-dfba-5782-8223-ca87a10b304a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "240658212",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "彤宝可爱捏",
+        "default": "cn"
       }
     },
     {
