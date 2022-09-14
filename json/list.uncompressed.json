@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663121433
+    "timestamp": 1663173547
   },
   "vtbs": [
     {
@@ -25202,6 +25202,23 @@
       "name": {
         "extra": [],
         "cn": "史官ニアHosinonya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d2270af2-7996-5698-a443-a8492183ad86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3340395",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "右左枪枪",
         "default": "cn"
       }
     },
