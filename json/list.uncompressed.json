@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663173625
+    "timestamp": 1663173657
   },
   "vtbs": [
     {
@@ -42640,6 +42640,23 @@
         "extra": [],
         "无疆Limitless": "cn",
         "default": "无疆Limitless"
+      }
+    },
+    {
+      "uuid": "16d2372d-28ca-5575-87ba-e1e3324733ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39987155",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无神EmptyCity",
+        "default": "cn"
       }
     },
     {
