@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663078566
+    "timestamp": 1663121433
   },
   "vtbs": [
     {
@@ -56351,6 +56351,23 @@
       }
     },
     {
+      "uuid": "51561539-b0ae-5101-aa27-d03938262ff7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "376831143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波音BOI",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0eedf1bf-e7e6-5973-8a04-07abbc8d8ed1",
       "type": "vtuber",
       "bot": false,
@@ -89912,6 +89929,23 @@
       "name": {
         "extra": [],
         "cn": "香取绮罗_kira",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c166b61f-0a5b-5ae9-9e03-f6cb5e8b3fee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461570034142077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "香夜kayo",
         "default": "cn"
       }
     },
