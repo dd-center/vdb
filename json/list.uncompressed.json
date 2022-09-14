@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663173547
+    "timestamp": 1663173584
   },
   "vtbs": [
     {
@@ -56964,6 +56964,23 @@
         "default": "cn"
       },
       "group": "cc1ed03e-7840-5738-83b7-b637c02b00fe"
+    },
+    {
+      "uuid": "f70a01c2-cc0b-56ad-8ed0-09889db6882e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1927279531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅川玉乃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "08e83e80-ba92-538d-b63d-fe0592e8af6c",
