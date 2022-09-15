@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663251595
+    "timestamp": 1663251714
   },
   "vtbs": [
     {
@@ -24105,6 +24105,23 @@
         "default": "cn"
       },
       "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80"
+    },
+    {
+      "uuid": "8c1a8fa3-7789-5dca-b528-c447dcfdab52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1869949659",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南流景_Meowsica",
+        "default": "cn"
+      }
     },
     {
       "uuid": "974ee197-db05-519d-9060-e8c187219ad3",
@@ -50297,6 +50314,23 @@
       "group": "aff6a844-e15a-5322-b6cd-4d07df0475b3"
     },
     {
+      "uuid": "427509a6-059f-5a7b-9fe1-7caf25378a2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1380564420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚乐YORO",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "26fd2e00-c925-5eb1-ba64-8310ee3b2ff0",
       "type": "vtuber",
       "bot": false,
@@ -51000,6 +51034,23 @@
       "name": {
         "extra": [],
         "cn": "栗の安沙_鮟鱇official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3140a867-60be-5e2c-a348-0760fd980d10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1222026215",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗卡Ricca",
         "default": "cn"
       }
     },
