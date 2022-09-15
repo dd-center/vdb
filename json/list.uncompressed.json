@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663173657
+    "timestamp": 1663224944
   },
   "vtbs": [
     {
@@ -19261,6 +19261,23 @@
       "name": {
         "extra": [],
         "cn": "佳澄Kasumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac707ac8-5a5b-5a35-9994-44604f186a87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2519929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "來夢Raimu",
         "default": "cn"
       }
     },
