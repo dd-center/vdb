@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663250981
+    "timestamp": 1663251446
   },
   "vtbs": [
     {
@@ -29384,6 +29384,23 @@
           "狐狸"
         ],
         "cn": "多莉Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e5eee58-3c86-5a7c-8fb7-6a43fce32bc6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85445905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多菈宫maid_",
         "default": "cn"
       }
     },
