@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663246655
+    "timestamp": 1663247754
   },
   "vtbs": [
     {
@@ -43254,6 +43254,23 @@
       "name": {
         "extra": [],
         "cn": "明凌Channe",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c3f254f5-d45a-5efb-bdb4-7825c73610f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2132180406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明前奶绿",
         "default": "cn"
       }
     },
