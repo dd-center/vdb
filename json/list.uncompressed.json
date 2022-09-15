@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663251714
+    "timestamp": 1663283160
   },
   "vtbs": [
     {
@@ -81752,6 +81752,23 @@
       "name": {
         "extra": [],
         "cn": "贝利亚尔belial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c674230e-76cc-5607-895b-8413919275f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1640010859",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝尔会发光",
         "default": "cn"
       }
     },
