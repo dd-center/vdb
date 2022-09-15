@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663247754
+    "timestamp": 1663250981
   },
   "vtbs": [
     {
@@ -7920,6 +7920,23 @@
         "default": "en"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "09290c33-d1b8-5974-8baf-060bbf49bb5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1802937912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Valentina蒂娜",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c411bc2d-ba8d-58d3-9b9c-4da6676006c2",
