@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663283160
+    "timestamp": 1663322861
   },
   "vtbs": [
     {
@@ -8891,6 +8891,29 @@
         "default": "cn"
       },
       "group": "6fb3fa4d-5741-5602-b538-0117b8a90348"
+    },
+    {
+      "uuid": "15be38c4-479e-5899-96fa-07a2889937ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1858967562",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "anoravt",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "anoravt",
+        "default": "en"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "2b750d24-7fd0-52d7-aba4-2075b91a45ed",
@@ -20428,10 +20451,17 @@
           "id": "1120494980",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "cayenahakaba",
+          "type": "official",
+          "platform": "twitch"
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "CayenaHakaba"
+        ],
         "en": "八桦卡夜娜",
         "default": "en"
       },
@@ -28295,6 +28325,23 @@
       "name": {
         "extra": [],
         "cn": "墨余子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7785d2f8-504b-55ed-a956-8192d867b2f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14550871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨凑字数",
         "default": "cn"
       }
     },
@@ -71872,6 +71919,24 @@
         "cn": "纱夏sayaka",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0cac080d-b317-5940-b5b5-73e5033e0d61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1572645043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱夜凛",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "202b1a87-d8dc-5fec-a52d-a840ca543a35",
