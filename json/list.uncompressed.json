@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663322861
+    "timestamp": 1663347194
   },
   "vtbs": [
     {
@@ -41936,6 +41936,23 @@
       }
     },
     {
+      "uuid": "c9b39fbd-ba95-5eed-bb9b-a9b68d302a6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5749332",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "招财不乖",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b460cd2a-8871-52e4-ad0e-1a6ef681b5eb",
       "type": "vtuber",
       "bot": false,
@@ -46653,10 +46670,8 @@
         }
       ],
       "name": {
-        "extra": [
-          "景礼"
-        ],
-        "cn": "景礼keiri",
+        "extra": [],
+        "cn": "景礼",
         "en": "keiri",
         "default": "cn"
       }
