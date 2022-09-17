@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663422702
+    "timestamp": 1663435110
   },
   "vtbs": [
     {
@@ -23381,6 +23381,23 @@
       "group": "2bcc8411-8cc7-5304-a564-fa7a0acb1766"
     },
     {
+      "uuid": "a84a7fa3-e57d-5856-aa77-eced1ba1a33b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "352205410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千祈_senki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "92e747dd-95e8-5a3d-9047-6febe9b9787a",
       "type": "vtuber",
       "bot": false,
@@ -46585,6 +46602,23 @@
       "name": {
         "extra": [],
         "cn": "晓镜子channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1ef8b834-4c4a-5b9f-b908-e7fa59154a67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1159412627",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晞月_Lalune",
         "default": "cn"
       }
     },
