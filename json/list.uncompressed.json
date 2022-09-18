@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663478571
+    "timestamp": 1663539779
   },
   "vtbs": [
     {
@@ -8891,6 +8891,23 @@
         "default": "cn"
       },
       "group": "6fb3fa4d-5741-5602-b538-0117b8a90348"
+    },
+    {
+      "uuid": "f141a0d5-99a5-57e1-aa5b-917952a66840",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1812913178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "aliciaxlife",
+        "default": "en"
+      }
     },
     {
       "uuid": "15be38c4-479e-5899-96fa-07a2889937ec",
