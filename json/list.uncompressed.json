@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663446729
+    "timestamp": 1663478571
   },
   "vtbs": [
     {
@@ -39004,6 +39004,23 @@
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
     },
     {
+      "uuid": "dd7bdf9d-ed7f-581a-b8c4-2138ba35f7c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1842598376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "应悔_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "44e37102-5d91-5d80-a78b-f5587316c437",
       "type": "vtuber",
       "bot": false,
@@ -63916,6 +63933,23 @@
       }
     },
     {
+      "uuid": "6aa7686d-807a-5f27-a574-87434c044478",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37756047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "申岚_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2f9f529a-f862-522f-a1f7-cfe515b5a209",
       "type": "vtuber",
       "bot": false,
@@ -69040,6 +69074,23 @@
       "name": {
         "extra": [],
         "cn": "究极拉垮的天上Sora",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a34dd60e-5fd6-5bf4-b2e0-428be16a4670",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2005590425",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空也_Official",
         "default": "cn"
       }
     },
