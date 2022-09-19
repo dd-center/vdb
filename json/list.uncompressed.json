@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663592116
+    "timestamp": 1663592184
   },
   "vtbs": [
     {
@@ -57686,6 +57686,23 @@
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
     },
     {
+      "uuid": "d9576bdf-8221-5287-bf57-ed523536368f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1526090",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海羽MIU_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5e5cc39c-4a96-5436-9d1f-8a9c5d7a0323",
       "type": "vtuber",
       "bot": false,
@@ -58251,6 +58268,23 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "667b49d2-8ed5-5654-b9c0-9390c9561277",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22837810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清茶沐沐_Kiyotya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2c339053-e8a8-5e8a-affb-c4a8515968ff",
