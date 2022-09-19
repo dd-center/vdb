@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663592184
+    "timestamp": 1663592234
   },
   "vtbs": [
     {
@@ -88912,6 +88912,23 @@
         "extra": [],
         "cn": "露米",
         "en": "Lumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7eec475a-d936-5ff7-9e84-fd37ddd61ce5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7677170",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露米娜lumina",
         "default": "cn"
       }
     },
