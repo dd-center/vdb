@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663593730
+    "timestamp": 1663641529
   },
   "vtbs": [
     {
@@ -16300,6 +16300,23 @@
       "name": {
         "extra": [],
         "cn": "久世鈴奈",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8d8f4671-2e66-5b92-bb15-9b1929c16eb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "91772566",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "久伴_Adrenaline",
         "default": "cn"
       }
     },
