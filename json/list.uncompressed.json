@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663768001
+    "timestamp": 1663768351
   },
   "vtbs": [
     {
@@ -29758,6 +29758,28 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "b247d1f5-3935-5cf1-a7d1-fd159cc3ee9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2025918003",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "@yaso_toiki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "夜想音息",
+        "default": "jp"
+      }
     },
     {
       "uuid": "73afd887-db60-58b0-87df-6a40ea3eea38",
