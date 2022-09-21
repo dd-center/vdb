@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663679430
+    "timestamp": 1663767933
   },
   "vtbs": [
     {
@@ -19478,6 +19478,23 @@
         "default": "cn"
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c"
+    },
+    {
+      "uuid": "13a6a795-93bf-5b73-be6c-ee22ace6df82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1312637331",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "修明Alexius",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6ae3faaf-adb0-5c4d-ac0e-4e2cb6319490",
