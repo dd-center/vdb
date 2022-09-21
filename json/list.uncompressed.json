@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663767952
+    "timestamp": 1663768001
   },
   "vtbs": [
     {
@@ -7953,6 +7953,23 @@
         "extra": [],
         "cn": "Verb-Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "c592d427-6380-5fb8-b048-a3e36217e9fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "391753",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Vespero",
+        "default": "en"
       }
     },
     {
@@ -20314,6 +20331,23 @@
       "name": {
         "extra": [],
         "cn": "兔眠sTouch",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cb1bdc98-c2d7-5fb9-9a30-54807b106ade",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1096034982",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔眠可可",
         "default": "cn"
       }
     },
