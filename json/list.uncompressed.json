@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663768351
+    "timestamp": 1663785902
   },
   "vtbs": [
     {
@@ -929,29 +929,6 @@
         "en": "Anastasia",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "6e454c59-bb29-591d-b70b-b18b44d2a8e5",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "35748931",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "5994609727",
-          "type": "official",
-          "platform": "weibo"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "And2girls",
-        "default": "en"
-      },
-      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
     },
     {
       "uuid": "73b499d5-e079-5360-a304-b95512cb6614",
@@ -29111,8 +29088,7 @@
         "extra": [],
         "cn": "夏行美Official",
         "default": "cn"
-      },
-      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
+      }
     },
     {
       "uuid": "65dc6345-9d35-59bb-95c2-b3d9c3371c74",
@@ -90289,8 +90265,7 @@
         "extra": [],
         "cn": "风霁月Official",
         "default": "cn"
-      },
-      "group": "6e454c59-bb29-591d-b70b-b18b44d2a8e5"
+      }
     },
     {
       "uuid": "ccf670e2-816f-5389-b8dd-124fba8c9efa",
