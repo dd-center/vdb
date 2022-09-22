@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663857770
+    "timestamp": 1663858404
   },
   "vtbs": [
     {
@@ -38265,6 +38265,24 @@
         "default": "cn"
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0"
+    },
+    {
+      "uuid": "c407879b-5fa6-505c-910f-13e2c7dab788",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "296683456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "带袋浣熊",
+        "en": "Rakky",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b1360616-ba58-5933-9ec1-01c258d3853d",
