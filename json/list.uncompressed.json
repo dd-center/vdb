@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1663823879
+    "timestamp": 1663857600
   },
   "vtbs": [
     {
@@ -81017,6 +81017,23 @@
         "default": "cn"
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b"
+    },
+    {
+      "uuid": "1b18a985-6c55-57e2-a56f-b930421d5b6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8429488",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "裸奔的甲鱼Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a454f9d1-d284-52d5-be62-70eec6c45bd9",
