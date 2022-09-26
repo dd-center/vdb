@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664206316
+    "timestamp": 1664206423
   },
   "vtbs": [
     {
@@ -91080,6 +91080,23 @@
       "name": {
         "extra": [],
         "jp": "高槻律",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "cbd77c00-bac0-52c6-a162-563ab73d68f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2057387928",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "高贝兹咪咪子Official",
         "default": "jp"
       }
     },
