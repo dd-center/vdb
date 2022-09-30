@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664448799
+    "timestamp": 1664525585
   },
   "vtbs": [
     {
@@ -85262,6 +85262,23 @@
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
+    },
+    {
+      "uuid": "7484a36d-a676-5825-bc91-72e9819ef6fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461566332668663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "钟晴要变强",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7b52bcc4-4374-5b39-a6fc-f86b1450a4d2",
