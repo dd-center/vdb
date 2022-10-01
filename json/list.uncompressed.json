@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664525585
+    "timestamp": 1664651641
   },
   "vtbs": [
     {
@@ -58258,6 +58258,23 @@
       "name": {
         "extra": [],
         "cn": "淺羽Asaha_Mino",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75abfe4f-2619-59b2-82f3-7d7ea438679f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "518490855",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清兰sanrel",
         "default": "cn"
       }
     },
