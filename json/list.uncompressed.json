@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664652060
+    "timestamp": 1664652079
   },
   "vtbs": [
     {
@@ -56713,6 +56713,23 @@
       "name": {
         "extra": [],
         "cn": "法苏Baby",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "977605dd-d986-5317-86ef-1c1cffa357e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23263470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "法里达",
         "default": "cn"
       }
     },
