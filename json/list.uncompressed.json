@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664651641
+    "timestamp": 1664651909
   },
   "vtbs": [
     {
@@ -57655,6 +57655,23 @@
       "name": {
         "extra": [],
         "cn": "浮樨落羽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "851a68b4-b906-51f7-ba0d-33bc06e028a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "277698869",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海伊",
         "default": "cn"
       }
     },
