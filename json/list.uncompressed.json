@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664652029
+    "timestamp": 1664652060
   },
   "vtbs": [
     {
@@ -9994,6 +9994,24 @@
         "cn": "shadow_sakuya",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e5caa770-d383-59a7-9ae7-696f7f84ee5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1881110844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辻音Rosely",
+        "default": "cn"
+      },
+      "group": "df9965c7-4901-5180-9ec6-e1ef5fccb550"
     },
     {
       "uuid": "69f36117-282e-5bca-b924-3fae05d1eaa4",
