@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664651909
+    "timestamp": 1664651934
   },
   "vtbs": [
     {
@@ -23510,6 +23510,23 @@
       "name": {
         "extra": [],
         "cn": "千羽黑乃official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b10c32a-ce5d-5169-9b6a-dbc039262f98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5658712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千耘official",
         "default": "cn"
       }
     },
