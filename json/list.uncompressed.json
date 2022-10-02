@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1664652079
+    "timestamp": 1664701666
   },
   "vtbs": [
     {
@@ -5981,6 +5981,23 @@
         "extra": [],
         "cn": "Pomelo安妮",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "99ca9d61-b09f-5954-ab8b-41364142d215",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1399272173",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "PorcelainMaid",
+        "default": "en"
       }
     },
     {
