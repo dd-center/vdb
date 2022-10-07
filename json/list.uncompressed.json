@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665147724
+    "timestamp": 1665147748
   },
   "vtbs": [
     {
@@ -15790,6 +15790,23 @@
       "name": {
         "extra": [],
         "cn": "不可食用面包君",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e05648b1-aae3-5608-8aa1-a80b757c5826",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8828904",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不想加班的朋朋",
         "default": "cn"
       }
     },
