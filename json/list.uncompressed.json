@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665149358
+    "timestamp": 1665149384
   },
   "vtbs": [
     {
@@ -73901,6 +73901,27 @@
         "extra": [],
         "cn": "罚站AI",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "b7e5e9d0-757f-5f39-ad27-fb6b92c11522",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1870142497",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "ひつじもかな",
+          "桃香奈"
+        ],
+        "jp": "もかな",
+        "cn": "羊姬桃香奈",
+        "default": "jp"
       }
     },
     {
