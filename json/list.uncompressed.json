@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665149237
+    "timestamp": 1665149358
   },
   "vtbs": [
     {
@@ -26583,6 +26583,24 @@
         "cn": "味噌缇露official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "03e4f06d-6a95-53b1-a9ea-85f29567837f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "96264399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "和水_nouille",
+        "default": "cn"
+      },
+      "group": "e73263e5-7914-5da0-a523-475213ae2d4e"
     },
     {
       "uuid": "5d2fdb39-9ad7-5cc4-8a8c-187b307e4b79",
