@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665147768
+    "timestamp": 1665147827
   },
   "vtbs": [
     {
@@ -49792,6 +49792,23 @@
         "default": "cn"
       },
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
+    },
+    {
+      "uuid": "0c21e7b8-be8f-5062-b7a3-df77e738d43b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1294678093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杜铂雷Dobre",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7d8a2fb5-aea6-5ebf-a5be-7fa39ff51df1",
