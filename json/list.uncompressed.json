@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665148022
+    "timestamp": 1665148053
   },
   "vtbs": [
     {
@@ -34213,6 +34213,24 @@
       }
     },
     {
+      "uuid": "a0322cb4-ac3b-55bc-b5cf-d1edafb025c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1342050054",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安西娅Anthea",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
+    },
+    {
       "uuid": "42c89519-5e4a-54ea-a258-020a25ab9db5",
       "type": "vtuber",
       "bot": false,
@@ -38268,6 +38286,24 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "4802941f-9d6c-570f-b76c-9f3669d08e70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1578580407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希芙莉Sifly",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
     },
     {
       "uuid": "5b0825b7-d48b-5360-a5d8-4e03a2b3e5dd",
@@ -74704,6 +74740,24 @@
         "default": "cn"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
+    },
+    {
+      "uuid": "69e84b86-57ef-51ca-9c75-30c93ea65a45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1627197427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "舞-Mai",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
     },
     {
       "uuid": "f85771ea-db39-51a6-bffa-246b8cbdce17",
