@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665147293
+    "timestamp": 1665147424
   },
   "vtbs": [
     {
@@ -2576,6 +2576,24 @@
       "group": "78f9c877-f18b-5e6e-8747-48193f5850b8"
     },
     {
+      "uuid": "9ec3f894-f793-5ef2-826b-e5faf0fbd759",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1281805827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Fulgur Ovid",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
       "uuid": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
       "type": "group",
       "bot": false,
@@ -4206,6 +4224,24 @@
         "default": "cn"
       },
       "group": "e7c5c642-480d-5f15-81a4-66cefd3975e0"
+    },
+    {
+      "uuid": "aafef824-d3b1-50d6-97f8-f01e8e1385be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1217057066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Maria Marionette",
+        "default": "en"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
       "uuid": "1b25e060-49eb-5954-af16-2fea26b77bf8",
