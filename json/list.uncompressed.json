@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665148719
+    "timestamp": 1665149237
   },
   "vtbs": [
     {
@@ -49899,7 +49899,7 @@
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
     },
     {
-      "uuid": "0c21e7b8-be8f-5062-b7a3-df77e738d43b",
+      "uuid": "9c2218dd-d925-5155-9a47-9b0796296359",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -53351,6 +53351,24 @@
         "CN": "梨卡Rika",
         "default": "CN"
       }
+    },
+    {
+      "uuid": "45e05f72-d69b-5489-9293-21458a419588",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11537944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨子_Riko",
+        "default": "cn"
+      },
+      "group": "d0827515-9a79-5e6a-b445-b1145bacfea4"
     },
     {
       "uuid": "9dfb701c-102a-56ac-8d72-beb29fda311d",
