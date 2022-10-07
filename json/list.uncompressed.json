@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665147424
+    "timestamp": 1665147552
   },
   "vtbs": [
     {
@@ -191,6 +191,23 @@
         "extra": [],
         "cn": "-荔枝酒",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e674e8e-939d-5318-8d78-9c1a740db5ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1472362579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "-莉莉-Lily-",
+        "default": "en"
       }
     },
     {
@@ -16026,6 +16043,23 @@
       "name": {
         "extra": [],
         "cn": "世弥Yoya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04dea216-9847-5dc1-9a94-40a31be9f78e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1155161027",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "世果-Seika",
         "default": "cn"
       }
     },
