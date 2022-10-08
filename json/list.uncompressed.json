@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665203254
+    "timestamp": 1665221092
   },
   "vtbs": [
     {
@@ -94334,6 +94334,24 @@
         "cn": "H_A_L_I_E_R",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "14d7721a-6e03-53a1-8399-9caef56ec89d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1707853573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑赫德Hepherd",
+        "default": "cn"
+      },
+      "group": "158ce246-eb9b-57cd-99c1-dc8517d814bc"
     },
     {
       "uuid": "bd6885ba-0d53-5aa2-b279-9f06bc966d4e",
