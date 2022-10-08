@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665149906
+    "timestamp": 1665198517
   },
   "vtbs": [
     {
@@ -47712,6 +47712,23 @@
       }
     },
     {
+      "uuid": "1196ef95-338c-577e-ba7b-d185ce4f74a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1929855385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月下烁也",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c3a5fb26-be12-5fee-981c-ec31f23c4051",
       "type": "vtuber",
       "bot": false,
@@ -48828,6 +48845,23 @@
       "name": {
         "extra": [],
         "cn": "朝日奈乃Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e5f96758-ed59-5dcf-a9df-3252df5bd66e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1502895122",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝枝晓Akatsuki",
         "default": "cn"
       }
     },
