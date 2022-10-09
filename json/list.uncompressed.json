@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665288367
+    "timestamp": 1665288392
   },
   "vtbs": [
     {
@@ -57451,6 +57451,23 @@
         "extra": [],
         "cn": "泰蕾莎",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "12aead56-ef8e-5c34-ac9c-7544576f46b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2061961489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "泰迪熊奴奴丝",
+        "default": "jp"
       }
     },
     {
