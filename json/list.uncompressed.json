@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665221092
+    "timestamp": 1665288218
   },
   "vtbs": [
     {
@@ -75906,6 +75906,24 @@
         "cn": "芋泥cookie",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b646c592-4925-518f-acfe-4687816a5f2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2064389464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芋言Lila",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
     },
     {
       "uuid": "c9f6e1a7-ea2d-54a3-be9c-abc96a9ccb80",
