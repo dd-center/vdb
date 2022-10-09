@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665288575
+    "timestamp": 1665289090
   },
   "vtbs": [
     {
@@ -93525,6 +93525,23 @@
       "name": {
         "extra": [],
         "cn": "鹿玥_Shikatsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6eb39af-c92d-51d8-ba9c-e24fd67c16d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1510444081",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿蜀shu_",
         "default": "cn"
       }
     },
