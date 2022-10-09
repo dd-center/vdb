@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665288218
+    "timestamp": 1665288305
   },
   "vtbs": [
     {
@@ -54627,6 +54627,23 @@
         "extra": [],
         "cn": "樱和",
         "jp": "桜なごみ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca603fa0-7994-53c2-a81c-e21f5fb197d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476891365",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱奈汐音_Naki",
         "default": "cn"
       }
     },
