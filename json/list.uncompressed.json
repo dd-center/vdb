@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665371440
+    "timestamp": 1665371487
   },
   "vtbs": [
     {
@@ -6802,25 +6802,6 @@
         "default": "en"
       },
       "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f"
-    },
-    {
-      "uuid": "0e2e2085-33c6-5205-a9e2-81702f20a7b0",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "593930090",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "星露社",
-        "en": "SSR",
-        "default": "cn"
-      },
-      "group": "0e2e2085-33c6-5205-a9e2-81702f20a7b0"
     },
     {
       "uuid": "0de140ce-51fc-5a24-9d16-841decbb349c",
@@ -44454,8 +44435,7 @@
         "jp": "セナ",
         "en": "Sena",
         "default": "cn"
-      },
-      "group": "0e2e2085-33c6-5205-a9e2-81702f20a7b0"
+      }
     },
     {
       "uuid": "a89c84f2-7ab8-5c49-a146-fcc2b94b65ae",
