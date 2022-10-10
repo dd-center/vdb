@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665371141
+    "timestamp": 1665371440
   },
   "vtbs": [
     {
@@ -6231,6 +6231,23 @@
       "name": {
         "extra": [],
         "cn": "PulsarGame",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca397f8c-dcdf-5d60-b444-bc3163e74a3c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7512597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pumpkin_H南瓜",
         "default": "cn"
       }
     },
