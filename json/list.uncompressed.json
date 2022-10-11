@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665459430
+    "timestamp": 1665459449
   },
   "vtbs": [
     {
@@ -15553,6 +15553,23 @@
         "extra": [],
         "jp": "三田そにあ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "764e041b-cb60-5ca8-b643-c112d3c39dc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1220672487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三花丸子",
+        "default": "cn"
       }
     },
     {
