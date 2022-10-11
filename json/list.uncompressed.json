@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665459473
+    "timestamp": 1665459498
   },
   "vtbs": [
     {
@@ -51450,6 +51450,23 @@
         "default": "cn"
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
+    },
+    {
+      "uuid": "c4c42f48-9b7e-5b7f-bc87-1c104fe41a80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3197110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯瑞尔特可可爱爱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "84f321bf-8504-5bba-a5a0-c49ad3906e4c",
