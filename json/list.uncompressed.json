@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665621174
+    "timestamp": 1665627943
   },
   "vtbs": [
     {
@@ -5736,6 +5736,24 @@
         "default": "CN"
       },
       "group": "2bb25003-d023-5c1e-96a0-e7167a9c9287"
+    },
+    {
+      "uuid": "8a72771a-347f-514f-b5d2-b83ee4cbebb0",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2012430091",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "PaPutok",
+        "default": "en"
+      },
+      "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0"
     },
     {
       "uuid": "f0f8d8bd-54fa-56cc-ac3a-ee0466f314d5",
@@ -17557,6 +17575,24 @@
         "cn": "五道口龙哥",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "336f7fde-99f5-5c3e-a44b-633ddcd5f920",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1329861887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "井上沧月Tsuki",
+        "default": "cn"
+      },
+      "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0"
     },
     {
       "uuid": "ce2b77b0-c0c6-5bed-802a-006470b0483b",
@@ -46469,6 +46505,24 @@
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754"
     },
     {
+      "uuid": "3dc4f45a-2be9-572b-9162-b5fdaf170607",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1514835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春日千代Chiyo",
+        "default": "cn"
+      },
+      "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0"
+    },
+    {
       "uuid": "41dfb636-76b0-5637-af94-702586a22226",
       "type": "vtuber",
       "bot": false,
@@ -73006,6 +73060,24 @@
         "cn": "绘实_M9nis",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5ee0f2ea-3bbc-5849-bcb6-f10f64540104",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1629232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绘星不会撞地球",
+        "default": "cn"
+      },
+      "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0"
     },
     {
       "uuid": "1eb04b1f-4f48-590b-8912-bbd49562864c",
