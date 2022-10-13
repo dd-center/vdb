@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665582762
+    "timestamp": 1665621123
   },
   "vtbs": [
     {
@@ -1334,41 +1334,6 @@
         "cn": "Bunny_Channel",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "4de16f17-cd74-5be0-a674-5930689c7bfb",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "34547736",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "Burgess41",
-          "type": "official",
-          "platform": "afdian"
-        },
-        {
-          "id": "17207067",
-          "type": "official",
-          "platform": "pixiv"
-        },
-        {
-          "id": "BilibiliBurgess",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "肆壹",
-        "en": "Burgess",
-        "jp": "よんいち",
-        "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
     },
     {
       "uuid": "54f12813-1527-5f52-b566-3b36f51d676b",
@@ -6052,24 +6017,6 @@
       "group": "d160848c-6d4c-56f7-afa9-196abc2405f7"
     },
     {
-      "uuid": "ccfa8b1f-4bae-50a0-9252-21c47c901240",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "324594206",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Project Cyto",
-        "default": "en"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
-    },
-    {
       "uuid": "03f37d42-8b64-5cc2-aaa0-ac334aca9a56",
       "type": "group",
       "bot": false,
@@ -7490,8 +7437,7 @@
         "en": "Byakuya Tira",
         "jp": "白夜チラ",
         "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
+      }
     },
     {
       "uuid": "1949c728-51c5-5a34-bf82-62b500439933",
@@ -8326,8 +8272,7 @@
         "extra": [],
         "cn": "Wenshuanglin",
         "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
+      }
     },
     {
       "uuid": "f0f6db36-c594-50bd-ae6a-5032878a8ce6",
@@ -36606,24 +36551,6 @@
       "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
     },
     {
-      "uuid": "90a14c56-1ea1-5cb5-b8d6-c8568f45d91e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3762609",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "小鳥遊春風Official",
-        "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
-    },
-    {
       "uuid": "8138f570-a61d-5887-9148-5bf8bded0fbc",
       "type": "vtuber",
       "bot": false,
@@ -63163,8 +63090,7 @@
         "extra": [],
         "cn": "王尔君Official",
         "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
+      }
     },
     {
       "uuid": "ef21b289-9bd9-58c9-ae45-b9e83023060d",
@@ -70823,31 +70749,6 @@
         "default": "cn"
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25"
-    },
-    {
-      "uuid": "74443140-30cb-518c-9d35-3c75db5f49b2",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1967619",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "436413140",
-          "type": "official",
-          "platform": "163music"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "筑波 Kobu",
-        "en": "Tsukuba Kobu",
-        "jp": "筑波コブ",
-        "default": "cn"
-      },
-      "group": "ccfa8b1f-4bae-50a0-9252-21c47c901240"
     },
     {
       "uuid": "0546f0e4-5849-5c97-8d69-ce21c5a5ae79",
