@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665758295
+    "timestamp": 1665781871
   },
   "vtbs": [
     {
@@ -2770,6 +2770,23 @@
         "default": "cn"
       },
       "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
+    },
+    {
+      "uuid": "7e6941f0-df3e-5dcd-874a-71c7025ca507",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3008887",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Guri緑球三",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f370c4bf-500c-57d8-960a-bb2ec7715526",
