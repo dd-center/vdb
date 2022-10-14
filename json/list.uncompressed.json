@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665729947
+    "timestamp": 1665733630
   },
   "vtbs": [
     {
@@ -17438,23 +17438,6 @@
       "name": {
         "extra": [],
         "cn": "云筱_KuMo",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "c4429614-713b-5918-ac9d-c8d08da92d0b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2565338",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "云絮channel",
         "default": "cn"
       }
     },
@@ -38077,6 +38060,23 @@
       "name": {
         "extra": [],
         "cn": "帆楼Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4185f799-eeb5-55d6-bf6d-0b18c8f9e4fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2565338",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "师音Sin",
         "default": "cn"
       }
     },
@@ -91266,8 +91266,7 @@
         "extra": [],
         "cn": "饴宫Doki",
         "default": "cn"
-      },
-      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
+      }
     },
     {
       "uuid": "d3f05968-bcc4-5e66-b0f8-111e83385ec5",
