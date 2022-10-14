@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665627998
+    "timestamp": 1665729796
   },
   "vtbs": [
     {
@@ -9952,6 +9952,24 @@
         "cn": "s1姬",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d2995fdf-cb75-5cba-90a8-69066706c089",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "190959309",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神大人",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52"
     },
     {
       "uuid": "4c2906cc-1718-5648-a1cb-f91d63ca424e",
