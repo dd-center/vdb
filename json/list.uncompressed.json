@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665733630
+    "timestamp": 1665758115
   },
   "vtbs": [
     {
@@ -37174,6 +37174,23 @@
         "default": "cn"
       },
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
+      "uuid": "6ee7d4cb-50f3-52e2-bcee-43e1acb39f04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22089831",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山奈小师妹",
+        "default": "cn"
+      }
     },
     {
       "uuid": "58dac1a9-14de-5322-ae68-2668e3021973",
