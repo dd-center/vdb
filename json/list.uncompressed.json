@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665758202
+    "timestamp": 1665758245
   },
   "vtbs": [
     {
@@ -80427,6 +80427,23 @@
       "name": {
         "extra": [],
         "cn": "蓬莱寺樱花",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "571fabae-20ad-50eb-84d4-c450257a0d0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1630494154",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蔓Aoede",
         "default": "cn"
       }
     },
