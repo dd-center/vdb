@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665729796
+    "timestamp": 1665729947
   },
   "vtbs": [
     {
@@ -708,6 +708,96 @@
         "en": "Accesstobia",
         "default": "en"
       }
+    },
+    {
+      "uuid": "ffa620a2-3058-5915-a452-7dc7b880f156",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1287888117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Afaer-Official",
+        "default": "cn"
+      },
+      "group": "ffa620a2-3058-5915-a452-7dc7b880f156"
+    },
+    {
+      "uuid": "1acadf83-c27d-58f1-8d7f-eaf6f33536bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2086914019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Afaer-伊梦Eligo",
+        "default": "cn"
+      },
+      "group": "ffa620a2-3058-5915-a452-7dc7b880f156"
+    },
+    {
+      "uuid": "456893cd-8927-5e38-b67b-52d8bde11107",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461569182698067",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Afaer-吕和今Asota",
+        "default": "cn"
+      },
+      "group": "ffa620a2-3058-5915-a452-7dc7b880f156"
+    },
+    {
+      "uuid": "842d2aba-8a56-5de6-a4ea-f1e8b313fa6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1259447274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Afaer-展麟Finn",
+        "default": "cn"
+      },
+      "group": "ffa620a2-3058-5915-a452-7dc7b880f156"
+    },
+    {
+      "uuid": "5abce272-266e-57fd-9b29-327a1cbe1e6f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "504822817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Afaer-林亚Raenia",
+        "default": "cn"
+      },
+      "group": "ffa620a2-3058-5915-a452-7dc7b880f156"
     },
     {
       "uuid": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0",
