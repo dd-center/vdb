@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665963688
+    "timestamp": 1665963711
   },
   "vtbs": [
     {
@@ -31940,6 +31940,23 @@
       "name": {
         "extra": [],
         "cn": "奇姬LilyPop",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a5a50920-5f46-50b6-b2f7-5364e5c7ca69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1768511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奇纳_Kina",
         "default": "cn"
       }
     },
