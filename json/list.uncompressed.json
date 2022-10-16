@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665892763
+    "timestamp": 1665892795
   },
   "vtbs": [
     {
@@ -49265,6 +49265,23 @@
       "name": {
         "extra": [],
         "cn": "木野子_KINOKO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cc2eecaf-22c8-5ae1-a810-c3615237a20e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1820024161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木须tamago",
         "default": "cn"
       }
     },
