@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665892495
+    "timestamp": 1665892680
   },
   "vtbs": [
     {
@@ -43187,6 +43187,24 @@
         "cn": "无名Couture",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "21ce2673-da24-57d1-b22e-dbd09d1172d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13905358",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无名古人",
+        "default": "cn"
+      },
+      "group": "36fdf231-61bf-520c-adb7-d3081d7deb6c"
     },
     {
       "uuid": "a58a35dd-0183-5fe1-98d2-7d6eaf659191",
