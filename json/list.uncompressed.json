@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665892795
+    "timestamp": 1665892865
   },
   "vtbs": [
     {
@@ -36009,6 +36009,23 @@
         "default": "cn"
       },
       "group": "ef62fd18-c22b-5457-9453-48819f385b8f"
+    },
+    {
+      "uuid": "8e578a68-5b73-50cb-b3db-339a2dd8fe6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677977564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小玉叽在画你喜欢的",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a174dcb0-b5a1-597b-bfcd-64fe7cbcd473",
