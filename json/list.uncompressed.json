@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665781871
+    "timestamp": 1665892495
   },
   "vtbs": [
     {
@@ -55239,6 +55239,23 @@
       "name": {
         "extra": [],
         "cn": "橙歌歌睡不醒OvO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f734b05b-a952-5d16-9397-f2f262c5131f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1952914799",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙络络2070",
         "default": "cn"
       }
     },
