@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665893302
+    "timestamp": 1665917558
   },
   "vtbs": [
     {
@@ -45033,6 +45033,23 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
+    },
+    {
+      "uuid": "b67ba62a-dbe2-51ec-940b-307431f3a999",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20722421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星泽百合yuri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "52e8c130-ed34-587e-bffe-891e77f46616",
