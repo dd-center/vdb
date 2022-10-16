@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665892865
+    "timestamp": 1665892931
   },
   "vtbs": [
     {
@@ -49693,6 +49693,23 @@
       "name": {
         "extra": [],
         "cn": "机智大灯灯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c7a8c25a-c547-530d-840a-dff603436fb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "824967",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "机智的孙工",
         "default": "cn"
       }
     },
