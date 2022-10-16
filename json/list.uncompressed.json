@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665892680
+    "timestamp": 1665892763
   },
   "vtbs": [
     {
@@ -26997,6 +26997,24 @@
         "default": "cn"
       },
       "group": "f2206359-f293-5021-9030-fde29ad68bb2"
+    },
+    {
+      "uuid": "669de5ab-5ad9-5850-b16a-abacf70a9fb7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1828986549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咲来希希",
+        "jp": "咲来希々",
+        "default": "cn"
+      }
     },
     {
       "uuid": "205168b1-fc4a-510b-a240-630cd5db6f15",
