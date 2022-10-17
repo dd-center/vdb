@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1665963990
+    "timestamp": 1666043914
   },
   "vtbs": [
     {
@@ -9432,6 +9432,23 @@
       "name": {
         "extra": [],
         "cn": "kinoko杂菌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0770f520-2bce-51cf-a412-5ed9e17d837a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5494366",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "komako_02",
         "default": "cn"
       }
     },
