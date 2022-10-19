@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666083610
+    "timestamp": 1666198452
   },
   "vtbs": [
     {
@@ -24844,6 +24844,23 @@
       "name": {
         "extra": [],
         "cn": "厄里斯Eris",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04f060a9-aa0c-5b0b-afee-b5375897d762",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "597701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "压刹channel",
         "default": "cn"
       }
     },
