@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666282856
+    "timestamp": 1666282954
   },
   "vtbs": [
     {
@@ -36681,6 +36681,23 @@
       "name": {
         "extra": [],
         "cn": "小马克_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cfaab611-89ef-531e-971e-509c6a0330ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1034537291",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小骨大魔王",
         "default": "cn"
       }
     },
