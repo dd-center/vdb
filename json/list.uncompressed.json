@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666239625
+    "timestamp": 1666239689
   },
   "vtbs": [
     {
@@ -83790,6 +83790,23 @@
         "default": "cn"
       },
       "group": "eb71d898-f15e-591f-acf0-3d07fe77ccfa"
+    },
+    {
+      "uuid": "8732a7c1-3d5c-5d66-b0b4-97a1bf1dfe3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2847434",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "软软今天摆烂了吗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e478e889-ddc7-5dcb-915f-8c321a484d11",
