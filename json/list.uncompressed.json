@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666240157
+    "timestamp": 1666240301
   },
   "vtbs": [
     {
@@ -2245,6 +2245,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "67964ebf-d460-5c8b-96c4-d5ae68a17f2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1927387840",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EVL-研究所",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ad0ade91-bf05-51a9-a791-39aeeae06779",
@@ -10153,6 +10170,24 @@
         "cn": "s1姬",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "db8b9169-b594-52f1-a7c0-baccc6acef9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461571550382871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "sana紗那",
+        "default": "cn"
+      },
+      "group": "67964ebf-d460-5c8b-96c4-d5ae68a17f2a"
     },
     {
       "uuid": "d2995fdf-cb75-5cba-90a8-69066706c089",
@@ -86190,6 +86225,24 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "d017c9c9-ec1e-53fd-9479-6bbf312d6ea8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2129498611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃圆Roki",
+        "default": "cn"
+      },
+      "group": "67964ebf-d460-5c8b-96c4-d5ae68a17f2a"
     },
     {
       "uuid": "22a8f8f6-ea44-59d7-b8ba-c56887b8ca15",
