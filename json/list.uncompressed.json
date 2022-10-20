@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666282954
+    "timestamp": 1666287156
   },
   "vtbs": [
     {
@@ -812,6 +812,29 @@
       "group": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0"
     },
     {
+      "uuid": "7d2b551b-6654-53a8-b31c-dd8acc909325",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCN68LoM3khS4gdBMiWJO8WA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "AiaAmare",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Aia Amare",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "e06166ca-e39d-54fd-9da8-4aed958e902b",
       "type": "vtuber",
       "bot": false,
@@ -930,6 +953,29 @@
         "en": "Ako_official",
         "default": "en"
       }
+    },
+    {
+      "uuid": "e6c2df2b-e3fc-502b-88c4-9c20db11b116",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "alban_knox",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Alban Knox",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "b5110c54-7d59-5132-bcb4-3902966f6f4d",
@@ -1167,6 +1213,29 @@
         "cn": "Asakiri深岚",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8c083a41-0fb5-5233-ab71-7be7838fc156",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCpzxZW5kghGnO5TmAFJQAVw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "AsterArcadia",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Aster Arcadia",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "5e8abe81-cffe-59b8-91c4-c1a07b737c7b",
@@ -2340,6 +2409,29 @@
       }
     },
     {
+      "uuid": "41207fab-a3ae-5e16-b9c6-8930795a738b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "EliraPendora",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Elira Pendora",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "61a71990-2b5e-5623-b4af-a60627a4eef0",
       "type": "vtuber",
       "bot": false,
@@ -2390,6 +2482,29 @@
         "default": "cn"
       },
       "group": "36640dd2-c41d-52ca-9443-5669a1b234bc"
+    },
+    {
+      "uuid": "32e3ab6f-4d1f-59c8-aa89-08bad3d0d10f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCR6qhsLpn62WVxCBK1dkLow",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "EnnaAlouette",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Enna Alouette",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "ace5cd6f-339f-5bb3-81e9-3079b131dbf1",
@@ -2623,6 +2738,29 @@
       "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
     },
     {
+      "uuid": "af3368d9-a497-5df5-8c83-c4428910ae28",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCu-J8uIXuLZh16gG-cT1naw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "FinanaRyugu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Finana Ryugu",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "5f5295f0-c83d-53f9-a1a8-ccc4cd92900a",
       "type": "vtuber",
       "bot": false,
@@ -2666,6 +2804,16 @@
           "id": "1281805827",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCGhqxhovNfaPBpxfCruy9EA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Fulgur_Ovid",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -2673,7 +2821,7 @@
         "en": "Fulgur-Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
@@ -3178,6 +3326,16 @@
           "id": "1921596130",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UC4yNIKGvy-YUrwYupVdLDXA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ike_eveland",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -3185,7 +3343,7 @@
         "en": "Ike_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "f30adaff-4cda-5702-89d5-5c09c07533f7",
@@ -3676,6 +3834,29 @@
       "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5"
     },
     {
+      "uuid": "de2dfa97-8efc-569d-a2c9-77993a28fd99",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCsb-1aJgiJXJH2feV-zlZRw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "kyokanek0",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Kyo Kaneko",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "3c9c386f-4733-53d0-b303-18066c2eed88",
       "type": "vtuber",
       "bot": false,
@@ -3928,6 +4109,16 @@
           "id": "1673137696",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UC7Gb7Uawe20QyFibhLl1lzA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "luca_kaneshiro",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -3935,7 +4126,7 @@
         "en": "Luca_EN_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "961d57d4-6c94-52f7-9a2f-b8e6d1bea433",
@@ -4315,6 +4506,16 @@
           "id": "1217057066",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCwaS8_S7kMiKA3izlTWHbQg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "mariamari0nette",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -4322,7 +4523,7 @@
         "en": "Maria_M_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "5ca6fd48-788e-5878-abe7-0d8f6ee27651",
@@ -4602,6 +4803,29 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "eee18fdf-d382-5f4e-b50b-5c34d3cc75d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC47rNmkDcNgbOcM-2BwzJTQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "MillieParfait",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Millie Parfait",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "0e9a34e0-f43f-5a48-8e5b-947336e303c6",
@@ -4957,9 +5181,19 @@
       "bot": false,
       "accounts": [
         {
+          "id": "UCIM92Ok_spNKLVB5TsgwseQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
           "id": "1544125954",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "Mysta_Rias",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -4967,7 +5201,7 @@
         "en": "Mysta_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "a2f356c4-9610-54fa-88dd-7f6727c1ef31",
@@ -5094,6 +5328,29 @@
         "cn": "NIGHTEAM",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC-JSeFfovhNsEhftt1WHMvg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "nijisanji_world",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "NIJISANJI EN",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
@@ -5392,6 +5649,29 @@
         "cn": "Nightinnn",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c482c986-95d9-52d1-9229-79ff4885e8db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCkieJGn3pgJikVW8gmMXE2w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "NinaKosaka",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Nina Kosaka",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "f088977a-bd27-5cfc-8a3d-7d26d9471a2e",
@@ -6010,6 +6290,29 @@
       }
     },
     {
+      "uuid": "6883cd01-30c4-55a2-a4ae-3ab79a60cba2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCgA2jKRkqpY_8eysPUs8sjw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Petra_Gurin",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Petra Gurin",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "da9f6987-cdc2-54a3-ae8d-deb6e3053b1c",
       "type": "vtuber",
       "bot": false,
@@ -6166,6 +6469,29 @@
         "cn": "Pomelo安妮",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "cc6c7b14-567d-5ae3-88d8-3eecdc4b0df4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCP4nMSTdwU1KqYWu3UH5DHQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "PomuRainpuff",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Pomu Rainpuff",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "2cf7475d-7b64-5931-9fbd-9d610a0b37b4",
@@ -6652,6 +6978,29 @@
       }
     },
     {
+      "uuid": "22c5b5a4-c377-58c5-a196-9a40df22432f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCBURM8S4LH7cRZ0Clea9RDA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ReimuEndou",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Reimu Endou",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "4b1eb70d-2151-5845-b192-2abe30f52ebb",
       "type": "vtuber",
       "bot": false,
@@ -6667,6 +7016,29 @@
         "en": "Reimu的地灵殿",
         "default": "en"
       }
+    },
+    {
+      "uuid": "e71bf3f0-f502-529e-9c6f-98c4822170c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCKu59gTZ_rdEmerdx5rV4Yg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "RenZott0",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ren Zotto",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "46ae2cdd-cc9d-5f61-aa42-5afe19b4369e",
@@ -6775,6 +7147,29 @@
         "cn": "树根",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fa9eef54-4695-58ce-ab4b-5a0279dca35b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Rosemi_Lovelock",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Rosemi Lovelock",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "1e60dee9-e205-52a2-b094-8affd8553254",
@@ -7040,6 +7435,29 @@
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
     },
     {
+      "uuid": "8605ba60-ade7-584a-9bf4-5cb81e09e8a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "ScarleYonaguni",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Scarle Yonaguni",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
+    },
+    {
       "uuid": "5b370d90-6c58-5e68-89b2-16bc3a89ae4c",
       "type": "vtuber",
       "bot": false,
@@ -7108,6 +7526,29 @@
         "cn": "Seikyuu-VA",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2536c454-53c7-50dd-81b1-98232c9b9abd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCV1xUwfM2v2oBtT3JNvic3w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "selen_tatsuki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Selen Tatsuki",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "998726b1-c4ac-560c-88b3-77f0da9b4b80",
@@ -7286,6 +7727,16 @@
           "id": "1420890712",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCG0rzBZV_QMP4MtWg6IjhEA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "shu_yamino",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -7293,7 +7744,7 @@
         "en": "Shu_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "41cdcb3b-944c-5364-8d15-f65cfb381bac",
@@ -7413,6 +7864,29 @@
         "cn": "Snozaki筱崎",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f9cf44b8-261f-5ede-9978-ed588dfe6fbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCuuAb_72QzK0M1USPMEl1yw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "sonny_brisko",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Sonny Brisko",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "49853fc3-5bff-54e9-ab63-ecc47ea65f5b",
@@ -7797,6 +8271,29 @@
         "default": "cn"
       },
       "group": "63ddd5e3-d91b-5c18-8818-dd849b0a9436"
+    },
+    {
+      "uuid": "3c050afa-63cc-5a27-8eec-fb5e415c4c25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UChJ5FTsHOu72_5OVx0rvsvQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "uki_violeta",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Uki Violeta",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "348646b5-ace2-549f-8200-180c6485719e",
@@ -8347,6 +8844,16 @@
           "id": "1775966996",
           "type": "official",
           "platform": "bilibili"
+        },
+        {
+          "id": "UCckdfYDGrjojJM28n5SHYrA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Vox_Akuma",
+          "type": "official",
+          "platform": "twitter"
         }
       ],
       "name": {
@@ -8354,7 +8861,7 @@
         "en": "Vox_EN_Official",
         "default": "en"
       },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "0b05b632-9f3c-55fb-bc20-56c9e6979c64",
@@ -8732,6 +9239,29 @@
         "default": "jp"
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598"
+    },
+    {
+      "uuid": "51d57140-6959-543e-9eb9-b8a6308423a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCSc_KzY_9WYAx9LghggjVRA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "yugo_asuma",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Yugo Asuma",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b"
     },
     {
       "uuid": "1c3907ea-5fdd-5517-8bfc-12753b3a6295",
