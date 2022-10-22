@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666334056
+    "timestamp": 1666474609
   },
   "vtbs": [
     {
@@ -36736,6 +36736,23 @@
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
     },
     {
+      "uuid": "22be9e01-0c3e-5724-84e4-ae888ffe83fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "662172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小紫花小XIGA",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1d73bc0f-bafc-5a6b-94f1-11d68524018f",
       "type": "vtuber",
       "bot": false,
@@ -63692,6 +63709,23 @@
       "name": {
         "extra": [],
         "cn": "玉弓芒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9ea519a0-144b-5fdb-aa5d-60af7b4afdbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14731787",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玉斑snake",
         "default": "cn"
       }
     },
