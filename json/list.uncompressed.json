@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666501864
+    "timestamp": 1666501881
   },
   "vtbs": [
     {
@@ -56918,6 +56918,23 @@
         "extra": [],
         "CN": "汐华花音",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "659826d9-c787-59a0-818b-5c33862fa297",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498188835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐尔Sier",
+        "default": "cn"
       }
     },
     {
