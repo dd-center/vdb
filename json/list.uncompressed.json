@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666474746
+    "timestamp": 1666501864
   },
   "vtbs": [
     {
@@ -84983,6 +84983,23 @@
         "default": "cn"
       },
       "group": "5e38bdf6-be61-55df-9c48-45bf6220dda3"
+    },
+    {
+      "uuid": "0828cb99-11f6-5c00-9e70-1e207f4a66c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1962374457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "达妮娅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2799f8d7-25cf-5d39-9e3d-e6d0329a8da8",
