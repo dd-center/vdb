@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666591629
+    "timestamp": 1666595008
   },
   "vtbs": [
     {
@@ -1650,24 +1650,6 @@
         "en": "Cloubee_desu",
         "default": "en"
       }
-    },
-    {
-      "uuid": "b29095e6-c178-5900-871c-349e426ad495",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "473961987",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "CloudConnecting",
-        "default": "en"
-      },
-      "group": "b29095e6-c178-5900-871c-349e426ad495"
     },
     {
       "uuid": "685c123a-5432-55cf-83f8-e66165e172be",
@@ -36384,24 +36366,6 @@
       }
     },
     {
-      "uuid": "51e34fae-162f-5ff3-ab5d-d0e908fc98e3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "433189681",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "小水乙女Komizuotome",
-        "default": "cn"
-      },
-      "group": "b29095e6-c178-5900-871c-349e426ad495"
-    },
-    {
       "uuid": "f2782115-2f87-5cfe-8362-dcfd56c1315a",
       "type": "vtuber",
       "bot": false,
@@ -53019,8 +52983,7 @@
         "extra": [],
         "cn": "桃濑凪",
         "default": "cn"
-      },
-      "group": "b29095e6-c178-5900-871c-349e426ad495"
+      }
     },
     {
       "uuid": "419d0ed3-c21e-5193-84f4-c9c07989a041",
@@ -74865,6 +74828,23 @@
         "extra": [],
         "jp": "羽月ちい",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "77544706-ed29-5e78-b7db-d4700e0aceba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "433189681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽枝小梦Koyume",
+        "default": "cn"
       }
     },
     {
