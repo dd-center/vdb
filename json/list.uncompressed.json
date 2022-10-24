@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666571354
+    "timestamp": 1666571375
   },
   "vtbs": [
     {
@@ -26340,6 +26340,24 @@
         "cn": "叶月米柚_Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "62424d8e-b2b4-5895-b616-02584ac54e13",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461578781362279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶河黎",
+        "default": "cn"
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
     },
     {
       "uuid": "753e5818-33d9-5639-ab36-bb4b6ae2884a",
