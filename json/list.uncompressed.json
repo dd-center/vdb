@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666637122
+    "timestamp": 1666637134
   },
   "vtbs": [
     {
@@ -36278,6 +36278,23 @@
       "name": {
         "extra": [],
         "cn": "小楠道",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "62ab7b80-97e7-563d-ac4e-a64373b079e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3866641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小毛ww",
         "default": "cn"
       }
     },
