@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666512585
+    "timestamp": 1666571354
   },
   "vtbs": [
     {
@@ -31912,6 +31912,23 @@
       "name": {
         "extra": [],
         "cn": "天宮霞-Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec6ebda7-0c29-5c03-bc5b-e333875aa85e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1193621985",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天岚九歌w",
         "default": "cn"
       }
     },
