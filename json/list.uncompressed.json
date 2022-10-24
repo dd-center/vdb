@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666572045
+    "timestamp": 1666591629
   },
   "vtbs": [
     {
@@ -23866,6 +23866,23 @@
       "name": {
         "extra": [],
         "cn": "千响_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "beb5c7fe-ebfd-569a-b185-8d41b63d1312",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1557202606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千圣Chisato",
         "default": "cn"
       }
     },
