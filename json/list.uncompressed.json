@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666679941
+    "timestamp": 1666727694
   },
   "vtbs": [
     {
@@ -47650,6 +47650,23 @@
       "name": {
         "extra": [],
         "cn": "晓镜子channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3b3cdcf6-37d6-596e-81e5-f879a69ad7fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353919721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晚安小阳ovo",
         "default": "cn"
       }
     },
