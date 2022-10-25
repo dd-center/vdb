@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666669068
+    "timestamp": 1666679941
   },
   "vtbs": [
     {
@@ -74539,6 +74539,28 @@
         "extra": [],
         "cn": "美南蝶蝶Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c79e6ed-8c67-5cea-8169-a26a39269181",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2073012767",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "me_2ki",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "美月もも",
+        "default": "jp"
       }
     },
     {
