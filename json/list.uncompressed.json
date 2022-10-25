@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666637134
+    "timestamp": 1666669068
   },
   "vtbs": [
     {
@@ -47478,6 +47478,23 @@
       "name": {
         "extra": [],
         "cn": "是随风",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2b37b834-519f-595d-b9d1-291e869374b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "473214533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是離汐SAMA吖",
         "default": "cn"
       }
     },
