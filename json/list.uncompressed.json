@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666841175
+    "timestamp": 1666900202
   },
   "vtbs": [
     {
@@ -68955,6 +68955,24 @@
         "default": "jp"
       },
       "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa"
+    },
+    {
+      "uuid": "d9ae6bb5-d6a1-5ea7-b7c4-922e80cd5135",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435243735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "礼墨Sumi",
+        "default": "cn"
+      },
+      "group": "f076e35d-500d-57ba-9149-6caed8275768"
     },
     {
       "uuid": "0cf73531-0ec4-5208-8708-3a814b12d543",
