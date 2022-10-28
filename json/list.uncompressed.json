@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1666900237
+    "timestamp": 1666958984
   },
   "vtbs": [
     {
@@ -53819,6 +53819,23 @@
       "name": {
         "extra": [],
         "cn": "梦蝶依X雨栖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3a80bdff-a4f1-5657-b64a-21abdbbe9ead",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2004784439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦野Ayanna",
         "default": "cn"
       }
     },
