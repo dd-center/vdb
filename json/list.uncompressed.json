@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667129801
+    "timestamp": 1667129988
   },
   "vtbs": [
     {
@@ -65208,6 +65208,23 @@
       "name": {
         "extra": [],
         "jp": "甘沼ほより",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "009046cf-a804-55eb-9c02-a20efe6e6f05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1649481624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "甘衣福茶",
         "default": "jp"
       }
     },
