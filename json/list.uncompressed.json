@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667129988
+    "timestamp": 1667130887
   },
   "vtbs": [
     {
@@ -29437,6 +29437,23 @@
       "name": {
         "extra": [],
         "cn": "夏卜卜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65b5c8f6-2544-5032-abf3-ab20431d7354",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1463794242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏原哈纳比_Official",
         "default": "cn"
       }
     },
