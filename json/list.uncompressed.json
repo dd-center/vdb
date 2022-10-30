@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667038975
+    "timestamp": 1667129306
   },
   "vtbs": [
     {
@@ -67528,6 +67528,28 @@
       "name": {
         "extra": [],
         "cn": "百南芋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1a1b0966-7d80-5b30-9e27-35ff18c87647",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1909777709",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yurizonoyuuri",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百合园悠梨",
         "default": "cn"
       }
     },
