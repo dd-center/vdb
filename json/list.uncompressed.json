@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667129306
+    "timestamp": 1667129801
   },
   "vtbs": [
     {
@@ -7297,6 +7297,23 @@
         "default": "cn"
       },
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
+    },
+    {
+      "uuid": "38138d49-cf3d-532e-80f2-569373ec0b5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477007",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Sawako碎花子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8605ba60-ade7-584a-9bf4-5cb81e09e8a1",
