@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667130887
+    "timestamp": 1667195779
   },
   "vtbs": [
     {
@@ -73879,6 +73879,23 @@
       "name": {
         "extra": [],
         "cn": "绘梨糯Nino",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bb2a78d0-9edb-58b6-9756-76236fec96c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5341246",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绘理纱Erisa",
         "default": "cn"
       }
     },
