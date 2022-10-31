@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667210863
+    "timestamp": 1667219049
   },
   "vtbs": [
     {
@@ -29458,6 +29458,23 @@
       }
     },
     {
+      "uuid": "2dc45fd8-f118-5a12-945f-7b99b382fda6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38286918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏可ShArk",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2c5b9b81-8608-5bf3-b6e9-7e71caef984f",
       "type": "vtuber",
       "bot": false,
@@ -54293,6 +54310,23 @@
         "default": "cn"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "3078ddc6-d8d3-56eb-ae91-692cc509001f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690291069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森友senyo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d8b6a695-98b0-59b0-bbf6-d8ad89f4bbff",
