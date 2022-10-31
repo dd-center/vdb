@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667219049
+    "timestamp": 1667223610
   },
   "vtbs": [
     {
@@ -38855,6 +38855,23 @@
         "default": "cn"
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a"
+    },
+    {
+      "uuid": "7575ac85-0b31-5aa5-a3de-ffda7e5ce4ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461571703474731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希弥尔Hymir",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2673b71f-ac05-5b98-be57-5e0636714d2f",
