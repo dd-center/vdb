@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667227993
+    "timestamp": 1667265784
   },
   "vtbs": [
     {
@@ -1597,6 +1597,26 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "5a8bfbdd-a538-514a-b0ed-825161508480",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "673953420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "雪小小"
+        ],
+        "cn": "Cher雪小小",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "e4ab71b6-8bb9-5a69-8ec0-7f7886b1c292",
