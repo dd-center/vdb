@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667265784
+    "timestamp": 1667294441
   },
   "vtbs": [
     {
@@ -4639,6 +4639,23 @@
         "jp": "ミシェもついに",
         "en": "Michele Rolo Cotton",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d8812dbd-6c3e-5daf-a7ce-11f272dc648c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461563486832799",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mico酱在摸鱼",
+        "default": "cn"
       }
     },
     {
