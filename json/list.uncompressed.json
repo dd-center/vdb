@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667485135
+    "timestamp": 1667485199
   },
   "vtbs": [
     {
@@ -18240,6 +18240,24 @@
         "cn": "五月织姬ctsu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "73504637-3319-5dd2-a45b-1bcf5f5d79d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5034263",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五爪Tsume",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "9b814ec1-7762-5eec-802b-05cb4cc7be2c",
