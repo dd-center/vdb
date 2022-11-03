@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667485321
+    "timestamp": 1667486950
   },
   "vtbs": [
     {
@@ -57443,6 +57443,23 @@
       }
     },
     {
+      "uuid": "56bbcd7b-93c7-5ac5-9b2b-9250a3dc8bf3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31466454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沉溺于你的Butterfly",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c2b196ef-ac81-5024-9ec2-284960cd826a",
       "type": "vtuber",
       "bot": false,
@@ -75705,6 +75722,24 @@
         "cn": "耶绒uwu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e30199bb-411c-5fb9-a272-acfe556548ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "91659439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "聿茗_YuM",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
     },
     {
       "uuid": "e579127a-b767-5458-ab76-2ae62a8cf556",
