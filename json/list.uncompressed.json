@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667484656
+    "timestamp": 1667484935
   },
   "vtbs": [
     {
@@ -3802,6 +3802,23 @@
       "name": {
         "extra": [],
         "cn": "LUNA_月老板",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f123f937-6bc5-5b8e-a843-1adf1ea6ef06",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "632368824",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琳子夢official",
         "default": "cn"
       }
     },
