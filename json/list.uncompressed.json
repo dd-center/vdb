@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667485245
+    "timestamp": 1667485309
   },
   "vtbs": [
     {
@@ -17126,6 +17126,24 @@
         "en": "Kurumai",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b864b9ad-7aaa-593a-8de2-e798caed298e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2044905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "久远寺刹那Setsuna",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
     },
     {
       "uuid": "8ee7e806-5c80-5660-a247-2081b373019d",
