@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667485081
+    "timestamp": 1667485135
   },
   "vtbs": [
     {
@@ -31080,6 +31080,23 @@
         "extra": [],
         "cn": "夜霧",
         "en": "Yogiri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c66f3d56-f7b0-59df-b82c-d0e8f9eb7687",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1015944851",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜音Yorune",
         "default": "cn"
       }
     },
