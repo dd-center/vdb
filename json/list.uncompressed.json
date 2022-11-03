@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667294441
+    "timestamp": 1667484656
   },
   "vtbs": [
     {
@@ -21500,6 +21500,23 @@
         "extra": [],
         "ch": "兮樱KaNa",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "845cb88b-a887-5041-afac-416f1181a5af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4644514",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兰悠悠yoyo",
+        "default": "cn"
       }
     },
     {
