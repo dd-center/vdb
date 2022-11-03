@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667484969
+    "timestamp": 1667485022
   },
   "vtbs": [
     {
@@ -65400,6 +65400,23 @@
         "extra": [],
         "jp": "甘衣福茶",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3005b4ae-3e8c-57fd-9ad6-2235105a7707",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "557080920",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜崽Babys",
+        "default": "cn"
       }
     },
     {
