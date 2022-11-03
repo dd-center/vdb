@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667484935
+    "timestamp": 1667484969
   },
   "vtbs": [
     {
@@ -77298,6 +77298,23 @@
       "name": {
         "extra": [],
         "cn": "花南音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f80ad55-02d4-5b0b-ad29-74ba86e9f6e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39876273",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花可落_kora",
         "default": "cn"
       }
     },
