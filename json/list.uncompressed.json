@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667486950
+    "timestamp": 1667487687
   },
   "vtbs": [
     {
@@ -86158,6 +86158,24 @@
         "cn": "酥芷Chakku",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fa7d5bcb-12d0-54e6-86d4-65d239171e34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614689344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酱油_Shoyu",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
     },
     {
       "uuid": "36e6718f-b8fc-570c-82fe-62e6ce7fe552",
