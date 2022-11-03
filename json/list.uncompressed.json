@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667485309
+    "timestamp": 1667485356
   },
   "vtbs": [
     {
@@ -10477,6 +10477,23 @@
         "default": "cn"
       },
       "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572"
+    },
+    {
+      "uuid": "dafa8406-d37c-509a-94d0-6d963bf6af8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21665934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "peashark",
+        "default": "cn"
+      }
     },
     {
       "uuid": "aa09cd85-e7b9-5e3c-93e7-4c32f3dd6b6f",
@@ -75688,6 +75705,24 @@
         "cn": "耶绒uwu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e30199bb-411c-5fb9-a272-acfe556548ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "91659439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "聿茗_YuM",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
     },
     {
       "uuid": "e579127a-b767-5458-ab76-2ae62a8cf556",
