@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667488389
+    "timestamp": 1667537851
   },
   "vtbs": [
     {
@@ -21098,6 +21098,23 @@
       "name": {
         "extra": [],
         "cn": "兔尤好困w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ed90b770-d3a8-5cff-8e4e-0b597055a9a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1661638690",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔晶千穗_Qiho",
         "default": "cn"
       }
     },
