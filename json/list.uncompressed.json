@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667541564
+    "timestamp": 1667546603
   },
   "vtbs": [
     {
@@ -52023,6 +52023,23 @@
       }
     },
     {
+      "uuid": "f3e0aa9a-34cb-59a6-a116-f16566916379",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1890662098",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚夏yuka",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cce32414-57d5-5c08-a97b-9f9d196f210c",
       "type": "vtuber",
       "bot": false,
@@ -72134,6 +72151,24 @@
       }
     },
     {
+      "uuid": "65fdbd21-3eb8-5c63-a9ba-f28aaf466f61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1835314626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米夏Maika",
+        "default": "cn"
+      },
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
+    },
+    {
       "uuid": "fc103c82-0aed-5cda-8aaa-b8d5c7da5ee2",
       "type": "vtuber",
       "bot": false,
@@ -90182,6 +90217,24 @@
         "default": "cn"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "6c5aefef-92d1-59b4-b189-2e502a83fa3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1947412463",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪茨yukiji",
+        "default": "cn"
+      },
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
     },
     {
       "uuid": "688e84a7-73af-51e9-856b-1dbba5220d74",
