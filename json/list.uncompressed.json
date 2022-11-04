@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667540843
+    "timestamp": 1667541564
   },
   "vtbs": [
     {
@@ -3162,6 +3162,23 @@
       "name": {
         "extra": [],
         "cn": "H蓝色大老虎H",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3d8c61ee-d00a-5873-a505-3115ea96fa4a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2933593",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ICBM糖果小多",
         "default": "cn"
       }
     },
