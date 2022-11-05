@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667546603
+    "timestamp": 1667636881
   },
   "vtbs": [
     {
@@ -25584,6 +25584,23 @@
       "name": {
         "extra": [],
         "cn": "卢森堡的伊丽莎白",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ade13bd4-a41f-53ba-acf7-29137b41b4a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2718136",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卯月_official",
         "default": "cn"
       }
     },
