@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667831920
+    "timestamp": 1667832034
   },
   "vtbs": [
     {
@@ -7229,6 +7229,24 @@
         "default": "en"
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
+      "uuid": "e7d8fe81-3aca-5b1f-a3c2-40c17f07eeb3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "737107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ryuryuu_",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
     },
     {
       "uuid": "a86abd0c-cfa6-5357-bdd5-738572759560",
