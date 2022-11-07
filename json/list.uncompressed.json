@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667636881
+    "timestamp": 1667831171
   },
   "vtbs": [
     {
@@ -56811,6 +56811,23 @@
       "name": {
         "extra": [],
         "cn": "水漠豆腐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b7c5dae3-6ec8-5e8e-8252-b03370e6994a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32761176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水無月名夜Official",
         "default": "cn"
       }
     },
