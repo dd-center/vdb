@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667879680
+    "timestamp": 1667880757
   },
   "vtbs": [
     {
@@ -69577,6 +69577,23 @@
       "name": {
         "extra": [],
         "cn": "砂糖缘子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "73cf521c-ed6a-58d6-b895-48cf71a8d787",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "526076641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "砂那Suna",
         "default": "cn"
       }
     },
