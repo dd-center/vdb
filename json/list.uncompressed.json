@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1667880757
+    "timestamp": 1668004132
   },
   "vtbs": [
     {
@@ -2444,6 +2444,23 @@
         "default": "cn"
       },
       "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
+    },
+    {
+      "uuid": "09131e83-228e-5b50-afdf-2f65f9fd6964",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "652495460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Era猩纪元",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1f222196-1de9-5074-8c6d-9aa70c4db562",
