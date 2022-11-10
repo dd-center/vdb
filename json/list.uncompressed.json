@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668083362
+    "timestamp": 1668083452
   },
   "vtbs": [
     {
@@ -25958,6 +25958,23 @@
         "extra": [],
         "ch": "友紀みっき-",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "28086a8e-3cf5-52c5-94dd-dd006544f02c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "48330353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "双尾彗星",
+        "default": "cn"
       }
     },
     {
