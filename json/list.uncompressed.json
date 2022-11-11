@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668083452
+    "timestamp": 1668131392
   },
   "vtbs": [
     {
@@ -16444,6 +16444,23 @@
       "name": {
         "extra": [],
         "cn": "上甘岭",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "147ab1c4-1d6e-5b3d-a59e-1fdde2850c94",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461581822233342",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上草草surcao",
         "default": "cn"
       }
     },
