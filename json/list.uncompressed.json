@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668131392
+    "timestamp": 1668162102
   },
   "vtbs": [
     {
@@ -80355,6 +80355,23 @@
         "default": "cn"
       },
       "group": "cc1ed03e-7840-5738-83b7-b637c02b00fe"
+    },
+    {
+      "uuid": "a7ecfdec-fe88-5016-a70b-0768d148ed9b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "386201604",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓可_Meiko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cee89339-db83-56ef-b4d8-baf4de9dfde9",
