@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668264751
+    "timestamp": 1668304458
   },
   "vtbs": [
     {
@@ -64286,6 +64286,23 @@
       }
     },
     {
+      "uuid": "5e836836-2a13-5ccc-946a-3e06c35e60f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1962110378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玉玉不想起床",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9a53c62c-18bc-5803-aa82-671047756d97",
       "type": "vtuber",
       "bot": false,
@@ -79902,6 +79919,23 @@
       "name": {
         "extra": [],
         "cn": "草履虫Para",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c76c6c0f-f38a-54a4-9613-5e2634dee9b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461579070769690",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "草木青w",
         "default": "cn"
       }
     },
