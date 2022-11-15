@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668522425
+    "timestamp": 1668522642
   },
   "vtbs": [
     {
@@ -88723,6 +88723,23 @@
         "default": "cn"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "1ecc4022-f6fe-5e80-b573-ba8878e962c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "515640590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿尔狄娜-Aldina",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ca535c18-d1bb-506a-8142-beb3fde3cbe3",
