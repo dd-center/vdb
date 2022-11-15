@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668523173
+    "timestamp": 1668523407
   },
   "vtbs": [
     {
@@ -43493,6 +43493,23 @@
       "name": {
         "extra": [],
         "cn": "挽歌歌_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b0af2399-9ea5-5c19-857e-91ea20de497b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8155464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "捌川-Yakawa",
         "default": "cn"
       }
     },
