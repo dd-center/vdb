@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668522177
+    "timestamp": 1668522425
   },
   "vtbs": [
     {
@@ -77017,6 +77017,23 @@
       }
     },
     {
+      "uuid": "8cb592a4-552b-556e-a455-78bd1d1ab808",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1189884570",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾沐Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "be304a60-18c5-5720-b7c8-88b1e43dc397",
       "type": "vtuber",
       "bot": false,
@@ -84268,6 +84285,23 @@
       "name": {
         "extra": [],
         "cn": "豆包软软哒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6db8c326-390d-59f6-a2db-7a225957a150",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1339550497",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆叮儿ouo",
         "default": "cn"
       }
     },
