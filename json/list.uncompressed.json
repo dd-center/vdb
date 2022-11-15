@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668522792
+    "timestamp": 1668523017
   },
   "vtbs": [
     {
@@ -15265,6 +15265,23 @@
       "name": {
         "extra": [],
         "cn": "一口一个灼晚晚",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47ddc5cd-0f06-5170-9842-b8cdab8cf1dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "627432065",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一口吃掉粥粥",
         "default": "cn"
       }
     },
