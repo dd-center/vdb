@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668751946
+    "timestamp": 1668783001
   },
   "vtbs": [
     {
@@ -65699,6 +65699,23 @@
       "name": {
         "extra": [],
         "cn": "環さんご",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7d0a6263-601d-5510-8fc4-053e94c73a87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702966870",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瓦利忌wailkee",
         "default": "cn"
       }
     },
