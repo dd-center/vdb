@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668783001
+    "timestamp": 1668869779
   },
   "vtbs": [
     {
@@ -34159,6 +34159,23 @@
       }
     },
     {
+      "uuid": "36b624d2-9641-5a7a-aea0-a7b9ef6dc6ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1169958017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娅可Arko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8ecb4540-63e5-5bfc-a5fc-389a3a173300",
       "type": "vtuber",
       "bot": false,
@@ -36164,6 +36181,23 @@
       "name": {
         "extra": [],
         "cn": "小司无常",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3b8a661c-c7fb-5feb-bc0f-31830a7a6122",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33887063",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小吭叽qwq",
         "default": "cn"
       }
     },
@@ -74323,6 +74357,23 @@
         "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "b3778673-be9e-59ea-b532-8ada3e29f582",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7714504",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "织世Tomoyo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0828289e-fc13-5715-86f8-8646a8210120",
