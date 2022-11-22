@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1668869779
+    "timestamp": 1669086725
   },
   "vtbs": [
     {
@@ -61707,6 +61707,23 @@
       "name": {
         "extra": [],
         "cn": "熊崽_BearRRR",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ed4c3998-6fa2-5107-872c-0451a629da20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1055047413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熊崽子ovo",
         "default": "cn"
       }
     },
