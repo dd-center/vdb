@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669086759
+    "timestamp": 1669086814
   },
   "vtbs": [
     {
@@ -19564,6 +19564,23 @@
       "name": {
         "extra": [],
         "cn": "伊莺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de8a7e52-7210-5af9-95d9-60e653606e6a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "43156010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊菲不是小火驴",
         "default": "cn"
       }
     },
