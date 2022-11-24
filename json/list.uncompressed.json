@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669302147
+    "timestamp": 1669302216
   },
   "vtbs": [
     {
@@ -88084,6 +88084,24 @@
       }
     },
     {
+      "uuid": "33811404-bf8b-5f94-b750-9447bde1be53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1344926320",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "银杏Kyou",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
+    },
+    {
       "uuid": "d11ce1f0-6bc7-58d0-ba33-ac2ffbe221fa",
       "type": "vtuber",
       "bot": false,
@@ -89133,6 +89151,24 @@
         "default": "cn"
       },
       "group": "6d396a6b-d04b-5b93-808d-f05729aa721a"
+    },
+    {
+      "uuid": "1aabb7ad-3446-51a8-b54b-e4758035f6d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "703055595",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿绿Midori",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe"
     },
     {
       "uuid": "30a01208-650b-582e-8eea-56e1b0e196f1",
