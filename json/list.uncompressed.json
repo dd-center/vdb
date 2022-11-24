@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669302276
+    "timestamp": 1669305597
   },
   "vtbs": [
     {
@@ -72965,6 +72965,23 @@
         "default": "cn"
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
+    },
+    {
+      "uuid": "069a17aa-ec64-50de-a526-26c3e23b2b0a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1410055126",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖泽希希",
+        "default": "cn"
+      }
     },
     {
       "uuid": "51f42d5f-09a0-5e93-b1f8-54678f4b6fa5",
