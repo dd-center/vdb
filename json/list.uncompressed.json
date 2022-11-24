@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669302216
+    "timestamp": 1669302276
   },
   "vtbs": [
     {
@@ -1212,6 +1212,23 @@
         "extra": [],
         "cn": "Asakiri深岚",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "debb7406-bab4-5484-8fd9-f064d7975021",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "194484313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "中文": "Asaki大人",
+        "default": "中文"
       }
     },
     {
