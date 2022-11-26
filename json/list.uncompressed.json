@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669305656
+    "timestamp": 1669434404
   },
   "vtbs": [
     {
@@ -45679,6 +45679,24 @@
         "cn": "星婉Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fa595479-1089-55a9-a35f-a1e1f2987613",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1591015548",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宇-Ucyuu-代号26",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365"
     },
     {
       "uuid": "5eefbe12-27b1-5d96-a2e1-b795893777cf",
