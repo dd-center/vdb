@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669434404
+    "timestamp": 1669434514
   },
   "vtbs": [
     {
@@ -64970,6 +64970,23 @@
       "name": {
         "extra": [],
         "cn": "現黄泉_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6b0d80c-5470-5654-a5f8-b791b647c345",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2032666669",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理吹Ribuki",
         "default": "cn"
       }
     },
