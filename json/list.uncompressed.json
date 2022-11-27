@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669434577
+    "timestamp": 1669548488
   },
   "vtbs": [
     {
@@ -32824,6 +32824,28 @@
       "name": {
         "extra": [],
         "cn": "天雨Rainfall",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ea268630-9ae9-5251-8c96-9b388ace5869",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461572502489809",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "amane_dayoo",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天音Sora_Official",
         "default": "cn"
       }
     },
