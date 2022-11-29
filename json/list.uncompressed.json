@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669755697
+    "timestamp": 1669756029
   },
   "vtbs": [
     {
@@ -39761,6 +39761,23 @@
       "name": {
         "extra": [],
         "cn": "帕妮punny",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4bf4d684-6527-5810-b9d3-9d321f38fb33",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1162187292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pea话大王帕帕拉恰",
         "default": "cn"
       }
     },
