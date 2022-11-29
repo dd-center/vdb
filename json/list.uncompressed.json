@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669708857
+    "timestamp": 1669753614
   },
   "vtbs": [
     {
@@ -80286,6 +80286,43 @@
         "extra": [],
         "cn": "草莓奶冻卷",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca923882-8ca9-55ec-9ca1-c1c59b3a7db1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1210816252",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NekumaVT",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCMCAh6rwRtoGDtF7lXj0gNw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "taffynekuma",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "nekumavt",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "草莓猫Taffy",
+        "default": "en"
       }
     },
     {
