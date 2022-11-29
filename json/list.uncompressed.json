@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669708624
+    "timestamp": 1669708662
   },
   "vtbs": [
     {
@@ -37360,6 +37360,23 @@
       "name": {
         "extra": [],
         "cn": "小莔莔子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "13a0bd57-cfbc-58bb-8fb0-f5431139f5d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461564369733705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小葵_aoi",
         "default": "cn"
       }
     },
