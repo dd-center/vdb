@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669755175
+    "timestamp": 1669755220
   },
   "vtbs": [
     {
@@ -70464,6 +70464,23 @@
         "default": "cn"
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8"
+    },
+    {
+      "uuid": "65e4b5d1-33f0-59b0-8118-c01a859386d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1280060359",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神姬伊娜狸Inari",
+        "default": "cn"
+      }
     },
     {
       "uuid": "479a186b-cacf-54f8-8c2d-ed06b848806b",
