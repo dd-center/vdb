@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669548488
+    "timestamp": 1669708624
   },
   "vtbs": [
     {
@@ -3643,6 +3643,26 @@
         "default": "cn"
       },
       "group": "d0bc1877-9a3d-5c32-987e-e4d4ac15a3a0"
+    },
+    {
+      "uuid": "e0df8d10-0e04-5302-a0f0-0c2c4420f733",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "146181099",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "卡洛"
+        ],
+        "cn": "Karo_卡洛",
+        "en": "karo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dbfde20c-36e9-5fc3-8d82-c17c0c89426e",
@@ -37186,6 +37206,29 @@
       }
     },
     {
+      "uuid": "936a1b98-e0cc-59d4-ba43-d2188bdc6dbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1831179515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "舟舟",
+          "舟宝",
+          "小舟潞",
+          "kofunero"
+        ],
+        "cn": "小舟潞Kofunero",
+        "en": "Kofunero",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "78952815-3988-513b-9162-917367c6e26d",
       "type": "vtuber",
       "bot": false,
@@ -68133,9 +68176,11 @@
       "name": {
         "extra": [
           "白鸟",
-          "羽毛"
+          "小羽毛",
+          "苹果"
         ],
-        "cn": "苹果",
+        "cn": "白鳥林檎_ringo",
+        "en": "ringo",
         "default": "cn"
       }
     },
