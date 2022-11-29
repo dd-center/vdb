@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669755367
+    "timestamp": 1669755507
   },
   "vtbs": [
     {
@@ -65851,6 +65851,23 @@
         "extra": [],
         "cn": "瑪法理沙",
         "en": "MarufyuRisa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "77abaa7b-b122-57e4-9912-226c8932ceb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1917237530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑶光Yuka",
         "default": "cn"
       }
     },
