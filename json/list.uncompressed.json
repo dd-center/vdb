@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669753656
+    "timestamp": 1669755037
   },
   "vtbs": [
     {
@@ -54254,6 +54254,23 @@
       }
     },
     {
+      "uuid": "1d41533f-2320-5e2a-9d4a-fba70cd637af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1736210",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅奈子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "029ba528-ae4e-55f4-9e61-1036d203d956",
       "type": "vtuber",
       "bot": false,
@@ -66100,6 +66117,23 @@
         "extra": [],
         "jp": "甘衣福茶",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c1316f47-9706-5696-bb7b-594a9a7f0341",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "59855155",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甘霖Gerlin",
+        "default": "cn"
       }
     },
     {
@@ -78140,6 +78174,23 @@
         "default": "jp"
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e"
+    },
+    {
+      "uuid": "8c5bc8e6-77c7-5acd-bb9b-3b329c0e9102",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "356651009",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花信Kasin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c33f48c9-1d23-56d8-b3eb-b5ca2bddf69e",
