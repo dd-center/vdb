@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669755507
+    "timestamp": 1669755697
   },
   "vtbs": [
     {
@@ -74478,6 +74478,24 @@
         "cn": "纪代因果_Inga",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9f120cf2-7523-5b91-a606-be5bc27bbc09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461576189282324",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱依shayi",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719"
     },
     {
       "uuid": "c0dcbb40-58f8-5f25-b517-8d6db27cbf38",
