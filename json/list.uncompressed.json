@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669756162
+    "timestamp": 1669777114
   },
   "vtbs": [
     {
@@ -67140,6 +67140,24 @@
         "cn": "白小宛_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d55c4a10-3b52-5f2d-86fd-071410b62214",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1960682407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白小蛮不讲理",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "4f82cf75-747e-56ce-8af5-6f3e0270c542",
