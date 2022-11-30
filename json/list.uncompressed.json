@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669777114
+    "timestamp": 1669777187
   },
   "vtbs": [
     {
@@ -55123,6 +55123,28 @@
         "extra": [],
         "jp": "森永みう",
         "cn": "莫里亚加米",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "7be4cdf4-0570-5edd-a5d6-e27db321a218",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1853473750",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "morisetsugumi",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "森瀬Tsugumi",
         "default": "jp"
       }
     },
