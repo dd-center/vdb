@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669855326
+    "timestamp": 1669855801
   },
   "vtbs": [
     {
@@ -53846,6 +53846,23 @@
       "name": {
         "extra": [],
         "cn": "桃织",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "85969006-3ac0-5000-a32c-5cdcdac020a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078132328661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃让Tori",
         "default": "cn"
       }
     },
