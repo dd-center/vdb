@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669934653
+    "timestamp": 1669934764
   },
   "vtbs": [
     {
@@ -83898,6 +83898,24 @@
         "cn": "被可可四代目保护协会",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "56bd00c3-7bc5-554c-a81e-501c61938511",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1599964809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "裁月",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b"
     },
     {
       "uuid": "ba6e37b2-95db-5f6b-8875-e0051b8ed237",
