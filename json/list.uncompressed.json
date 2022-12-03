@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1669934764
+    "timestamp": 1670047934
   },
   "vtbs": [
     {
@@ -69293,6 +69293,23 @@
       "name": {
         "extra": [],
         "cn": "真夜NEKO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b923935-9ad7-5e5e-a26b-9f7205ee38ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1434027068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真夜白音shirone",
         "default": "cn"
       }
     },
