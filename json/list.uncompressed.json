@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670048003
+    "timestamp": 1670048096
   },
   "vtbs": [
     {
@@ -54911,6 +54911,23 @@
       "name": {
         "extra": [],
         "cn": "梨泥くれはOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "140a3bfa-70a6-53ee-a1f9-69fe84281183",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6759757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨绘_Rie",
         "default": "cn"
       }
     },
