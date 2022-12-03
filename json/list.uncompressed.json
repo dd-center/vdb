@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670048096
+    "timestamp": 1670048121
   },
   "vtbs": [
     {
@@ -84477,6 +84477,23 @@
         "extra": [],
         "CN": "言彦_SAY",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "dd33f104-2817-5368-8616-75469f9d5d21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "574400",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "詩千帕拉ShiChiPara",
+        "default": "cn"
       }
     },
     {
