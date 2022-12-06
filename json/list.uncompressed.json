@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670048121
+    "timestamp": 1670300514
   },
   "vtbs": [
     {
@@ -21322,6 +21322,23 @@
       "name": {
         "extra": [],
         "cn": "兔眠可可",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "37616e3d-bee0-5a6f-8429-7bdc557111e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23657606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔美三天吃一顿",
         "default": "cn"
       }
     },
