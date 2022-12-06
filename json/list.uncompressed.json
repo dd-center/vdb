@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670300514
+    "timestamp": 1670300562
   },
   "vtbs": [
     {
@@ -66453,6 +66453,23 @@
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23"
     },
     {
+      "uuid": "46e2d7ae-f4dd-5a28-acec-0c5fff4486a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "651304731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由乃_Yuno",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "469bce2a-815e-5401-889a-979ca84ced3b",
       "type": "vtuber",
       "bot": false,
@@ -86540,6 +86557,23 @@
       "name": {
         "extra": [],
         "cn": "辰昱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5e72fc6-5305-53d9-a7a0-e60ccee94354",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "290412499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辰陌CMO",
         "default": "cn"
       }
     },
