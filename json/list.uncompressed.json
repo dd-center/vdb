@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670300925
+    "timestamp": 1670301229
   },
   "vtbs": [
     {
@@ -67745,6 +67745,23 @@
       "name": {
         "extra": [],
         "cn": "白猫永远不打烊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c981c1a-544d-569e-9682-70401e0ab401",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435858133",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白理枳",
         "default": "cn"
       }
     },
