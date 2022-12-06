@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670300733
+    "timestamp": 1670300744
   },
   "vtbs": [
     {
@@ -79113,6 +79113,24 @@
         "cn": "花緑青-HanarokuAo-",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a9473e2c-45ff-5269-800a-ec0a06b4cf79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9983449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花臼usu",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b"
     },
     {
       "uuid": "746dbf66-2516-541d-8019-f7a855e784a1",
