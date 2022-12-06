@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670300562
+    "timestamp": 1670300602
   },
   "vtbs": [
     {
@@ -94904,6 +94904,23 @@
       "name": {
         "extra": [],
         "cn": "鱼娘暴暴lazy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8988e673-d8a6-5155-b7b7-d0588eaee44d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "693016343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鱼狸狸",
         "default": "cn"
       }
     },
