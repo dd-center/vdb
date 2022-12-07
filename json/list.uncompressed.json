@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670374253
+    "timestamp": 1670374359
   },
   "vtbs": [
     {
@@ -68186,6 +68186,23 @@
         "default": "jp"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "346a8314-81b8-54b7-beec-de45efaf344e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1337993096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白铃_Sirorin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9cd06bf-03c4-5dfe-b5c2-868df1dc73c7",
