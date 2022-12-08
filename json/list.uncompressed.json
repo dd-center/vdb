@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670469907
+    "timestamp": 1670469933
   },
   "vtbs": [
     {
@@ -91719,6 +91719,23 @@
         "extra": [],
         "cn": "零叁",
         "en": "Tadyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc940c11-6b20-5630-9f52-dc38b28110fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "334299",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零太",
         "default": "cn"
       }
     },
