@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670469885
+    "timestamp": 1670469907
   },
   "vtbs": [
     {
@@ -67955,6 +67955,23 @@
         "default": "cn"
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768"
+    },
+    {
+      "uuid": "7e728b30-7276-58e8-9a0e-935dd16cbb75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "686216575",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白给兽-电齿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3501261f-8591-549a-8a02-c58ffdba2d96",
