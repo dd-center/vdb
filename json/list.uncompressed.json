@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670423253
+    "timestamp": 1670469885
   },
   "vtbs": [
     {
@@ -23131,6 +23131,23 @@
         "default": "cn"
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333"
+    },
+    {
+      "uuid": "6435098e-48f1-58b9-8f72-6a42b769cd1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089744259405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初小雨-ovo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4b6fe3a0-3ead-5e1e-b0f2-d4d5c7090199",
