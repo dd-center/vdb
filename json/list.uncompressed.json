@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670469933
+    "timestamp": 1670470112
   },
   "vtbs": [
     {
@@ -26464,6 +26464,25 @@
       }
     },
     {
+      "uuid": "dbc9affd-5826-531d-9fed-756b847932a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24924516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可诺",
+        "en": "Kino",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
+    },
+    {
       "uuid": "bff401a3-7bce-5ccd-9aef-8fa16bd18984",
       "type": "vtuber",
       "bot": false,
@@ -37824,6 +37843,25 @@
         "default": "cn"
       },
       "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51"
+    },
+    {
+      "uuid": "7af5bf51-14b5-517f-9b4c-5b32ef1edf87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461570239662267",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鸟游千岁",
+        "en": "Chitose",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "8138f570-a61d-5887-9148-5bf8bded0fbc",
@@ -53846,6 +53884,25 @@
         "cn": "桃泽绒球",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "64c33aad-53f1-5d68-8b22-9678d2162f3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4298023",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃泽美羽",
+        "en": "Miyu",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "6225806e-5624-55c3-add9-f0cb4f31db31",
@@ -88813,6 +88870,25 @@
         "cn": "铃音Suzune",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e556b004-1b71-5b81-a831-1b6e09b9df5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461574394120768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃音宁宁",
+        "en": "Nene",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
       "uuid": "827065c7-eae6-5c36-aa04-ca15d5c10de1",
