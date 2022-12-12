@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1670470112
+    "timestamp": 1670851661
   },
   "vtbs": [
     {
@@ -94213,6 +94213,23 @@
       "name": {
         "extra": [],
         "cn": "香草莓巧子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1170858-611f-55f3-8122-a8e4263522a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076272155084",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "駄天使inori",
         "default": "cn"
       }
     },
