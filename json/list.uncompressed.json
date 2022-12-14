@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671035378
+    "timestamp": 1671036582
   },
   "vtbs": [
     {
@@ -43548,6 +43548,25 @@
         "default": "cn"
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad"
+    },
+    {
+      "uuid": "a99be84c-1a85-5f56-a22e-0ed1d95c5d0a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487402608",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托尔赛斯",
+        "en": "Taurus",
+        "default": "cn"
+      },
+      "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846"
     },
     {
       "uuid": "e7fde270-06b6-5e01-a828-09132352e1af",
