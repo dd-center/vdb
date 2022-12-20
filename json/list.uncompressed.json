@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671545770
+    "timestamp": 1671546926
   },
   "vtbs": [
     {
@@ -4588,6 +4588,23 @@
         "extra": [],
         "en": "Marpril",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "19642630-8559-5656-8689-599e28b1d3ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524460145",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Masumi真澄",
+        "default": "cn"
       }
     },
     {
@@ -44533,6 +44550,23 @@
         "extra": [],
         "jp": "文野環",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "41e4d877-5c91-56d8-9b1a-a89b2317a92f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16619074",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "斐洛_Philo",
+        "default": "cn"
       }
     },
     {
