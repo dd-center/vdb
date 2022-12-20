@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671546941
+    "timestamp": 1671547048
   },
   "vtbs": [
     {
@@ -74970,6 +74970,23 @@
         "extra": [],
         "jp": "綺羅星ウタ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "e40cbd9c-0416-53c8-a8b3-583a703bf908",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076536396664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "綺羅綺羅星_kira",
+        "default": "cn"
       }
     },
     {
