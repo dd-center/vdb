@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671548025
+    "timestamp": 1671548202
   },
   "vtbs": [
     {
@@ -20046,6 +20046,23 @@
       "name": {
         "extra": [],
         "cn": "优莉酱Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6671846b-81ca-5705-8502-84541a169996",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22385806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "会唱歌的粉红猫",
         "default": "cn"
       }
     },
@@ -92013,6 +92030,23 @@
         "default": "cn"
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739"
+    },
+    {
+      "uuid": "8c2db7cd-e93d-514a-b280-a70aa9d57caa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1363865784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨鱼渔爱吃鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "08bac4ec-6c3e-5c62-b6f9-787a59e71e4c",
