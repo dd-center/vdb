@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531509
+    "timestamp": 1671531871
   },
   "vtbs": [
     {
@@ -15845,6 +15845,23 @@
       "name": {
         "extra": [],
         "cn": "七云洛",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "385763e6-81c9-5edf-97c2-b1899e861dbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461572460546094",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七代音莉绘",
         "default": "cn"
       }
     },
