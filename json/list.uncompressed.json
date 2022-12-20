@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531137
+    "timestamp": 1671531453
   },
   "vtbs": [
     {
@@ -14503,6 +14503,38 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "4bd3ea2b-fe8b-5944-938a-8bacc680f1a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1995854577",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Bellmonya",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCaoat2Vz9i1_wbR7_ctv3bA",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "bellmona",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ベルモナ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "75669f68-6f32-53e5-8315-47b8d3673ada",
@@ -42071,6 +42103,39 @@
         "default": "cn"
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407"
+    },
+    {
+      "uuid": "789279e5-c462-549c-8398-29e1c5c46ff6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "YuaraCocoshiro",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "yuara",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "3493083863844887",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "yuaracocoshiro",
+          "type": "official",
+          "platform": "tiktok"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心城结爱罗",
+        "jp": "心城ゆあら",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cf199573-c04f-54af-a70c-f87c6defde37",
@@ -95066,6 +95131,38 @@
         "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
+    },
+    {
+      "uuid": "4afe0cfa-8de6-589b-b9d6-f937f2c420aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1242749123",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "may_o_i",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC2OkjhzRpv7p-a3IQfxJ-pw/featured",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "may_o_i",
+          "type": "official",
+          "platform": "marshmallow"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔夜依",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e21ee279-89a8-5800-b277-91067da68067",
