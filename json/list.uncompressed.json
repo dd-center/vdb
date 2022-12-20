@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531942
+    "timestamp": 1671531963
   },
   "vtbs": [
     {
@@ -304,6 +304,23 @@
       "name": {
         "extra": [],
         "cn": "4Virtual TedoBear泰多貝亞",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "acc923cc-8d0a-54d1-8a23-11a1353c62ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089056394214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "73円",
         "default": "cn"
       }
     },
@@ -76368,6 +76385,23 @@
       "name": {
         "extra": [],
         "cn": "缱落铃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4af68038-141c-5e0f-a2b5-a7c8c835440f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493091512158617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罐罐呀Oo",
         "default": "cn"
       }
     },
