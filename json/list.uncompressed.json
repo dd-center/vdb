@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531910
+    "timestamp": 1671531942
   },
   "vtbs": [
     {
@@ -48002,6 +48002,23 @@
       "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce"
     },
     {
+      "uuid": "df01f4f8-b378-53e1-8790-7a878f05284d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1214210843",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野琉歌",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f9b4f0fd-141f-558d-9950-a5957a13823c",
       "type": "vtuber",
       "bot": false,
@@ -59155,6 +59172,23 @@
         "default": "cn"
       },
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7"
+    },
+    {
+      "uuid": "b4f0a50a-bba3-5b65-9a4f-60df17229676",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "173335353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泠梦-YiYo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16327e32-5153-5883-a8cd-5ea10cd5d06a",
@@ -89335,6 +89369,23 @@
       "name": {
         "extra": [],
         "cn": "铭澐FULO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fc6c88b2-41fd-56e4-b2c3-cf9119d6b95a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498535110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "银刃烤里脊",
         "default": "cn"
       }
     },
