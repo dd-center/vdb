@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531871
+    "timestamp": 1671531910
   },
   "vtbs": [
     {
@@ -42482,6 +42482,23 @@
         "extra": [],
         "jp": "怠惰",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "42b17ff0-74b4-5f3a-bf34-262a2a5984f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "495142225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怡妹喝可乐",
+        "default": "cn"
       }
     },
     {
