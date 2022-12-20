@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671531963
+    "timestamp": 1671532027
   },
   "vtbs": [
     {
@@ -24846,6 +24846,23 @@
       "name": {
         "extra": [],
         "cn": "千铃SR",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "daa74cba-e6f5-560b-ac6f-6fabce7e2b10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1292417066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千雅Qiana",
         "default": "cn"
       }
     },
@@ -62612,6 +62629,25 @@
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30"
     },
     {
+      "uuid": "0f67d03f-fe00-5638-be8d-c6554cb1d424",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "761607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "熊璜是只小熊猫"
+        ],
+        "cn": "熊璜",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "35783ace-a8e6-571a-bfc2-ffd05f528d9d",
       "type": "vtuber",
       "bot": false,
@@ -96197,6 +96233,23 @@
         "default": "cn"
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69"
+    },
+    {
+      "uuid": "4d9e3c2b-cdb0-566e-9f45-502bbfa57752",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692631639",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸣岐_今日见",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9e18a0a1-e9e9-5ad3-9c72-7118e4c777df",
