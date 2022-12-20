@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671547360
+    "timestamp": 1671547578
   },
   "vtbs": [
     {
@@ -41654,6 +41654,23 @@
         "extra": [],
         "jp": "強化人間",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "1dc0ffa6-6fee-592f-8d0b-82072a3e87c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1595005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "录音姬阿童木",
+        "default": "cn"
       }
     },
     {
