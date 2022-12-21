@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671636325
+    "timestamp": 1671662973
   },
   "vtbs": [
     {
@@ -29048,6 +29048,23 @@
       }
     },
     {
+      "uuid": "ed3a064e-1493-5d5a-bcd0-641e0fdf396e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1085503057",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵酱と鱼鱼",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "28083fe1-ebcc-512e-b20a-7bbbc691ed90",
       "type": "vtuber",
       "bot": false,
@@ -49299,6 +49316,23 @@
       "name": {
         "extra": [],
         "cn": "普普有精神",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "336867a8-24ce-5ec4-b81d-8d525d9569f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "171901758",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "普罗透斯",
         "default": "cn"
       }
     },
