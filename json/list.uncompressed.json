@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671662973
+    "timestamp": 1671662991
   },
   "vtbs": [
     {
@@ -42755,6 +42755,23 @@
       }
     },
     {
+      "uuid": "c9ef70fd-2044-558f-bf6e-ee3557b94d6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "245320104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "快樂小楊-",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "274b7b33-c74d-5232-8e40-dc7ef9ffb934",
       "type": "vtuber",
       "bot": false,
@@ -51158,6 +51175,23 @@
           "木叶狐"
         ],
         "cn": "木叶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d60cba91-3dab-5d9b-b321-bfce8b38bed0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2092996652",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木喆s",
         "default": "cn"
       }
     },
