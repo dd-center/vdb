@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671662991
+    "timestamp": 1671663012
   },
   "vtbs": [
     {
@@ -28107,6 +28107,23 @@
       "name": {
         "extra": [],
         "cn": "咦我的头发呢",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "711523cb-edff-5cc2-bede-064ec8592799",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8024660",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咩七柒Miee",
         "default": "cn"
       }
     },
@@ -95313,6 +95330,24 @@
         "default": "cn"
       },
       "group": "003983a6-421a-5e75-93e1-841d5c8ee9f2"
+    },
+    {
+      "uuid": "c7920222-c560-5a18-859e-83d1561fa25c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1129417147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "香梨Shannry",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
       "uuid": "b16f3f45-8525-52ff-bf6a-cf2eeabfec82",
