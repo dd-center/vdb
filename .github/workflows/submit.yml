@@ -5,31 +5,8 @@ on:
   push:
     branches:
       - 'submit-*'
-  pull_request:
-    types:
-      - closed
 
 jobs:
-  close:
-    if: github.event_name == 'pull_request' && !github.event.pull_request.merged
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-
-    - name: Use Node.js 13
-      uses: actions/setup-node@v1
-      with:
-        node-version: '13'
-
-    - name: npm install
-      run: npm install
-
-    - name: Close Issue
-      run: node closeIssue.js
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        NUMBER: ${{ github.event.number }}
-
   pr:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
@@ -53,6 +30,12 @@ jobs:
 
     - name: Enable Auto Merge
       run: node autoMerge.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.bottoken }}
+        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
+
+    - name: Close Issue
+      run: node closeIssue.js
       env:
         GITHUB_TOKEN: ${{ secrets.bottoken }}
         NUMBER: ${{ steps.open-pr.outputs.pr_number }}
