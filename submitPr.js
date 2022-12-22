@@ -59,7 +59,6 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
-    await gitExec(['push', '--set-upstream', remote, branchName], gitUser)
     await gitExec(['add', 'vtbs'], gitUser)
     await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
   }
