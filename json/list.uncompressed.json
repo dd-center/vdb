@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671728279
+    "timestamp": 1671790482
   },
   "vtbs": [
     {
@@ -86243,6 +86243,23 @@
       "name": {
         "extra": [],
         "cn": "豆包软软哒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "983c4a3a-d9a8-5b96-a132-97c3b23ddab2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493091103214001",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆叮儿mina",
         "default": "cn"
       }
     },
