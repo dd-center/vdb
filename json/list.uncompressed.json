@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671858452
+    "timestamp": 1671858481
   },
   "vtbs": [
     {
@@ -32514,6 +32514,23 @@
         "extra": [],
         "kr": "天使猫Parfaitty",
         "default": "kr"
+      }
+    },
+    {
+      "uuid": "75bbedf7-24bc-5a48-8339-c858681bd0ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "443940499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天使猫猫酱",
+        "default": "cn"
       }
     },
     {
