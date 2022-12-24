@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671858516
+    "timestamp": 1671858583
   },
   "vtbs": [
     {
@@ -47308,6 +47308,23 @@
       "name": {
         "extra": [],
         "cn": "星月空_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4bf96476-595f-5528-9812-1738f1a96b1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34411852",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星枳-",
         "default": "cn"
       }
     },
