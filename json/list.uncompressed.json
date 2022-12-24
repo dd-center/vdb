@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1671858481
+    "timestamp": 1671858516
   },
   "vtbs": [
     {
@@ -241,6 +241,23 @@
       "name": {
         "extra": [],
         "cn": "-阿予ayu_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "30a8dfaa-6190-51a7-a850-9012efada685",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10850238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-阿蕊娅Aria-",
         "default": "cn"
       }
     },
@@ -28594,6 +28611,24 @@
         "default": "cn"
       },
       "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
+    },
+    {
+      "uuid": "5dc8780c-afbb-541a-b05c-592ff8116952",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1834090921",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哟蔻桃桃YOCO",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd"
     },
     {
       "uuid": "e010f2e6-8483-5dda-b62b-ba9dc2b648cc",
