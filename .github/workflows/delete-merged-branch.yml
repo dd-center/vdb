@@ -32,7 +32,11 @@ jobs:
         env:
           PR_HEAD_LABEL: ${{ github.event.pull_request.head.label }}
           
-      - run:
-          git add vtbs-review
-          git commit -m "Delete Change"
-          git push origin master
+      - run: git add vtbs-review
+      - run: git commit -m "Delete Change"
+        env:
+          GIT_AUTHOR_NAME: vdb-bot
+          GIT_AUTHOR_EMAIL: tend.runnier0q@icloud.com
+          GIT_COMMITTER_NAME: vdb-bot
+          GIT_COMMITTER_EMAIL: tend.runnier0q@icloud.com
+      - run: git push origin master
