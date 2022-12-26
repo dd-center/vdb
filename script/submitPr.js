@@ -5,7 +5,7 @@ const { GitProcess } = require('dugite')
 
 const { decodeBase64, decodeBlock } = require('./common')
 
-const { ISSUE_NUMBER, ISSUE_BODY, GITHUB_TOKEN, GITHUB_ACTOR } = process.env
+const { ISSUE_NUMBER, ISSUE_BODY } = process.env
 
 const branchName = `submit-${ISSUE_NUMBER}`
 
