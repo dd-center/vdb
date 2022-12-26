@@ -14,3 +14,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           delete_closed_pr: true
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.bottoken }}
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - run: git pull origin master
+
+      - name: Delete Change
+        run: node script/deleteChange.mjs
+        env:
+          PR_HEAD_LABEL: ${{ github.event.pull_request.head.label }}
+          
+      - run:
+          git add vtbs-review
+          git commit -m "Delete Change"
+          git push origin master
