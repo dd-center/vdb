@@ -5,9 +5,7 @@ import { GitProcess } from 'dugite'
 
 import { decodeBase64, decodeBlock } from './common.js'
 
-const { ISSUE_NUMBER, ISSUE_BODY, BOT_TOKEN } = process.env
-
-const remote = `https://vdb-bot:${BOT_TOKEN}@github.com/dd-center/vdb.git`
+const { ISSUE_NUMBER, ISSUE_BODY } = process.env
 
 const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
 
@@ -43,4 +41,4 @@ await writeFile(saveName, JSON.stringify(save, null, 2))
 
 await gitExec(['add', 'vtbs-review'])
 await gitExec(['commit', '-m', `issue ${ISSUE_NUMBER}`])
-await gitExec(['push', '--set-upstream', remote, 'master'])
+await gitExec(['push'])
