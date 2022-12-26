@@ -1,0 +1,38 @@
+{
+  "commands": [
+    [
+      "name",
+      "simon300000",
+      ""
+    ],
+    [
+      "email",
+      "w@simon3k.moe",
+      ""
+    ],
+    [
+      "title",
+      "test",
+      ""
+    ],
+    [
+      "delete",
+      "龙王本王梓璃璃.json",
+      ""
+    ],
+    [
+      "delete",
+      "龙西Rinya.json",
+      ""
+    ],
+    [
+      "put",
+      "123123.json",
+      "{\n  \"name\": {\n    \"cn\": \"1123\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12640",
+    "body": "\n\n### description\n\nadd: 123123.json\nremove: 龙王本王梓璃璃.json\nremove: 龙西Rinya.json\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpjMmx0YjI0ek1EQXdNREE9CmVtYWlsOmQwQnphVzF2YmpOckxtMXZaUT09CnRpdGxlOmRHVnpkQT09CmRlbGV0ZTo2YjZaNTQ2TDVweXM1NDZMNXFLVDU1S0Q1NUtETG1wemIyND0KZGVsZXRlOjZiNlo2S1cvVW1sdWVXRXVhbk52Ymc9PQpwdXQ6TVRJek1USXpMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0lqRXhNak1pQ2lBZ2ZRcDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
