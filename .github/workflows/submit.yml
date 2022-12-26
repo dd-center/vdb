@@ -2,13 +2,9 @@ name: Submit Branch
 on:
   issues:
     types: [opened, reopened]
-  push:
-    branches:
-      - 'submit-*'
 
 jobs:
   publish:
-    if: github.event_name == 'issues'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
