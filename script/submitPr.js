@@ -3,11 +3,13 @@ const { join } = require('path')
 
 const { GitProcess } = require('dugite')
 
+const { decodeBase64, decodeBlock } = require('./common')
+
 const { ISSUE_NUMBER, ISSUE_BODY, GITHUB_TOKEN, GITHUB_ACTOR } = process.env
 
 const branchName = `submit-${ISSUE_NUMBER}`
 
-const remote = `https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/dd-center/vdb.git`
+const saveName = join('vtbs-review', `${ISSUE_NUMBER}.json`)
 
 const gitExec = async (params, { name = 'nanashi', email = 'example@example.com' } = {}) => {
   const { stdout, stderr } = await GitProcess.exec(params, process.cwd(), {
@@ -21,8 +23,6 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
   console.log({ stdout, stderr })
 }
 
-const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
-
 ;
 
 (async () => {
@@ -32,10 +32,8 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
   await gitExec(['checkout', branchName], gitUser)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
   if (block) {
-    await decodeBase64(block)
-      .split('\n')
-      .map(command => command.split(':'))
-      .map(([command, arg, extra = '']) => [command, decodeBase64(arg), decodeBase64(extra)])
+    await unlink(saveName).catch(() => {})
+    await decodeBlock(decodeBase64(block))
       .map(([command, arg, content]) => async () => {
         const path = join('vtbs', arg)
         if (path.startsWith('vtbs/')) {
@@ -59,6 +57,7 @@ const decodeBase64 = base64 => String(Buffer.from(base64, 'base64'))
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
+    await gitExec(['add', 'vtbs-review'], gitUser)
     await gitExec(['add', 'vtbs'], gitUser)
     await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
   }

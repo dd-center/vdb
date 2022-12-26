@@ -54,6 +54,15 @@ jobs:
     - name: npm install
       run: npm install
 
+    - run: git pull
+
+    - name: Save Change
+      run: node script/saveChange.mjs
+      env:
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
+        ISSUE_BODY: ${{ github.event.issue.body }}
+        GITHUB_TOKEN: ${{ secrets.gtoken }}
+
     - name: Commit Branch
       run: node script/submitPr.js
       env:
