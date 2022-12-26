@@ -25,20 +25,22 @@ const gitExec = async (params, { name = 'vdb-bot', email = 'tend.runnier0q@iclou
   console.log({ stdout, stderr })
 }
 
-if (block) {
-  const commands = decodeBlock(decodeBase64(block))
-
-  const save = {
-    commands,
-    issue: {
-      number: ISSUE_NUMBER,
-      body: ISSUE_BODY,
-    },
-  }
-
-  await writeFile(saveName, JSON.stringify(save, null, 2))
-
-  await gitExec(['add', 'vtbs-review'])
-  await gitExec(['commit', '-m', `issue ${ISSUE_NUMBER}`])
-  await gitExec(['push', '--set-upstream', remote, 'master'])
+if (!block) {
+  throw new Error('No block')
 }
+
+const commands = decodeBlock(decodeBase64(block))
+
+const save = {
+  commands,
+  issue: {
+    number: ISSUE_NUMBER,
+    body: ISSUE_BODY,
+  },
+}
+
+await writeFile(saveName, JSON.stringify(save, null, 2))
+
+await gitExec(['add', 'vtbs-review'])
+await gitExec(['commit', '-m', `issue ${ISSUE_NUMBER}`])
+await gitExec(['push', '--set-upstream', remote, 'master'])

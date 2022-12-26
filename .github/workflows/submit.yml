@@ -7,39 +7,6 @@ on:
       - 'submit-*'
 
 jobs:
-  pr:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-
-    - name: Use Node.js 18
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-
-    - name: npm install
-      run: npm install
-
-    - name: Create Pull Request
-      id: open-pr
-      uses: repo-sync/pull-request@v2
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        pr_label: "bot"
-
-    - name: Enable Auto Merge
-      run: node autoMerge.js
-      env:
-        GITHUB_TOKEN: ${{ secrets.bottoken }}
-        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
-
-    - name: Close Issue
-      run: node closeIssue.js
-      env:
-        GITHUB_TOKEN: ${{ secrets.bottoken }}
-        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
-
   publish:
     if: github.event_name == 'issues'
     runs-on: ubuntu-latest
@@ -68,6 +35,28 @@ jobs:
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
-        GITHUB_TOKEN: ${{ secrets.botatoken }}
 
     - run: git push origin ${{ format('submit-{0}', github.event.issue.number) }} -f
+
+    - uses: actions/checkout@v3
+      with:
+        ref: ${{ format('submit-{0}', github.event.issue.number) }}
+
+    - name: Create Pull Request
+      id: open-pr
+      uses: repo-sync/pull-request@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        pr_label: "bot"
+
+    - name: Enable Auto Merge
+      run: node script/autoMerge.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.bottoken }}
+        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
+
+    - name: Close Issue
+      run: node script/closeIssue.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.bottoken }}
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
