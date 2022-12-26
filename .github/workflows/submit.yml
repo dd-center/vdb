@@ -55,7 +55,7 @@ jobs:
       run: npm install
 
     - name: Commit Branch
-      run: node submitPr.js
+      run: node script/submitPr.js
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
