@@ -54,7 +54,7 @@ jobs:
     - name: npm install
       run: npm install
 
-    - run: git pull remote master
+    - run: git pull origin master
 
     - name: Save Change
       run: node script/saveChange.mjs
