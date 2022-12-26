@@ -5,9 +5,9 @@ import { GitProcess } from 'dugite'
 
 import { decodeBase64, decodeBlock } from './common.js'
 
-const { ISSUE_NUMBER, ISSUE_BODY, GITHUB_TOKEN } = process.env
+const { ISSUE_NUMBER, ISSUE_BODY, BOT_TOKEN } = process.env
 
-const remote = `https://vdb-bot:${GITHUB_TOKEN}@github.com/dd-center/vdb.git`
+const remote = `https://vdb-bot:${BOT_TOKEN}@github.com/dd-center/vdb.git`
 
 const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
 

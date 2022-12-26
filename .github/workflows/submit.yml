@@ -61,7 +61,7 @@ jobs:
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
-        GITHUB_TOKEN: ${{ secrets.botatoken }}
+        BOT_TOKEN: ${{ secrets.botatoken }}
 
     - name: Commit Branch
       run: node script/submitPr.js
