@@ -42,6 +42,9 @@ jobs:
       with:
         ref: ${{ format('submit-{0}', github.event.issue.number) }}
 
+    - name: npm install
+      run: npm install
+
     - name: Create Pull Request
       id: open-pr
       uses: repo-sync/pull-request@v2
