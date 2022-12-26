@@ -61,18 +61,18 @@ jobs:
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
-        GITHUB_TOKEN: ${{ secrets.gtoken }}
+        GITHUB_TOKEN: ${{ secrets.botatoken }}
 
     - name: Commit Branch
       run: node script/submitPr.js
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
-        GITHUB_TOKEN: ${{ secrets.gtoken }}
+        GITHUB_TOKEN: ${{ secrets.botatoken }}
 
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.gtoken }}
+        github_token: ${{ secrets.botatoken }}
         branch: ${{ format('submit-{0}', github.event.issue.number) }}
         force: true
