@@ -7,8 +7,6 @@ const { decodeBase64, decodeBlock } = require('./common')
 
 const { ISSUE_NUMBER, ISSUE_BODY } = process.env
 
-const branchName = `submit-${ISSUE_NUMBER}`
-
 const saveName = join('vtbs-review', `${ISSUE_NUMBER}.json`)
 
 const gitExec = async (params, { name = 'nanashi', email = 'example@example.com' } = {}) => {
@@ -28,8 +26,6 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
 (async () => {
   const gitUser = {}
   let title = 'update'
-  await gitExec(['branch', branchName], gitUser)
-  await gitExec(['checkout', branchName], gitUser)
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
   if (block) {
     await unlink(saveName).catch(() => {})
