@@ -70,9 +70,4 @@ jobs:
         ISSUE_BODY: ${{ github.event.issue.body }}
         GITHUB_TOKEN: ${{ secrets.botatoken }}
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.botatoken }}
-        branch: ${{ format('submit-{0}', github.event.issue.number) }}
-        force: true
+    - run: git push origin ${{ format('submit-{0}', github.event.issue.number) }} -f
