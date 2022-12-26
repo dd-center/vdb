@@ -1,3 +1,5 @@
+const got = require('got')
+
 const { ISSUE_NUMBER, GITHUB_TOKEN } = process.env
 
 const log = w => {
