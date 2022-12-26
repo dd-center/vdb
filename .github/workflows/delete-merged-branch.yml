@@ -14,9 +14,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           delete_closed_pr: true
+
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.bottoken }}
+          ref: master
 
       - name: Use Node.js 18
         uses: actions/setup-node@v3
