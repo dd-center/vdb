@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.bottoken }}
 
     - name: Use Node.js 18
       uses: actions/setup-node@v3
@@ -28,7 +30,6 @@ jobs:
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
-        BOT_TOKEN: ${{ secrets.botatoken }}
 
     - name: Commit Branch
       run: node script/submitPr.js
