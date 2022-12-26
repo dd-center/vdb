@@ -1,27 +1,13 @@
 import { writeFile } from 'fs/promises'
 import { join } from 'path'
 
-import { GitProcess } from 'dugite'
-
-import { decodeBase64, decodeBlock } from './common.js'
+import { decodeBase64, decodeBlock, gitExec } from './common.js'
 
 const { ISSUE_NUMBER, ISSUE_BODY } = process.env
 
 const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
 
 const saveName = join('vtbs-review', `${ISSUE_NUMBER}.json`)
-
-const gitExec = async (params, { name = 'vdb-bot', email = 'tend.runnier0q@icloud.com' } = {}) => {
-  const { stdout, stderr } = await GitProcess.exec(params, process.cwd(), {
-    env: {
-      GIT_AUTHOR_NAME: name,
-      GIT_AUTHOR_EMAIL: email,
-      GIT_COMMITTER_NAME: name,
-      GIT_COMMITTER_EMAIL: email,
-    },
-  })
-  console.log({ stdout, stderr })
-}
 
 if (!block) {
   throw new Error('No block')
