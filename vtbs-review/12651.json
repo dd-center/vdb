@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "星那Sena.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "星那Sena.json",
+      "{\n  \"name\": {\n    \"cn\": \"星那Sena\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"195506\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12651",
+    "body": "\n\n### description\n\nadd: 星那Sena.json\n> <https://space.bilibili.com/195506>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXBpZjZZS2pVMlZ1WVM1cWMyOXVJQ2d4THkwd0x5c3hLUT09CnB1dDo1cGlmNllLalUyVnVZUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1YVluK21DbzFObGJtRWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTVRrMU5UQTJJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
