@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672134862
+    "timestamp": 1672134892
   },
   "vtbs": [
     {
@@ -70572,6 +70572,23 @@
       "name": {
         "extra": [],
         "cn": "真凛-marin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "886333cf-be55-51a3-8133-06ca738c0093",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4709498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真和大总攻",
         "default": "cn"
       }
     },
