@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672129649
+    "timestamp": 1672134862
   },
   "vtbs": [
     {
@@ -75575,6 +75575,24 @@
         "cn": "維洛妮卡Veronica",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "22e335aa-afd5-5211-96ff-70427179acb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "435569969",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "綴目日傘",
+        "default": "cn"
+      },
+      "group": "a5f67427-dbfe-5cb0-be05-ef701454c3aa"
     },
     {
       "uuid": "c18aefcd-aef5-51ca-b725-a12ad54914d4",
