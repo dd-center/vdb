@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672226091
+    "timestamp": 1672235439
   },
   "vtbs": [
     {
@@ -37843,6 +37843,23 @@
         "default": "ch"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "2cf8dac8-5a49-57ac-be1d-ba7711ceab5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "237140787",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小紫才没有摸鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "22be9e01-0c3e-5724-84e4-ae888ffe83fa",
