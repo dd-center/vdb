@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672235773
+    "timestamp": 1672321699
   },
   "vtbs": [
     {
@@ -48362,6 +48362,23 @@
       "name": {
         "extra": [],
         "cn": "星越Koshi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0faa5a04-ae0e-5e30-96c2-388c3ae24647",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "195506",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星那Sena",
         "default": "cn"
       }
     },
