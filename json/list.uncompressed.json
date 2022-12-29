@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672321699
+    "timestamp": 1672321999
   },
   "vtbs": [
     {
@@ -50937,6 +50937,23 @@
         "default": "jp"
       },
       "group": "a5f67427-dbfe-5cb0-be05-ef701454c3aa"
+    },
+    {
+      "uuid": "bb3f482c-6091-5c7c-bc4c-ac1e8ef62fa5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13397992",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有栖マナの黑白尾协会",
+        "default": "cn"
+      }
     },
     {
       "uuid": "37b88861-4391-5ab1-9a3c-0a78fc6618f6",
