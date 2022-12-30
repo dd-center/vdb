@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672330350
+    "timestamp": 1672377109
   },
   "vtbs": [
     {
@@ -92608,6 +92608,23 @@
       "name": {
         "extra": [],
         "cn": "雪乃衣Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51186d00-3643-56b2-95cc-9ac8f6f47601",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089255622797",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪兔不能吃",
         "default": "cn"
       }
     },
