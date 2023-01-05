@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672905572
+    "timestamp": 1672905745
   },
   "vtbs": [
     {
@@ -16315,6 +16315,23 @@
       "name": {
         "extra": [],
         "cn": "万灼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c3a22f2-ba19-5341-8c13-0418ab4761d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1604544950",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三三niko",
         "default": "cn"
       }
     },
@@ -68642,6 +68659,23 @@
         "default": "cn"
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7"
+    },
+    {
+      "uuid": "102533db-52cd-59aa-a9f1-1b8577e010d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1245595065",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白屿Baille",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cbe7a2aa-8ff3-528b-a59c-2989c9d637a2",
