@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672838129
+    "timestamp": 1672905377
   },
   "vtbs": [
     {
@@ -77373,6 +77373,23 @@
         "default": "cn"
       },
       "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e"
+    },
+    {
+      "uuid": "b5838b0c-5a56-5693-ac9c-be7d8094551c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1501145142",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗塞索拉-ROSE_SUORA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d1b293d5-387f-5d1d-9375-4e9d464efb0a",
