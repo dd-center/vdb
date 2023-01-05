@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672905745
+    "timestamp": 1672905810
   },
   "vtbs": [
     {
@@ -71568,6 +71568,23 @@
       "name": {
         "extra": [],
         "cn": "砂糖大小姐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e016615-f3d6-52f3-b11f-4606ff771bc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1495003",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "砂糖星织",
         "default": "cn"
       }
     },
