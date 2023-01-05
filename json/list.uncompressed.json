@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672905821
+    "timestamp": 1672905846
   },
   "vtbs": [
     {
@@ -23510,6 +23510,23 @@
       "name": {
         "extra": [],
         "cn": "初小雨-ovo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "29ecb564-4f6f-5830-9d50-9b1a5193b10d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1100868441",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初時雨是公主殿下",
         "default": "cn"
       }
     },
