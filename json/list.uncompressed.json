@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672985724
+    "timestamp": 1672985753
   },
   "vtbs": [
     {
@@ -91060,6 +91060,23 @@
       "name": {
         "extra": [],
         "cn": "阳绫Themis",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69841fc3-959e-5203-87de-2c46f5b8503d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "618107325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阳阳不想熬夜",
         "default": "cn"
       }
     },
