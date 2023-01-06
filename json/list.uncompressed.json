@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1672985650
+    "timestamp": 1672985724
   },
   "vtbs": [
     {
@@ -18706,6 +18706,23 @@
       "name": {
         "extra": [],
         "cn": "五月织姬ctsu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e84a83bb-05f5-54e2-92eb-3a8ba60f870f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2093872604",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五条软yuki",
         "default": "cn"
       }
     },
