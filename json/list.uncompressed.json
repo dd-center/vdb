@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673077723
+    "timestamp": 1673077820
   },
   "vtbs": [
     {
@@ -76373,6 +76373,24 @@
         "cn": "纱布文轻子Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1613af52-0fd8-571e-b7e2-66e5f67951e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1648836961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "纱礼Challee",
+        "default": "CN"
+      },
+      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01"
     },
     {
       "uuid": "71204c43-e46b-5d77-8035-fc3f96a0c652",
