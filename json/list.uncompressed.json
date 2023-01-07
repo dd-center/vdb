@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673076267
+    "timestamp": 1673077723
   },
   "vtbs": [
     {
@@ -71937,6 +71937,23 @@
         "extra": [],
         "cn": "祈Inory",
         "en": "祈Inory",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "83336ed1-8cf5-52b1-ab5c-b708c0643f46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17476582",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祈乃Nya",
         "default": "cn"
       }
     },
