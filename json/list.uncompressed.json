@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673093085
+    "timestamp": 1673093247
   },
   "vtbs": [
     {
@@ -9811,6 +9811,23 @@
         "default": "en"
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
+    },
+    {
+      "uuid": "ba430967-1cce-51cf-9b87-f053a9d40c0d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2082254",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "asaran浅岚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2b750d24-7fd0-52d7-aba4-2075b91a45ed",
