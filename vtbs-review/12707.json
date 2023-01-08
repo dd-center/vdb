@@ -1,0 +1,53 @@
+{
+  "commands": [
+    [
+      "name",
+      "桜小路七葉",
+      ""
+    ],
+    [
+      "email",
+      "20304773@qq.com",
+      ""
+    ],
+    [
+      "title",
+      "吾音坊.json (6/-0/+6)",
+      ""
+    ],
+    [
+      "put",
+      "吾音坊.json",
+      "{\n  \"name\": {\n    \"cn\": \"吾音坊\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493082976750157\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "宫雅有点优雅.json",
+      "{\n  \"name\": {\n    \"cn\": \"宫雅\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493083742210681\"\n  },\n  \"group\": \"吾音坊\"\n}"
+    ],
+    [
+      "put",
+      "角鸣子绝绝子.json",
+      "{\n  \"name\": {\n    \"cn\": \"角鸣\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493093668031093\"\n  },\n  \"group\": \"吾音坊\"\n}"
+    ],
+    [
+      "put",
+      "商颂不会诗朗诵.json",
+      "{\n  \"name\": {\n    \"cn\": \"商颂\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493089505184413\"\n  },\n  \"group\": \"吾音坊\"\n}"
+    ],
+    [
+      "put",
+      "徵呛呛锵锵锵.json",
+      "{\n  \"name\": {\n    \"cn\": \"徵呛呛\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493105508550977\"\n  },\n  \"group\": \"吾音坊\"\n}"
+    ],
+    [
+      "put",
+      "羽真的是真的.json",
+      "{\n  \"name\": {\n    \"cn\": \"羽真\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493108442466769\"\n  },\n  \"group\": \"吾音坊\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12707",
+    "body": "\n\n### description\n\nadd: 吾音坊.json\n> <https://space.bilibili.com/3493082976750157>\n\nadd: 商颂不会诗朗诵.json\n> <https://space.bilibili.com/3493089505184413>\n\nadd: 宫雅有点优雅.json\n> <https://space.bilibili.com/3493083742210681>\n\nadd: 徵呛呛锵锵锵.json\n> <https://space.bilibili.com/3493105508550977>\n\nadd: 羽真的是真的.json\n> <https://space.bilibili.com/3493108442466769>\n\nadd: 角鸣子绝绝子.json\n> <https://space.bilibili.com/3493093668031093>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTo1cUdjNWJDUDZMZXY1TGlENkpHSgplbWFpbDpNakF6TURRM056TkFjWEV1WTI5dAp0aXRsZTo1WkMrNlorejVaMktMbXB6YjI0Z0tEWXZMVEF2S3pZcApwdXQ6NVpDKzZaK3o1WjJLTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdRdnVtZnMrV2RpaUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5Ea3pNRGd5T1RjMk56VXdNVFUzSWdvZ0lIMHNDaUFnSW5SNWNHVWlPaUFpWjNKdmRYQWlDbjA9CnB1dDo1YTZyNlp1RjVweUo1NEs1NUx5WTZadUZMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V3VxK21iaFNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXpORGt6TURnek56UXlNakV3TmpneElnb2dJSDBzQ2lBZ0ltZHliM1Z3SWpvZ0l1V1F2dW1mcytXZGlpSUtmUT09CnB1dDo2S2VTNmJpajVhMlE1N3VkNTd1ZDVhMlFMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aW5rdW00b3lJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXpORGt6TURrek5qWTRNRE14TURreklnb2dJSDBzQ2lBZ0ltZHliM1Z3SWpvZ0l1V1F2dW1mcytXZGlpSUtmUT09CnB1dDo1WldHNmFLQzVMaU41THlhNksrWDVweVg2SysxTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdWaHVtaWdpSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRrek1EZzVOVEExTVRnME5ERXpJZ29nSUgwc0NpQWdJbWR5YjNWd0lqb2dJdVdRdnVtZnMrV2RpaUlLZlE9PQpwdXQ6NWI2MTVaR2I1WkdiNlpTMTZaUzE2WlMxTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVcrdGVXUm0rV1JteUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5Ea3pNVEExTlRBNE5UVXdPVGMzSWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVXUXZ1bWZzK1dkaWlJS2ZRPT0KcHV0OjU3Njk1NXlmNTVxRTVwaXY1NXlmNTVxRUxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVlK3ZlZWNueUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5Ea3pNVEE0TkRReU5EWTJOelk1SWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVXUXZ1bWZzK1dkaWlJS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
