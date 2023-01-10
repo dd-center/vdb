@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673334210
+    "timestamp": 1673334722
   },
   "vtbs": [
     {
@@ -65586,6 +65586,34 @@
         "default": "cn"
       },
       "group": "4d66bbfb-bee8-59ec-88f6-495507330f10"
+    },
+    {
+      "uuid": "8caf31d6-267b-5aca-ae65-15de5b3c9984",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078558050567",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "nekoha_nyua",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCp7ND0opVoVCMQDMQ9apRhw",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫羽柔爱",
+        "jp": "猫羽にゅあ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "264e7f18-61f7-5917-a392-6b7533f4f893",
