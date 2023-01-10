@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "CPK智能机.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "CPK智能机.json",
+      "{\n  \"name\": {\n    \"cn\": \"CPK智能机\",\n    \"en\": \"CPKrobot\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3444642\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12732",
+    "body": "\n\n### description\n\nadd: CPK智能机.json\n> <https://space.bilibili.com/3444642>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6UTFCTDVwbTY2SU85NXB5NkxtcHpiMjRnS0RFdkxUQXZLekVwCnB1dDpRMUJMNXBtNjZJTzk1cHk2TG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJa05RUythWnV1aUR2ZWFjdWlJc0NpQWdJQ0FpWlc0aU9pQWlRMUJMY205aWIzUWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTXpRME5EWTBNaUlLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
