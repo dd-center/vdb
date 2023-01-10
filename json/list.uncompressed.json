@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673334092
+    "timestamp": 1673334161
   },
   "vtbs": [
     {
@@ -38265,6 +38265,23 @@
         "extra": [],
         "cn": "小豆沢あずき",
         "jp": "小豆沢あずき",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d0b3e680-2e52-5d8d-8f49-1f38ccf9c761",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2997958",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小豆砂",
         "default": "cn"
       }
     },
