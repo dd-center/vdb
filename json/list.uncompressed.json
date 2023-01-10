@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673334942
+    "timestamp": 1673337874
   },
   "vtbs": [
     {
@@ -21087,6 +21087,23 @@
       }
     },
     {
+      "uuid": "556a811d-023b-5702-8231-e3b9f27a6e07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461573697866274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "光临",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
       "type": "group",
       "bot": false,
@@ -41908,6 +41925,23 @@
       "name": {
         "extra": [],
         "cn": "弥祢兔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c8426d0-cba6-5bca-b0f5-bf54fd521567",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1247379069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥蒂娅_Mystia",
         "default": "cn"
       }
     },
