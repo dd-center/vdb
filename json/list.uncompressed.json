@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673333866
+    "timestamp": 1673333912
   },
   "vtbs": [
     {
@@ -58618,6 +58618,23 @@
         "extra": [],
         "ch": "水母水母吃货子",
         "default": "ch"
+      }
+    },
+    {
+      "uuid": "a4a03dba-4ea6-599e-868d-f61e467ec800",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24003005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水水超水嗷呜",
+        "default": "cn"
       }
     },
     {
