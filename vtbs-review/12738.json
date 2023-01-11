@@ -1,0 +1,33 @@
+{
+  "commands": [
+    [
+      "title",
+      "新人账号开通：弦羽-hane.json 咩苔Miette.json Vika蔚卡.json Rata芮塔.json",
+      ""
+    ],
+    [
+      "put",
+      "弦羽-hane.json",
+      "{\n  \"name\": {\n    \"cn\": \"弦羽-hane\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493118525573806\"\n  },\n  \"group\": \"虚研社\"\n}"
+    ],
+    [
+      "put",
+      "咩苔Miette.json",
+      "{\n  \"name\": {\n    \"cn\": \"咩苔Miette\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1418968119\"\n  },\n  \"group\": \"虚研社\"\n}"
+    ],
+    [
+      "put",
+      "Vika蔚卡.json",
+      "{\n  \"name\": {\n    \"cn\": \"Vika蔚卡\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1590177913\"\n  },\n  \"group\": \"虚研社\"\n}"
+    ],
+    [
+      "put",
+      "Rata芮塔.json",
+      "{\n  \"name\": {\n    \"cn\": \"Rata芮塔\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2065895628\"\n  },\n  \"group\": \"虚研社\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12738",
+    "body": "\n\n### description\n\nadd: Rata芮塔.json\n> <https://space.bilibili.com/2065895628>\n\nadd: Vika蔚卡.json\n> <https://space.bilibili.com/1590177913>\n\nadd: 咩苔Miette.json\n> <https://space.bilibili.com/1418968119>\n\nadd: 弦羽-hane.json\n> <https://space.bilibili.com/3493118525573806>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXBhdzVMcTY2TFNtNVkrMzVieUE2WUNhNzd5YTVieW01NzY5TFdoaGJtVXVhbk52YmlEbGtxbm9pNVJOYVdWMGRHVXVhbk52YmlCV2FXdGg2SlNhNVkyaExtcHpiMjRnVW1GMFllaUtydVdobEM1cWMyOXUKcHV0OjVieW01NzY5TFdoaGJtVXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1VzhwdWUrdlMxb1lXNWxJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpNME9UTXhNVGcxTWpVMU56TTRNRFlpQ2lBZ2ZTd0tJQ0FpWjNKdmRYQWlPaUFpNkptYTU2Q1U1NlMrSWdwOQpwdXQ6NVpLcDZJdVVUV2xsZEhSbExtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXU3FlaUxsRTFwWlhSMFpTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TkRFNE9UWTRNVEU1SWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVpWm11ZWdsT2VrdmlJS2ZRPT0KcHV0OlZtbHJZZWlVbXVXTm9TNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWxacGEySG9sSnJsamFFaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlNVFU1TURFM056a3hNeUlLSUNCOUxBb2dJQ0puY205MWNDSTZJQ0xvbVpybm9KVG5wTDRpQ24wPQpwdXQ6VW1GMFllaUtydVdobEM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJbEpoZEdIb2lxN2xvWlFpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1qQTJOVGc1TlRZeU9DSUtJQ0I5TEFvZ0lDSm5jbTkxY0NJNklDTG9tWnJub0pUbnBMNGlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
