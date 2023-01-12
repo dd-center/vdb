@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673527966
+    "timestamp": 1673528116
   },
   "vtbs": [
     {
@@ -66355,6 +66355,23 @@
       "name": {
         "extra": [],
         "cn": "王尔君Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a7d7cc03-ee64-509e-8068-998e74a2cc8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493105407887843",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王年年Official",
         "default": "cn"
       }
     },
