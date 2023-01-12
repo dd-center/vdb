@@ -6,7 +6,7 @@
     "test": "node test/test",
     "action-test": "node test/action-test",
     "update": "npm test && npm run generate && sh update.sh ; exit 0",
-    "generate": "node generator",
+    "generate": "node generator.mjs",
     "refresh": "node refresh"
   },
   "dependencies": {
