@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673505632
+    "timestamp": 1673526308
   },
   "vtbs": [
     {
@@ -91172,6 +91172,23 @@
         "extra": [],
         "jp": "闇夜乃モルル",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bacfacb4-1488-5dfd-b08e-39344e50d0a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "180389313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闪Shines",
+        "default": "cn"
       }
     },
     {
