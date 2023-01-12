@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673526420
+    "timestamp": 1673527390
   },
   "vtbs": [
     {
@@ -19271,6 +19271,23 @@
       "name": {
         "extra": [],
         "cn": "仟粟Kisu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9d729e5-98c7-5e1f-b18a-bca894f94b30",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "177792032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "以诺_Eno",
         "default": "cn"
       }
     },
