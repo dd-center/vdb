@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673528340
+    "timestamp": 1673528563
   },
   "vtbs": [
     {
@@ -42293,6 +42293,23 @@
         "default": "cn"
       },
       "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a"
+    },
+    {
+      "uuid": "4caa86a2-32eb-5a8b-b3f4-c8b7ce1e974d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1706304861",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "影潞Kagami",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0fc15ab8-9741-510f-8dbe-a8bdc694df7e",
