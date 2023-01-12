@@ -62,7 +62,7 @@ JSON file can be downloaded from: `https://vdb.vtbs.moe/json/list.json`, [https:
 
 * `index.js`: The database generator, return promise
 
-* `generator.mjs`: write the database to json file
+* `generator.js`: write the database to json file
 
 ### Extra
 
@@ -101,7 +101,7 @@ If there is error, there is a problem with files.
 
 Make sure to pass all the tests!
 
-Use  `node generator.mjs`
+Use  `node generator.js`
 
 This step is required for vtbs.moe refresh the list.
 
