@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673607329
+    "timestamp": 1673607378
   },
   "vtbs": [
     {
@@ -13212,8 +13212,8 @@
       ],
       "name": {
         "extra": [],
-        "jp": "やみん_Yaming",
-        "default": "jp"
+        "cn": "やみん_Yaming",
+        "default": "cn"
       }
     },
     {
@@ -73058,6 +73058,23 @@
         "extra": [],
         "cn": "祢礼",
         "en": "Miri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11827ee5-ba72-5a23-82b6-41c0d9bca1a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1398337493",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "禁漫娘西丝特",
         "default": "cn"
       }
     },
