@@ -33,6 +33,7 @@ module.exports = ({ vtbs, linkSyntax, UUID_NAMESPACE }, keepFilename = false) =>
 
       if (object.group) {
         parsed.group = uuidv5(object.group, UUID_NAMESPACE)
+        parsed.group_name = object.group
       } else if (parsed.type === 'group') {
         parsed.group = uuid
       }
