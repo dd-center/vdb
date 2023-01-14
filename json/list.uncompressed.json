@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673708767
+    "timestamp": 1673709147
   },
   "vtbs": [
     {
@@ -24893,6 +24893,55 @@
         "default": "cn"
       },
       "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a"
+    },
+    {
+      "uuid": "4c7ef2e8-dee1-5e42-a519-e4b50c9c6737",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1722518576",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Chinamit0",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千浪愛永",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "01abd8b2-2e55-54d5-be2a-738a98b3e596",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493079816342483",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Chinamiyukino",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UCb6wjnhSF16KwTcksh0vqXg",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千浪雪乃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a7c23856-51d8-5073-948f-1e7e21ffe5df",
