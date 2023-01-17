@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673978359
+    "timestamp": 1673978421
   },
   "vtbs": [
     {
@@ -42135,6 +42135,23 @@
       "name": {
         "extra": [],
         "cn": "幽知Arou",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d46e6485-be3b-5887-b7c3-997e44761fcc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1965565735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "广末小季",
         "default": "cn"
       }
     },
