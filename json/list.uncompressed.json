@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673977964
+    "timestamp": 1673978190
   },
   "vtbs": [
     {
@@ -65243,6 +65243,23 @@
       },
       "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80",
       "group_name": "AVP古流社"
+    },
+    {
+      "uuid": "e14b1084-6595-5c55-b184-85686a038640",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "592150173",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧牧白miiu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "38734844-25d6-58ab-8b03-42b00399bbb1",
