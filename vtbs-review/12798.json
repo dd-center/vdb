@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "梨梨Eriri.json (2/-1/+1)",
+      ""
+    ],
+    [
+      "delete",
+      "梨梨Eriri.json",
+      ""
+    ],
+    [
+      "put",
+      "Eriri梨梨.json",
+      "{\n  \"name\": {\n    \"cn\": \"Eriri梨梨\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1495180530\"\n  },\n  \"group\": \"极光社\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12798",
+    "body": "更换了账号\n\n### description\n\nadd: Eriri梨梨.json\n> <https://space.bilibili.com/1495180530>\n\nremove: 梨梨Eriri.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXFLbzVxS29SWEpwY21rdWFuTnZiaUFvTWk4dE1TOHJNU2s9CmRlbGV0ZTo1cUtvNXFLb1JYSnBjbWt1YW5OdmJnPT0KcHV0OlJYSnBjbW5tb3FqbW9xZ3Vhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0lrVnlhWEpwNXFLbzVxS29JZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFME9UVXhPREExTXpBaUNpQWdmU3dLSUNBaVozSnZkWEFpT2lBaTVwNkI1WVdKNTZTK0lncDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
