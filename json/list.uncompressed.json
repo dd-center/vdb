@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674008150
+    "timestamp": 1674008213
   },
   "vtbs": [
     {
@@ -55738,6 +55738,23 @@
         "extra": [],
         "jp": "桃ゐ咲鬼",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9255abcc-77bc-56b7-a600-770b8f36f18f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1459446062",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃乃Peach",
+        "default": "cn"
       }
     },
     {
