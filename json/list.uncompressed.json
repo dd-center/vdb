@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674068084
+    "timestamp": 1674068107
   },
   "vtbs": [
     {
@@ -27095,6 +27095,23 @@
       }
     },
     {
+      "uuid": "fcdddd36-2f25-5934-9114-ebc4b635cae2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "471968583",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "取栀有道Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b1f89a65-6166-5da5-baff-18a75bafed1a",
       "type": "vtuber",
       "bot": false,
@@ -28255,6 +28272,24 @@
       }
     },
     {
+      "uuid": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493082976750157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吾音坊",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5"
+    },
+    {
       "uuid": "f571a409-ee79-51c2-88bd-97a4c52de057",
       "type": "vtuber",
       "bot": false,
@@ -29386,6 +29421,25 @@
         "cn": "唯诺Vilor",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7f902d14-e3eb-5bed-9731-7e4e65878e70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089505184413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "商颂",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "group_name": "吾音坊"
     },
     {
       "uuid": "5e4e8595-ca5c-52a4-8740-01b3c658743a",
@@ -37108,6 +37162,25 @@
       "group_name": "虚研社"
     },
     {
+      "uuid": "aa23846d-cd22-56d4-82c4-cfb331469c17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493083742210681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫雅",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "group_name": "吾音坊"
+    },
+    {
       "uuid": "04335931-d19d-543f-8850-2fe0b16baff2",
       "type": "vtuber",
       "bot": false,
@@ -43452,6 +43525,25 @@
         "en": "Bibibi Micro",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "8e0657cc-7e1e-55a8-9ce8-78f1e290bfbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493105508550977",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "徵呛呛",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "group_name": "吾音坊"
     },
     {
       "uuid": "83442d40-a040-5aae-9e7e-0e063135a1a6",
@@ -79729,6 +79821,25 @@
       }
     },
     {
+      "uuid": "1fee0c4a-11e6-51fa-9ee3-6d201bfaa00a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493108442466769",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽真",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "group_name": "吾音坊"
+    },
+    {
       "uuid": "41bbb940-2808-5d6f-8f05-124621c6ddf7",
       "type": "vtuber",
       "bot": false,
@@ -88064,6 +88175,25 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "6198f641-8776-5a4c-976c-22c88cc4b400",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493093668031093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "角鸣",
+        "default": "cn"
+      },
+      "group": "09f99c31-d239-57a5-b727-26c0f8651de5",
+      "group_name": "吾音坊"
     },
     {
       "uuid": "4fa639d6-5c0d-5db7-99ac-51095f16eb92",
