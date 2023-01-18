@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1673986826
+    "timestamp": 1674008088
   },
   "vtbs": [
     {
@@ -52805,6 +52805,25 @@
         "cn": "木须tamago",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "92d6ec8b-a43a-5313-bb6c-005d6ce74a00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2000676519",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未响酒意",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "group_name": "虚研学园"
     },
     {
       "uuid": "295dd8da-dc0b-50f7-ac87-44ea0d577dd3",
