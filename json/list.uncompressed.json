@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674008088
+    "timestamp": 1674008150
   },
   "vtbs": [
     {
@@ -61417,6 +61417,24 @@
       "name": {
         "extra": [],
         "cn": "波娜娜豹豹子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "be489dda-a175-586c-8e8c-b06104c09dcc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577237858462",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波子Ramune",
+        "en": "Ramune",
         "default": "cn"
       }
     },
