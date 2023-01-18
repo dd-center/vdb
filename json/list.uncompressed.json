@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674068107
+    "timestamp": 1674068201
   },
   "vtbs": [
     {
@@ -76152,6 +76152,23 @@
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01",
       "group_name": "Facemoe官方"
+    },
+    {
+      "uuid": "37106204-9bd0-517a-ba5c-512e6079e790",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1845920872",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米娅在地下室",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fc103c82-0aed-5cda-8aaa-b8d5c7da5ee2",
