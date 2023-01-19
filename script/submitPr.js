@@ -19,6 +19,7 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
     },
   })
   console.log({ stdout, stderr })
+  return stdout
 }
 
 ;
@@ -27,6 +28,11 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
   const gitUser = {}
   let title = 'update'
   const block = ISSUE_BODY.split('-----END SUBMIT BLOCK-----')[0].split('-----BEGIN SUBMIT BLOCK-----')[1]
+  const commit = async () => {
+    await gitExec(['add', 'vtbs-review'], gitUser)
+    await gitExec(['add', 'vtbs'], gitUser)
+    await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
+  }
   if (block) {
     await unlink(saveName).catch(() => {})
     await decodeBlock(decodeBase64(block))
@@ -52,14 +58,15 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
           title = arg
         }
         if (command === 'merge') {
-          if (Number.isInteger(arg)) {
+          if (Number.isInteger(Number(arg))) {
+            if (await gitExec(['status', '-s'], gitUser) !== '') {
+              await commit()
+            }
             await gitExec(['merge', '--strategy-option', 'theirs', '--no-edit', `origin/submit-${arg}`], gitUser)
           }
         }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
-    await gitExec(['add', 'vtbs-review'], gitUser)
-    await gitExec(['add', 'vtbs'], gitUser)
-    await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
+    await commit()
   }
 })()
