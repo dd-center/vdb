@@ -51,6 +51,11 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
         if (command === 'title') {
           title = arg
         }
+        if (command === 'merge') {
+          if (Number.isInteger(arg)) {
+            await gitExec(['merge', '--strategy-option', 'theirs', '--no-edit', `origin/submit-${arg}`], gitUser)
+          }
+        }
       })
       .reduce((p, f) => p.then(f), Promise.resolve())
     await gitExec(['add', 'vtbs-review'], gitUser)
