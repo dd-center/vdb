@@ -1,0 +1,33 @@
+{
+  "commands": [
+    [
+      "title",
+      "龙西Rinya.json (3/-1/+1)Merge 1",
+      ""
+    ],
+    [
+      "merge",
+      "12833",
+      ""
+    ],
+    [
+      "put",
+      "龙西Rinya.json",
+      "{\n  \"name\": {\n    \"cn\": \"龙西Rinya\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"513273343\"\n  }\n}"
+    ],
+    [
+      "delete",
+      "龙野铃铃Rinrin3.json",
+      ""
+    ],
+    [
+      "put",
+      "龙野铃铃Rinrin.json",
+      "{\n  \"name\": {\n    \"cn\": \"龙野铃铃Rinrin\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"472360498\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12835",
+    "body": "\n\n### description\n\nMerge: #12833\nadd: 龙野铃铃Rinrin.json\n> <https://space.bilibili.com/472360498>\n\nremove: 龙野铃铃Rinrin3.json\nupdate: 龙西Rinya.json\n> <https://space.bilibili.com/513273343>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NmI2WjZLVy9VbWx1ZVdFdWFuTnZiaUFvTXk4dE1TOHJNU2xOWlhKblpTQXgKbWVyZ2U6TVRJNE16TT0KcHV0OjZiNlo2S1cvVW1sdWVXRXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bSttZWlsdjFKcGJubGhJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpVeE16STNNek0wTXlJS0lDQjlDbjA9CmRlbGV0ZTo2YjZaNlllTzZaT0Q2Wk9EVW1sdWNtbHVNeTVxYzI5dQpwdXQ6NmI2WjZZZU82Wk9ENlpPRFVtbHVjbWx1TG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdW0rbWVtSGp1bVRnK21UZzFKcGJuSnBiaUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJME56SXpOakEwT1RnaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
