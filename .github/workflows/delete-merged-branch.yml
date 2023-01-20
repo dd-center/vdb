@@ -39,4 +39,5 @@ jobs:
           GIT_AUTHOR_EMAIL: tend.runnier0q@icloud.com
           GIT_COMMITTER_NAME: vdb-bot
           GIT_COMMITTER_EMAIL: tend.runnier0q@icloud.com
+      - run: git pull origin master
       - run: git push origin master
