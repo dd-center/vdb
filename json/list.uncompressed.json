@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674179438
+    "timestamp": 1674179601
   },
   "vtbs": [
     {
@@ -51905,6 +51905,23 @@
       "name": {
         "extra": [],
         "cn": "月见枫Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e98aafd-4aed-5507-8585-0b7b229017de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104709536312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见栗_TsukimiMaron",
         "default": "cn"
       }
     },
