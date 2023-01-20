@@ -1,0 +1,38 @@
+{
+  "commands": [
+    [
+      "title",
+      "牧白miiu.json (1/-1/+0), Merge 4",
+      ""
+    ],
+    [
+      "merge",
+      "12665",
+      ""
+    ],
+    [
+      "merge",
+      "12697",
+      ""
+    ],
+    [
+      "merge",
+      "12717",
+      ""
+    ],
+    [
+      "merge",
+      "12780",
+      ""
+    ],
+    [
+      "delete",
+      "牧白miiu.json",
+      ""
+    ]
+  ],
+  "issue": {
+    "number": "12841",
+    "body": "\n\n### description\n\nMerge: #12665 #12697 #12717 #12780\nremove: 牧白miiu.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTRtbjU1bTliV2xwZFM1cWMyOXVJQ2d4THkweEx5c3dLU3dnVFdWeVoyVWdOQT09Cm1lcmdlOk1USTJOalU9Cm1lcmdlOk1USTJPVGM9Cm1lcmdlOk1USTNNVGM9Cm1lcmdlOk1USTNPREE9CmRlbGV0ZTo1NG1uNTVtOWJXbHBkUzVxYzI5dQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
