@@ -1,0 +1,33 @@
+{
+  "commands": [
+    [
+      "title",
+      "龙王本王梓璃璃.json (4/-3/+1)",
+      ""
+    ],
+    [
+      "delete",
+      "龙王本王梓璃璃.json",
+      ""
+    ],
+    [
+      "delete",
+      "龙西Rinya.json",
+      ""
+    ],
+    [
+      "delete",
+      "龙野铃铃Rinrin.json",
+      ""
+    ],
+    [
+      "put",
+      "啊啊啊啊啊.json",
+      "{\n  \"name\": {\n    \"w\": \"w\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12857",
+    "body": "\n\n### description\n\nadd: 啊啊啊啊啊.json\nremove: 龙王本王梓璃璃.json\nremove: 龙西Rinya.json\nremove: 龙野铃铃Rinrin.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NmI2WjU0Nkw1cHlzNTQ2TDVxS1Q1NUtENTVLRExtcHpiMjRnS0RRdkxUTXZLekVwCmRlbGV0ZTo2YjZaNTQ2TDVweXM1NDZMNXFLVDU1S0Q1NUtETG1wemIyND0KZGVsZXRlOjZiNlo2S1cvVW1sdWVXRXVhbk52Ymc9PQpkZWxldGU6NmI2WjZZZU82Wk9ENlpPRFVtbHVjbWx1TG1wemIyND0KcHV0OjVaV0s1WldLNVpXSzVaV0s1WldLTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW5jaU9pQWlkeUlLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
