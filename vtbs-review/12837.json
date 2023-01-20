@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "测试.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "测试.json",
+      "{\n  \"name\": {\n    \"1\": \"1\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12837",
+    "body": "\n\n### description\n\nadd: 测试.json\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjVyV0w2SytWTG1wemIyNGdLREV2TFRBdkt6RXAKcHV0OjVyV0w2SytWTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSWpFaU9pQWlNU0lLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
