@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674242229
+    "timestamp": 1674242316
   },
   "vtbs": [
     {
@@ -20208,7 +20208,9 @@
         "extra": [],
         "cn": "伊菲不是小火驴",
         "default": "cn"
-      }
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
+      "group_name": "Nebula-Beat​"
     },
     {
       "uuid": "fae55fa0-6436-5c69-ad8b-5ca21d967761",
@@ -20414,23 +20416,6 @@
       "name": {
         "extra": [],
         "cn": "优莉酱Channel",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "6671846b-81ca-5705-8502-84541a169996",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "22385806",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "会唱歌的粉红猫",
         "default": "cn"
       }
     },
@@ -85507,6 +85492,25 @@
       "group_name": "新科动漫"
     },
     {
+      "uuid": "4a369ee1-0362-53d4-a511-23ddba85dde2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22385806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萝娜",
+        "default": "cn"
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
+      "group_name": "Nebula-Beat​"
+    },
+    {
       "uuid": "acf9e2bf-ce4c-51b8-be3e-ddeb05570a76",
       "type": "vtuber",
       "bot": false,
@@ -93261,7 +93265,9 @@
         "extra": [],
         "cn": "阿买official",
         "default": "cn"
-      }
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
+      "group_name": "Nebula-Beat​"
     },
     {
       "uuid": "a2d727f8-9af8-57a5-a1b0-c3abe05cea7a",
@@ -96229,7 +96235,9 @@
         "extra": [],
         "cn": "霍鹭鹭",
         "default": "cn"
-      }
+      },
+      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
+      "group_name": "Nebula-Beat​"
     },
     {
       "uuid": "a76ed809-7d2b-5bd2-bc83-9f7aefc2b9ce",
