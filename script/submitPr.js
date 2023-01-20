@@ -62,7 +62,8 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
             if (await gitExec(['status', '-s'], gitUser) !== '') {
               await commit()
             }
-            await gitExec(['merge', '--strategy-option', 'theirs', '--no-edit', `origin/submit-${arg}`], gitUser)
+            await gitExec(['fetch', 'origin', `submit-${arg}:submit-${arg}`], gitUser)
+            await gitExec(['merge', '--strategy-option', 'theirs', '--no-edit', `submit-${arg}`], gitUser)
           }
         }
       })
