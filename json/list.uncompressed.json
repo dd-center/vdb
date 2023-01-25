@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674619628
+    "timestamp": 1674619657
   },
   "vtbs": [
     {
@@ -44214,6 +44214,23 @@
       "name": {
         "extra": [],
         "cn": "恩微",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b0c39770-a6cd-5afa-be50-7cb16382c830",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1524155842",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恩朵莱希Lucky",
         "default": "cn"
       }
     },
