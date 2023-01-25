@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674619751
+    "timestamp": 1674619794
   },
   "vtbs": [
     {
@@ -10776,6 +10776,23 @@
       "name": {
         "extra": [],
         "cn": "萌流Mofuu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3f2d3e36-6901-572e-a585-d8fc7580ab04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104925542888",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔菈morua_Channel",
         "default": "cn"
       }
     },
