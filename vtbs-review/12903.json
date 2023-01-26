@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "CHICKER.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "CHICKER.json",
+      "{\n  \"name\": {\n    \"en\": \"CHICKER\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1309306\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12903",
+    "body": "\n\n### description\n\nadd: CHICKER.json\n> <https://space.bilibili.com/1309306>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6UTBoSlEwdEZVaTVxYzI5dUlDZ3hMeTB3THlzeEtRPT0KcHV0OlEwaEpRMHRGVWk1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1WdUlqb2dJa05JU1VOTFJWSWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTVRNd09UTXdOaUlLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
