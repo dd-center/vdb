@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674803430
+    "timestamp": 1674803449
   },
   "vtbs": [
     {
@@ -35266,6 +35266,23 @@
       }
     },
     {
+      "uuid": "77f1af4a-7cc6-573c-a037-88bb76ce28b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1924797677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "好喝的姜撞奶啤",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bd391e41-8b10-5195-add3-e426ad03a802",
       "type": "vtuber",
       "bot": false,
@@ -64224,6 +64241,23 @@
       "name": {
         "extra": [],
         "cn": "激辣味噌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "36d691d2-15df-5c2d-9392-38a74c836373",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "387103852",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "濑川绪良Official",
         "default": "cn"
       }
     },
