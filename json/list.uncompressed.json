@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674803449
+    "timestamp": 1674803512
   },
   "vtbs": [
     {
@@ -24003,6 +24003,23 @@
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b",
       "group_name": "狄灵计划"
+    },
+    {
+      "uuid": "cd77491b-5f93-507f-8642-1ef19c03699b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2012650315",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初礼kyra",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3d5a8305-09f6-5443-a225-462b62a3b2e5",
