@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1674803349
+    "timestamp": 1674803430
   },
   "vtbs": [
     {
@@ -1696,6 +1696,23 @@
         "extra": [],
         "cn": "CDD可爱",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ac6a6a5-8d93-5fe9-b21c-4f758cac6ac1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1309306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "CHICKER",
+        "default": "en"
       }
     },
     {
@@ -31316,6 +31333,26 @@
         "extra": [],
         "CN": "夏樹サクラ_Channel",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "5d453c6d-e315-55b8-b6b1-8e6e7f76d6dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1638437",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "夏橙"
+        ],
+        "cn": "夏橙_Cia",
+        "en": "Cia",
+        "default": "cn"
       }
     },
     {
