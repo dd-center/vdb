@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675009547
+    "timestamp": 1675009620
   },
   "vtbs": [
     {
@@ -62262,6 +62262,23 @@
       },
       "group": "4d66bbfb-bee8-59ec-88f6-495507330f10",
       "group_name": "hitorino"
+    },
+    {
+      "uuid": "2f260bd6-4fd0-544f-8e9f-e0417da9a110",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1549963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洲崎绫响",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2ff9e911-d192-59be-ac52-e52e5fef3422",
