@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675009410
+    "timestamp": 1675009547
   },
   "vtbs": [
     {
@@ -27315,6 +27315,23 @@
         "extra": [],
         "cn": "古见月",
         "en": "FurumiLuna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9970dd9c-07db-527c-bed0-c724351ece66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23134740",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "只鱼只",
         "default": "cn"
       }
     },
