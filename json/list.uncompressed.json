@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675009620
+    "timestamp": 1675009679
   },
   "vtbs": [
     {
@@ -18982,6 +18982,23 @@
         "extra": [],
         "jp": "五十嵐イツツ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bc954922-3732-5599-b3b9-7cebe98da4e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7388060",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五千兆圆",
+        "default": "cn"
       }
     },
     {
