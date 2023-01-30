@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675087637
+    "timestamp": 1675089778
   },
   "vtbs": [
     {
@@ -7977,6 +7977,23 @@
         "extra": [],
         "en": "Shizukou",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "da7ef87c-6780-53ec-8d9f-5cd4bf8e45da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "490592728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Shoto的汪汪队",
+        "default": "cn"
       }
     },
     {
