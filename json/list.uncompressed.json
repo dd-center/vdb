@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675090931
+    "timestamp": 1675091017
   },
   "vtbs": [
     {
@@ -2824,6 +2824,25 @@
       "group_name": "NIJISANJI EN"
     },
     {
+      "uuid": "1c72e3e2-f6a5-5ae5-922d-92bb7d07fe1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "361363473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Fulgur的电子厂",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
       "uuid": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
       "type": "group",
       "bot": false,
@@ -3363,6 +3382,44 @@
       "name": {
         "extra": [],
         "en": "Ike_Official",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "6f642528-aa87-5935-885b-d35ba8b278be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1763663258",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ike的随笔札记",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "506b8a0e-6c61-53b6-8001-8700a9e6343c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1730051024",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ike的鱼子酱批发商",
         "default": "en"
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
@@ -8169,6 +8226,25 @@
       "group_name": "NIJISANJI EN"
     },
     {
+      "uuid": "6e357054-b563-5170-8245-c09a82845956",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1359534346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Sonny的VSF分队",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
       "uuid": "49853fc3-5bff-54e9-ab63-ecc47ea65f5b",
       "type": "vtuber",
       "bot": false,
@@ -8599,6 +8675,25 @@
       "name": {
         "extra": [],
         "en": "Uki Violeta",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "13577fba-0430-5d9e-84fd-827f24dd828b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2129870539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Uki的捕星网",
         "default": "en"
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
@@ -17250,6 +17345,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "3a79a4fb-3136-5022-b2e9-993417aa893b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "543106544",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "不破湊的甜甜圈工坊",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "4c65dff8-f1b5-51fb-9e53-ec346d917d49",
       "type": "vtuber",
       "bot": false,
@@ -24405,6 +24517,40 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "5427632c-86dc-52dc-bc4b-1f771f300bf2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3612946",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "加賀美隼人非公式搬运",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "4d0b8d5a-7cc6-5406-89ac-c1b61a2079c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2075226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "加贺美隼人工业搬运部",
+        "default": "jp"
+      }
     },
     {
       "uuid": "e8e27c90-1381-569a-9cb6-26a3e9abe21b",
@@ -45276,6 +45422,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "5647dbc3-755e-52d7-b1dd-79a1ffbec320",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4903038",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "戌亥の造梦坊",
+        "default": "jp"
+      }
     },
     {
       "uuid": "c5cda7b8-5d0a-59e5-9b94-b829d320246e",
@@ -69689,6 +69852,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "44725dde-2322-5fdf-999e-44970cc79ee5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "543529510",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "甲斐田晴的魔物研究所",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "4b7f0842-de38-57a4-90c5-95273d97c65e",
       "type": "vtuber",
       "bot": false,
@@ -69829,6 +70009,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b8cd9d11-bdc1-5028-b57a-ae62b9fc4dbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "46085853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "町田千麻的瓜子铺",
+        "default": "jp"
+      }
     },
     {
       "uuid": "1674fa54-caea-51fd-9a33-18396fa4f2ec",
@@ -85026,6 +85223,23 @@
       }
     },
     {
+      "uuid": "fa5e37f6-a2e8-5435-bbc7-1b62fc710d6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1626066286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "莎乐美的满分管家",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "dceee333-e287-599e-9ac6-4350ee62f887",
       "type": "vtuber",
       "bot": false,
@@ -86202,6 +86416,23 @@
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01",
       "group_name": "Facemoe官方"
+    },
+    {
+      "uuid": "10ae08ac-b841-59be-8a88-32bf1af395e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476879987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "葛叶搬运组",
+        "default": "jp"
+      }
     },
     {
       "uuid": "c4309420-284b-5cf9-afe0-028f8da405e3",
@@ -102178,6 +102409,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "f30de538-26cb-5317-a81e-9bb113866b8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "471227123",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "黛灰字幕组",
+        "default": "jp"
+      }
     },
     {
       "uuid": "428d61a2-ae5b-50e1-b899-e1c60b8e5624",
