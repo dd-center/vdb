@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675179707
+    "timestamp": 1675179795
   },
   "vtbs": [
     {
@@ -4896,6 +4896,23 @@
         "extra": [],
         "cn": "Meo_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ff1c2d5-a4c7-571b-b2f2-a1efbe73cf18",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1570624336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MerryOfficial",
+        "default": "en"
       }
     },
     {
@@ -10960,6 +10977,23 @@
       }
     },
     {
+      "uuid": "2549d406-d6ae-54c7-be97-c3e5446a3fd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2093138472",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "murasakihiroshi",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "cc1cd352-2dd0-53d4-a319-a6fe75889c2e",
       "type": "vtuber",
       "bot": false,
@@ -11042,6 +11076,23 @@
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
       "group_name": "远星社FarStar"
+    },
+    {
+      "uuid": "489aed28-7cb7-5d38-90ae-4e400bdbe54f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1680099254",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "noro_official",
+        "default": "en"
+      }
     },
     {
       "uuid": "0342a9e1-acc2-5895-b840-3bcd612d9899",
@@ -40004,6 +40055,23 @@
       },
       "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef",
       "group_name": "No.6 Channel"
+    },
+    {
+      "uuid": "6ada5b08-7363-575f-8ef9-5e7368d0a95f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "42342944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤里卡-崔西雅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9cc019b3-c21b-514e-bee2-548487ba2d8c",
@@ -92374,6 +92442,23 @@
       },
       "group": "47ca08ba-9ebb-5ac9-bae9-b0f3b802e97f",
       "group_name": "量子少年Official"
+    },
+    {
+      "uuid": "1bdb0686-bd2b-5a22-8e73-9c0f0e46e365",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19058549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "量子猫EH",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d4dcbf0-f576-58fa-a1e2-1db1e4acc346",
