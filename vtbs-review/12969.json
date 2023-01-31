@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "YuNi_Official.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "YuNi_Official.json",
+      "{\n  \"name\": {\n    \"jp\": \"YuNi_Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1308924026\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12969",
+    "body": "\n\n### description\n\nadd: YuNi_Official.json\n> <https://space.bilibili.com/1308924026>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6V1hWT2FWOVBabVpwWTJsaGJDNXFjMjl1SUNneEx5MHdMeXN4S1E9PQpwdXQ6V1hWT2FWOVBabVpwWTJsaGJDNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltcHdJam9nSWxsMVRtbGZUMlptYVdOcFlXd2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTVRNd09Ea3lOREF5TmlJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
