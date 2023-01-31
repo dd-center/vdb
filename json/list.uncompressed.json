@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675179726
+    "timestamp": 1675179749
   },
   "vtbs": [
     {
@@ -11076,6 +11076,23 @@
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
       "group_name": "远星社FarStar"
+    },
+    {
+      "uuid": "489aed28-7cb7-5d38-90ae-4e400bdbe54f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1680099254",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "noro_official",
+        "default": "en"
+      }
     },
     {
       "uuid": "0342a9e1-acc2-5895-b840-3bcd612d9899",
