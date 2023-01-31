@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "丞之.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "丞之.json",
+      "{\n  \"name\": {\n    \"cn\": \"丞之\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"249802\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12967",
+    "body": "\n\n### description\n\nadd: 丞之.json\n> <https://space.bilibili.com/249802>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NUxpZTVMbUxMbXB6YjI0Z0tERXZMVEF2S3pFcApwdXQ6NUxpZTVMbUxMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1UzRudVM1aXlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXlORGs0TURJaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
