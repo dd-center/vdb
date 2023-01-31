@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "遗漏补充",
+      ""
+    ],
+    [
+      "put",
+      "murasakihiroshi.json",
+      "{\n  \"name\": {\n    \"en\": \"murasakihiroshi\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2093138472\"\n  }\n}"
+    ],
+    [
+      "put",
+      "MerryOfficial.json",
+      "{\n  \"name\": {\n    \"en\": \"MerryOfficial\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1570624336\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12959",
+    "body": "\n\n### description\n\nadd: MerryOfficial.json\n> <https://space.bilibili.com/1570624336>\n\nadd: murasakihiroshi.json\n> <https://space.bilibili.com/2093138472>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NllHWDVyeVA2S0dsNVlXRgpwdXQ6YlhWeVlYTmhhMmxvYVhKdmMyaHBMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0ltMTFjbUZ6WVd0cGFHbHliM05vYVNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXlNRGt6TVRNNE5EY3lJZ29nSUgwS2ZRPT0KcHV0OlRXVnljbmxQWm1acFkybGhiQzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0lrMWxjbko1VDJabWFXTnBZV3dpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1UVTNNRFl5TkRNek5pSUtJQ0I5Q24wPQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
