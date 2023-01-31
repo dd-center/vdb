@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "title",
+      "与彩虹社有合作的粉丝组织（2）",
+      ""
+    ],
+    [
+      "put",
+      "Yugo的动感DJ舞厅.json",
+      "{\n  \"name\": {\n    \"CN\": \"Yugo的动感DJ舞厅\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"634324400\"\n  }\n}"
+    ],
+    [
+      "put",
+      "Alban的24h便利店.json",
+      "{\n  \"name\": {\n    \"CN\": \"Alban的24h便利店\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1412872951\"\n  }\n}"
+    ],
+    [
+      "put",
+      "静凛字幕组.json",
+      "{\n  \"name\": {\n    \"cn\": \"静凛字幕组\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"323590528\"\n  }\n}"
+    ],
+    [
+      "put",
+      "克蕾雅家后院的狸猫窝.json",
+      "{\n  \"name\": {\n    \"cn\": \"克蕾雅家后院的狸猫窝\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"362420674\"\n  }\n}"
+    ],
+    [
+      "put",
+      "椎名唯華字幕组.json",
+      "{\n  \"name\": {\n    \"cn\": \"椎名唯華字幕组\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"390800017\"\n  }\n}"
+    ],
+    [
+      "put",
+      "社筑单推组.json",
+      "{\n  \"name\": {\n    \"cn\": \"社筑单推组\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"414127280\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "12957",
+    "body": "\n\n### description\n\nadd: Alban的24h便利店.json\n> <https://space.bilibili.com/1412872951>\n\nadd: Yugo的动感DJ舞厅.json\n> <https://space.bilibili.com/634324400>\n\nadd: 克蕾雅家后院的狸猫窝.json\n> <https://space.bilibili.com/362420674>\n\nadd: 椎名唯華字幕组.json\n> <https://space.bilibili.com/390800017>\n\nadd: 社筑单推组.json\n> <https://space.bilibili.com/414127280>\n\nadd: 静凛字幕组.json\n> <https://space.bilibili.com/323590528>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NUxpTzViMnA2Sm01NTZTKzVweUo1WkNJNUwyYzU1cUU1N0tKNUxpZDU3dUU1N3VINzd5SU11KzhpUT09CnB1dDpXWFZuYitlYWhPV0txT2FFbjBSSzZJaWU1WTZGTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSWtOT0lqb2dJbGwxWjIvbm1vVGxpcWptaEo5RVN1aUludVdPaFNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTJNelF6TWpRME1EQWlDaUFnZlFwOQpwdXQ6UVd4aVlXN25tb1F5Tkdqa3ZyL2xpS25sdXBjdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0lrTk9Jam9nSWtGc1ltRnU1NXFFTWpSbzVMNi81WWlwNWJxWElnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJakUwTVRJNE56STVOVEVpQ2lBZ2ZRcDkKcHV0OjZaMlo1WWViNWEyWDVibVY1N3VFTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdW1kbWVXSG0rV3RsK1c1bGVlN2hDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TWpNMU9UQTFNamdpQ2lBZ2ZRcDkKcHV0OjVZV0w2SlcrNlp1RjVhNjI1WkNPNlptaTU1cUU1NHU0NTR5cjU2cWRMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V0ZpK2lWdnVtYmhlV3V0dVdRanVtWm91ZWFoT2VMdU9lTXErZXFuU0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5qSTBNakEyTnpRaUNpQWdmUXA5CnB1dDo1cVNPNVpDTjVaU3Y2SSt2NWEyWDVibVY1N3VFTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWFranVXUWplV1VyK2lQcitXdGwrVzVsZWU3aENJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXpPVEE0TURBd01UY2lDaUFnZlFwOQpwdXQ6NTZTKzU2MlI1WTJWNW82bzU3dUVMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1ZWt2dWV0a2VXTmxlYU9xT2U3aENJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTBNVFF4TWpjeU9EQWlDaUFnZlFwOQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
