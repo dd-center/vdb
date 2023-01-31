@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675179795
+    "timestamp": 1675181768
   },
   "vtbs": [
     {
@@ -9730,6 +9730,23 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "8a32f3fe-baf4-5cc0-920b-9101f156ba0f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1308924026",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "YuNi_Official",
+        "default": "jp"
+      }
     },
     {
       "uuid": "51d57140-6959-543e-9eb9-b8a6308423a2",
@@ -31445,6 +31462,23 @@
         "extra": [],
         "cn": "夏威夷的尾巴是青椒",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6be1ca6d-97ca-5fc8-9107-5b9e0e1189ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1416046076",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "夏实萌惠_official",
+        "default": "JP"
       }
     },
     {
@@ -61915,6 +61949,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "200525d8-980c-56c8-818a-b6c3a864a14b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434021034",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泠鸢yousa创作组官方号",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fa1a2920-714f-5a38-9f73-347301e5c6ee",
