@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675179695
+    "timestamp": 1675179726
   },
   "vtbs": [
     {
@@ -4896,6 +4896,23 @@
         "extra": [],
         "cn": "Meo_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ff1c2d5-a4c7-571b-b2f2-a1efbe73cf18",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1570624336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "MerryOfficial",
+        "default": "en"
       }
     },
     {
@@ -10957,6 +10974,23 @@
         "extra": [],
         "cn": "魔菈morua_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2549d406-d6ae-54c7-be97-c3e5446a3fd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2093138472",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "murasakihiroshi",
+        "default": "en"
       }
     },
     {
