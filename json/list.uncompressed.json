@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675507993
+    "timestamp": 1675508084
   },
   "vtbs": [
     {
@@ -11219,6 +11219,23 @@
       },
       "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98",
       "group_name": "草莓王子"
+    },
+    {
+      "uuid": "fd2efa22-ee22-5f99-b7d8-e1d4a3745f76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493118663985555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": " rosabel_official",
+        "default": "en"
+      }
     },
     {
       "uuid": "c4099b8a-89a8-5bf3-98e9-3559b7dcc688",
