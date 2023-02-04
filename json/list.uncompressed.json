@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675507955
+    "timestamp": 1675507968
   },
   "vtbs": [
     {
@@ -61326,6 +61326,23 @@
       "name": {
         "extra": [],
         "cn": "沉溺于你的Butterfly",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "42828c51-7b47-5c79-818c-bc28af72611b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2111835557",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沉默藕和Kururu",
         "default": "cn"
       }
     },
