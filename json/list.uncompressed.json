@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675593493
+    "timestamp": 1675593646
   },
   "vtbs": [
     {
@@ -5921,6 +5921,23 @@
         "extra": [],
         "en": "Nina的空之御守",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "14b76636-b5f2-58ce-8904-cb9b0faef8fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "188679",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Niya阿布",
+        "default": "cn"
       }
     },
     {
