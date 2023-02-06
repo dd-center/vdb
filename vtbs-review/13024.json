@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "薄荷Miint.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "薄荷Miint.json",
+      "{\n  \"name\": {\n    \"中文\": \"薄荷Miint\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493076263766277\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13024",
+    "body": "\n\n### description\n\nadd: 薄荷Miint.json\n> <https://space.bilibili.com/3493076263766277>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NkphRTZJMjNUV2xwYm5RdWFuTnZiaUFvTVM4dE1DOHJNU2s9CnB1dDo2SmFFNkkyM1RXbHBiblF1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSXVTNHJlYVdoeUk2SUNMb2xvVG9qYmROYVdsdWRDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRrek1EYzJNall6TnpZMk1qYzNJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
