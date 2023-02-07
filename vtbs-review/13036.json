@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "千祈senki.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "千祈senki.json",
+      "{\n  \"name\": {\n    \"cn\": \"千祈senki\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493081399691605\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13036",
+    "body": "\n\n### description\n\nadd: 千祈senki.json\n> <https://space.bilibili.com/3493081399691605>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NVkyRDU2V0ljMlZ1YTJrdWFuTnZiaUFvTVM4dE1DOHJNU2s9CnB1dDo1WTJENTZXSWMyVnVhMmt1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdOZytlbGlITmxibXRwSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqTTBPVE13T0RFek9UazJPVEUyTURVaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
