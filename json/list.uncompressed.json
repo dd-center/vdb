@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675847293
+    "timestamp": 1675857211
   },
   "vtbs": [
     {
@@ -30855,6 +30855,23 @@
       "name": {
         "extra": [],
         "cn": "圆咕鹿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39b52ca1-0567-5f2e-94ed-80f42e82e309",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1858271923",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "圣园响_Hibiki",
         "default": "cn"
       }
     },
