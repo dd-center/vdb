@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675857211
+    "timestamp": 1675857230
   },
   "vtbs": [
     {
@@ -87767,6 +87767,23 @@
         "extra": [],
         "cn": "蕾蕾大表哥",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "34bac504-3624-50dd-9685-b5031f933849",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076263766277",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cm": "薄荷Miint",
+        "default": "cm"
       }
     },
     {
