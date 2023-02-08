@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675857258
+    "timestamp": 1675857433
   },
   "vtbs": [
     {
@@ -8423,6 +8423,24 @@
       },
       "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
       "group_name": "纸片人计划"
+    },
+    {
+      "uuid": "33b56a7c-193a-5f5e-92e3-44d864560b44",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493123334343174",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "TTUP",
+        "default": "cn"
+      },
+      "group": "33b56a7c-193a-5f5e-92e3-44d864560b44"
     },
     {
       "uuid": "88b3c59c-3ad7-52e9-888c-615cddcfc0da",
@@ -26295,6 +26313,25 @@
       }
     },
     {
+      "uuid": "f05c9f6c-26ab-5ef0-87f0-4f7ccab28071",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086422370649",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "半夏",
+        "default": "cn"
+      },
+      "group": "33b56a7c-193a-5f5e-92e3-44d864560b44",
+      "group_name": "TTUP"
+    },
+    {
       "uuid": "ae801afe-c19b-558c-aba9-ebc905c33e5d",
       "type": "vtuber",
       "bot": false,
@@ -37095,6 +37132,25 @@
         "en": "Annalie",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "4abd93ab-fc78-5f6a-9e6c-bd9256ce5916",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086428662337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安婧",
+        "default": "cn"
+      },
+      "group": "33b56a7c-193a-5f5e-92e3-44d864560b44",
+      "group_name": "TTUP"
     },
     {
       "uuid": "95a1f7af-2f9a-5136-bb59-d66ac81861af",
@@ -92688,6 +92744,25 @@
       }
     },
     {
+      "uuid": "4022371a-29cc-5a51-a525-3b196159b8c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086413982205",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "里沙",
+        "default": "cn"
+      },
+      "group": "33b56a7c-193a-5f5e-92e3-44d864560b44",
+      "group_name": "TTUP"
+    },
+    {
       "uuid": "86d498a2-7357-5d5c-b0de-a65fd9847b01",
       "type": "vtuber",
       "bot": false,
@@ -96986,6 +97061,25 @@
         "cn": "零-Hanhan",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6941932f-664a-51ae-8276-249d2b72e05a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086437050375",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零一",
+        "default": "cn"
+      },
+      "group": "33b56a7c-193a-5f5e-92e3-44d864560b44",
+      "group_name": "TTUP"
     },
     {
       "uuid": "42c15dc6-a241-522f-8b1a-fa2ea82c2fa0",
