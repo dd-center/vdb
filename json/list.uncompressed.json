@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675846991
+    "timestamp": 1675847086
   },
   "vtbs": [
     {
@@ -62872,6 +62872,23 @@
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1",
       "group_name": "星研社"
+    },
+    {
+      "uuid": "c1d35b74-bf0f-58eb-8b43-a5e4d368af27",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1911626217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅仓池",
+        "default": "cn"
+      }
     },
     {
       "uuid": "140aec9d-f00e-581d-8fb3-e1ec92c14dd4",
