@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1675909931
+    "timestamp": 1675919827
   },
   "vtbs": [
     {
@@ -22449,6 +22449,25 @@
         "cn": "兔美三天吃一顿",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "609f5659-c11d-5449-903f-13fef6d7204b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1570133561",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔美咪奈-官方WACTOR",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407",
+      "group_name": "WACTOR"
     },
     {
       "uuid": "e558d19f-650a-5529-96a6-109c9cfae1b2",
