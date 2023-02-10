@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676035332
+    "timestamp": 1676035351
   },
   "vtbs": [
     {
@@ -49687,6 +49687,23 @@
         "extra": [],
         "cn": "星璃奈",
         "en": "Selina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "be83dad8-d382-5911-b9cb-70371ec21ed2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "484759992",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星由莉Hoshiyuri星ゆり",
         "default": "cn"
       }
     },
