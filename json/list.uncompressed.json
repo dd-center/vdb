@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676035351
+    "timestamp": 1676035426
   },
   "vtbs": [
     {
@@ -67819,6 +67819,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "b7b3181e-525d-53a9-9349-93f8fd1a7cec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397146",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫崎星衣藍_channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7a4dea2e-c1f8-5583-a6d4-e8e837190e0d",
