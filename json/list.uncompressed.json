@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676035474
+    "timestamp": 1676035491
   },
   "vtbs": [
     {
@@ -68782,6 +68782,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "1197a489-f177-5491-995c-cf4d79c9d733",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "228466198",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玛桃Myrtle",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8e15f8d9-4255-5168-8953-9c4851ce9048",
