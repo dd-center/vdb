@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676035523
+    "timestamp": 1676035543
   },
   "vtbs": [
     {
@@ -47915,6 +47915,25 @@
         "cn": "早起喵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "dc3ba572-665d-5001-80ff-6c76f36878c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1797782115",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早野奇迹__きせき",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
+      "group_name": "ChaosLiveSprout"
     },
     {
       "uuid": "4af38e45-768d-5d38-9cbc-300f4271bba3",
