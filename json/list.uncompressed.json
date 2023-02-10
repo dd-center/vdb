@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676035491
+    "timestamp": 1676035514
   },
   "vtbs": [
     {
@@ -30107,6 +30107,23 @@
         "extra": [],
         "JP": "啵缇兔_Official",
         "default": "JP"
+      }
+    },
+    {
+      "uuid": "507be26f-298b-5a69-a288-c8a54c0242fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493122996702172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啾尤尤OwO",
+        "default": "cn"
       }
     },
     {
@@ -70267,6 +70284,23 @@
       "name": {
         "extra": [],
         "cn": "甘霖Gerlin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b642d65d-dca0-55d0-8ed6-99f926144d1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "526729810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜夕sweet",
         "default": "cn"
       }
     },
