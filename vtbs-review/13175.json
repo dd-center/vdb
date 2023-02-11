@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "卦者那啥子靈風.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "卦者那啥子靈風.json",
+      "{\n  \"name\": {\n    \"cn\": \"卦者那啥子靈風\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2679304\"\n  }\n}"
+    ],
+    [
+      "put",
+      "MUE.json",
+      "{\n  \"name\": {\n    \"en\": \"MUE\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"640493\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13175",
+    "body": "\n\n### description\n\nadd: MUE.json\n> <https://space.bilibili.com/640493>\n\nadd: 卦者那啥子靈風.json\n> <https://space.bilibili.com/2679304>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NVkybTZJQ0Y2WUtqNVpXbDVhMlE2WjJJNmFLb0xtcHpiMjRnS0RJdkxUQXZLeklwCnB1dDo1WTJtNklDRjZZS2o1WldsNWEyUTZaMkk2YUtvTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdOcHVpQWhlbUNvK1dWcGVXdGtPbWRpT21pcUNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXlOamM1TXpBMElnb2dJSDBLZlE9PQpwdXQ6VFZWRkxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltVnVJam9nSWsxVlJTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0kyTkRBME9UTWlDaUFnZlFwOQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
