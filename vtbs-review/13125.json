@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "neuro_sama.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "neuro_sama.json",
+      "{\n  \"name\": {\n    \"en\": \"neuro_sama\"\n  },\n  \"accounts\": {\n    \"twitch\": \"https://www.twitch.tv/vedal987\"\n  },\n  \"bot\": true\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13125",
+    "body": "\n\n### description\n\nadd: neuro_sama.json\n> <https://www.twitch.tv/https://www.twitch.tv/vedal987>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6Ym1WMWNtOWZjMkZ0WVM1cWMyOXVJQ2d4THkwd0x5c3hLUT09CnB1dDpibVYxY205ZmMyRnRZUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0ltNWxkWEp2WDNOaGJXRWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlkSGRwZEdOb0lqb2dJbWgwZEhCek9pOHZkM2QzTG5SM2FYUmphQzUwZGk5MlpXUmhiRGs0TnlJS0lDQjlMQW9nSUNKaWIzUWlPaUIwY25WbENuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
