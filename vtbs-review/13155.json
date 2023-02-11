@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "LIVE UNION.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "LIVE UNION.json",
+      "{\n  \"name\": {\n    \"en\": \"LIVE UNION\",\n    \"jp\": \"ライブユニオン\"\n  },\n  \"accounts\": {\n    \"twitter\": \"LIVEUNION_Prod\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "HACHI.json",
+      "{\n  \"name\": {\n    \"en\": \"HACHI\",\n    \"jp\": \"はち\"\n  },\n  \"accounts\": {\n    \"twitter\": \"8HaChi_hacchi\",\n    \"youtube\": \"UC7XCjKxBEct0uAukpQXNFPw\",\n    \"bilibili\": \"9979698\"\n  },\n  \"group\": \"LIVE UNION\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13155",
+    "body": "\n\n### description\n\nadd: HACHI.json\n> <https://twitter.com/8HaChi_hacchi>\n> <https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw>\n> <https://space.bilibili.com/9979698>\n\nadd: LIVE UNION.json\n> <https://twitter.com/LIVEUNION_Prod>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6VEVsV1JTQlZUa2xQVGk1cWMyOXVJQ2d5THkwd0x5c3lLUT09CnB1dDpURWxXUlNCVlRrbFBUaTVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0lreEpWa1VnVlU1SlQwNGlMQW9nSUNBZ0ltcHdJam9nSXVPRHFlT0NwT09EbHVPRHB1T0RpK09DcXVPRHN5SUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSjBkMmwwZEdWeUlqb2dJa3hKVmtWVlRrbFBUbDlRY205a0lnb2dJSDBzQ2lBZ0luUjVjR1VpT2lBaVozSnZkWEFpQ24wPQpwdXQ6U0VGRFNFa3Vhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0lraEJRMGhKSWl3S0lDQWdJQ0pxY0NJNklDTGpnYS9qZ2FFaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaWRIZHBkSFJsY2lJNklDSTRTR0ZEYUdsZmFHRmpZMmhwSWl3S0lDQWdJQ0o1YjNWMGRXSmxJam9nSWxWRE4xaERha3Q0UWtWamREQjFRWFZyY0ZGWVRrWlFkeUlzQ2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpT1RrM09UWTVPQ0lLSUNCOUxBb2dJQ0puY205MWNDSTZJQ0pNU1ZaRklGVk9TVTlPSWdwOQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
