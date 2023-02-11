@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121186
+    "timestamp": 1676139763
   },
   "vtbs": [
     {
@@ -16501,6 +16501,23 @@
       }
     },
     {
+      "uuid": "1ac526fd-9757-5d52-a8f2-589591d0760d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493133740410899",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七代Erika",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "385763e6-81c9-5edf-97c2-b1899e861dbc",
       "type": "vtuber",
       "bot": false,
@@ -22555,6 +22572,23 @@
       }
     },
     {
+      "uuid": "82650ef5-6964-5d5f-a479-7d6e43e4a08c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434306798",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "入夜Trey",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cfbe6fd2-00b6-57cc-8025-acd40806f2f5",
       "type": "vtuber",
       "bot": false,
@@ -23978,6 +24012,24 @@
       "name": {
         "extra": [],
         "cn": "凜凜蝶凜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1186e41-3249-5a25-86cb-541c3e913970",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15004349",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凝万",
+        "en": "Harmony",
         "default": "cn"
       }
     },
@@ -25896,6 +25948,23 @@
       "name": {
         "extra": [],
         "cn": "千祈_senki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac46dc13-2c94-5d89-8f28-2a3050600c8e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493081399691605",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千祈senki",
         "default": "cn"
       }
     },
@@ -69432,7 +69501,7 @@
       }
     },
     {
-      "uuid": "a0188447-250b-5d0e-99ef-c78372349359",
+      "uuid": "750523db-bfea-5179-981d-bd2c32f3fa01",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -69444,7 +69513,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "琉科塞娅Official",
+        "cn": "琉科塞娅",
         "default": "cn"
       }
     },
@@ -93754,6 +93823,25 @@
         "jp": "銀河アリス",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "a782b888-0811-55d4-ad9e-7327cd8438df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1057152924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "銘晴Halo",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "group_name": "虚研学园"
     },
     {
       "uuid": "70173466-73d1-580b-af96-b1adf61dbac8",

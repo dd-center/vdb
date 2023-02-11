@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "NanashiMumei.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "NanashiMumei.json",
+      "{\n  \"name\": {\n    \"EN\": \"Nanashi Mumei\"\n  },\n  \"accounts\": {\n    \"youtube\": \"@NanashiMumei\"\n  },\n  \"group\": \"Hololive EN\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13143",
+    "body": "\n\n### description\n\nadd: NanashiMumei.json\n> <https://www.youtube.com/channel/@NanashiMumei>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6VG1GdVlYTm9hVTExYldWcExtcHpiMjRnS0RFdkxUQXZLekVwCnB1dDpUbUZ1WVhOb2FVMTFiV1ZwTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSWtWT0lqb2dJazVoYm1GemFHa2dUWFZ0WldraUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaWVXOTFkSFZpWlNJNklDSkFUbUZ1WVhOb2FVMTFiV1ZwSWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSWtodmJHOXNhWFpsSUVWT0lncDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
