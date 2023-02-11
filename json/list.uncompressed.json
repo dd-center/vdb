@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676140518
+    "timestamp": 1676140574
   },
   "vtbs": [
     {
@@ -52236,6 +52236,25 @@
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2",
       "group_name": "夕映结社"
+    },
+    {
+      "uuid": "6af69826-005b-5328-bf4e-89b43e6a3097",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1968342232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曲奇Aria",
+        "default": "cn"
+      },
+      "group": "e73263e5-7914-5da0-a523-475213ae2d4e",
+      "group_name": "Pursue-live"
     },
     {
       "uuid": "2a95baf6-d4e2-5164-a330-ba3c54a77c67",
