@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121136
+    "timestamp": 1676121173
   },
   "vtbs": [
     {
@@ -17088,6 +17088,23 @@
       "name": {
         "extra": [],
         "cn": "三枝番夏",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "977ae8e7-7878-5a92-b27f-fd0acb8d1de4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8140088",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三狗",
         "default": "cn"
       }
     },
