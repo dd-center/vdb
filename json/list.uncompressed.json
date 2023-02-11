@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121051
+    "timestamp": 1676121095
   },
   "vtbs": [
     {
@@ -9855,6 +9855,23 @@
       "name": {
         "extra": [],
         "cn": "Yumio今晚吃什么",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "60028956-7878-5059-b5ae-a14a61e82fec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1815643596",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Yuri幽里_official",
         "default": "cn"
       }
     },
