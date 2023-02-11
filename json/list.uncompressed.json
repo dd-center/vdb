@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121118
+    "timestamp": 1676121136
   },
   "vtbs": [
     {
@@ -20149,6 +20149,23 @@
       "name": {
         "extra": [],
         "cn": "伊尔比思",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d0041f76-50e4-56c1-b0eb-f8f4c18dd449",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1218961111",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊希斯_Eses",
         "default": "cn"
       }
     },
