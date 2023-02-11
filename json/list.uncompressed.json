@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121173
+    "timestamp": 1676121186
   },
   "vtbs": [
     {
@@ -69428,6 +69428,23 @@
       "name": {
         "extra": [],
         "cn": "琉璃酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a0188447-250b-5d0e-99ef-c78372349359",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21890016",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琉科塞娅Official",
         "default": "cn"
       }
     },
