@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "赫卡Tia",
+      ""
+    ],
+    [
+      "put",
+      "赫卡Tia.json",
+      "{\n  \"name\": {\n    \"cn\": \"赫卡Tia\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"693\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13278",
+    "body": "\n\n### description\n\nadd: 赫卡Tia.json\n> <https://space.bilibili.com/693>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NkxXcjVZMmhWR2xoCnB1dDo2TFdyNVkyaFZHbGhMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aTFxK1dOb1ZScFlTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0kyT1RNaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
