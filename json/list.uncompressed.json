@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676121031
+    "timestamp": 1676121051
   },
   "vtbs": [
     {
@@ -90724,6 +90724,25 @@
         "en": "XaviRynn",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bd654c1c-1203-5bd4-a16d-04478bc0f173",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1697848019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤五教教主亮亮",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
+      "group_name": "虚研社"
     },
     {
       "uuid": "a5ee134f-34cb-562c-8586-5a0252f8fb1b",
