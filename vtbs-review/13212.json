@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "HoYoLive.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "HoYoLive.json",
+      "{\n  \"name\": {\n    \"en\": \"HoYoLive\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "杳杳.json",
+      "{\n  \"name\": {\n    \"cn\": \"杳杳\"\n  },\n  \"accounts\": {\n    \"acfun\": \"62311858\"\n  },\n  \"group\": \"HoYoLive\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13212",
+    "body": "\n\n### description\n\nadd: HoYoLive.json\nadd: 杳杳.json\n> <https://www.acfun.cn/u/62311858>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6U0c5WmIweHBkbVV1YW5OdmJpQW9NaTh0TUM4ck1paz0KcHV0OlNHOVpiMHhwZG1VdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltVnVJam9nSWtodldXOU1hWFpsSWdvZ0lIMHNDaUFnSW5SNWNHVWlPaUFpWjNKdmRYQWlDbjA9CnB1dDo1cDJ6NXAyekxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVhZHMrYWRzeUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0poWTJaMWJpSTZJQ0kyTWpNeE1UZzFPQ0lLSUNCOUxBb2dJQ0puY205MWNDSTZJQ0pJYjFsdlRHbDJaU0lLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
