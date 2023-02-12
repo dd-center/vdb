@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676195033
+    "timestamp": 1676195015
   },
   "vtbs": [
     {
@@ -45726,6 +45726,23 @@
       "group_name": "winks"
     },
     {
+      "uuid": "aa7d1dbc-0aea-5f89-8469-a26bf749a6cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478148524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "愈曜",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "80380d4c-458d-5426-9c59-b125089b5a36",
       "type": "vtuber",
       "bot": false,
@@ -72257,6 +72274,23 @@
       "name": {
         "extra": [],
         "cn": "白猫永远不打烊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "402e34c4-4095-55af-986b-eac084660487",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "166866492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白玉糖Miya",
         "default": "cn"
       }
     },
