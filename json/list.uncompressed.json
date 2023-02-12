@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198167
+    "timestamp": 1676198237
   },
   "vtbs": [
     {
@@ -3032,6 +3032,34 @@
         "extra": [],
         "cn": "H2SiO3笋",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "581b81c4-91be-5591-8f9f-8d22c2012a3e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8HaChi_hacchi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "UC7XCjKxBEct0uAukpQXNFPw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "9979698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "HACHI",
+        "jp": "はち",
+        "default": "en"
       }
     },
     {
