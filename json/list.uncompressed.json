@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676197478
+    "timestamp": 1676197519
   },
   "vtbs": [
     {
@@ -60167,6 +60167,23 @@
       }
     },
     {
+      "uuid": "3570bea9-fe83-5fac-80d0-7b43aaae1cfa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1880188304",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "樱咲奈央_Official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "ca603fa0-7994-53c2-a81c-e21f5fb197d8",
       "type": "vtuber",
       "bot": false,
@@ -66257,6 +66274,23 @@
       "name": {
         "extra": [],
         "cn": "炸虾",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e27ca6e2-75f5-57d0-81ce-c7f08f91e3a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "342745627",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "炽心_nya",
         "default": "cn"
       }
     },
