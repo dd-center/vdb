@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198763
+    "timestamp": 1676198813
   },
   "vtbs": [
     {
@@ -70738,6 +70738,23 @@
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
       "group_name": "ProjectViberglow"
+    },
+    {
+      "uuid": "21473e94-124f-527c-aa2a-b6ec14bec130",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2048716394",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞格露丝-莱雅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c8d749ea-9459-5dca-ab55-6d9ab5fa0a58",
