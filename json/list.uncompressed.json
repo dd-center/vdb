@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676194593
+    "timestamp": 1676194532
   },
   "vtbs": [
     {
@@ -26586,6 +26586,23 @@
       "name": {
         "extra": [],
         "cn": "华曦妙妙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c69022ec-7191-5f26-9e89-07ef8387bfcf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "362628",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "华枝雀_Harpy",
         "default": "cn"
       }
     },
