@@ -40,7 +40,7 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
         const path = join('vtbs', arg)
         if (path.startsWith('vtbs/')) {
           if (command === 'delete') {
-            await unlink(path)
+            await unlink(path).catch(console.error)
             console.log('delete', path)
           }
           if (command === 'put') {
