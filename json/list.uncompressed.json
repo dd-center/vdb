@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676201544
+    "timestamp": 1676201733
   },
   "vtbs": [
     {
@@ -8743,6 +8743,23 @@
         "extra": [],
         "cn": "Tone_Nanairo",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "0049c3b9-c7c6-5159-9651-e175fa51806b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2114112193",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ToriThaiga",
+        "default": "en"
       }
     },
     {
