@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198928
+    "timestamp": 1676198990
   },
   "vtbs": [
     {
@@ -66514,6 +66514,23 @@
       }
     },
     {
+      "uuid": "60bb111e-049a-57f5-a1ff-320dad46ffbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1088544998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "炸鱼FeFeri",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e27ca6e2-75f5-57d0-81ce-c7f08f91e3a2",
       "type": "vtuber",
       "bot": false,
@@ -91148,6 +91165,23 @@
       "name": {
         "extra": [],
         "cn": "说说Crystal",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c512afd-a769-5ef9-9f62-aeb672536035",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402664546",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诶诶呜",
         "default": "cn"
       }
     },
