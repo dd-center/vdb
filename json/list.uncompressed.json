@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676197802
+    "timestamp": 1676197749
   },
   "vtbs": [
     {
@@ -58877,6 +58877,23 @@
       },
       "group": "af9df8e4-86e7-5089-ab06-dc8a6e89146c",
       "group_name": "四禧丸子"
+    },
+    {
+      "uuid": "5ff2b139-1752-59f0-9aa5-4c62e580498f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493083832388399",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨川かな",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0611b3a3-c229-579b-8570-f71f377a1ada",
