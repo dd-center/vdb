@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198074
+    "timestamp": 1676198095
   },
   "vtbs": [
     {
@@ -20856,6 +20856,23 @@
       }
     },
     {
+      "uuid": "a941edec-8825-5522-85cf-86e3fc0cd998",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1288526115",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊阿依Hathor",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "786408e3-51c6-5ea1-835d-f5672e643f3d",
       "type": "vtuber",
       "bot": false,
@@ -36430,6 +36447,23 @@
       "name": {
         "extra": [],
         "cn": "妙蛙理子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "83567499-8e36-574f-954a-7fbcdfa0cf1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23269266",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妩九Melantha",
         "default": "cn"
       }
     },
@@ -102066,6 +102100,23 @@
         "extra": [],
         "cn": "鳥羽樂奈",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "3594b677-f948-51c6-8eaa-060b3b650bbf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "321875777",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鳩羽つぐ",
+        "default": "jp"
       }
     },
     {
