@@ -1,5 +1,3 @@
-const got = require('got')
-
 const { ISSUE_NUMBER, GITHUB_TOKEN } = process.env
 
 const log = w => {
@@ -7,10 +5,11 @@ const log = w => {
   return w
 }
 
-got.patch(log(`https://api.github.com/repos/dd-center/vdb/issues/${ISSUE_NUMBER}`), {
-  json: {
+fetch(log(`https://api.github.com/repos/dd-center/vdb/issues/${ISSUE_NUMBER}`), {
+  method: 'PATCH',
+  body: JSON.stringify({
     state: 'closed',
-  },
+  }),
   headers: {
     authorization: `Bearer ${GITHUB_TOKEN}`,
   },
