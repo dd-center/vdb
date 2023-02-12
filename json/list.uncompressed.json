@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198063
+    "timestamp": 1676198074
   },
   "vtbs": [
     {
@@ -71275,6 +71275,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "c2a310a4-6d7d-5ea4-8640-5ea0671d3e92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "229175813",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由川伶子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "353f920d-27ba-5419-9983-9e715fafe4b6",
