@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676197519
+    "timestamp": 1676197714
   },
   "vtbs": [
     {
@@ -61080,6 +61080,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "6863f4c9-b8e8-5ea8-b1ed-6b9d5c7e8409",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49922172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜王莉莉丝",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f9eb35de-6353-5ab4-af43-b371bbdc0b79",
