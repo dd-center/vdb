@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676208453
+    "timestamp": 1676208492
   },
   "vtbs": [
     {
@@ -2510,6 +2510,23 @@
         "default": "cn"
       },
       "group": "36640dd2-c41d-52ca-9443-5669a1b234bc"
+    },
+    {
+      "uuid": "63543c4f-3084-5ffd-a6f3-95fc3ee63581",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCK6iAvM8b__ft-ABdDCvQng",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "Emma Hazy Minami",
+        "default": "jp"
+      }
     },
     {
       "uuid": "32e3ab6f-4d1f-59c8-aa89-08bad3d0d10f",
@@ -62571,6 +62588,23 @@
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758",
       "group_name": "Hololive EN"
+    },
+    {
+      "uuid": "56aafc8e-d076-5e3f-be8b-e14953fceaac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3488227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沅峥",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bd53a59d-de9f-5adb-acf3-8e1c31605cc7",
