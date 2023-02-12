@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676175753
+    "timestamp": 1676175783
   },
   "vtbs": [
     {
@@ -71593,6 +71593,24 @@
         "extra": [],
         "CN": "白夜小鸠Hato",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "37405b64-4208-5404-a6c2-c441ca0c4777",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493075267619423",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜恒星",
+        "en": "HakuyaSoleil",
+        "default": "cn"
       }
     },
     {
