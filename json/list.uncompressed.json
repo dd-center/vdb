@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676194235
+    "timestamp": 1676194363
   },
   "vtbs": [
     {
@@ -35558,6 +35558,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "3598c73e-7769-5772-a12c-33a3d8fecda6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1339818768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈良部茶辅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d06ec123-6b62-5bc1-ae1c-41d99e3d62d3",
