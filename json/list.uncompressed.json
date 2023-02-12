@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676204672
+    "timestamp": 1676204779
   },
   "vtbs": [
     {
@@ -63723,6 +63723,23 @@
       }
     },
     {
+      "uuid": "b4113a52-b52a-5685-adb6-ab5caa33aba5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1468863621",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛宝宝lover",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9636ad6a-28d8-5fd9-9dc8-1cd839b3fd31",
       "type": "vtuber",
       "bot": false,
@@ -104967,6 +104984,25 @@
       },
       "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
       "group_name": "KOT"
+    },
+    {
+      "uuid": "158566c7-ea90-5c97-a6c8-6f915c0d630e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UC2hc-00y-MSR6eYA4eQ4tjQ",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "龍ヶ崎リン",
+        "default": "jp"
+      },
+      "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4",
+      "group_name": "774 inc"
     },
     {
       "uuid": "31310e50-2dd5-56c6-b584-7bc03feaaac8",
