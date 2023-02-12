@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676200884
+    "timestamp": 1676200893
   },
   "vtbs": [
     {
@@ -50652,6 +50652,23 @@
       }
     },
     {
+      "uuid": "6d235ca4-a7e5-51b3-9b77-b3ae5e7e3196",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19565962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星粥Kayuu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0e4eb917-77f2-555a-b386-fe0b1b62b5bb",
       "type": "vtuber",
       "bot": false,
@@ -97518,6 +97535,23 @@
         "extra": [],
         "cn": "雨宫燕Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "332ee64b-fe16-5cd9-84ec-7a1230ec1742",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1175808195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "雨宿玲音",
+        "default": "jp"
       }
     },
     {
