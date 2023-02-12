@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676175628
+    "timestamp": 1676175677
   },
   "vtbs": [
     {
@@ -8642,6 +8642,23 @@
       },
       "group": "093738a6-1f21-5910-86d3-2a00c029afd6",
       "group_name": "Tourist-V"
+    },
+    {
+      "uuid": "69e5989f-ebed-504b-b941-1955b457c60f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1319045985",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Toxic豆奶",
+        "default": "cn"
+      }
     },
     {
       "uuid": "67cb3af0-3f93-5d83-917f-902493b6fb49",
