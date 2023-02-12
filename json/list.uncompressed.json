@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198957
+    "timestamp": 1676198920
   },
   "vtbs": [
     {
@@ -8506,6 +8506,23 @@
       "group_name": "StarrySky战姬学院"
     },
     {
+      "uuid": "c62f4dc0-2d3f-5cbf-b271-7a5dc8d8b3f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1502985222",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Sunao_desu",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "bee95e9a-1fad-5db2-847e-5af1959a5cff",
       "type": "vtuber",
       "bot": false,
@@ -11222,6 +11239,23 @@
         "default": "cn"
       },
       "group": "037feda8-c790-5eed-b42e-3bcf55efdba9"
+    },
+    {
+      "uuid": "3021897f-20bc-5e0c-a569-7d7aebe125f6",
+      "type": "vtuber",
+      "bot": true,
+      "accounts": [
+        {
+          "id": "vedal987",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "neuro_sama",
+        "default": "en"
+      }
     },
     {
       "uuid": "bf1b4f09-18f3-52cd-ae91-7707b8b63c0d",
