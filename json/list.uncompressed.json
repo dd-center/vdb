@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198990
+    "timestamp": 1676199005
   },
   "vtbs": [
     {
@@ -85332,6 +85332,23 @@
       },
       "group": "6696f9f6-e159-5fa0-882a-1b1213a68556",
       "group_name": "ReAcT"
+    },
+    {
+      "uuid": "6ad5b005-e33b-5264-b036-24fd6bbe7e7c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11515052",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花间又Yuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "80f09bf1-53ea-5845-8b83-1345b42084aa",
