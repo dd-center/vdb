@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676194081
+    "timestamp": 1676194235
   },
   "vtbs": [
     {
@@ -46466,6 +46466,23 @@
           "花崎千惠"
         ],
         "cn": "扶桑大红花丶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd826f3f-348b-5e6b-ba9d-b48836f1ab0a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8337028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "找呀找呀找乐子",
         "default": "cn"
       }
     },
