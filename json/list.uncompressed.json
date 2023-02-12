@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676196621
+    "timestamp": 1676196592
   },
   "vtbs": [
     {
@@ -5879,6 +5879,23 @@
       "name": {
         "extra": [],
         "cn": "Niar-2A",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "13831c0c-9ce1-5237-816e-3078c671053a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1797902",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nico_StarLight",
         "default": "cn"
       }
     },
@@ -38552,6 +38569,23 @@
       }
     },
     {
+      "uuid": "0372caca-7fe8-5ea4-9aa6-1caeec360973",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1655293448",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小乐希xixi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "60fdd13d-486d-5790-8827-9e4bbe98b630",
       "type": "vtuber",
       "bot": false,
@@ -66942,6 +66976,23 @@
       },
       "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572",
       "group_name": "风云社"
+    },
+    {
+      "uuid": "2b9308a5-5d3f-5927-bde2-b64e74a5fb37",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37265298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "片桐秋",
+        "default": "cn"
+      }
     },
     {
       "uuid": "24badac1-3223-586b-94d1-ff53784c0977",
