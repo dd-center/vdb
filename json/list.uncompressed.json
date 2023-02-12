@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676208745
+    "timestamp": 1676208797
   },
   "vtbs": [
     {
@@ -21328,6 +21328,23 @@
       }
     },
     {
+      "uuid": "2e888349-149d-5828-8908-9da38be3322d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15989638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佐仓咲",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b1ec0ac5-ca69-545d-a612-f44b8bde841f",
       "type": "vtuber",
       "bot": false,
@@ -42258,6 +42275,23 @@
       "name": {
         "extra": [],
         "cn": "布明因子_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d4ef28ef-ac79-5e7f-8958-9b65f53b2679",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "595211",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布谷小羊",
         "default": "cn"
       }
     },
