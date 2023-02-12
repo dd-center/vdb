@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676208492
+    "timestamp": 1676208528
   },
   "vtbs": [
     {
@@ -20970,6 +20970,23 @@
       }
     },
     {
+      "uuid": "728c4f31-0cfb-5ef9-86d9-14d79ed6dc69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461579934796579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊诺贝尔Eno",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3e62701b-3d86-5b83-b0f1-815a409c86c3",
       "type": "vtuber",
       "bot": false,
@@ -30920,6 +30937,23 @@
       "name": {
         "extra": [],
         "cn": "喵诺mono",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "172d581b-45ae-5930-9eb5-2919f324f195",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1950577263",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵豆子nyazuko",
         "default": "cn"
       }
     },
