@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198327
+    "timestamp": 1676198530
   },
   "vtbs": [
     {
@@ -1500,6 +1500,25 @@
         "cn": "AyayaChannel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ab55b819-84d2-53cb-84f9-2b2302cc1a0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "416030145",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Azii_i",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
+      "group_name": "新月社FCrescent"
     },
     {
       "uuid": "2c1f17bc-e0b4-5d46-9c59-f650bc96ec5c",
@@ -27614,6 +27633,25 @@
       }
     },
     {
+      "uuid": "8c784d27-02db-56ab-ac12-56a9509e687b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10975407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "厄多卡斯",
+        "default": "cn"
+      },
+      "group": "d9e33582-f794-5b0c-84fd-41b77896bd8a",
+      "group_name": "十万伏特SWIFT"
+    },
+    {
       "uuid": "dc611c85-535d-5a59-879e-d7e8d873945b",
       "type": "vtuber",
       "bot": false,
@@ -28295,6 +28333,23 @@
       "name": {
         "extra": [],
         "cn": "可愛的島風",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9d3b0eba-b1bf-5b17-bab4-9cb799cc7ca6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5132603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可洛米娅_Chromia",
         "default": "cn"
       }
     },
