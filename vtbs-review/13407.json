@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "冰点梨花.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "冰点梨花.json",
+      "{\n  \"name\": {\n    \"cn\": \"冰点梨花\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"630649\"\n  },\n  \"group\": \"龙裁司\"\n}"
+    ],
+    [
+      "put",
+      "龙裁司.json",
+      "{\n  \"name\": {\n    \"cn\": \"龙裁司\",\n    \"en\": \"Diraugon KeaSofer\"\n  },\n  \"type\": \"group\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13407",
+    "body": "\n\n### description\n\nadd: 冰点梨花.json\n> <https://space.bilibili.com/630649>\n\nadd: 龙裁司.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NVlhdzU0SzU1cUtvNklxeExtcHpiMjRnS0RJdkxUQXZLeklwCnB1dDo1WWF3NTRLNTVxS282SXF4TG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdHc09lQ3VlYWlxT2lLc1NJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTJNekEyTkRraUNpQWdmU3dLSUNBaVozSnZkWEFpT2lBaTZiNlo2S09CNVkrNElncDkKcHV0OjZiNlo2S09CNVkrNExtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVtK21laWpnZVdQdUNJc0NpQWdJQ0FpWlc0aU9pQWlSR2x5WVhWbmIyNGdTMlZoVTI5bVpYSWlDaUFnZlN3S0lDQWlkSGx3WlNJNklDSm5jbTkxY0NJS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
