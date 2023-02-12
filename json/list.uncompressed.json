@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676193972
+    "timestamp": 1676194081
   },
   "vtbs": [
     {
@@ -90565,6 +90565,23 @@
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd",
       "group_name": "超V学园"
+    },
+    {
+      "uuid": "19d9e241-9cf4-5fcd-9412-435b01b0b501",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7179227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "谢林的侦探事务所",
+        "default": "CN"
+      }
     },
     {
       "uuid": "bbe18517-2b4e-5ca9-83a8-f7a7af8bcf6d",
