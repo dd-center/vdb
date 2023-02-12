@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "P丸様.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "P丸様.json",
+      "{\n  \"name\": {\n    \"jp\": \"P丸様\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"569885690\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13341",
+    "body": "\n\n### description\n\nadd: P丸様.json\n> <https://space.bilibili.com/569885690>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6VU9TNHVPYW5tQzVxYzI5dUlDZ3hMeTB3THlzeEtRPT0KcHV0OlVPUzR1T2FubUM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1wd0lqb2dJbERrdUxqbXA1Z2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTlRZNU9EZzFOamt3SWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
