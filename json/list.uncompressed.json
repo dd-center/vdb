@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676196867
+    "timestamp": 1676196882
   },
   "vtbs": [
     {
@@ -16599,23 +16599,6 @@
       "name": {
         "extra": [],
         "cn": "七代Erika",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "385763e6-81c9-5edf-97c2-b1899e861dbc",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3461572460546094",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "七代音莉绘",
         "default": "cn"
       }
     },
@@ -41354,21 +41337,7 @@
           "id": "karuta_Yamagami",
           "type": "official",
           "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "jp": "山神カルタ",
-        "default": "jp"
-      },
-      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
-      "group_name": "NIJISANJI"
-    },
-    {
-      "uuid": "3e5bf0a7-fdc8-5823-b747-8914833f48a3",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
+        },
         {
           "id": "35958802",
           "type": "official",
@@ -41376,13 +41345,9 @@
         }
       ],
       "name": {
-        "extra": [
-          "山神歌流多"
-        ],
-        "cn": "山神的天狗神社",
-        "jp": " 山神 カルタ",
-        "en": "Yamagami Karuta",
-        "default": "cn"
+        "extra": [],
+        "jp": "山神カルタ",
+        "default": "jp"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
