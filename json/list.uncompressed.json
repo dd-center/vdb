@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676207061
+    "timestamp": 1676208453
   },
   "vtbs": [
     {
@@ -47312,6 +47312,23 @@
       "name": {
         "extra": [],
         "cn": "捌川-Yakawa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ee7d794-d46e-5ab8-af2c-dfc76207e5be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1245370792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "捷灵J0の勇敢冒险",
         "default": "cn"
       }
     },
