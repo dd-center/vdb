@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "name",
+      "littlemidi",
+      ""
+    ],
+    [
+      "title",
+      "ZERO-pro虚拟社团.json (5/-0/+5)",
+      ""
+    ],
+    [
+      "put",
+      "ZERO-pro虚拟社团.json",
+      "{\n  \"name\": {\n    \"cn\": \"ZERO-pro虚拟社团\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"396355290\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "01_ling伊.json",
+      "{\n  \"name\": {\n    \"cn\": \"01_ling伊\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"333720901\"\n  },\n  \"group\": \"ZERO-pro虚拟社团\"\n}"
+    ],
+    [
+      "put",
+      "三青鳿琬.json",
+      "{\n  \"name\": {\n    \"cn\": \"三青鳿琬\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1776037\"\n  },\n  \"group\": \"ZERO-pro虚拟社团\"\n}"
+    ],
+    [
+      "put",
+      "ギリギリ霧乃.json",
+      "{\n  \"name\": {\n    \"cn\": \"ギリギリ霧乃\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"4914033\"\n  },\n  \"group\": \"ZERO-pro虚拟社团\"\n}"
+    ],
+    [
+      "put",
+      "蜜蒂littlemidi.json",
+      "{\n  \"name\": {\n    \"cn\": \"蜜蒂littlemidi\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"13299056\"\n  },\n  \"group\": \"ZERO-pro虚拟社团\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13453",
+    "body": "\n\n### description\n\nadd: 01_ling伊.json\n> <https://space.bilibili.com/333720901>\n\nadd: ZERO-pro虚拟社团.json\n> <https://space.bilibili.com/396355290>\n\nadd: ギリギリ霧乃.json\n> <https://space.bilibili.com/4914033>\n\nadd: 三青鳿琬.json\n> <https://space.bilibili.com/1776037>\n\nadd: 蜜蒂littlemidi.json\n> <https://space.bilibili.com/13299056>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpiR2wwZEd4bGJXbGthUT09CnRpdGxlOldrVlNUeTF3Y20vb21acm1pNS9ucEw3bG02SXVhbk52YmlBb05TOHRNQzhyTlNrPQpwdXQ6V2tWU1R5MXdjbS9vbVpybWk1L25wTDdsbTZJdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWxwRlVrOHRjSEp2NkptYTVvdWY1NlMrNVp1aUlnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJak01TmpNMU5USTVNQ0lLSUNCOUxBb2dJQ0owZVhCbElqb2dJbWR5YjNWd0lncDkKcHV0Ok1ERmZiR2x1WitTOGlpNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWpBeFgyeHBibWZrdklvaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlNek16TnpJd09UQXhJZ29nSUgwc0NpQWdJbWR5YjNWd0lqb2dJbHBGVWs4dGNISnY2Sm1hNW91ZjU2Uys1WnVpSWdwOQpwdXQ6NUxpSjZaMlM2Yk8vNTVDc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVTNGllbWRrdW16ditlUXJDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TnpjMk1ETTNJZ29nSUgwc0NpQWdJbWR5YjNWd0lqb2dJbHBGVWs4dGNISnY2Sm1hNW91ZjU2Uys1WnVpSWdwOQpwdXQ6NDRLdTQ0T3E0NEt1NDRPcTZaeW41TG1ETG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdU9DcnVPRHF1T0NydU9EcXVtY3ArUzVneUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJME9URTBNRE16SWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSWxwRlVrOHRjSEp2NkptYTVvdWY1NlMrNVp1aUlncDkKcHV0OjZKeWM2SktDYkdsMGRHeGxiV2xrYVM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWljbk9pU2dteHBkSFJzWlcxcFpHa2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTVRNeU9Ua3dOVFlpQ2lBZ2ZTd0tJQ0FpWjNKdmRYQWlPaUFpV2tWU1R5MXdjbS9vbVpybWk1L25wTDdsbTZJaUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
