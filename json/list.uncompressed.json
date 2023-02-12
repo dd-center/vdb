@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676196973
+    "timestamp": 1676197408
   },
   "vtbs": [
     {
@@ -55367,6 +55367,23 @@
         "jp": "東雲めぐ",
         "cn": "东云惠",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9632d4a9-9c82-5da8-b67f-09bb5c80d846",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "62311858",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杳杳",
+        "default": "cn"
       }
     },
     {
