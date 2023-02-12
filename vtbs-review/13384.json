@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "山神カルタ.json (2/-1/+0)",
+      ""
+    ],
+    [
+      "put",
+      "山神カルタ.json",
+      "{\n  \"name\": {\n    \"jp\": \"山神カルタ\"\n  },\n  \"accounts\": {\n    \"youtube\": \"UCllKI7VjyANuS1RXatizfLQ\",\n    \"twitter\": \"karuta_Yamagami\",\n    \"bilibili\": \"35958802\"\n  },\n  \"group\": \"NIJISANJI\"\n}"
+    ],
+    [
+      "delete",
+      "山神的天狗神社.json",
+      ""
+    ]
+  ],
+  "issue": {
+    "number": "13384",
+    "body": "\n\n### description\n\nremove: 山神的天狗神社.json\nupdate: 山神カルタ.json\n> <https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ>\n> <https://twitter.com/karuta_Yamagami>\n> <https://space.bilibili.com/35958802>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjViR3g1NldlNDRLcjQ0T3I0NEsvTG1wemIyNGdLREl2TFRFdkt6QXAKcHV0OjViR3g1NldlNDRLcjQ0T3I0NEsvTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1wd0lqb2dJdVd4c2VlbG51T0NxK09EcStPQ3Z5SUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSjViM1YwZFdKbElqb2dJbFZEYkd4TFNUZFdhbmxCVG5WVE1WSllZWFJwZW1aTVVTSXNDaUFnSUNBaWRIZHBkSFJsY2lJNklDSnJZWEoxZEdGZldXRnRZV2RoYldraUxBb2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqTTFPVFU0T0RBeUlnb2dJSDBzQ2lBZ0ltZHliM1Z3SWpvZ0lrNUpTa2xUUVU1S1NTSUtmUT09CmRlbGV0ZTo1Ykd4NTZXZTU1cUU1YVNwNTR1WDU2V2U1NlMrTG1wemIyND0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
