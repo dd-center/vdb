@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676219350
+    "timestamp": 1676219371
   },
   "vtbs": [
     {
@@ -5771,6 +5771,25 @@
         "default": "en"
       },
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781"
+    },
+    {
+      "uuid": "8fe9f080-ff0c-54f7-87c1-71eb387ef93d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "NanashiMumei",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "Nanashi Mumei",
+        "default": "EN"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758",
+      "group_name": "Hololive EN"
     },
     {
       "uuid": "47d8b2fe-09d1-57e0-a1ed-d079bbfee265",
