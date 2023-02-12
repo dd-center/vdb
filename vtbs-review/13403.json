@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "ToriThaiga.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "ToriThaiga.json",
+      "{\n  \"name\": {\n    \"en\": \"ToriThaiga\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2114112193\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13403",
+    "body": "\n\n### description\n\nadd: ToriThaiga.json\n> <https://space.bilibili.com/2114112193>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6Vkc5eWFWUm9ZV2xuWVM1cWMyOXVJQ2d4THkwd0x5c3hLUT09CnB1dDpWRzl5YVZSb1lXbG5ZUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0lsUnZjbWxVYUdGcFoyRWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTWpFeE5ERXhNakU1TXlJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
