@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "歩夜_poya",
+      ""
+    ],
+    [
+      "put",
+      "歩夜.json",
+      "{\n  \"name\": {\n    \"jp\": \"歩夜_poya\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2145655554\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13305",
+    "body": "\n\n### description\n\nadd: 歩夜.json\n> <https://space.bilibili.com/2145655554>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXEycDVhU2NYM0J2ZVdFPQpwdXQ6NXEycDVhU2NMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbXB3SWpvZ0l1YXRxZVdrbkY5d2IzbGhJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpJeE5EVTJOVFUxTlRRaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
