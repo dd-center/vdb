@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676193785
+    "timestamp": 1676193972
   },
   "vtbs": [
     {
@@ -64327,6 +64327,23 @@
       }
     },
     {
+      "uuid": "18ae3f8c-0fa8-5a6d-a54b-1f132010ad74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14895420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清宵Koyoi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cd5262bb-3538-5620-8ee9-c3df1e0c1205",
       "type": "vtuber",
       "bot": false,
@@ -83154,6 +83171,23 @@
       "name": {
         "extra": [],
         "cn": "芒果猫Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a277992-9ea3-5388-8604-932d3fdbf16e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11616894",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙兰fufu",
         "default": "cn"
       }
     },
