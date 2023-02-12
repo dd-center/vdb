@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676175203
+    "timestamp": 1676175559
   },
   "vtbs": [
     {
@@ -4826,6 +4826,23 @@
         "default": "cn"
       },
       "group": "8ab1de5c-4685-579a-8a96-b85c83636906"
+    },
+    {
+      "uuid": "148c02cf-aa64-5855-b9b0-523056ce1350",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "633251",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Melina_目里奈",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cdd516e2-2536-5d7f-892f-98a6f9292be5",
