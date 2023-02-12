@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676198380
+    "timestamp": 1676198327
   },
   "vtbs": [
     {
@@ -85351,6 +85351,23 @@
       "name": {
         "extra": [],
         "cn": "芽衣子owo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dfe26dfa-29b7-58fa-9a16-eb7445b992af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4516991",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芽雀Yakki",
         "default": "cn"
       }
     },
