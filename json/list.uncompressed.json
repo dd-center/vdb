@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676175677
+    "timestamp": 1676175753
   },
   "vtbs": [
     {
@@ -99200,6 +99200,23 @@
       "name": {
         "extra": [],
         "cn": "顾小婉今天也元气满满",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "30b4f991-759e-5e05-97c7-a852e21dd9a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2117027592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "顾德正",
         "default": "cn"
       }
     },
