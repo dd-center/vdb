@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676195015
+    "timestamp": 1676195342
   },
   "vtbs": [
     {
@@ -28579,6 +28579,23 @@
       "name": {
         "extra": [],
         "cn": "吃肉包的怂鼠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e24d0173-a139-56b2-84cf-6512341970cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7058667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吃货白羊Official",
         "default": "cn"
       }
     },
