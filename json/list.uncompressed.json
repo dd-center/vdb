@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676175783
+    "timestamp": 1676175909
   },
   "vtbs": [
     {
@@ -19398,6 +19398,23 @@
       "name": {
         "extra": [],
         "cn": "五彩呆鸟咩Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d266f703-3941-5006-b0a1-fa0fed1c7d4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "145901490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五更妖音",
         "default": "cn"
       }
     },
@@ -73558,6 +73575,25 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "325d835f-d051-5a17-96b1-cf4189cb52e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1319590030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pisdo皮斯多",
+        "default": "cn"
+      },
+      "group": "e73263e5-7914-5da0-a523-475213ae2d4e",
+      "group_name": "Pursue-live"
     },
     {
       "uuid": "ead42b18-ef16-55ac-93d9-2b03c4f688fb",
