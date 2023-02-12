@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "山神カルタ.json (1/-0/+0)",
+      ""
+    ],
+    [
+      "put",
+      "山神カルタ.json",
+      "{\n  \"name\": {\n    \"jp\": \"山神カルタ\",\n    \"cn\": \"山神歌流多\"\n  },\n  \"accounts\": {\n    \"youtube\": \"UCllKI7VjyANuS1RXatizfLQ\",\n    \"twitter\": \"karuta_Yamagami\",\n    \"bilibili\": \"35958802\"\n  },\n  \"group\": \"NIJISANJI\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13329",
+    "body": "发现可以直接修改 山神カルタ.json，可以忽略之前提交的 山神的天狗神社.json，一开始没搞清楚抱歉\n\n### description\n\nupdate: 山神カルタ.json\n> <https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ>\n> <https://twitter.com/karuta_Yamagami>\n> <https://space.bilibili.com/35958802>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NWJHeDU2V2U0NEtyNDRPcjQ0Sy9MbXB6YjI0Z0tERXZMVEF2S3pBcApwdXQ6NWJHeDU2V2U0NEtyNDRPcjQ0Sy9MbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbXB3SWpvZ0l1V3hzZWVsbnVPQ3ErT0RxK09DdnlJc0NpQWdJQ0FpWTI0aU9pQWk1Ykd4NTZXZTVxMk01cldCNWFTYUlnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0lubHZkWFIxWW1VaU9pQWlWVU5zYkV0Sk4xWnFlVUZPZFZNeFVsaGhkR2w2Wmt4Uklpd0tJQ0FnSUNKMGQybDBkR1Z5SWpvZ0ltdGhjblYwWVY5WllXMWhaMkZ0YVNJc0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU16VTVOVGc0TURJaUNpQWdmU3dLSUNBaVozSnZkWEFpT2lBaVRrbEtTVk5CVGtwSklncDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
