@@ -1,0 +1,103 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "语言栏修改2",
+      ""
+    ],
+    [
+      "put",
+      "灵虎爻休Channel.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"灵虎爻休Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"59547307\"\n  }\n}"
+    ],
+    [
+      "put",
+      "牟阿琳.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"牟阿琳\",\n    \"en\": \"Moarin\",\n    \"jp\": \"モアリン\",\n    \"kr\": \"모아린\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"739296\",\n    \"twitter\": \"MoarinVtuber\",\n    \"youtube\": \"UCrhf6HYKnV6bxyaB6ooJzbw\",\n    \"twitch\": \"MoarinVtuber\"\n  }\n}"
+    ],
+    [
+      "put",
+      "狩砂Karisa.json",
+      "{\n  \"name\": {\n    \"cn\": \"狩砂Karisa\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"690608714\"\n  },\n  \"group\": \"VirtuaReal\"\n}"
+    ],
+    [
+      "put",
+      "猫姫琥珀.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"猫姫琥珀\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"503801557\"\n  }\n}"
+    ],
+    [
+      "put",
+      "玉米桐生バトラ玉米.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"玉米桐生バトラ玉米\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1623445\"\n  }\n}"
+    ],
+    [
+      "put",
+      "玛琳璱Official.json",
+      "{\n  \"name\": {\n    \"jp\": \"玛琳璱Official\",\n    \"cn\": \"玛琳璱Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1585307828\"\n  }\n}"
+    ],
+    [
+      "put",
+      "痛苦Pain.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"痛苦Pain\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"25346364\"\n  }\n}"
+    ],
+    [
+      "put",
+      "白夜墨.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"白夜墨\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"12571355\"\n  }\n}"
+    ],
+    [
+      "put",
+      "白雪美佳Channel.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"白雪美佳Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1728751\"\n  }\n}"
+    ],
+    [
+      "put",
+      "紫澪心.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"紫澪心\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"109592736\"\n  }\n}"
+    ],
+    [
+      "put",
+      "红墨-Official.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"红墨-Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"23777740\"\n  }\n}"
+    ],
+    [
+      "put",
+      "红辣椒啊.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"红辣椒啊\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"385167\"\n  }\n}"
+    ],
+    [
+      "put",
+      "维斯卡Visca.json",
+      "{\n  \"name\": {\n    \"cn\": \"维斯卡Visca\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"4943067\"\n  }\n}"
+    ],
+    [
+      "put",
+      "花薏fai_Offcial.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"花薏fai_Offcial\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"480069015\"\n  }\n}"
+    ],
+    [
+      "put",
+      "莓味布丁Channel.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"莓味布丁Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"74393521\"\n  }\n}"
+    ],
+    [
+      "put",
+      "菲蕾嘉V兴登堡Official.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"菲蕾嘉V兴登堡Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"915387\"\n  }\n}"
+    ],
+    [
+      "put",
+      "薄荷Miint.json",
+      "{\n  \"name\": {\n    \"cn\": \"薄荷Miint\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493076263766277\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13451",
+    "body": "\n\n### description\n\nupdate: 灵虎爻休Channel.json\n> <https://space.bilibili.com/59547307>\n\nupdate: 牟阿琳.json\n> <https://space.bilibili.com/739296>\n> <https://twitter.com/MoarinVtuber>\n> <https://www.youtube.com/channel/UCrhf6HYKnV6bxyaB6ooJzbw>\n> <https://www.twitch.tv/MoarinVtuber>\n\nupdate: 狩砂Karisa.json\n> <https://space.bilibili.com/690608714>\n\nupdate: 猫姫琥珀.json\n> <https://space.bilibili.com/503801557>\n\nupdate: 玉米桐生バトラ玉米.json\n> <https://space.bilibili.com/1623445>\n\nupdate: 玛琳璱Official.json\n> <https://space.bilibili.com/1585307828>\n\nupdate: 痛苦Pain.json\n> <https://space.bilibili.com/25346364>\n\nupdate: 白夜墨.json\n> <https://space.bilibili.com/12571355>\n\nupdate: 白雪美佳Channel.json\n> <https://space.bilibili.com/1728751>\n\nupdate: 紫澪心.json\n> <https://space.bilibili.com/109592736>\n\nupdate: 红墨-Official.json\n> <https://space.bilibili.com/23777740>\n\nupdate: 红辣椒啊.json\n> <https://space.bilibili.com/385167>\n\nupdate: 维斯卡Visca.json\n> <https://space.bilibili.com/4943067>\n\nupdate: 花薏fai_Offcial.json\n> <https://space.bilibili.com/480069015>\n\nupdate: 莓味布丁Channel.json\n> <https://space.bilibili.com/74393521>\n\nupdate: 菲蕾嘉V兴登堡Official.json\n> <https://space.bilibili.com/915387>\n\nupdate: 薄荷Miint.json\n> <https://space.bilibili.com/3493076263766277>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjZLK3Q2S2lBNXFDUDVMK3U1cFM1TWc9PQpwdXQ6NTRHMTZKbU81NGk3NUx5UlEyaGhibTVsYkM1cWMyOXU6ZXdvZ0lDSXlaQ0k2SUhSeWRXVXNDaUFnSW01aGJXVWlPaUI3Q2lBZ0lDQWlZMjRpT2lBaTU0RzE2Sm1PNTRpNzVMeVJRMmhoYm01bGJDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0kxT1RVME56TXdOeUlLSUNCOUNuMD0KcHV0OjU0bWY2WmkvNTVDekxtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1NG1mNlppLzU1Q3pJaXdLSUNBZ0lDSmxiaUk2SUNKTmIyRnlhVzRpTEFvZ0lDQWdJbXB3SWpvZ0l1T0RvdU9Db3VPRHF1T0RzeUlzQ2lBZ0lDQWlhM0lpT2lBaTY2cW83SldFNjZhd0lnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJamN6T1RJNU5pSXNDaUFnSUNBaWRIZHBkSFJsY2lJNklDSk5iMkZ5YVc1V2RIVmlaWElpTEFvZ0lDQWdJbmx2ZFhSMVltVWlPaUFpVlVOeWFHWTJTRmxMYmxZMlluaDVZVUkyYjI5S2VtSjNJaXdLSUNBZ0lDSjBkMmwwWTJnaU9pQWlUVzloY21sdVZuUjFZbVZ5SWdvZ0lIMEtmUT09CnB1dDo1NHVwNTZDQ1MyRnlhWE5oTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWVMcWVlZ2drdGhjbWx6WVNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTJPVEEyTURnM01UUWlDaUFnZlN3S0lDQWlaM0p2ZFhBaU9pQWlWbWx5ZEhWaFVtVmhiQ0lLZlE9PQpwdXQ6NTR5cjVhZXI1NUNsNTQrQUxtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1NHlyNWFlcjU1Q2w1NCtBSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqVXdNemd3TVRVMU55SUtJQ0I5Q24wPQpwdXQ6NTQ2SjU3R3o1cUdRNTVTZjQ0T1E0NE9JNDRPcDU0Nko1N0d6TG1wemIyND06ZXdvZ0lDSXlaQ0k2SUhSeWRXVXNDaUFnSW01aGJXVWlPaUI3Q2lBZ0lDQWlZMjRpT2lBaTU0Nko1N0d6NXFHUTU1U2Y0NE9RNDRPSTQ0T3A1NDZKNTdHeklnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJakUyTWpNME5EVWlDaUFnZlFwOQpwdXQ6NTQ2YjU1Q3o1NUt4VDJabWFXTnBZV3d1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1wd0lqb2dJdWVPbStlUXMrZVNzVTltWm1samFXRnNJaXdLSUNBZ0lDSmpiaUk2SUNMbmpwdm5rTFBua3JGUFptWnBZMmxoYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhOVGcxTXpBM09ESTRJZ29nSUgwS2ZRPT0KcHV0OjU1ZWI2SXVtVUdGcGJpNXFjMjl1OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1NWViNkl1bVVHRnBiaUlLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJeU5UTTBOak0yTkNJS0lDQjlDbjA9CnB1dDo1NW05NWFTYzVhS29MbXB6YjI0PTpld29nSUNJeVpDSTZJSFJ5ZFdVc0NpQWdJbTVoYldVaU9pQjdDaUFnSUNBaVkyNGlPaUFpNTVtOTVhU2M1YUtvSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqRXlOVGN4TXpVMUlnb2dJSDBLZlE9PQpwdXQ6NTVtOTZadXE1NzZPNUwyelEyaGhibTVsYkM1cWMyOXU6ZXdvZ0lDSXlaQ0k2SUhSeWRXVXNDaUFnSW01aGJXVWlPaUI3Q2lBZ0lDQWlZMjRpT2lBaTU1bTk2WnVxNTc2TzVMMnpRMmhoYm01bGJDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TnpJNE56VXhJZ29nSUgwS2ZRPT0KcHV0OjU3U3I1cjZxNWIrRExtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1N1NyNXI2cTViK0RJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFd09UVTVNamN6TmlJS0lDQjlDbjA9CnB1dDo1N3FpNWFLb0xVOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1N3FpNWFLb0xVOW1abWxqYVdGc0lnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJakl6TnpjM056UXdJZ29nSUgwS2ZRPT0KcHV0OjU3cWk2TDZqNXFTUzVaV0tMbXB6YjI0PTpld29nSUNJeVpDSTZJSFJ5ZFdVc0NpQWdJbTVoYldVaU9pQjdDaUFnSUNBaVkyNGlPaUFpNTdxaTZMNmo1cVNTNVpXS0lnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJak00TlRFMk55SUtJQ0I5Q24wPQpwdXQ6NTd1MDVwYXY1WTJoVm1selkyRXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1ZTd0T2FXcitXTm9WWnBjMk5oSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqUTVORE13TmpjaUNpQWdmUXA5CnB1dDo2SXF4NkphUFptRnBYMDltWm1OcFlXd3Vhbk52Ymc9PTpld29nSUNJeVpDSTZJSFJ5ZFdVc0NpQWdJbTVoYldVaU9pQjdDaUFnSUNBaVkyNGlPaUFpNklxeDZKYVBabUZwWDA5bVptTnBZV3dpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU5EZ3dNRFk1TURFMUlnb2dJSDBLZlE9PQpwdXQ6Nkk2VDVaR3o1YmlENUxpQlEyaGhibTVsYkM1cWMyOXU6ZXdvZ0lDSXlaQ0k2SUhSeWRXVXNDaUFnSW01aGJXVWlPaUI3Q2lBZ0lDQWlZMjRpT2lBaTZJNlQ1Wkd6NWJpRDVMaUJRMmhoYm01bGJDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0kzTkRNNU16VXlNU0lLSUNCOUNuMD0KcHV0OjZJK3k2SlcrNVppSlZ1V0Z0T2VadStXZ29VOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk2SSt5NkpXKzVaaUpWdVdGdE9lWnUrV2dvVTltWm1samFXRnNJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpreE5UTTROeUlLSUNCOUNuMD0KcHV0OjZKYUU2STIzVFdscGJuUXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aVdoT2lOdDAxcGFXNTBJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpNME9UTXdOell5TmpNM05qWXlOemNpQ2lBZ2ZRcDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
