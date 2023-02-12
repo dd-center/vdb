@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676195896
+    "timestamp": 1676196019
   },
   "vtbs": [
     {
@@ -17160,6 +17160,25 @@
       }
     },
     {
+      "uuid": "508e2578-6e74-5b29-bff7-57f3ec10e256",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "263238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "三枝明那搬运组",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
+    },
+    {
       "uuid": "705a9060-cdbe-5fa8-ace1-62b44349e58f",
       "type": "vtuber",
       "bot": false,
@@ -21870,6 +21889,25 @@
         "cn": "元気少女蘑菇橙",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c87ca207-7f73-5b9b-b3bd-4cadd9a0a956",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "104561147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "先斗宁",
+        "default": "JP"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
     },
     {
       "uuid": "556a811d-023b-5702-8231-e3b9f27a6e07",
@@ -30916,6 +30954,25 @@
       "group_name": "星巡学园"
     },
     {
+      "uuid": "6487885f-fdf7-523e-ac64-36161949529d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1531092980",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四季凪的菠萝阅览室",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
+    },
+    {
       "uuid": "a5eb6a11-6158-5724-b93c-855837436f76",
       "type": "vtuber",
       "bot": false,
@@ -37245,6 +37302,19 @@
       }
     },
     {
+      "uuid": "9cae6338-40ce-5b3a-8d79-279b74f07d9b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "宇志海莓搬运组",
+        "default": "cn"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
+    },
+    {
       "uuid": "dd6cc448-f766-54dc-af53-df7f8e818313",
       "type": "vtuber",
       "bot": false,
@@ -41205,6 +41275,29 @@
         "extra": [],
         "jp": "山神カルタ",
         "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "3e5bf0a7-fdc8-5823-b747-8914833f48a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35958802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "山神歌流多"
+        ],
+        "cn": "山神的天狗神社",
+        "jp": " 山神 カルタ",
+        "en": "Yamagami Karuta",
+        "default": "cn"
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
@@ -56590,6 +56683,25 @@
       },
       "group": "d160848c-6d4c-56f7-afa9-196abc2405f7",
       "group_name": "樱满月虚拟社团"
+    },
+    {
+      "uuid": "739c9ee3-4ca9-5a0c-9945-adaa63a85ab1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23760783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "花畑柴卡",
+        "default": "JP"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
     },
     {
       "uuid": "ebe1534c-091e-5788-957f-f73832d3599c",
@@ -74319,6 +74431,25 @@
       }
     },
     {
+      "uuid": "41f9451f-42a7-55a3-9b96-8d7122a0bc01",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "112469835",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "真白的灵异事件簿",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
+    },
+    {
       "uuid": "497b8896-a69f-546d-a1b3-f4e54a9dc3e2",
       "type": "vtuber",
       "bot": false,
@@ -90318,13 +90449,21 @@
           "id": "3BFABA7DC8CA3FFB_ac4493",
           "type": "official",
           "platform": "userlocal"
+        },
+        {
+          "id": "9254842",
+          "type": "official",
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
         "jp": "語部紡",
+        "cn": "语部纺",
         "default": "jp"
-      }
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
     },
     {
       "uuid": "494b05aa-1931-5560-b8a8-d9980a17fd9b",
@@ -91908,6 +92047,25 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "ffa9f8a3-a625-57be-ade3-7a223a5719e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626628",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路奇Luche",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "group_name": "虚研学园"
     },
     {
       "uuid": "08f8c0f7-c333-5c36-9472-d4030b3c0797",
