@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676194454
+    "timestamp": 1676194425
   },
   "vtbs": [
     {
@@ -59714,6 +59714,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "0e683a13-702c-5ba3-b158-880c4bf57db7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10713043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱井林official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b4e9b8c1-8950-569d-bc75-3bda69e7497c",
