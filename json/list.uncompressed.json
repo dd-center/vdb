@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676196915
+    "timestamp": 1676196973
   },
   "vtbs": [
     {
@@ -61102,6 +61102,23 @@
         "cn": "步诺",
         "en": "Buno",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "1407bdf6-0a7b-5521-964b-f8495952806b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2145655554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "歩夜_poya",
+        "default": "jp"
       }
     },
     {
