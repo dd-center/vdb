@@ -36,7 +36,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676208797
+    "timestamp": 1676208812
   },
   "vtbs": [
     {
@@ -23819,6 +23819,23 @@
       "name": {
         "extra": [],
         "cn": "冰淇柠QAQ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8f73f975-5393-5578-b73c-8bc156737642",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630649",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰点梨花",
         "default": "cn"
       }
     },
