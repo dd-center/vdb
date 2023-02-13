@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676270769
+    "timestamp": 1676270886
   },
   "vtbs": [
     {
@@ -58207,6 +58207,23 @@
       "name": {
         "extra": [],
         "cn": "桃濑绮罗罗_Kirara",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11d98e48-5667-524d-8276-770ed99b6f0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "413236907",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃爱TOA",
         "default": "cn"
       }
     },
