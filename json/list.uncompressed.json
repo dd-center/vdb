@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676295055
+    "timestamp": 1676295975
   },
   "vtbs": [
     {
@@ -2225,34 +2225,6 @@
         "cn": "ELA辰",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1548714025",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "6710612989",
-          "type": "official",
-          "platform": "weibo"
-        },
-        {
-          "id": "bdyukiyue@qq.com",
-          "type": "official",
-          "platform": "email"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "ENIAC",
-        "default": "en"
-      },
-      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22"
     },
     {
       "uuid": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
@@ -27452,9 +27424,7 @@
         "cn": "卡尔特",
         "en": "Curt",
         "default": "cn"
-      },
-      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
-      "group_name": "ENIAC"
+      }
     },
     {
       "uuid": "a016f644-48f8-51cf-b115-014deeae97a7",
@@ -83579,9 +83549,7 @@
         "cn": "艾博单",
         "en": "Ableton",
         "default": "cn"
-      },
-      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
-      "group_name": "ENIAC"
+      }
     },
     {
       "uuid": "cc796f84-fb42-5e1c-a11c-8922c9991f90",
@@ -96746,9 +96714,7 @@
         "cn": "阿希娜Emma",
         "en": "Emma",
         "default": "cn"
-      },
-      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
-      "group_name": "ENIAC"
+      }
     },
     {
       "uuid": "3da2eea5-aff1-5220-a4c0-234ba1eb344b",
@@ -104133,9 +104099,7 @@
         "en": "Nacoco",
         "jp": "Nacoco",
         "default": "cn"
-      },
-      "group": "4fe7c38e-751f-58dc-9b27-c2559af94c22",
-      "group_name": "ENIAC"
+      }
     },
     {
       "uuid": "6a752d9a-dfec-5400-8e1b-63d346519807",
