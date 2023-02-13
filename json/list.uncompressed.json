@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676290451
+    "timestamp": 1676290740
   },
   "vtbs": [
     {
@@ -70249,6 +70249,23 @@
       "name": {
         "extra": [],
         "cn": "珂珞哲official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ef3dac6-7998-5c0e-8351-c015fa0b8b5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4695879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珂蕾贝雅Gliesaray",
         "default": "cn"
       }
     },
