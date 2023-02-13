@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676255374
+    "timestamp": 1676255414
   },
   "vtbs": [
     {
@@ -17568,6 +17568,23 @@
       "name": {
         "extra": [],
         "cn": "上甘岭",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2958c8e6-6b19-5f01-8b69-67ec014d6c81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677162751",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上矢咲和_sayori",
         "default": "cn"
       }
     },
