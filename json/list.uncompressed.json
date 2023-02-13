@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676289751
+    "timestamp": 1676289689
   },
   "vtbs": [
     {
@@ -11952,6 +11952,23 @@
         "default": "cn"
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237"
+    },
+    {
+      "uuid": "2320745d-0b38-5f66-825b-075b438c4e2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16956692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "wtyyyyyy",
+        "default": "cn"
+      }
     },
     {
       "uuid": "725318d9-a737-55f9-bdd1-29ffe8c6a9ef",
@@ -65127,6 +65144,23 @@
       }
     },
     {
+      "uuid": "d65e7045-3813-5739-bed2-09969bcf5624",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23494879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "混沌之狐",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "293efe46-ffa7-5236-a176-79d0799b1902",
       "type": "vtuber",
       "bot": false,
@@ -102529,6 +102563,23 @@
       "name": {
         "extra": [],
         "cn": "鱼娘暴暴lazy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f92bf73b-1e0f-56a8-8dad-f67eb384bdbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "133528",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鱼干兔",
         "default": "cn"
       }
     },
