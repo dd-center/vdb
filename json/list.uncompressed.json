@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676304641
+    "timestamp": 1676304625
   },
   "vtbs": [
     {
@@ -44738,6 +44738,23 @@
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
       "group_name": "holostars"
+    },
+    {
+      "uuid": "62ffae45-ee0f-57d8-9975-c062e1846801",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2603083",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "律子丶",
+        "default": "cn"
+      }
     },
     {
       "uuid": "85101ed7-3034-5bd7-879e-13a25f12224c",
