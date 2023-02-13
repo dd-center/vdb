@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "社团解散 ENIAC",
+      ""
+    ],
+    [
+      "delete",
+      "ENIAC.json",
+      ""
+    ],
+    [
+      "put",
+      "卡尔特Curt.json",
+      "{\n  \"name\": {\n    \"cn\": \"卡尔特\",\n    \"en\": \"Curt\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1095818885\"\n  }\n}"
+    ],
+    [
+      "put",
+      "艾博单Ableton.json",
+      "{\n  \"name\": {\n    \"cn\": \"艾博单\",\n    \"en\": \"Ableton\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1887101809\"\n  }\n}"
+    ],
+    [
+      "put",
+      "阿希娜Emma.json",
+      "{\n  \"name\": {\n    \"cn\": \"阿希娜Emma\",\n    \"en\": \"Emma\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1258178536\"\n  }\n}"
+    ],
+    [
+      "put",
+      "麻可可Nacoco.json",
+      "{\n  \"name\": {\n    \"cn\": \"麻可可\",\n    \"en\": \"Nacoco\",\n    \"jp\": \"Nacoco\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1277310992\",\n    \"weibo\": \"6476005913\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13507",
+    "body": "https://www.bilibili.com/read/cv19043237\n\n### description\n\nremove: ENIAC.json\nupdate: 卡尔特Curt.json\n> <https://space.bilibili.com/1095818885>\n\nupdate: 艾博单Ableton.json\n> <https://space.bilibili.com/1887101809>\n\nupdate: 阿希娜Emma.json\n> <https://space.bilibili.com/1258178536>\n\nupdate: 麻可可Nacoco.json\n> <https://space.bilibili.com/1277310992>\n> <https://www.weibo.com/u/6476005913>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjU2Uys1WnVpNktlajVwV2pJRVZPU1VGRApkZWxldGU6UlU1SlFVTXVhbk52Ymc9PQpwdXQ6NVkyaDViQ1U1NG01UTNWeWRDNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXTm9lV3dsT2VKdVNJc0NpQWdJQ0FpWlc0aU9pQWlRM1Z5ZENJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhNRGsxT0RFNE9EZzFJZ29nSUgwS2ZRPT0KcHV0OjZJbSs1WTJhNVkyVlFXSnNaWFJ2Ymk1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWlKdnVXTm11V05sU0lzQ2lBZ0lDQWlaVzRpT2lBaVFXSnNaWFJ2YmlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhPRGczTVRBeE9EQTVJZ29nSUgwS2ZRPT0KcHV0OjZaaS81YmlNNWFpY1JXMXRZUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bVl2K1c0ak9Xb25FVnRiV0VpTEFvZ0lDQWdJbVZ1SWpvZ0lrVnRiV0VpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1USTFPREUzT0RVek5pSUtJQ0I5Q24wPQpwdXQ6NmJxNzVZK3Y1WSt2VG1GamIyTnZMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bTZ1K1dQcitXUHJ5SXNDaUFnSUNBaVpXNGlPaUFpVG1GamIyTnZJaXdLSUNBZ0lDSnFjQ0k2SUNKT1lXTnZZMjhpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1USTNOek14TURrNU1pSXNDaUFnSUNBaWQyVnBZbThpT2lBaU5qUTNOakF3TlRreE15SUtJQ0I5Q24wPQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
