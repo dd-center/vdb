@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676293678
+    "timestamp": 1676293835
   },
   "vtbs": [
     {
@@ -32561,6 +32561,23 @@
         ],
         "cn": "夏橙_Cia",
         "en": "Cia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7bf47240-99f3-5593-8f2e-3cdc92fabccc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1816002727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏洛_Shyloh",
         "default": "cn"
       }
     },
