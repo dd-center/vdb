@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676304625
+    "timestamp": 1676304685
   },
   "vtbs": [
     {
@@ -73195,6 +73195,23 @@
       "name": {
         "extra": [],
         "cn": "白熊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10662b19-387c-55b1-8427-7df25718a0b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1461492020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白狼座official",
         "default": "cn"
       }
     },
