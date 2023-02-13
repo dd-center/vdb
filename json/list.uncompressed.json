@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676295975
+    "timestamp": 1676296044
   },
   "vtbs": [
     {
@@ -2759,7 +2759,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "fey@hjxsy.cn",
+          "id": "umigiri_in_sea@163.com",
           "type": "official",
           "platform": "email"
         },
@@ -43708,6 +43708,35 @@
       }
     },
     {
+      "uuid": "23f94eeb-16e4-5bd1-ba70-1c5736e8b9b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5570510",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "zigong",
+          "type": "official",
+          "platform": "peing"
+        },
+        {
+          "id": "yuulive@qq.com",
+          "type": "official",
+          "platform": "email"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽游Yuu",
+        "default": "cn"
+      },
+      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b",
+      "group_name": "Croven教团"
+    },
+    {
       "uuid": "3a61edd1-4a46-5635-82e3-1e8a5166fbf9",
       "type": "vtuber",
       "bot": false,
@@ -48039,7 +48068,7 @@
           "platform": "popiask"
         },
         {
-          "id": "xinkemusume@sina.com",
+          "id": "xinke_business@sina.com",
           "type": "official",
           "platform": "email"
         }
@@ -53208,11 +53237,6 @@
         {
           "id": "7hants",
           "type": "official",
-          "platform": "twitter"
-        },
-        {
-          "id": "7hants",
-          "type": "official",
           "platform": "github"
         },
         {
@@ -53224,16 +53248,6 @@
           "id": "7hants",
           "type": "official",
           "platform": "popiask"
-        },
-        {
-          "id": "https://www.bilibiliai.cn/",
-          "type": "official",
-          "platform": "web"
-        },
-        {
-          "id": "s7hants@vup.asia",
-          "type": "official",
-          "platform": "email"
         },
         {
           "id": "7213745106",
@@ -79755,36 +79769,6 @@
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c",
       "group_name": "三垣四象project"
-    },
-    {
-      "uuid": "d9b5c65f-597f-57ef-a46e-10b5afc8ae89",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "5570510",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "zigong",
-          "type": "official",
-          "platform": "peing"
-        },
-        {
-          "id": "zigonglive@qq.com",
-          "type": "official",
-          "platform": "email"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "紫宮",
-        "en": "Shimiya",
-        "default": "cn"
-      },
-      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b",
-      "group_name": "Croven教团"
     },
     {
       "uuid": "8fb95b6e-93d2-5642-8743-5669638294fc",
