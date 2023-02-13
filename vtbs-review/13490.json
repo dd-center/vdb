@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "混沌之狐.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "混沌之狐.json",
+      "{\n  \"name\": {\n    \"cn\": \"混沌之狐\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"23494879\"\n  }\n}"
+    ],
+    [
+      "put",
+      "wtyyyyyy.json",
+      "{\n  \"name\": {\n    \"cn\": \"wtyyyyyy\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"16956692\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13490",
+    "body": "\n\n### description\n\nadd: wtyyyyyy.json\n> <https://space.bilibili.com/16956692>\n\nadd: 混沌之狐.json\n> <https://space.bilibili.com/23494879>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXJlMzVyS001TG1MNTR1UUxtcHpiMjRnS0RJdkxUQXZLeklwCnB1dDo1cmUzNXJLTTVMbUw1NHVRTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWEzdCtheWpPUzVpK2VMa0NJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXlNelE1TkRnM09TSUtJQ0I5Q24wPQpwdXQ6ZDNSNWVYbDVlWGt1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJbmQwZVhsNWVYbDVJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFMk9UVTJOamt5SWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
