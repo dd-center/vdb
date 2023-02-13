@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "信息更新",
+      ""
+    ],
+    [
+      "put",
+      "Fey.json",
+      "{\n  \"name\": {\n    \"en\": \"Fey\"\n  },\n  \"accounts\": {\n    \"email\": \"umigiri_in_sea@163.com\",\n    \"bilibili\": \"49724206\"\n  },\n  \"group\": \"NGWORKS\"\n}"
+    ],
+    [
+      "put",
+      "新科娘.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"新科娘\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"451066708\",\n    \"weibo\": \"7309941235\",\n    \"popiask\": \"V2RI0J\",\n    \"email\": \"xinke_business@sina.com\"\n  },\n  \"group\": \"新科动漫\"\n}"
+    ],
+    [
+      "put",
+      "月下顾久.json",
+      "{\n  \"name\": {\n    \"cn\": \"月下顾久\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"10046401\",\n    \"github\": \"7hants\",\n    \"peing\": \"7hants\",\n    \"popiask\": \"7hants\",\n    \"weibo\": \"7213745106\",\n    \"youtube\": \"UCXAb5Ze2_rMbPhYD2KwKAQw\"\n  },\n  \"group\": \"Vi-D\"\n}"
+    ],
+    [
+      "delete",
+      "紫宮.json",
+      ""
+    ],
+    [
+      "put",
+      "幽游Yuu.json",
+      "{\n  \"name\": {\n    \"cn\": \"幽游Yuu\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"5570510\",\n    \"peing\": \"zigong\",\n    \"email\": \"yuulive@qq.com\"\n  },\n  \"group\": \"Croven教团\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13509",
+    "body": "对一些信息进行了更新\n\n### description\n\nadd: 幽游Yuu.json\n> <https://space.bilibili.com/5570510>\n> <https://peing.net/zh-CN/zigong>\n> yuulive@qq.com\n\nremove: 紫宮.json\nupdate: Fey.json\n> umigiri_in_sea@163.com\n> <https://space.bilibili.com/49724206>\n\nupdate: 新科娘.json\n> <https://space.bilibili.com/451066708>\n> <https://www.weibo.com/u/7309941235>\n> <https://www.popiask.cn/V2RI0J>\n> xinke_business@sina.com\n\nupdate: 月下顾久.json\n> <https://space.bilibili.com/10046401>\n> <https://github.com/7hants>\n> <https://peing.net/zh-CN/7hants>\n> <https://www.popiask.cn/7hants>\n> <https://www.weibo.com/u/7213745106>\n> <https://www.youtube.com/channel/UCXAb5Ze2_rMbPhYD2KwKAQw>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjVMK2g1b0d2NXB1MDVwYXcKcHV0OlJtVjVMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbVZ1SWpvZ0lrWmxlU0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0psYldGcGJDSTZJQ0oxYldsbmFYSnBYMmx1WDNObFlVQXhOak11WTI5dElpd0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTBPVGN5TkRJd05pSUtJQ0I5TEFvZ0lDSm5jbTkxY0NJNklDSk9SMWRQVWt0VElncDkKcHV0OjVwYXc1NmVSNWFpWUxtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk1cGF3NTZlUjVhaVlJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpRMU1UQTJOamN3T0NJc0NpQWdJQ0FpZDJWcFltOGlPaUFpTnpNd09UazBNVEl6TlNJc0NpQWdJQ0FpY0c5d2FXRnpheUk2SUNKV01sSkpNRW9pTEFvZ0lDQWdJbVZ0WVdsc0lqb2dJbmhwYm10bFgySjFjMmx1WlhOelFITnBibUV1WTI5dElnb2dJSDBzQ2lBZ0ltZHliM1Z3SWpvZ0l1YVdzT2Vua2VXS3FPYThxeUlLZlE9PQpwdXQ6NXB5STVMaUw2YUcrNUxtRkxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVhY2lPUzRpK21odnVTNWhTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TURBME5qUXdNU0lzQ2lBZ0lDQWlaMmwwYUhWaUlqb2dJamRvWVc1MGN5SXNDaUFnSUNBaWNHVnBibWNpT2lBaU4yaGhiblJ6SWl3S0lDQWdJQ0p3YjNCcFlYTnJJam9nSWpkb1lXNTBjeUlzQ2lBZ0lDQWlkMlZwWW04aU9pQWlOekl4TXpjME5URXdOaUlzQ2lBZ0lDQWllVzkxZEhWaVpTSTZJQ0pWUTFoQllqVmFaVEpmY2sxaVVHaFpSREpMZDB0QlVYY2lDaUFnZlN3S0lDQWlaM0p2ZFhBaU9pQWlWbWt0UkNJS2ZRPT0KZGVsZXRlOjU3U3I1YTZ1TG1wemIyND0KcHV0OjVibTk1cmk0V1hWMUxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXNXZlYTR1RmwxZFNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFOVGN3TlRFd0lpd0tJQ0FnSUNKd1pXbHVaeUk2SUNKNmFXZHZibWNpTEFvZ0lDQWdJbVZ0WVdsc0lqb2dJbmwxZFd4cGRtVkFjWEV1WTI5dElnb2dJSDBzQ2lBZ0ltZHliM1Z3SWpvZ0lrTnliM1psYnVhVm1lV2JvaUlLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
