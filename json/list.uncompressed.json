@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676270285
+    "timestamp": 1676270304
   },
   "vtbs": [
     {
@@ -70181,6 +70181,23 @@
         "extra": [],
         "cn": "玹碎之晶",
         "jp": "咲間晶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "32bd941d-eb64-502f-91ea-35ddfd5c93bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1270402498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玺月兔兔",
         "default": "cn"
       }
     },
