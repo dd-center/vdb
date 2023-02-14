@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676356250
+    "timestamp": 1676356337
   },
   "vtbs": [
     {
@@ -28035,6 +28035,25 @@
         "cn": "友紀みっき-",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b7947dd3-74ab-558b-921e-8a13dd75314d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1620407186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "双叶樱奈",
+        "default": "cn"
+      },
+      "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
+      "group_name": "光年神话"
     },
     {
       "uuid": "28086a8e-3cf5-52c5-94dd-dd006544f02c",
