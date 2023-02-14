@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676368913
+    "timestamp": 1676368944
   },
   "vtbs": [
     {
@@ -37996,6 +37996,23 @@
       },
       "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77",
       "group_name": "Vidol工作室"
+    },
+    {
+      "uuid": "e7cf6242-fd6b-5781-a0f1-19b4850d8131",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076827900379",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安尔珀_Ambrum",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4bd947cf-4f40-54d4-bd84-2671ea5fed2c",
@@ -84317,6 +84334,23 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "1886c167-ee22-5b61-813a-4fdad53a23a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1649321129",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芊櫻Sakura",
+        "default": "cn"
+      }
     },
     {
       "uuid": "327b0d1d-99f6-5758-8831-d28f0dc888c2",
