@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676368829
+    "timestamp": 1676368913
   },
   "vtbs": [
     {
@@ -70377,6 +70377,23 @@
       }
     },
     {
+      "uuid": "5a69a49f-3823-51b3-bfc4-d8ef6110e483",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104562735987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珂菈_Konrada",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6ef3dac6-7998-5c0e-8351-c015fa0b8b5b",
       "type": "vtuber",
       "bot": false,
@@ -80871,6 +80888,23 @@
       "name": {
         "extra": [],
         "cn": "纱箬sariel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7fa4bd36-35f1-5067-84ae-f2b87cc29dc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2091023367",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱纹_Rhodonite",
         "default": "cn"
       }
     },
