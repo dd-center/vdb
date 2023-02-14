@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676348512
+    "timestamp": 1676348524
   },
   "vtbs": [
     {
@@ -73464,6 +73464,23 @@
       }
     },
     {
+      "uuid": "32bccf62-1821-58bc-b738-bb9aa5058cfa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "251990176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白绮_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3501261f-8591-549a-8a02-c58ffdba2d96",
       "type": "vtuber",
       "bot": false,
@@ -96355,6 +96372,23 @@
       "name": {
         "extra": [],
         "cn": "阮阮Rabiice",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "00c6becd-c898-5402-8fa9-87f13f5f73c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1832654300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阱途Gin",
         "default": "cn"
       }
     },
