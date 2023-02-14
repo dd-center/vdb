@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676348341
+    "timestamp": 1676348386
   },
   "vtbs": [
     {
@@ -64916,6 +64916,23 @@
       "group_name": "Pursue-live"
     },
     {
+      "uuid": "e86a5b2a-ee8c-5a5e-8e61-8a2d8553ebd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1558299402",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涅玛_介大发了",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9b0fbcba-be21-5362-a3f0-fda66b3c0261",
       "type": "vtuber",
       "bot": false,
@@ -86214,6 +86231,23 @@
       "name": {
         "extra": [],
         "cn": "苏糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "233f590f-66c9-5ffc-9e8c-c3ce7c5e0909",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1409103273",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏萤_Fluorite",
         "default": "cn"
       }
     },
