@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676356540
+    "timestamp": 1676356652
   },
   "vtbs": [
     {
@@ -25240,6 +25240,25 @@
         "jp": "加贺美隼人工业搬运部",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "3a4e35fc-5f45-5268-a1e6-02507c9e5682",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1660351669",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "劳伦·伊罗斯",
+        "default": "jp"
+      },
+      "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
+      "group_name": "NIJISANJI"
     },
     {
       "uuid": "e8e27c90-1381-569a-9cb6-26a3e9abe21b",
