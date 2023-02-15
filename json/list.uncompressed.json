@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676432496
+    "timestamp": 1676432560
   },
   "vtbs": [
     {
@@ -98737,40 +98737,21 @@
       "group_name": "ColorLink"
     },
     {
-      "uuid": "e729e7a1-5cb3-5ce6-9be1-cd4d3fb05b46",
+      "uuid": "c93af1ad-a2a0-594d-a01a-267127eb9bdd",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "1366383704",
+          "id": "516241502",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "雪璐Channel",
-        "default": "cn"
+        "CN": "雪璐_Sheryl",
+        "default": "CN"
       }
-    },
-    {
-      "uuid": "056963f1-e8d8-59e3-94f2-b2a4e53548a2",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1476333866",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "雪璐Sheryl",
-        "default": "cn"
-      },
-      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
-      "group_name": "极光社"
     },
     {
       "uuid": "19533983-1dc8-5098-b72c-c6b073d4f648",
