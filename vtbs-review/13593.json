@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "Ouro Kronii.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "Ouro Kronii.json",
+      "{\n  \"name\": {\n    \"EN\": \"Ouro Kronii\"\n  },\n  \"accounts\": {\n    \"youtubeAt\": \"OuroKronii\",\n    \"bilibili\": \"\"\n  },\n  \"group\": \"Hololive EN\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13593",
+    "body": "\n\n### description\n\nadd: Ouro Kronii.json\n> <https://www.youtube.com/@OuroKronii>\n> <https://space.bilibili.com/>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6VDNWeWJ5QkxjbTl1YVdrdWFuTnZiaUFvTVM4dE1DOHJNU2s9CnB1dDpUM1Z5YnlCTGNtOXVhV2t1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSWtWT0lqb2dJazkxY204Z1MzSnZibWxwSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW5sdmRYUjFZbVZCZENJNklDSlBkWEp2UzNKdmJtbHBJaXdLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0lpQ2lBZ2ZTd0tJQ0FpWjNKdmRYQWlPaUFpU0c5c2IyeHBkbVVnUlU0aUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
