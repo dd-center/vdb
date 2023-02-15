@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "派拉para.json (2/-1/+1)",
+      ""
+    ],
+    [
+      "delete",
+      "派拉para.json",
+      ""
+    ],
+    [
+      "put",
+      "派拉Para.json",
+      "{\n  \"name\": {\n    \"cn\": \"派拉Para\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3976443\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13583",
+    "body": "\n\n### description\n\nadd: 派拉Para.json\n> <https://space.bilibili.com/3976443>\n\nremove: 派拉para.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXJTKzVvdUpjR0Z5WVM1cWMyOXVJQ2d5THkweEx5c3hLUT09CmRlbGV0ZTo1clMrNW91SmNHRnlZUzVxYzI5dQpwdXQ6NXJTKzVvdUpVR0Z5WVM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWEwdnVhTGlWQmhjbUVpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU16azNOalEwTXlJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
