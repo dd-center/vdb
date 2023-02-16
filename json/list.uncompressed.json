@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676515584
+    "timestamp": 1676515630
   },
   "vtbs": [
     {
@@ -6390,6 +6390,25 @@
         "cn": "Oumi欧乌米",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ec930c6d-d2c0-58fb-a95c-166793be7657",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "OuroKronii",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "Ouro Kronii",
+        "default": "EN"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758",
+      "group_name": "Hololive EN"
     },
     {
       "uuid": "17683b28-9a9e-5510-9306-1447916850c6",
