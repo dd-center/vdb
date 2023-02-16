@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676526443
+    "timestamp": 1676526517
   },
   "vtbs": [
     {
@@ -9620,6 +9620,23 @@
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af",
       "group_name": "WFIE"
+    },
+    {
+      "uuid": "f61b570d-d4a0-549d-9a41-1a7e51582932",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25308097",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Wal1nna",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5e5431c5-efe7-5a8c-a4a7-71105a01cc7f",
@@ -57857,6 +57874,23 @@
       "name": {
         "extra": [],
         "cn": "栗栗哒y",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "16a65b51-4328-5f41-bd11-3a9201309ea7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1355459439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗栗糍",
         "default": "cn"
       }
     },
