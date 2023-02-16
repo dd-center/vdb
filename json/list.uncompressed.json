@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676526186
+    "timestamp": 1676526197
   },
   "vtbs": [
     {
@@ -59706,6 +59706,23 @@
         "extra": [],
         "cn": "梵卓",
         "en": "Ventrue",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dd41b5e0-4fb6-5a8c-9964-1e6f78dc9925",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "355093560",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梵阿景不是啊景",
         "default": "cn"
       }
     },
