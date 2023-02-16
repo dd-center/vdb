@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "啵尼可_Official.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "啵尼可_Official.json",
+      "{\n  \"name\": {\n    \"啵尼可_Official\": \"\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3461577015561176\"\n  }\n}"
+    ],
+    [
+      "put",
+      "布林-Official.json",
+      "{\n  \"name\": {\n    \"布林-Official\": \"\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1470014194\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13629",
+    "body": "\n\n### description\n\nadd: 啵尼可_Official.json\n> <https://space.bilibili.com/3461577015561176>\n\nadd: 布林-Official.json\n> <https://space.bilibili.com/1470014194>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NVpXMTViQzg1WSt2WDA5bVptbGphV0ZzTG1wemIyNGdLREl2TFRBdkt6SXAKcHV0OjVaVzE1YkM4NVkrdlgwOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0l1V1Z0ZVd3dk9XUHIxOVBabVpwWTJsaGJDSTZJQ0lpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU16UTJNVFUzTnpBeE5UVTJNVEUzTmlJS0lDQjlDbjA9CnB1dDo1YmlENXA2WExVOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0l1VzRnK2FlbHkxUFptWnBZMmxoYkNJNklDSWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTVRRM01EQXhOREU1TkNJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
