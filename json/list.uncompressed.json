@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676526683
+    "timestamp": 1676526776
   },
   "vtbs": [
     {
@@ -19972,6 +19972,25 @@
         "cn": "亦瞳Tio_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "210784b7-44f1-5ff4-b0af-02d02d4058df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478425060",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "京九霜",
+        "default": "cn"
+      },
+      "group": "a7195ae4-4ee3-5905-a447-4c528d788666",
+      "group_name": "YOLO"
     },
     {
       "uuid": "b097ffc5-4db3-51c9-a0d2-4e40914cc36c",
@@ -90771,6 +90790,23 @@
       "name": {
         "extra": [],
         "cn": "蜜柑千歌_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8bf9c655-f5bf-5e16-a14d-46cd19b93eeb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1579895002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜汁C今天摸了",
         "default": "cn"
       }
     },
