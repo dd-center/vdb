@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676515590
+    "timestamp": 1676515584
   },
   "vtbs": [
     {
@@ -30433,6 +30433,25 @@
       "group": "7ac99c40-0768-5b6b-a402-86a8517197f3"
     },
     {
+      "uuid": "8f11a9c2-917a-548a-aadd-d64ff824ff10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493131651647686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哟哟io",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
+      "group_name": "虚研社"
+    },
+    {
       "uuid": "5dc8780c-afbb-541a-b05c-592ff8116952",
       "type": "vtuber",
       "bot": false,
@@ -50674,6 +50693,23 @@
       "name": {
         "extra": [],
         "cn": "星灵幽蓝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a1b89a27-9cc3-59c5-8d8d-86dbf4ac9bb1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1265433547",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星熙子",
         "default": "cn"
       }
     },
@@ -87818,6 +87854,23 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "db4fc45b-8fe4-5616-aa17-9fd03dcb02d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1097083213",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓野麻团",
+        "default": "cn"
+      }
     },
     {
       "uuid": "923df64c-b5df-5264-8d95-c4a429fd438e",
