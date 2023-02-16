@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676521917
+    "timestamp": 1676521896
   },
   "vtbs": [
     {
@@ -86164,6 +86164,23 @@
       "name": {
         "extra": [],
         "cn": "花香咲Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "768c89e2-8023-5190-a9e0-3deab3a05f05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1623138694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花黏黏Pika",
         "default": "cn"
       }
     },
