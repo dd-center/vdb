@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676515630
+    "timestamp": 1676515661
   },
   "vtbs": [
     {
@@ -20801,6 +20801,25 @@
       }
     },
     {
+      "uuid": "0330e968-6324-5ce8-9a01-b32b23c7da69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1542516095",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊舞Eve",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "d2ac6d58-6bfc-5cf1-b3a3-52e238e74549",
       "type": "vtuber",
       "bot": false,
@@ -37996,6 +38015,23 @@
         "extra": [],
         "jp": "安奈るり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d1a87bf8-bf51-5ae2-9dca-e56147771f2f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134575077620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安娜斯塔Official",
+        "default": "cn"
       }
     },
     {
@@ -57895,6 +57931,25 @@
       "group_name": "椛榊计划"
     },
     {
+      "uuid": "54f7807e-b31e-5c18-bf33-1d3dd3464f21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1609526545",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栞栞Shiori",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "6c646955-a85d-5eb5-b535-820a72f71ce4",
       "type": "vtuber",
       "bot": false,
@@ -61650,6 +61705,25 @@
         "cn": "欧欧堆l_l",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8cc9ea8f-8d84-54ed-a543-b15c521059bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1827139579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "欧珀Opal",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "fb556b49-888f-5e19-860a-5533e30301ca",
