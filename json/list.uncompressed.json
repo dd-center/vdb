@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676526776
+    "timestamp": 1676527050
   },
   "vtbs": [
     {
@@ -23987,6 +23987,23 @@
       "name": {
         "extra": [],
         "cn": "冰茶_IcedTea",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a8b01730-6dfd-5123-8b94-5fecd0b59863",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "453880",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰隙CIELON",
         "default": "cn"
       }
     },
@@ -49712,6 +49729,23 @@
       "group_name": "REDCircle红圈社"
     },
     {
+      "uuid": "ccc819ec-d0e1-5495-a78a-068517fcdf02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52355700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星启_Venus",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0a1bc1e3-4b0c-5108-aadb-768395aef545",
       "type": "vtuber",
       "bot": false,
@@ -70490,6 +70524,23 @@
         "jp": "玛琳璱Official",
         "cn": "玛琳璱Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3d067391-9e7a-5c7b-ac8b-d867f4ada0e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1303231",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玛茜洛尼酱",
+        "default": "cn"
       }
     },
     {
