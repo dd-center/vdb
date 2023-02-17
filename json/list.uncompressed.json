@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676608399
+    "timestamp": 1676608409
   },
   "vtbs": [
     {
@@ -30827,6 +30827,23 @@
       }
     },
     {
+      "uuid": "78105556-3e4f-5502-a6f2-5b260bc917a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577015561176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啵尼可_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bc5bec5f-1d5c-5f4d-b464-b8ecb8aba82f",
       "type": "vtuber",
       "bot": false,
@@ -42594,6 +42611,23 @@
       "name": {
         "extra": [],
         "cn": "布明因子_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94d939ee-b4ea-5da7-9835-e1a402fe6282",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1470014194",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布林-Official",
         "default": "cn"
       }
     },
