@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676608298
+    "timestamp": 1676608399
   },
   "vtbs": [
     {
@@ -31247,6 +31247,23 @@
       }
     },
     {
+      "uuid": "f5881b2b-a1e8-5b22-819f-6b8bcdac8e5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614428140",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嗷金宝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4853e602-9414-544d-a081-a3661ed74459",
       "type": "vtuber",
       "bot": false,
@@ -40404,6 +40421,23 @@
       "name": {
         "extra": [],
         "cn": "小紬先生",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2f02b756-7f49-5f2c-9ea7-2096909fb9a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "480437746",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小红豆露露",
         "default": "cn"
       }
     },
