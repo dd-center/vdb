@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1676899018
+    "timestamp": 1676899151
   },
   "vtbs": [
     {
@@ -42914,6 +42914,24 @@
       }
     },
     {
+      "uuid": "15ca8cc8-ac34-5083-ae67-d8b752a80d19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6534118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希拉依",
+        "en": "Scillae",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "34be5837-a571-5a74-b136-d7209dc08f9d",
       "type": "vtuber",
       "bot": false,
@@ -48990,6 +49008,23 @@
       }
     },
     {
+      "uuid": "9e07cc41-2fe2-5068-bb77-4d54ddb60b40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "80000000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早椰恋恋",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b5312adf-dd9c-50d6-a105-d27beb2035e9",
       "type": "vtuber",
       "bot": false,
@@ -49340,7 +49375,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "1533406766",
+          "id": "1124440113",
           "type": "official",
           "platform": "bilibili"
         }
