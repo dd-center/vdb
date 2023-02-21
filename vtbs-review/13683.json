@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "腾讯招聘.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "腾讯招聘.json",
+      "{\n  \"name\": {\n    \"cn\": \"腾讯招聘\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"428112437\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13683",
+    "body": "\n\n### description\n\nadd: 腾讯招聘.json\n> <https://space.bilibili.com/428112437>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NklXKzZLNnY1b3ViNklHWUxtcHpiMjRnS0RFdkxUQXZLekVwCnB1dDo2SVcrNks2djVvdWI2SUdZTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWlGdnVpdXIrYUxtK2lCbUNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTBNamd4TVRJME16Y2lDaUFnZlFwOQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
