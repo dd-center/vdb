@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677126978
+    "timestamp": 1677126998
   },
   "vtbs": [
     {
@@ -87569,6 +87569,24 @@
       "name": {
         "extra": [],
         "cn": "茶茶真的不鸽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8441157c-e9f7-5e58-a1fc-36df3b496a7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1217959473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶镜镜",
+        "en": "ChAmo",
         "default": "cn"
       }
     },
