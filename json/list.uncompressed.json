@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677126998
+    "timestamp": 1677127032
   },
   "vtbs": [
     {
@@ -8530,6 +8530,23 @@
         "extra": [],
         "en": "Sunao_desu",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "0260e22c-adc1-535c-9f5b-f2ed77df3f51",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7004422",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "T--suki",
+        "default": "cn"
       }
     },
     {
@@ -46338,6 +46355,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "c258dbc2-d8c8-5bcf-87f3-99251c978d2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1638789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠姆帕",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6bd7a5cd-baf7-5688-826c-462c86e2bdaa",
       "type": "vtuber",
       "bot": false,
@@ -76796,6 +76830,23 @@
       "name": {
         "extra": [],
         "cn": "祈乃Nya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "244a6cc8-d4d9-5c68-a835-b899dbf5784b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "622420647",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祈粒Kiwi_",
         "default": "cn"
       }
     },
