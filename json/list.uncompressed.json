@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677126884
+    "timestamp": 1677126978
   },
   "vtbs": [
     {
@@ -89942,6 +89942,23 @@
       "name": {
         "extra": [],
         "cn": "蓝耳朵不蓝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7112321d-4dd1-5838-a60d-d87a87b59923",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461562889144477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蓝莓小糖豆",
         "default": "cn"
       }
     },
