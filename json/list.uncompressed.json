@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677127226
+    "timestamp": 1677127249
   },
   "vtbs": [
     {
@@ -47353,6 +47353,23 @@
       "name": {
         "extra": [],
         "cn": "扇宝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d359948c-ffa2-57fb-ae7c-22880ad6438c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7417985",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "手癌晚期天山w",
         "default": "cn"
       }
     },
