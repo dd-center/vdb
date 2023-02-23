@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "新新社恐人.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "新新社恐人.json",
+      "{\n  \"name\": {\n    \"cn\": \"新新社恐人\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1171565532\"\n  }\n}"
+    ],
+    [
+      "put",
+      "遥夜haru.json",
+      "{\n  \"name\": {\n    \"cn\": \"遥夜haru\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"8001272\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13710",
+    "body": "\n\n### description\n\nadd: 新新社恐人.json\n> <https://space.bilibili.com/1171565532>\n\nadd: 遥夜haru.json\n> <https://space.bilibili.com/8001272>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXBhdzVwYXc1NlMrNW9HUTVMcTZMbXB6YjI0Z0tESXZMVEF2S3pJcApwdXQ6NXBhdzVwYXc1NlMrNW9HUTVMcTZMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1YVdzT2FXc09la3Z1YUJrT1M2dWlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhNVGN4TlRZMU5UTXlJZ29nSUgwS2ZRPT0KcHV0OjZZR2w1YVNjYUdGeWRTNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVtQnBlV2tuR2hoY25VaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlPREF3TVRJM01pSUtJQ0I5Q24wPQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
