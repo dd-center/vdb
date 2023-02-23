@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677126928
+    "timestamp": 1677126884
   },
   "vtbs": [
     {
@@ -30893,6 +30893,24 @@
       "name": {
         "extra": [],
         "cn": "喀什罗蒂Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "444f3952-3ef4-5491-b886-0eb8b3d586d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35144021",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喀希",
+        "en": "Katsiy",
         "default": "cn"
       }
     },
@@ -103488,6 +103506,23 @@
       "name": {
         "extra": [],
         "cn": "鲨克莉斯Sharklyss",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2cef2a2b-0912-570e-a7c4-2bf4f8cd0e3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "396785163",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲨鲨Zjings",
         "default": "cn"
       }
     },
