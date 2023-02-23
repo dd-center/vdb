@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677126765
+    "timestamp": 1677126819
   },
   "vtbs": [
     {
@@ -96827,6 +96827,23 @@
         ],
         "cn": "間宵雫_Official",
         "jp": "間宵 雫☾☔@イラストレーターVtuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5b96ee7e-aefe-5ff1-bece-59ab54aa816c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493118512991084",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "関注御音階_official",
         "default": "cn"
       }
     },
