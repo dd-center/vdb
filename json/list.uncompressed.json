@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677127164
+    "timestamp": 1677127226
   },
   "vtbs": [
     {
@@ -48342,6 +48342,23 @@
       }
     },
     {
+      "uuid": "002251b6-1f8b-5d4a-89bd-10313f4e8ada",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1171565532",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新新社恐人",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "02a19a40-7cf1-5d3e-a95c-ec0f720ab4ee",
       "type": "vtuber",
       "bot": false,
@@ -91709,6 +91726,23 @@
       }
     },
     {
+      "uuid": "944060ce-589e-52b4-b6fd-7ea0783504ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1658045935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西布娜Sibuna",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d85fcd64-930d-5ce5-bc35-a68581b95451",
       "type": "vtuber",
       "bot": false,
@@ -94960,6 +94994,23 @@
       "name": {
         "extra": [],
         "cn": "遥光Haruka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4d6504fb-88a3-5df6-9ef1-dd37ee609cd3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8001272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "遥夜haru",
         "default": "cn"
       }
     },
