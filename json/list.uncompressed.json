@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373367
+    "timestamp": 1677373396
   },
   "vtbs": [
     {
@@ -17946,6 +17946,25 @@
         "cn": "与朵小天使w",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "beb89f07-0a11-5629-a444-fc4e9fe17351",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19986917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "与枝老师",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
+      "group_name": "新月社FCrescent"
     },
     {
       "uuid": "415085f7-fd61-5c7a-a280-1f9e1b52f334",
