@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677372349
+    "timestamp": 1677373005
   },
   "vtbs": [
     {
@@ -10201,6 +10201,24 @@
       }
     },
     {
+      "uuid": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1528165105",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Zephyr-风泠社",
+        "default": "cn"
+      },
+      "group": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6"
+    },
+    {
       "uuid": "6984fee9-7c7a-596f-a696-b618da025d99",
       "type": "vtuber",
       "bot": false,
@@ -19469,6 +19487,25 @@
         "cn": "云茹",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9e3e90f6-27fe-5918-86ab-5538f98fe45b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1384287229",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云萝Kinoko",
+        "default": "cn"
+      },
+      "group": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6",
+      "group_name": "Zephyr-风泠社"
     },
     {
       "uuid": "edbcd7c7-8bda-5d6d-ae3e-9bb6ed1add1d",
@@ -73619,6 +73656,25 @@
       }
     },
     {
+      "uuid": "3660ed20-3afd-5663-b104-5658fedc2f34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461570877197190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白果Shiroka",
+        "default": "cn"
+      },
+      "group": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6",
+      "group_name": "Zephyr-风泠社"
+    },
+    {
       "uuid": "2dadeff6-1ad1-508c-ba5c-732f4f10bb21",
       "type": "vtuber",
       "bot": false,
@@ -81361,6 +81417,25 @@
         "cn": "纪代因果_Inga",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2457b26f-109b-5b1b-81d2-823c80ce2a44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1129001360",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纪星娴tsuki",
+        "default": "cn"
+      },
+      "group": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6",
+      "group_name": "Zephyr-风泠社"
     },
     {
       "uuid": "9f120cf2-7523-5b91-a606-be5bc27bbc09",
