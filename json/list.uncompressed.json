@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677374213
+    "timestamp": 1677374246
   },
   "vtbs": [
     {
@@ -103350,6 +103350,23 @@
       },
       "group": "0a2ecd85-eecd-5968-9d03-77649d1844a8",
       "group_name": "魂喵Official"
+    },
+    {
+      "uuid": "e976d78e-2ffc-5cf1-9b9d-c416ba43557f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493124712172000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魈格Yezpi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "97338598-0299-5636-b87f-5383d280a69c",
