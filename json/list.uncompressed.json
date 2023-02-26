@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373396
+    "timestamp": 1677373485
   },
   "vtbs": [
     {
@@ -38390,6 +38390,60 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "0f757350-4132-55ca-a0f2-21b5e2ee6351",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11057151",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "andydream1145",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "AndyFubuki",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "32989185",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "andydreamer",
+          "type": "official",
+          "platform": "afdian"
+        },
+        {
+          "id": "andyfubuki",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "andydream",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "72772418",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安梦梦",
+        "en": "AndyDream",
+        "jp": "あゆむ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7d3c05c7-6986-57aa-b032-b8d0aec30951",
