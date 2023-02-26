@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677329985
+    "timestamp": 1677372349
   },
   "vtbs": [
     {
@@ -83655,6 +83655,23 @@
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1",
       "group_name": "星研社"
+    },
+    {
+      "uuid": "e3b16e98-bf1e-525e-a5df-85aa00c2860d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630942745",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肉包子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "54954f1f-5fbf-5632-b8f8-b7fe38536b9f",
