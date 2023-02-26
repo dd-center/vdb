@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373485
+    "timestamp": 1677373683
   },
   "vtbs": [
     {
@@ -76050,6 +76050,25 @@
         "cn": "真白まゆ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b03f8969-7f7f-5214-a9a3-015e9c96dc5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17206435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真白梨柚",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce",
+      "group_name": "StarDust星云社"
     },
     {
       "uuid": "41f9451f-42a7-55a3-9b96-8d7122a0bc01",
