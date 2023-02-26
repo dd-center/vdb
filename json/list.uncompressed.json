@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373960
+    "timestamp": 1677374077
   },
   "vtbs": [
     {
@@ -25953,6 +25953,23 @@
       "name": {
         "extra": [],
         "cn": "十_Tsunashi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69d813ca-fa50-57d6-b8cb-2f2bae55d056",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8713705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十七为何那样",
         "default": "cn"
       }
     },
