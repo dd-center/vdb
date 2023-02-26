@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373797
+    "timestamp": 1677373883
   },
   "vtbs": [
     {
@@ -39694,6 +39694,23 @@
       "name": {
         "extra": [],
         "cn": "小夜子Sayoko_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fa4676fd-dbaa-53f5-b231-f4c076533952",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089278691882",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小夜歌Sayoka",
         "default": "cn"
       }
     },
