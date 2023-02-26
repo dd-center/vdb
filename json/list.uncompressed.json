@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373368
+    "timestamp": 1677373367
   },
   "vtbs": [
     {
@@ -58667,6 +58667,25 @@
         "extra": [],
         "cn": "桃桃子_Momoko",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "e41ab76f-d301-546b-8ca5-257457e0e567",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1621973210",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "桃桃酸酪冰_发疯版"
+        ],
+        "CN": "桃桃酸酪冰",
+        "default": "CN"
       }
     },
     {
