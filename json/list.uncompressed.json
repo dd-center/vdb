@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677373683
+    "timestamp": 1677373797
   },
   "vtbs": [
     {
@@ -3286,6 +3286,23 @@
       "name": {
         "extra": [],
         "cn": "Hime_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c08b3eff-b97c-5d6d-b8d6-b90d4c03f31b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1993313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北燕Hokume",
         "default": "cn"
       }
     },
