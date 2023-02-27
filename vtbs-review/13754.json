@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "name",
+      "Simon",
+      ""
+    ],
+    [
+      "email",
+      "w@simon3k.moe",
+      ""
+    ],
+    [
+      "title",
+      "Para-dice.json (4/-0/+4)",
+      ""
+    ],
+    [
+      "put",
+      "Para-dice.json",
+      "{\n  \"name\": {\n    \"cn\": \"Para-dice\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3461566691280964\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "亚岚_Yalan.json",
+      "{\n  \"name\": {\n    \"cn\": \"亚岚_Yalan\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2070988100\"\n  },\n  \"group\": \"Para-dice\"\n}"
+    ],
+    [
+      "put",
+      "赫卡特_Hecate.json",
+      "{\n  \"name\": {\n    \"cn\": \"赫卡特_Hecate\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"402110060\"\n  },\n  \"group\": \"Para-dice\"\n}"
+    ],
+    [
+      "put",
+      "库洛西娅Celosia.json",
+      "{\n  \"name\": {\n    \"cn\": \"库洛西娅Celosia\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493143091612045\"\n  },\n  \"group\": \"Para-dice\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13754",
+    "body": "\n\n### description\n\nadd: Para-dice.json\n> <https://space.bilibili.com/3461566691280964>\n\nadd: 亚岚_Yalan.json\n> <https://space.bilibili.com/2070988100>\n\nadd: 库洛西娅Celosia.json\n> <https://space.bilibili.com/3493143091612045>\n\nadd: 赫卡特_Hecate.json\n> <https://space.bilibili.com/402110060>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpVMmx0YjI0PQplbWFpbDpkMEJ6YVcxdmJqTnJMbTF2WlE9PQp0aXRsZTpVR0Z5WVMxa2FXTmxMbXB6YjI0Z0tEUXZMVEF2S3pRcApwdXQ6VUdGeVlTMWthV05sTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJbEJoY21FdFpHbGpaU0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5EWXhOVFkyTmpreE1qZ3dPVFkwSWdvZ0lIMHNDaUFnSW5SNWNHVWlPaUFpWjNKdmRYQWlDbjA9CnB1dDo1THFhNWJLYVgxbGhiR0Z1TG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVM2bXVXeW1sOVpZV3hoYmlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXlNRGN3T1RnNE1UQXdJZ29nSUgwc0NpQWdJbWR5YjNWd0lqb2dJbEJoY21FdFpHbGpaU0lLZlE9PQpwdXQ6NkxXcjVZMmg1NG01WDBobFkyRjBaUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aTFxK1dOb2VlSnVWOUlaV05oZEdVaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlOREF5TVRFd01EWXdJZ29nSUgwc0NpQWdJbWR5YjNWd0lqb2dJbEJoY21FdFpHbGpaU0lLZlE9PQpwdXQ6NWJxVDVyU2I2S1cvNWFpRlEyVnNiM05wWVM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVc2aythMG0raWx2K1dvaFVObGJHOXphV0VpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU16UTVNekUwTXpBNU1UWXhNakEwTlNJS0lDQjlMQW9nSUNKbmNtOTFjQ0k2SUNKUVlYSmhMV1JwWTJVaUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
