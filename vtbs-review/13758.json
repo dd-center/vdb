@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "name",
+      "Simon",
+      ""
+    ],
+    [
+      "email",
+      "w@simon3k.moe",
+      ""
+    ],
+    [
+      "title",
+      "雪糕cheese.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "雪糕cheese.json",
+      "{\n  \"name\": {\n    \"cn\": \"雪糕cheese\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493139945884106\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13758",
+    "body": "\n\n### description\n\nadd: 雪糕cheese.json\n> <https://space.bilibili.com/3493139945884106>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpVMmx0YjI0PQplbWFpbDpkMEJ6YVcxdmJqTnJMbTF2WlE9PQp0aXRsZTo2WnVxNTdPVlkyaGxaWE5sTG1wemIyNGdLREV2TFRBdkt6RXAKcHV0OjZadXE1N09WWTJobFpYTmxMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bWJxdWV6bFdOb1pXVnpaU0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5Ea3pNVE01T1RRMU9EZzBNVEEySWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
