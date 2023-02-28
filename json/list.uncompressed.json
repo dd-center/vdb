@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677584883
+    "timestamp": 1677599633
   },
   "vtbs": [
     {
@@ -83211,6 +83211,23 @@
       "name": {
         "extra": [],
         "cn": "美南蝶蝶Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5fa24a05-e56c-5339-8988-0980ba6e1805",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9885894",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "美女公主殿下",
         "default": "cn"
       }
     },
