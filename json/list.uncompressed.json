@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677523933
+    "timestamp": 1677544425
   },
   "vtbs": [
     {
@@ -43883,6 +43883,24 @@
       "group_name": "Lucca"
     },
     {
+      "uuid": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1630573996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻想社Fantas1A",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6"
+    },
+    {
       "uuid": "64870850-0d58-555c-ad2f-433a73f8ee05",
       "type": "vtuber",
       "bot": false,
@@ -48535,6 +48553,25 @@
         "cn": "斯托拉斯sato",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8da1dda2-1afc-5f2d-97cf-70b978ecaf8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461571086911776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "斯诺丽嘉_Snow",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "002251b6-1f8b-5d4a-89bd-10313f4e8ada",
@@ -84832,6 +84869,23 @@
       }
     },
     {
+      "uuid": "f6a69086-81dd-56db-8af6-015ca7a8a36e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1594261331",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾梨尔Ariel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8cb592a4-552b-556e-a455-78bd1d1ab808",
       "type": "vtuber",
       "bot": false,
@@ -98463,6 +98517,23 @@
       "name": {
         "extra": [],
         "cn": "阿蛙Kaeru",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cc8ab554-5d95-5664-ae1d-c09417c98431",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "67343062",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿里鸭Alya",
         "default": "cn"
       }
     },
