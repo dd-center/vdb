@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677544425
+    "timestamp": 1677544473
   },
   "vtbs": [
     {
@@ -6650,6 +6650,24 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461566691280964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Para-dice",
+        "default": "cn"
+      },
+      "group": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d"
     },
     {
       "uuid": "25dcec92-82e4-5a70-a909-35e86afd2069",
@@ -19927,6 +19945,25 @@
         "cn": "亚喵莫伊Cha",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2402457c-b20b-51c8-9959-d254c61c258d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2070988100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亚岚_Yalan",
+        "default": "cn"
+      },
+      "group": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d",
+      "group_name": "Para-dice"
     },
     {
       "uuid": "01e2e74c-ad5c-5701-bf34-a37d81824883",
@@ -44472,6 +44509,25 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "b27bc614-84d8-5058-802e-a84b3717e0fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493143091612045",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "库洛西娅Celosia",
+        "default": "cn"
+      },
+      "group": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d",
+      "group_name": "Para-dice"
     },
     {
       "uuid": "440646db-64ca-5934-9f2a-e82875b37a03",
@@ -93871,6 +93927,25 @@
         "jp": "Akane",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3795bcb9-0ba8-506a-a0a3-30ec87f54663",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402110060",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赫卡特_Hecate",
+        "default": "cn"
+      },
+      "group": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d",
+      "group_name": "Para-dice"
     },
     {
       "uuid": "e36add71-6ae8-59b7-a2eb-7e62098444be",
