@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677694939
+    "timestamp": 1677694958
   },
   "vtbs": [
     {
@@ -79421,6 +79421,23 @@
       "name": {
         "extra": [],
         "cn": "笨狐狸",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "80d14f4a-47bd-504f-ab68-9d918f7394de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1545319815",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "笨蛋小姐很奇怪",
         "default": "cn"
       }
     },
