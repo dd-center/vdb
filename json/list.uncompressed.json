@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677662657
+    "timestamp": 1677662696
   },
   "vtbs": [
     {
@@ -67015,6 +67015,23 @@
       "name": {
         "extra": [],
         "cn": "澪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "139723b3-090c-5c4f-9487-241814c9fa5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493094221678918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "澪月Zero",
         "default": "cn"
       }
     },
