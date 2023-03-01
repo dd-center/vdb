@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677688082
+    "timestamp": 1677689350
   },
   "vtbs": [
     {
@@ -40888,6 +40888,23 @@
       "name": {
         "extra": [],
         "cn": "小软Maji-channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a6ba55a2-0b76-52f8-b154-2ba541aac004",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "618604683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小软睡醒了吗",
         "default": "cn"
       }
     },
