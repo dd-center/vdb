@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677662626
+    "timestamp": 1677662657
   },
   "vtbs": [
     {
@@ -38879,6 +38879,23 @@
       "name": {
         "extra": [],
         "cn": "宫宫",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d3c73548-ec81-5a2a-ba2b-7f54abd7b2b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1050518108",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫心绘梨奈",
         "default": "cn"
       }
     },
