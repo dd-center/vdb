@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677778931
+    "timestamp": 1677778901
   },
   "vtbs": [
     {
@@ -28730,6 +28730,23 @@
       "name": {
         "extra": [],
         "cn": "可洛米娅_Chromia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "27c91800-612d-51b7-b0fa-51923da74ae5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076477676002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可烙_official",
         "default": "cn"
       }
     },
@@ -63308,6 +63325,23 @@
       "name": {
         "extra": [],
         "cn": "汐水琉月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e82f54e8-0155-5dc5-af9d-f73b5456bfda",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493122277379029",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐汎_official",
         "default": "cn"
       }
     },
