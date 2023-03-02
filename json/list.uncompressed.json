@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677746946
+    "timestamp": 1677747042
   },
   "vtbs": [
     {
@@ -3630,6 +3630,24 @@
       "name": {
         "extra": [],
         "cn": "JohnkoOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3b597955-b314-527b-94c5-4588b5f84ee1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "500037010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是个小趴菜",
+        "en": "Jucy",
         "default": "cn"
       }
     },
@@ -18712,6 +18730,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "27767ce1-5776-51cc-98eb-8d27c294b5e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493090694269186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乐悦_official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5fd63995-051d-5f8b-b3d9-e5fc4d42ba3e",
