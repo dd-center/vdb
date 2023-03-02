@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677730221
+    "timestamp": 1677746946
   },
   "vtbs": [
     {
@@ -22369,6 +22369,24 @@
       "name": {
         "extra": [],
         "cn": "克拉丽莎阿瑞雅official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e18055d5-cd0b-570f-a485-49e30dfd1a78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1044308417",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克拉尔",
+        "en": "Clare",
         "default": "cn"
       }
     },
