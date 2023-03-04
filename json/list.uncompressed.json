@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894654
+    "timestamp": 1677894607
   },
   "vtbs": [
     {
@@ -11180,6 +11180,24 @@
       },
       "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98",
       "group_name": "草莓王子"
+    },
+    {
+      "uuid": "1ffea7e0-c456-564c-92e0-39055dd69064",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1124175567",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Neko贩卖机",
+        "default": "cn"
+      },
+      "group": "1ffea7e0-c456-564c-92e0-39055dd69064"
     },
     {
       "uuid": "037feda8-c790-5eed-b42e-3bcf55efdba9",
@@ -47573,6 +47591,25 @@
       }
     },
     {
+      "uuid": "eb32cc90-2494-5020-9eec-6212cb530f0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1078707962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "摩尔钠Miner",
+        "default": "cn"
+      },
+      "group": "1ffea7e0-c456-564c-92e0-39055dd69064",
+      "group_name": "neko贩卖机"
+    },
+    {
       "uuid": "d93967b9-a7a3-52fd-b374-eef70db15142",
       "type": "vtuber",
       "bot": false,
@@ -59015,7 +59052,9 @@
         "extra": [],
         "cn": "梦野Ayanna",
         "default": "cn"
-      }
+      },
+      "group": "1ffea7e0-c456-564c-92e0-39055dd69064",
+      "group_name": "neko贩卖机"
     },
     {
       "uuid": "d6b6c448-e7fa-5b2e-add4-4aa4a2cd6414",
@@ -66845,6 +66884,25 @@
       }
     },
     {
+      "uuid": "88adbfb1-af88-5453-9004-3abb498dfb85",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493110608825275",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "烛雾Brume",
+        "default": "cn"
+      },
+      "group": "1ffea7e0-c456-564c-92e0-39055dd69064",
+      "group_name": "neko贩卖机"
+    },
+    {
       "uuid": "812d6e44-0dab-5518-abc7-3ba850d5eca3",
       "type": "vtuber",
       "bot": false,
@@ -70979,6 +71037,25 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "7b0c5c94-a4b8-58cf-8a81-c78169dfc4aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475481230",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞希Roxie",
+        "default": "cn"
+      },
+      "group": "1ffea7e0-c456-564c-92e0-39055dd69064",
+      "group_name": "neko贩卖机"
     },
     {
       "uuid": "6571616b-f070-5c65-9320-5bd92bd4275b",
