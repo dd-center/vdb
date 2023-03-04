@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677895253
+    "timestamp": 1677895277
   },
   "vtbs": [
     {
@@ -14502,6 +14502,23 @@
         "extra": [],
         "jp": "ケリン",
         "en": "Kerin",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "e6dbdde3-0543-5e98-a2d3-05d519d6ca38",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493084635597352",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "ケルベロ・メイフ",
         "default": "jp"
       }
     },
