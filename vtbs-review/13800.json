@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "异刻构想OtherWorlds.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "异刻构想OtherWorlds.json",
+      "{\n  \"name\": {\n    \"cn\": \"异刻构想OtherWorlds\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1361002068\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "虞情-official-.json",
+      "{\n  \"name\": {\n    \"cn\": \"虞情-official-\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"494024888\"\n  },\n  \"group\": \"异刻构想OtherWorlds\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13800",
+    "body": "\n\n### description\n\nadd: 异刻构想OtherWorlds.json\n> <https://space.bilibili.com/1361002068>\n\nadd: 虞情-official-.json\n> <https://space.bilibili.com/494024888>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NWJ5QzVZaTc1cDZFNW9PelQzUm9aWEpYYjNKc1pITXVhbk52YmlBb01pOHRNQzhyTWlrPQpwdXQ6NWJ5QzVZaTc1cDZFNW9PelQzUm9aWEpYYjNKc1pITXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1VzhndVdJdSthZWhPYURzMDkwYUdWeVYyOXliR1J6SWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqRXpOakV3TURJd05qZ2lDaUFnZlN3S0lDQWlkSGx3WlNJNklDSm5jbTkxY0NJS2ZRPT0KcHV0OjZKbWU1b09GTFc5bVptbGphV0ZzTFM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWlabnVhRGhTMXZabVpwWTJsaGJDMGlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTkRrME1ESTBPRGc0SWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVXOGd1V0l1K2FlaE9hRHMwOTBhR1Z5VjI5eWJHUnpJZ3A5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
