@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894957
+    "timestamp": 1677895027
   },
   "vtbs": [
     {
@@ -20207,6 +20207,23 @@
       "name": {
         "extra": [],
         "cn": "仿生電子安安喵_nyanko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0269b85d-22be-5c1f-a0e3-34910c170512",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11377558",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "企大鹅儿",
         "default": "cn"
       }
     },
