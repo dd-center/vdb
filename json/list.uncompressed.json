@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894607
+    "timestamp": 1677894745
   },
   "vtbs": [
     {
@@ -38969,6 +38969,23 @@
         "extra": [],
         "jp": "小兔姬ゆるあ_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "b1ae4ed6-c2b9-59b0-91d8-f62dad394896",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3112883",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小兔森Koumori",
+        "default": "cn"
       }
     },
     {
