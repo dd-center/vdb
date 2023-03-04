@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894745
+    "timestamp": 1677894762
   },
   "vtbs": [
     {
@@ -1708,7 +1708,10 @@
         }
       ],
       "name": {
-        "extra": [],
+        "extra": [
+          "chicker",
+          "Chicker"
+        ],
         "en": "CHICKER",
         "default": "en"
       }
