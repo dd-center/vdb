@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894935
+    "timestamp": 1677894957
   },
   "vtbs": [
     {
@@ -16195,6 +16195,23 @@
       },
       "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c",
       "group_name": "kingdomknight"
+    },
+    {
+      "uuid": "adaa39dc-f5fc-5f69-a17e-d311f1d53116",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "346719363",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只晨仔",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b52b07e4-4bab-5b86-83c4-388b0d415498",
