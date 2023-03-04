@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677894762
+    "timestamp": 1677894828
   },
   "vtbs": [
     {
@@ -61684,6 +61684,23 @@
         "extra": [],
         "cn": "毒奶基",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a4665b6-f3c7-5efe-ad13-97608e4132cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "481379187",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "比良坂とわ",
+        "default": "jp"
       }
     },
     {
