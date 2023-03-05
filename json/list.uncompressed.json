@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1677961544
+    "timestamp": 1677988592
   },
   "vtbs": [
     {
@@ -81831,6 +81831,23 @@
       "name": {
         "extra": [],
         "cn": "缇缇Titi_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cb1c9103-4c7e-5839-a303-6f465d407543",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "549484731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缡迟Lichi",
         "default": "cn"
       }
     },
