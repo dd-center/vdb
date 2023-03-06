@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678124719
+    "timestamp": 1678124769
   },
   "vtbs": [
     {
@@ -25403,6 +25403,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "057d7ccd-e422-5c0b-b226-a23c62a17d78",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15202645",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "包子脸三木MIKI",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1935fb23-e580-5e65-b192-4df7dfad82cc",
@@ -63887,6 +63904,23 @@
       "name": {
         "extra": [],
         "cn": "泽叶Sawayo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d99978e5-6bdd-5cdd-a9b6-6618fc188989",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1410501943",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽因Zein",
         "default": "cn"
       }
     },
