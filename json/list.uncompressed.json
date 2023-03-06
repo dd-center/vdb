@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678124806
+    "timestamp": 1678124838
   },
   "vtbs": [
     {
@@ -96725,6 +96725,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "e880c390-45ca-5c13-8600-69a328d21efb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "179300970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿姒Aisi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "855394be-b707-5268-9e29-281238db224a",
