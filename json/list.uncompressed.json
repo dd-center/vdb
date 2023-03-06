@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678124838
+    "timestamp": 1678125157
   },
   "vtbs": [
     {
@@ -5318,18 +5318,16 @@
       "bot": false,
       "accounts": [
         {
-          "id": "UCDG8K9g6qo8gX4jCjsqUVzA",
+          "id": "432062669",
           "type": "official",
-          "platform": "youtube"
+          "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "en": "MonsterZ MATE",
-        "default": "en"
-      },
-      "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
-      "group_name": "upd8"
+        "cn": "MZM的秘密古堡",
+        "default": "cn"
+      }
     },
     {
       "uuid": "55087ebb-8f70-5410-8178-62330f9090c2",
@@ -91873,6 +91871,23 @@
       },
       "group": "7ce978ae-b348-57cd-804f-4c5fae6852bd",
       "group_name": "超V学园"
+    },
+    {
+      "uuid": "f7b5cf4a-ed4f-5f99-af17-ede60d358a4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "245830447",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "谁来给緋月ゆい建组啊",
+        "default": "cn"
+      }
     },
     {
       "uuid": "19d9e241-9cf4-5fcd-9412-435b01b0b501",
