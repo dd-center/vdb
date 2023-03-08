@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678243829
+    "timestamp": 1678243987
   },
   "vtbs": [
     {
@@ -39586,6 +39586,23 @@
       "name": {
         "extra": [],
         "cn": "小日向木白kishiro",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ba3d6772-f640-5ac1-8d52-46dc8b72c2c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2143861244",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小日和酱Hiyori",
         "default": "cn"
       }
     },
