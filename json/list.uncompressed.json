@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678381845
+    "timestamp": 1678381815
   },
   "vtbs": [
     {
@@ -71324,6 +71324,23 @@
       "group_name": "winks"
     },
     {
+      "uuid": "4800e9ec-cb32-5a68-a4a0-1a383961a242",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "584128",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑟莱徳司",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3c9d2a7e-e942-5542-9c9a-2eb27ad0c15f",
       "type": "vtuber",
       "bot": false,
@@ -84547,6 +84564,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b03b3221-be50-553c-8b76-d0c110e2dbdd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8156542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙蕾_Furei",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2cbd87e4-8096-5e03-9fb2-9ff69cbf4953",
