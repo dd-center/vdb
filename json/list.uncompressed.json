@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678381863
+    "timestamp": 1678381879
   },
   "vtbs": [
     {
@@ -27129,6 +27129,23 @@
       "name": {
         "extra": [],
         "cn": "南宫凛子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2690fd0-843a-523b-b497-854d8daee00c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13431768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南宫弈天",
         "default": "cn"
       }
     },
