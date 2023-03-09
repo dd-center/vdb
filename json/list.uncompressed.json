@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678381815
+    "timestamp": 1678381863
   },
   "vtbs": [
     {
@@ -10754,6 +10754,23 @@
       "name": {
         "extra": [],
         "cn": "ir尘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b43d8da6-4c2a-5d45-9ec5-62d62b1dbb95",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493119861459826",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ittami",
         "default": "cn"
       }
     },
