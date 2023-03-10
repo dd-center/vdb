@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678468772
+    "timestamp": 1678468914
   },
   "vtbs": [
     {
@@ -30041,6 +30041,23 @@
       }
     },
     {
+      "uuid": "2d5a652e-a1f9-5ec4-9243-b32a6e45cdaa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23358804",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咲咲SaE",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "34bced6f-e858-5d2f-af4e-7cee545073cc",
       "type": "vtuber",
       "bot": false,
@@ -42280,6 +42297,23 @@
       "name": {
         "extra": [],
         "cn": "巫贼_ikataruto",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6216660c-f61d-5c0d-bdcf-43ecb3a2ee53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461565011462803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巫里里miko",
         "default": "cn"
       }
     },
