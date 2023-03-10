@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678468586
+    "timestamp": 1678468639
   },
   "vtbs": [
     {
@@ -29457,6 +29457,23 @@
       "name": {
         "extra": [],
         "cn": "呆萌喵酱OvO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d1e6bdcf-c821-5272-928e-03ddfc05213b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "450124086",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呐呐Uni",
         "default": "cn"
       }
     },
@@ -87023,6 +87040,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "3eb66a79-9177-50b3-ad27-1668ce2f726b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1684973043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶川甜恬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "db04b6d0-98c9-5793-9027-b2cdcf67ce3b",
