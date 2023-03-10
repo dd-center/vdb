@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678468639
+    "timestamp": 1678468772
   },
   "vtbs": [
     {
@@ -27436,6 +27436,23 @@
       }
     },
     {
+      "uuid": "f4243676-6b14-5918-a4bc-91f2d05998eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "319111511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡帕多西娅Docians",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a016f644-48f8-51cf-b115-014deeae97a7",
       "type": "vtuber",
       "bot": false,
@@ -35808,6 +35825,23 @@
       "name": {
         "extra": [],
         "cn": "奈奈子_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af3d1b61-1cca-51e7-8e7d-472c2a06c699",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493125349706233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈奈才不是地雷女",
         "default": "cn"
       }
     },
