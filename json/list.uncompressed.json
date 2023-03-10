@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678479504
+    "timestamp": 1678482170
   },
   "vtbs": [
     {
@@ -84522,6 +84522,23 @@
       "name": {
         "extra": [],
         "cn": "芋泥cookie",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b202a760-403c-5dc1-b255-40c667b853b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4841709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芋艿爱喝啵啵茶",
         "default": "cn"
       }
     },
