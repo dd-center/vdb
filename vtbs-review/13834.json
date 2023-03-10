@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "tianyou.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "tianyou.json",
+      "{\n  \"name\": {\n    \"cn\": \"甜悠\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"19793760\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13834",
+    "body": "\n\n### description\n\nadd: tianyou.json\n> <https://space.bilibili.com/19793760>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6ZEdsaGJubHZkUzVxYzI5dUlDZ3hMeTB3THlzeEtRPT0KcHV0OmRHbGhibmx2ZFM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWVVbk9hQ29DSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4T1RjNU16YzJNQ0lLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
