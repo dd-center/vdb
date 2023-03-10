@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678461151
+    "timestamp": 1678468586
   },
   "vtbs": [
     {
@@ -2355,6 +2355,23 @@
         "extra": [],
         "cn": "Elena-沐沐",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "0088c471-e53d-5777-a794-f7a01f1128ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1639389144",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "ElevenOfficial_",
+        "default": "en"
       }
     },
     {
@@ -71824,6 +71841,23 @@
       "name": {
         "extra": [],
         "cn": "甜崽Babys",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a762b98-58ea-5b28-b767-26d8328f75b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19793760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜悠",
         "default": "cn"
       }
     },
