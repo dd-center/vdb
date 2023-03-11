@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678564528
+    "timestamp": 1678577629
   },
   "vtbs": [
     {
@@ -64446,6 +64446,23 @@
       "name": {
         "extra": [],
         "cn": "洲崎绫响",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef213bee-65d5-519f-9994-a8e678282cda",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32159860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洺知-故犯",
         "default": "cn"
       }
     },
