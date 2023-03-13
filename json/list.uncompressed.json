@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678741362
+    "timestamp": 1678741336
   },
   "vtbs": [
     {
@@ -23283,6 +23283,23 @@
         "extra": [],
         "jp": "六法陸六",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d02d4b43-25fe-575e-a47f-e7cdaf9f9cf9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "179571076",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "六璎six",
+        "default": "cn"
       }
     },
     {
