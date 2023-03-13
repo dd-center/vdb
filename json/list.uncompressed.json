@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678682044
+    "timestamp": 1678698571
   },
   "vtbs": [
     {
@@ -93215,6 +93215,25 @@
         "cn": "超危蓝猫可可亚",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3a84e6a0-d588-5f04-903f-2770710a5926",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11959750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "超极巨里里桉",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "group_name": "虚研学园"
     },
     {
       "uuid": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
