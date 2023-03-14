@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678770411
+    "timestamp": 1678773136
   },
   "vtbs": [
     {
@@ -32832,6 +32832,23 @@
         "jp": "しゃのあ",
         "cn": "夏诺雅",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "0e7b200f-d352-5948-976c-c7d30e3088de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12633794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏野Nana",
+        "default": "cn"
       }
     },
     {
