@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678773510
+    "timestamp": 1678773471
   },
   "vtbs": [
     {
@@ -86519,6 +86519,23 @@
       "name": {
         "extra": [],
         "cn": "苍苍苍Aoi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6d913d7c-60c7-5d49-a897-8b8d5002cb53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1088679624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苍青还在熬夜吗",
         "default": "cn"
       }
     },
