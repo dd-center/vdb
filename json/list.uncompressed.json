@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678773301
+    "timestamp": 1678773371
   },
   "vtbs": [
     {
@@ -11503,6 +11503,23 @@
         "extra": [],
         "jp": "rucaco_official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "22a06307-6e91-5f78-b15e-68801d3313b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "88120148",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ruka藏在深夜中",
+        "default": "cn"
       }
     },
     {
