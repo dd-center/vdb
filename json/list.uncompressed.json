@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678773371
+    "timestamp": 1678773407
   },
   "vtbs": [
     {
@@ -100032,6 +100032,25 @@
         "cn": "霜月栗子_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "26b90461-e5b0-59b1-8fab-7f9de4818027",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12278659",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霜树Lointa",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
+      "group_name": "chaoslive"
     },
     {
       "uuid": "e45acb16-96c1-5400-a4bd-9547e87a5d74",
