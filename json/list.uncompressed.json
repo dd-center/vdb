@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678773236
+    "timestamp": 1678773301
   },
   "vtbs": [
     {
@@ -65185,6 +65185,23 @@
       "name": {
         "extra": [],
         "cn": "涅玛_介大发了",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "55b26d05-3106-5108-8aa2-cceb1da67209",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493094557222916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涅芙",
         "default": "cn"
       }
     },
