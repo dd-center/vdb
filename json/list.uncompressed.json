@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678894626
+    "timestamp": 1678906802
   },
   "vtbs": [
     {
@@ -30773,6 +30773,23 @@
         "extra": [],
         "JP": "啵缇兔_Official",
         "default": "JP"
+      }
+    },
+    {
+      "uuid": "ee9ef02d-ccb3-5615-bfc1-7cfb90b97c28",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3638515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啾啾脑子不转啦",
+        "default": "cn"
       }
     },
     {
