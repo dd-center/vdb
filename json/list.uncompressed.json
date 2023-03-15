@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678906802
+    "timestamp": 1678906879
   },
   "vtbs": [
     {
@@ -67379,6 +67379,23 @@
       "name": {
         "extra": [],
         "cn": "無垢",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a7cc28f3-8a8a-5ac9-a700-9ecfacfb3fe8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5713480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "無月SAKI",
         "default": "cn"
       }
     },
