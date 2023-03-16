@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1678985881
+    "timestamp": 1678986412
   },
   "vtbs": [
     {
@@ -54791,6 +54791,23 @@
       "name": {
         "extra": [],
         "cn": "木之白_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "740250bd-fd73-5bb0-b808-33f97576931a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "439438614",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木几萌Moe",
         "default": "cn"
       }
     },
