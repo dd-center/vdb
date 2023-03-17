@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679039383
+    "timestamp": 1679061190
   },
   "vtbs": [
     {
@@ -31786,6 +31786,23 @@
       "name": {
         "extra": [],
         "cn": "堕天稚悠爱Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d60a8f07-b126-54dc-a04a-fd8b1a62cc59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15092274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "堡堡恰饱饱",
         "default": "cn"
       }
     },
