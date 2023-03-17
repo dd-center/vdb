@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679068280
+    "timestamp": 1679096106
   },
   "vtbs": [
     {
@@ -28535,6 +28535,24 @@
         "cn": "可妮Koni_Official",
         "en": "KonishiKoni",
         "jp": "小西こに",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "58f6a50f-f391-51a7-be3b-b7965ad30187",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "163010740",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可希",
+        "en": "Senyo",
         "default": "cn"
       }
     },
