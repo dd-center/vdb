@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679173265
+    "timestamp": 1679173282
   },
   "vtbs": [
     {
@@ -4242,6 +4242,23 @@
         "extra": [],
         "jp": "Liberate Anime Studio",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a58f98e7-7407-591f-8762-ad6f41a191ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1627747284",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Lita_Official",
+        "default": "en"
       }
     },
     {
