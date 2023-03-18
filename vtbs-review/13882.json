@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "UGO.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "UGO.json",
+      "{\n  \"name\": {\n    \"en\": \"UGO\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"514674253\"\n  },\n  \"group\": \"个人势\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13882",
+    "body": "\n\n### description\n\nadd: UGO.json\n> <https://space.bilibili.com/514674253>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6VlVkUExtcHpiMjRnS0RFdkxUQXZLekVwCnB1dDpWVWRQTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1WdUlqb2dJbFZIVHlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFNVFEyTnpReU5UTWlDaUFnZlN3S0lDQWlaM0p2ZFhBaU9pQWk1TGlxNUxxNjVZcS9JZ3A5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
