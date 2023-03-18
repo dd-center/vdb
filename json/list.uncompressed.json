@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679173198
+    "timestamp": 1679173265
   },
   "vtbs": [
     {
@@ -8780,6 +8780,23 @@
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b",
       "group_name": "狄灵计划"
+    },
+    {
+      "uuid": "1e07adea-5f58-5e50-b714-6d498564086f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "514674253",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "UGO",
+        "default": "en"
+      }
     },
     {
       "uuid": "672b6fe5-8e2a-54d9-bb9d-61175220cec1",
