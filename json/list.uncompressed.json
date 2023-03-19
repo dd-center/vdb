@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679239901
+    "timestamp": 1679244806
   },
   "vtbs": [
     {
@@ -18305,6 +18305,23 @@
       "name": {
         "extra": [],
         "cn": "丹妮想知道",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9acf6ad3-d603-5ec4-abc3-3ef8192b989b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "404564413",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丹炀",
         "default": "cn"
       }
     },
