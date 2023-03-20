@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "奈昔NeXI.json (2/-0/+2)",
+      ""
+    ],
+    [
+      "put",
+      "奈昔NeXI.json",
+      "{\n  \"name\": {\n    \"cn\": \"奈昔NeXI\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493093812734297\"\n  },\n  \"group\": \"网易电竞NeXT\"\n}"
+    ],
+    [
+      "put",
+      "网易电竞NeXT.json",
+      "{\n  \"name\": {\n    \"cn\": \"网易电竞NeXT\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"354301909\"\n  },\n  \"type\": \"group\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13896",
+    "body": "\n\n### description\n\nadd: 奈昔NeXI.json\n> <https://space.bilibili.com/3493093812734297>\n\nadd: 网易电竞NeXT.json\n> <https://space.bilibili.com/354301909>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NWFXSTVwaVVUbVZZU1M1cWMyOXVJQ2d5THkwd0x5c3lLUT09CnB1dDo1YVdJNXBpVVRtVllTUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V2xpT2FZbEU1bFdFa2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTXpRNU16QTVNemd4TWpjek5ESTVOeUlLSUNCOUxBb2dJQ0puY205MWNDSTZJQ0xudlpIbW1KUG5sTFhucTU1T1pWaFVJZ3A5CnB1dDo1NzJSNXBpVDU1UzE1NnVlVG1WWVZDNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVlOWtlYVlrK2VVdGVlcm5rNWxXRlFpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU16VTBNekF4T1RBNUlnb2dJSDBzQ2lBZ0luUjVjR1VpT2lBaVozSnZkWEFpQ24wPQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
