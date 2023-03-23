@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679550138
+    "timestamp": 1679550173
   },
   "vtbs": [
     {
@@ -17196,6 +17196,23 @@
         "extra": [],
         "cn": "三千宫魔王",
         "en": "Miya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a60bd54c-90e2-542b-9c41-5d76e499ece5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32207738",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三千院果",
         "default": "cn"
       }
     },
@@ -62039,6 +62056,23 @@
         "extra": [],
         "cn": "毒奶基",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "cfcb6baa-cb55-54ed-8a49-c8150b8db940",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1266594350",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "毒霸姬official_金山毒霸",
+        "default": "CN"
       }
     },
     {
