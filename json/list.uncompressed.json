@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679549926
+    "timestamp": 1679550001
   },
   "vtbs": [
     {
@@ -36059,6 +36059,23 @@
       "group_name": "winks"
     },
     {
+      "uuid": "1d1a873e-178d-584d-8bee-9c1d07f3081e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493093812734297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈昔NeXI",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "76071105-54c8-5e51-8c5d-1726ccdb6bc8",
       "type": "vtuber",
       "bot": false,
@@ -66246,6 +66263,23 @@
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
       "group_name": "ProjectViberglow"
+    },
+    {
+      "uuid": "171f12fd-5828-5fc1-a70e-269990cd3839",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2041997",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "源求Channe",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6edfc616-3b92-5e93-b98a-816b483eada9",
