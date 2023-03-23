@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679550189
+    "timestamp": 1679550255
   },
   "vtbs": [
     {
@@ -44540,6 +44540,25 @@
       },
       "group": "6d396a6b-d04b-5b93-808d-f05729aa721a",
       "group_name": "Gn-Gg社"
+    },
+    {
+      "uuid": "88afd295-dc0b-5f8a-95fe-1b3f4f245b88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1508979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "张禾尐-TUTU",
+        "default": "cn"
+      },
+      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
+      "group_name": "虚研学园"
     },
     {
       "uuid": "8516b0b9-0a2f-5399-897d-8a3f29119b21",
