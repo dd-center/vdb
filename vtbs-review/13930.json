@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "wudifeixue",
+      ""
+    ],
+    [
+      "title",
+      "尝试修改错误数据去恢复爬虫正常运作",
+      ""
+    ],
+    [
+      "put",
+      "歌音Utane.json",
+      "{\n  \"name\": {\n    \"cn\": \"歌音Utane\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1912415960\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "13930",
+    "body": "\n\n### description\n\nupdate: 歌音Utane.json\n> <https://space.bilibili.com/1912415960>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpkM1ZrYVdabGFYaDFaUT09CnRpdGxlOjViQ2Q2SytWNUwrdTVwUzU2WlNaNksrdjVwV3c1bzJ1NVk2NzVvR2k1YVNONTRpczZKbXI1cTJqNWJpNDZMK1E1TDJjCnB1dDo1cTJNNlorelZYUmhibVV1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWF0ak9tZnMxVjBZVzVsSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqRTVNVEkwTVRVNU5qQWlDaUFnZlFwOQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
