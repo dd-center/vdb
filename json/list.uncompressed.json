@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679917837
+    "timestamp": 1679918526
   },
   "vtbs": [
     {
@@ -71039,6 +71039,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "a7e6955a-80ca-502c-8475-5ca0861d73aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1762978463",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理理Lyrics",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f4e2429a-b8b9-5b3a-a00d-a434ab3fcae4",
