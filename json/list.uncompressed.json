@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679995801
+    "timestamp": 1679995906
   },
   "vtbs": [
     {
@@ -6282,6 +6282,33 @@
         "extra": [],
         "en": "Oasis",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "c2f282e6-6328-59c8-8e7d-5f02ae4ab377",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137448176445",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hitohira__hana",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hitohira_hana",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "Ohana_official",
+        "default": "jp"
       }
     },
     {
@@ -44501,6 +44528,23 @@
       "name": {
         "extra": [],
         "cn": "异株湖Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39201748-6c2f-5f75-bb1d-7903bec362c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15272213",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弃暗投我鸭-",
         "default": "cn"
       }
     },
