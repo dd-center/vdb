@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1679995906
+    "timestamp": 1679995989
   },
   "vtbs": [
     {
@@ -34717,6 +34717,23 @@
       }
     },
     {
+      "uuid": "ff7df7c9-d0a5-5352-80b2-67c4acdf29fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "489406226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天井一号Beta",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2f26f989-1e55-5da7-a41d-2b258bccb466",
       "type": "vtuber",
       "bot": false,
@@ -45994,6 +46011,24 @@
       "name": {
         "extra": [],
         "cn": "快樂小楊-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11a9d19d-5dab-5d43-be81-04d6355e2a43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2090208",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怀纸桐花",
+        "jp": "懐紙桐花",
         "default": "cn"
       }
     },
