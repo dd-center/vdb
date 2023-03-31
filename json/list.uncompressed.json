@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680231890
+    "timestamp": 1680231975
   },
   "vtbs": [
     {
@@ -28156,6 +28156,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "10516bfb-957d-51cb-b286-909b14ad2a76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5294134",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "友理★HAGIA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a561ec47-8b82-5a7b-93c8-e71de7dcbcf3",
