@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680240755
+    "timestamp": 1680241973
   },
   "vtbs": [
     {
@@ -99391,6 +99391,23 @@
       "name": {
         "extra": [],
         "cn": "雪糕cheese",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f70cb3c-461f-54cc-b7a5-8ff41385d944",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1264388640",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪糯米makemake",
         "default": "cn"
       }
     },
