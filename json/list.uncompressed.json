@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680520217
+    "timestamp": 1680526304
   },
   "vtbs": [
     {
@@ -95206,6 +95206,23 @@
       "name": {
         "extra": [],
         "cn": "酥壳Sarika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e5f6c6e6-a0ad-51fc-91ae-d5585317b672",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493077192804446",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酥妲Starlight",
         "default": "cn"
       }
     },
