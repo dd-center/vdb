@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680481028
+    "timestamp": 1680501837
   },
   "vtbs": [
     {
@@ -37683,6 +37683,23 @@
       "name": {
         "extra": [],
         "cn": "子或",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41ec5253-a896-5903-8dcb-f66035c7f279",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2834728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "子曦030",
         "default": "cn"
       }
     },
@@ -91734,6 +91751,23 @@
       }
     },
     {
+      "uuid": "0abcea02-3c37-597a-870d-d6ea0b44eaa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33046863",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西西channel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e2487950-c504-5a0d-b100-9298ee017b5d",
       "type": "vtuber",
       "bot": false,
@@ -97792,6 +97826,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "1a286a7f-7f02-5c8e-889f-bdd0766f6bc1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "859670",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿琼总是打瞌睡",
+        "default": "cn"
+      }
     },
     {
       "uuid": "583f6def-07dc-53a3-b0f1-ec6852843114",
@@ -105041,6 +105092,23 @@
       "name": {
         "extra": [],
         "cn": "黎耶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "50c01156-b766-53ab-9953-3eb1c1b66e1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1518468126",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎酩_Lunette",
         "default": "cn"
       }
     },
