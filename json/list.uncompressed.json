@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680531605
+    "timestamp": 1680574293
   },
   "vtbs": [
     {
@@ -75217,6 +75217,23 @@
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
       "group_name": "ENTUM"
+    },
+    {
+      "uuid": "b6954b50-cd1c-56f3-859a-af661973bdff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "410267272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "皇みかどvtuber",
+        "default": "jp"
+      }
     },
     {
       "uuid": "174f6cad-46a0-5414-8f28-dd0f77b85448",
