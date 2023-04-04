@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680574293
+    "timestamp": 1680574370
   },
   "vtbs": [
     {
@@ -25855,6 +25855,23 @@
       "name": {
         "extra": [],
         "cn": "北瀬琉织",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7cd0d298-d29b-522a-8017-463b29926571",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "337068859",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北藤Betty",
         "default": "cn"
       }
     },
