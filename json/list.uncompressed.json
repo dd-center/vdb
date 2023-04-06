@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680708789
+    "timestamp": 1680750340
   },
   "vtbs": [
     {
@@ -82281,6 +82281,25 @@
         "cn": "绯吧official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7c80d588-0943-5a60-9ff0-cfa61db37972",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116388575745",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯奈Hina",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
+      "group_name": "chaoslive"
     },
     {
       "uuid": "352ad198-38b6-54f0-8bbb-61353aae80ff",
