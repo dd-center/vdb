@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680860434
+    "timestamp": 1680918354
   },
   "vtbs": [
     {
@@ -65221,6 +65221,34 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "11e2ff5b-835a-5130-beee-3558b8295afc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493260139956262",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "umitsukishell",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "umitsukishell",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海月贝_official",
+        "jp": "海月シェル",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8fa3049e-4331-5db6-b266-a000a355af60",
