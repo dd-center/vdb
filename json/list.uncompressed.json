@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1680918354
+    "timestamp": 1680918395
   },
   "vtbs": [
     {
@@ -21699,6 +21699,23 @@
       },
       "group": "a7195ae4-4ee3-5905-a447-4c528d788666",
       "group_name": "YOLO"
+    },
+    {
+      "uuid": "beab02ad-d52b-5877-b836-eb3cc49c20e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "150467539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "余若_",
+        "default": "cn"
+      }
     },
     {
       "uuid": "06d205c5-7a02-5ee8-a935-639dfcfb0bfd",
