@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681382594
+    "timestamp": 1681412572
   },
   "vtbs": [
     {
@@ -37134,6 +37134,25 @@
         "cn": "妮特_Nito",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "cbbde341-465e-593f-aa6b-eb0fbd3b6d39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493271057730096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮莉安Lily",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
     },
     {
       "uuid": "25c538e7-a123-5491-8d6f-5147b18f7ab4",
