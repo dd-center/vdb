@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681418497
+    "timestamp": 1681421663
   },
   "vtbs": [
     {
@@ -24770,6 +24770,23 @@
       "group_name": "C-Live_Project"
     },
     {
+      "uuid": "8d7ff814-d81f-5abf-9f73-3c9d4e59d317",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493118590585505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凯莱Xella",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5c42852c-302a-5331-bbd2-4ad28ee57106",
       "type": "vtuber",
       "bot": false,
@@ -48442,6 +48459,23 @@
       "name": {
         "extra": [],
         "cn": "文艺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "537f0b76-3536-5d54-b1a7-3b05080e58be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "518227085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "文野Fenya",
         "default": "cn"
       }
     },
