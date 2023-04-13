@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681382569
+    "timestamp": 1681382594
   },
   "vtbs": [
     {
@@ -90255,6 +90255,23 @@
       },
       "group": "e85f1e0a-82b5-532f-beac-5bff83b7b905",
       "group_name": "蟠桃组"
+    },
+    {
+      "uuid": "c25030cb-9203-5ad3-8319-2fcf13a44243",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493120318638494",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕉蕉bana",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bf0d1c0b-f25a-5d50-9b14-02d84b0d5294",
