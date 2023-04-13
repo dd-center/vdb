@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681382554
+    "timestamp": 1681382569
   },
   "vtbs": [
     {
@@ -11123,6 +11123,23 @@
       "name": {
         "extra": [],
         "cn": "lvlv",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c7b659bc-7bc1-5f49-a640-4b6aa6f9383b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116629748133",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琳子夢Kila",
         "default": "cn"
       }
     },
