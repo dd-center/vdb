@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681520524
+    "timestamp": 1681520567
   },
   "vtbs": [
     {
@@ -31647,6 +31647,23 @@
       "name": {
         "extra": [],
         "cn": "四宮胡桃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c754aa02-5156-5cdf-a1e8-bfa15a7a29d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "140525084",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四方竹志",
         "default": "cn"
       }
     },
@@ -65127,6 +65144,23 @@
       },
       "group": "08e83e80-ba92-538d-b63d-fe0592e8af6c",
       "group_name": "浅海Project"
+    },
+    {
+      "uuid": "161d780f-74e4-5ade-8cab-7d8a98dec410",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "382787873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅羽啾yami",
+        "default": "cn"
+      }
     },
     {
       "uuid": "17b5ec7d-2fdc-5cf7-a80b-4bead5bb4e76",
