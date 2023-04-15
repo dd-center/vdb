@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681496682
+    "timestamp": 1681520524
   },
   "vtbs": [
     {
@@ -16799,6 +16799,23 @@
       "name": {
         "extra": [],
         "cn": "七个喵Nana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7db0b6cd-4caa-5326-b61c-0d6018b3c959",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "275713752",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七之宝",
         "default": "cn"
       }
     },
