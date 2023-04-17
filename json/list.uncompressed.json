@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681707793
+    "timestamp": 1681707820
   },
   "vtbs": [
     {
@@ -11294,6 +11294,24 @@
       },
       "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98",
       "group_name": "草莓王子"
+    },
+    {
+      "uuid": "8ebe0f20-7724-5ecb-9063-8eb75052ffbe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577258830514",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涅可",
+        "en": "Necro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1ffea7e0-c456-564c-92e0-39055dd69064",
