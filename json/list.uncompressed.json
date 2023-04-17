@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681707820
+    "timestamp": 1681707892
   },
   "vtbs": [
     {
@@ -104935,6 +104935,23 @@
       "name": {
         "extra": [],
         "cn": "鹿实Tamiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d902dbfe-071e-5780-953f-be572e8bc388",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116151598026",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿小清-",
         "default": "cn"
       }
     },
