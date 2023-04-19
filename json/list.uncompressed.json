@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681888502
+    "timestamp": 1681888693
   },
   "vtbs": [
     {
@@ -42919,6 +42919,23 @@
       "name": {
         "extra": [],
         "cn": "布鲁布鲁荣",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56b63b13-2d87-54fd-80f3-7cae2c11153c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2048498401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布鲁荣_Miya",
         "default": "cn"
       }
     },
@@ -105352,6 +105369,23 @@
       "name": {
         "extra": [],
         "cn": "麻理理_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b5027fc4-36cd-55fe-8547-559d724f0369",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104606775735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻辣突兔",
         "default": "cn"
       }
     },
