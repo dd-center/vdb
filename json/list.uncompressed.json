@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681883951
+    "timestamp": 1681888502
   },
   "vtbs": [
     {
@@ -69889,6 +69889,35 @@
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
       "group_name": "ENTUM"
+    },
+    {
+      "uuid": "ef11370a-8eb0-5a60-bcd1-5bb3bbea24ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1356089080",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "YumiNekomiya",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "NekomiyaYumi",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫宮悠米-星辰计划",
+        "default": "cn"
+      },
+      "group": "682089de-7fe5-5303-8939-37eeab633407",
+      "group_name": "WACTOR"
     },
     {
       "uuid": "d5e9cb70-bf42-5015-a9ea-f8ecf7cf3442",
