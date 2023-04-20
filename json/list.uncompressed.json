@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1681951767
+    "timestamp": 1681958325
   },
   "vtbs": [
     {
@@ -93318,6 +93318,24 @@
       "name": {
         "extra": [],
         "cn": "费克の转发组",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8224760c-229c-5cbb-9041-eeab95f535a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677736203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "费尔南",
+        "en": "Fernand",
         "default": "cn"
       }
     },
