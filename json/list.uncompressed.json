@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1682088762
+    "timestamp": 1682088831
   },
   "vtbs": [
     {
@@ -62639,6 +62639,23 @@
       "name": {
         "extra": [],
         "cn": "水无月林檎",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "09ea2639-0533-577e-9623-b7a0b2a7c8cb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1261835179",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水月雨-友希yuki",
         "default": "cn"
       }
     },
