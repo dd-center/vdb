@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1682136808
+    "timestamp": 1682216177
   },
   "vtbs": [
     {
@@ -42885,6 +42885,23 @@
       "name": {
         "extra": [],
         "cn": "布林-Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "006d98ba-3771-53c3-9250-cc92d0c5c2cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1877010830",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布蕾Nonoko",
         "default": "cn"
       }
     },
