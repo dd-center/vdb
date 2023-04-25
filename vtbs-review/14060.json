@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "Failing Root",
+      ""
+    ],
+    [
+      "title",
+      "移除已注销用户 7684135",
+      ""
+    ],
+    [
+      "delete",
+      "O1ye.json",
+      ""
+    ]
+  ],
+  "issue": {
+    "number": "14060",
+    "body": "7684135\n\n### description\n\nremove: O1ye.json\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpSbUZwYkdsdVp5QlNiMjkwCnRpdGxlOjU2ZTc2Wm1rNWJleTVyT282WlNBNTVTbzVvaTNJRGMyT0RReE16VT0KZGVsZXRlOlR6RjVaUzVxYzI5dQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
