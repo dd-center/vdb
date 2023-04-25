@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团未在运营",
+      ""
+    ],
+    [
+      "delete",
+      "Emina-Studio.json",
+      ""
+    ],
+    [
+      "put",
+      "克罗刻Kk.json",
+      "{\n  \"name\": {\n    \"cn\": \"克罗刻Kk\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2036323283\"\n  }\n}"
+    ],
+    [
+      "put",
+      "雪鹤Uki.json",
+      "{\n  \"name\": {\n    \"cn\": \"雪鹤Uki\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1749603010\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14076",
+    "body": "https://space.bilibili.com/1862657538/dynamic\n\n### description\n\nremove: Emina-Studio.json\nupdate: 克罗刻Kk.json\n> <https://space.bilibili.com/2036323283>\n\nupdate: 雪鹤Uki.json\n> <https://space.bilibili.com/1749603010>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1cHlxNVp5bzZMK1E2SkNsCmRlbGV0ZTpSVzFwYm1FdFUzUjFaR2x2TG1wemIyND0KcHV0OjVZV0w1NzJYNVlpN1Myc3Vhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V0ZpK2U5bCtXSXUwdHJJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpJd016WXpNak15T0RNaUNpQWdmUXA5CnB1dDo2WnVxNmJta1ZXdHBMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bWJxdW01cEZWcmFTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TnpRNU5qQXpNREV3SWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
