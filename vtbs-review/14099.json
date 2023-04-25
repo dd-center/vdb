@@ -1,0 +1,38 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团未在运营",
+      ""
+    ],
+    [
+      "put",
+      "HIKARI-Channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"HIKARI-Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"4365322\"\n  }\n}"
+    ],
+    [
+      "delete",
+      "POPCORNER官方.json",
+      ""
+    ],
+    [
+      "put",
+      "尼芽Niya_Channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"尼芽Niya_Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"589351234\"\n  }\n}"
+    ],
+    [
+      "put",
+      "环Tamaki_channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"环Tamaki_channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1221600493\"\n  }\n}"
+    ],
+    [
+      "put",
+      "白鹿channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"白鹿channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"488288502\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14099",
+    "body": "\n\n### description\n\nremove: POPCORNER官方.json\nupdate: HIKARI-Channel.json\n> <https://space.bilibili.com/4365322>\n\nupdate: 尼芽Niya_Channel.json\n> <https://space.bilibili.com/589351234>\n\nupdate: 环Tamaki_channel.json\n> <https://space.bilibili.com/1221600493>\n\nupdate: 白鹿channel.json\n> <https://space.bilibili.com/488288502>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1cHlxNVp5bzZMK1E2SkNsCnB1dDpTRWxMUVZKSkxVTm9ZVzV1Wld3dWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWtoSlMwRlNTUzFEYUdGdWJtVnNJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpRek5qVXpNaklpQ2lBZ2ZRcDkKZGVsZXRlOlVFOVFRMDlTVGtWUzVhNlk1cGE1TG1wemIyND0KcHV0OjViQzg2SXE5VG1sNVlWOURhR0Z1Ym1Wc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXd3ZPaUt2VTVwZVdGZlEyaGhibTVsYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFPRGt6TlRFeU16UWlDaUFnZlFwOQpwdXQ6NTQ2dlZHRnRZV3RwWDJOb1lXNXVaV3d1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWVPcjFSaGJXRnJhVjlqYUdGdWJtVnNJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFeU1qRTJNREEwT1RNaUNpQWdmUXA5CnB1dDo1NW05NmJtL1kyaGhibTVsYkM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWVadmVtNXYyTm9ZVzV1Wld3aUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlORGc0TWpnNE5UQXlJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
