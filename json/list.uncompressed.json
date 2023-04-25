@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1682340728
+    "timestamp": 1682387841
   },
   "vtbs": [
     {
@@ -76004,6 +76004,23 @@
         "extra": [],
         "cn": "真和大总攻",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "214d81a2-e760-59ba-b68b-8470b1fdfd3a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "363395719",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "真咲樱",
+        "default": "jp"
       }
     },
     {
