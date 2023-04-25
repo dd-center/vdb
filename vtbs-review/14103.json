@@ -1,0 +1,83 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团不存在",
+      ""
+    ],
+    [
+      "put",
+      "Hachime朷初.json",
+      "{\n  \"name\": {\n    \"cn\": \"Hachime朷初\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"70606554\"\n  }\n}"
+    ],
+    [
+      "put",
+      "Ryuryuu_.json",
+      "{\n  \"name\": {\n    \"cn\": \"Ryuryuu_\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"737107\"\n  }\n}"
+    ],
+    [
+      "put",
+      "久远寺刹那Setsuna.json",
+      "{\n  \"name\": {\n    \"cn\": \"久远寺刹那Setsuna\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2044905\"\n  }\n}"
+    ],
+    [
+      "delete",
+      "十万伏特SWIFT.json",
+      ""
+    ],
+    [
+      "put",
+      "厄多卡斯.json",
+      "{\n  \"name\": {\n    \"cn\": \"厄多卡斯\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"10975407\"\n  }\n}"
+    ],
+    [
+      "put",
+      "影森一輝_Kazuki.json",
+      "{\n  \"name\": {\n    \"cn\": \"影森一輝_Kazuki\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"40836269\"\n  }\n}"
+    ],
+    [
+      "put",
+      "来自外星的Vivi耶.json",
+      "{\n  \"name\": {\n    \"cn\": \"来自外星的Vivi耶\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1611629135\"\n  }\n}"
+    ],
+    [
+      "put",
+      "游淼yumia.json",
+      "{\n  \"name\": {\n    \"cn\": \"游淼yumia\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2078314102\"\n  }\n}"
+    ],
+    [
+      "put",
+      "秋珀Kohagami.json",
+      "{\n  \"name\": {\n    \"cn\": \"秋珀Kohagami\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1026591550\"\n  }\n}"
+    ],
+    [
+      "put",
+      "糖西Tansy.json",
+      "{\n  \"name\": {\n    \"cn\": \"糖西Tansy\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1439135088\"\n  }\n}"
+    ],
+    [
+      "put",
+      "聿茗.json",
+      "{\n  \"name\": {\n    \"cn\": \"聿茗_YuM\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"91659439\"\n  }\n}"
+    ],
+    [
+      "put",
+      "迦黎娅Garyia.json",
+      "{\n  \"name\": {\n    \"cn\": \"迦黎娅\",\n    \"en\": \"Garyia\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1536225244\"\n  }\n}"
+    ],
+    [
+      "put",
+      "饭饭饭酱丶.json",
+      "{\n  \"name\": {\n    \"cn\": \"饭饭饭酱丶\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1464586\"\n  }\n}"
+    ],
+    [
+      "put",
+      "麦格林_Maeglin.json",
+      "{\n  \"name\": {\n    \"cn\": \"麦格林_Maeglin\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1661917600\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14103",
+    "body": "\n\n### description\n\nremove: 十万伏特SWIFT.json\nupdate: Hachime朷初.json\n> <https://space.bilibili.com/70606554>\n\nupdate: Ryuryuu_.json\n> <https://space.bilibili.com/737107>\n\nupdate: 久远寺刹那Setsuna.json\n> <https://space.bilibili.com/2044905>\n\nupdate: 厄多卡斯.json\n> <https://space.bilibili.com/10975407>\n\nupdate: 影森一輝_Kazuki.json\n> <https://space.bilibili.com/40836269>\n\nupdate: 来自外星的Vivi耶.json\n> <https://space.bilibili.com/1611629135>\n\nupdate: 游淼yumia.json\n> <https://space.bilibili.com/2078314102>\n\nupdate: 秋珀Kohagami.json\n> <https://space.bilibili.com/1026591550>\n\nupdate: 糖西Tansy.json\n> <https://space.bilibili.com/1439135088>\n\nupdate: 聿茗.json\n> <https://space.bilibili.com/91659439>\n\nupdate: 迦黎娅Garyia.json\n> <https://space.bilibili.com/1536225244>\n\nupdate: 饭饭饭酱丶.json\n> <https://space.bilibili.com/1464586>\n\nupdate: 麦格林_Maeglin.json\n> <https://space.bilibili.com/1661917600>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1TGlONWEyWTVaeW8KcHV0OlNHRmphR2x0WmVhY3QrV0luUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0lraGhZMmhwYldYbW5MZmxpSjBpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU56QTJNRFkxTlRRaUNpQWdmUXA5CnB1dDpVbmwxY25sMWRWOHVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0lsSjVkWEo1ZFhWZklnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJamN6TnpFd055SUtJQ0I5Q24wPQpwdXQ6NUxtRjZMK2M1YSs2NVlpNTZZS2pVMlYwYzNWdVlTNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVTNWhlaS9uT1d2dXVXSXVlbUNvMU5sZEhOMWJtRWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTWpBME5Ea3dOU0lLSUNCOUNuMD0KZGVsZXRlOjVZMkI1TGlINUx5UDU0bTVVMWRKUmxRdWFuTnZiZz09CnB1dDo1WTZFNWFTYTVZMmg1cGF2TG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdPaE9Xa211V05vZWFXcnlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhNRGszTlRRd055SUtJQ0I5Q24wPQpwdXQ6NWIyeDVxT3U1TGlBNkx5ZFgwdGhlblZyYVM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVc5c2VhanJ1UzRnT2k4blY5TFlYcDFhMmtpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU5EQTRNell5TmpraUNpQWdmUXA5CnB1dDo1cDJsNkllcTVhU1c1cGlmNTVxRVZtbDJhZWlBdGk1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWFkcGVpSHF1V2tsdWFZbitlYWhGWnBkbW5vZ0xZaUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlNVFl4TVRZeU9URXpOU0lLSUNCOUNuMD0KcHV0OjVyaTQ1cmU4ZVhWdGFXRXVhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1YTR1T2EzdkhsMWJXbGhJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpJd056Z3pNVFF4TURJaUNpQWdmUXA5CnB1dDo1NmVMNTQrQVMyOW9ZV2RoYldrdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVlbmkrZVBnRXR2YUdGbllXMXBJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFd01qWTFPVEUxTlRBaUNpQWdmUXA5CnB1dDo1N09XNktXL1ZHRnVjM2t1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWV6bHVpbHYxUmhibk41SWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqRTBNemt4TXpVd09EZ2lDaUFnZlFwOQpwdXQ6NklHLzZJeVhMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aUJ2K2lNbDE5WmRVMGlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpT1RFMk5UazBNemtpQ2lBZ2ZRcDkKcHV0OjZMK202YnVPNWFpRlIyRnllV2xoTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWkvcHVtN2p1V29oU0lzQ2lBZ0lDQWlaVzRpT2lBaVIyRnllV2xoSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqRTFNell5TWpVeU5EUWlDaUFnZlFwOQpwdXQ6NmFXdDZhV3Q2YVd0NllXeDVMaTJMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bWxyZW1scmVtbHJlbUZzZVM0dGlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhORFkwTlRnMklnb2dJSDBLZlE9PQpwdXQ6NmJxbTVxQzg1cDZYWDAxaFpXZHNhVzR1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdW02cHVhZ3ZPYWVsMTlOWVdWbmJHbHVJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFMk5qRTVNVGMyTURBaUNpQWdmUXA5-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
