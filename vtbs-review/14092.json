@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "title",
+      "GALAXY群星社.json (3/-1/+0)",
+      ""
+    ],
+    [
+      "delete",
+      "GALAXY群星社.json",
+      ""
+    ],
+    [
+      "put",
+      "无名古人.json",
+      "{\n  \"name\": {\n    \"cn\": \"无名古人\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"13905358\"\n  }\n}"
+    ],
+    [
+      "put",
+      "柒零Official.json",
+      "{\n  \"name\": {\n    \"cn\": \"柒零Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1993694809\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14092",
+    "body": "\n\n### description\n\nremove: GALAXY群星社.json\nupdate: 无名古人.json\n> <https://space.bilibili.com/13905358>\n\nupdate: 柒零Official.json\n> <https://space.bilibili.com/1993694809>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6UjBGTVFWaFo1NzZrNXBpZjU2UytMbXB6YjI0Z0tETXZMVEV2S3pBcApkZWxldGU6UjBGTVFWaFo1NzZrNXBpZjU2UytMbXB6YjI0PQpwdXQ6NXBlZzVaQ041WStrNUxxNkxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVhWG9PV1FqZVdQcE9TNnVpSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TXprd05UTTFPQ0lLSUNCOUNuMD0KcHV0OjVwK1M2WnUyVDJabWFXTnBZV3d1YW5OdmJnPT06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWFma3VtYnRrOW1abWxqYVdGc0lnb2dJSDBzQ2lBZ0ltRmpZMjkxYm5Seklqb2dld29nSUNBZ0ltSnBiR2xpYVd4cElqb2dJakU1T1RNMk9UUTRNRGtpQ2lBZ2ZRcDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
