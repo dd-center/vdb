@@ -1,0 +1,58 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团未在运营",
+      ""
+    ],
+    [
+      "put",
+      "Isako_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"Isako_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1511924791\"\n  }\n}"
+    ],
+    [
+      "put",
+      "Maquia_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"Maquia_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1826989306\"\n  }\n}"
+    ],
+    [
+      "put",
+      "Roya_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"Roya_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"516543529\"\n  }\n}"
+    ],
+    [
+      "put",
+      "伊斯特尔_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"伊斯特尔_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"638827899\"\n  }\n}"
+    ],
+    [
+      "put",
+      "伍尔夫拉姆_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"伍尔夫拉姆_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"435201473\"\n  }\n}"
+    ],
+    [
+      "put",
+      "奈罗Naro_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"奈罗Naro_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1715021814\"\n  }\n}"
+    ],
+    [
+      "delete",
+      "撒币社.json",
+      ""
+    ],
+    [
+      "put",
+      "温言言_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"温言言_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"515744269\"\n  }\n}"
+    ],
+    [
+      "put",
+      "玉白_official.json",
+      "{\n  \"name\": {\n    \"cn\": \"玉白_official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1062342323\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14118",
+    "body": "\n\n### description\n\nremove: 撒币社.json\nupdate: Isako_official.json\n> <https://space.bilibili.com/1511924791>\n\nupdate: Maquia_official.json\n> <https://space.bilibili.com/1826989306>\n\nupdate: Roya_official.json\n> <https://space.bilibili.com/516543529>\n\nupdate: 伊斯特尔_official.json\n> <https://space.bilibili.com/638827899>\n\nupdate: 伍尔夫拉姆_official.json\n> <https://space.bilibili.com/435201473>\n\nupdate: 奈罗Naro_official.json\n> <https://space.bilibili.com/1715021814>\n\nupdate: 温言言_official.json\n> <https://space.bilibili.com/515744269>\n\nupdate: 玉白_official.json\n> <https://space.bilibili.com/1062342323>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1cHlxNVp5bzZMK1E2SkNsCnB1dDpTWE5oYTI5ZmIyWm1hV05wWVd3dWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWtsellXdHZYMjltWm1samFXRnNJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFMU1URTVNalEzT1RFaUNpQWdmUXA5CnB1dDpUV0Z4ZFdsaFgyOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWsxaGNYVnBZVjl2Wm1acFkybGhiQ0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJeE9ESTJPVGc1TXpBMklnb2dJSDBLZlE9PQpwdXQ6VW05NVlWOXZabVpwWTJsaGJDNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWxKdmVXRmZiMlptYVdOcFlXd2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTlRFMk5UUXpOVEk1SWdvZ0lIMEtmUT09CnB1dDo1THlLNXBhdjU0bTU1YkNVWDI5bVptbGphV0ZzTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVM4aXVhV3IrZUp1ZVd3bEY5dlptWnBZMmxoYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTJNemc0TWpjNE9Ua2lDaUFnZlFwOQpwdXQ6NUx5TjViQ1U1YVNyNW91SjVhZUdYMjltWm1samFXRnNMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1UzhqZVd3bE9Xa3ErYUxpZVduaGw5dlptWnBZMmxoYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTBNelV5TURFME56TWlDaUFnZlFwOQpwdXQ6NWFXSTU3MlhUbUZ5YjE5dlptWnBZMmxoYkM1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVdsaU9lOWwwNWhjbTlmYjJabWFXTnBZV3dpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1UY3hOVEF5TVRneE5DSUtJQ0I5Q24wPQpkZWxldGU6NXBLUzViaUI1NlMrTG1wemIyND0KcHV0OjVyaXA2S2lBNktpQVgyOW1abWxqYVdGc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVhNHFlaW9nT2lvZ0Y5dlptWnBZMmxoYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFNVFUzTkRReU5qa2lDaUFnZlFwOQpwdXQ6NTQ2SjU1bTlYMjltWm1samFXRnNMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1ZU9pZWVadlY5dlptWnBZMmxoYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhNRFl5TXpReU16SXpJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
