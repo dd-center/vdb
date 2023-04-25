@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团人数不足",
+      ""
+    ],
+    [
+      "delete",
+      "Function.json",
+      ""
+    ],
+    [
+      "put",
+      "沢気彻子.json",
+      "{\n  \"name\": {\n    \"cn\": \"沢気彻子\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"188886146\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14090",
+    "body": "\n\n### description\n\nremove: Function.json\nupdate: 沢気彻子.json\n> <https://space.bilibili.com/188886146>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1THE2NXBXdzVMaU42TGF6CmRlbGV0ZTpSblZ1WTNScGIyNHVhbk52Ymc9PQpwdXQ6NXJLaTVyQ1g1YjI3NWEyUUxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVheW91YXdsK1c5dStXdGtDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4T0RnNE9EWXhORFlpQ2lBZ2ZRcDk=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
