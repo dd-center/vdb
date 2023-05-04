@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683219484
+    "timestamp": 1683219769
   },
   "vtbs": [
     {
@@ -2994,9 +2994,7 @@
         "extra": [],
         "cn": "HIKARI-Channel",
         "default": "cn"
-      },
-      "group": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "group_name": "POPCORNER官方"
+      }
     },
     {
       "uuid": "dd91770e-4563-5da2-9d97-d0b574e7843d",
@@ -6380,25 +6378,6 @@
         "cn": "POKE-Channel",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "531552440",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "POPCORNER官方",
-        "default": "cn"
-      },
-      "group": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "group_name": "POPCORNER官方"
     },
     {
       "uuid": "2bb25003-d023-5c1e-96a0-e7167a9c9287",
@@ -41306,9 +41285,7 @@
         "extra": [],
         "cn": "尼芽Niya_Channel",
         "default": "cn"
-      },
-      "group": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "group_name": "POPCORNER官方"
+      }
     },
     {
       "uuid": "f391b6ba-6651-5497-92cd-822cb151b63c",
@@ -70549,9 +70526,7 @@
         "extra": [],
         "cn": "环Tamaki_channel",
         "default": "cn"
-      },
-      "group": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "group_name": "POPCORNER官方"
+      }
     },
     {
       "uuid": "a8341bbe-f0cf-5f95-91c7-f2df8bda53fc",
@@ -74683,9 +74658,7 @@
         "extra": [],
         "cn": "白鹿channel",
         "default": "cn"
-      },
-      "group": "5280227e-7149-51ad-a929-cc2da6852f64",
-      "group_name": "POPCORNER官方"
+      }
     },
     {
       "uuid": "2749f895-cb4d-5ffd-8e9d-425f4e616665",
