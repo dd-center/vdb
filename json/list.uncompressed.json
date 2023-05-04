@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683219264
+    "timestamp": 1683219392
   },
   "vtbs": [
     {
@@ -2866,24 +2866,6 @@
         "default": "cn"
       },
       "group": "3eec40df-4d0f-5776-b695-8ef7e1f3fa74"
-    },
-    {
-      "uuid": "36fdf231-61bf-520c-adb7-d3081d7deb6c",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1682620519",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "GALAXY群星社",
-        "default": "cn"
-      },
-      "group": "36fdf231-61bf-520c-adb7-d3081d7deb6c"
     },
     {
       "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
@@ -48538,9 +48520,7 @@
         "extra": [],
         "cn": "无名古人",
         "default": "cn"
-      },
-      "group": "36fdf231-61bf-520c-adb7-d3081d7deb6c",
-      "group_name": "GALAXY群星社"
+      }
     },
     {
       "uuid": "a58a35dd-0183-5fe1-98d2-7d6eaf659191",
@@ -56824,9 +56804,7 @@
         "extra": [],
         "cn": "柒零Official",
         "default": "cn"
-      },
-      "group": "36fdf231-61bf-520c-adb7-d3081d7deb6c",
-      "group_name": "GALAXY群星社"
+      }
     },
     {
       "uuid": "3762cbc2-7866-5288-a28b-56a85f134faf",
