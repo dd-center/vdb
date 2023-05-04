@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683217962
+    "timestamp": 1683217993
   },
   "vtbs": [
     {
@@ -2507,24 +2507,6 @@
         "en": "Enna的天堂唱诗班",
         "default": "en"
       }
-    },
-    {
-      "uuid": "3082b3e2-efad-51ed-8129-48c49e5020b4",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "696245487",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "EraVerses",
-        "default": "cn"
-      },
-      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4"
     },
     {
       "uuid": "09131e83-228e-5b50-afdf-2f65f9fd6964",
@@ -19275,9 +19257,7 @@
         "cn": "云子",
         "en": "kumoko",
         "default": "cn"
-      },
-      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4",
-      "group_name": "EraVerses"
+      }
     },
     {
       "uuid": "da796215-7bf2-5cfa-9e7d-0d91aad86a3a",
@@ -50002,9 +49982,7 @@
         "extra": [],
         "cn": "星夜Channel",
         "default": "cn"
-      },
-      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4",
-      "group_name": "EraVerses"
+      }
     },
     {
       "uuid": "c3aab694-c470-558f-8073-568c2752877b",
@@ -82625,9 +82603,7 @@
         "extra": [],
         "cn": "罗兰-official",
         "default": "cn"
-      },
-      "group": "3082b3e2-efad-51ed-8129-48c49e5020b4",
-      "group_name": "EraVerses"
+      }
     },
     {
       "uuid": "b6e5006e-349d-58d8-877f-a10c499c388a",
