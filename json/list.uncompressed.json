@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683217551
+    "timestamp": 1683217611
   },
   "vtbs": [
     {
@@ -3545,9 +3545,7 @@
         "extra": [],
         "en": "Ita",
         "default": "en"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "group_name": "SOW"
+      }
     },
     {
       "uuid": "30138858-4879-56c9-9697-030145bc39cb",
@@ -7488,9 +7486,7 @@
         "extra": [],
         "cn": "Riztech",
         "default": "cn"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "group_name": "SOW"
+      }
     },
     {
       "uuid": "16581e1e-d995-50ac-9a10-bfb1a793a52b",
@@ -7720,24 +7716,6 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
-    },
-    {
-      "uuid": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "413638423",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "SOW",
-        "default": "en"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f"
     },
     {
       "uuid": "0de140ce-51fc-5a24-9d16-841decbb349c",
@@ -53952,9 +53930,7 @@
         "extra": [],
         "cn": "月夜摸鱼",
         "default": "cn"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "group_name": "SOW"
+      }
     },
     {
       "uuid": "004144d4-e05a-59c8-a570-91fc4675dc95",
@@ -61117,9 +61093,7 @@
         "cn": "樱小夜",
         "en": "Sakura Saya",
         "default": "cn"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "group_name": "SOW"
+      }
     },
     {
       "uuid": "0abe8bef-a1b2-5d6e-b99c-2e30ca7cbc5b",
@@ -79854,9 +79828,7 @@
         "extra": [],
         "jp": "米莎ミサ",
         "default": "jp"
-      },
-      "group": "83e3c722-dd6d-5c51-a5cc-92d5ee4dcb9f",
-      "group_name": "SOW"
+      }
     },
     {
       "uuid": "77b19c83-7c03-5045-a1e3-3d88ee8c5a70",
@@ -103173,25 +103145,6 @@
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
       "group_name": "Nature"
-    },
-    {
-      "uuid": "6df100eb-8c78-5d05-819c-4185592afb4a",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1785908279",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "魔宫永恋Mamiya",
-        "default": "cn"
-      },
-      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
-      "group_name": "虚研社"
     },
     {
       "uuid": "256944e7-d158-5b1a-8a33-462a0f1611d7",
