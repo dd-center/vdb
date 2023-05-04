@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683165386
+    "timestamp": 1683216876
   },
   "vtbs": [
     {
@@ -69092,6 +69092,23 @@
       "name": {
         "extra": [],
         "cn": "凌叁woldf_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c65566e-6959-5e9b-b31a-2b425f677946",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493276812315028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐猫啊黎",
         "default": "cn"
       }
     },
