@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683219769
+    "timestamp": 1683219829
   },
   "vtbs": [
     {
@@ -2828,24 +2828,6 @@
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
       "group_name": "NIJISANJI EN"
-    },
-    {
-      "uuid": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "598663307",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Function",
-        "default": "en"
-      },
-      "group": "dbb92931-4f6d-52df-b21b-a2ad11fc251e"
     },
     {
       "uuid": "861b3d9c-ad58-56ca-a7da-3326a83bbbab",
@@ -63354,9 +63336,7 @@
         "extra": [],
         "cn": "沢気彻子",
         "default": "cn"
-      },
-      "group": "dbb92931-4f6d-52df-b21b-a2ad11fc251e",
-      "group_name": "Function"
+      }
     },
     {
       "uuid": "38de19c5-5885-5e76-a3d7-3472b84ff3b0",
