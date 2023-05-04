@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683217133
+    "timestamp": 1683217151
   },
   "vtbs": [
     {
@@ -101882,6 +101882,23 @@
       "name": {
         "extra": [],
         "cn": "风吟蝶_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cba8661e-b6d3-53e8-aa5f-e4f8dd04af8e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1625699469",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风太_Fuuta",
         "default": "cn"
       }
     },
