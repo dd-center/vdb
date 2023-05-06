@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683374062
+    "timestamp": 1683374077
   },
   "vtbs": [
     {
@@ -28041,6 +28041,23 @@
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364",
       "group_name": "chucolala"
+    },
+    {
+      "uuid": "9dddf3ff-5d43-586c-a169-6d946115b6da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493141864778336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "古月Tsuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "618a0705-63a8-5280-9fa0-c7e8a6389e54",
