@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683385675
+    "timestamp": 1683385747
   },
   "vtbs": [
     {
@@ -3553,24 +3553,6 @@
         "cn": "KONO零牙哒",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "50710770",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "KOT",
-        "default": "en"
-      },
-      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae"
     },
     {
       "uuid": "ce8e45a7-b744-5af2-8787-5a22aa60c00f",
@@ -53088,9 +53070,7 @@
         "cn": "曦娜",
         "en": "Soina",
         "default": "cn"
-      },
-      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
-      "group_name": "KOT"
+      }
     },
     {
       "uuid": "e96f8a8b-1722-5454-8713-f80599e0f1de",
@@ -71374,9 +71354,7 @@
         "cn": "瑞肯",
         "en": "RayKen",
         "default": "cn"
-      },
-      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
-      "group_name": "KOT"
+      }
     },
     {
       "uuid": "d4dd97e0-0a15-573b-a182-b212f9844793",
@@ -105569,9 +105547,7 @@
         "cn": "齐绫",
         "en": "KylinMoriaty",
         "default": "cn"
-      },
-      "group": "87cd9c30-0be8-5963-ba28-e602f2a06bae",
-      "group_name": "KOT"
+      }
     },
     {
       "uuid": "158566c7-ea90-5c97-a6c8-6f915c0d630e",
