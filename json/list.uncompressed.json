@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683373926
+    "timestamp": 1683373958
   },
   "vtbs": [
     {
@@ -30270,6 +30270,23 @@
       "name": {
         "extra": [],
         "cn": "唐茶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "833ca904-8f10-5fbe-9f4d-ca25d5c8218d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "437990",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐茶Karacha",
         "default": "cn"
       }
     },
@@ -99668,6 +99685,25 @@
         "cn": "雾枝白茶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9502f8c8-4641-5140-8996-1df35badb30b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078891497932",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾氧Uo",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
     },
     {
       "uuid": "d0c71938-988c-5b6b-811e-32bc224dc0dd",
