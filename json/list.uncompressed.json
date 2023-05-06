@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683389925
+    "timestamp": 1683389941
   },
   "vtbs": [
     {
@@ -1973,24 +1973,6 @@
         "cn": "DJGun",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "64d3ad41-44fa-5124-8134-c06087f69f5f",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "692258132",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "DUSTLIVE微尘计划",
-        "default": "cn"
-      },
-      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f"
     },
     {
       "uuid": "23a777bf-5a40-5d14-a2dd-53067f71a249",
@@ -31944,25 +31926,6 @@
       "group_name": "Croven教团"
     },
     {
-      "uuid": "92594607-8f7e-5bda-9990-69aa25f519ff",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "50729578",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "墨辰星official",
-        "default": "cn"
-      },
-      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f",
-      "group_name": "DUSTLIVE微尘计划"
-    },
-    {
       "uuid": "ec675da9-0784-5d3e-b742-8d2765074013",
       "type": "vtuber",
       "bot": false,
@@ -59505,25 +59468,6 @@
       }
     },
     {
-      "uuid": "f44c3d7e-a11b-5e5c-88a5-d31ec3b66a39",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "4290020",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "棠瑭Hygge",
-        "default": "cn"
-      },
-      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f",
-      "group_name": "DUSTLIVE微尘计划"
-    },
-    {
       "uuid": "ef08c646-39d8-596c-a180-b21fd68a47fd",
       "type": "vtuber",
       "bot": false,
@@ -81187,9 +81131,7 @@
         "extra": [],
         "cn": "纸箱宅_channel",
         "default": "cn"
-      },
-      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f",
-      "group_name": "DUSTLIVE微尘计划"
+      }
     },
     {
       "uuid": "58c57fc9-007c-53ab-9270-ac2d4214fdef",
@@ -95640,9 +95582,7 @@
         "extra": [],
         "cn": "钥萌菌Acher",
         "default": "cn"
-      },
-      "group": "64d3ad41-44fa-5124-8134-c06087f69f5f",
-      "group_name": "DUSTLIVE微尘计划"
+      }
     },
     {
       "uuid": "99ca6f20-2b0d-507a-9b0f-2c2d04b9b0a8",
