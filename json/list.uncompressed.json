@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683385747
+    "timestamp": 1683385762
   },
   "vtbs": [
     {
@@ -3476,9 +3476,7 @@
         "extra": [],
         "cn": "Juno_阿尔卡特",
         "default": "cn"
-      },
-      "group": "779b8800-af13-58ba-a384-bebeed4428c6",
-      "group_name": "辉夙星人类文明博物馆"
+      }
     },
     {
       "uuid": "4a40ea6a-a854-5ba4-aa64-6e3388f3b7b9",
@@ -32245,9 +32243,7 @@
         "extra": [],
         "cn": "夏怿妉Channel",
         "default": "cn"
-      },
-      "group": "779b8800-af13-58ba-a384-bebeed4428c6",
-      "group_name": "辉夙星人类文明博物馆"
+      }
     },
     {
       "uuid": "c8b5bee7-5fe3-5bdc-ac96-756db409332b",
@@ -93769,24 +93765,6 @@
         "cn": "轻鸢白羽",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "779b8800-af13-58ba-a384-bebeed4428c6",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "7663811",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "辉夙星人类文明博物馆",
-        "default": "cn"
-      },
-      "group": "779b8800-af13-58ba-a384-bebeed4428c6"
     },
     {
       "uuid": "199fa2ff-e1d8-5ea0-81c0-e127fe8b79c5",
