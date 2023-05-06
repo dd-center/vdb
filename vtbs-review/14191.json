@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "title",
+      "社团无成员",
+      ""
+    ],
+    [
+      "put",
+      "Juno_阿尔卡特.json",
+      "{\n  \"name\": {\n    \"cn\": \"Juno_阿尔卡特\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"24990697\"\n  }\n}"
+    ],
+    [
+      "put",
+      "夏怿妉Channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"夏怿妉Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"487247653\"\n  }\n}"
+    ],
+    [
+      "delete",
+      "辉夙星人类文明博物馆.json",
+      ""
+    ]
+  ],
+  "issue": {
+    "number": "14191",
+    "body": "一名个人，另一名停播\n\n### description\n\nremove: 辉夙星人类文明博物馆.json\nupdate: Juno_阿尔卡特.json\n> <https://space.bilibili.com/24990697>\n\nupdate: 夏怿妉Channel.json\n> <https://space.bilibili.com/487247653>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZTKzVadWk1cGVnNW9pUTVaR1kKcHV0OlNuVnViMS9wbUwvbHNKVGxqYUhuaWJrdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWtwMWJtOWY2WmkvNWJDVTVZMmg1NG01SWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqSTBPVGt3TmprM0lnb2dJSDBLZlE9PQpwdXQ6NWFTUDVvQy81YWFKUTJoaGJtNWxiQzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V2tqK2FBditXbWlVTm9ZVzV1Wld3aUNpQWdmU3dLSUNBaVlXTmpiM1Z1ZEhNaU9pQjdDaUFnSUNBaVltbHNhV0pwYkdraU9pQWlORGczTWpRM05qVXpJZ29nSUgwS2ZRPT0KZGVsZXRlOjZMNko1YVNaNXBpZjVMcTY1N0c3NXBhSDVwaU81WTJhNTRtcDZhYUdMbXB6YjI0PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
