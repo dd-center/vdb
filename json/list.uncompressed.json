@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683451759
+    "timestamp": 1683452257
   },
   "vtbs": [
     {
@@ -46100,23 +46100,6 @@
       }
     },
     {
-      "uuid": "0e5bcb50-da9a-50c3-a08e-d410606479c1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2046790804",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "悠甜奈子",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "8911a2bf-81c5-5ec4-9176-624fd44f5d23",
       "type": "vtuber",
       "bot": false,
@@ -60846,6 +60829,23 @@
       "name": {
         "extra": [],
         "cn": "樱饼饼Sakura",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af9382c5-545e-56cc-8f26-8bb5cbfde094",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37913961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樹枳丶",
         "default": "cn"
       }
     },
