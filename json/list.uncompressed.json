@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683522623
+    "timestamp": 1683529434
   },
   "vtbs": [
     {
@@ -29244,6 +29244,23 @@
       },
       "group": "8ab1de5c-4685-579a-8a96-b85c83636906",
       "group_name": "MeUmyShelf"
+    },
+    {
+      "uuid": "e3410c4c-ac5d-5857-8e98-3fa6d7856d79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493260825725825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呜绒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ec8b0997-ac7b-5e20-aa37-59df21151e94",
@@ -61977,6 +61994,23 @@
       "name": {
         "extra": [],
         "cn": "水無月名夜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e81c3aa-8e12-5d73-a493-c4ac14902798",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2387571",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水無濑烛烛",
         "default": "cn"
       }
     },
@@ -104448,6 +104482,23 @@
       "name": {
         "extra": [],
         "cn": "黎之恒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a7838f19-083d-58a3-b8eb-31c973e18f70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493258091039121",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎夜OuO",
         "default": "cn"
       }
     },
