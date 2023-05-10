@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683721730
+    "timestamp": 1683726196
   },
   "vtbs": [
     {
@@ -29575,6 +29575,23 @@
       }
     },
     {
+      "uuid": "3a7c951f-5cf3-5a91-bdda-938cf4f04499",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1483180353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咕奈guna",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0dbaac1f-abcb-5fd3-aae7-df2a3a34854e",
       "type": "vtuber",
       "bot": false,
@@ -40709,6 +40726,24 @@
       },
       "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51",
       "group_name": "P.K.S"
+    },
+    {
+      "uuid": "47b2c514-124f-5681-9085-a346be72e782",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "619487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "小鳥遊凪",
+        "en": "Nagi",
+        "default": "jp"
+      }
     },
     {
       "uuid": "7af5bf51-14b5-517f-9b4c-5b32ef1edf87",
@@ -73040,6 +73075,23 @@
         "extra": [],
         "JP": "白川佳奈",
         "default": "JP"
+      }
+    },
+    {
+      "uuid": "d288f58f-edfc-56b0-9ec5-5a369cb95fbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34086425",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白幼甜儿",
+        "default": "cn"
       }
     },
     {
