@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683817783
+    "timestamp": 1683817806
   },
   "vtbs": [
     {
@@ -7953,6 +7953,23 @@
       "name": {
         "extra": [],
         "cn": "Snozaki筱崎",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e3352d5-916c-5f66-b6fd-5c46e53b0f94",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137158768803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "絨_Antle",
         "default": "cn"
       }
     },
