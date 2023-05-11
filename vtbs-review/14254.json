@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "麻呜.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "麻呜.json",
+      "{\n  \"name\": {\n    \"cn\": \"麻呜Meow\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493075871598759\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14254",
+    "body": "\n\n### description\n\nadd: 麻呜.json\n> <https://space.bilibili.com/3493075871598759>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NmJxNzVaR2NMbXB6YjI0Z0tERXZMVEF2S3pFcApwdXQ6NmJxNzVaR2NMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bTZ1K1dSbkUxbGIzY2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTXpRNU16QTNOVGczTVRVNU9EYzFPU0lLSUNCOUNuMD0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
