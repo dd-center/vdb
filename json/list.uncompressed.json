@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683817833
+    "timestamp": 1683817874
   },
   "vtbs": [
     {
@@ -586,6 +586,23 @@
       "name": {
         "extra": [],
         "cn": "AI气象虚拟主播小麦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c2d36d6a-6cc1-55b4-95bf-31c81aa19076",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144389749651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AI泥泥",
         "default": "cn"
       }
     },
