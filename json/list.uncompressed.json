@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683895127
+    "timestamp": 1683903143
   },
   "vtbs": [
     {
@@ -25574,6 +25574,23 @@
       "name": {
         "extra": [],
         "cn": "十字Crossじゅうじ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "80817305-835e-57ce-b163-b68506471b21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1491996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十字架与三棱锥",
         "default": "cn"
       }
     },
