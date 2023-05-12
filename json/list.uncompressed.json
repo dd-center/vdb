@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683907122
+    "timestamp": 1683907139
   },
   "vtbs": [
     {
@@ -52290,6 +52290,23 @@
       }
     },
     {
+      "uuid": "7a557892-4cc8-5a38-832f-56cf11cd4b88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4224279",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是卷哩",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "439f2507-8609-5c43-b29f-06985228e33f",
       "type": "vtuber",
       "bot": false,
@@ -61569,23 +61586,6 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
-    },
-    {
-      "uuid": "d8f2be62-1df0-51c7-8d1b-913a7f628d78",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1912415960",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "歌音Utane",
-        "default": "cn"
-      }
     },
     {
       "uuid": "6863f4c9-b8e8-5ea8-b1ed-6b9d5c7e8409",
