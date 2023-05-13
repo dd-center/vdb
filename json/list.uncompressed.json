@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1683923848
+    "timestamp": 1683947601
   },
   "vtbs": [
     {
@@ -8942,7 +8942,9 @@
         "extra": [],
         "en": "Vespero",
         "default": "en"
-      }
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "faf257d3-81df-564d-b5ae-2d9fd694675c",
@@ -29518,23 +29520,6 @@
       }
     },
     {
-      "uuid": "ec8b0997-ac7b-5e20-aa37-59df21151e94",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "702607661",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "呜黎子uriko",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "845bcf61-60f5-5afc-9468-51f7267d4034",
       "type": "vtuber",
       "bot": false,
@@ -32512,7 +32497,9 @@
         "extra": [],
         "cn": "夏延Sean",
         "default": "cn"
-      }
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "90528643-33d9-57e1-866d-84368ccaebfc",
@@ -35484,6 +35471,25 @@
         "jp": "天羽天那_Official",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "7e3c8be1-80d9-5d67-85b1-23aece137e8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1642965774",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天船Alpha",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "3dd75e95-daa7-5491-b896-974545580550",
@@ -41397,8 +41403,8 @@
         "cn": "尤菲黎娅_Eupheria",
         "default": "cn"
       },
-      "group": "6203f877-a1f8-5c61-99bb-ed20fd02ffef",
-      "group_name": "No.6 Channel"
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "6ada5b08-7363-575f-8ef9-5e7368d0a95f",
@@ -43098,6 +43104,25 @@
         "en": "Chiot",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9ab9ae22-cd41-510b-830e-1180a313bcde",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1024165874",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希欧_Theo",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "a49a28f6-82d4-58bc-a533-efb4c391c5ac",
@@ -64217,6 +64242,25 @@
       }
     },
     {
+      "uuid": "6b7b63dd-25f4-51f6-b5c9-19e489232d3a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1355322618",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波奈奈bunny",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
+    },
+    {
       "uuid": "8141ee1e-9d81-584a-9c1d-cc8246b65679",
       "type": "vtuber",
       "bot": false,
@@ -71768,6 +71812,23 @@
       "group_name": "鸽鹉live"
     },
     {
+      "uuid": "742c0fd3-941e-5249-a37e-1c4f28952d7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "580782",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞兹Ritz",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "532b2e69-1742-533d-b203-c2a57c1f39b6",
       "type": "vtuber",
       "bot": false,
@@ -75121,6 +75182,25 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
+    },
+    {
+      "uuid": "383a99cd-1354-51b1-bcfe-948942b3e471",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15007932",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百斯拉_Hundreds",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "d1ece41c-0365-55bc-a9d6-6d650da647aa",
@@ -88863,6 +88943,25 @@
       }
     },
     {
+      "uuid": "1d8fc28b-4445-528c-a894-41bbbc3a3604",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270933997724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲娅faye",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
+    },
+    {
       "uuid": "c5bc2999-2d40-5df9-a77f-6cf5744fe035",
       "type": "vtuber",
       "bot": false,
@@ -96684,6 +96783,25 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "e62519c7-654d-5baa-bd23-abf822b05322",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1948592457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "银酥s",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "d11ce1f0-6bc7-58d0-ba33-ac2ffbe221fa",
@@ -105341,6 +105459,25 @@
         "cn": "黑崎暗official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "000328a1-e02d-5f3a-9657-34db3a1c43a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "702607661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑川礼音Reion",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "2490d139-f773-5a2a-969a-ffe3da394d7d",
