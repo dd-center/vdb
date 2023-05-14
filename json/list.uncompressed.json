@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1684065259
+    "timestamp": 1684067982
   },
   "vtbs": [
     {
@@ -58291,6 +58291,23 @@
         "extra": [],
         "jp": "栄野ゆめ曖",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "58f7316d-b28a-596c-b11b-799b3a299ae7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493277313534134",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芝士小狼",
+        "default": "cn"
       }
     },
     {
