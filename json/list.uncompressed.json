@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1684088536
+    "timestamp": 1684116695
   },
   "vtbs": [
     {
@@ -93117,6 +93117,23 @@
       "name": {
         "extra": [],
         "cn": "许萧瑶是北极熊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "83778787-fd2c-54a5-8d82-309feeb23be5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1640145306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "许诺MoMo",
         "default": "cn"
       }
     },
