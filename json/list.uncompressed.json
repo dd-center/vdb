@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1684295573
+    "timestamp": 1684319372
   },
   "vtbs": [
     {
@@ -25753,6 +25753,23 @@
       "name": {
         "extra": [],
         "cn": "北岛砂糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac21d7c6-197c-5af9-a8d8-bf73153b3964",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4666455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北川铃Rin",
         "default": "cn"
       }
     },
