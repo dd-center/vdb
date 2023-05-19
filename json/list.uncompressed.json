@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1684390143
+    "timestamp": 1684471592
   },
   "vtbs": [
     {
@@ -94138,6 +94138,23 @@
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "group_name": "コーロンサス学園"
+    },
+    {
+      "uuid": "bc2137e8-19b3-512e-9046-0be18705925f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1336581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤夜幽",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fe54d339-04ad-5fd2-a42c-9b9573f1e3ee",
