@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1684625021
+    "timestamp": 1684625094
   },
   "vtbs": [
     {
@@ -63835,6 +63835,23 @@
       "name": {
         "extra": [],
         "cn": "汤圆四水",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "819afb0f-2d2b-53a4-98ce-cafdb3a1c630",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1833290718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汤音mayume",
         "default": "cn"
       }
     },
