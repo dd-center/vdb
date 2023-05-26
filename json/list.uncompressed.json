@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685102638
+    "timestamp": 1685112482
   },
   "vtbs": [
     {
@@ -76855,6 +76855,23 @@
       "name": {
         "extra": [],
         "cn": "直归子Chokkiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e7a857c4-b25a-583d-b419-eda6f3f4df0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144620435623",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "相星澪_Channel",
         "default": "cn"
       }
     },
