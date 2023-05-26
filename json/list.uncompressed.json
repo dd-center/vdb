@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685095112
+    "timestamp": 1685101555
   },
   "vtbs": [
     {
@@ -40991,6 +40991,23 @@
       }
     },
     {
+      "uuid": "c1c19485-21ae-5326-8c70-8bd55cd064ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "471688299",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小米童鞋噢OOo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c08eeefd-2c62-55b3-a946-c7eb479d960f",
       "type": "vtuber",
       "bot": false,
@@ -60219,6 +60236,23 @@
       },
       "group": "fb2c595a-af26-52f1-b433-bf339409d3d4",
       "group_name": "无限殿_Infinite"
+    },
+    {
+      "uuid": "55dac8bd-c6bf-5ced-876a-129efab8cdc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1263584531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅莉Meri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c7e23134-69b1-5fec-8a5c-a131b5ee4151",
