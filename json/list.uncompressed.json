@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685352151
+    "timestamp": 1685352225
   },
   "vtbs": [
     {
@@ -65895,6 +65895,25 @@
         "cn": "流明汐奈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3f549006-e585-5191-8a49-d2f3c5fa146b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293266570035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "流浪小满",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
+      "group_name": "虚研社"
     },
     {
       "uuid": "78525596-7b38-5ca5-9d3d-fd4abe37b1af",
