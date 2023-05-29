@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685377003
+    "timestamp": 1685378608
   },
   "vtbs": [
     {
@@ -98597,6 +98597,23 @@
         "extra": [],
         "cn": "长安唐棠",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "7678dda7-6d74-58fd-9332-baff8673a4fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1242456361",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "长月春雪",
+        "default": "CN"
       }
     },
     {
