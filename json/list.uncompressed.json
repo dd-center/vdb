@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685615253
+    "timestamp": 1685615372
   },
   "vtbs": [
     {
@@ -38795,7 +38795,9 @@
         "extra": [],
         "cn": "安尔珀_Ambrum",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "4bd947cf-4f40-54d4-bd84-2671ea5fed2c",
@@ -50628,6 +50630,24 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1279470566",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星云社_CosmicNebula",
+        "default": "cn"
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d"
     },
     {
       "uuid": "6f4f2229-9505-567f-b948-cb96809397e4",
@@ -64693,6 +64713,25 @@
       }
     },
     {
+      "uuid": "5b6a37f4-fec4-5259-be40-67e62e855c9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1939568047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沧海月萌",
+        "default": "cn"
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
+    },
+    {
       "uuid": "359a5bb8-1daa-5ebb-8fbd-99ed65aae2fc",
       "type": "vtuber",
       "bot": false,
@@ -68032,7 +68071,9 @@
         "extra": [],
         "cn": "激辣味噌",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "36d691d2-15df-5c2d-9392-38a74c836373",
@@ -72130,7 +72171,9 @@
         "extra": [],
         "cn": "珂菈_Konrada",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "6ef3dac6-7998-5c0e-8351-c015fa0b8b5b",
@@ -82973,7 +83016,9 @@
         "extra": [],
         "cn": "纱纹_Rhodonite",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "26d0a698-f420-58fa-bd7c-9bebaa248bb3",
@@ -88541,7 +88586,9 @@
         "extra": [],
         "cn": "苏萤_Fluorite",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "0f08e0df-8c9e-5d70-b547-d3ef0ece701f",
@@ -90513,7 +90560,9 @@
         "extra": [],
         "cn": "菲莉丝_Phyllis",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "071f2648-f257-5d0f-9e1d-1c9f9946386b",
@@ -107127,7 +107176,9 @@
         "extra": [],
         "cn": "黎酩_Lunette",
         "default": "cn"
-      }
+      },
+      "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
+      "group_name": "星云社_CosmicNebula"
     },
     {
       "uuid": "340dade3-3145-57f2-90d6-efdd6727c8d5",
