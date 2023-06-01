@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1685615538
+    "timestamp": 1685615502
   },
   "vtbs": [
     {
@@ -26165,6 +26165,23 @@
         "extra": [],
         "jp": "千代家ぷりり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "363fd2ed-436e-5d7c-85d1-83e36d88ffaa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16236535",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千军一笑",
+        "default": "cn"
       }
     },
     {
