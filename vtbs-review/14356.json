@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "小早雪.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "小早雪.json",
+      "{\n  \"name\": {\n    \"cn\": \"小早雪\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493093613504814\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14356",
+    "body": "\n\n### description\n\nadd: 小早雪.json\n> <https://space.bilibili.com/3493093613504814>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NWJDUDVwZXA2WnVxTG1wemIyNGdLREV2TFRBdkt6RXAKcHV0OjViQ1A1cGVwNlp1cUxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXd2orYVhxZW1icWlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXpORGt6TURrek5qRXpOVEEwT0RFMElnb2dJSDBLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
