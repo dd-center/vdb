@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686403861
+    "timestamp": 1686417978
   },
   "vtbs": [
     {
@@ -26165,6 +26165,23 @@
         "extra": [],
         "jp": "千代家ぷりり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "8c55c509-d066-5f55-b216-78efce0c0a44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6841063",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千代澪Channel",
+        "default": "cn"
       }
     },
     {
