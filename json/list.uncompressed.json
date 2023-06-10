@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686333555
+    "timestamp": 1686373176
   },
   "vtbs": [
     {
@@ -68982,6 +68982,23 @@
         "extra": [],
         "cn": "無月SAKI",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "b054118d-982d-5093-835c-ac0ea03fbd09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115730069946",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "焰灵莓炉Channel",
+        "default": "jp"
       }
     },
     {
