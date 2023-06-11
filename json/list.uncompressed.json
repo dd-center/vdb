@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686476258
+    "timestamp": 1686479610
   },
   "vtbs": [
     {
@@ -37714,6 +37714,23 @@
       },
       "group": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
       "group_name": "NoriPro"
+    },
+    {
+      "uuid": "a50f4ffb-ad96-578c-98ed-1a587e017f3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "390772810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬夜Friyal",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4a4232b1-bef0-5f48-869b-e8d13f233527",
