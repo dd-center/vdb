@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686479610
+    "timestamp": 1686497555
   },
   "vtbs": [
     {
@@ -59633,6 +59633,23 @@
         ],
         "CN": "桃桃酸酪冰",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "89562f72-2b17-553b-86ed-74a66e6a683e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494349782387138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃汐笑兮兮",
+        "default": "cn"
       }
     },
     {
