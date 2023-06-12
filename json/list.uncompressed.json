@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686573893
+    "timestamp": 1686575031
   },
   "vtbs": [
     {
@@ -55374,6 +55374,23 @@
       }
     },
     {
+      "uuid": "ced0f999-e71b-5424-8e4e-cf55d84c1236",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493298142448397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见里雪yuki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bd2fa2a6-6175-5dbc-a52d-23356b7363e7",
       "type": "vtuber",
       "bot": false,
@@ -81114,6 +81131,23 @@
       "name": {
         "extra": [],
         "cn": "笨蛋小姐很奇怪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "638f2b77-52f8-5100-a511-d5c0a0b5fcfb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493119043570098",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "第五灌灌",
         "default": "cn"
       }
     },
