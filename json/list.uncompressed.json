@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686564963
+    "timestamp": 1686567388
   },
   "vtbs": [
     {
@@ -77727,6 +77727,23 @@
         "jp": "真綿アルマ",
         "cn": "真綿真珠星",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "e4562c1b-98fd-560b-9996-1e254fc308c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493296324217792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真红之蝶kurenai",
+        "default": "cn"
       }
     },
     {
