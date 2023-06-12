@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686564879
+    "timestamp": 1686564963
   },
   "vtbs": [
     {
@@ -16683,6 +16683,34 @@
       "name": {
         "extra": [],
         "cn": "七宫天空Aria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ab81584-fa13-5ee8-a8ff-10eada328f3e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1742561268",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCIaQ9Tdza1dL4-xNSmsh-pg",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "temari716",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七彩手鞠",
+        "jp": "七彩てまり",
         "default": "cn"
       }
     },
@@ -50325,6 +50353,34 @@
       }
     },
     {
+      "uuid": "bfcf74d0-def5-5e48-ac94-7c1d05af831d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2004498331",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "meidoshirone",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "shironech",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明堂白音",
+        "jp": "明堂しろね",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5f751b47-6bda-5502-a687-3117c23e2e9d",
       "type": "vtuber",
       "bot": false,
@@ -59843,6 +59899,23 @@
       "name": {
         "extra": [],
         "cn": "桃织",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41e1ac7b-e2f0-5768-90cc-c70eb9781b25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506171903",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃葉Momoha",
         "default": "cn"
       }
     },
@@ -73693,6 +73766,34 @@
       }
     },
     {
+      "uuid": "8fdbf881-9ecf-5f33-9eda-81f2fb2544ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1625693678",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ui_amai",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "amaiui",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甘井羽衣",
+        "jp": "甘井うい",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "17bc6bb0-fe2c-5b9e-9429-cf97d26c0ab1",
       "type": "vtuber",
       "bot": false,
@@ -75584,6 +75685,34 @@
       "name": {
         "extra": [],
         "cn": "白石喵酱Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9da2cb2e-70a9-5f0c-9de4-e83aac67c0af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1874073616",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "tsunach",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "shirasunatsuna",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白砂瓷奈",
+        "jp": "白砂つな",
         "default": "cn"
       }
     },
