@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686567388
+    "timestamp": 1686567455
   },
   "vtbs": [
     {
@@ -25101,6 +25101,25 @@
       }
     },
     {
+      "uuid": "53de7bb1-e4eb-5f09-8143-cc9b88307874",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1711724633",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初濑Hatsuse",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "4b6fe3a0-3ead-5e1e-b0f2-d4d5c7090199",
       "type": "vtuber",
       "bot": false,
@@ -30795,6 +30814,25 @@
       },
       "group": "7d17a9d4-bbba-5a8b-b76a-5262cda7d3ae",
       "group_name": "哎咿多工作室"
+    },
+    {
+      "uuid": "be19bd27-9484-5625-8f2b-315520cad958",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1567394869",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哎小呜Awu",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "c1706ab8-69ae-5502-8336-fe4238f0e4d7",
@@ -56411,6 +56449,25 @@
       }
     },
     {
+      "uuid": "89ecda70-56dd-51fe-b416-efe2b65b43a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1296515170",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未知夜Michiya",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "eebb8b6c-0656-5d6f-a9b0-fbb00bd3f5cd",
       "type": "vtuber",
       "bot": false,
@@ -67280,6 +67337,23 @@
       "name": {
         "extra": [],
         "cn": "清梦_Kira",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "33c0caf2-d5c1-54c6-94ca-2dc4be51ba25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13724010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清水呱子",
         "default": "cn"
       }
     },
@@ -101215,6 +101289,25 @@
         "jp": "雨森小夜",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "46c46ae2-9dc2-53e4-bf29-e5255f97aca2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1932862336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨纪_Ameki",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "979e6d47-fafd-55e1-a327-93efd03ba201",
