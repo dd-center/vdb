@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686548224
+    "timestamp": 1686564879
   },
   "vtbs": [
     {
@@ -78260,6 +78260,23 @@
       "name": {
         "extra": [],
         "cn": "砂那Suna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b93a1390-a37a-5585-8870-7fd628faf5d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "250087329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "碎岁_cheers",
         "default": "cn"
       }
     },
