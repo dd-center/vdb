@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686585881
+    "timestamp": 1686634880
   },
   "vtbs": [
     {
@@ -69559,6 +69559,23 @@
       }
     },
     {
+      "uuid": "78cfb3b8-e40e-5c7a-b471-4140481b2508",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7978242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爆爆坚果",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5a9c1a08-34d8-5836-b58f-6d8146bfe74c",
       "type": "vtuber",
       "bot": false,
@@ -77650,6 +77667,23 @@
         "extra": [],
         "jp": "真理シンリ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3efd1b27-431d-5cc7-8865-25e82558825d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17615568",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真由Mayu",
+        "default": "cn"
       }
     },
     {
