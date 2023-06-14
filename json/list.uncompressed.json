@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686726436
+    "timestamp": 1686730603
   },
   "vtbs": [
     {
@@ -86227,6 +86227,23 @@
       },
       "group": "e91a4eb4-14fc-500f-a8f5-f8650d62dbd2",
       "group_name": "尼比陆"
+    },
+    {
+      "uuid": "283fc03d-6ed0-51e6-896b-7afa9a8b24df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3173750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾伯特iBOT",
+        "default": "cn"
+      }
     },
     {
       "uuid": "269677a4-d4d1-5c33-8368-f99951e08afa",
