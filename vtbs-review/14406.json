@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "LoopLin",
+      ""
+    ],
+    [
+      "title",
+      "萨比萌Sabimon.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "萨比萌Sabimon.json",
+      "{\n  \"name\": {\n    \"cn\": \"萨比萌\",\n    \"en\": \"Sabimon\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1950604344\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14406",
+    "body": "\n\n### description\n\nadd: 萨比萌Sabimon.json\n> <https://space.bilibili.com/1950604344>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpURzl2Y0V4cGJnPT0KdGl0bGU6NkpDbzVxK1U2SkNNVTJGaWFXMXZiaTVxYzI5dUlDZ3hMeTB3THlzeEtRPT0KcHV0OjZKQ281cStVNkpDTVUyRmlhVzF2Ymk1cWMyOXU6ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWlRcU9hdmxPaVFqQ0lzQ2lBZ0lDQWlaVzRpT2lBaVUyRmlhVzF2YmlJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhPVFV3TmpBME16UTBJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
