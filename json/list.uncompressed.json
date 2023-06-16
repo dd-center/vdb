@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686886559
+    "timestamp": 1686886607
   },
   "vtbs": [
     {
@@ -88638,6 +88638,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "7b15b15b-5eda-5fee-b02b-64bab336ab0a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356837206038",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花雨络络",
+        "default": "cn"
+      }
     },
     {
       "uuid": "069508fe-cecc-5461-8377-7973548b518d",
