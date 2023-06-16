@@ -1,0 +1,28 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "神原かみkami.json (2/-1/+1)",
+      ""
+    ],
+    [
+      "delete",
+      "神原かみkami.json",
+      ""
+    ],
+    [
+      "put",
+      "神原_ouskuru.json",
+      "{\n  \"name\": {\n    \"cn\": \"神原_ouskuru\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"109381959\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14420",
+    "body": "\n\n### description\n\nadd: 神原_ouskuru.json\n> <https://space.bilibili.com/109381959>\n\nremove: 神原かみkami.json\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjU2V2U1WTZmNDRHTDQ0Ry9hMkZ0YVM1cWMyOXVJQ2d5THkweEx5c3hLUT09CmRlbGV0ZTo1NldlNVk2ZjQ0R0w0NEcvYTJGdGFTNXFjMjl1CnB1dDo1NldlNVk2ZlgyOTFjMnQxY25VdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVlbG51V09uMTl2ZFhOcmRYSjFJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFd09UTTRNVGsxT1NJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
