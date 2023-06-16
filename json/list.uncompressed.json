@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686886454
+    "timestamp": 1686886559
   },
   "vtbs": [
     {
@@ -91657,6 +91657,23 @@
       },
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
       "group_name": "Nameless Project"
+    },
+    {
+      "uuid": "ae075a0b-765f-59e6-8b75-a17f529ca500",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1950604344",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萨比萌Sabimon",
+        "default": "cn"
+      }
     },
     {
       "uuid": "77c3df95-2a88-5ca6-9e73-654203a51123",
