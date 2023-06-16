@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686886041
+    "timestamp": 1686885933
   },
   "vtbs": [
     {
@@ -26033,6 +26033,24 @@
         "cn": "北瀬琉织",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1240518940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北立交桥",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46"
     },
     {
       "uuid": "7cd0d298-d29b-522a-8017-463b29926571",
@@ -54624,6 +54642,25 @@
       }
     },
     {
+      "uuid": "0b794828-7fe7-5883-b78d-645718af24d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078333656008",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曾被称为卡米的龟",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
+    },
+    {
       "uuid": "8dc7c123-f938-5b79-aee4-b10cbf26ab05",
       "type": "vtuber",
       "bot": false,
@@ -67273,6 +67310,25 @@
       }
     },
     {
+      "uuid": "8010be42-5b65-5a0d-a818-0014c0ca2e1c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1064646844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清乖子",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
+    },
+    {
       "uuid": "75abfe4f-2619-59b2-82f3-7d7ea438679f",
       "type": "vtuber",
       "bot": false,
@@ -72203,6 +72259,25 @@
         "cn": "王剑Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "923f24fa-5b49-5eb7-ab2a-db40a0618072",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1978636705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王宝煲",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
     },
     {
       "uuid": "0d90f7d9-6a89-5e8e-b9f5-077181b433d3",
@@ -105539,7 +105614,9 @@
         "extra": [],
         "cn": "魈格Yezpi",
         "default": "cn"
-      }
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
     },
     {
       "uuid": "97338598-0299-5636-b87f-5383d280a69c",
@@ -107735,6 +107812,25 @@
       }
     },
     {
+      "uuid": "51cb7a4d-a6c2-5f36-94df-fe7d85d63a90",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "153016102",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎卡多legato",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
+    },
+    {
       "uuid": "a7838f19-083d-58a3-b8eb-31c973e18f70",
       "type": "vtuber",
       "bot": false,
@@ -108718,6 +108814,25 @@
         "cn": "鼎鼎子official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a1dadb43-39ce-5c00-9be5-893f5ae17610",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13315327",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鼠标Office",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
     },
     {
       "uuid": "1519b043-995a-5c18-8172-7e93309826f7",
