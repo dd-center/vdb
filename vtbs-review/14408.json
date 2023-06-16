@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "阿想nia.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "阿想nia.json",
+      "{\n  \"name\": {\n    \"CN\": \"阿想nia\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1652248534\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14408",
+    "body": "\n\n### description\n\nadd: 阿想nia.json\n> <https://space.bilibili.com/1652248534>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NlppLzVvT3pibWxoTG1wemIyNGdLREV2TFRBdkt6RXAKcHV0OjZaaS81b096Ym1saExtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0lrTk9Jam9nSXVtWXYrYURzMjVwWVNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhOalV5TWpRNE5UTTBJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
