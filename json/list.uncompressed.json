@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687011993
+    "timestamp": 1687015173
   },
   "vtbs": [
     {
@@ -53919,6 +53919,23 @@
       "name": {
         "extra": [],
         "cn": "是離汐SAMA吖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "02e5373f-eafc-5aa5-872b-277002105725",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137639017238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "昼歌里Hiru_u",
         "default": "cn"
       }
     },
