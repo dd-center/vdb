@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687015572
+    "timestamp": 1687015624
   },
   "vtbs": [
     {
@@ -65615,6 +65615,23 @@
       }
     },
     {
+      "uuid": "6797dc4a-1295-5e2f-abc7-7f515559982c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17898455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泡泡糖做酱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "57ab20c8-9fe3-5dd3-9285-b7cb52e65ddc",
       "type": "vtuber",
       "bot": false,
@@ -108942,6 +108959,23 @@
       "name": {
         "extra": [],
         "cn": "黛兔呆呆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "82fa24b0-7513-5a7e-a7d9-ac0b6621d256",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "403799575",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黛妮的妮",
         "default": "cn"
       }
     },
