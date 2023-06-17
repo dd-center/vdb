@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "柒染official.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "柒染official.json",
+      "{\n  \"name\": {\n    \"cn\": \"柒染official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"38890012\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14432",
+    "body": "\n\n### description\n\nadd: 柒染official.json\n> <https://space.bilibili.com/38890012>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXArUzVwK1RiMlptYVdOcFlXd3Vhbk52YmlBb01TOHRNQzhyTVNrPQpwdXQ6NXArUzVwK1RiMlptYVdOcFlXd3Vhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1YWZrdWFmazI5bVptbGphV0ZzSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqTTRPRGt3TURFeUlnb2dJSDBLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
