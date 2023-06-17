@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687022811
+    "timestamp": 1687023329
   },
   "vtbs": [
     {
@@ -26492,6 +26492,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "2719e54e-7d1a-546d-8b5e-f84224ea51a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1280923153",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千悦Chisa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "79e97566-484f-5916-8381-233f7d1d9a58",
@@ -107719,6 +107736,23 @@
       "name": {
         "extra": [],
         "cn": "鹿野葵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b3201cac-816f-5739-b8a6-21a2d0a4f44f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23636880",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿饼干Aloha",
         "default": "cn"
       }
     },
