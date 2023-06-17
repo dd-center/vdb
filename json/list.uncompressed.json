@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1686977835
+    "timestamp": 1686982662
   },
   "vtbs": [
     {
@@ -100917,6 +100917,23 @@
       "name": {
         "extra": [],
         "cn": "陆然-陆知愠Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "55ab75ca-e79c-5ddd-a4bd-7aae172377de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "30962669",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陆琛小攻猫z",
         "default": "cn"
       }
     },
