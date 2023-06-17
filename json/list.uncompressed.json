@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687010473
+    "timestamp": 1687010460
   },
   "vtbs": [
     {
@@ -2923,6 +2923,25 @@
         "en": "HE-Atieyar",
         "default": "en"
       }
+    },
+    {
+      "uuid": "ac79712f-3b3a-52d3-a522-38be82bda0c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1795172933",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "HEX",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
     },
     {
       "uuid": "0b9abd5c-f869-5491-9213-dde3aa5e33f3",
