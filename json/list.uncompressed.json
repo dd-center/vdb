@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687010460
+    "timestamp": 1687010489
   },
   "vtbs": [
     {
@@ -77934,6 +77934,23 @@
       "name": {
         "extra": [],
         "cn": "真白茉由_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8b42c00f-26c5-556f-ab9c-eec6a5dd6cd6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2029255656",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真穗Maho_Official",
         "default": "cn"
       }
     },
