@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687023456
+    "timestamp": 1687023490
   },
   "vtbs": [
     {
@@ -31672,6 +31672,23 @@
       "name": {
         "extra": [],
         "cn": "喵豆子nyazuko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fba3440f-5afe-589c-b00b-3f99363c0490",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493080636328319",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵酱nya",
         "default": "cn"
       }
     },
@@ -73913,6 +73930,23 @@
       "name": {
         "extra": [],
         "cn": "璃娅Leeya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "628ab46a-853d-5e36-b436-592fdc6e5637",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493277703604876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "璃烟正在长大ing",
         "default": "cn"
       }
     },
