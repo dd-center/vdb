@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687011288
+    "timestamp": 1687011256
   },
   "vtbs": [
     {
@@ -98316,6 +98316,23 @@
       }
     },
     {
+      "uuid": "f1826146-83e3-5575-b260-b83f41f6f06f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1753389255",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金飞龙Kiya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6f345a09-be55-5659-a1dc-bc901752814f",
       "type": "vtuber",
       "bot": false,
@@ -99432,6 +99449,23 @@
         "extra": [],
         "CN": "长月春雪",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "491bf9ad-ac2c-5270-8b83-be92bd3e1593",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493273970673718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "长离_li",
+        "default": "cn"
       }
     },
     {
