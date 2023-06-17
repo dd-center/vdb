@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687023369
+    "timestamp": 1687023456
   },
   "vtbs": [
     {
@@ -91018,6 +91018,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "76b48b94-91a8-5c45-92a3-4f3a2632143c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493290691267121",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱斯_momo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b759f508-5abb-548f-ae84-04c2bb4f817b",
       "type": "vtuber",
       "bot": false,
@@ -96654,6 +96671,23 @@
       "name": {
         "extra": [],
         "cn": "软水水",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "beb7c498-a539-53c8-bcb8-ea7eec00eb55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493278013982909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "软白呼呼",
         "default": "cn"
       }
     },
