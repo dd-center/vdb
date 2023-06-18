@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "闹闹.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "闹闹.json",
+      "{\n  \"name\": {\n    \"cn\": \"闹闹\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"11870424\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14470",
+    "body": "\n\n### description\n\nadd: 闹闹.json\n> <https://space.bilibili.com/11870424>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NlplNTZaZTVMbXB6YjI0Z0tERXZMVEF2S3pFcApwdXQ6NlplNTZaZTVMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bVh1ZW1YdVNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSXhNVGczTURReU5DSUtJQ0I5Q24wPQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
