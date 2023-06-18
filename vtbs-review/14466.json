@@ -1,0 +1,43 @@
+{
+  "commands": [
+    [
+      "name",
+      "bilibililiangcha",
+      ""
+    ],
+    [
+      "title",
+      "尼芽Niya_Channel.json (5/-0/+4)",
+      ""
+    ],
+    [
+      "put",
+      "尼芽Niya_Channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"尼芽Niya_Channel\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"589351234\"\n  },\n  \"group\": \"虚数之海\"\n}"
+    ],
+    [
+      "put",
+      "虚数之海.json",
+      "{\n  \"name\": {\n    \"cn\": \"虚数之海\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3461568937331553\"\n  },\n  \"type\": \"group\"\n}"
+    ],
+    [
+      "put",
+      "杰特贝思_Official.json",
+      "{\n  \"name\": {\n    \"cn\": \"杰特贝思_Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493256853719250\"\n  },\n  \"group\": \"虚数之海\"\n}"
+    ],
+    [
+      "put",
+      "疾风Haya_Official.json",
+      "{\n  \"name\": {\n    \"jp\": \"疾风Haya_Official\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3461570965277362\"\n  },\n  \"group\": \"虚数之海\"\n}"
+    ],
+    [
+      "put",
+      "雀雀Paissa.json",
+      "{\n  \"name\": {\n    \"cn\": \"雀雀Paissa\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"7937906\"\n  },\n  \"group\": \"虚数之海\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14466",
+    "body": "\n\n### description\n\nadd: 杰特贝思_Official.json\n> <https://space.bilibili.com/3493256853719250>\n\nadd: 疾风Haya_Official.json\n> <https://space.bilibili.com/3461570965277362>\n\nadd: 虚数之海.json\n> <https://space.bilibili.com/3461568937331553>\n\nadd: 雀雀Paissa.json\n> <https://space.bilibili.com/7937906>\n\nupdate: 尼芽Niya_Channel.json\n> <https://space.bilibili.com/589351234>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpZbWxzYVdKcGJHbHNhV0Z1WjJOb1lRPT0KdGl0bGU6NWJDODZJcTlUbWw1WVY5RGFHRnVibVZzTG1wemIyNGdLRFV2TFRBdkt6UXAKcHV0OjViQzg2SXE5VG1sNVlWOURhR0Z1Ym1Wc0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXd3ZPaUt2VTVwZVdGZlEyaGhibTVsYkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFPRGt6TlRFeU16UWlDaUFnZlN3S0lDQWlaM0p2ZFhBaU9pQWk2Sm1hNXBXdzVMbUw1clczSWdwOQpwdXQ6NkptYTVwV3c1TG1MNXJXM0xtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVpWm11YVZzT1M1aSthMXR5SUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRZeE5UWTRPVE0zTXpNeE5UVXpJZ29nSUgwc0NpQWdJblI1Y0dVaU9pQWlaM0p2ZFhBaUNuMD0KcHV0OjVwMnc1NG01NkxTZDVvQ2RYMDltWm1samFXRnNMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1YWRzT2VKdWVpMG5lYUFuVjlQWm1acFkybGhiQ0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJek5Ea3pNalUyT0RVek56RTVNalV3SWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVpWm11YVZzT1M1aSthMXR5SUtmUT09CnB1dDo1NWErNmFPT1NHRjVZVjlQWm1acFkybGhiQzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbXB3SWpvZ0l1ZVd2dW1qamtoaGVXRmZUMlptYVdOcFlXd2lDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTXpRMk1UVTNNRGsyTlRJM056TTJNaUlLSUNCOUxBb2dJQ0puY205MWNDSTZJQ0xvbVpybWxiRGt1WXZtdGJjaUNuMD0KcHV0OjZadUE2WnVBVUdGcGMzTmhMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1bWJnT21iZ0ZCaGFYTnpZU0lLSUNCOUxBb2dJQ0poWTJOdmRXNTBjeUk2SUhzS0lDQWdJQ0ppYVd4cFltbHNhU0k2SUNJM09UTTNPVEEySWdvZ0lIMHNDaUFnSW1keWIzVndJam9nSXVpWm11YVZzT1M1aSthMXR5SUtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
