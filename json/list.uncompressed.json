@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687128928
+    "timestamp": 1687138154
   },
   "vtbs": [
     {
@@ -23972,6 +23972,23 @@
       "name": {
         "extra": [],
         "cn": "冬泽枫",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b7633796-99a6-5035-87d1-7b77e76a6df7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493122224950106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬眠期小鸟",
         "default": "cn"
       }
     },
