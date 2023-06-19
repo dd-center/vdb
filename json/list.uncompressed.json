@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687204952
+    "timestamp": 1687205414
   },
   "vtbs": [
     {
@@ -21369,6 +21369,23 @@
       "name": {
         "extra": [],
         "cn": "这里是馍君",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aff56548-8e38-524d-b0a3-b0723cae7593",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1418540128",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "优花璃Yukari",
         "default": "cn"
       }
     },
@@ -49487,7 +49504,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "3461566624172793",
+          "id": "3493297850943943",
           "type": "official",
           "platform": "bilibili"
         }
@@ -82378,6 +82395,23 @@
       "name": {
         "extra": [],
         "cn": "糖西Tansy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b362987-e48c-554d-b50b-6c754fedacf6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "57584675",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖酥小废物",
         "default": "cn"
       }
     },
