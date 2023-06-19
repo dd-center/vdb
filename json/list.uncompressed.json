@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687177416
+    "timestamp": 1687182476
   },
   "vtbs": [
     {
@@ -42375,7 +42375,9 @@
         "extra": [],
         "cn": "尼芽Niya_Channel",
         "default": "cn"
-      }
+      },
+      "group": "32a9d077-2597-552e-9884-85282f5cd486",
+      "group_name": "虚数之海"
     },
     {
       "uuid": "f391b6ba-6651-5497-92cd-822cb151b63c",
@@ -57498,6 +57500,25 @@
         "cn": "杰池莉尔-Succubus",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e125e5ee-e100-5cf3-95ce-5536cdfb8f57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493256853719250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杰特贝思_Official",
+        "default": "cn"
+      },
+      "group": "32a9d077-2597-552e-9884-85282f5cd486",
+      "group_name": "虚数之海"
     },
     {
       "uuid": "b7e30d0e-1dd8-5c87-ad9e-5e338721ab81",
@@ -74726,6 +74747,25 @@
         "cn": "疾風醬",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "44cb31c9-1e07-5f3c-8446-7294af2231e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461570965277362",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "疾风Haya_Official",
+        "default": "jp"
+      },
+      "group": "32a9d077-2597-552e-9884-85282f5cd486",
+      "group_name": "虚数之海"
     },
     {
       "uuid": "2f495bb1-f3e4-5eee-8c1b-962ca1453fd6",
@@ -93298,6 +93338,24 @@
       }
     },
     {
+      "uuid": "32a9d077-2597-552e-9884-85282f5cd486",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461568937331553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虚数之海",
+        "default": "cn"
+      },
+      "group": "32a9d077-2597-552e-9884-85282f5cd486"
+    },
+    {
       "uuid": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
       "type": "group",
       "bot": false,
@@ -101519,6 +101577,25 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "f32f6c91-feef-5115-a020-563c41a5b6b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7937906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雀雀Paissa",
+        "default": "cn"
+      },
+      "group": "32a9d077-2597-552e-9884-85282f5cd486",
+      "group_name": "虚数之海"
     },
     {
       "uuid": "9a757ed2-e1fc-53d3-8e39-b0fd8e1c21ca",
