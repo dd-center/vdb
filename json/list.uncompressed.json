@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687203717
+    "timestamp": 1687204952
   },
   "vtbs": [
     {
@@ -26791,6 +26791,23 @@
         "extra": [],
         "jp": "千祭はろ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2c3b9b34-bed1-5f28-bfc8-b3126adbf551",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "279148275",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千穗梨衣_lily",
+        "default": "cn"
       }
     },
     {
