@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "Hellsing.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "Hellsing.json",
+      "{\n  \"name\": {\n    \"CN\": \"Hellsing\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493104973776938\"\n  },\n  \"type\": \"group\"\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14476",
+    "body": "\n\n### description\n\nadd: Hellsing.json\n> <https://space.bilibili.com/3493104973776938>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6U0dWc2JITnBibWN1YW5OdmJpQW9NUzh0TUM4ck1Taz0KcHV0OlNHVnNiSE5wYm1jdWFuTnZiZz09OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0lrTk9Jam9nSWtobGJHeHphVzVuSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqTTBPVE14TURRNU56TTNOelk1TXpnaUNpQWdmU3dLSUNBaWRIbHdaU0k2SUNKbmNtOTFjQ0lLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
