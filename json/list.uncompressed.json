@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687278556
+    "timestamp": 1687278618
   },
   "vtbs": [
     {
@@ -54889,6 +54889,23 @@
       }
     },
     {
+      "uuid": "e7475191-27e1-5764-adaa-3f00ad985171",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17779099",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "月下undermoon",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "1196ef95-338c-577e-ba7b-d185ce4f74a8",
       "type": "vtuber",
       "bot": false,
@@ -100324,6 +100341,23 @@
       "name": {
         "extra": [],
         "cn": "阿允",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f066b30-1851-570f-ae6b-7f98b0745e5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493079956851091",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿力克斯ALEX",
         "default": "cn"
       }
     },
