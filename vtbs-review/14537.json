@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "Failing Root",
+      ""
+    ],
+    [
+      "title",
+      "桃气小喵喵.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "桃气小喵喵.json",
+      "{\n  \"name\": {\n    \"cn\": \"桃气小喵喵\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493265129081181\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14537",
+    "body": "\n\n### description\n\nadd: 桃气小喵喵.json\n> <https://space.bilibili.com/3493265129081181>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpSbUZwYkdsdVp5QlNiMjkwCnRpdGxlOjVxR0Q1ckNVNWJDUDVaYTE1WmExTG1wemIyNGdLREV2TFRBdkt6RXAKcHV0OjVxR0Q1ckNVNWJDUDVaYTE1WmExTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdWFoZythd2xPV3dqK1dXdGVXV3RTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRrek1qWTFNVEk1TURneE1UZ3hJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
