@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687224706
+    "timestamp": 1687237373
   },
   "vtbs": [
     {
@@ -44318,6 +44318,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "220060b2-e53d-51fb-89f7-8821fe4bb5e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1633779879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕莎Pasha",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c407879b-5fa6-505c-910f-13e2c7dab788",
@@ -89077,6 +89094,23 @@
       "name": {
         "extra": [],
         "cn": "芽千千ガチチ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "590e5824-4deb-5dc8-b56b-7db021b10d6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493287673465572",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芽子meiku",
         "default": "cn"
       }
     },
