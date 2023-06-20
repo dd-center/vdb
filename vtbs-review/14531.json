@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "Failing Root",
+      ""
+    ],
+    [
+      "title",
+      "卡哇游yoyo.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "卡哇游yoyo.json",
+      "{\n  \"name\": {\n    \"cn\": \"卡哇游yoyo\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"234479207\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14531",
+    "body": "\n\n### description\n\nadd: 卡哇游yoyo.json\n> <https://space.bilibili.com/234479207>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpSbUZwYkdsdVp5QlNiMjkwCnRpdGxlOjVZMmg1Wk9INXJpNGVXOTVieTVxYzI5dUlDZ3hMeTB3THlzeEtRPT0KcHV0OjVZMmg1Wk9INXJpNGVXOTVieTVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V05vZVdUaCthNHVIbHZlVzhpQ2lBZ2ZTd0tJQ0FpWVdOamIzVnVkSE1pT2lCN0NpQWdJQ0FpWW1sc2FXSnBiR2tpT2lBaU1qTTBORGM1TWpBM0lnb2dJSDBLZlE9PQ==-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
