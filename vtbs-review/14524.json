@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "Failing Root",
+      ""
+    ],
+    [
+      "title",
+      "软软酱.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "软软酱.json",
+      "{\n  \"name\": {\n    \"cn\": \"软软酱\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493138580638300\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14524",
+    "body": "\n\n### description\n\nadd: 软软酱.json\n> <https://space.bilibili.com/3493138580638300>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpSbUZwYkdsdVp5QlNiMjkwCnRpdGxlOjZMMnY2TDJ2NllXeExtcHpiMjRnS0RFdkxUQXZLekVwCnB1dDo2TDJ2NkwydjZZV3hMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1aTlyK2k5cittRnNTSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRrek1UTTROVGd3TmpNNE16QXdJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
