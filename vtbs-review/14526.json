@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "Failing Root",
+      ""
+    ],
+    [
+      "title",
+      "小棉葫芦.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "小棉葫芦.json",
+      "{\n  \"name\": {\n    \"cn\": \"小棉葫芦\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"3493293071534759\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14526",
+    "body": "\n\n### description\n\nadd: 小棉葫芦.json\n> <https://space.bilibili.com/3493293071534759>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpSbUZwYkdsdVp5QlNiMjkwCnRpdGxlOjViQ1A1cU9KNkpHcjZJcW1MbXB6YjI0Z0tERXZMVEF2S3pFcApwdXQ6NWJDUDVxT0o2SkdyNklxbUxtcHpiMjQ9OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSXVXd2orYWppZWlScStpS3BpSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l6TkRrek1qa3pNRGN4TlRNME56VTVJZ29nSUgwS2ZRPT0=-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
