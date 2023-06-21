@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687371038
+    "timestamp": 1687371061
   },
   "vtbs": [
     {
@@ -7291,28 +7291,6 @@
       "name": {
         "extra": [],
         "cn": "Riztech",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "16581e1e-d995-50ac-9a10-bfb1a793a52b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2304086",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "ChannelRoot",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "树根",
         "default": "cn"
       }
     },
