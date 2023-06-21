@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322473
+    "timestamp": 1687322509
   },
   "vtbs": [
     {
@@ -95266,6 +95266,23 @@
         "extra": [],
         "cn": "诗织",
         "en": "Shior",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1999723f-0e57-5da6-95e8-9af1780682ca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144364583648",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗诗崽CC",
         "default": "cn"
       }
     },
