@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322810
+    "timestamp": 1687322847
   },
   "vtbs": [
     {
@@ -63782,6 +63782,23 @@
       }
     },
     {
+      "uuid": "415556da-7627-5618-86c5-8e2f9361c543",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1685444437",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "残剑_Truekep",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2a8fa0c3-aee1-5824-a934-687f003e0c37",
       "type": "vtuber",
       "bot": false,
@@ -91783,6 +91800,23 @@
       "name": {
         "extra": [],
         "cn": "菲林萨库娅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef9199d9-61d0-5266-9e08-5772e2cbe8a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493297754475220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲洛梅娜philomena",
         "default": "cn"
       }
     },
