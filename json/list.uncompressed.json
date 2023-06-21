@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322695
+    "timestamp": 1687322765
   },
   "vtbs": [
     {
@@ -30279,6 +30279,23 @@
       }
     },
     {
+      "uuid": "fbd0920e-0db4-5568-9a4d-c789578fd6e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3550036",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "和子_Kzk",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "03e4f06d-6a95-53b1-a9ea-85f29567837f",
       "type": "vtuber",
       "bot": false,
@@ -51108,7 +51125,8 @@
       ],
       "name": {
         "extra": [],
-        "cn": "星原骏HoshiharaSunn",
+        "cn": "星原骏",
+        "en": "HoshiharaSunn",
         "default": "cn"
       }
     },
