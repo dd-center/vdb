@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687320818
+    "timestamp": 1687322414
   },
   "vtbs": [
     {
@@ -26721,6 +26721,23 @@
       "group_name": "ChaosLiveSprout"
     },
     {
+      "uuid": "5ea44981-683e-5a8f-a968-ea0904b128c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1497089648",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千璃Chili",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1ca799c6-ebaf-5340-83b1-f061c9fd7902",
       "type": "vtuber",
       "bot": false,
@@ -28207,6 +28224,23 @@
       "name": {
         "extra": [],
         "cn": "卷毛姆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e0fe366-4e6c-5b91-bc29-816e8a98ca89",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494350921140806",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卿妤笙",
         "default": "cn"
       }
     },
@@ -45616,6 +45650,23 @@
         "extra": [],
         "jp": "弥栄クアム_YaSaka",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d5f7669a-7bfc-519e-ad70-4dd51c0d760f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115442760147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥洛缇丝",
+        "default": "cn"
       }
     },
     {
