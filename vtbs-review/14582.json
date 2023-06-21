@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "哈噗HAPU.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "哈噗HAPU.json",
+      "{\n  \"name\": {\n    \"cn\": \"哈噗HAPU\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"2113930477\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14582",
+    "body": "\n\n### description\n\nadd: 哈噗HAPU.json\n> <https://space.bilibili.com/2113930477>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NVpPSTVabVhTRUZRVlM1cWMyOXVJQ2d4THkwd0x5c3hLUT09CnB1dDo1Wk9JNVptWFNFRlFWUzVxYzI5dTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1V1RpT1dabDBoQlVGVWlDaUFnZlN3S0lDQWlZV05qYjNWdWRITWlPaUI3Q2lBZ0lDQWlZbWxzYVdKcGJHa2lPaUFpTWpFeE16a3pNRFEzTnlJS0lDQjlDbjA9-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
