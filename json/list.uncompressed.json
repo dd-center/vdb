@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687359651
+    "timestamp": 1687359653
   },
   "vtbs": [
     {
@@ -18331,6 +18331,23 @@
       }
     },
     {
+      "uuid": "d734f4f8-c643-528f-8031-3d0a2e20a502",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11072226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丸梨丸梨",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "11f3642d-7783-58c6-822c-2d7f0a843ac1",
       "type": "vtuber",
       "bot": false,
@@ -29408,6 +29425,23 @@
       "name": {
         "extra": [],
         "cn": "右左枪枪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ccfe3035-c9f4-5785-8934-a1a1aac999c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630795548",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "右飒Yuu",
         "default": "cn"
       }
     },
@@ -40906,6 +40940,23 @@
       "name": {
         "extra": [],
         "cn": "小喵唧Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d0b16010-a17e-595a-a1ce-66c8b4aa43a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493111313468213",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小圆丸喵",
         "default": "cn"
       }
     },
@@ -53102,6 +53153,23 @@
         "default": "en"
       },
       "group": "ae491a1c-c400-5e88-9eb6-3622c698f8f1"
+    },
+    {
+      "uuid": "9420d8ad-ac60-5ef6-8088-f8fca15eb74f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34304096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星稚Sieny",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bc5a7d8c-06f1-53d7-a44e-bd1bf623db3d",
@@ -97443,6 +97511,24 @@
       "name": {
         "extra": [],
         "cn": "贝贝web",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "40b9d2c6-4c9d-515b-8608-f1256c9b0b56",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493128935836157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝陆塔",
+        "en": "Berta",
         "default": "cn"
       }
     },
