@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687342912
+    "timestamp": 1687344675
   },
   "vtbs": [
     {
@@ -74120,6 +74120,23 @@
       "name": {
         "extra": [],
         "cn": "理理Lyrics",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e3afba8a-cc2b-51d4-a420-7b8972995694",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36882871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理理川Ririka",
         "default": "cn"
       }
     },
