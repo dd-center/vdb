@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322616
+    "timestamp": 1687322661
   },
   "vtbs": [
     {
@@ -95268,6 +95268,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "21f94d40-d26c-5b05-9e75-86b51b23a431",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1007610267",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗意快醒醒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a2c02e3b-e7c9-5cce-9551-c3ea491eecb5",
