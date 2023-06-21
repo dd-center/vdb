@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "title",
+      "笨蛋小姐很奇怪.json (2/-1/+1)",
+      ""
+    ],
+    [
+      "delete",
+      "笨蛋小姐很奇怪.json",
+      ""
+    ],
+    [
+      "put",
+      "三七有点二.json",
+      "{\n  \"name\": {\n    \"cn\": \"三七有点二\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1545319815\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14701",
+    "body": "改下名字\n\n### description\n\nadd: 三七有点二.json\n> <https://space.bilibili.com/1545319815>\n\nremove: 笨蛋小姐很奇怪.json\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NTZ5bzZKdUw1YkNQNWFlUTViNkk1YVdINW9DcUxtcHpiMjRnS0RJdkxURXZLekVwCmRlbGV0ZTo1NnlvNkp1TDViQ1A1YWVRNWI2STVhV0g1b0NxTG1wemIyND0KcHV0OjVMaUo1TGlENXB5SjU0SzU1THFNTG1wemIyND06ZXdvZ0lDSnVZVzFsSWpvZ2V3b2dJQ0FnSW1OdUlqb2dJdVM0aWVTNGcrYWNpZWVDdWVTNmpDSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4TlRRMU16RTVPREUxSWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
