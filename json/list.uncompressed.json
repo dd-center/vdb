@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322575
+    "timestamp": 1687322616
   },
   "vtbs": [
     {
@@ -28225,6 +28225,23 @@
       "name": {
         "extra": [],
         "cn": "卯雪眠_Somnia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2230a3b7-1ade-5964-81bc-fdac374610fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493090125941097",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卷卷子不想卷",
         "default": "cn"
       }
     },
@@ -65302,6 +65319,23 @@
       "name": {
         "extra": [],
         "cn": "没什么爱称",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd71e373-e8e5-5e9e-baa4-dad665dbc02c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6610851",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Suzume酱",
         "default": "cn"
       }
     },
