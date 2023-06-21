@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "测试.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "测试.json",
+      "{\n  \"name\": {\n    \"1\": \"1\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "14781",
+    "body": "\n\n### description\n\nadd: 测试.json\n> <https://space.bilibili.com/1>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----dGl0bGU6NXJXTDZLK1ZMbXB6YjI0Z0tERXZMVEF2S3pFcApwdXQ6NXJXTDZLK1ZMbXB6YjI0PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJakVpT2lBaU1TSUtJQ0I5TEFvZ0lDSmhZMk52ZFc1MGN5STZJSHNLSUNBZ0lDSmlhV3hwWW1sc2FTSTZJQ0l4SWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
