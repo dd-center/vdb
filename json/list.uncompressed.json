@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322414
+    "timestamp": 1687322457
   },
   "vtbs": [
     {
@@ -29936,6 +29936,23 @@
       "name": {
         "extra": [],
         "cn": "吹雪的猫咪茶铺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a70990d1-48e3-54f0-845e-a43a5d9b36af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493292299782900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吾乃夕昭大王是也_",
         "default": "cn"
       }
     },
@@ -78502,6 +78519,23 @@
       "name": {
         "extra": [],
         "cn": "眠眠official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b64d05b1-0c10-51e9-95b7-c01657be1e94",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2041920071",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠眠羊asleep",
         "default": "cn"
       }
     },
