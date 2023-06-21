@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687328736
+    "timestamp": 1687328670
   },
   "vtbs": [
     {
@@ -16084,6 +16084,23 @@
       "name": {
         "extra": [],
         "cn": "一口吃掉粥粥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a1d79b9e-53f7-5eb1-8b46-57b824d49484",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "315041290",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只小埋埋Y",
         "default": "cn"
       }
     },
@@ -87389,6 +87406,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "76bd83ae-720a-50c4-9d7b-5e6d3b7e28aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498462168",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾克豪Alcohol",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "02b77ea9-34da-5ddc-b087-8a75397dc31b",
       "type": "vtuber",
       "bot": false,
@@ -100232,6 +100266,23 @@
       "name": {
         "extra": [],
         "cn": "铃姬Kori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fdec242d-36aa-57c4-8c7a-01ead5de0509",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353181870931",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃宵Linco",
         "default": "cn"
       }
     },
