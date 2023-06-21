@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687323220
+    "timestamp": 1687323084
   },
   "vtbs": [
     {
@@ -20271,6 +20271,23 @@
       }
     },
     {
+      "uuid": "81e36de2-2177-5c5e-a5f3-246fbf9715fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493277349186168",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "付暔暔",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2dc2be8d-9eeb-5606-b7a6-77d963660c47",
       "type": "vtuber",
       "bot": false,
@@ -26314,6 +26331,23 @@
       "name": {
         "extra": [],
         "cn": "千叶是棵草_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "360869bb-c0d1-5210-a2e3-bd78814c465b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1503177682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千咲月月Tsuki",
         "default": "cn"
       }
     },
@@ -37834,6 +37868,23 @@
       "name": {
         "extra": [],
         "cn": "妩九Melantha",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "09d4d413-d08c-5d1f-a56a-3a8e0b5a1273",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1399359499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮不是小壁灯",
         "default": "cn"
       }
     },
