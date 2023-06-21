@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687346258
+    "timestamp": 1687346259
   },
   "vtbs": [
     {
@@ -25361,6 +25361,23 @@
       }
     },
     {
+      "uuid": "4b51394d-679c-5214-af36-20da5f39be52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1791987762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "初雪阿樱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8b5dc879-cf91-5c96-acfb-cc0fa1da4566",
       "type": "vtuber",
       "bot": false,
@@ -26064,6 +26081,23 @@
       "name": {
         "extra": [],
         "cn": "北东西南south",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "90ca82cc-4d0d-5d88-9c7f-1b6a7fbd2322",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493107580537778",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北妮mini",
         "default": "cn"
       }
     },
@@ -87762,6 +87796,23 @@
       },
       "group": "a7372824-0ebf-5683-b7a3-550ab1c13f80",
       "group_name": "AVP古流社"
+    },
+    {
+      "uuid": "4a7022fa-e9a3-5648-a107-72b970bec504",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1372675026",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾什_Ash_Halibel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cbd8d48c-b331-50f5-b41e-2dd31753c3c9",
