@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687307453
+    "timestamp": 1687304175
   },
   "vtbs": [
     {
@@ -78329,6 +78329,23 @@
         "extra": [],
         "cn": "眠兎小夜_Official",
         "jp": "眠兎 さよ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0edc0b67-7a82-5e62-853b-72d668558d43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "169407172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠心琉月_Official",
         "default": "cn"
       }
     },
