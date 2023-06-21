@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322457
+    "timestamp": 1687322473
   },
   "vtbs": [
     {
@@ -27743,6 +27743,24 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "90e8b76a-0f07-543e-b6fb-b8e3115c75f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9205735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南音弥",
+        "en": "MinamiOtoya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b37429ce-8c17-5562-b421-ea28479af409",
@@ -79998,6 +80016,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "2dc6edfc-6d8a-5171-b731-44d628737e15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270975940948",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神见凛夏Rinka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f80377c7-73a3-5c07-ae99-7526ef358853",
