@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687359293
+    "timestamp": 1687359648
   },
   "vtbs": [
     {
@@ -36074,6 +36074,23 @@
       "group_name": "无次元PROJECT"
     },
     {
+      "uuid": "427ec6bd-de7d-5309-9cf3-2f6458bee620",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1950721001",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天天Ame",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "66714ea6-ddff-514a-9c31-4212abbad045",
       "type": "vtuber",
       "bot": false,
@@ -47154,6 +47171,23 @@
         "cn": "微微微美玖萝",
         "en": "Bibibi Micro",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3fa7511f-2b66-5a5c-907e-047b6789852e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493125360192104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "微星命Listania",
+        "default": "cn"
       }
     },
     {
@@ -60477,6 +60511,23 @@
       },
       "group": "aebb8a27-96ad-575f-99f7-485fb958d709",
       "group_name": "椛榊计划"
+    },
+    {
+      "uuid": "0745c52c-fa60-5032-828e-2f6dc43e2bc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1830884615",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗麗栗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "54f7807e-b31e-5c18-bf33-1d3dd3464f21",
@@ -80818,6 +80869,23 @@
       }
     },
     {
+      "uuid": "918bcde0-a5f9-51ce-acad-c2a08378f09b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493257069726157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神山奶茶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7d8a6b21-2ca9-5ff6-8947-9cbd86ba705a",
       "type": "vtuber",
       "bot": false,
@@ -81253,6 +81321,23 @@
         "extra": [],
         "cn": "祢礼",
         "en": "Miri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d8ccac0d-3303-5f5f-bda1-365725436e2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493295227406633",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祪EII",
         "default": "cn"
       }
     },
