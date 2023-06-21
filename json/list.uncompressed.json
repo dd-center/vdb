@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687317674
+    "timestamp": 1687320748
   },
   "vtbs": [
     {
@@ -61536,6 +61536,24 @@
       "name": {
         "extra": [],
         "cn": "森友senyo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "97416814-5023-5538-91bc-e4a5e295ff5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "321203300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森妮",
+        "en": "Senni",
         "default": "cn"
       }
     },
