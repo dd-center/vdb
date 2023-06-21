@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322905
+    "timestamp": 1687322969
   },
   "vtbs": [
     {
@@ -16441,25 +16441,6 @@
       }
     },
     {
-      "uuid": "32545a83-16ac-5534-b5ec-6301cd0a6575",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1589033024",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "梓宛"
-        ],
-        "cn": "一般路过的梓宛",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "5c3b9783-efa8-5324-818e-47dcce833c13",
       "type": "vtuber",
       "bot": false,
@@ -30899,6 +30880,23 @@
       },
       "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
       "group_name": "KonKoe"
+    },
+    {
+      "uuid": "55d5a73e-345a-5e6b-8969-bc9609fedfc8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2113930477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哈噗HAPU",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e6b18f02-32ce-56e5-b2a9-34bc7df98d34",
@@ -95455,6 +95453,23 @@
       },
       "group": "aebb8a27-96ad-575f-99f7-485fb958d709",
       "group_name": "椛榊计划"
+    },
+    {
+      "uuid": "8958ea87-0a82-5144-a7d7-1458110a70a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493130116532870",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗寇Skul",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1deb8ed0-eb03-5386-8188-d5f33e0fc5fa",
