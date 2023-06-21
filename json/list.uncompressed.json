@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322847
+    "timestamp": 1687322875
   },
   "vtbs": [
     {
@@ -28134,6 +28134,23 @@
       }
     },
     {
+      "uuid": "21220b86-f788-54af-8f22-649ec4e785de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12597722",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卢奇塔Lukita",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7d537640-6df1-588c-9b7f-61358d080774",
       "type": "vtuber",
       "bot": false,
@@ -41123,6 +41140,23 @@
       "name": {
         "extra": [],
         "cn": "小澄_Clarify",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "233bfd0e-634a-57f8-ba6c-db1d60950c20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361094424699",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小熊奶呗",
         "default": "cn"
       }
     },
