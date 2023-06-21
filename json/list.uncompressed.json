@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322661
+    "timestamp": 1687322695
   },
   "vtbs": [
     {
@@ -65895,6 +65895,23 @@
       }
     },
     {
+      "uuid": "0fe7fac9-ce68-515f-810b-99b5233d4c47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493136596732776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泡芙受气包",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "57ab20c8-9fe3-5dd3-9285-b7cb52e65ddc",
       "type": "vtuber",
       "bot": false,
@@ -70460,6 +70477,24 @@
       "name": {
         "extra": [],
         "cn": "牧野梦咩_mume",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c5bbd67-e455-5db1-beab-cde6fd423902",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4377139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧野流",
+        "en": "Prozirno",
         "default": "cn"
       }
     },
