@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687322875
+    "timestamp": 1687322905
   },
   "vtbs": [
     {
@@ -48160,6 +48160,23 @@
       "group_name": "propro production"
     },
     {
+      "uuid": "0d5c59cc-6d3b-5e91-9700-9aeb01b18c23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "255935117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "懒帕森纳",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e4cfe79b-3a17-5fbc-b578-2f5f318109fe",
       "type": "vtuber",
       "bot": false,
@@ -58433,6 +58450,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "758c447f-878c-5f12-8542-0c169df362ca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356151438205",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柊羽花Syuuka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d042471-665d-52e4-9a5e-49a842538f5f",
@@ -91645,6 +91679,23 @@
       "name": {
         "extra": [],
         "cn": "菌菇酱_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "966a9c06-50ac-57b9-90ba-7c44f5cd33b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "677744233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菜菜姐莎疯了",
         "default": "cn"
       }
     },
