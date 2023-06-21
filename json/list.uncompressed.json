@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687346264
+    "timestamp": 1687346265
   },
   "vtbs": [
     {
@@ -32067,6 +32067,23 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "acf9aead-cfa1-59e2-b604-589f453c5107",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2496346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵花娜hana",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "26af6e01-fcb9-5cc1-8991-bc63c28bfa02",
       "type": "vtuber",
       "bot": false,
@@ -56707,6 +56724,23 @@
       "group_name": "猫邮社"
     },
     {
+      "uuid": "3bd77bdd-281e-52f5-9e31-02a17a71f60e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494350403143792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有苏云渺",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0628d740-c79f-5551-8d09-08c590814c70",
       "type": "vtuber",
       "bot": false,
@@ -65759,6 +65793,23 @@
         "extra": [],
         "cn": "江村由菜",
         "jp": "江村ゆな",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1f29865-6d26-5934-9d0d-2f0aafaeb165",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "99407665",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江苹果Ringo",
         "default": "cn"
       }
     },
