@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687427477
+    "timestamp": 1687427482
   },
   "vtbs": [
     {
@@ -11336,6 +11336,23 @@
         "default": "jp"
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47"
+    },
+    {
+      "uuid": "5aaa80eb-f183-518f-882b-2f4916f984a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1955360604",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "reichitose",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4497c9bc-0b31-5122-9180-6dd60eaf157d",
@@ -84465,6 +84482,23 @@
       "group_name": "超电VUP"
     },
     {
+      "uuid": "6375b528-a66f-5695-ae27-4406572c7e73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2031102228",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "箐Lilac",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4a79bb90-18cb-59e9-b016-c43798957466",
       "type": "vtuber",
       "bot": false,
@@ -87510,6 +87544,23 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "7cc4183d-9de7-50fc-9b6b-4251cb2ec310",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11061149",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯绮Fiochi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2d49b776-3d74-5aaa-b1d9-5710c2cb7085",
@@ -92551,6 +92602,23 @@
       "name": {
         "extra": [],
         "cn": "苏梦瑶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3a673a49-4049-5899-8774-3d741a73ce40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353710353242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏清岚_Lynlan",
         "default": "cn"
       }
     },
@@ -104508,6 +104576,23 @@
       "name": {
         "extra": [],
         "cn": "阿比_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2c7e6d72-2b2a-5c7e-b810-bd8ee0f5d6e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "364913484",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿沅camelia",
         "default": "cn"
       }
     },
