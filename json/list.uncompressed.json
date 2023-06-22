@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687403628
+    "timestamp": 1687403708
   },
   "vtbs": [
     {
@@ -24155,6 +24155,25 @@
         "cn": "冬泽枫",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5dc8ba17-ca2b-508f-9e9a-69415b59f46f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "688427555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬烨",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
+      "group_name": "ChaosLiveSprout"
     },
     {
       "uuid": "b7633796-99a6-5035-87d1-7b77e76a6df7",
@@ -66938,6 +66957,23 @@
       }
     },
     {
+      "uuid": "540867bb-146e-5e1c-b139-119e8be6d316",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493289460238782",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泠珑_lion",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "16327e32-5153-5883-a8cd-5ea10cd5d06a",
       "type": "vtuber",
       "bot": false,
@@ -78890,6 +78926,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "4ccd3dfe-6e54-5bd6-b675-b6c2f0eda58c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "247959678",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "的淡竹U离奇酱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7647bda0-43e0-5ea8-bd89-67331d15827b",
@@ -92253,6 +92306,26 @@
       }
     },
     {
+      "uuid": "b107981e-73c0-53f9-b681-683aca16e041",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1621028717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莁骸",
+        "en": "WuwuHh",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
+      "group_name": "ChaosLiveSprout"
+    },
+    {
       "uuid": "8811e136-dc95-580b-a06f-42cc9f1eb090",
       "type": "vtuber",
       "bot": false,
@@ -92670,6 +92743,23 @@
       "name": {
         "extra": [],
         "cn": "莓味布丁Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a8822e7e-433d-50e1-a97f-c05386ed8549",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493121916668049",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓莓Ume",
         "default": "cn"
       }
     },
