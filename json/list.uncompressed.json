@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687427482
+    "timestamp": 1687427487
   },
   "vtbs": [
     {
@@ -7308,6 +7308,23 @@
       "name": {
         "extra": [],
         "cn": "Riztech",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0c0979e0-26a4-5ffb-b9e9-701e8e2a3bdc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "443760543",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rogetsu_露月",
         "default": "cn"
       }
     },
@@ -17112,6 +17129,23 @@
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407",
       "group_name": "WACTOR"
+    },
+    {
+      "uuid": "702ea912-9ada-5324-90e1-a79b133cd301",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493267630983404",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万天尾鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4321f02b-d831-55df-875a-28b2f8419e78",
@@ -31628,6 +31662,23 @@
       },
       "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572",
       "group_name": "风云社"
+    },
+    {
+      "uuid": "bae55fb7-18a1-5abb-8096-2abaee1829cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1715592686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哈特-hart",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ca0342d3-fbac-5a17-9a76-826aed08fae8",
@@ -65217,6 +65268,23 @@
       }
     },
     {
+      "uuid": "f412bab8-c9d2-59c0-8d28-8d9012b7a92e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2279339",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘音kitsune",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d11f293c-1da7-5718-acc1-bed02a0275da",
       "type": "vtuber",
       "bot": false,
@@ -86447,6 +86515,23 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "8b4e881e-a0da-585f-beeb-1700273fca47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493094448171498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "红伶Bornea",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d32ea24d-a45f-50f0-a334-3b9142af9be2",
