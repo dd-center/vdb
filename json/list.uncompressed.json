@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687403714
+    "timestamp": 1687403843
   },
   "vtbs": [
     {
@@ -1853,6 +1853,23 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "97e3c529-4410-5ed3-81c5-4cdb408a27fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361092328393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Coco可颂",
+        "default": "cn"
+      }
     },
     {
       "uuid": "909b9dfc-3691-5887-8f38-40d8287fceb0",
@@ -93750,6 +93767,23 @@
       "name": {
         "extra": [],
         "cn": "萌糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a6bd8bb-14be-5ac4-8e63-a4e0e16c4979",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "57119113",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌音の宝宝",
         "default": "cn"
       }
     },
