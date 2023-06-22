@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687409396
+    "timestamp": 1687409397
   },
   "vtbs": [
     {
@@ -28143,6 +28143,23 @@
       "name": {
         "extra": [],
         "cn": "南瓜Kio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4d31ee63-1a2f-5028-931e-9713b007ace8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1755092759",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南笙__x",
         "default": "cn"
       }
     },
@@ -65536,6 +65553,23 @@
         "extra": [],
         "jp": "殺戮の天使",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "7bebc0cb-a90c-5afd-a36e-938202262fcd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493292996037572",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "每日必口胡的橘喵",
+        "default": "cn"
       }
     },
     {
