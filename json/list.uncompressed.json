@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687427497
+    "timestamp": 1687427502
   },
   "vtbs": [
     {
@@ -65726,6 +65726,23 @@
       }
     },
     {
+      "uuid": "1009678f-1a6a-5ea0-84f0-a9f0767efbde",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "57160954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "欧芙offu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "326bb3e1-c76d-596d-99ff-7e1576b020c4",
       "type": "vtuber",
       "bot": false,
@@ -77119,6 +77136,23 @@
       "name": {
         "extra": [],
         "cn": "甜梨",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6fb73d0e-8905-5f10-b299-a648804e0d49",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698168779",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜甜Official",
         "default": "cn"
       }
     },
