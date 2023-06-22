@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687411887
+    "timestamp": 1687411888
   },
   "vtbs": [
     {
@@ -77432,6 +77432,23 @@
         "extra": [],
         "jp": "癒魔魅娅",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "05b0f39f-682f-5ccb-9787-3229762b38d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493296353577117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "登登睡不够",
+        "default": "cn"
       }
     },
     {
