@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687403713
+    "timestamp": 1687403714
   },
   "vtbs": [
     {
@@ -64325,6 +64325,23 @@
       }
     },
     {
+      "uuid": "aac0fdb2-e5ef-565f-ace9-6eaeeca57012",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086105701153",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘橘Lelia",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ca006071-4bab-5f1a-9301-f9c1ce4a0778",
       "type": "vtuber",
       "bot": false,
@@ -106894,6 +106911,23 @@
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd",
       "group_name": "星巡学园"
+    },
+    {
+      "uuid": "1b8ee843-4351-51a7-9bcd-ace61dde060b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493090300004564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "顒不愚绯鸾",
+        "default": "cn"
+      }
     },
     {
       "uuid": "63420865-83c2-55cd-9bc5-3c232806cb59",
