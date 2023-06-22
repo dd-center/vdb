@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687403712
+    "timestamp": 1687403713
   },
   "vtbs": [
     {
@@ -80879,6 +80879,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "3de4810b-7afb-504e-8e59-1adcdbf1ce77",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270470527347",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祝盈盈BeiBei",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6870b0ca-5fb2-5766-b02a-5e09097e148a",
       "type": "vtuber",
       "bot": false,
@@ -89731,6 +89748,23 @@
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93",
       "group_name": "花寄女子寮"
+    },
+    {
+      "uuid": "fccd8739-32da-58d9-874a-9ac11c8efe91",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1812569138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花乃_Kano",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5180089e-2364-5e77-9081-d4c4a512ca01",
@@ -111817,6 +111851,23 @@
       "name": {
         "extra": [],
         "cn": "黛芮娅_daria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1972e185-8033-58b8-b700-89c089635dd7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493268188826440",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黛茜娅Yisa",
         "default": "cn"
       }
     },
