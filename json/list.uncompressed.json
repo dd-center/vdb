@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687539296
+    "timestamp": 1687539362
   },
   "vtbs": [
     {
@@ -26779,6 +26779,23 @@
       }
     },
     {
+      "uuid": "8d6ea04b-8d0a-5451-a6cf-15a40129d3f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493108708804674",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北也",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "90ca82cc-4d0d-5d88-9c7f-1b6a7fbd2322",
       "type": "vtuber",
       "bot": false,
@@ -33676,6 +33693,23 @@
         "default": "cn"
       },
       "group": "eef5fb94-75dc-532d-82c8-8c6e78457ed9"
+    },
+    {
+      "uuid": "be34f024-3849-5c1d-abfd-7118aac48d0f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10051195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四宫佑椛",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d3fd12bc-5f6b-5b22-ba24-6219d549e103",
@@ -46357,6 +46391,23 @@
       "name": {
         "extra": [],
         "cn": "希洛伊Shiroi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4997973a-d9c0-5b3f-a14d-78a1ba78ec21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1111347360",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希瑟尔Heather",
         "default": "cn"
       }
     },
@@ -74657,6 +74708,23 @@
       }
     },
     {
+      "uuid": "b06c2ce8-b467-5a30-abde-b397186bde1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "77817759",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "特蕾莎Theresa",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3fc4ec8c-74e2-5d1b-9cd4-d3fc91a2b88f",
       "type": "vtuber",
       "bot": false,
@@ -102208,6 +102276,23 @@
         "extra": [],
         "cn": "赤音",
         "jp": "Akane",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c4dc460-910f-5c8b-90a7-dd32d877dbac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2477877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤魂Akatama",
         "default": "cn"
       }
     },
