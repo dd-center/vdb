@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687497279
+    "timestamp": 1687497394
   },
   "vtbs": [
     {
@@ -30017,6 +30017,23 @@
       "name": {
         "extra": [],
         "cn": "叶小满Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "58010af6-0e4a-5e44-8980-19a40a7b0dd3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519739",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶小莓-ichigo",
         "default": "cn"
       }
     },
@@ -100064,6 +100081,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "680584ef-661d-53b6-8adc-5d26746d13da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493273119230233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺贝Nubes",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f7b5cf4a-ed4f-5f99-af17-ede60d358a4c",
