@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687542403
+    "timestamp": 1687542413
   },
   "vtbs": [
     {
@@ -1781,6 +1781,23 @@
       "name": {
         "extra": [],
         "cn": "CandyPink乔弥亚纳",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "15414a05-71e7-5479-9e79-f0c865e4528a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493296745744537",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Carry好凯森",
         "default": "cn"
       }
     },
@@ -18688,7 +18705,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "404564413",
+          "id": "291976608",
           "type": "official",
           "platform": "bilibili"
         }
@@ -49133,6 +49150,23 @@
       }
     },
     {
+      "uuid": "4ec902c8-525d-5fd8-8132-954fc0dd0673",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275388348816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御秋无水",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a90b47cc-499b-503e-90de-8460988cffa1",
       "type": "vtuber",
       "bot": false,
@@ -57875,6 +57909,23 @@
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
       "group_name": "虚研社"
+    },
+    {
+      "uuid": "bac14275-fd51-5ae6-86de-a6e1edcb73ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2574397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暮月响",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7d81f1a4-4310-5558-826b-0b665c9850bf",
@@ -111303,6 +111354,23 @@
       "name": {
         "extra": [],
         "cn": "靡烟miya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6290ca54-fe9f-5b46-8f27-502257bd4d9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3057020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鞠原夏生Natsuki",
         "default": "cn"
       }
     },
