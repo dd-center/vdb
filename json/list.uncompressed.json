@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687500353
+    "timestamp": 1687501489
   },
   "vtbs": [
     {
@@ -5244,6 +5244,23 @@
       "name": {
         "extra": [],
         "cn": "桃井最中Monaka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1a929d9-f68b-554f-b748-5a2a23c33db9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1419041175",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Momus",
         "default": "cn"
       }
     },
