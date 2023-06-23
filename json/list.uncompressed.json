@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687543864
+    "timestamp": 1687543575
   },
   "vtbs": [
     {
@@ -49604,6 +49604,23 @@
       "name": {
         "extra": [],
         "cn": "徹夜TETSUYA",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f835ed56-0877-5dcd-923e-05817e357ae7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "335005041",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "徽徽不吃瑜_av",
         "default": "cn"
       }
     },
