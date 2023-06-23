@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687543578
+    "timestamp": 1687544112
   },
   "vtbs": [
     {
@@ -16477,6 +16477,23 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "fb10bed7-f7eb-55c0-a630-1ac91584a084",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493266777442498",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只玉逐",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9e1b6dce-50f1-575f-a6e6-3d10e4f193ae",
@@ -64173,6 +64190,23 @@
       }
     },
     {
+      "uuid": "10e88635-cc9f-5e42-89a3-813f12605866",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9125534",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃沢Yuria",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "23d809b9-713f-5171-b132-21d147d3786c",
       "type": "vtuber",
       "bot": false,
@@ -73602,6 +73636,23 @@
       "name": {
         "extra": [],
         "cn": "濑户Totoni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "565c0d0c-1088-5f61-9c41-11989868ddbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "107961620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "濑濑_raiss",
         "default": "cn"
       }
     },
@@ -90026,6 +90077,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "f6efa62f-b385-5cc4-92f4-d680881adb82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1362120256",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "织一Zey",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b3778673-be9e-59ea-b532-8ada3e29f582",
@@ -114265,6 +114333,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少年电池er",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f64a9c9-ca99-54c9-bc81-f8c3d5221c95",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493262927072059",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法琳宝",
         "default": "cn"
       }
     },
