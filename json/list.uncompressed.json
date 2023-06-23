@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687497100
+    "timestamp": 1687497279
   },
   "vtbs": [
     {
@@ -1731,6 +1731,23 @@
         ],
         "en": "CHICKER",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "93a5249c-667f-5b78-9660-57f520d16e4c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493077958265235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CandyPink乔弥亚纳",
+        "default": "cn"
       }
     },
     {
@@ -21008,6 +21025,23 @@
       }
     },
     {
+      "uuid": "b15485c9-b204-5719-84cf-3465d6fd6571",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144547035730",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊奈璃inari",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fbe664ab-dc8b-5450-bb6e-e72e5e7093c6",
       "type": "vtuber",
       "bot": false,
@@ -35862,6 +35896,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "ee391cb5-7568-5f10-a5bf-95dfe37e6cb0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493093449927501",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜维Ive",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b5826d20-8ded-5abd-8459-b732e179b00e",
@@ -50988,6 +51039,23 @@
       "name": {
         "extra": [],
         "cn": "挚抒Makoto",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2d7c2e8-4d75-5363-99ed-0b52417d8fcc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461566812916000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "挞咪mibi",
         "default": "cn"
       }
     },
@@ -102816,6 +102884,23 @@
         "extra": [],
         "jp": "酒呑みみこ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a51d03f5-c2be-5d10-9be8-8894ab2f65e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1990361984",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒宵yoi",
+        "default": "cn"
       }
     },
     {
