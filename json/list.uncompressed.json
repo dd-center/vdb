@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687495304
+    "timestamp": 1687495281
   },
   "vtbs": [
     {
@@ -44310,6 +44310,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "98dfbfe1-1840-53b7-b22d-93549b3bf0c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1609157724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山茶Kamelia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a8faf901-bdce-568c-9f30-3b3590ea0066",
@@ -99470,6 +99487,23 @@
         "extra": [],
         "cn": "贝陆塔",
         "en": "Berta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4a9b7926-8ee2-563d-8a47-479daad7dd25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "482425350",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贞布多Buduo",
         "default": "cn"
       }
     },
