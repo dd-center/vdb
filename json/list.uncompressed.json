@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687539032
+    "timestamp": 1687539070
   },
   "vtbs": [
     {
@@ -4008,6 +4008,23 @@
       },
       "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
       "group_name": "纸片人计划"
+    },
+    {
+      "uuid": "dd5e83e5-41c7-5fbe-846d-1f4f95ad56a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1024097195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LAKE熊熊子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8",
@@ -79595,6 +79612,23 @@
       }
     },
     {
+      "uuid": "da7f1f40-6306-5df1-9537-016ec5b0ca98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1851241717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白小糖包",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5915cb23-c8ea-5fee-b673-f05c588234cf",
       "type": "vtuber",
       "bot": false,
@@ -80746,6 +80780,23 @@
       "name": {
         "extra": [],
         "cn": "白雏筱缘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "86937c49-5c0a-5997-9e15-d3c9c2867fd8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493278408247937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白雨ゆうや",
         "default": "cn"
       }
     },
@@ -90690,6 +90741,23 @@
       }
     },
     {
+      "uuid": "60fbefd1-aeba-51dd-8835-388a3ecde723",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1894981662",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "聆秋official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e30199bb-411c-5fb9-a272-acfe556548ec",
       "type": "vtuber",
       "bot": false,
@@ -99460,7 +99528,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "10759587",
+          "id": "1225738170",
           "type": "official",
           "platform": "bilibili"
         }
@@ -99469,9 +99537,7 @@
         "extra": [],
         "cn": "裔书Izu",
         "default": "cn"
-      },
-      "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b",
-      "group_name": "Croven教团"
+      }
     },
     {
       "uuid": "1b18a985-6c55-57e2-a56f-b930421d5b6b",
