@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687499891
+    "timestamp": 1687500139
   },
   "vtbs": [
     {
@@ -23746,6 +23746,23 @@
       "group_name": "WACTOR"
     },
     {
+      "uuid": "7d6a237c-ef83-54b9-871a-5758d325bd8b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "133268166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔耶铃erin",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e558d19f-650a-5529-96a6-109c9cfae1b2",
       "type": "vtuber",
       "bot": false,
@@ -29980,6 +29997,23 @@
       "name": {
         "extra": [],
         "cn": "可愛的島風",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "520db59f-9064-5f29-946c-7b40077d8d05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1932776892",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可拉Corra",
         "default": "cn"
       }
     },
@@ -47416,6 +47450,23 @@
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f",
       "group_name": "幻home"
+    },
+    {
+      "uuid": "bb2e0ef8-f2d7-57c8-8e7c-9fe49271a86b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13100124",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "应钟Clochette",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c0eff4bb-5f6b-50aa-a125-cd13d438383f",
@@ -83325,6 +83376,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "f3bdd191-1429-545f-be52-d6f19c016ccf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357135001823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祝夏_Zaya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3de4810b-7afb-504e-8e59-1adcdbf1ce77",
       "type": "vtuber",
       "bot": false,
@@ -109258,6 +109326,23 @@
       "name": {
         "extra": [],
         "cn": "露亚るちあ_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c2f97ea4-0afe-5f5c-943f-a2abfd3d8a54",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493295181269428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露元",
         "default": "cn"
       }
     },
