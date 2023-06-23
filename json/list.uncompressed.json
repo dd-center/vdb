@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687497350
+    "timestamp": 1687497279
   },
   "vtbs": [
     {
@@ -7291,6 +7291,23 @@
       "name": {
         "extra": [],
         "cn": "Ren_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "71ebcbb7-ba2d-5019-b320-8b6fc61ecd92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "313703744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rien-离缘",
         "default": "cn"
       }
     },
