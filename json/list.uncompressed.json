@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687527892
+    "timestamp": 1687528649
   },
   "vtbs": [
     {
@@ -21415,6 +21415,23 @@
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91",
       "group_name": "英灵殿ValhallaClub"
+    },
+    {
+      "uuid": "22ff96d7-37af-5bf5-a99e-3f058824feb1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493286914296565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊波inami",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a4ca17d7-2476-599c-9c37-5cc9b99fb087",
@@ -45219,6 +45236,23 @@
       "name": {
         "extra": [],
         "cn": "嶌永爱娜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4b67f852-dc69-5d94-b99c-3820a1f8fd61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493128027769580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "川井晶Akira",
         "default": "cn"
       }
     },
@@ -72600,6 +72634,23 @@
       "group_name": "NornsProject"
     },
     {
+      "uuid": "4c91f229-dd01-5c2c-ad41-b87d829db248",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "514416148",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "火锅Asahi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ebe74b12-5bb9-5ca7-b8cb-9d9f030abfaf",
       "type": "vtuber",
       "bot": false,
@@ -83861,6 +83912,23 @@
       "name": {
         "extra": [],
         "cn": "神山眠_nemuni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fce665fc-8a10-5a8f-8eb0-41387b8490b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353278339242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神山饭团",
         "default": "cn"
       }
     },
