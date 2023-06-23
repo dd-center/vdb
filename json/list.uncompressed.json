@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687495872
+    "timestamp": 1687495873
   },
   "vtbs": [
     {
@@ -69308,6 +69308,23 @@
       }
     },
     {
+      "uuid": "ed223be7-300e-5605-86f8-362300016934",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076087606214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛德薇安Ludivine",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "621929e4-1431-5dd6-ae0a-8921dd0d4151",
       "type": "vtuber",
       "bot": false,
@@ -74584,6 +74601,23 @@
       },
       "group": "02f5f560-4646-5fcb-ac58-81279c7e2c1e",
       "group_name": ".Live"
+    },
+    {
+      "uuid": "4ba6ad15-e969-5fe4-b332-761c09289735",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1916798337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫卜肉",
+        "default": "cn"
+      }
     },
     {
       "uuid": "54c3a6a5-a966-5453-9fdd-6298580fde6d",
@@ -86037,6 +86071,23 @@
       "name": {
         "extra": [],
         "cn": "米香",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5939abe4-c59c-5090-bf7d-ef682e9bbc3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134996605010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "粉蒸肉鸭ovo",
         "default": "cn"
       }
     },
