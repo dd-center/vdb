@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687498878
+    "timestamp": 1687498848
   },
   "vtbs": [
     {
@@ -500,6 +500,23 @@
         "extra": [],
         "en": "A.I.D",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "058efd58-8072-5fea-9c94-7b08f4754eed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493129197980464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AAA怪盗哈露Q",
+        "default": "cn"
       }
     },
     {
@@ -36098,6 +36115,23 @@
       "name": {
         "extra": [],
         "cn": "夜莺Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "934b5a4d-be0d-5d44-8ba0-bd3eedf1d9ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "245170535",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜莺小猎",
         "default": "cn"
       }
     },
@@ -76722,6 +76756,23 @@
       }
     },
     {
+      "uuid": "dc476279-3636-5aca-85bb-db2c14ec7faf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461582950501088",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理奈nya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f2f09319-c139-5d79-ab96-1a24ebb45a88",
       "type": "vtuber",
       "bot": false,
@@ -91901,6 +91952,23 @@
       "name": {
         "extra": [],
         "cn": "芙漓Foli",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bf78a7be-8337-597c-9c6f-b21d5b2c563a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "157705724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙狸fuli",
         "default": "cn"
       }
     },
@@ -114369,6 +114437,23 @@
       "name": {
         "extra": [],
         "cn": "黑泽诺亚NOIR",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51408b4b-8b54-5a6b-b89a-123b14004e19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17393395",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑洞Eva",
         "default": "cn"
       }
     },
