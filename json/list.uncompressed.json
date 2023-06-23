@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687495775
+    "timestamp": 1687495776
   },
   "vtbs": [
     {
@@ -62169,6 +62169,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "bc7c6452-00fe-5404-9829-2591a0735c04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354616322048",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栤甜雪狸suli",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6c646955-a85d-5eb5-b535-820a72f71ce4",
       "type": "vtuber",
       "bot": false,
@@ -73081,6 +73098,23 @@
       "name": {
         "extra": [],
         "cn": "爱实Manami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8f980124-3a5b-5ffb-9126-a11d7b7e9c81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2066486696",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱尔薇特Elverte",
         "default": "cn"
       }
     },
@@ -108544,6 +108578,23 @@
       "name": {
         "extra": [],
         "cn": "霧島アラシStudio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39377e3f-4234-5ac2-b31c-61895104a1e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353477569316",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霧薰kIri_",
         "default": "cn"
       }
     },
