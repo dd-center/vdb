@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "生姜_channel.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "生姜_channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"生姜\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"503783894\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "15311",
+    "body": "### description\nadd: 生姜_channel.json\nBiliBili UID: [503783894](https://space.bilibili.com/503783894)\n> KeyFrame at 06月23日 04:42\n\n![关键帧](http://i0.hdslb.com/bfs/live-key-frame/keyframe062304420000223866756p4p8d.jpg)\n\n```\n-----BEGIN SUBMIT BLOCK-----\ndGl0bGU6NTVTZjVhZWNYMk5vWVc1dVpXd3Vhbk52YmlBb01TOHRNQzhyTVNrPQpwdXQ6NTVTZjVhZWNYMk5vWVc1dVpXd3Vhbk52Ymc9PTpld29nSUNKdVlXMWxJam9nZXdvZ0lDQWdJbU51SWpvZ0l1ZVVuK1dubkNJS0lDQjlMQW9nSUNKaFkyTnZkVzUwY3lJNklIc0tJQ0FnSUNKaWFXeHBZbWxzYVNJNklDSTFNRE0zT0RNNE9UUWlDaUFnZlFwOQ==\n-----END SUBMIT BLOCK-----\n```\n\nSubmit from OneClick, please evaluate the automatic Pull Request"
+  }
+}
