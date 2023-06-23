@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687498620
+    "timestamp": 1687498644
   },
   "vtbs": [
     {
@@ -110054,6 +110054,23 @@
       "name": {
         "extra": [],
         "cn": "顾稚笙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4d0904c0-d42d-51f1-be81-e41d99c589d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493285765057251",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "颜了了LL",
         "default": "cn"
       }
     },
