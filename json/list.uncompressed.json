@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687539364
+    "timestamp": 1687539371
   },
   "vtbs": [
     {
@@ -42781,6 +42781,23 @@
           "小懒猫"
         ],
         "cn": "小懒猫Meow",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b38b112a-7c88-5a9b-8a40-fdd91ba63dad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1623959",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小新鱼Sakana",
         "default": "cn"
       }
     },
@@ -95639,6 +95656,23 @@
       }
     },
     {
+      "uuid": "fa16ccfc-d893-529c-a684-a14af4ea80fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22454718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶柚柚Yuko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cbc67008-af4a-5651-afdc-002d74fff397",
       "type": "vtuber",
       "bot": false,
@@ -105528,6 +105562,23 @@
       },
       "group": "67964ebf-d460-5c8b-96c4-d5ae68a17f2a",
       "group_name": "EVL-研究所"
+    },
+    {
+      "uuid": "3600ed4a-302a-572b-9396-db16607334da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493141021722807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃壶儿Bellpot",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e3a1ec6-7743-55e0-9738-06405d8891cb",
