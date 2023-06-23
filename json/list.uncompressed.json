@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687542430
+    "timestamp": 1687542440
   },
   "vtbs": [
     {
@@ -7139,6 +7139,23 @@
       "name": {
         "extra": [],
         "cn": "Quintincy_初号机",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bf0921fa-c5ff-5516-906b-976933908015",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1658666672",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Q帕-ホロヨイ",
         "default": "cn"
       }
     },
@@ -21680,6 +21697,23 @@
       "group_name": "P-SP"
     },
     {
+      "uuid": "394fb8eb-c407-5098-a607-aa4d088eb65c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493111875504488",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊织澪喵neko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0330e968-6324-5ce8-9a01-b32b23c7da69",
       "type": "vtuber",
       "bot": false,
@@ -30139,6 +30173,23 @@
       }
     },
     {
+      "uuid": "06bbab64-b164-56b4-8f4b-75dd8be57a6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144437983793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叫我小悠就好了",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b6866645-b6f6-57c0-afb7-7f9b56b9d89f",
       "type": "vtuber",
       "bot": false,
@@ -33437,6 +33488,23 @@
       "name": {
         "extra": [],
         "cn": "喵豆子nyazuko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "204eb92e-d2c8-58dd-823b-c0e8305ca471",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2142957261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵酱",
         "default": "cn"
       }
     },
@@ -66335,6 +66403,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "958a5425-762a-5499-95b3-c403672692be",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "614143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樒挽歌_banka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "340ca0bc-c0c1-54c7-add9-aaed321fd86f",
