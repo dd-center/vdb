@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687499311
+    "timestamp": 1687499331
   },
   "vtbs": [
     {
@@ -16534,6 +16534,23 @@
       "group_name": "GEMS_COMPANY官方"
     },
     {
+      "uuid": "96e2a6b6-fc83-5734-9f97-59b23494f02b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356562479225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一时予",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c1decaab-4710-5cee-bc5a-206eb2a655c7",
       "type": "vtuber",
       "bot": false,
@@ -26703,6 +26720,23 @@
       }
     },
     {
+      "uuid": "0db4ff7c-ef90-566e-abf4-3f00684dbf3a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "395899269",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北极光Auroraes",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1135d127-9bdf-5daf-a304-6c77119f198d",
       "type": "vtuber",
       "bot": false,
@@ -27077,6 +27111,23 @@
       "name": {
         "extra": [],
         "cn": "千响_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6204ddb7-9469-5c8e-a45a-dee8497c8cc6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493259596794617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千圣",
         "default": "cn"
       }
     },
@@ -56107,6 +56158,23 @@
       },
       "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010",
       "group_name": "神椿工作室"
+    },
+    {
+      "uuid": "314b28f2-8dbf-506a-811c-f89c67a827fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493267966528346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春盏儿Emerald",
+        "default": "cn"
+      }
     },
     {
       "uuid": "71484a8a-a6ee-5bd4-b315-1cff4112ba73",
