@@ -1,0 +1,18 @@
+{
+  "commands": [
+    [
+      "title",
+      "Momus-channel.json (1/-0/+1)",
+      ""
+    ],
+    [
+      "put",
+      "Momus-channel.json",
+      "{\n  \"name\": {\n    \"cn\": \"Momus\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"1419041175\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "15354",
+    "body": "### description\nadd: Momus-channel.json\nBiliBili UID: [1419041175](https://space.bilibili.com/1419041175)\n> KeyFrame at 06月22日 12:06\n\n![关键帧](http://i0.hdslb.com/bfs/live-key-frame/keyframe0622120600002524262715idtd.jpg)\n\n```\n-----BEGIN SUBMIT BLOCK-----\ndGl0bGU6VFc5dGRYTXRZMmhoYm01bGJDNXFjMjl1SUNneEx5MHdMeXN4S1E9PQpwdXQ6VFc5dGRYTXRZMmhoYm01bGJDNXFjMjl1OmV3b2dJQ0p1WVcxbElqb2dld29nSUNBZ0ltTnVJam9nSWsxdmJYVnpJZ29nSUgwc0NpQWdJbUZqWTI5MWJuUnpJam9nZXdvZ0lDQWdJbUpwYkdsaWFXeHBJam9nSWpFME1Ua3dOREV4TnpVaUNpQWdmUXA5\n-----END SUBMIT BLOCK-----\n```\n\nSubmit from OneClick, please evaluate the automatic Pull Request"
+  }
+}
