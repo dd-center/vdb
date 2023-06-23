@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687543573
+    "timestamp": 1687543806
   },
   "vtbs": [
     {
@@ -26311,6 +26311,23 @@
       "name": {
         "extra": [],
         "cn": "利泽特Lizette",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "caf9aec3-a228-590b-8c7c-21abdf2377f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493277185608112",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "利瑞斯Lirius",
         "default": "cn"
       }
     },
@@ -63319,6 +63336,23 @@
       }
     },
     {
+      "uuid": "43ffe567-b916-51cd-8245-01bb419d72b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353408363181",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗子与薏米",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f389fab7-0251-5083-9f94-e5d33be19291",
       "type": "vtuber",
       "bot": false,
@@ -71426,6 +71460,23 @@
       "name": {
         "extra": [],
         "cn": "浮樨落羽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "264b3b2e-d124-589d-a87f-b85f9a7ba65e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493294025738548",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浮酒盈樽",
         "default": "cn"
       }
     },
@@ -79972,6 +80023,23 @@
       "name": {
         "extra": [],
         "cn": "番茄",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "393af2a8-13f4-567d-b83e-bf7a20ab698c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270202091846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "疏岚Sillen",
         "default": "cn"
       }
     },
@@ -105437,6 +105505,23 @@
       "name": {
         "extra": [],
         "cn": "野比小融official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c862fd06-b2b6-51b7-970a-12643f53effc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "499135372",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "野里Nosato",
         "default": "cn"
       }
     },
