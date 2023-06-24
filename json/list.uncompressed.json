@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583852
+    "timestamp": 1687583854
   },
   "vtbs": [
     {
@@ -63318,6 +63318,23 @@
       }
     },
     {
+      "uuid": "8c2da542-b6bc-5b81-9478-8b21eaf7e076",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1128944670",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林汐-Aden",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3d306c79-34e4-56d2-b708-1e4f0f23875a",
       "type": "vtuber",
       "bot": false,
@@ -66984,6 +67001,23 @@
         "extra": [],
         "CN": "梨卡Rika",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "c86374b1-b56c-5616-852d-b43e3df3e1f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20918782",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨夜Riya",
+        "default": "cn"
       }
     },
     {
@@ -102789,6 +102823,23 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "5495f309-e331-5295-8e75-b017386a0cff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1762889682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜂子Beeko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4b1489a4-bda3-5086-bf02-a7c989a2a1b3",
       "type": "vtuber",
       "bot": false,
@@ -107420,6 +107471,23 @@
       "name": {
         "extra": [],
         "cn": "邀墨やも_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a7f00a79-7b13-5ee1-8e6e-8886148419a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17215345",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "那就是奶茶好啦",
         "default": "cn"
       }
     },
