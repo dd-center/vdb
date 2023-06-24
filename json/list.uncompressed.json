@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583084
+    "timestamp": 1687583085
   },
   "vtbs": [
     {
@@ -8076,6 +8076,23 @@
       "name": {
         "extra": [],
         "cn": "Shimimo_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a4f3d39-c75b-561a-bfdd-5da9fb211363",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493279037393020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Shine_沁",
         "default": "cn"
       }
     },
@@ -27351,6 +27368,23 @@
       "group_name": "P-SP"
     },
     {
+      "uuid": "6648fc2f-9991-56cf-9b39-bd46b94ddf7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1871656178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北桜葵Aoiko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "53e80417-b413-5cb5-8af9-5feca2ac00b7",
       "type": "vtuber",
       "bot": false,
@@ -28931,6 +28965,23 @@
       "name": {
         "extra": [],
         "cn": "单单Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "29948746-74ee-5abf-9745-c42b6052ea34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493264013396487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "单单狐闹",
         "default": "cn"
       }
     },
@@ -60931,6 +60982,23 @@
       "name": {
         "extra": [],
         "cn": "木野子_KINOKO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ebec0913-233f-557f-9c30-8c05782454f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275098941585",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木间璃灯",
         "default": "cn"
       }
     },
