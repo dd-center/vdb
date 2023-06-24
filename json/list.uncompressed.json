@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583382
+    "timestamp": 1687583957
   },
   "vtbs": [
     {
@@ -64305,6 +64305,23 @@
       }
     },
     {
+      "uuid": "2153d163-e23b-53f8-944c-3d5012b306a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "42994351",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗子猫azure",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f389fab7-0251-5083-9f94-e5d33be19291",
       "type": "vtuber",
       "bot": false,
@@ -82257,6 +82274,23 @@
       "name": {
         "extra": [],
         "cn": "白梦梦梦梦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8d3105ed-ecb7-5306-8ca7-283245c76686",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16123998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白毛Bmmua",
         "default": "cn"
       }
     },
