@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687613267
+    "timestamp": 1687613421
   },
   "vtbs": [
     {
@@ -32032,6 +32032,23 @@
       }
     },
     {
+      "uuid": "826f2431-d774-554d-97d4-877561ebf38e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "481877183",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吃不饱的妙妙",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d5219f3a-f1f4-56be-9bd9-81c763e588fa",
       "type": "vtuber",
       "bot": false,
@@ -38770,6 +38787,23 @@
       }
     },
     {
+      "uuid": "e9e2b7a5-bde3-5546-a0f1-a0820d7a6059",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397224266",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大魔王洛小篱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "249a3d91-9db5-5157-a05a-a7e77b738fc6",
       "type": "vtuber",
       "bot": false,
@@ -40125,6 +40159,23 @@
       "name": {
         "extra": [],
         "cn": "太皮鹿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d7b24da2-50f9-53dd-b70b-9543f6cad4ca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23445219",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夹心曲奇Miao",
         "default": "cn"
       }
     },
@@ -61365,6 +61416,23 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "2e8d813b-0fa5-5842-9d51-bd31750041ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461578848471449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月理理yli",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7db50b21-109e-5d52-8d4c-31a163285ce9",
@@ -101105,6 +101173,23 @@
       },
       "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8",
       "group_name": "LBG"
+    },
+    {
+      "uuid": "7fac4e58-94aa-5a8e-9a0e-edb85b37e0cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493136603024147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉莉安娜Liliana",
+        "default": "cn"
+      }
     },
     {
       "uuid": "13570914-a5b2-5ebd-94ff-bffabb925eee",
