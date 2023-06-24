@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687584198
+    "timestamp": 1687584645
   },
   "vtbs": [
     {
@@ -7546,6 +7546,23 @@
       "name": {
         "extra": [],
         "cn": "Rien-离缘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6de9d176-b934-5b95-a75c-c070ecdd044f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104822782591",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rin_Ukiyo",
         "default": "cn"
       }
     },
@@ -27339,6 +27356,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b3a1cad7-b604-5b6d-b0a1-aad6626132ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493140218514110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "劳伦斯lawrance",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e8e27c90-1381-569a-9cb6-26a3e9abe21b",
@@ -74656,6 +74690,23 @@
       }
     },
     {
+      "uuid": "9e5c9965-d5b5-5f8d-9c5f-1a85b880360b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493131339172350",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清清才不是大聪明",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "91e4f728-bef5-5d58-aede-c226cca54323",
       "type": "vtuber",
       "bot": false,
@@ -105945,6 +105996,23 @@
         "extra": [],
         "cn": "贝陆塔",
         "en": "Berta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "40b4ac01-489e-54d3-93eb-8625019690fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1724435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝露菲_Belph",
         "default": "cn"
       }
     },
