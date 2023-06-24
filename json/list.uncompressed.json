@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687612861
+    "timestamp": 1687612863
   },
   "vtbs": [
     {
@@ -5114,6 +5114,23 @@
       "name": {
         "extra": [],
         "cn": "Mico酱在摸鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c033b104-311d-5558-af29-929087a490d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "546992218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mie喵月",
         "default": "cn"
       }
     },
@@ -44872,6 +44889,23 @@
       "group_name": "花寄女子寮"
     },
     {
+      "uuid": "78111dda-fcb7-5820-9d6a-5aad8a6de2b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275088456063",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小松子芊芊",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0dc4394a-4988-5e94-9e2f-4f5d875a6978",
       "type": "vtuber",
       "bot": false,
@@ -45933,6 +45967,23 @@
         "extra": [],
         "jp": "小野町春香",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "b3e2c75e-3bf8-5f94-b92b-09b572694235",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "170501937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小野马Luna",
+        "default": "cn"
       }
     },
     {
@@ -81111,6 +81162,23 @@
       "group_name": "神椿工作室"
     },
     {
+      "uuid": "57d97d79-c213-55c9-a2ff-4d3fbecbf8e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1510373188",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琉夏Lucia",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1e9ed2ef-810d-5c72-bf5a-42db5d6e2551",
       "type": "vtuber",
       "bot": false,
@@ -102329,6 +102397,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "3f64e901-32bd-5772-9f60-f7afbaf8e00b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9103339",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "落子莯是酸哒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0f5bcf5a-a339-54d6-ae18-8734514b966c",
