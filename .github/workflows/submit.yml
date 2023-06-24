@@ -22,11 +22,11 @@ jobs:
 
     - run: git pull origin master
 
-    - name: Save Change
-      run: node script/saveChange.mjs
-      env:
-        ISSUE_NUMBER: ${{ github.event.issue.number }}
-        ISSUE_BODY: ${{ github.event.issue.body }}
+    # - name: Save Change
+    #   run: node script/saveChange.mjs
+    #   env:
+    #     ISSUE_NUMBER: ${{ github.event.issue.number }}
+    #     ISSUE_BODY: ${{ github.event.issue.body }}
 
     - run: git checkout -b ${{ format('submit-{0}', github.event.issue.number) }}
 

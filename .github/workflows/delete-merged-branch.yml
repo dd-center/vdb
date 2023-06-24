@@ -15,29 +15,29 @@ jobs:
         with:
           delete_closed_pr: true
 
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.bottoken }}
-          ref: master
+      # - uses: actions/checkout@v3
+      #   with:
+      #     token: ${{ secrets.bottoken }}
+      #     ref: master
 
-      - name: Use Node.js 18
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+      # - name: Use Node.js 18
+      #   uses: actions/setup-node@v3
+      #   with:
+      #     node-version: '18'
 
-      - run: git pull origin master
+      # - run: git pull origin master
 
-      - name: Delete Change
-        run: node script/deleteChange.mjs
-        env:
-          PR_HEAD_LABEL: ${{ github.event.pull_request.head.label }}
+      # - name: Delete Change
+      #   run: node script/deleteChange.mjs
+      #   env:
+      #     PR_HEAD_LABEL: ${{ github.event.pull_request.head.label }}
           
-      - run: git add vtbs-review
-      - run: git commit -m "Delete Change"
-        env:
-          GIT_AUTHOR_NAME: vdb-bot
-          GIT_AUTHOR_EMAIL: tend.runnier0q@icloud.com
-          GIT_COMMITTER_NAME: vdb-bot
-          GIT_COMMITTER_EMAIL: tend.runnier0q@icloud.com
-      - run: git pull origin master
-      - run: git push origin master
+      # - run: git add vtbs-review
+      # - run: git commit -m "Delete Change"
+      #   env:
+      #     GIT_AUTHOR_NAME: vdb-bot
+      #     GIT_AUTHOR_EMAIL: tend.runnier0q@icloud.com
+      #     GIT_COMMITTER_NAME: vdb-bot
+      #     GIT_COMMITTER_EMAIL: tend.runnier0q@icloud.com
+      # - run: git pull origin master
+      # - run: git push origin master
