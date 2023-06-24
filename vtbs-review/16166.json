@@ -1,0 +1,23 @@
+{
+  "commands": [
+    [
+      "name",
+      "CL",
+      ""
+    ],
+    [
+      "title",
+      "铃音Suzune.json (1/-0/+0)",
+      ""
+    ],
+    [
+      "put",
+      "铃音Suzune.json",
+      "{\n  \"2d\": true,\n  \"name\": {\n    \"cn\": \"铃音Suzune\"\n  },\n  \"accounts\": {\n    \"bilibili\": \"39267739\",\n    \"other\": \"https://pome.vip/suzune01\"\n  }\n}"
+    ]
+  ],
+  "issue": {
+    "number": "16166",
+    "body": "\n\n### description\n\nupdate: 铃音Suzune.json\n> <https://space.bilibili.com/39267739>\n> <https://pome.vip/suzune01>\n\n\n```\n-----BEGIN SUBMIT BLOCK-----bmFtZTpRMHc9CnRpdGxlOjZaT0Q2Wit6VTNWNmRXNWxMbXB6YjI0Z0tERXZMVEF2S3pBcApwdXQ6NlpPRDZaK3pVM1Y2ZFc1bExtcHpiMjQ9OmV3b2dJQ0l5WkNJNklIUnlkV1VzQ2lBZ0ltNWhiV1VpT2lCN0NpQWdJQ0FpWTI0aU9pQWk2Wk9ENlorelUzVjZkVzVsSWdvZ0lIMHNDaUFnSW1GalkyOTFiblJ6SWpvZ2V3b2dJQ0FnSW1KcGJHbGlhV3hwSWpvZ0lqTTVNalkzTnpNNUlpd0tJQ0FnSUNKdmRHaGxjaUk2SUNKb2RIUndjem92TDNCdmJXVXVkbWx3TDNOMWVuVnVaVEF4SWdvZ0lIMEtmUT09-----END SUBMIT BLOCK-----\n```\n\nSubmit from <https://submit.vtbs.moe>, please evaluate the automatic Pull Request"
+  }
+}
