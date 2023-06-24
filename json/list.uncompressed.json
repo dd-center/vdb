@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687585001
+    "timestamp": 1687585027
   },
   "vtbs": [
     {
@@ -25857,6 +25857,23 @@
       "name": {
         "extra": [],
         "cn": "冰雪的次元酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a3c25c72-267c-58e3-aa3b-278a90ef96fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134189202377",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冴米yami",
         "default": "cn"
       }
     },
