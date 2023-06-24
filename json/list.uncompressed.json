@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687612863
+    "timestamp": 1687613009
   },
   "vtbs": [
     {
@@ -24106,6 +24106,23 @@
       }
     },
     {
+      "uuid": "009a9a92-699c-5f05-b74e-8cbc22707280",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "602116911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克莉丝Christine",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "439b480e-0cef-5519-8451-4ce3849c1c6e",
       "type": "vtuber",
       "bot": false,
@@ -25422,6 +25439,23 @@
       "name": {
         "extra": [],
         "cn": "兴趣使然的BQ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6eaff2ce-17b2-52bd-bee1-04b1527059a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493079621307165",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "其祁sama",
         "default": "cn"
       }
     },
