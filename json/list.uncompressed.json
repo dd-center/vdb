@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583187
+    "timestamp": 1687583078
   },
   "vtbs": [
     {
@@ -50314,6 +50314,23 @@
       "name": {
         "extra": [],
         "cn": "忘忧翎Luyori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "083d6817-30a7-5c8b-812d-04d5e13d0a29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "323905978",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忧特若丝_Uterus",
         "default": "cn"
       }
     },
