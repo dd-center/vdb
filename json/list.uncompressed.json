@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583729
+    "timestamp": 1687583848
   },
   "vtbs": [
     {
@@ -55,6 +55,23 @@
         "extra": [],
         "cn": "西比尔",
         "en": "Sibylla",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a82e90f-aa93-5b74-b28b-e05660eabab5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "46955540",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-Yutti",
         "default": "cn"
       }
     },
@@ -29561,6 +29578,23 @@
       }
     },
     {
+      "uuid": "f73b262c-1622-5370-8ba9-0c7b6e4befbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4064953",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南黎Minakuro",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b37429ce-8c17-5562-b421-ea28479af409",
       "type": "vtuber",
       "bot": false,
@@ -29797,6 +29831,23 @@
       "name": {
         "extra": [],
         "cn": "卡恩马林娜罗德尼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4467de47-2c60-5d74-8803-b46fa3fcd3f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1715394332",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡拉多carado",
         "default": "cn"
       }
     },
@@ -39617,6 +39668,23 @@
       "name": {
         "extra": [],
         "cn": "奈夜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c4519d7-f513-5414-aa42-ac5d62078fe8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1064029133",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈奈不是垫的",
         "default": "cn"
       }
     },
@@ -54900,6 +54968,23 @@
       },
       "group": "54f12813-1527-5f52-b566-3b36f51d676b",
       "group_name": "C-Live_Project"
+    },
+    {
+      "uuid": "0ab63f3f-8c22-5114-94a6-3b5423d4f7bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461575742589698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时沉yeah",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7c116061-9794-5c77-ac33-3a8b2baa2175",
