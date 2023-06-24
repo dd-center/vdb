@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687583181
+    "timestamp": 1687583225
   },
   "vtbs": [
     {
@@ -31144,6 +31144,23 @@
       "name": {
         "extra": [],
         "cn": "叶笙Wolf",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "68ec0237-d505-52d4-af97-3b26f71d08dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "26227937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶纯会努力",
         "default": "cn"
       }
     },
@@ -81244,6 +81261,23 @@
       "group_name": "Hololive"
     },
     {
+      "uuid": "7e04c2be-472e-5c11-9d82-d2758950fc3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9150697",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白丸子030",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e0889b64-0b95-5684-b2d6-c216b6e945ae",
       "type": "vtuber",
       "bot": false,
@@ -99542,6 +99576,23 @@
       "group_name": "ChaosLiveSprout"
     },
     {
+      "uuid": "44f1dd27-1b3e-5416-8344-8a5687806657",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "388171",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萤乌路空",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "faef550c-c0e7-5ae8-b58d-e10edfbd7aab",
       "type": "vtuber",
       "bot": false,
@@ -104568,6 +104619,23 @@
         "extra": [],
         "cn": "玫菈",
         "jp": "めら",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "605d7321-4457-5095-960d-1d59f8e47ab1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493263069677827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "超绝可爱绘理娜Erina",
         "default": "cn"
       }
     },
