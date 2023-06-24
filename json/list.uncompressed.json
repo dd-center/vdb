@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687613508
+    "timestamp": 1687613609
   },
   "vtbs": [
     {
@@ -72168,6 +72168,23 @@
       }
     },
     {
+      "uuid": "4ded17da-6062-5c84-b124-a7157a9282fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12476124",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐汐Ame",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "34f954d3-72d2-5feb-9d36-1a7d773406e0",
       "type": "vtuber",
       "bot": false,
@@ -94695,6 +94712,23 @@
       "name": {
         "extra": [],
         "cn": "缇娅阿比斯TiaAbyss",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0629e59f-3526-5f58-85b0-4672f7ae8682",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1362631089",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缇尔Til",
         "default": "cn"
       }
     },
@@ -120697,6 +120731,23 @@
       "name": {
         "extra": [],
         "cn": "鹿喵lumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7ce9654f-a0a8-5362-afe3-fdec69ff048e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "403113524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿娘amelia",
         "default": "cn"
       }
     },
