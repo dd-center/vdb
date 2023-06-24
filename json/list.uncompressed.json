@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687612579
+    "timestamp": 1687612705
   },
   "vtbs": [
     {
@@ -106976,6 +106976,23 @@
       "name": {
         "extra": [],
         "cn": "赵太郎TV",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39ac1d81-db2a-59ae-95ce-1bd73f9970ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493274501253860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "起司Creaoi",
         "default": "cn"
       }
     },
