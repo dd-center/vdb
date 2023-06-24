@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687584015
+    "timestamp": 1687584016
   },
   "vtbs": [
     {
@@ -41927,6 +41927,23 @@
       "group_name": "winks"
     },
     {
+      "uuid": "f5e16199-afd8-516b-b60a-4f29c7cd9488",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493282516568831",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "季风_Seasonal",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b9c5a596-d97f-519e-999a-65f7aa1fef8b",
       "type": "vtuber",
       "bot": false,
@@ -43364,6 +43381,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b93ca0d1-ec40-5123-8333-392e320ab77f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12275946",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "家雀爱恰西瓜",
+        "default": "cn"
+      }
     },
     {
       "uuid": "41205d1f-61d6-55b1-b76c-3d23f3f9091f",
@@ -45500,6 +45534,23 @@
       }
     },
     {
+      "uuid": "6494903a-dea3-505a-b940-c329cb2e8ec0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52450149",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小野卯月_Utsuki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "21baa317-f39b-5c69-8486-5982d3a63aa1",
       "type": "vtuber",
       "bot": false,
@@ -46590,6 +46641,23 @@
       "name": {
         "extra": [],
         "cn": "山奈小师妹",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c85835d4-7509-589b-85fe-3d9e6abd0882",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1463737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山山是小山兔_slan",
         "default": "cn"
       }
     },
@@ -117561,6 +117629,23 @@
       },
       "group": "22d93676-ba23-5e64-9771-4f27291dad28",
       "group_name": "ECHO-制作委员会"
+    },
+    {
+      "uuid": "c0d67403-0ddc-5d17-b6ba-298bd09ab5f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7903807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲨Samekan",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a22d805c-a956-5deb-ac3b-ff17b98ea829",
