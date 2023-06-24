@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687612369
+    "timestamp": 1687612432
   },
   "vtbs": [
     {
@@ -88011,6 +88011,23 @@
       }
     },
     {
+      "uuid": "e5fd398f-86a2-5e03-8341-40bcd847f845",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6487721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神崎凉子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c343975e-cbcd-5b2b-8d31-14ea7cd8b39f",
       "type": "vtuber",
       "bot": false,
@@ -95505,6 +95522,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "be4a90b9-2d44-52d8-8573-6d19bd6cbe9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2909683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "舒卡勒托Scarlet",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "69e84b86-57ef-51ca-9c75-30c93ea65a45",
       "type": "vtuber",
       "bot": false,
@@ -96988,6 +97022,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "aeb05915-e9b9-55ca-b39b-a45b298cbe2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493282638203618",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙菈吧噗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b03b3221-be50-553c-8b76-d0c110e2dbdd",
