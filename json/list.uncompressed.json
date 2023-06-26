@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687761640
+    "timestamp": 1687761811
   },
   "vtbs": [
     {
@@ -36374,6 +36374,23 @@
       "name": {
         "extra": [],
         "cn": "埋宝宝OwO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04da5f95-90f7-5b98-b5d3-e339e41be30c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1620778694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "城汐_sunshine",
         "default": "cn"
       }
     },
