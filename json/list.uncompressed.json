@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760011
+    "timestamp": 1687760309
   },
   "vtbs": [
     {
@@ -48010,6 +48010,23 @@
       "name": {
         "extra": [],
         "cn": "山茶Kamelia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "000a31e0-a3f1-5276-802b-2b4a75dfb52e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461566647241432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山野霧",
         "default": "cn"
       }
     },
