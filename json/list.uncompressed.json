@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760535
+    "timestamp": 1687760565
   },
   "vtbs": [
     {
@@ -1560,6 +1560,23 @@
         "extra": [],
         "jp": "Azulim",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "98ac762e-c086-5d90-ae2e-35ac1ffe2600",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116917057919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Az不叫啊这",
+        "default": "cn"
       }
     },
     {
@@ -19168,6 +19185,23 @@
       "name": {
         "extra": [],
         "cn": "丧择乐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4ecfa8cb-ef54-5bf7-ab36-04db5c72eeb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3015678",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丨梅洛Mello丨",
         "default": "cn"
       }
     },
