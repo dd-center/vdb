@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687771418
+    "timestamp": 1687771576
   },
   "vtbs": [
     {
@@ -32462,6 +32462,23 @@
       "name": {
         "extra": [],
         "cn": "召唤师yami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "01773591-c43a-5c2f-8ab3-7d2a78945b9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1740780921",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可丽奈_Rina",
         "default": "cn"
       }
     },
@@ -65303,6 +65320,23 @@
         "extra": [],
         "jp": "朝ノ姉妹ぷろじぇくと",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "8122befe-cc86-5703-86a8-7747fc89e936",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "605942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝仓鱼块AsakuraYukai",
+        "default": "cn"
       }
     },
     {
@@ -114560,6 +114594,23 @@
       "name": {
         "extra": [],
         "cn": "迹择JiZe",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b7c765b-0680-5dc2-a3a2-3f5e2a72b0d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1350623",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "逆叔Neo",
         "default": "cn"
       }
     },
