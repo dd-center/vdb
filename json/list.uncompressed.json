@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760924
+    "timestamp": 1687761033
   },
   "vtbs": [
     {
@@ -16742,6 +16742,23 @@
       "name": {
         "extra": [],
         "cn": "一千万只拉姆达",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bc77e8c3-4b78-5566-976c-ad49b2e140ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493261505202710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一口一个Mao头",
         "default": "cn"
       }
     },
@@ -71099,6 +71116,23 @@
       }
     },
     {
+      "uuid": "0bf0b3e0-772b-5c1d-ad20-e0bbd2b0c918",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1279599946",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱桃子_Nico",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4fe86e54-49e5-5188-9051-6ed36ed33873",
       "type": "vtuber",
       "bot": false,
@@ -74925,6 +74959,23 @@
       "name": {
         "extra": [],
         "cn": "泽拉茉娅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e934665e-1c5b-5d35-9673-53ece9e4ae29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493262526515510",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽维艾拉",
         "default": "cn"
       }
     },
@@ -117151,6 +117202,23 @@
       },
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754",
       "group_name": "鸽鹉live"
+    },
+    {
+      "uuid": "67d23abf-a2da-58df-8b87-bcc7f199238a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493103960853073",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零梦RinMon",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f247a59d-e114-5b79-a956-9551e930c1d1",
