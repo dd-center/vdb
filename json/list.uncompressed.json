@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760648
+    "timestamp": 1687760651
   },
   "vtbs": [
     {
@@ -79162,6 +79162,23 @@
       "name": {
         "extra": [],
         "cn": "爆辣鱼翅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3950d46d-fcb7-5a87-9a73-8bd8531974c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493274532710557",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱上幼一",
         "default": "cn"
       }
     },
