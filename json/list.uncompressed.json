@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687761951
+    "timestamp": 1687762069
   },
   "vtbs": [
     {
@@ -585,6 +585,23 @@
         "extra": [],
         "en": "A.I.D",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "7873a36d-a381-5347-a9e7-01d9837e9ff7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1098521847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AAA专业虚拟主播",
+        "default": "cn"
       }
     },
     {
