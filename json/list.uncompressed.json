@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687761068
+    "timestamp": 1687761095
   },
   "vtbs": [
     {
@@ -27946,6 +27946,23 @@
         "extra": [],
         "jp": "加贺美隼人工业搬运部",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "16966c48-e68b-5908-bd50-39f380df58c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493091157739881",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "努特Nut",
+        "default": "cn"
       }
     },
     {
