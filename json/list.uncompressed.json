@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760507
+    "timestamp": 1687760535
   },
   "vtbs": [
     {
@@ -34686,6 +34686,23 @@
       }
     },
     {
+      "uuid": "ae2f80a4-852c-5757-baed-27162cb4fe4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1880288683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啾可Cyuko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ee9ef02d-ccb3-5615-bfc1-7cfb90b97c28",
       "type": "vtuber",
       "bot": false,
@@ -42954,6 +42971,23 @@
       "name": {
         "extra": [],
         "cn": "子言姐姐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8dc36e52-27d1-52ae-8b1c-d632e7921ba9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493269281442090",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "孑美奈Gemini",
         "default": "cn"
       }
     },
