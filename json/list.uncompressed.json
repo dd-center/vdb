@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687708654
+    "timestamp": 1687759974
   },
   "vtbs": [
     {
@@ -9382,6 +9382,23 @@
         "default": "en"
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b"
+    },
+    {
+      "uuid": "24b54982-646a-50ae-80a0-7ae38ca3d6a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17767211",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Valda玉尘",
+        "default": "cn"
+      }
     },
     {
       "uuid": "09290c33-d1b8-5974-8baf-060bbf49bb5c",
