@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687760908
+    "timestamp": 1687760924
   },
   "vtbs": [
     {
@@ -22343,6 +22343,23 @@
         "extra": [],
         "jp": "伊月マリア",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "6e311269-e104-5ce9-b2ae-9c132f053973",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1884585195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊格尔_Igor",
+        "default": "cn"
       }
     },
     {
