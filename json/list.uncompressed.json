@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687761638
+    "timestamp": 1687761640
   },
   "vtbs": [
     {
@@ -11376,6 +11376,23 @@
       "name": {
         "extra": [],
         "cn": "kuuri_Vtuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dfba062c-7483-5baf-86bb-afed74c333e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1089732924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "laiciffO_白贞雪飘",
         "default": "cn"
       }
     },
@@ -66449,6 +66466,23 @@
       }
     },
     {
+      "uuid": "8d83530d-9be1-50ef-9798-6667f3cfbe13",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8654396",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柒玖月Singer",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9cfbf74b-df55-5cef-a257-44d1ceb38b1d",
       "type": "vtuber",
       "bot": false,
@@ -95635,6 +95669,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "0cc0bc35-dc11-5c0d-ac98-21e04822041f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493081800247520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绀野芽郁",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f6efa62f-b385-5cc4-92f4-d680881adb82",
       "type": "vtuber",
       "bot": false,
@@ -98902,6 +98953,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "3397a651-c032-5fa0-9c48-e5864fd36938",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493109130333139",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾斯缇Asti",
+        "default": "cn"
+      }
     },
     {
       "uuid": "95d13e71-0b71-5b4b-b290-0d93de55233b",
