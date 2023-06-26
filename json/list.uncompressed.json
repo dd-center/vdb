@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687770808
+    "timestamp": 1687770809
   },
   "vtbs": [
     {
@@ -34144,6 +34144,23 @@
       }
     },
     {
+      "uuid": "c8563288-2891-5d1a-8dbd-7ceb11c6d1c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25680350",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咖喱Curryy",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0dbaac1f-abcb-5fd3-aae7-df2a3a34854e",
       "type": "vtuber",
       "bot": false,
@@ -49015,6 +49032,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "62556dad-107b-5f7f-832a-3f0d91a65d1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1193396138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山竹团团Bamboo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "98dfbfe1-1840-53b7-b22d-93549b3bf0c3",
@@ -108817,6 +108851,23 @@
       }
     },
     {
+      "uuid": "a7d05f6b-2679-58bb-8c85-fd019fcaba22",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078658713990",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西也子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "238ee89f-1905-5794-8630-a822c37c2d09",
       "type": "vtuber",
       "bot": false,
@@ -118713,6 +118764,23 @@
       "name": {
         "extra": [],
         "cn": "雪菜卷儿Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c73fd703-feb1-5bb5-82fc-05abb771ebdc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275604355261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪薇澜Viola",
         "default": "cn"
       }
     },
