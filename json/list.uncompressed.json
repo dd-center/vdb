@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687771609
+    "timestamp": 1687771685
   },
   "vtbs": [
     {
@@ -59666,6 +59666,23 @@
       }
     },
     {
+      "uuid": "2de58a91-2a12-5a56-939b-24d1838867fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493120719194807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宮宇宙",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "11c5b75f-ff28-5089-b80f-30e74508e463",
       "type": "vtuber",
       "bot": false,
@@ -81498,6 +81515,23 @@
       "name": {
         "extra": [],
         "cn": "燃宝ivan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "319db2e8-d628-543f-9b2e-efcd122037e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493268394346753",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "燕欺yakii",
         "default": "cn"
       }
     },
