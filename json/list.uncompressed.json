@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687761033
+    "timestamp": 1687761068
   },
   "vtbs": [
     {
@@ -105008,6 +105008,23 @@
       "name": {
         "extra": [],
         "cn": "蒂莉雅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3bc3a038-6fee-58a3-9bc2-73e7dbea3d76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1898801080",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒂莱米Lemi",
         "default": "cn"
       }
     },
