@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687771576
+    "timestamp": 1687771609
   },
   "vtbs": [
     {
@@ -51436,6 +51436,23 @@
       "group_name": "MZ次元"
     },
     {
+      "uuid": "71567c86-fabd-5d58-9916-5a70cabba72d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6634844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕缇Patti",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "220060b2-e53d-51fb-89f7-8821fe4bb5e5",
       "type": "vtuber",
       "bot": false,
@@ -54356,6 +54373,23 @@
       },
       "group": "f49e8e3e-0dc9-5125-81c6-5c8d6c497f94",
       "group_name": "WonIDOLand"
+    },
+    {
+      "uuid": "20bd3b6f-3366-505a-8671-b882cc06fbd7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493262440532294",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心碎小野",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ee537d5c-3d48-5645-a596-517d9d099275",
@@ -117512,6 +117546,23 @@
       "name": {
         "extra": [],
         "cn": "闹闹",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "109d812c-037c-5c04-b212-4d53a87ef3f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4753926",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闻枝Nano",
         "default": "cn"
       }
     },
