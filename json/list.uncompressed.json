@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687878367
+    "timestamp": 1687878432
   },
   "vtbs": [
     {
@@ -59555,6 +59555,23 @@
       "name": {
         "extra": [],
         "cn": "星响零",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "363d19a3-6b05-53dd-aa8b-b886569acbef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11674098",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星哲哲Astra",
         "default": "cn"
       }
     },
