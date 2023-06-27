@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687844196
+    "timestamp": 1687844321
   },
   "vtbs": [
     {
@@ -56851,6 +56851,23 @@
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
       "group_name": "Nature"
+    },
+    {
+      "uuid": "1e8257c5-b40f-5ade-8710-68563d9ff882",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493266337040956",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉弥亚Lamiya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a00462e8-d811-53fc-8e9f-3b1b035c195f",
