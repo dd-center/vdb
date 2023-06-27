@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687844161
+    "timestamp": 1687844196
   },
   "vtbs": [
     {
@@ -100681,6 +100681,23 @@
       "name": {
         "extra": [],
         "cn": "肉肉嘟着嘴",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "066d84a6-825d-552d-9a84-728b2d120f7f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493138406574467",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肚肚kiri",
         "default": "cn"
       }
     },
