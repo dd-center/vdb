@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848359
+    "timestamp": 1687848390
   },
   "vtbs": [
     {
@@ -73050,6 +73050,23 @@
       "name": {
         "extra": [],
         "cn": "樱井林official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b84322ff-85c0-5836-bebc-a22e497cc41a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493256839039159",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱井白桃Momoka",
         "default": "cn"
       }
     },
