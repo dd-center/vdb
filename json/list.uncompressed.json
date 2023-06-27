@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687849052
+    "timestamp": 1687849257
   },
   "vtbs": [
     {
@@ -93494,6 +93494,23 @@
         "default": "cn"
       },
       "group": "9709a2c5-843f-5615-aa16-a2e1d3cca78f"
+    },
+    {
+      "uuid": "d50f3029-7d04-563c-a3f7-b8eb86d2a4d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461582650608292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神樂_Cassis",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6dd3d97b-1d17-53f1-966e-ec83e0331632",
