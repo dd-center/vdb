@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848076
+    "timestamp": 1687848286
   },
   "vtbs": [
     {
@@ -127899,6 +127899,23 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
+    },
+    {
+      "uuid": "67227a12-8aef-57ba-89c3-886884790f57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "84780271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑泽莉乃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02f9f122-0cbb-5eaf-920e-b2394cae5a16",
