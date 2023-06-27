@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687835718
+    "timestamp": 1687843788
   },
   "vtbs": [
     {
@@ -31961,6 +31961,23 @@
       "name": {
         "extra": [],
         "cn": "原上雪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f48817c-5435-5b12-8390-fbec3aa9b33e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2143542068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "原里奈奈Nana",
         "default": "cn"
       }
     },
