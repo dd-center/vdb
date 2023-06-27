@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848711
+    "timestamp": 1687848755
   },
   "vtbs": [
     {
@@ -69991,6 +69991,23 @@
       "name": {
         "extra": [],
         "cn": "桃司小丸子Maruko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a101a010-b24a-528d-9d6e-2a9b3dfea82f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "756650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃咕咚",
         "default": "cn"
       }
     },
