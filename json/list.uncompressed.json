@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848967
+    "timestamp": 1687849052
   },
   "vtbs": [
     {
@@ -52964,6 +52964,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "9c217408-0818-5131-b775-47a6aee0c36e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493146725976455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弗明奈特INSANIS",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6cc1373a-5d98-591c-8058-4d89a9f309d2",
