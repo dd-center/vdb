@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687843985
+    "timestamp": 1687844031
   },
   "vtbs": [
     {
@@ -87010,6 +87010,23 @@
       "name": {
         "extra": [],
         "cn": "生姜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0998eac8-11dc-54f3-8fca-a0009257b9b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "287624656",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "生巧莓子chocomayco",
         "default": "cn"
       }
     },
