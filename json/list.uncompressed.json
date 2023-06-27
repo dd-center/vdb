@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687844382
+    "timestamp": 1687848076
   },
   "vtbs": [
     {
@@ -32585,6 +32585,23 @@
       },
       "group": "fb7977c3-8198-5021-a136-3c8de14290f7",
       "group_name": "猫邮社"
+    },
+    {
+      "uuid": "2d1688f1-019a-5169-85b0-8860039a1e84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1913458182",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可依koyi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "83198ccd-8fe8-509e-9a64-433500abe886",
