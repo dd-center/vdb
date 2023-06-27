@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848286
+    "timestamp": 1687848359
   },
   "vtbs": [
     {
@@ -103633,6 +103633,23 @@
       "name": {
         "extra": [],
         "cn": "花燭乃婭_Noah",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "05219fde-2c14-5c31-b95d-bafb40a3d977",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4328621",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花猫子",
         "default": "cn"
       }
     },
