@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687780648
+    "timestamp": 1687834981
   },
   "vtbs": [
     {
@@ -100015,6 +100015,23 @@
       },
       "group": "4aec98b8-98ce-50a3-8eed-3a5367406293",
       "group_name": "空想岛"
+    },
+    {
+      "uuid": "6c672c41-0f9c-5ff8-8f83-1775458ad32b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1357705819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽田依",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a5ea7106-2ba4-580d-b521-c06c8e128f9c",
