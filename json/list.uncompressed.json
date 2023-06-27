@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687844031
+    "timestamp": 1687844090
   },
   "vtbs": [
     {
@@ -95404,6 +95404,23 @@
       "name": {
         "extra": [],
         "cn": "筱离笙Kageshino",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "611400f0-36ea-5041-a6b7-8cfcac808f58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493140910573644",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筱筱啊Shino",
         "default": "cn"
       }
     },
