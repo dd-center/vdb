@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687848889
+    "timestamp": 1687848967
   },
   "vtbs": [
     {
@@ -57195,6 +57195,23 @@
       "group_name": "妖灵project"
     },
     {
+      "uuid": "fd207430-86c8-5a9b-bf70-7548a7e5bf57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493143928375746",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "提尔忒Thelta",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0a7666cf-f411-5b92-9be0-8419a80801df",
       "type": "vtuber",
       "bot": false,
@@ -75700,6 +75717,23 @@
       "name": {
         "extra": [],
         "cn": "汐詺-sekina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b32d45cc-a171-5d2f-a363-c557201506c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6064698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐雲飛鳥Asuka",
         "default": "cn"
       }
     },
