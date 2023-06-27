@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687878105
+    "timestamp": 1687878173
   },
   "vtbs": [
     {
@@ -56934,6 +56934,23 @@
       "name": {
         "extra": [],
         "cn": "拉斯洛official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11d6dad2-bfd5-5dd5-a42e-2c4aa35c3de6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1568416362",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉瑞克斯LaRics",
         "default": "cn"
       }
     },
