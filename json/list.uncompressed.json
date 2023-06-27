@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687849257
+    "timestamp": 1687878105
   },
   "vtbs": [
     {
@@ -98854,6 +98854,23 @@
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d",
       "group_name": "童猫会"
+    },
+    {
+      "uuid": "f3ad6e6f-23ea-529c-807b-5c3a8e7c1b5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "86471108",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫月乃萝",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5ee10674-65e0-5d37-87a0-cb8610abd97a",
