@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952614
+    "timestamp": 1687952738
   },
   "vtbs": [
     {
@@ -76099,6 +76099,23 @@
       },
       "group": "7ac99c40-0768-5b6b-a402-86a8517197f3",
       "group_name": "哔哩哔哩电竞"
+    },
+    {
+      "uuid": "a4f5a23c-9a4a-56a9-aed0-8f4e7fd117fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1491639482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池雾An",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1ad8f24a-a79e-51a1-8ec7-acf925fcdb7a",
