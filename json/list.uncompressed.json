@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687878637
+    "timestamp": 1687918263
   },
   "vtbs": [
     {
@@ -58459,6 +58459,23 @@
       "name": {
         "extra": [],
         "cn": "日寄郁",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7dfc994f-895b-55d4-8e0d-a2dfc9fd20f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461570571012503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日暮昭昭",
         "default": "cn"
       }
     },
