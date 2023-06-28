@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952946
+    "timestamp": 1687953139
   },
   "vtbs": [
     {
@@ -60044,6 +60044,23 @@
       "group_name": "狄灵计划"
     },
     {
+      "uuid": "27268e15-d31b-5164-b138-43bcc0ecb27e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "272855736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星屋爱弥Amy",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fdf85ced-7957-5284-9768-da3496228006",
       "type": "vtuber",
       "bot": false,
@@ -118364,6 +118381,23 @@
       "name": {
         "extra": [],
         "cn": "阮阮Rabiice",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4fb701e6-718f-50c8-8296-404fd35c9528",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85428825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阮鹤",
         "default": "cn"
       }
     },
