@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952738
+    "timestamp": 1687952809
   },
   "vtbs": [
     {
@@ -74320,6 +74320,23 @@
       "name": {
         "extra": [],
         "cn": "欣栎_Shinyue",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e026d0f-a1aa-5855-8bd5-852ec309d776",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "373059940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "欣然大小姐驾到",
         "default": "cn"
       }
     },
