@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952203
+    "timestamp": 1687952286
   },
   "vtbs": [
     {
@@ -75324,6 +75324,23 @@
         "extra": [],
         "en": "水莲Suiren_vt",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "6eaa677b-d1d4-5c46-8bd2-eb121060808c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2096381",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水银女巫Mercury",
+        "default": "cn"
       }
     },
     {
