@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952547
+    "timestamp": 1687952614
   },
   "vtbs": [
     {
@@ -39736,6 +39736,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "2bf52b2d-1039-50bc-9916-45933790227d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1144478480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜空爱瑠",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ee391cb5-7568-5f10-a5bf-95dfe37e6cb0",
