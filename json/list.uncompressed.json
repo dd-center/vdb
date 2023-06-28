@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1687952907
+    "timestamp": 1687952946
   },
   "vtbs": [
     {
@@ -7863,6 +7863,23 @@
         "extra": [],
         "en": "Reimu的地灵殿",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "d0cee4f8-3b93-5fc5-853e-9a7cc6b1c327",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4441705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rem露冴",
+        "default": "cn"
       }
     },
     {
