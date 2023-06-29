@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013488
+    "timestamp": 1688013525
   },
   "vtbs": [
     {
@@ -97067,6 +97067,23 @@
       "group_name": "EOE组合"
     },
     {
+      "uuid": "5ac5806a-012b-5909-ae67-f87ed15529f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49510709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米豆山",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6e90c061-5b14-566c-a3c7-a59665019cca",
       "type": "vtuber",
       "bot": false,
@@ -100166,6 +100183,23 @@
       "name": {
         "extra": [],
         "cn": "绵绵千雪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "40a9e4f7-f0cd-59d9-8e77-7b2742546826",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089016547807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绾秋Aki",
         "default": "cn"
       }
     },
