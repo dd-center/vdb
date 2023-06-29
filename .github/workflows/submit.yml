@@ -33,6 +33,8 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ format('submit-{0}', github.event.issue.number) }}
         labels: "bot"
+        title: ""
+        body: ""
 
     - name: Enable Auto Merge
       run: node script/autoMerge.js
