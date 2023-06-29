@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013660
+    "timestamp": 1688013686
   },
   "vtbs": [
     {
@@ -94385,6 +94385,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "e7824763-e577-532c-8954-1224d0113d66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44128967",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神秘の发发",
+        "default": "cn"
+      }
     },
     {
       "uuid": "78adc243-faee-5d03-9596-3f6d70249f20",
