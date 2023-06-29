@@ -20,37 +20,26 @@ jobs:
     - name: npm install
       run: npm install
 
-    - run: git pull origin master
-
-    # - name: Save Change
-    #   run: node script/saveChange.mjs
-    #   env:
-    #     ISSUE_NUMBER: ${{ github.event.issue.number }}
-    #     ISSUE_BODY: ${{ github.event.issue.body }}
-
-    - run: git checkout -b ${{ format('submit-{0}', github.event.issue.number) }}
-
     - name: Commit Branch
       run: node script/submitPr.js
       env:
         ISSUE_NUMBER: ${{ github.event.issue.number }}
         ISSUE_BODY: ${{ github.event.issue.body }}
 
-    - run: git push origin ${{ format('submit-{0}', github.event.issue.number) }} -f
-
     - name: Create Pull Request
       id: open-pr
-      uses: repo-sync/pull-request@v2
+      uses: peter-evans/create-pull-request@v5
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        source_branch: ${{ format('submit-{0}', github.event.issue.number) }}
-        pr_label: "bot"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ format('submit-{0}', github.event.issue.number) }}
+        labels:
+          - bot
 
     - name: Enable Auto Merge
       run: node script/autoMerge.js
       env:
         GITHUB_TOKEN: ${{ secrets.bottoken }}
-        NUMBER: ${{ steps.open-pr.outputs.pr_number }}
+        NUMBER: ${{ steps.open-pr.outputs.pull-request-number }}
 
     - name: Close Issue
       run: node script/closeIssue.js
