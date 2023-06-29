@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688014250
+    "timestamp": 1688014295
   },
   "vtbs": [
     {
@@ -69016,6 +69016,23 @@
       }
     },
     {
+      "uuid": "ed80275b-18f9-54b5-b74d-c8276e9e996b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493129973926687",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柒柒Kira",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2eeca199-ec5b-5d0f-842e-640c0f525116",
       "type": "vtuber",
       "bot": false,
@@ -85872,6 +85889,23 @@
       "name": {
         "extra": [],
         "cn": "玉米桐生バトラ玉米",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c55d499-b3d5-578f-9b1a-5c284a48b19f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "451078192",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王不胥",
         "default": "cn"
       }
     },
