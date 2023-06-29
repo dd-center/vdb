@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013525
+    "timestamp": 1688013635
   },
   "vtbs": [
     {
@@ -39051,6 +39051,23 @@
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2",
       "group_name": "夕映结社"
+    },
+    {
+      "uuid": "65e1bfc0-e982-5aa2-81ef-9e667fab3e19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493289766422528",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕月空sora",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d57f068f-3f2a-55d9-aa6d-6e350e67eb9c",
