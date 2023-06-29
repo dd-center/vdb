@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013795
+    "timestamp": 1688013903
   },
   "vtbs": [
     {
@@ -18264,6 +18264,23 @@
       "name": {
         "extra": [],
         "cn": "万天尾鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "912332f9-330f-55fd-807c-f2f797a0dde0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1894693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万恶之源陵老师",
         "default": "cn"
       }
     },
@@ -48229,6 +48246,23 @@
       "name": {
         "extra": [],
         "cn": "小红豆露露",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0561317a-a27f-51f5-bf2a-a81f6fe88046",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1317670861",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小绘Kairi",
         "default": "cn"
       }
     },
