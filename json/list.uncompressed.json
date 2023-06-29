@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013974
+    "timestamp": 1688013996
   },
   "vtbs": [
     {
@@ -10311,6 +10311,23 @@
         "default": "cn"
       },
       "group": "a7195ae4-4ee3-5905-a447-4c528d788666"
+    },
+    {
+      "uuid": "64f378d8-124c-5b5a-9260-254155e3c98e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356482787514",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "YO攸路OY",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e8843c48-a666-5ebb-acc8-42da7f3a7d23",
@@ -103106,6 +103123,23 @@
       "name": {
         "extra": [],
         "cn": "艾蒂娜Attina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "caf7156d-ae06-5781-85b7-78583eae0f32",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15354797",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾蕾尔Ariel",
         "default": "cn"
       }
     },
