@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013686
+    "timestamp": 1688013730
   },
   "vtbs": [
     {
@@ -98297,6 +98297,23 @@
         "extra": [],
         "jp": "結心愛",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "74b65f19-e545-55e5-88d2-47d872e86e39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9004535",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "絢瀬えりこ_Official",
+        "default": "cn"
       }
     },
     {
