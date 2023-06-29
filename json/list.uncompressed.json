@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688013903
+    "timestamp": 1688013974
   },
   "vtbs": [
     {
@@ -126524,6 +126524,23 @@
       "group_name": "夕映结社"
     },
     {
+      "uuid": "6b5bd133-a2ee-5279-b96d-847618a63dbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493273354111113",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔拉echo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "44e219c1-3ee3-53ac-9984-fbf5795e75fd",
       "type": "vtuber",
       "bot": false,
@@ -128080,6 +128097,23 @@
       "name": {
         "extra": [],
         "cn": "鹤鹤不咕咕ovo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3cfb5638-af42-5724-9177-dc81b97b608d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7050639",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹪纳森mori",
         "default": "cn"
       }
     },
