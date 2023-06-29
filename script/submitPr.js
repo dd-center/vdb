@@ -1,6 +1,6 @@
 const { writeFile, unlink } = require('fs').promises
 const { join } = require('path')
-const { EOL } = require('os')
+const { setOutput } = require('@actions/core')
 
 const { GitProcess } = require('dugite')
 
@@ -33,8 +33,8 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
     await gitExec(['add', 'vtbs-review'], gitUser)
     await gitExec(['add', 'vtbs'], gitUser)
     await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
-    await writeFile(GITHUB_OUTPUT, `title=${title}${EOL}`)
-    await writeFile(GITHUB_OUTPUT, `body=${ISSUE_BODY}\nclose #${ISSUE_NUMBER}${EOL}`)
+    setOutput('title', title)
+    setOutput('body', `${ISSUE_BODY}\nclose #${ISSUE_NUMBER}`)
   }
   if (block) {
     await unlink(saveName).catch(() => {})
