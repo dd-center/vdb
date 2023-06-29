@@ -31,7 +31,7 @@ jobs:
       id: open-pr
       uses: peter-evans/create-pull-request@v5
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.bottoken }}
         branch: ${{ format('submit-{0}', github.event.issue.number) }}
         labels: "bot"
         title: ${{ steps.commit.outputs.title }}
