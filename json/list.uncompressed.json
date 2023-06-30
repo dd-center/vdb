@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688102273
+    "timestamp": 1688102275
   },
   "vtbs": [
     {
@@ -38527,6 +38527,23 @@
       }
     },
     {
+      "uuid": "e5a2b918-501a-5655-bc32-c1f21a69dd81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1385310954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏夜Saya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2c5b9b81-8608-5bf3-b6e9-7e71caef984f",
       "type": "vtuber",
       "bot": false,
@@ -50073,6 +50090,23 @@
       }
     },
     {
+      "uuid": "b911df5f-bda6-5133-a5a8-8acc660c19b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8018712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "居居喵丶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "65647125-22f3-5a07-ae30-85d64de0ef1c",
       "type": "vtuber",
       "bot": false,
@@ -50355,6 +50389,23 @@
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
       "group_name": "虚研社"
+    },
+    {
+      "uuid": "5bc06f6b-a569-5362-acf8-d6dac08bbd51",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20575250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山海-诵歌",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f49cddce-5ad0-54e6-b876-da39f36944b4",
@@ -87791,6 +87842,23 @@
       "name": {
         "extra": [],
         "cn": "瑜瑜驯养手册",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f3d0d058-09b5-5fea-889f-5c832d1bea23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493093267474601",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞丝卡Risskar",
         "default": "cn"
       }
     },
