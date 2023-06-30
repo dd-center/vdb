@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688102727
+    "timestamp": 1688102735
   },
   "vtbs": [
     {
@@ -101734,6 +101734,23 @@
       "name": {
         "extra": [],
         "cn": "绾芍Wanser",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8a2d6a65-da98-5dd2-b3bc-a1b4164e7fee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275012959190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绿豆沙茶酱",
         "default": "cn"
       }
     },
