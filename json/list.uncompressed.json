@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688103497
+    "timestamp": 1688109145
   },
   "vtbs": [
     {
@@ -31636,6 +31636,23 @@
       }
     },
     {
+      "uuid": "4d5e29fc-b89d-5176-87b2-33b0d3b48e09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38635877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南一NanE",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ea616555-26c7-50ae-a250-0ca7bf1979b7",
       "type": "vtuber",
       "bot": false,
@@ -38310,6 +38327,23 @@
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739",
       "group_name": "Tinsgoo-Project"
+    },
+    {
+      "uuid": "40673ecb-d5fe-5425-9faa-3dc93c7edc0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1605847446",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔莎Trisha",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dc0ef00d-6d20-556d-a4c1-8d9397ed2190",
@@ -52529,6 +52563,35 @@
       "group_name": "幻想社Fantas1A"
     },
     {
+      "uuid": "7fbc3968-4042-5433-b859-b3872bc07075",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4613840",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Shiro520",
+          "type": "official",
+          "platform": "popiask"
+        },
+        {
+          "id": "33133627",
+          "type": "official",
+          "platform": "acfun"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希洛Shiro",
+        "default": "cn"
+      },
+      "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
+      "group_name": "Vi-D"
+    },
+    {
       "uuid": "a49a28f6-82d4-58bc-a533-efb4c391c5ac",
       "type": "vtuber",
       "bot": false,
@@ -55760,6 +55823,23 @@
       },
       "group": "466b2417-38ec-5162-8b5e-82ea6eabcef3",
       "group_name": "UpAllLight"
+    },
+    {
+      "uuid": "818c1e27-34e3-540c-a976-70a17f9bf1a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1992677061",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心左Shito",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a67e33f4-d1dc-5953-9ce6-8813d86870e1",
@@ -86596,35 +86676,6 @@
       "group_name": "Makuroka"
     },
     {
-      "uuid": "0dcf6e09-0165-5e27-9dc4-bcc1d5eb727f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "4613840",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "Shiro520",
-          "type": "official",
-          "platform": "popiask"
-        },
-        {
-          "id": "33133627",
-          "type": "official",
-          "platform": "acfun"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "猫山シロ",
-        "default": "cn"
-      },
-      "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
-      "group_name": "Vi-D"
-    },
-    {
       "uuid": "b7b3181e-525d-53a9-9349-93f8fd1a7cec",
       "type": "vtuber",
       "bot": false,
@@ -109522,6 +109573,23 @@
       }
     },
     {
+      "uuid": "ded4b398-4f7b-5ef9-8610-de227bd18761",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11901723",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荔子Lizz",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3565156e-d8d8-5440-a488-bdc98c7d47f3",
       "type": "vtuber",
       "bot": false,
@@ -112290,6 +112358,23 @@
       "name": {
         "extra": [],
         "cn": "蒙娜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47dc9344-3baf-5df6-9043-cc9172717e59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "625528120",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒜蒜_Garlic",
         "default": "cn"
       }
     },
