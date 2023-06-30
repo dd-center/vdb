@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688102484
+    "timestamp": 1688102552
   },
   "vtbs": [
     {
@@ -6891,6 +6891,23 @@
         "default": "cn"
       },
       "group": "6acf34a1-2562-5fe3-a5e4-a4863861daa7"
+    },
+    {
+      "uuid": "24c01e64-1fd7-5117-ac4f-f87ff1c8932a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493109669300847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "osmond",
+        "default": "en"
+      }
     },
     {
       "uuid": "9e0e8a7e-3cbf-5799-9b2a-4d338c707b87",
@@ -46217,6 +46234,24 @@
       }
     },
     {
+      "uuid": "33e10540-5ccc-5ea0-b463-00678cb28bdd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493089568098592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安阮阮",
+        "en": "Aithne",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f4655db4-a8b5-5f8b-9cce-4410685720a8",
       "type": "vtuber",
       "bot": false,
@@ -57056,6 +57091,24 @@
       "name": {
         "extra": [],
         "cn": "懒狗阿缘",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "37e326f7-0009-5cb1-86ce-062a2e18c70b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1761504705",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "戈林德",
+        "en": "GrindMoko",
         "default": "cn"
       }
     },
@@ -98659,6 +98712,23 @@
       }
     },
     {
+      "uuid": "d05ae554-b492-516b-b298-7721b68f8a33",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115390331580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖酥方程式",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e9fdd01c-d1c3-5752-9b74-f789fb7cc4de",
       "type": "vtuber",
       "bot": false,
@@ -114451,6 +114521,23 @@
       }
     },
     {
+      "uuid": "858c9865-19e7-503a-a324-8d132da621a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1100110564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诱SAVIOR",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "479733ac-7136-5c53-bb57-161c93e2f6d4",
       "type": "vtuber",
       "bot": false,
@@ -120574,6 +120661,23 @@
       "name": {
         "extra": [],
         "cn": "闪鳞Shining",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1e2b7109-31b0-5bd6-bce0-4f03c20a14ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493136020015116",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "问倏",
         "default": "cn"
       }
     },
