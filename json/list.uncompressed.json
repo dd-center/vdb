@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688103495
+    "timestamp": 1688103497
   },
   "vtbs": [
     {
@@ -1742,6 +1742,23 @@
         "cn": "晴步子",
         "jp": "バフコ",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "ab3fbf28-cbfe-559a-9648-c017b18804e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1361858997",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Bane_Kukulcan",
+        "default": "cn"
       }
     },
     {
@@ -30040,6 +30057,23 @@
       "name": {
         "extra": [],
         "cn": "十_Tsunashi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f1be4b24-14cd-5b3b-9a5e-a1087fa0d01e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "383860407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十一E1even",
         "default": "cn"
       }
     },
@@ -61504,6 +61538,23 @@
       "group_name": "Virtual放送部"
     },
     {
+      "uuid": "e2d747cf-e951-5bec-8440-e8e3f78cd6a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "416346435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宮甜霧きり",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "04bcaa60-1b16-50d2-9a6d-700b04d19fd5",
       "type": "vtuber",
       "bot": false,
@@ -85225,6 +85276,23 @@
       }
     },
     {
+      "uuid": "a1fe94ec-978e-5bec-b13e-52599dab007b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1803077783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬尾芽芽",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "56852ffd-5f18-550b-89d8-0b1156d6b3f8",
       "type": "vtuber",
       "bot": false,
@@ -98047,6 +98115,23 @@
       }
     },
     {
+      "uuid": "3a98970e-798b-51cc-8bef-cdf11efaabe6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "192597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹原晴",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "53a3e55b-29cb-54a3-b5b6-30b51e96da95",
       "type": "vtuber",
       "bot": false,
@@ -99418,6 +99503,23 @@
       "name": {
         "extra": [],
         "cn": "精灵希尔芙Sylph",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "46d98320-9514-5b3f-a3c1-e13944ebc147",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7728653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖啵啵",
         "default": "cn"
       }
     },
