@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688237973
+    "timestamp": 1688238007
   },
   "vtbs": [
     {
@@ -48885,6 +48885,23 @@
       "name": {
         "extra": [],
         "cn": "小澄_Clarify",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5b20ff5a-1487-55b1-a2c4-5b5fb488755e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "453653330",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小灰猫Kaposi",
         "default": "cn"
       }
     },
