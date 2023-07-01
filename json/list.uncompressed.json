@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688237202
+    "timestamp": 1688237242
   },
   "vtbs": [
     {
@@ -73744,6 +73744,23 @@
       }
     },
     {
+      "uuid": "db3f4a53-b1cf-54a4-aa64-0516b4b5c304",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477679591",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦灯Meito",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4d2a6b94-a4b4-5929-9cdf-ebd0dff04a08",
       "type": "vtuber",
       "bot": false,
@@ -98145,6 +98162,23 @@
       "name": {
         "extra": [],
         "cn": "竹一墩uzoo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "871ab256-8e93-5357-82e3-217a8da92125",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25082964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹井酒Sake",
         "default": "cn"
       }
     },
