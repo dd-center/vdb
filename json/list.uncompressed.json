@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688238033
+    "timestamp": 1688238071
   },
   "vtbs": [
     {
@@ -78607,6 +78607,23 @@
       "name": {
         "extra": [],
         "cn": "沉溺于你的Butterfly",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c72ee170-4535-5514-bed6-272a302a17c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7444104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沉阳-SWODIER",
         "default": "cn"
       }
     },
