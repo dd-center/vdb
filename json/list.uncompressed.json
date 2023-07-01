@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688237823
+    "timestamp": 1688237929
   },
   "vtbs": [
     {
@@ -101233,6 +101233,23 @@
       "name": {
         "extra": [],
         "cn": "纪代因果_Inga",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3dfa369e-40ae-500a-b13e-6d70650861d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2897146",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纪伊光KiiHikari",
         "default": "cn"
       }
     },
