@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688300970
+    "timestamp": 1688310840
   },
   "vtbs": [
     {
@@ -126152,6 +126152,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "3ebed37d-409f-5c04-8d1c-f3295fc11c98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369191528599",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾空不是大师兄",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2111cecc-b9db-5acc-84ee-aefa432f932d",
