@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688294164
+    "timestamp": 1688294190
   },
   "vtbs": [
     {
@@ -61358,6 +61358,23 @@
       },
       "group": "9149cba3-59e7-5dfe-84a4-4a8d3280de91",
       "group_name": "英灵殿ValhallaClub"
+    },
+    {
+      "uuid": "c0cb02bd-2e00-5194-a9f1-e648bb0e5f37",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2758030",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星夜黑时S",
+        "default": "cn"
+      }
     },
     {
       "uuid": "13611851-a9e5-5f43-a1cb-fa4999b92bb4",
