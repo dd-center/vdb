@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688311527
+    "timestamp": 1688312102
   },
   "vtbs": [
     {
@@ -109233,6 +109233,23 @@
       },
       "group": "0c0c81b5-fc69-5ee9-a2cb-f77fb303b682",
       "group_name": "雨林社"
+    },
+    {
+      "uuid": "5a19619e-591e-50a9-a294-228e1a283a1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493291479796496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茯苓_Cocos",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a02ac37e-a195-54e2-9c06-d164d59bfc77",
