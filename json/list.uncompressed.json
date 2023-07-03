@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407094
+    "timestamp": 1688407143
   },
   "vtbs": [
     {
@@ -41121,6 +41121,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "20590d8c-dab1-577c-828f-03e52d89dc97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1200960667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜小白sodayo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "78df8c3c-5a41-5e16-9df4-86ecbc26ab58",
@@ -118438,6 +118455,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "e323f38e-df57-530a-8d9d-38295d6c5b46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493126280841251",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺薇莉尔Noveril",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1b0d0496-bc4c-5c91-9d6d-17e759631a5c",
