@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407071
+    "timestamp": 1688407094
   },
   "vtbs": [
     {
@@ -136312,6 +136312,23 @@
       "name": {
         "extra": [],
         "cn": "龙野铃铃Rinrin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "86cb39af-e668-548e-8c48-88b8e57acc18",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293033786171",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "龙霸天天天天天天",
         "default": "cn"
       }
     }
