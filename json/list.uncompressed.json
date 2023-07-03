@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688312276
+    "timestamp": 1688404214
   },
   "vtbs": [
     {
@@ -34635,6 +34635,23 @@
         "jp": "君野りるる_Official",
         "cn": "君野莉露露",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "6e24d0e7-10e8-53b6-8e3c-84cc895ac64f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "517532822",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吟游诗人Alauda",
+        "default": "cn"
       }
     },
     {
