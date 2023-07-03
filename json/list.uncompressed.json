@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688406975
+    "timestamp": 1688406993
   },
   "vtbs": [
     {
@@ -18126,6 +18126,23 @@
       "name": {
         "extra": [],
         "cn": "一焰_Makuma",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51f9a20c-37ea-5998-84eb-5a0634fd4c20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34549247",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一瓶百年陈醋",
         "default": "cn"
       }
     },
@@ -41965,6 +41982,23 @@
       }
     },
     {
+      "uuid": "c8172daf-4dab-5b1b-b9d9-84ad051b4daf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "80424897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大大柚-Maya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fca10d09-ff4f-580f-b0a4-d9aeb22a5742",
       "type": "vtuber",
       "bot": false,
@@ -59132,6 +59166,23 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "b27deaa2-473f-5873-988b-287d4a70c800",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1167721020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "扣扣-koko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "165d1969-0f84-56d6-875e-beb5c6985b7a",
@@ -102099,6 +102150,23 @@
       "name": {
         "extra": [],
         "cn": "紫盐酱Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "96f01b32-aae4-5f2d-badc-6834838dd2fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1173465465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫糯_Fairy",
         "default": "cn"
       }
     },
