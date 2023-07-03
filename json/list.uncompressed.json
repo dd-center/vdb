@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688406753
+    "timestamp": 1688406860
   },
   "vtbs": [
     {
@@ -69632,6 +69632,23 @@
       }
     },
     {
+      "uuid": "2dc79fa2-fc22-5f67-ba77-b87aa73dec24",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493259380787300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "机械狐狸Fox",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e73809a4-75c2-553d-9f51-03ecdd3ae567",
       "type": "vtuber",
       "bot": false,
@@ -79545,6 +79562,23 @@
       "name": {
         "extra": [],
         "cn": "汤音mayume",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a3bcbc1-8355-5a1b-a2d3-3352aa417016",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1778776964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汪汪汪小吉_流泪修勾",
         "default": "cn"
       }
     },
