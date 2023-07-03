@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688404850
+    "timestamp": 1688404928
   },
   "vtbs": [
     {
@@ -80668,6 +80668,23 @@
       "name": {
         "extra": [],
         "cn": "泽维艾拉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6509b305-0313-51b9-9a27-6444bdccc4bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "615541897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽罗伊岐Zeroichi",
         "default": "cn"
       }
     },
