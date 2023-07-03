@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688406687
+    "timestamp": 1688406718
   },
   "vtbs": [
     {
@@ -57584,6 +57584,23 @@
       }
     },
     {
+      "uuid": "6511e1ab-b9ff-5aa5-b79a-2c7b8cbbcc73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21150296",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠濑_Yuuuse",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8c2014c9-6a5a-59e0-9545-154885d8aa43",
       "type": "vtuber",
       "bot": false,
@@ -64977,6 +64994,23 @@
       "name": {
         "extra": [],
         "cn": "春日雾枝_kiri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "294636ec-c11d-50b8-984e-d693309b28ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17317850",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春水_星星星瓷XICI",
         "default": "cn"
       }
     },
