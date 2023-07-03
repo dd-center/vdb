@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688406718
+    "timestamp": 1688406750
   },
   "vtbs": [
     {
@@ -11987,6 +11987,23 @@
       "name": {
         "extra": [],
         "cn": "kasa酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d10e9c12-370b-5946-8b02-2eeb75fc696e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "471660994",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kasu-official",
         "default": "cn"
       }
     },
@@ -31012,6 +31029,23 @@
       },
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
       "group_name": "Nameless Project"
+    },
+    {
+      "uuid": "dc06887b-c844-5732-972e-922bc6e580d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1464029182",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千月Chizuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "62a030f1-1460-5f30-ac91-93bf800f9a10",
@@ -53589,6 +53623,23 @@
       }
     },
     {
+      "uuid": "fcfc190d-11fa-5077-aa23-b6c5fc5e16b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7840180",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕斯特paste",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7ba80e8f-7674-5d52-b3ea-e74bd51e15be",
       "type": "vtuber",
       "bot": false,
@@ -59984,6 +60035,23 @@
         "extra": [],
         "jp": "文野環",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c567372a-84c0-5402-8280-ebd7e232d5e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493259001202714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "斐列尔",
+        "default": "cn"
       }
     },
     {
@@ -71735,6 +71803,23 @@
       "name": {
         "extra": [],
         "cn": "柚木栗子yuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6a22e7c-1461-58ca-b02a-ef1d3688b4a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474819209",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚木桃ちゃん",
         "default": "cn"
       }
     },
@@ -83579,6 +83664,23 @@
       }
     },
     {
+      "uuid": "580d1011-b036-5e88-b9c7-21fc46aada4f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "398513590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "渺渺neko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c30faf76-bb73-5f5c-9e87-12acdd42c29c",
       "type": "vtuber",
       "bot": false,
@@ -91688,6 +91790,23 @@
       }
     },
     {
+      "uuid": "0dd2303a-49ae-5ffe-b8ac-86d8e8f3a12f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "622771011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "番薯很可爱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "393af2a8-13f4-567d-b83e-bf7a20ab698c",
       "type": "vtuber",
       "bot": false,
@@ -92658,6 +92777,23 @@
       "group_name": "ChaosLiveSprout"
     },
     {
+      "uuid": "9bfa68a2-05c3-53d7-b14d-7075c24b498a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116942224133",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白无义",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "20ce7117-bf85-5269-9e71-39d5f1e2300b",
       "type": "vtuber",
       "bot": false,
@@ -93518,6 +93654,23 @@
         "extra": [],
         "cn": "白芷卷",
         "jp": "シロカミ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "21906076-3f66-500d-b270-e7ed701e6fd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494349612518155",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白芸可可",
         "default": "cn"
       }
     },
@@ -96240,6 +96393,23 @@
       "name": {
         "extra": [],
         "cn": "知予樱stars",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "29e9283e-6c32-5291-afa7-9c2dc65802e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "332169909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "知夏Natsu",
         "default": "cn"
       }
     },
@@ -109337,6 +109507,23 @@
       }
     },
     {
+      "uuid": "12f6a611-e89c-5818-8079-46dea1124a82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1135349021",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芸筌Moira",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3fde376b-c61a-540f-bff6-7e7c8414ecc8",
       "type": "vtuber",
       "bot": false,
@@ -110287,6 +110474,23 @@
       "name": {
         "extra": [],
         "cn": "茉宁Yukina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47220bec-39b4-58ef-9d3a-c8ca321035f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493258420291722",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉漁Yukina",
         "default": "cn"
       }
     },
@@ -125788,6 +125992,23 @@
       "name": {
         "extra": [],
         "cn": "雅莉埃塔_Ufficiale",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fddd0dd7-3c85-577b-b395-c46589104800",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361314625702",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雏乃脑子被吃掉了",
         "default": "cn"
       }
     },
