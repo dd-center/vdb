@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407162
+    "timestamp": 1688407206
   },
   "vtbs": [
     {
@@ -132457,6 +132457,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少女肥宅猪猪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e48bfe89-34ef-51bd-b31e-7b2c6f0aed05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17061058",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法少女荷桃",
         "default": "cn"
       }
     },
