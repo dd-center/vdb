@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407034
+    "timestamp": 1688407071
   },
   "vtbs": [
     {
@@ -29507,6 +29507,23 @@
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b",
       "group_name": "Croven教团"
+    },
+    {
+      "uuid": "d7d8bbf8-8aca-5862-a4dd-091b66e2be0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493143467002823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "判官崔珏",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3a57e97f-01e7-51da-9826-bb60e1be92f8",
@@ -116301,6 +116318,23 @@
       "name": {
         "extra": [],
         "cn": "蜜柑-黛西蕾Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bedec932-5683-5b69-a849-8fd7f893cfa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "53718868",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜柑Mikan",
         "default": "cn"
       }
     },
