@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688404973
+    "timestamp": 1688404999
   },
   "vtbs": [
     {
@@ -101810,6 +101810,23 @@
       },
       "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a",
       "group_name": "Virtual放送部"
+    },
+    {
+      "uuid": "c272b910-d7d9-56c9-aa87-ae89bd93c482",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "76090342",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "綿白詩茵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5a638777-fb79-54a9-a95e-e22da1f14af0",
