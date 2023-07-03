@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407291
+    "timestamp": 1688407397
   },
   "vtbs": [
     {
@@ -49735,6 +49735,23 @@
       "name": {
         "extra": [],
         "cn": "小楠道",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47925498-0934-5a61-993a-794244ab1bca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "510515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小橘星星",
         "default": "cn"
       }
     },
@@ -121254,6 +121271,23 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "17ab756a-edc3-58e6-bc23-959b5916b85d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "612775753",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "这里发现了斯托利",
+        "default": "cn"
+      }
     },
     {
       "uuid": "57a28f2a-94e5-5931-850c-ef9569bc38e8",
