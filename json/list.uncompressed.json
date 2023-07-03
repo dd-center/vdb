@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688407206
+    "timestamp": 1688407237
   },
   "vtbs": [
     {
@@ -72338,6 +72338,23 @@
       "group_name": "P-SP"
     },
     {
+      "uuid": "dd1c682d-5b4f-5c12-a910-7dd557fd171d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8056674",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柠柠Asama",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8cdb70b1-7481-5127-8a72-62425283aa31",
       "type": "vtuber",
       "bot": false,
@@ -92026,6 +92043,23 @@
       "name": {
         "extra": [],
         "cn": "由川伶子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1b55ab7-2bd7-5d68-9d1e-633b0b6e2cf1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461563751074682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由紀南",
         "default": "cn"
       }
     },
