@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688560262
+    "timestamp": 1688560354
   },
   "vtbs": [
     {
@@ -57754,6 +57754,23 @@
       }
     },
     {
+      "uuid": "7d7406be-5364-5e40-89f4-6762e1c64404",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493271374399617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心绊OwO",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ee537d5c-3d48-5645-a596-517d9d099275",
       "type": "vtuber",
       "bot": false,
@@ -106020,6 +106037,23 @@
       "name": {
         "extra": [],
         "cn": "维莱欧_Veleo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5280bc7-e9b4-556a-b849-ac6722373a3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9319626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "维那_Vena",
         "default": "cn"
       }
     },
