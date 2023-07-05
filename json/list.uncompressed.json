@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688556180
+    "timestamp": 1688556897
   },
   "vtbs": [
     {
@@ -91358,6 +91358,23 @@
       "name": {
         "extra": [],
         "cn": "瑞露Run",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dfd4b3f8-8d86-58ad-a43a-5fd1e390de07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "97716131",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑟勒丝_Seles",
         "default": "cn"
       }
     },
