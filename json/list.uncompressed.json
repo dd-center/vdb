@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688560438
+    "timestamp": 1688560439
   },
   "vtbs": [
     {
@@ -24711,6 +24711,23 @@
         "extra": [],
         "jp": "伏見ガク",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "5d47c18c-6faa-5723-9f4e-e41dbf149332",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493291611916589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "优-可可洛",
+        "default": "cn"
       }
     },
     {
@@ -114434,6 +114451,23 @@
       "name": {
         "extra": [],
         "cn": "莓桃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a60d56ad-7346-519a-8668-dad027ce9131",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368814041403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓泥小酱",
         "default": "cn"
       }
     },
