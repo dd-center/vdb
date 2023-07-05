@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688556919
+    "timestamp": 1688556932
   },
   "vtbs": [
     {
@@ -53905,6 +53905,23 @@
       "group_name": "ChaosLiveSprout"
     },
     {
+      "uuid": "bd6e99c7-2eb2-5dc0-8b45-6aaefe6b3eb3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461568935233871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希罗neko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "986245b7-f6f3-5b99-b9a2-abde56ba19f6",
       "type": "vtuber",
       "bot": false,
@@ -93886,6 +93903,23 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "a92798c2-e1da-5f7a-b731-531b89fce585",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "610581421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白桃味の蛋挞",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f87c3643-6525-5533-a15a-d28fdad7e68c",
       "type": "vtuber",
       "bot": false,
@@ -116081,6 +116115,23 @@
       }
     },
     {
+      "uuid": "dc685f93-19e3-576a-b9c9-c42a1ade9819",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461581394413982",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薇薇羽Viview",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5299f92e-ca97-5d3d-8e17-c2d8cfc634b5",
       "type": "vtuber",
       "bot": false,
@@ -121248,6 +121299,23 @@
       "name": {
         "extra": [],
         "cn": "辉煌荣耀",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e6f2364-f582-5ea5-8e38-1c364e6cf3a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1005457213",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辉瞳",
         "default": "cn"
       }
     },
