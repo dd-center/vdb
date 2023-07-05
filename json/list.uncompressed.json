@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688560060
+    "timestamp": 1688560071
   },
   "vtbs": [
     {
@@ -94604,6 +94604,23 @@
       }
     },
     {
+      "uuid": "78487061-54d3-576f-b114-aeec3e83d0a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "220215817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白泽风芷",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ec143cf7-60de-5bd6-b732-9c27f9e97582",
       "type": "vtuber",
       "bot": false,
@@ -115261,6 +115278,23 @@
       "name": {
         "extra": [],
         "cn": "千岛",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ecdd30d2-4567-52c9-b12d-941c8dffd4af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "386847857",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萧堇黎",
         "default": "cn"
       }
     },
