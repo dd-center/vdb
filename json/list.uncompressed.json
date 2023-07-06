@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688560958
+    "timestamp": 1688649352
   },
   "vtbs": [
     {
@@ -17697,6 +17697,23 @@
       "name": {
         "extra": [],
         "cn": "咲音Sakion",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f67e25a9-a21b-57d9-b061-a705f1e30d3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134921107737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一之濑汐音Shion",
         "default": "cn"
       }
     },
