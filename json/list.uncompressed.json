@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688649352
+    "timestamp": 1688651251
   },
   "vtbs": [
     {
@@ -87919,6 +87919,23 @@
       "name": {
         "extra": [],
         "cn": "爱沢Yuuka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef324e84-de9d-5fba-a3b4-661cc131947f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493130617752435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱缪",
         "default": "cn"
       }
     },
