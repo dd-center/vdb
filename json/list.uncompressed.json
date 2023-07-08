@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688842932
+    "timestamp": 1688843008
   },
   "vtbs": [
     {
@@ -54858,6 +54858,23 @@
       }
     },
     {
+      "uuid": "25fe0802-d644-5f8c-ac2c-9b73a2fd02a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494364753955175",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希诺_Sinon",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "eda58a7a-2583-5b9c-88ad-f591f936a1e8",
       "type": "vtuber",
       "bot": false,
@@ -56880,6 +56897,23 @@
       "name": {
         "extra": [],
         "cn": "弥音mew",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "33fc84f0-9f36-5fe6-93ee-fad081bf4896",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494350206012317",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥饭MIF",
         "default": "cn"
       }
     },
