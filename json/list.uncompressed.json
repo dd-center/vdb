@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688675366
+    "timestamp": 1688840077
   },
   "vtbs": [
     {
@@ -85526,6 +85526,25 @@
         "cn": "渡小度吖",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1c884695-6bf9-53e4-aaac-89ad7e47ccd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1262439284",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "渡恩Dawn",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
+      "group_name": "虚研社"
     },
     {
       "uuid": "d07ea7bb-adaf-5bb7-9fd8-cc879fbdc275",
