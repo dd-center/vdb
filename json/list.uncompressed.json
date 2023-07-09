@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688894350
+    "timestamp": 1688910258
   },
   "vtbs": [
     {
@@ -89649,6 +89649,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "ad9da2e8-eab4-5df7-94b2-325e36a7a94f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493286566169496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狩野色",
+        "default": "cn"
+      }
     },
     {
       "uuid": "00287b52-ec0d-51a5-83c2-792a383d180f",
