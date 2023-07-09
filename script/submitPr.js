@@ -32,7 +32,7 @@ const gitExec = async (params, { name = 'nanashi', email = 'example@example.com'
   const commit = async () => {
     await gitExec(['add', 'vtbs-review'], gitUser)
     await gitExec(['add', 'vtbs'], gitUser)
-    await gitExec(['commit', '-m', title, '-m', ISSUE_BODY, '-m', `close #${ISSUE_NUMBER}`], gitUser)
+    await gitExec(['commit', '-m', title, '-m', `close #${ISSUE_NUMBER}`], gitUser)
     setOutput('title', title)
     setOutput('body', `${ISSUE_BODY}\nclose #${ISSUE_NUMBER}`)
   }
