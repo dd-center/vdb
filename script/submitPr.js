@@ -6,11 +6,11 @@ const { GitProcess } = require('dugite')
 
 const { decodeBase64, decodeBlock } = require('./common')
 
-const { ISSUE_NUMBER, ISSUE_BODY, GITHUB_OUTPUT } = process.env
+const { ISSUE_NUMBER, ISSUE_BODY } = process.env
 
 const saveName = join('vtbs-review', `${ISSUE_NUMBER}.json`)
 
-const gitExec = async (params, { name = 'nanashi', email = 'example@example.com' } = {}) => {
+const gitExec = async (params, { name = 'vdb-bot', email = 'tend.runnier0q@icloud.com' } = {}) => {
   const { stdout, stderr } = await GitProcess.exec(params, process.cwd(), {
     env: {
       GIT_AUTHOR_NAME: name,
