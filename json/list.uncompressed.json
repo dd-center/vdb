@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1688910294
+    "timestamp": 1689066221
   },
   "vtbs": [
     {
@@ -72734,6 +72734,23 @@
       "name": {
         "extra": [],
         "cn": "果糖含量",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d90cd5c3-f4c0-5625-b9b7-11d4f3bc18f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494373341793035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枝枝鼠Official",
         "default": "cn"
       }
     },
