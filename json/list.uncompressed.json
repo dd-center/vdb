@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689143972
+    "timestamp": 1689178072
   },
   "vtbs": [
     {
@@ -104625,6 +104625,23 @@
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407",
       "group_name": "WACTOR"
+    },
+    {
+      "uuid": "78e1293c-01d1-5e7e-b43a-489f4dfa4b5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "382725366",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫儿是七妹",
+        "default": "cn"
+      }
     },
     {
       "uuid": "19600ec8-1604-5fbd-a3f4-d7da8881aaf4",
