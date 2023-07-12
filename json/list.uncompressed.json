@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689066221
+    "timestamp": 1689143625
   },
   "vtbs": [
     {
@@ -108607,6 +108607,23 @@
       "name": {
         "extra": [],
         "cn": "老佛叶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "abf53cab-a1ab-51b6-acc1-27f16ce49894",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "365503736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "老张也要萌萌哒",
         "default": "cn"
       }
     },
