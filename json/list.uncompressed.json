@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689608874
+    "timestamp": 1689609087
   },
   "vtbs": [
     {
@@ -135603,6 +135603,23 @@
       },
       "group": "0a2ecd85-eecd-5968-9d03-77649d1844a8",
       "group_name": "魂喵Official"
+    },
+    {
+      "uuid": "0634338b-24fe-52ba-b4c5-d82ea1beda1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493280463456533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魅魅想要吃车厘子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e976d78e-2ffc-5cf1-9b9d-c416ba43557f",
