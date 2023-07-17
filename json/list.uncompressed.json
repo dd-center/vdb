@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689609287
+    "timestamp": 1689609353
   },
   "vtbs": [
     {
@@ -38394,6 +38394,23 @@
       "name": {
         "extra": [],
         "cn": "喵喵鱼nyasakana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0546fa22-01ab-54e6-8bfd-7f8963237581",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493263327627838",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵奈尾巴超肥捏",
         "default": "cn"
       }
     },
