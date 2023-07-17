@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689604530
+    "timestamp": 1689604656
   },
   "vtbs": [
     {
@@ -25952,6 +25952,23 @@
       },
       "group": "66ab2857-8a5f-5768-a532-f9a05a6d7572",
       "group_name": "风云社"
+    },
+    {
+      "uuid": "f1d06d5a-7e76-5d74-9748-82dea2a4aed6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487015",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "修纳夏XnX",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8fd997a6-5ae5-551d-86d2-f6d8f39f13da",
