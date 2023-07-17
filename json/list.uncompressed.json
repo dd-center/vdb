@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689609353
+    "timestamp": 1689609392
   },
   "vtbs": [
     {
@@ -103286,6 +103286,23 @@
       "name": {
         "extra": [],
         "cn": "简叶Kanai",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "23f97d56-e03d-5863-a3f6-98291b760a98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "142306772",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "简柔",
         "default": "cn"
       }
     },
