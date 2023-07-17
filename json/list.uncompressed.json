@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689609206
+    "timestamp": 1689609287
   },
   "vtbs": [
     {
@@ -59878,6 +59878,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "22438c6a-1bb7-5de3-ac45-b897586f15f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2042014042",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "慧柠lemonade",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b1e337f2-17c3-5bb5-916d-5e9100857c7a",
