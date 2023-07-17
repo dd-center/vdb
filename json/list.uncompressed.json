@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689178072
+    "timestamp": 1689604461
   },
   "vtbs": [
     {
@@ -89939,6 +89939,23 @@
       "name": {
         "extra": [],
         "cn": "狸酱lino",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8bd4c9ab-ccc1-57e0-8ca9-741b07644759",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "315306996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狼崎Rousaki",
         "default": "cn"
       }
     },
