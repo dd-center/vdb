@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689662263
+    "timestamp": 1689662288
   },
   "vtbs": [
     {
@@ -24985,6 +24985,23 @@
       "name": {
         "extra": [],
         "cn": "优酱想要睡大觉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a28b64c2-0b0f-5437-be1c-d5648ccf527b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353029069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "会嘤才会赢",
         "default": "cn"
       }
     },
