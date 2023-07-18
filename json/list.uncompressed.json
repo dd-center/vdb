@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689609392
+    "timestamp": 1689660892
   },
   "vtbs": [
     {
@@ -106180,6 +106180,23 @@
       },
       "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
       "group_name": "星云社_CosmicNebula"
+    },
+    {
+      "uuid": "6d674ead-7aaa-5e2b-946f-4f027f75e3bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3792741",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱罗Sarara",
+        "default": "cn"
+      }
     },
     {
       "uuid": "26d0a698-f420-58fa-bd7c-9bebaa248bb3",
