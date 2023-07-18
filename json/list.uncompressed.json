@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689661189
+    "timestamp": 1689661577
   },
   "vtbs": [
     {
@@ -137444,6 +137444,23 @@
       "name": {
         "extra": [],
         "cn": "鸿煊_kitsune",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a69e67c4-91ab-52d2-a6b6-19b122dce686",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "291437268",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹅er",
         "default": "cn"
       }
     },
