@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689660921
+    "timestamp": 1689661147
   },
   "vtbs": [
     {
@@ -55188,6 +55188,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "403954b1-558e-5330-8baf-a502f7b6c655",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2132566155",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕米尔Pamirs",
+        "default": "cn"
+      }
     },
     {
       "uuid": "71567c86-fabd-5d58-9916-5a70cabba72d",
