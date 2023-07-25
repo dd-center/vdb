@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288611
+    "timestamp": 1690288647
   },
   "vtbs": [
     {
@@ -46663,6 +46663,23 @@
       }
     },
     {
+      "uuid": "eae3f706-7141-57c4-9260-79ba24d24805",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461564896119035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮咔Neeka",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5235f673-e988-57c8-93c5-eb32ff558b0a",
       "type": "vtuber",
       "bot": false,
@@ -77706,6 +77723,23 @@
       "name": {
         "extra": [],
         "cn": "梵阿景不是啊景",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0772d393-de7e-5db9-8845-e05587bab045",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1562600500",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梶裕秋",
         "default": "cn"
       }
     },
@@ -119924,6 +119958,23 @@
       "name": {
         "extra": [],
         "cn": "虾串串丶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04363361-ed6c-5835-82b5-ce9465a5623c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1562511225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虾球超想喝可乐",
         "default": "cn"
       }
     },
