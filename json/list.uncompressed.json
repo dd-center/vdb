@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288385
+    "timestamp": 1690288413
   },
   "vtbs": [
     {
@@ -58708,6 +58708,23 @@
       "name": {
         "extra": [],
         "cn": "忘川梓Nanami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "14fdfd7d-3acd-5f47-a9a0-f0e6cd335cdc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24031529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忘川的涟漪丶",
         "default": "cn"
       }
     },
