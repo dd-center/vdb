@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690293011
+    "timestamp": 1690293310
   },
   "vtbs": [
     {
@@ -904,6 +904,18 @@
         "en": "AO",
         "default": "en"
       }
+    },
+    {
+      "uuid": "7daa3b8d-2426-5756-8468-c47f27321de3",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "ARP",
+        "default": "cn"
+      },
+      "group": "7daa3b8d-2426-5756-8468-c47f27321de3"
     },
     {
       "uuid": "7320081f-670c-53d4-bf9b-e5ce6b259955",
