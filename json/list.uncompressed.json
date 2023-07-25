@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290248
+    "timestamp": 1690290309
   },
   "vtbs": [
     {
@@ -54903,6 +54903,23 @@
       "name": {
         "extra": [],
         "cn": "希尼娅_Kagami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e8f8bf99-cccd-5f93-a266-9a765ca334ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357164362632",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希希翎翎Serinnn",
         "default": "cn"
       }
     },
