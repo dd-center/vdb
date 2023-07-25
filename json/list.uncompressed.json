@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287807
+    "timestamp": 1690287866
   },
   "vtbs": [
     {
@@ -39076,6 +39076,23 @@
       "name": {
         "extra": [],
         "cn": "噗叽Honey",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "66b1e4c8-65e6-594a-a798-8105de6fe759",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6496238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "噗崽很饿",
         "default": "cn"
       }
     },
@@ -84792,6 +84809,23 @@
       }
     },
     {
+      "uuid": "7f5b29eb-8fd1-59fb-91d5-54842d21ddeb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1144824974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海御西格Sigrid",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "646aad61-0601-5266-a8cf-237ac4bbeb48",
       "type": "vtuber",
       "bot": false,
@@ -107688,6 +107722,23 @@
       }
     },
     {
+      "uuid": "bc5a2940-8406-54d0-b6ff-9a08e52dc8a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "429507966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "维恩蒙斯_Vienmons",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3ee4c534-72ca-5792-9a31-9d48cbe44367",
       "type": "vtuber",
       "bot": false,
@@ -114621,6 +114672,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "4cc46fa2-0d61-5c4f-81ca-a0c991bffa19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104516598670",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉莉Chaton",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cf7b7c6f-30df-5ec7-a155-d3f8b090be9e",
