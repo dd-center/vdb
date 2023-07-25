@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289539
+    "timestamp": 1690289570
   },
   "vtbs": [
     {
@@ -33785,6 +33785,23 @@
       },
       "group": "bf741674-6d02-574e-b862-a404fdb6d6dc",
       "group_name": "MiosLive"
+    },
+    {
+      "uuid": "4a80d1e7-a33e-5d6c-8a7e-9209768d0183",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "283424107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡米拉_Camilla",
+        "default": "cn"
+      }
     },
     {
       "uuid": "57972a23-01bd-5ee7-96c7-4159fb47b070",
