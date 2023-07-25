@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287431
+    "timestamp": 1690287454
   },
   "vtbs": [
     {
@@ -139152,6 +139152,23 @@
       "name": {
         "extra": [],
         "cn": "黑川蓝KurokawaAi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a60de3b-09d2-5d52-9cbb-a75dcd214670",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9890905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑川薰Kurokawa",
         "default": "cn"
       }
     },
