@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287989
+    "timestamp": 1690288053
   },
   "vtbs": [
     {
@@ -117950,6 +117950,23 @@
       }
     },
     {
+      "uuid": "85835a90-3025-51d8-8ced-a3d6c5d43351",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "80971000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "落翊Luoi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9e0bb21c-905a-5d97-a086-03a80321b8d3",
       "type": "vtuber",
       "bot": false,
@@ -132257,6 +132274,23 @@
       "name": {
         "extra": [],
         "cn": "零太",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "43f78d91-9a21-5b5a-9a5a-478240a79a11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "636626281",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零年记述",
         "default": "cn"
       }
     },
