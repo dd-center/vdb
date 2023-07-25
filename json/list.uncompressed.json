@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292535
+    "timestamp": 1690292593
   },
   "vtbs": [
     {
@@ -93514,6 +93514,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "6e6e5d0a-5de3-5d31-a7fa-4b05b5652849",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "212886684",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琉芸Miruku",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a0ee2998-d8b7-56e9-bbae-1db5b1b66fe2",
