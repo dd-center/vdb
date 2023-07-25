@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289201
+    "timestamp": 1690289331
   },
   "vtbs": [
     {
@@ -76285,6 +76285,23 @@
       }
     },
     {
+      "uuid": "d024afb0-f041-522e-943f-ca3f24fc3f5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137081174568",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃耶纱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "62c50dee-f95a-5f80-ab4f-2a1b3a1bd3ce",
       "type": "vtuber",
       "bot": false,
@@ -121489,6 +121506,23 @@
       },
       "group": "66e12035-c8a0-5cb1-a5d4-365f89a544d3",
       "group_name": "virtio"
+    },
+    {
+      "uuid": "b1497760-af05-54d8-9ce3-449b6efcfa05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "675538",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "见月伊子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "07082090-1f14-50ab-8300-348a8ddddd31",
