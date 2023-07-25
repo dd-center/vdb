@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690297541
+    "timestamp": 1690316804
   },
   "vtbs": [
     {
@@ -46568,6 +46568,23 @@
       "name": {
         "extra": [],
         "cn": "奶糖さの_sano",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0bd1c18c-224d-5a03-bae2-7bdc38fc9b44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493084448950525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶芙-8月4双满",
         "default": "cn"
       }
     },
