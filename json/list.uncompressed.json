@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690294994
+    "timestamp": 1690295031
   },
   "vtbs": [
     {
@@ -47643,6 +47643,23 @@
         "extra": [],
         "jp": "娜露Neru_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f31f4968-fe95-50cf-a8b0-82fa9c26ca68",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078788737253",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "婳婳_Callista",
+        "default": "cn"
       }
     },
     {
@@ -116416,6 +116433,23 @@
       },
       "group": "d5b4bb11-0b31-5e96-a0e5-5ca27dfebc98",
       "group_name": "草莓王子"
+    },
+    {
+      "uuid": "e648e8a3-933c-5cf1-8e54-08f33c5244a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354433869855",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "草莓蛋糕子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b1ffe1d4-3b2d-5a54-9c6a-2e6e0d2e0b53",
