@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690294843
+    "timestamp": 1690294870
   },
   "vtbs": [
     {
@@ -38666,6 +38666,23 @@
       "name": {
         "extra": [],
         "cn": "喵丸子yuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc9cf00f-f913-5332-a3fe-ce99aa0b8414",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8224283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵九不是猫九",
         "default": "cn"
       }
     },
