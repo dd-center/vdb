@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292341
+    "timestamp": 1690292431
   },
   "vtbs": [
     {
@@ -92605,6 +92605,23 @@
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237",
       "group_name": "winks"
+    },
+    {
+      "uuid": "99a612da-062e-5c9f-927f-b901217a3000",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2058514286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玛可莉娜MakoRina",
+        "default": "cn"
+      }
     },
     {
       "uuid": "55545dba-1205-5401-9276-88431a998ec5",
