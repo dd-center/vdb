@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287866
+    "timestamp": 1690287877
   },
   "vtbs": [
     {
@@ -83461,6 +83461,23 @@
       "name": {
         "extra": [],
         "cn": "泥泥丸子_Konnie",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "57de32da-5768-5ece-9dfb-bbf328268757",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1113326069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泪零Namida",
         "default": "cn"
       }
     },
