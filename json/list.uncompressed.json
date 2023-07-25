@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1689662288
+    "timestamp": 1690286683
   },
   "vtbs": [
     {
@@ -14568,6 +14568,24 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "5348793d-1a19-50ca-b581-29f89c01680d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493284850699037",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "でるたや_Official",
+        "en": "DELUTAYA",
+        "default": "jp"
+      }
     },
     {
       "uuid": "a9bfdccb-3d13-5eb7-9a42-c75753dc84a9",
