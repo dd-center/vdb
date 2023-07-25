@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287052
+    "timestamp": 1690287083
   },
   "vtbs": [
     {
@@ -28341,6 +28341,25 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "93e67a59-d0ec-544f-a45b-8cedbb5d35e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1142597056",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬眠zZ",
+        "default": "cn"
+      },
+      "group": "a4fc325b-7429-5ab5-9d95-eab46ddf0ba6",
+      "group_name": "Zephyr-风泠社"
     },
     {
       "uuid": "b7633796-99a6-5035-87d1-7b77e76a6df7",
