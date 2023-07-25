@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288740
+    "timestamp": 1690288840
   },
   "vtbs": [
     {
@@ -61874,6 +61874,23 @@
       "name": {
         "extra": [],
         "cn": "敖夜_Tetsuya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dff1968a-4bba-5214-8f7b-f9ff7b2a0c6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "387043415",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "敖小呜",
         "default": "cn"
       }
     },
