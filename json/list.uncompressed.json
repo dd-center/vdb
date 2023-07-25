@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690293310
+    "timestamp": 1690293387
   },
   "vtbs": [
     {
@@ -45107,6 +45107,23 @@
       "name": {
         "extra": [],
         "cn": "夹心曲奇Miao",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3ada0246-c2cc-54d1-a532-a39c5f3897ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17707933",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奇奇喵想吃橘子",
         "default": "cn"
       }
     },
