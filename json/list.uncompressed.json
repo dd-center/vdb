@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290213
+    "timestamp": 1690290248
   },
   "vtbs": [
     {
@@ -12453,6 +12453,23 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "e4d1e85b-36e1-54fe-9fe6-9f72b6bc4c0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "79992465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "lulu尼卡-五音版",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f5f2e974-bf3b-55a3-b3fb-800dd91b54af",
@@ -55597,6 +55614,23 @@
       "name": {
         "extra": [],
         "cn": "帕西斐珂",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d8d49dd-abe9-56c3-a393-548e5ef71a79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8091713",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕里PALI",
         "default": "cn"
       }
     },
