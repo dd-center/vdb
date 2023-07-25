@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290634
+    "timestamp": 1690290988
   },
   "vtbs": [
     {
@@ -28370,7 +28370,9 @@
         "extra": [],
         "cn": "冥夜一二三",
         "default": "cn"
-      }
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
+      "group_name": "Providence"
     },
     {
       "uuid": "2982bcf1-4bf9-5e0f-a8b7-dd164a66da42",
@@ -105502,23 +105504,6 @@
       }
     },
     {
-      "uuid": "ccadb3eb-6aaf-5765-b78f-02a05c294941",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3494368979716634",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "紗奈さな",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "7e86e77e-e082-58f6-9968-3dea49bee224",
       "type": "vtuber",
       "bot": false,
@@ -107031,6 +107016,25 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "1d276630-a135-59f8-83eb-36a4ebf9230b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368979716634",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱奈_Sana",
+        "default": "cn"
+      },
+      "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
+      "group_name": "Providence"
     },
     {
       "uuid": "202b1a87-d8dc-5fec-a52d-a840ca543a35",
