@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289664
+    "timestamp": 1690289788
   },
   "vtbs": [
     {
@@ -105377,6 +105377,23 @@
       "name": {
         "extra": [],
         "cn": "紗夏サーシャ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ccadb3eb-6aaf-5765-b78f-02a05c294941",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368979716634",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紗奈さな",
         "default": "cn"
       }
     },
