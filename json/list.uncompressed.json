@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690293387
+    "timestamp": 1690293433
   },
   "vtbs": [
     {
@@ -78969,6 +78969,23 @@
       },
       "group": "b5e56b02-c1f5-5c5b-85d3-870a392d3d8a",
       "group_name": "NEBULA"
+    },
+    {
+      "uuid": "d8c0940f-fca9-57ce-ba3a-f6885b2244ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1748926984",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "楚停Furtasia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "39df0a86-4322-5db9-ac65-cac523203850",
