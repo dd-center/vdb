@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690293504
+    "timestamp": 1690294843
   },
   "vtbs": [
     {
@@ -3798,6 +3798,23 @@
         "extra": [],
         "en": "Hiiro",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "1b2b739a-feed-5e52-99c3-1dfd52148484",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "277854028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Hikikomoriちゃん",
+        "default": "cn"
       }
     },
     {
@@ -72385,6 +72402,23 @@
       "name": {
         "extra": [],
         "cn": "李华LiHua_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e546ee3-9d50-5114-94a5-7112b4e29e31",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22631109",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "李梦非",
         "default": "cn"
       }
     },
