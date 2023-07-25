@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288053
+    "timestamp": 1690288086
   },
   "vtbs": [
     {
@@ -131242,6 +131242,23 @@
       }
     },
     {
+      "uuid": "4a1cabd3-b02b-5c85-89d0-b2a87691acd6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493078811806308",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪吹奏多",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fbfe747f-b8df-5ddf-bbc9-599cfb3ab828",
       "type": "vtuber",
       "bot": false,
@@ -140742,6 +140759,23 @@
       "name": {
         "extra": [],
         "cn": "龙野铃铃Rinrin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c2df44f-f64a-5caf-91ca-2f39de6f8e7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1882894940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "龙霸天上天下唯我独尊",
         "default": "cn"
       }
     },
