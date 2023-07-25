@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292795
+    "timestamp": 1690292958
   },
   "vtbs": [
     {
@@ -19664,6 +19664,23 @@
           "鱼青"
         ],
         "cn": "上原鱼青",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "855f63fa-e350-5fa0-bf53-5683688d77a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24984760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上官二荷",
         "default": "cn"
       }
     },
@@ -72201,6 +72218,23 @@
       "name": {
         "extra": [],
         "cn": "朽木素",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5be980eb-2f25-511e-8358-0fa4f287f241",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1649931384",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杀神依尔_fiak",
         "default": "cn"
       }
     },
