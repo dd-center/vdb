@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287753
+    "timestamp": 1690287708
   },
   "vtbs": [
     {
@@ -83913,6 +83913,23 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "f2aa62c7-cd36-5fdc-b524-37882fc6edf3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1827655757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛池Volador",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "80b3ff07-92a7-5fa0-a897-80541318ad9d",
       "type": "vtuber",
       "bot": false,
@@ -85027,6 +85044,23 @@
       "name": {
         "extra": [],
         "cn": "海苹果小学校",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0575c67c-6bb8-56e9-918d-213b51a98d86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "335942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海萌姬",
         "default": "cn"
       }
     },
