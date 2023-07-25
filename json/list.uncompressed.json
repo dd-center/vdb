@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289593
+    "timestamp": 1690289636
   },
   "vtbs": [
     {
@@ -67659,6 +67659,23 @@
       }
     },
     {
+      "uuid": "28bf6ee1-3377-5ced-aba5-398733783acf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1521669336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是奶茶喵酱酱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b3a2216e-70d7-5f00-9c66-c29ac6246acb",
       "type": "vtuber",
       "bot": false,
@@ -79701,6 +79718,23 @@
       "name": {
         "extra": [],
         "cn": "橘九",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "74b6ec3f-163b-52e8-a790-fb8c87df236e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8434213",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘千枝",
         "default": "cn"
       }
     },
