@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292593
+    "timestamp": 1690292620
   },
   "vtbs": [
     {
@@ -106722,6 +106722,23 @@
       "name": {
         "extra": [],
         "cn": "红伶Bornea",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "047d25a5-0194-582f-9eda-e2eca1a9e9c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5089048",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "红发的大魔女",
         "default": "cn"
       }
     },
