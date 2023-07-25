@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290157
+    "timestamp": 1690290175
   },
   "vtbs": [
     {
@@ -109309,6 +109309,23 @@
         "extra": [],
         "jp": "羽宮のあ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2af08840-30e8-50ea-a8dc-ea8e686145bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85457025",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽川音",
+        "default": "cn"
       }
     },
     {
