@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287947
+    "timestamp": 1690287989
   },
   "vtbs": [
     {
@@ -85252,6 +85252,23 @@
       }
     },
     {
+      "uuid": "84ef34dc-4fb1-52e1-9e81-6a417f4a464e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1316846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海豹酒姬",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9ad95c96-5fff-529a-a615-bb9a017eb409",
       "type": "vtuber",
       "bot": false,
@@ -95797,6 +95814,23 @@
         "extra": [],
         "cn": "白夜恒星",
         "en": "HakuyaSoleil",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0dafbece-fb3f-5d85-b400-1b17f3edb98a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31346972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜红枫",
         "default": "cn"
       }
     },
@@ -127130,6 +127164,23 @@
       }
     },
     {
+      "uuid": "79c1ff59-7f8a-5429-9962-b3ff93acc52d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "352605981",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "钴蓝苏打SODA",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "45d0ec33-7d60-5bae-843b-aec8eb75a016",
       "type": "vtuber",
       "bot": false,
@@ -131750,6 +131801,23 @@
       },
       "group": "89382922-bb93-5a94-94b6-06f217575139",
       "group_name": "Mlik Cat 奶猫协会"
+    },
+    {
+      "uuid": "df453ce3-f5dd-59ea-bb90-317910b6b820",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1052754134",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪羽桜莉娅Ria",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8f1ccfb3-4139-5629-a3f8-afcf9c2d7be9",
