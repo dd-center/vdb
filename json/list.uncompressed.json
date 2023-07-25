@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287264
+    "timestamp": 1690287431
   },
   "vtbs": [
     {
@@ -23175,6 +23175,23 @@
       "name": {
         "extra": [],
         "cn": "今井玫瑰Bala",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b490520b-bd5b-5429-99c1-60a45f9a0fd2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116155791611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "介个沫沫憨憨哒",
         "default": "cn"
       }
     },
