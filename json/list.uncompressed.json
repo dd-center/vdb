@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287771
+    "timestamp": 1690287807
   },
   "vtbs": [
     {
@@ -3603,6 +3603,23 @@
       "name": {
         "extra": [],
         "cn": "Hachime朷初",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "34937432-ecf2-5823-a349-decf5aa5e3e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3879935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Haly蓝羽",
         "default": "cn"
       }
     },
@@ -12239,6 +12256,23 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "2c58e380-dcbf-51a2-b605-f0da46980c45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "520868405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kiki不空大",
+        "default": "cn"
+      }
     },
     {
       "uuid": "726d2323-bba0-50fa-af4b-92b9f5b6578c",
@@ -74000,6 +74034,23 @@
       "name": {
         "extra": [],
         "cn": "柚木桃ちゃん",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5b57d3f-2087-5956-9437-b2419e0ea521",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "409642496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚木玄_Teca",
         "default": "cn"
       }
     },
