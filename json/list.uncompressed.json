@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288550
+    "timestamp": 1690288611
   },
   "vtbs": [
     {
@@ -65205,6 +65205,23 @@
       }
     },
     {
+      "uuid": "72c75dee-4dc1-5748-bc18-e9fbedb51aa4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "410789205",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星歿夢昇",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "069f2ac5-2d1f-5bc7-ac72-56ca354ac699",
       "type": "vtuber",
       "bot": false,
@@ -78537,7 +78554,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "478352809",
+          "id": "3494372289022880",
           "type": "official",
           "platform": "bilibili"
         }
@@ -98468,6 +98485,23 @@
       },
       "group": "e73263e5-7914-5da0-a523-475213ae2d4e",
       "group_name": "Pursue-live"
+    },
+    {
+      "uuid": "523e2fde-2d3f-53ac-9410-1e20819154fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488747573",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皮球piko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ead42b18-ef16-55ac-93d9-2b03c4f688fb",
@@ -121572,6 +121606,23 @@
       "name": {
         "extra": [],
         "cn": "言若_daku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69c121c7-5ace-547d-b202-251a21d6034a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577189624455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "言魚不爱吃鱼",
         "default": "cn"
       }
     },
