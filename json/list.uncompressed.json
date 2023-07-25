@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289837
+    "timestamp": 1690290085
   },
   "vtbs": [
     {
@@ -58727,6 +58727,23 @@
         "extra": [],
         "cn": "心羽ろにOfficial",
         "jp": "心羽ろに",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "710fd209-8d9e-518a-8d04-678d68da5316",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8185453",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忆之希喵Nozomi",
         "default": "cn"
       }
     },
