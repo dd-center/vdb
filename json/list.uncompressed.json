@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287708
+    "timestamp": 1690287771
   },
   "vtbs": [
     {
@@ -21200,6 +21200,23 @@
       "name": {
         "extra": [],
         "cn": "乔微微_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "62f91bac-138d-5cd6-98b1-d50504eae3e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "660572554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乔慕Haribo",
         "default": "cn"
       }
     },
@@ -82742,6 +82759,23 @@
         "extra": [],
         "cn": "法元明菜",
         "jp": "あきなさんち",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6f58289a-711d-5c03-8c96-34b75725b0a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "410699593",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "法兰Faline",
         "default": "cn"
       }
     },
