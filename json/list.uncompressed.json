@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690291320
+    "timestamp": 1690291342
   },
   "vtbs": [
     {
@@ -118132,6 +118132,23 @@
       "name": {
         "extra": [],
         "cn": "萤-HOTARU-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "73cf798b-a45e-5a1c-9b99-829aaa6013e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "125241110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萤luisant",
         "default": "cn"
       }
     },
