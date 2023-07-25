@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292731
+    "timestamp": 1690292764
   },
   "vtbs": [
     {
@@ -18242,6 +18242,23 @@
       "name": {
         "extra": [],
         "cn": "一块电鹿板",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "54ee635a-bd7c-5087-ac02-c551d86cdc4d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434911691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一大只水神",
         "default": "cn"
       }
     },
@@ -68486,6 +68503,23 @@
       }
     },
     {
+      "uuid": "3b4d1bb9-6e22-50b2-ae1d-b4f4e1ab3ac8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "305655973",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "普罗修斯_Protheus",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "336867a8-24ce-5ec4-b81d-8d525d9569f6",
       "type": "vtuber",
       "bot": false,
@@ -88721,6 +88755,23 @@
       "name": {
         "extra": [],
         "cn": "焔ヨンゴ_hmryg",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d48381a3-a878-53a3-aa92-bf84cb10f6e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1069207853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "焚念心Fenianxin",
         "default": "cn"
       }
     },
