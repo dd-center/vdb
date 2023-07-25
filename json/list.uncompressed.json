@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289331
+    "timestamp": 1690289499
   },
   "vtbs": [
     {
@@ -67763,6 +67763,23 @@
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
       "group_name": "月光社"
+    },
+    {
+      "uuid": "e7b58167-7b3e-5176-b91b-46f54b45d68e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353140642",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是空集耶awa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cc83572c-17e7-519d-a93b-891045f2167a",
