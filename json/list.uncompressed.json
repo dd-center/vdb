@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288413
+    "timestamp": 1690288505
   },
   "vtbs": [
     {
@@ -103399,6 +103399,23 @@
       "name": {
         "extra": [],
         "cn": "竹子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e7cb041-5d75-5743-8d28-00c8d925d99b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37525337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹宝睡不饱",
         "default": "cn"
       }
     },
