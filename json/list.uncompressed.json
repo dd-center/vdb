@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289499
+    "timestamp": 1690289539
   },
   "vtbs": [
     {
@@ -136887,6 +136887,23 @@
       "name": {
         "extra": [],
         "cn": "魔拉echo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b72ff610-f3c6-5ff1-ac43-75ccae3a7ac5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1207352103",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔方_Block",
         "default": "cn"
       }
     },
