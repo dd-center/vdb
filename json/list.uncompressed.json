@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690286881
+    "timestamp": 1690287052
   },
   "vtbs": [
     {
@@ -90995,6 +90995,23 @@
       },
       "group": "4d66bbfb-bee8-59ec-88f6-495507330f10",
       "group_name": "hitorino"
+    },
+    {
+      "uuid": "9b509cef-19d0-5b61-abd7-d9889ada3fad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1768912092",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫羽_Nekoha",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8caf31d6-267b-5aca-ae65-15de5b3c9984",
