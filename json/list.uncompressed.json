@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292703
+    "timestamp": 1690292731
   },
   "vtbs": [
     {
@@ -133151,6 +133151,23 @@
       },
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754",
       "group_name": "鸽鹉live"
+    },
+    {
+      "uuid": "658a0330-ba21-55fd-a827-ba93bdc73069",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493141118192343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零柒又在打电动",
+        "default": "cn"
+      }
     },
     {
       "uuid": "67d23abf-a2da-58df-8b87-bcc7f199238a",
