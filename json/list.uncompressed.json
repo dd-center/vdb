@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292281
+    "timestamp": 1690292341
   },
   "vtbs": [
     {
@@ -108959,6 +108959,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "9ae4fba7-4f03-5164-a800-4a979168254c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "152196624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗素ラッセル",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d4efcdfd-7a2f-55a4-aafd-e1205bf8c86c",
