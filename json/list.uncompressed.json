@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690296961
+    "timestamp": 1690297155
   },
   "vtbs": [
     {
@@ -906,16 +906,22 @@
       }
     },
     {
-      "uuid": "7daa3b8d-2426-5756-8468-c47f27321de3",
+      "uuid": "678fbb40-4a86-5d77-b5c6-1d655c897518",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "3493270965454971",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "ARP",
         "default": "cn"
       },
-      "group": "7daa3b8d-2426-5756-8468-c47f27321de3"
+      "group": "678fbb40-4a86-5d77-b5c6-1d655c897518"
     },
     {
       "uuid": "7320081f-670c-53d4-bf9b-e5ce6b259955",
@@ -2029,6 +2035,23 @@
         "extra": [],
         "en": "CANAMETOHARUKY",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "0c037d25-a9bb-58c4-b361-21288a8557bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493289365867263",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CC-7_25生日庆",
+        "default": "cn"
       }
     },
     {
@@ -21156,6 +21179,23 @@
       "name": {
         "extra": [],
         "cn": "久酱kiyomi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3047fc40-c0ea-5c9e-aa25-894486e396ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293971212302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "么么爱唱歌_26号生日版",
         "default": "cn"
       }
     },
@@ -126921,6 +126961,23 @@
       "name": {
         "extra": [],
         "cn": "邻家老徐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f39a45b8-bd83-59ba-a934-fef36172eb3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494380734253869",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "郝球球不熬夜",
         "default": "cn"
       }
     },
