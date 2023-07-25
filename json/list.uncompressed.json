@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690288663
+    "timestamp": 1690288740
   },
   "vtbs": [
     {
@@ -112061,6 +112061,23 @@
       }
     },
     {
+      "uuid": "badaed43-08a6-5c63-94a5-54d5a82093e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "483434677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芣苛还没起床",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "25315342-eaf9-5d74-9b9c-89e896a298d7",
       "type": "vtuber",
       "bot": false,
@@ -132803,6 +132820,23 @@
       "name": {
         "extra": [],
         "cn": "雾奈fufu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5f5be04-a008-5f8b-b561-815fd734f0ca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493124697491986",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾尔莉卡Ulrica",
         "default": "cn"
       }
     },
