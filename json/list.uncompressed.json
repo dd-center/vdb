@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690289788
+    "timestamp": 1690289837
   },
   "vtbs": [
     {
@@ -28318,6 +28318,23 @@
       "name": {
         "extra": [],
         "cn": "冥冥meichan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "284b941d-38f0-5228-b095-c7edf67e337f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369699039624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冥夜一二三",
         "default": "cn"
       }
     },
