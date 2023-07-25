@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690294870
+    "timestamp": 1690294961
   },
   "vtbs": [
     {
@@ -7195,6 +7195,23 @@
         "extra": [],
         "en": "Oasis",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "7d17b17f-2a23-5923-8593-d02c2728164e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "571556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Odetta猫咖",
+        "default": "cn"
       }
     },
     {
@@ -46316,6 +46333,23 @@
       }
     },
     {
+      "uuid": "c92bf0df-0a4b-5961-addf-2ffe8acd1d73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494349734152273",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶油Kuromi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "67b945f2-b114-5314-a96d-bb6dfacc0674",
       "type": "vtuber",
       "bot": false,
@@ -56247,6 +56281,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "fb6fd3f5-6744-5251-b49e-7695939fd3f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363080427585",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻欣channel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "35ad612d-c126-595d-ac11-4f66ab77a960",
@@ -127084,6 +127135,23 @@
       "name": {
         "extra": [],
         "cn": "醒醒Adalia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "85427e95-371d-511d-997e-fdd001484e1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1584923787",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "釉藥_yuuyaku",
         "default": "cn"
       }
     },
