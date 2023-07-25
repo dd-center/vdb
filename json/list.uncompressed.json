@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287083
+    "timestamp": 1690287230
   },
   "vtbs": [
     {
@@ -1359,6 +1359,23 @@
       "name": {
         "extra": [],
         "cn": "Alt_Vtuber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "351594be-ecbf-50a0-88e6-db353eecd698",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493112464804397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Alvle猫狐直播",
         "default": "cn"
       }
     },
@@ -84388,6 +84405,23 @@
       "name": {
         "extra": [],
         "cn": "浅羽啾yami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f1e71eba-9175-5f4c-98bb-afb2d356958a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1398230632",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅芋imo",
         "default": "cn"
       }
     },
