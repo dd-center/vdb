@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292764
+    "timestamp": 1690292795
   },
   "vtbs": [
     {
@@ -71650,6 +71650,23 @@
       },
       "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
       "group_name": "虚研学园"
+    },
+    {
+      "uuid": "f2d2c27e-dd77-54a0-8252-d67a7ca9adc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3831010",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未明_Jenay",
+        "default": "cn"
+      }
     },
     {
       "uuid": "30abd75d-0e75-5718-97cb-709899664b72",
