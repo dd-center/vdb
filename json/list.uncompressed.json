@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690295031
+    "timestamp": 1690295108
   },
   "vtbs": [
     {
@@ -12336,6 +12336,23 @@
         "default": "cn"
       },
       "group": "c3de0c58-3df0-5a4f-8224-7297a64c95ce"
+    },
+    {
+      "uuid": "7a98781e-93b5-5d4f-807e-639b4170027f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1836986",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kibufu桑",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2c58e380-dcbf-51a2-b605-f0da46980c45",
@@ -40423,6 +40440,23 @@
       }
     },
     {
+      "uuid": "5a1da78c-683c-53dc-b695-2ebeae343f30",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357738981967",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞利叶__Sariel",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6c4a6893-1050-5194-a2c2-0e18810ea0bc",
       "type": "vtuber",
       "bot": false,
@@ -68409,6 +68443,23 @@
       "name": {
         "extra": [],
         "cn": "時雨Zeta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "903e8410-c43d-510e-8f15-12b5cbdfff8f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494360534485297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "時雨suiyi",
         "default": "cn"
       }
     },
@@ -123581,6 +123632,23 @@
       "name": {
         "extra": [],
         "cn": "谷咕咕-official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9e02feb-cc63-52dc-bc04-fa2c30ac057f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493088139938456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "谷月病",
         "default": "cn"
       }
     },
