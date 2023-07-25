@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690291342
+    "timestamp": 1690291456
   },
   "vtbs": [
     {
@@ -119644,6 +119644,23 @@
       },
       "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
       "group_name": "光年神话"
+    },
+    {
+      "uuid": "883776e9-4e0e-5ca6-a8f5-96404e955784",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493292840848173",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾特贝尔",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ba9a1a8f-5bf7-55e0-a6b0-c9123b9c99a5",
