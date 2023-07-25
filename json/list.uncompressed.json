@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690291009
+    "timestamp": 1690291226
   },
   "vtbs": [
     {
@@ -115420,6 +115420,23 @@
       },
       "group": "0c0c81b5-fc69-5ee9-a2cb-f77fb303b682",
       "group_name": "雨林社"
+    },
+    {
+      "uuid": "bb872f66-8bfc-5b1a-a069-52bcb1ff193a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35565205",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茭白柒",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5a19619e-591e-50a9-a294-228e1a283a1b",
