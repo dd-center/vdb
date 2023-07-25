@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287454
+    "timestamp": 1690287614
   },
   "vtbs": [
     {
@@ -87659,6 +87659,23 @@
       "name": {
         "extra": [],
         "cn": "灵韶Sonnen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "be7a9b2a-0170-5757-8861-2bf911c63ad9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5097886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灼夏Kira",
         "default": "cn"
       }
     },
