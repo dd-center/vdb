@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290175
+    "timestamp": 1690290213
   },
   "vtbs": [
     {
@@ -25994,6 +25994,23 @@
       "name": {
         "extra": [],
         "cn": "依依_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d4f6af6f-4123-5074-b413-36ec42e02d67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7949178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "依妮娅Niya",
         "default": "cn"
       }
     },
@@ -105331,6 +105348,23 @@
       "name": {
         "extra": [],
         "cn": "糯米米MOCHIGOME",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eabd4f18-4afc-5ac3-a045-5832167a7c81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1847389227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紀井言",
         "default": "cn"
       }
     },
