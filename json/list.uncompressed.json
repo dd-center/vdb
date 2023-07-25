@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690292958
+    "timestamp": 1690293011
   },
   "vtbs": [
     {
@@ -8920,6 +8920,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "3c0da2ad-e2cf-5038-9345-cbe8db2c0323",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493279458921203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Schneider_ARP",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5c9d3b40-3afa-511e-acb2-787157f278c9",
