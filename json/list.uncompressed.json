@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690294961
+    "timestamp": 1690294994
   },
   "vtbs": [
     {
@@ -35302,6 +35302,23 @@
       "name": {
         "extra": [],
         "cn": "可烙_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6f3f24f0-f91a-5414-9526-c88bc8fbc2c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39189168",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可爱的桐子",
         "default": "cn"
       }
     },
@@ -77721,6 +77738,23 @@
       },
       "group": "2a539dd2-fb7d-578c-8730-153bb8874a62",
       "group_name": "StarrySky战姬学院"
+    },
+    {
+      "uuid": "4e45d0ff-75eb-5c62-9eb1-17db7c595baf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494360091986430",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦想变米虫",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d056adb4-106f-585c-a34f-b36ddae105d6",
