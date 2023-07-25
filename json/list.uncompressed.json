@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690286844
+    "timestamp": 1690286881
   },
   "vtbs": [
     {
@@ -51386,6 +51386,23 @@
       "name": {
         "extra": [],
         "cn": "小芙仙haruka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e03cdc6d-03af-5e01-92a3-47c66a6d0dba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361943771236",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小花居呀",
         "default": "cn"
       }
     },
