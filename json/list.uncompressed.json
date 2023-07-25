@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690287921
+    "timestamp": 1690287947
   },
   "vtbs": [
     {
@@ -31675,6 +31675,23 @@
       }
     },
     {
+      "uuid": "3bb5b81c-4541-53d8-91d9-8cd3182d9de6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1458765184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千夜栖sumika",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "985f578a-0f95-5914-9475-c3c579f65c12",
       "type": "vtuber",
       "bot": false,
@@ -44836,6 +44853,23 @@
       "name": {
         "extra": [],
         "cn": "天鸟软糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4390224a-e367-5ac6-999a-0e0dbbd537f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493144272308833",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "太樱Tasaku",
         "default": "cn"
       }
     },
