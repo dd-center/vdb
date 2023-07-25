@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690290988
+    "timestamp": 1690291009
   },
   "vtbs": [
     {
@@ -83146,6 +83146,23 @@
       "name": {
         "extra": [],
         "cn": "河豚不是海豚音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3da475c9-a395-5e39-a31b-e34fa83408da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "388019462",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泉咲良-sakura",
         "default": "cn"
       }
     },
