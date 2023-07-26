@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690385687
+    "timestamp": 1690385705
   },
   "vtbs": [
     {
@@ -46470,6 +46470,23 @@
       }
     },
     {
+      "uuid": "ddc6faf0-699a-5906-8458-17d57ca6929e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493286910101664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶枣儿Tsuki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c92bf0df-0a4b-5961-addf-2ffe8acd1d73",
       "type": "vtuber",
       "bot": false,
@@ -54417,6 +54434,23 @@
       "name": {
         "extra": [],
         "cn": "川崎桐切Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df6f9a96-b4a6-5dad-ab67-63fa5dce5d40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493268270614756",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "川川さま_组长冠",
         "default": "cn"
       }
     },
