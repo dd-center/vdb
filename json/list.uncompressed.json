@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690386032
+    "timestamp": 1690386052
   },
   "vtbs": [
     {
@@ -21879,6 +21879,23 @@
       }
     },
     {
+      "uuid": "75212f5c-21d7-51a1-938f-87cfc1f882eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461576250099802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九岁_Kyuu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ed8fd31b-8437-5d49-811c-046194364f53",
       "type": "vtuber",
       "bot": false,
@@ -37618,6 +37635,23 @@
       "name": {
         "extra": [],
         "cn": "咪昔mimi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5334ea2-7dac-5c6a-8a14-2d5643de2951",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1948621460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咪来Mila",
         "default": "cn"
       }
     },
