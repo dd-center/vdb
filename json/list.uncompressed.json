@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690385705
+    "timestamp": 1690385737
   },
   "vtbs": [
     {
@@ -45841,6 +45841,23 @@
       "group_name": "极光社"
     },
     {
+      "uuid": "6dfac35a-1d54-50a7-ab95-1b4535f1b3ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377783560461",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈笙小绿",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "705c671b-e916-56cc-9c65-73c65a9d4edb",
       "type": "vtuber",
       "bot": false,
@@ -87001,6 +87018,23 @@
       "name": {
         "extra": [],
         "cn": "清茶沐沐_Kiyotya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b3a8746e-b456-5452-afa9-1001a7912bbe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "593862389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清茶白桃桃",
         "default": "cn"
       }
     },
