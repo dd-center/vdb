@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690339046
+    "timestamp": 1690385611
   },
   "vtbs": [
     {
@@ -85360,6 +85360,23 @@
       },
       "group": "003983a6-421a-5e75-93e1-841d5c8ee9f2",
       "group_name": "電子妖精"
+    },
+    {
+      "uuid": "04b7a911-299f-5962-b29c-a1f20ce53ef8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494351432845431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "流筝Mio",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ba0d2621-4e52-53f2-8d89-63e587e3aae9",
