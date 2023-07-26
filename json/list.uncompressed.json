@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690316804
+    "timestamp": 1690339046
   },
   "vtbs": [
     {
@@ -70114,6 +70114,28 @@
         "extra": [],
         "cn": "月昭tutu",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ffcbd960-042d-5106-b3ca-9b2c3de21192",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494378511272288",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "TsukimoriMua",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "月森夢愛",
+        "default": "jp"
       }
     },
     {
