@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690385789
+    "timestamp": 1690385821
   },
   "vtbs": [
     {
@@ -10881,6 +10881,23 @@
         "default": "en"
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6"
+    },
+    {
+      "uuid": "6d620681-c569-58c1-8d44-4d3ee0547536",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494350954695225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "WhoHa_唱说唱的",
+        "default": "cn"
+      }
     },
     {
       "uuid": "df9965c7-4901-5180-9ec6-e1ef5fccb550",
@@ -28660,6 +28677,23 @@
       },
       "group": "81fb6430-675c-5177-9443-8dedd2b96730",
       "group_name": "忘崽牛奶"
+    },
+    {
+      "uuid": "0fb83193-d3ed-5a75-aff5-36a9945732a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494364674263195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬月嗷嗷酱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a69d1369-1ae6-5d62-a197-af5c49e1050d",
@@ -140280,6 +140314,23 @@
       "name": {
         "extra": [],
         "cn": "鹿玥_Shikatsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eed0b128-f0f4-5b4b-bdee-c50ba57bc259",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "692838055",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿琳饿了",
         "default": "cn"
       }
     },
