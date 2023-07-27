@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690425369
+    "timestamp": 1690435741
   },
   "vtbs": [
     {
@@ -78025,6 +78025,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "ee25ac52-eed1-50ae-a18b-50b2c0803b6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24641923",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桧塔HATA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d6eeaa00-3764-5ea4-812e-e9d9712588f9",
