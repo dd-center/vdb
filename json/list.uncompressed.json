@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690474279
+    "timestamp": 1690500843
   },
   "vtbs": [
     {
@@ -50557,6 +50557,23 @@
         "extra": [],
         "jp": "寝月nero_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4969466d-8113-51d9-8f4b-87a22a7e85f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7380376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "寝间Nemuya",
+        "default": "CN"
       }
     },
     {
