@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690502082
+    "timestamp": 1690502105
   },
   "vtbs": [
     {
@@ -24747,6 +24747,23 @@
       }
     },
     {
+      "uuid": "b4cfab90-03a4-5be4-912e-6eb3070183eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1719406509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊比尔Ibir",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "22ff96d7-37af-5bf5-a99e-3f058824feb1",
       "type": "vtuber",
       "bot": false,
@@ -40564,6 +40581,23 @@
       "group_name": "ProjectViberglow"
     },
     {
+      "uuid": "67ade457-9404-5b22-a7f3-f1bbe4331f0f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493299195218704",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "在下天姣",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7fb1d10f-7934-5db0-a792-fa3dc0b0f5f5",
       "type": "vtuber",
       "bot": false,
@@ -48158,6 +48192,23 @@
       "name": {
         "extra": [],
         "cn": "姬野青",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1cd7a4d5-a7de-5cd8-8954-dacd3e179938",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493273131812957",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬雨露Hime",
         "default": "cn"
       }
     },
