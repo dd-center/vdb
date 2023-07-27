@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690501642
+    "timestamp": 1690502000
   },
   "vtbs": [
     {
@@ -28024,6 +28024,23 @@
       "name": {
         "extra": [],
         "cn": "入夜Trey",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a6fbe9ce-3f18-5db6-a454-28dfef4a2ecc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494373450844209",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "入星祈望",
         "default": "cn"
       }
     },
@@ -85966,6 +85983,23 @@
       "name": {
         "extra": [],
         "cn": "泽罗伊岐Zeroichi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd1de087-4b2a-53ed-a658-bf6c6f96ec09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493272966138160",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽荇ovo",
         "default": "cn"
       }
     },
