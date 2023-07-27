@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690502000
+    "timestamp": 1690502082
   },
   "vtbs": [
     {
@@ -6633,6 +6633,23 @@
       "name": {
         "extra": [],
         "cn": "Nadak0_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6121a08a-e751-51b8-af5a-7aaa739d8f5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493299188927189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nagi_小凪",
         "default": "cn"
       }
     },
@@ -59815,6 +59832,23 @@
       "name": {
         "extra": [],
         "cn": "德西_des1",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f6da62d-1480-541f-b01e-d18eb63a43bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365760588589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德音-Deyin",
         "default": "cn"
       }
     },
