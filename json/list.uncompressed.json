@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690501592
+    "timestamp": 1690501642
   },
   "vtbs": [
     {
@@ -58507,6 +58507,23 @@
       "name": {
         "extra": [],
         "cn": "弥弥酱Delia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "895a3afb-3f3a-5399-8817-d9bc141787c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137741777065",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥忽忽mihu",
         "default": "cn"
       }
     },
