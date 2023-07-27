@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690435741
+    "timestamp": 1690473464
   },
   "vtbs": [
     {
@@ -124424,6 +124424,25 @@
         "cn": "谛听Hell",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "95a80844-2ed2-58f2-a5b1-d90e3ebf08ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493257264761443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "谢儿Ciel",
+        "default": "cn"
+      },
+      "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
+      "group_name": "虚研社"
     },
     {
       "uuid": "19d9e241-9cf4-5fcd-9412-435b01b0b501",
