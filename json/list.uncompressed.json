@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690502157
+    "timestamp": 1690502839
   },
   "vtbs": [
     {
@@ -97242,6 +97242,23 @@
       "name": {
         "extra": [],
         "cn": "甜甜冰块Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "497a23bc-ad49-594c-a5b8-bae0f293d563",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493295739111693",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜甜妮宝来啦",
         "default": "cn"
       }
     },
