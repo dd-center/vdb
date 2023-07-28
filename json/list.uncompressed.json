@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690503270
+    "timestamp": 1690503311
   },
   "vtbs": [
     {
@@ -123,6 +123,23 @@
       "name": {
         "extra": [],
         "cn": "-云知知",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "168a7b6c-1e04-5a7a-a4e1-98d082b9a4c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493298872257151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-云织月",
         "default": "cn"
       }
     },
@@ -9795,6 +9812,23 @@
       "name": {
         "extra": [],
         "cn": "Tadasuto-塔哒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "beb2f60b-e1d2-5446-9c6d-0cf207031b2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "385316906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Tangerine乌龙茶",
         "default": "cn"
       }
     },
