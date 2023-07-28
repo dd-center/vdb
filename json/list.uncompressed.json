@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690502873
+    "timestamp": 1690503149
   },
   "vtbs": [
     {
@@ -62005,6 +62005,23 @@
       }
     },
     {
+      "uuid": "3bc48e06-d474-5769-be15-17a2ec195a38",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "57664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "懮雫_Yuna",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "37e326f7-0009-5cb1-86ce-062a2e18c70b",
       "type": "vtuber",
       "bot": false,
@@ -122680,6 +122697,23 @@
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
       "group_name": "ProjectViberglow"
+    },
+    {
+      "uuid": "be281f02-da6e-5d3c-9eff-0cb3a55a1061",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "622412818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藤原湘湘子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "08e514da-1504-50eb-b331-ec3675a839d5",
