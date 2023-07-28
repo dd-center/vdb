@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690503175
+    "timestamp": 1690503270
   },
   "vtbs": [
     {
@@ -52429,6 +52429,23 @@
       }
     },
     {
+      "uuid": "72753fcc-3f5c-55c7-9697-6d696457964d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "249148017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小熊会吃饼干吗",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "233bfd0e-634a-57f8-ba6c-db1d60950c20",
       "type": "vtuber",
       "bot": false,
@@ -98859,6 +98876,23 @@
       }
     },
     {
+      "uuid": "41fed705-0429-5afa-9d5d-b084894f3029",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1428543745",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白川千鳥Chidori",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f8178d95-30fe-51f8-bce7-e7e874cbef2e",
       "type": "vtuber",
       "bot": false,
@@ -130364,6 +130398,23 @@
       "name": {
         "extra": [],
         "cn": "鈴華礼奈_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b6bd01bd-3b09-5768-9251-8dd041134a2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1702805",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鈴蘭SAMA",
         "default": "cn"
       }
     },
