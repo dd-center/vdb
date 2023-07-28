@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690502839
+    "timestamp": 1690502873
   },
   "vtbs": [
     {
@@ -76518,6 +76518,23 @@
       }
     },
     {
+      "uuid": "e7a20d2d-9781-5054-b80f-3798fffcb1f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1983363085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柳戌LiuXu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3d210231-ff25-58e7-8576-5c172750f46b",
       "type": "vtuber",
       "bot": false,
@@ -98083,6 +98100,23 @@
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
       "group_name": "Nature"
+    },
+    {
+      "uuid": "d230a837-79ba-50fe-a532-6215684ed746",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "349976867",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白七-Star",
+        "default": "cn"
+      }
     },
     {
       "uuid": "93b66f77-a3e5-5b88-9249-4401d75d0478",
