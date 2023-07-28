@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690503350
+    "timestamp": 1690510018
   },
   "vtbs": [
     {
@@ -129120,6 +129120,23 @@
       "name": {
         "extra": [],
         "cn": "逆叔Neo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "148202ef-a624-5960-8dfb-50019496c399",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487925383",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "通惠河海豹",
         "default": "cn"
       }
     },
