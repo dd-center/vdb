@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690510118
+    "timestamp": 1690649075
   },
   "vtbs": [
     {
@@ -18510,6 +18510,23 @@
       "name": {
         "extra": [],
         "cn": "一块电鹿板",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "027942cb-4a3d-50ea-8d7f-eb9c45e5d92d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "439433963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一坨凌正義",
         "default": "cn"
       }
     },
