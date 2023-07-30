@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690742306
+    "timestamp": 1690742333
   },
   "vtbs": [
     {
@@ -6909,26 +6909,6 @@
         "default": "en"
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d"
-    },
-    {
-      "uuid": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1795366254",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "星律动",
-        "en": "Nebula-Beat​",
-        "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
     },
     {
       "uuid": "af2e6539-d05a-5b54-b893-7b42ee8a58eb",
@@ -25593,9 +25573,7 @@
         "extra": [],
         "cn": "伊菲不是小火驴",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "fae55fa0-6436-5c69-ad8b-5ca21d967761",
@@ -35075,9 +35053,7 @@
         "extra": [],
         "cn": "卡缇娅",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "b4decb0a-a79c-5143-8657-63593fdfb391",
@@ -36703,9 +36679,7 @@
         "extra": [],
         "cn": "叶河黎",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "eb4aa5d9-80cf-5b34-9153-41103b2bd1d4",
@@ -37155,9 +37129,7 @@
         "extra": [],
         "cn": "吉诺儿kino",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "7bd8a758-8c03-5d72-b9d0-c40e586a42c2",
@@ -39354,9 +39326,7 @@
         "extra": [],
         "cn": "唐九夏",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "d5eea4ae-22c4-539c-b3b3-84efc00ca547",
@@ -44601,6 +44571,23 @@
       "name": {
         "extra": [],
         "cn": "夜骑Night",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d13675f4-3c69-5d3c-844e-ff4f89ba611d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353708919",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夢冬oTo",
         "default": "cn"
       }
     },
@@ -51199,9 +51186,7 @@
         "extra": [],
         "cn": "宣小纸",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "fc549c74-5c77-5777-b06d-6d3fc2e375e9",
@@ -63521,9 +63506,7 @@
         "extra": [],
         "cn": "战斗吧歌姬",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "e98fa341-ce47-5520-923c-5896ad157b63",
@@ -79166,9 +79149,7 @@
         "extra": [],
         "cn": "桃姆Q吃手手",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "ee3696ef-c8a2-5f9a-b71d-7f1f37e5dba0",
@@ -113935,9 +113916,7 @@
         "extra": [],
         "cn": "罗兹Blazing",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "b5838b0c-5a56-5693-ac9c-be7d8094551c",
@@ -123536,9 +123515,7 @@
         "extra": [],
         "cn": "萝娜",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "76984947-238c-5274-adc1-7c9b71dcb772",
@@ -135407,9 +135384,7 @@
         "extra": [],
         "cn": "阿买official",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "04573e80-dbd7-5788-9eb8-07a26d7a5f50",
@@ -137910,9 +137885,7 @@
         "extra": [],
         "cn": "雨鱼渔",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "08bac4ec-6c3e-5c62-b6f9-787a59e71e4c",
@@ -139869,9 +139842,7 @@
         "extra": [],
         "cn": "霍鹭鹭",
         "default": "cn"
-      },
-      "group": "60c77bfe-cd1e-5717-9b0f-152bc5f9a27e",
-      "group_name": "Nebula-Beat​"
+      }
     },
     {
       "uuid": "a76ed809-7d2b-5bd2-bc83-9f7aefc2b9ce",
