@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690739047
+    "timestamp": 1690739070
   },
   "vtbs": [
     {
@@ -95062,6 +95062,23 @@
       },
       "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474",
       "group_name": "yifun社"
+    },
+    {
+      "uuid": "e4fb5cd4-7e2c-5998-ba0a-dfda80b36de5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134191299166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫只只y治痔",
+        "default": "cn"
+      }
     },
     {
       "uuid": "72d61dfe-8147-516b-8ceb-d4db5804976f",
