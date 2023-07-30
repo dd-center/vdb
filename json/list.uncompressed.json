@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690741955
+    "timestamp": 1690742306
   },
   "vtbs": [
     {
@@ -22844,6 +22844,23 @@
       "name": {
         "extra": [],
         "cn": "二岚Crystal",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7830dc57-c101-5335-800d-da3067fbc079",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2634922",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二米明子",
         "default": "cn"
       }
     },
