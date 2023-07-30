@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690687302
+    "timestamp": 1690687407
   },
   "vtbs": [
     {
@@ -86013,6 +86013,23 @@
       "name": {
         "extra": [],
         "cn": "泠梦-YiYo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98d094c3-043a-5d7f-99e2-c7ec245d4af2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493291817437468",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泠泠岁一",
         "default": "cn"
       }
     },
