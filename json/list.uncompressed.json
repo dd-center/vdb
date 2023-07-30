@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690692414
+    "timestamp": 1690738977
   },
   "vtbs": [
     {
@@ -94155,6 +94155,35 @@
       }
     },
     {
+      "uuid": "f635a5d3-06af-5d31-b3ef-9c83574811b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1504594318",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KobiUruru1005",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "KobiUruru",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐尾润",
+        "jp": "狐尾うるる",
+        "en": "KobiUruru",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "011c69c2-5404-5268-8cb6-1ccd681c8c40",
       "type": "vtuber",
       "bot": false,
@@ -138331,6 +138360,34 @@
       "name": {
         "extra": [],
         "cn": "雪静Yuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "45b843ef-c03c-5369-a441-1280308d21e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493297215506929",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "YukineOlwin",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "YukineOlwin",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪音芠",
+        "en": "Yukine Olwin",
         "default": "cn"
       }
     },
