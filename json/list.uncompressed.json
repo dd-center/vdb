@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690685738
+    "timestamp": 1690685778
   },
   "vtbs": [
     {
@@ -8298,6 +8298,23 @@
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af",
       "group_name": "WFIE"
+    },
+    {
+      "uuid": "bf3c64de-a818-5ca0-8629-aadc8e66fe44",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357252442916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "RO姬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4a790e7a-a974-5e27-88ae-1c40fbd41c0e",
@@ -140368,6 +140385,23 @@
       "name": {
         "extra": [],
         "cn": "骨魅むくろOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c6b745f-3dbb-51dd-9d49-c317fd513a23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "507070900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "骸菈hella",
         "default": "cn"
       }
     },
