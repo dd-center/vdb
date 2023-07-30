@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690690306
+    "timestamp": 1690690609
   },
   "vtbs": [
     {
@@ -139580,6 +139580,23 @@
       "name": {
         "extra": [],
         "cn": "静花Seika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5ab9726c-2daf-5843-bd50-aae751452068",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1372887496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "非与Saint",
         "default": "cn"
       }
     },
