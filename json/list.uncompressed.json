@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690742351
+    "timestamp": 1690742386
   },
   "vtbs": [
     {
@@ -80646,6 +80646,23 @@
       "name": {
         "extra": [],
         "cn": "梦奈Yumona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aceff148-6eb4-5381-9aba-f8643a352346",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "588569696",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦宝福星",
         "default": "cn"
       }
     },
