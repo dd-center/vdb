@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690691547
+    "timestamp": 1690691694
   },
   "vtbs": [
     {
@@ -44651,6 +44651,23 @@
       "name": {
         "extra": [],
         "cn": "大大柚-Maya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "62bfa79c-c890-5bac-a13c-96a2da608676",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "672525743",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大头曦曦子30号满月",
         "default": "cn"
       }
     },
