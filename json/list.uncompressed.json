@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690741058
+    "timestamp": 1690741434
   },
   "vtbs": [
     {
@@ -6263,6 +6263,24 @@
         "en": "Mlle_Rebecca",
         "default": "en"
       }
+    },
+    {
+      "uuid": "744d21de-42cf-506d-b495-c538ccd2566e",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "590178262",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Mo-o_Project",
+        "default": "cn"
+      },
+      "group": "744d21de-42cf-506d-b495-c538ccd2566e"
     },
     {
       "uuid": "9934d233-a130-5459-8554-ecc7234d2891",
