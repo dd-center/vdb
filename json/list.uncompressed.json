@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690687299
+    "timestamp": 1690687302
   },
   "vtbs": [
     {
@@ -107081,6 +107081,23 @@
         "extra": [],
         "CN": "竹田七対子_Official",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "7691ab8c-96f4-5923-9687-4f9ea917b506",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537106280384961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹竹好孤单",
+        "default": "cn"
       }
     },
     {
