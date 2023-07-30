@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690649075
+    "timestamp": 1690685596
   },
   "vtbs": [
     {
@@ -120869,6 +120869,23 @@
       },
       "group": "bf741674-6d02-574e-b862-a404fdb6d6dc",
       "group_name": "MiosLive"
+    },
+    {
+      "uuid": "48b39a12-e4b0-569b-964d-a5aa53bc39e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493103990212963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲诺希雅",
+        "default": "cn"
+      }
     },
     {
       "uuid": "728472ee-d70f-588d-b2da-68fa929cf884",
