@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690690016
+    "timestamp": 1690690278
   },
   "vtbs": [
     {
@@ -122934,6 +122934,23 @@
       "name": {
         "extra": [],
         "cn": "蒂诺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6507c20b-a506-5911-83e3-4ba18626d4e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1601078731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒂雅Dia",
         "default": "cn"
       }
     },
