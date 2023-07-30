@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690686286
+    "timestamp": 1690687299
   },
   "vtbs": [
     {
@@ -18442,6 +18442,23 @@
       "name": {
         "extra": [],
         "cn": "一只豆婲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5b2d0ab-5819-595d-a76c-6376b4856152",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "66095184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只路过的Pb酱",
         "default": "cn"
       }
     },
@@ -124580,6 +124597,23 @@
       "group_name": "超电VUP"
     },
     {
+      "uuid": "64f7c316-42ca-5f71-a69d-46da3d0978f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494359471229391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶妖妖灵",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "749eb156-0554-5924-a48f-602a67cd287a",
       "type": "vtuber",
       "bot": false,
@@ -125291,6 +125325,23 @@
       "name": {
         "extra": [],
         "cn": "西洲梦長",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "80504c8c-4b4b-5f48-82f0-400ae826d221",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537104973859145",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西瑟今天吃什么",
         "default": "cn"
       }
     },
@@ -142253,6 +142304,23 @@
       },
       "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4",
       "group_name": "774 inc"
+    },
+    {
+      "uuid": "d5020dee-478a-578b-9875-b9e328459fa0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397787232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鶄_Aurora",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a888191f-c05f-5eb7-9a54-063dde48c47c",
