@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690686256
+    "timestamp": 1690686268
   },
   "vtbs": [
     {
@@ -21710,6 +21710,23 @@
       }
     },
     {
+      "uuid": "1e5cce79-3e5a-583b-92c8-a4a04385888f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "586836176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乐正秋Gaku",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3fc90434-c529-5ca2-8a4f-2af202012b70",
       "type": "vtuber",
       "bot": false,
@@ -38899,6 +38916,23 @@
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
       "group_name": "月光社"
+    },
+    {
+      "uuid": "40d6320b-cb41-5488-8606-3ee48624b8fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461575576914581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐羽歌_Gede",
+        "default": "cn"
+      }
     },
     {
       "uuid": "294dbbee-d15a-58d1-8664-a3acdbaf324f",
@@ -87610,6 +87644,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "85fbf6fa-1a2c-5bf5-930f-ca8baace1040",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "508735454",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅见夏子Natsuko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cae04a83-4983-5f24-9083-75bdcd1e4943",
