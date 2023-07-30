@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690739097
+    "timestamp": 1690739331
   },
   "vtbs": [
     {
@@ -77653,6 +77653,23 @@
       },
       "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
       "group_name": "光年神话"
+    },
+    {
+      "uuid": "621b3c83-a3be-5a96-801d-2c836e0106f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628278970",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯罗诺斯Z",
+        "default": "cn"
+      }
     },
     {
       "uuid": "69030d12-7cbf-516e-b2e4-f92671dab6f7",
