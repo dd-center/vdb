@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690740982
+    "timestamp": 1690741009
   },
   "vtbs": [
     {
@@ -57022,6 +57022,23 @@
       }
     },
     {
+      "uuid": "7650706e-db62-5e2b-98a1-44c1ef1d3959",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17214166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "师云泽",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "12d9e132-f8ab-527a-99d5-2dd94f98166b",
       "type": "vtuber",
       "bot": false,
@@ -67656,6 +67673,23 @@
       "name": {
         "extra": [],
         "cn": "星川纱露_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3333579d-40ec-51d2-8bfe-a081399b21bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40758847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星川遥是个小兔球",
         "default": "cn"
       }
     },
@@ -98153,6 +98187,23 @@
         "extra": [],
         "jp": "琴月てと",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "29f1ec12-5fc8-55b0-88b9-f5987e003d4f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "438028310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琴陌miko",
+        "default": "cn"
       }
     },
     {
