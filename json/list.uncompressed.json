@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690739070
+    "timestamp": 1690739097
   },
   "vtbs": [
     {
@@ -29094,6 +29094,23 @@
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
       "group_name": "虚研社"
+    },
+    {
+      "uuid": "83962cf1-4477-533d-906f-bbcb6b521c26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361268488463",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "关于星野同学",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d17909a0-cccb-5a8f-8d6c-f69e1d79e30b",
@@ -108523,6 +108540,23 @@
       "name": {
         "extra": [],
         "cn": "笨狐狸",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce489b4a-fb8d-51a3-88a0-cf7c00888120",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1221932563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "笨蛋梨花诗",
         "default": "cn"
       }
     },
