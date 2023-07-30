@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690741009
+    "timestamp": 1690741058
   },
   "vtbs": [
     {
@@ -131005,6 +131005,23 @@
       "name": {
         "extra": [],
         "cn": "辛迪DevilCindy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "156d5822-8bce-5ea4-ba94-0e48450bf95a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "60210516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辞岁岁QAQ",
         "default": "cn"
       }
     },
