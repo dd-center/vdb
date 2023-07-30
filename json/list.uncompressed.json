@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690740672
+    "timestamp": 1690740716
   },
   "vtbs": [
     {
@@ -23545,6 +23545,23 @@
       "name": {
         "extra": [],
         "cn": "五道口龙哥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b4140b5a-4114-5562-aefc-06a96e893a02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1618258054",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "井上开岛",
         "default": "cn"
       }
     },
@@ -79271,6 +79288,23 @@
       "name": {
         "extra": [],
         "cn": "桃沢Yuria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b5bae995-2213-50ac-bdcf-ba49b7bf0a0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493263455554149",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃沢爱Ayi",
         "default": "cn"
       }
     },
