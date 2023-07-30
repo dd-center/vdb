@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690740924
+    "timestamp": 1690740982
   },
   "vtbs": [
     {
@@ -21999,6 +21999,23 @@
       }
     },
     {
+      "uuid": "0f07318b-f76f-5a53-ab67-f4dc149ddd52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368602228824",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乔崽8月2号满月啦",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5fd63995-051d-5f8b-b3d9-e5fc4d42ba3e",
       "type": "vtuber",
       "bot": false,
@@ -35833,6 +35850,23 @@
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee",
       "group_name": "Re.Eden伊甸园"
+    },
+    {
+      "uuid": "487dccfa-e5bc-59e9-81bd-85589be388b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494371542436664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "古の猫铃",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7ef1f289-d056-51a3-97fe-398e32c263a7",
@@ -51712,6 +51746,23 @@
       "name": {
         "extra": [],
         "cn": "小M-official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1dc787b-35a5-5495-9ad4-5537741fd915",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363696991178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小Q_cute",
         "default": "cn"
       }
     },
@@ -118920,6 +118971,23 @@
       "group_name": "神椿工作室"
     },
     {
+      "uuid": "84d3924b-45f0-5072-bd30-708a73b04cf2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "286641964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花辞不了",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a7551db4-4dee-533c-81ce-3d141dff54d9",
       "type": "vtuber",
       "bot": false,
@@ -139422,6 +139490,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "ebe77a6b-4ee8-5400-be60-5c327a0f9b75",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369378175905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾白Kiri",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3ebed37d-409f-5c04-8d1c-f3295fc11c98",
