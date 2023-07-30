@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690689789
+    "timestamp": 1690690016
   },
   "vtbs": [
     {
@@ -1562,6 +1562,23 @@
       "name": {
         "extra": [],
         "cn": "Ara手一滑_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a6b9217-360e-59d7-aaf0-ea596382553d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "336602161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Arouse复苏flos",
         "default": "cn"
       }
     },
@@ -22605,6 +22622,23 @@
       "name": {
         "extra": [],
         "cn": "二小姐_Ash",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69352e26-3e65-518e-86d5-95d43459649c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4698622",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二岚Crystal",
         "default": "cn"
       }
     },
@@ -63523,6 +63557,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "065e8506-e9f0-52d2-ad4b-832508a82a99",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1840942820",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉菲尼亚Raphael",
+        "default": "cn"
+      }
     },
     {
       "uuid": "52dfa45b-8634-5181-af3e-1bf6e7883bda",
