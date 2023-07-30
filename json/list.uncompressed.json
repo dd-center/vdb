@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690740716
+    "timestamp": 1690740924
   },
   "vtbs": [
     {
@@ -29529,6 +29529,23 @@
       "name": {
         "extra": [],
         "cn": "冬眠莉枝Zzz",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e6a588b8-6c8b-5b01-8b4d-438ef98f7321",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493113773427538",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬福子",
         "default": "cn"
       }
     },
@@ -107820,6 +107837,23 @@
       "name": {
         "extra": [],
         "cn": "空知知",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e028e4a-a8bd-5f78-8e9d-25e1daa91da6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "302926",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空空_KonKon",
         "default": "cn"
       }
     },
