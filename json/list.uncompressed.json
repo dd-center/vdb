@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690829690
+    "timestamp": 1690829695
   },
   "vtbs": [
     {
@@ -81711,6 +81711,23 @@
       "name": {
         "extra": [],
         "cn": "棠之可",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41636e68-aa2e-50a8-a45d-5b95d3d2643f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493274968918070",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棠葵Sugar",
         "default": "cn"
       }
     },
