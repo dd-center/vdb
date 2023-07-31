@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690830073
+    "timestamp": 1690835171
   },
   "vtbs": [
     {
@@ -6226,6 +6226,23 @@
       "name": {
         "extra": [],
         "cn": "Mira小恶魔米拉offical",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd3b66f2-52bc-51b6-bb96-9c7eb53cab2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "94784847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Miss神游",
         "default": "cn"
       }
     },
@@ -38163,6 +38180,23 @@
       }
     },
     {
+      "uuid": "43dce199-f884-5e63-a098-2a6bd2fd628a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454726",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呦松小贝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "845bcf61-60f5-5afc-9468-51f7267d4034",
       "type": "vtuber",
       "bot": false,
@@ -45800,6 +45834,23 @@
         "jp": "天使花夜乃Official",
         "en": "天使かやの-Amatsuka Kayano-",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a86eb2ab-9155-5334-ac1a-8a06093a5871",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8646873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天元言墨",
+        "default": "cn"
       }
     },
     {
@@ -136409,6 +136460,23 @@
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497",
       "group_name": "玹云社"
+    },
+    {
+      "uuid": "94237a21-5ad8-5ac8-847a-d74d4068b59a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494367226497198",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阑月亮湾_zZ",
+        "default": "cn"
+      }
     },
     {
       "uuid": "238826c6-f068-5d5a-bfe0-f6bda7137484",
