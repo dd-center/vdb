@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690829600
+    "timestamp": 1690829627
   },
   "vtbs": [
     {
@@ -7314,6 +7314,23 @@
       "name": {
         "extra": [],
         "cn": "Nowhere_終末少女",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "55d0a9dd-d280-5ad0-9e22-52364ddd2881",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38219397",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nus丶です",
         "default": "cn"
       }
     },
