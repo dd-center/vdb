@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690786087
+    "timestamp": 1690829600
   },
   "vtbs": [
     {
@@ -21891,6 +21891,25 @@
         "en": "Kino",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f12e2a64-cb91-58fc-8f8e-26f9a146f495",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293170100832",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乎乎_Fufu",
+        "default": "cn"
+      },
+      "group": "aaaa38ee-9cea-51f5-a5fe-795fbb0259ce",
+      "group_name": "StarDust星云社"
     },
     {
       "uuid": "a4c145cd-0eb7-58fd-a19f-db8323c5157f",
