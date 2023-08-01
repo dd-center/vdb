@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690835175
+    "timestamp": 1690866900
   },
   "vtbs": [
     {
@@ -89278,6 +89278,23 @@
       }
     },
     {
+      "uuid": "acccf377-cf65-5c75-bd61-3e9639d3e72c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11085212",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛洛米",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "685f391f-1896-548a-86d0-797e2bb06c30",
       "type": "vtuber",
       "bot": false,
@@ -100208,6 +100225,23 @@
       "name": {
         "extra": [],
         "cn": "環さんご",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d105e8ba-7299-5409-b0c3-10eb0ad85d84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1150417011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瓜瓜偷猹-瓜皮护瓜",
         "default": "cn"
       }
     },
