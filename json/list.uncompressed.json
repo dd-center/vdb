@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691092725
+    "timestamp": 1691093105
   },
   "vtbs": [
     {
@@ -89803,6 +89803,23 @@
       }
     },
     {
+      "uuid": "e285a8b6-9626-5c17-b41f-ffd0c0f241e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2000474056",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛水小狼嗷",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3cf1c690-0e30-5e37-a9d8-d3cacd868a82",
       "type": "vtuber",
       "bot": false,
@@ -122697,7 +122714,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "82579091",
+          "id": "3493144536549798",
           "type": "official",
           "platform": "bilibili"
         }
