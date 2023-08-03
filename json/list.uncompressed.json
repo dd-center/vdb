@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691093205
+    "timestamp": 1691093260
   },
   "vtbs": [
     {
@@ -55790,6 +55790,23 @@
       }
     },
     {
+      "uuid": "950a2a41-e743-5602-b081-863b88eb82a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494379744397485",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤娜斯Yunas",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "eeedb4b4-8e3b-5675-938b-5e9924d341e2",
       "type": "vtuber",
       "bot": false,
@@ -85950,6 +85967,23 @@
       }
     },
     {
+      "uuid": "428b516a-0d4d-51ad-906e-222340cb0008",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493118936615637",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水原依莉丝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "24540073-b2ea-5d60-b526-85561b68edef",
       "type": "vtuber",
       "bot": false,
@@ -109490,6 +109524,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "20a4e338-239e-54aa-909c-239c7d778ef5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1327350405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "科陇Sweet",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8dbe2ebb-0a74-5a26-8bfd-ef905d03dbf8",
@@ -143458,6 +143509,23 @@
       "name": {
         "extra": [],
         "cn": "青消Alabop",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1c70df95-e85e-505d-80f7-83ad9bcc1cb1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8523650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青湜",
         "default": "cn"
       }
     },
