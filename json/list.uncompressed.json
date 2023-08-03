@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1690866900
+    "timestamp": 1691092433
   },
   "vtbs": [
     {
@@ -59038,6 +59038,23 @@
       "name": {
         "extra": [],
         "cn": "幸运花花XD",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5ea7014-07a5-56f3-8d4f-8b0b6bf43922",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461580536679215",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幺妖儿丶",
         "default": "cn"
       }
     },
