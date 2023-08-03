@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691093260
+    "timestamp": 1691093289
   },
   "vtbs": [
     {
@@ -7924,6 +7924,23 @@
         "default": "cn"
       },
       "group": "41a66d53-118b-5a4a-a4a8-a394ee5adf1d"
+    },
+    {
+      "uuid": "e1387222-e900-5bd8-8294-81d1bb0e5f08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "149066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pelokio皮洛可",
+        "default": "cn"
+      }
     },
     {
       "uuid": "25dcec92-82e4-5a70-a909-35e86afd2069",
