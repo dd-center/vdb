@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691174589
+    "timestamp": 1691174618
   },
   "vtbs": [
     {
@@ -138998,6 +138998,26 @@
       },
       "group": "a55e1daa-b902-5dcd-8447-85ed6609b1b5",
       "group_name": "LepusLive"
+    },
+    {
+      "uuid": "de90eec1-0deb-5588-852c-84e8e2dc0ca9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5500001",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿尤沙德",
+        "en": "Ail Asard",
+        "default": "cn"
+      },
+      "group": "e91a4eb4-14fc-500f-a8f5-f8650d62dbd2",
+      "group_name": "尼比陆"
     },
     {
       "uuid": "7300ba02-845b-563f-aae7-6070e6770901",
