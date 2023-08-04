@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691130979
+    "timestamp": 1691174589
   },
   "vtbs": [
     {
@@ -72050,6 +72050,23 @@
       }
     },
     {
+      "uuid": "6ad63109-8444-5bcf-bc17-a7e0d47be1eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "509119523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是恰恰但不是瓜子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b56d9da9-3a48-565d-924c-9ddbcaa4787f",
       "type": "vtuber",
       "bot": false,
@@ -136757,6 +136774,25 @@
       "name": {
         "extra": [],
         "cn": "钱二两",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52dc6b1d-36cd-5cf2-a5b9-34ba7c3fd57e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "249250975",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "钱香盈盈盈"
+        ],
+        "cn": "钱香盈",
         "default": "cn"
       }
     },
