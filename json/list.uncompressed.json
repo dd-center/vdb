@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691174618
+    "timestamp": 1691215258
   },
   "vtbs": [
     {
@@ -90843,6 +90843,23 @@
       "name": {
         "extra": [],
         "cn": "浅见夏子Natsuko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e7d5dfb-161d-5110-8554-93b6b0803258",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15039297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅酌半壶酒-沉淀版",
         "default": "cn"
       }
     },
