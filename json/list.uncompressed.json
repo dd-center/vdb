@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691215258
+    "timestamp": 1691436285
   },
   "vtbs": [
     {
@@ -79307,6 +79307,23 @@
       }
     },
     {
+      "uuid": "b55f8089-5baa-5b9a-979f-30101b8b4bb7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9923775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯暮卿",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "aef568e8-88c8-5d7b-a0f3-0bc5cb14433a",
       "type": "vtuber",
       "bot": false,
@@ -90737,6 +90754,23 @@
       "name": {
         "extra": [],
         "cn": "浅川芙fuuu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bbed725b-21d9-5c76-b05e-171e23319b62",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8455576",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅星喵",
         "default": "cn"
       }
     },
@@ -131855,6 +131889,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "9db8cdea-9d81-5a71-886b-1a11c02576e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20193220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆奶Melor",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e1fcf837-77c9-57f3-88ef-324b1258a3ac",
