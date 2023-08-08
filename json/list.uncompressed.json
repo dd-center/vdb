@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691500320
+    "timestamp": 1691500354
   },
   "vtbs": [
     {
@@ -40524,6 +40524,23 @@
           "啊黎喵"
         ],
         "cn": "是你的小啊黎哟",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5ac2d4c1-ba28-518e-92d6-bde0c768be61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "544219353",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啡糖Niko",
         "default": "cn"
       }
     },
