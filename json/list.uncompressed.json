@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691500285
+    "timestamp": 1691500320
   },
   "vtbs": [
     {
@@ -67307,6 +67307,23 @@
       "name": {
         "extra": [],
         "cn": "早椰恋恋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2000de17-0157-5d79-95cb-75a5d6af15b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "510456271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早樱苒",
         "default": "cn"
       }
     },
