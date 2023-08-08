@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691500354
+    "timestamp": 1691500380
   },
   "vtbs": [
     {
@@ -35338,6 +35338,23 @@
         "extra": [],
         "cn": "卡农",
         "en": "Canon",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6c62269-9689-54f1-9f9c-19982989ccfd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1981393420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡卡Kakuma",
         "default": "cn"
       }
     },
