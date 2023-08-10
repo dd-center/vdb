@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691637686
+    "timestamp": 1691641722
   },
   "vtbs": [
     {
@@ -62031,6 +62031,23 @@
       "name": {
         "extra": [],
         "cn": "御宅达人唐小萌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a5c93927-4cac-579b-a8d5-2605c362c04e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "142604245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御守月島",
         "default": "cn"
       }
     },
