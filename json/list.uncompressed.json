@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691641722
+    "timestamp": 1691819122
   },
   "vtbs": [
     {
@@ -38985,6 +38985,23 @@
       }
     },
     {
+      "uuid": "066ef306-9e98-5a66-a9cb-739f2a81c1cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1223484261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咏枂Yuer",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0b9c0d65-4941-51e5-b873-4354bbbb98d3",
       "type": "vtuber",
       "bot": false,
@@ -75715,6 +75732,28 @@
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25",
       "group_name": "Antinomy13"
+    },
+    {
+      "uuid": "263906e1-fea5-5120-bddf-3637cd60b467",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "690230154",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "mmu_uko",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木乃伊子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fe81e0b1-bc29-5509-9ccf-b678c0d96016",
