@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691819122
+    "timestamp": 1691819147
   },
   "vtbs": [
     {
@@ -55447,6 +55447,23 @@
       "name": {
         "extra": [],
         "cn": "小软睡醒了吗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4650f6fd-9f13-5c0b-904e-b68b252eb002",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493084235041307",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小迷糊咩酱",
         "default": "cn"
       }
     },
@@ -115196,6 +115213,23 @@
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16",
       "group_name": "曦和project"
+    },
+    {
+      "uuid": "0eecf1a1-7598-5ad3-ab3f-a8a5080483ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1813858",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "织绫kylin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "56201821-f125-5eb3-977b-8083613edeea",
