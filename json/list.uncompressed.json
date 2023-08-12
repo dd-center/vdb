@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691819198
+    "timestamp": 1691819434
   },
   "vtbs": [
     {
@@ -4511,6 +4511,23 @@
       "name": {
         "extra": [],
         "cn": "KK-9700",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "346a1f1a-126a-5dde-bddf-3f9d3e2de62f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "62411789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KKKelly",
         "default": "cn"
       }
     },
