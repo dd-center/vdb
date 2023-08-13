@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1691830483
+    "timestamp": 1691935048
   },
   "vtbs": [
     {
@@ -30241,6 +30241,23 @@
       "name": {
         "extra": [],
         "cn": "冰兔w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c360c83-1a31-5a61-85f3-227a08d8f627",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270858500935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰冰冰块",
         "default": "cn"
       }
     },
