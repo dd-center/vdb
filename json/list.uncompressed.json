@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1692499798
+    "timestamp": 1692499898
   },
   "vtbs": [
     {
@@ -133577,6 +133577,23 @@
         "cn": "玫菈",
         "jp": "めら",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac22232d-9679-57aa-9088-2c44b1ae7e76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "609132511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "超级索尼马",
+        "default": "CN"
       }
     },
     {
