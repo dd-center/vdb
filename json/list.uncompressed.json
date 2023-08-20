@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1692498519
+    "timestamp": 1692498549
   },
   "vtbs": [
     {
@@ -135765,6 +135765,23 @@
       "name": {
         "extra": [],
         "cn": "酒酿小鱼干er_25号满月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac641b83-e20a-52f7-bd54-c5f61845556b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377901000718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒酿水子",
         "default": "cn"
       }
     },
