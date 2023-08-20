@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1692498651
+    "timestamp": 1692498718
   },
   "vtbs": [
     {
@@ -3416,6 +3416,23 @@
       "name": {
         "extra": [],
         "cn": "FL的监控室老大爷",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ba88377-8ef6-5f6a-95bf-140c550caf00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10089305",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "FR贪狼",
         "default": "cn"
       }
     },
@@ -142489,6 +142506,23 @@
       "name": {
         "extra": [],
         "cn": "雪静Yuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d33afe2d-2f36-5f4b-b318-2562d2ce5f30",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111217080911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪音沢羽",
         "default": "cn"
       }
     },
