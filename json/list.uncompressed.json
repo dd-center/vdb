@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1692498549
+    "timestamp": 1692498597
   },
   "vtbs": [
     {
@@ -80403,6 +80403,23 @@
       "name": {
         "extra": [],
         "cn": "栗小枝桠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "18b13866-2fef-5d9a-a23c-65e5a6cb1acf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494364242249735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗川堇Sumire",
         "default": "cn"
       }
     },
