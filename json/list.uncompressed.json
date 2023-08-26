@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693008385
+    "timestamp": 1693008758
   },
   "vtbs": [
     {
@@ -42790,6 +42790,23 @@
       "name": {
         "extra": [],
         "cn": "塞勒涅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0df22013-c81b-5e24-98fe-aa72e77ed26e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "104687464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞娇-Starita",
         "default": "cn"
       }
     },
