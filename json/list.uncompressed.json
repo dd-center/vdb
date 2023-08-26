@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693008271
+    "timestamp": 1693008337
   },
   "vtbs": [
     {
@@ -69870,6 +69870,28 @@
       }
     },
     {
+      "uuid": "1624e933-0bb3-5139-9edd-b6c2f84a17fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365169190991",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "srr_sagi",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星河Sagi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a6884c96-67c8-59a8-b90c-00433fd973db",
       "type": "vtuber",
       "bot": false,
@@ -91706,7 +91728,9 @@
         "extra": [],
         "cn": "海离",
         "default": "cn"
-      }
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
+      "group_name": "纸片人计划"
     },
     {
       "uuid": "5c61e3ea-9eeb-5c54-a210-b5f5155e4ad9",
@@ -94969,6 +94993,23 @@
       "name": {
         "extra": [],
         "cn": "烛宝哒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4ab33a20-b3a8-53bc-8a76-52de0aaf2da0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377886321557",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "烛玖Pnine",
         "default": "cn"
       }
     },
@@ -120878,6 +120919,25 @@
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47",
       "group_name": "propro production"
+    },
+    {
+      "uuid": "d0e2f73e-d854-5b02-904c-ee07817a647c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293765691997",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花云白Floraaa_a",
+        "default": "cn"
+      },
+      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
+      "group_name": "ChaosLiveSprout"
     },
     {
       "uuid": "19492fba-0da2-5132-8581-10039e46acaf",
