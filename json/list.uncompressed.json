@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693008758
+    "timestamp": 1693008800
   },
   "vtbs": [
     {
@@ -55976,6 +55976,23 @@
       }
     },
     {
+      "uuid": "f1fa46ab-4650-57f8-85bd-8422fe2b4f24",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105137436823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鳥遊七枝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "47b2c514-124f-5681-9085-a346be72e782",
       "type": "vtuber",
       "bot": false,
@@ -71328,6 +71345,23 @@
       "group_name": "星野旅社"
     },
     {
+      "uuid": "1a107dfc-3654-5cd5-8cc6-1be42d4f5a93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351220000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野桜Sakura",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f318cb5d-ce44-5161-a4bb-384c85ebd025",
       "type": "vtuber",
       "bot": false,
@@ -85107,6 +85141,23 @@
         "extra": [],
         "cn": "樱月花音",
         "jp": "桜月花音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "225ff796-77ba-5b14-90d7-0131ac3f3cb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "75044618",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱桃MOMO叉屁屁",
         "default": "cn"
       }
     },
