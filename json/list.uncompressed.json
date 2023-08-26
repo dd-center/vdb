@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693008800
+    "timestamp": 1693008821
   },
   "vtbs": [
     {
@@ -49998,6 +49998,23 @@
       "name": {
         "extra": [],
         "cn": "姜奴nono",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "89ffbaf6-ada5-5c88-ac6b-1bc69bc6ee0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10048536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姜姜QAQ",
         "default": "cn"
       }
     },
