@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693120272
+    "timestamp": 1693120307
   },
   "vtbs": [
     {
@@ -32689,6 +32689,23 @@
       "name": {
         "extra": [],
         "cn": "勿天星",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e7e01e26-1a19-5672-b975-b5247afefed2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494358271658807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "包包酱阿",
         "default": "cn"
       }
     },
@@ -104749,6 +104766,23 @@
       "name": {
         "extra": [],
         "cn": "白禾遥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8cc196c9-5bd7-5ab5-a1f4-1bfe3b28bf7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1240845292",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白糖是只懒猫",
         "default": "cn"
       }
     },
