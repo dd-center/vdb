@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693255515
+    "timestamp": 1693258085
   },
   "vtbs": [
     {
@@ -57493,6 +57493,23 @@
       "group": "71567c9a-f24f-5829-877c-aad4d77ff08e"
     },
     {
+      "uuid": "ed204100-314e-51d2-bf46-4ee1ca8dff72",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494366049994839",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山炮鹅",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "01819af3-2277-52cd-ba4c-d8e812742b2e",
       "type": "vtuber",
       "bot": false,
@@ -112473,6 +112490,23 @@
       "name": {
         "extra": [],
         "cn": "箱丸美咲Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6a16617-09a9-5be2-a880-968ebcf36d05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493258795681822",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "箱栗子ShiKa",
         "default": "cn"
       }
     },
