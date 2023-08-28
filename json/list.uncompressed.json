@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693120335
+    "timestamp": 1693255484
   },
   "vtbs": [
     {
@@ -116488,6 +116488,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "25863367-4af2-5729-ade0-6b9ce99a68dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494360209427336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮罗罗_kirara",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dea5ec5f-a3cb-5269-9844-7f769999da74",
