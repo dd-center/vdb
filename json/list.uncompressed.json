@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693391874
+    "timestamp": 1693677877
   },
   "vtbs": [
     {
@@ -123649,6 +123649,23 @@
       "name": {
         "extra": [],
         "cn": "花魂Chivalry",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52a2941b-d203-5f61-87e7-a699ba2e838c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "108820222",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花黎Flowery",
         "default": "cn"
       }
     },
