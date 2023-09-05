@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693903101
+    "timestamp": 1693903161
   },
   "vtbs": [
     {
@@ -50278,6 +50278,23 @@
       }
     },
     {
+      "uuid": "33d3107f-edb9-53e9-9dac-5139b8367c8c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493280878692879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妻末_official ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "32c6d514-e85f-50de-a36b-8117c3b306dc",
       "type": "vtuber",
       "bot": false,
@@ -74448,6 +74465,23 @@
         "extra": [],
         "cn": "曦娜",
         "en": "Soina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a9d23af-261e-591c-be3e-960bdd30d7f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377049557569",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曦柚xiyou",
         "default": "cn"
       }
     },
