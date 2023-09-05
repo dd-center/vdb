@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1693677877
+    "timestamp": 1693902930
   },
   "vtbs": [
     {
@@ -81604,6 +81604,24 @@
       "name": {
         "extra": [],
         "cn": "桃乃Peach",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef3fc782-b9ef-503e-ac58-b2416f00a080",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "263091531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃乐丝",
+        "en": "Dollris",
         "default": "cn"
       }
     },
