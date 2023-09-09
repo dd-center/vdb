@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694259552
+    "timestamp": 1694276706
   },
   "vtbs": [
     {
@@ -63061,6 +63061,23 @@
       }
     },
     {
+      "uuid": "3f47f3f7-9df5-5a38-a19f-4e74312b1a7b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115891632675",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御坂美酋",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4dfebbf3-2e8a-5dcd-aa8d-fd70107d0c12",
       "type": "vtuber",
       "bot": false,
@@ -124702,6 +124719,23 @@
       "name": {
         "extra": [],
         "cn": "苏二零v",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "19a226b3-d8d1-53e4-8fda-f7b4623112bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1414231802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏亿万Ruby",
         "default": "cn"
       }
     },
