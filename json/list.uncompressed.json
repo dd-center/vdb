@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694259486
+    "timestamp": 1694259523
   },
   "vtbs": [
     {
@@ -9704,6 +9704,23 @@
       "name": {
         "extra": [],
         "cn": "Shine_沁",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c8030693-1242-59cb-8858-4c61fa02637d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111779117791",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Shirley雪梨-全能版",
         "default": "cn"
       }
     },
