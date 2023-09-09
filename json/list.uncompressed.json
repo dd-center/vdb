@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694197262
+    "timestamp": 1694259458
   },
   "vtbs": [
     {
@@ -2245,6 +2245,25 @@
         "en": "CHICKER",
         "default": "en"
       }
+    },
+    {
+      "uuid": "0713d714-6555-5b66-bd39-3d49091b08b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2066920860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CIEL_VanillaSky",
+        "default": "cn"
+      },
+      "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010",
+      "group_name": "神椿工作室"
     },
     {
       "uuid": "e46b9a98-9c92-5582-a6d2-7cfdde04d35a",
