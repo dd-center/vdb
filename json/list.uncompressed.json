@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694475505
+    "timestamp": 1694475686
   },
   "vtbs": [
     {
@@ -91163,6 +91163,23 @@
       "name": {
         "extra": [],
         "cn": "波莉Pori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75a3b182-7731-5fec-ba27-23871794343e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363652950348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波間無居_Mui",
         "default": "cn"
       }
     },
