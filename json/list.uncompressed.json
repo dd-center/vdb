@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694475485
+    "timestamp": 1694475505
   },
   "vtbs": [
     {
@@ -144694,6 +144694,23 @@
         "extra": [],
         "cn": "雪见世子",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "4a98c3de-f818-5cc9-9899-31fbc4742c63",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2146103492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "雪豹Leo_official",
+        "default": "jp"
       }
     },
     {
