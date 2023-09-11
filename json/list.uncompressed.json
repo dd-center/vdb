@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694449288
+    "timestamp": 1694449390
   },
   "vtbs": [
     {
@@ -27811,6 +27811,23 @@
       "name": {
         "extra": [],
         "cn": "依兰白",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a4db4c83-36c2-5898-8e29-1ff9c05b6dc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363590035776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "依奈喵na",
         "default": "cn"
       }
     },
