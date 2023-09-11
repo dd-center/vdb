@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694475686
+    "timestamp": 1694476067
   },
   "vtbs": [
     {
@@ -57035,6 +57035,23 @@
       "name": {
         "extra": [],
         "cn": "小鹿比酱又迷路啦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "253b84e4-ee1c-5664-904f-5f9791c79d04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493263732378280",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "少司存SyoSuTsun",
         "default": "cn"
       }
     },
