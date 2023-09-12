@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694480162
+    "timestamp": 1694480179
   },
   "vtbs": [
     {
@@ -8138,6 +8138,23 @@
         "extra": [],
         "en": "Petra的极地考察队",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "4b620f00-fe23-58d8-b58c-772edc49dcd9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493258732767466",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Pheebo菲宝",
+        "default": "cn"
       }
     },
     {
@@ -114438,6 +114455,23 @@
       "name": {
         "extra": [],
         "cn": "米迦勒凌寒白羽official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cbbcef94-b817-5a0c-af91-6a10aed5d097",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "592366795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米酒七分甜-软哥宠冠",
         "default": "cn"
       }
     },
