@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694477310
+    "timestamp": 1694477568
   },
   "vtbs": [
     {
@@ -5208,6 +5208,23 @@
       },
       "group": "ccba2d70-dee5-5800-a307-b722ebdcdc4f",
       "group_name": "夜空Project"
+    },
+    {
+      "uuid": "ae891fb6-a659-5fe1-bcd2-4a00381785b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494379647928986",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LeoCavendish",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a55e1daa-b902-5dcd-8447-85ed6609b1b5",
