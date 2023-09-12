@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694478545
+    "timestamp": 1694478682
   },
   "vtbs": [
     {
@@ -131987,6 +131987,23 @@
       "name": {
         "extra": [],
         "cn": "蝶理紗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8120faf7-ef8c-5b15-8071-440eb4123780",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493276539685287",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶笙Morpho",
         "default": "cn"
       }
     },
