@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694481582
+    "timestamp": 1694483571
   },
   "vtbs": [
     {
@@ -54484,6 +54484,23 @@
       }
     },
     {
+      "uuid": "eeb3724c-0785-5ab3-aeec-e7de73a995c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494358951135274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小松步步",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "16c5727e-72e1-576a-89c6-0d3c013154d5",
       "type": "vtuber",
       "bot": false,
@@ -61528,6 +61545,23 @@
       "name": {
         "extra": [],
         "cn": "弥生月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d4436160-dd3d-54bc-b082-331c88b22602",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546375232949134",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥生祈望星Weee",
         "default": "cn"
       }
     },
