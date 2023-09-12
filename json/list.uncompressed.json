@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694480179
+    "timestamp": 1694480290
   },
   "vtbs": [
     {
@@ -5511,7 +5511,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "3493276510325038",
+          "id": "3494369485129928",
           "type": "official",
           "platform": "bilibili"
         }
@@ -35805,6 +35805,23 @@
       "group_name": "P-SP"
     },
     {
+      "uuid": "8addb489-ae83-5d88-b054-512adbcfa219",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493267630983559",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南音弥Minami",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "90e8b76a-0f07-543e-b6fb-b8e3115c75f5",
       "type": "vtuber",
       "bot": false,
@@ -50184,6 +50201,23 @@
       "name": {
         "extra": [],
         "cn": "如月みう",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "122ceef4-c4f6-55ac-9d96-9ad30763a6ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461568622758177",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "如月南minami",
         "default": "cn"
       }
     },
