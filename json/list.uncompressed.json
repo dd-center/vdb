@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694480117
+    "timestamp": 1694480162
   },
   "vtbs": [
     {
@@ -68735,6 +68735,23 @@
       "name": {
         "extra": [],
         "cn": "早穗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5efb650-ccb7-5554-a125-22404a936be6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354998004378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早耶三三",
         "default": "cn"
       }
     },
@@ -150462,6 +150479,23 @@
       "name": {
         "extra": [],
         "cn": "鲨鲨Zjings",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9ee1f907-361f-5a53-a2a5-1da12cf643a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1480811",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲨鲨是条鲛",
         "default": "cn"
       }
     },
