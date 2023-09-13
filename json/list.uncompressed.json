@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694563742
+    "timestamp": 1694563787
   },
   "vtbs": [
     {
@@ -91845,6 +91845,23 @@
       "group_name": "南十字星project"
     },
     {
+      "uuid": "334437f5-a833-5ad5-85d6-a0a4565841d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369095059973",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅岛绿",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f70a01c2-cc0b-56ad-8ed0-09889db6882e",
       "type": "vtuber",
       "bot": false,
@@ -107175,6 +107192,23 @@
       "name": {
         "extra": [],
         "cn": "皮皮梦_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eccba5ce-b3f0-5271-84bc-dd02e7333b48",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363824917033",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盏知念",
         "default": "cn"
       }
     },
