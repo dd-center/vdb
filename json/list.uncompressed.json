@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694563531
+    "timestamp": 1694563609
   },
   "vtbs": [
     {
@@ -25866,6 +25866,23 @@
         "extra": [],
         "jp": "伊月マリア",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "44b0b706-adc4-5f99-b906-92742c7fec7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494380170119544",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊月海因Ituki",
+        "default": "cn"
       }
     },
     {
