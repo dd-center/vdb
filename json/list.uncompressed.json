@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694703791
+    "timestamp": 1694705323
   },
   "vtbs": [
     {
@@ -12638,6 +12638,23 @@
       "group": "e99f3b51-c9e1-5b68-893f-aa6394d3af86"
     },
     {
+      "uuid": "b14b89bc-2965-5135-b7e4-b2fd7a381fc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "43181735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "fairy苏软糖",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7b124459-b6db-58f6-a918-c6484dad9052",
       "type": "vtuber",
       "bot": false,
@@ -12975,6 +12992,23 @@
       "name": {
         "extra": [],
         "cn": "ju猫不笨蛋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52dbad00-a7ce-5e56-9e54-ae24d83147d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1998383382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kaka新星",
         "default": "cn"
       }
     },
