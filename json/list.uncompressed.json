@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694675907
+    "timestamp": 1694703791
   },
   "vtbs": [
     {
@@ -26005,6 +26005,23 @@
       }
     },
     {
+      "uuid": "77185cbf-4df3-5ea7-957b-357ad55c0b07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494380811848430",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊樹菜NANA",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a0dfe45c-5bfd-5c8a-93f2-ac06eb5b34df",
       "type": "vtuber",
       "bot": false,
@@ -37819,6 +37836,23 @@
       "name": {
         "extra": [],
         "cn": "叶娴好耶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "42188582-15bc-50b0-b46b-8dd1ab45aed9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493294879280043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶子ye_Leaf",
         "default": "cn"
       }
     },
