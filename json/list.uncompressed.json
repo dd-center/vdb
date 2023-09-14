@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694634554
+    "timestamp": 1694675522
   },
   "vtbs": [
     {
@@ -4784,6 +4784,23 @@
       "name": {
         "extra": [],
         "cn": "Kiko_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1798e3cf-8fe0-5729-9194-74e98abc84f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "425478571",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Kio呆糕-疯狂版",
         "default": "cn"
       }
     },
@@ -61536,6 +61553,23 @@
       "group_name": "MZ次元"
     },
     {
+      "uuid": "cb97076a-1e8a-50fa-a7fb-80a936e7c8d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2675804",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "库洛_neko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "01d1c881-51ea-57db-adfa-92f2cabbc945",
       "type": "vtuber",
       "bot": false,
@@ -97357,6 +97391,23 @@
       }
     },
     {
+      "uuid": "b87470d7-f847-52c1-8530-144f35b6a013",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494359221668564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧海Ares",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e14b1084-6595-5c55-b184-85686a038640",
       "type": "vtuber",
       "bot": false,
@@ -122746,6 +122797,23 @@
           "花崎千代Chiyo"
         ],
         "cn": "花崎千代Copy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ebb5af3e-bff4-5537-aa01-96a3a4922cd8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3033903",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花崎奈子",
         "default": "cn"
       }
     },
