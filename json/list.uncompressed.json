@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694705550
+    "timestamp": 1694705599
   },
   "vtbs": [
     {
@@ -24416,6 +24416,23 @@
       "name": {
         "extra": [],
         "cn": "五道口龙哥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c7c67a5-0d39-5934-80b1-94c2aa9b89b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493271510714658",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五音不全的晚小辰",
         "default": "cn"
       }
     },
@@ -60463,6 +60480,23 @@
       "name": {
         "extra": [],
         "cn": "希露卡_特瓦伊莱特",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a499c7f-ccd0-565d-b61b-b679c664e56f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494364126906916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕儿PA",
         "default": "cn"
       }
     },
