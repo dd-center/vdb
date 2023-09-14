@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694705599
+    "timestamp": 1694706176
   },
   "vtbs": [
     {
@@ -116466,6 +116466,24 @@
         "extra": [],
         "cn": "红辣椒啊",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f5cd043-8f48-5b1f-8e34-e441fe1fd74a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537119901387660",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mora",
+        "cn": "红魔姬",
+        "default": "en"
       }
     },
     {
