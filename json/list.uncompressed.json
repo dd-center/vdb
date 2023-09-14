@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694705483
+    "timestamp": 1694705550
   },
   "vtbs": [
     {
@@ -23700,6 +23700,23 @@
       "name": {
         "extra": [],
         "cn": "云团full",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0918784-454e-5b0f-a56e-d4a30f266800",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537120023022390",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云声声_yun",
         "default": "cn"
       }
     },
@@ -75740,6 +75757,23 @@
       },
       "group": "1c22567f-c174-5e1c-b4d4-78389bf39d09",
       "group_name": "MofuMofu Fantasista"
+    },
+    {
+      "uuid": "a09278ea-da9a-52a2-8a99-34e5b85bc1ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493291037297185",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月小兔niki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1f1e81d7-7c5e-57a8-837b-9b85c4ae98ea",
