@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694705323
+    "timestamp": 1694705483
   },
   "vtbs": [
     {
@@ -137162,6 +137162,23 @@
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
       "group_name": "Nature"
+    },
+    {
+      "uuid": "1db9db99-51b3-5e7d-8168-1f030187710e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52795517",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迷糊の椰椰兔",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e5e3477f-ee03-5c13-8a25-1b3035177859",
