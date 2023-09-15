@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694740574
+    "timestamp": 1694740681
   },
   "vtbs": [
     {
@@ -151911,6 +151911,23 @@
       "name": {
         "extra": [],
         "cn": "鹿璃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe25d6b1-1e6d-5c8e-bc9a-356d68628ccc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546380113021396",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿甜甜Lorie",
         "default": "cn"
       }
     },
