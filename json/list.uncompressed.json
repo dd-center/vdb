@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694740700
+    "timestamp": 1694740736
   },
   "vtbs": [
     {
@@ -51291,6 +51291,23 @@
       }
     },
     {
+      "uuid": "572a321f-ea93-5e9f-bae6-612e975a964a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "476186393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娜瑞丝niko",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8de4a493-2b20-5611-b2e2-cda89a4871da",
       "type": "vtuber",
       "bot": false,
@@ -60878,6 +60895,23 @@
       "name": {
         "extra": [],
         "cn": "平成未来子_Mikiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a0a0d27a-1cf5-5283-883f-61457712c55f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111974152580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "年三岁sama",
         "default": "cn"
       }
     },
