@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694755242
+    "timestamp": 1694755259
   },
   "vtbs": [
     {
@@ -51359,6 +51359,23 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "ab8cbfa7-f68d-53db-b28e-ff61a149ffb1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546381249677998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "娜莎_Nasa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9f222c99-25e4-5b27-953e-0ebc0b03008e",
