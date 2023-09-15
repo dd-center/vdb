@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694740681
+    "timestamp": 1694740700
   },
   "vtbs": [
     {
@@ -62040,6 +62040,23 @@
       "name": {
         "extra": [],
         "cn": "度日有希",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "da0b0dd1-510b-55c7-8fe0-096d1d185d8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494355658606842",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "庫吉菈Kura",
         "default": "cn"
       }
     },
