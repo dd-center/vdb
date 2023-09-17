@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694927091
+    "timestamp": 1694927135
   },
   "vtbs": [
     {
@@ -26821,6 +26821,23 @@
         "extra": [],
         "jp": "伏見ガク",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d0555613-0955-5c8e-8e55-8bebb26b8895",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493262811728464",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "休米芽MIA",
+        "default": "cn"
       }
     },
     {
