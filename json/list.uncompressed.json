@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694926900
+    "timestamp": 1694927020
   },
   "vtbs": [
     {
@@ -53894,6 +53894,23 @@
       "name": {
         "extra": [],
         "cn": "尊贵的扇贝王",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e061535c-7bda-5d27-a9be-e36265d26efc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546379582441606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小6吖",
         "default": "cn"
       }
     },
