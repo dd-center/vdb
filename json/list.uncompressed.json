@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695006339
+    "timestamp": 1695006455
   },
   "vtbs": [
     {
@@ -84556,6 +84556,23 @@
       "group_name": "Palette"
     },
     {
+      "uuid": "5f727a7a-36ae-5340-a311-e01fce415f53",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1953879158",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨子_子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9dfb701c-102a-56ac-8d72-beb29fda311d",
       "type": "vtuber",
       "bot": false,
@@ -112938,6 +112955,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b1179c99-efe0-577b-9a1a-347611aadf92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32886516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竭策凛",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e636926e-6e2f-572b-b426-8f4d03ec16bd",
