@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1694965490
+    "timestamp": 1695006280
   },
   "vtbs": [
     {
@@ -19243,6 +19243,23 @@
       "name": {
         "extra": [],
         "cn": "一叶子铃铛Mikan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6ec34aa7-e64d-52d2-b74b-a193923bbaa4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493287405030232",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一块小年糕Saki",
         "default": "cn"
       }
     },
@@ -66262,6 +66279,23 @@
       "name": {
         "extra": [],
         "cn": "我妻雪橙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "31b83c70-30e2-55cc-b7c5-a80c91730016",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23158337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "我是昔昔",
         "default": "cn"
       }
     },
