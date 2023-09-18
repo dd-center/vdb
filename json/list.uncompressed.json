@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695015342
+    "timestamp": 1695015418
   },
   "vtbs": [
     {
@@ -56625,6 +56625,23 @@
       }
     },
     {
+      "uuid": "9b12ad58-60c0-54e6-9d66-64dd18943677",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494380291754556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小迷糊_Collectlove",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4650f6fd-9f13-5c0b-904e-b68b252eb002",
       "type": "vtuber",
       "bot": false,
@@ -85060,6 +85077,23 @@
         "extra": [],
         "cn": "森妮",
         "en": "Senni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "46288f8b-20ee-574b-9a97-48a1351c12b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546378584197428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森岛momo",
         "default": "cn"
       }
     },
