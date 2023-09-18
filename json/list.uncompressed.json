@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695015418
+    "timestamp": 1695015476
   },
   "vtbs": [
     {
@@ -131012,6 +131012,23 @@
         "extra": [],
         "cn": "藤咲mia",
         "jp": "藤咲ミア",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ad21df00-4943-5258-8928-776413f367fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494374721718526",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藤礼",
         "default": "cn"
       }
     },
