@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695015195
+    "timestamp": 1695015342
   },
   "vtbs": [
     {
@@ -31766,6 +31766,23 @@
       "name": {
         "extra": [],
         "cn": "凛月雪音_Yukine",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a7c7d085-dcf9-5d9a-926c-e2f75510424a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537106083253012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凛樱_Lianne",
         "default": "cn"
       }
     },
