@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695006280
+    "timestamp": 1695006339
   },
   "vtbs": [
     {
@@ -148416,6 +148416,23 @@
       "name": {
         "extra": [],
         "cn": "食人花帕琪",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "be92565a-868e-5b20-abb0-7e1a0ce78777",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1637717071",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "食月Tsuki",
         "default": "cn"
       }
     },
