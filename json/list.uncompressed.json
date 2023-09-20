@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695253230
+    "timestamp": 1695253267
   },
   "vtbs": [
     {
@@ -118251,6 +118251,23 @@
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b",
       "group_name": "狄灵计划"
+    },
+    {
+      "uuid": "303e20c5-2892-580c-84dd-b6febc654b9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275895860032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯间樱斩",
+        "default": "cn"
+      }
     },
     {
       "uuid": "631563ee-ce39-55e7-b0bb-510bb6d5175c",
