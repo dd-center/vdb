@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695016687
+    "timestamp": 1695191085
   },
   "vtbs": [
     {
@@ -130987,6 +130987,39 @@
       "name": {
         "extra": [],
         "cn": "藤__夏樹",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8daa4b81-6708-5d7f-8f56-94ae9e0c9caf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537106441865806",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCWh7_HDZf34F8BeJoKD5K7Q",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "FeitFullmoon",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "17177",
+          "type": "official",
+          "platform": "ci-en"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "藤兔Fullmoon",
+        "jp": "藤兎Fullmoon",
         "default": "cn"
       }
     },
