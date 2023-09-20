@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695253189
+    "timestamp": 1695253230
   },
   "vtbs": [
     {
@@ -13176,6 +13176,23 @@
       "name": {
         "extra": [],
         "cn": "kinoko杂菌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e12d741-b0e7-551e-8114-4d342907111d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38850658",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kirakira大团子",
         "default": "cn"
       }
     },
