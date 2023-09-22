@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695406707
+    "timestamp": 1695406738
   },
   "vtbs": [
     {
@@ -19940,6 +19940,23 @@
       "name": {
         "extra": [],
         "cn": "七夜月十夜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65b69bb7-95f4-5092-aec2-efca9d59d83e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546381048350924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七安安Tsuki",
         "default": "cn"
       }
     },
