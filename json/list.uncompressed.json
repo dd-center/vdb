@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695253267
+    "timestamp": 1695406707
   },
   "vtbs": [
     {
@@ -24037,6 +24037,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "bb3e3615-5add-598b-bbcc-64b7b0d32755",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493133727828717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云酒儿sake",
+        "default": "cn"
+      }
     },
     {
       "uuid": "94dab257-fe55-567a-a970-0face16370ba",
@@ -117968,6 +117985,23 @@
       "name": {
         "extra": [],
         "cn": "绫音乃苏",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e69d400b-9422-5637-8f89-2d0d44aa6289",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1457046577",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮奈Carina",
         "default": "cn"
       }
     },
