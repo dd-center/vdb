@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695640517
+    "timestamp": 1695640650
   },
   "vtbs": [
     {
@@ -105242,6 +105242,23 @@
       "name": {
         "extra": [],
         "cn": "白小宛_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9c98ff9b-786f-51f3-b73e-7aa55999cd12",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494360677091641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白小溪唱了么",
         "default": "cn"
       }
     },
