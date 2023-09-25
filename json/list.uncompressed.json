@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695600379
+    "timestamp": 1695600591
   },
   "vtbs": [
     {
@@ -80428,6 +80428,23 @@
         "extra": [],
         "cn": "某柯",
         "en": "moke",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "304465ff-fece-57a7-aa4e-c5e47c6b6765",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493297142106737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柒予禾Kiki",
         "default": "cn"
       }
     },
