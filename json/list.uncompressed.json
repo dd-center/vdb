@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695641675
+    "timestamp": 1695652011
   },
   "vtbs": [
     {
@@ -19883,6 +19883,23 @@
       "name": {
         "extra": [],
         "cn": "七夜月十夜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65b69bb7-95f4-5092-aec2-efca9d59d83e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546381048350924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七安安Tsuki",
         "default": "cn"
       }
     },
@@ -88758,6 +88775,23 @@
       "name": {
         "extra": [],
         "cn": "氿氿ayumiko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "18ad2a94-6e66-5e89-ba6b-46784e8ef60f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546382868678789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汀夏yummy",
         "default": "cn"
       }
     },
