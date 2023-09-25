@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695641612
+    "timestamp": 1695641641
   },
   "vtbs": [
     {
@@ -98014,6 +98014,23 @@
       "name": {
         "extra": [],
         "cn": "牧枔Morri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a6db17de-8a2d-580a-86db-5cd6bd2ac5bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4731411",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧牧川",
         "default": "cn"
       }
     },
