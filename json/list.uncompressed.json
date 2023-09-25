@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695641190
+    "timestamp": 1695641279
   },
   "vtbs": [
     {
@@ -97064,6 +97064,23 @@
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "group_name": "コーロンサス学園"
+    },
+    {
+      "uuid": "f0df12ba-e8a2-5135-ac97-004206549c6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11666991",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熊本遥haruka",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0f67d03f-fe00-5638-be8d-c6554cb1d424",
