@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695641279
+    "timestamp": 1695641612
   },
   "vtbs": [
     {
@@ -132972,6 +132972,23 @@
       "name": {
         "extra": [],
         "cn": "西洲梦長",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "22890d47-f042-5577-9c18-7dbf0d2742b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537123449768165",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西狸Siri",
         "default": "cn"
       }
     },
