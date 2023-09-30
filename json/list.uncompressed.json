@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696070228
+    "timestamp": 1696070271
   },
   "vtbs": [
     {
@@ -127539,6 +127539,23 @@
       },
       "group": "d462a5cc-f3b6-54fc-9636-bbc3847c4291",
       "group_name": "EOE组合"
+    },
+    {
+      "uuid": "6929d6cb-56e8-5b18-9c53-f05c2e367da3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546382900136934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莫妮sama",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1f5198a8-3f7b-50fc-ad56-986bc4f8c1af",
