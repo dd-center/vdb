@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1695718613
+    "timestamp": 1696070228
   },
   "vtbs": [
     {
@@ -54638,6 +54638,23 @@
       }
     },
     {
+      "uuid": "64a622ba-7a2b-5b37-885c-a1fc0a13a250",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270950775388",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小壳不打嗝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1b9f0c9b-e6e6-57d7-b24c-3db971ca1a9e",
       "type": "vtuber",
       "bot": false,
@@ -68319,23 +68336,6 @@
       "name": {
         "extra": [],
         "cn": "无家可归的流浪鲲鲲",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "22b46997-482a-54cb-a0ff-61c505cddc70",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3493270950775388",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "无敌小乃贝",
         "default": "cn"
       }
     },
