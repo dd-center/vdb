@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696354756
+    "timestamp": 1696354809
   },
   "vtbs": [
     {
@@ -23233,6 +23233,23 @@
       "name": {
         "extra": [],
         "cn": "九狸Layla",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "46acfbd7-37b4-5e0e-b3bf-48e4bf8171b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493290261350560",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九茉kuma",
         "default": "cn"
       }
     },
