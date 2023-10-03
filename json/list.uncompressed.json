@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696354744
+    "timestamp": 1696354756
   },
   "vtbs": [
     {
@@ -18864,23 +18864,6 @@
       }
     },
     {
-      "uuid": "d700a69c-fa9a-54a7-a7a6-0856923cd742",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3494357371980734",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "一只孜然兔",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "252b7cb2-209e-51f4-b093-a3399e5459e2",
       "type": "vtuber",
       "bot": false,
@@ -29344,6 +29327,25 @@
       "name": {
         "extra": [],
         "cn": "兔子灯灯灯灯",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "31c026f6-35d5-5f1e-84a4-42d599bf4816",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357371980734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "一只孜然兔"
+        ],
+        "cn": "兔孜Tsuki",
         "default": "cn"
       }
     },
