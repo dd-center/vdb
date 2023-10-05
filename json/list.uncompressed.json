@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696397846
+    "timestamp": 1696512075
   },
   "vtbs": [
     {
@@ -2364,6 +2364,25 @@
       "name": {
         "extra": [],
         "cn": "CandyPink乔弥亚纳",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef6f0b67-da6b-5bfa-bd35-b2dea6e378df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115748944811",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Caramel_奶糖",
+        "jp": "キャラメル",
+        "en": "Caramel",
         "default": "cn"
       }
     },
