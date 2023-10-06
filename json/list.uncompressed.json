@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696547764
+    "timestamp": 1696574377
   },
   "vtbs": [
     {
@@ -144114,6 +144114,24 @@
       "name": {
         "extra": [],
         "cn": "雙葉藤式_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "190f4cfd-a87e-5dc2-b8d8-2fe26cefec1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9404404",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Neo",
+        "en": "Neo",
         "default": "cn"
       }
     },
