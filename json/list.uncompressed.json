@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818908
+    "timestamp": 1696818973
   },
   "vtbs": [
     {
@@ -99669,6 +99669,23 @@
       "name": {
         "extra": [],
         "cn": "猫只只y治痔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9b073d1-40a8-59a8-9e37-dd70a3010b11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "509012278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫可白",
         "default": "cn"
       }
     },
