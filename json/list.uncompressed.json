@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818821
+    "timestamp": 1696818850
   },
   "vtbs": [
     {
@@ -81520,6 +81520,23 @@
         "extra": [],
         "cn": "柯蕾纱",
         "en": "resa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4758de39-e283-55b9-99ad-0194c4a7a6ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111349201162",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柳啾啾",
         "default": "cn"
       }
     },
