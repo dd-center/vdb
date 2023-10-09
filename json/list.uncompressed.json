@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818850
+    "timestamp": 1696818908
   },
   "vtbs": [
     {
@@ -106603,6 +106603,23 @@
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01",
       "group_name": "Facemoe官方"
+    },
+    {
+      "uuid": "da926b1a-8adc-5caf-9fe6-54e81a3e1dce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1895173008",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白祝余YiuLa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e56c772d-4f7b-5c79-ae6b-78b2013568b6",
