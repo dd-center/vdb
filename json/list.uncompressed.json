@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818973
+    "timestamp": 1696819003
   },
   "vtbs": [
     {
@@ -93442,6 +93442,23 @@
       "name": {
         "extra": [],
         "cn": "海栖深水",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3140d6f7-ea94-5143-a961-9c9d8d69b110",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "500225352",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海汐_Dorothy",
         "default": "cn"
       }
     },
