@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696819003
+    "timestamp": 1696819034
   },
   "vtbs": [
     {
@@ -109550,6 +109550,23 @@
       "name": {
         "extra": [],
         "cn": "睡睡_suisui",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "373d5237-7127-5ad7-b2af-e4361744741e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33738821",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "睦月よしはる",
         "default": "cn"
       }
     },
