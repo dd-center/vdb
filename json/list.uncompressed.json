@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818715
+    "timestamp": 1696818746
   },
   "vtbs": [
     {
@@ -119901,6 +119901,23 @@
         "cn": "羽澄照乌愈",
         "jp": "羽澄照うゆ",
         "en": "Pastel Uyu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69f4ee7a-e684-598b-9f66-25df268f1bf5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357963376987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽生咕咕",
         "default": "cn"
       }
     },
