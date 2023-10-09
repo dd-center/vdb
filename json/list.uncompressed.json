@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696818746
+    "timestamp": 1696818821
   },
   "vtbs": [
     {
@@ -78157,6 +78157,23 @@
       }
     },
     {
+      "uuid": "baab4ed1-c4fa-571b-9ad4-5f871f9a8f0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493113312053886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未时Wells",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f2d2c27e-dd77-54a0-8252-d67a7ca9adc0",
       "type": "vtuber",
       "bot": false,
@@ -121526,6 +121543,23 @@
       "name": {
         "extra": [],
         "cn": "艾利欧斯-艾文",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a129143b-a576-5c63-9b98-833a02b99686",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493136217148154",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾勒珐Alpha",
         "default": "cn"
       }
     },
