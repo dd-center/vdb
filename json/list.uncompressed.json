@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696932289
+    "timestamp": 1696932317
   },
   "vtbs": [
     {
@@ -13069,6 +13069,23 @@
       "name": {
         "extra": [],
         "cn": "keii萤",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7dadee6f-0e70-5914-87cd-234c0f7e6749",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1171133505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "keke不熬夜",
         "default": "cn"
       }
     },
@@ -112987,6 +113004,23 @@
       "group_name": "AVP古流社"
     },
     {
+      "uuid": "424e9ea0-bd46-5fb7-9601-6c41de2a0d76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "399550612",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空梦star_Yo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f9db0e50-ec5a-5c0f-b621-d746cf5b2502",
       "type": "vtuber",
       "bot": false,
@@ -134171,6 +134205,23 @@
       },
       "group": "54f12813-1527-5f52-b566-3b36f51d676b",
       "group_name": "C-Live_Project"
+    },
+    {
+      "uuid": "479b0c16-ef3c-585d-9618-794e3ab328c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494358835792376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "言言言之有理喵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "69c121c7-5ace-547d-b202-251a21d6034a",
