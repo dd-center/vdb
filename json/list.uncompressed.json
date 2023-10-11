@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985712
+    "timestamp": 1696985742
   },
   "vtbs": [
     {
@@ -88428,6 +88428,23 @@
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad",
       "group_name": "V-dol事务所"
+    },
+    {
+      "uuid": "21a4e616-780b-563e-b0a4-693114c5f8d1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493285303683804",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "毕方ym",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bb097c0c-e7b2-5df7-a139-15c499bfacef",
