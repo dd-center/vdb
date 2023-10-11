@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985896
+    "timestamp": 1696985925
   },
   "vtbs": [
     {
@@ -94237,6 +94237,23 @@
       "name": {
         "extra": [],
         "cn": "涼川越Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b301e46f-df71-5214-8994-c7bf1ad24589",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23123329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淅暮丶sorino",
         "default": "cn"
       }
     },
