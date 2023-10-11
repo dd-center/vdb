@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696932317
+    "timestamp": 1696985676
   },
   "vtbs": [
     {
@@ -136815,6 +136815,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "64ebd6ed-0b45-55d8-bbbf-ec0b506886f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493257017297732",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路卡Miragu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ffa9f8a3-a625-57be-ade3-7a223a5719e6",
