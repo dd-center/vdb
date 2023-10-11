@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985676
+    "timestamp": 1696985712
   },
   "vtbs": [
     {
@@ -89829,6 +89829,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "45f715dd-7dd5-5770-9212-f7544e30cfee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494367861934226",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江洋芋",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02e28e3e-b7f4-51f1-90e5-6237fbe6aa82",
