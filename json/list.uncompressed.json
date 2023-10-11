@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985742
+    "timestamp": 1696985786
   },
   "vtbs": [
     {
@@ -75466,6 +75466,23 @@
         "extra": [],
         "cn": "曦娜",
         "en": "Soina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8b8afe07-cff0-5ba2-886d-7bcfdbf50b15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493120756943452",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曦悦_baby",
         "default": "cn"
       }
     },
