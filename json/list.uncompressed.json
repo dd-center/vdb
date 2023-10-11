@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985859
+    "timestamp": 1696985896
   },
   "vtbs": [
     {
@@ -32436,6 +32436,23 @@
         "jp": "出雲霞",
         "cn": "出云霞",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "eac64e2f-585e-5e09-9ef5-6e9221889279",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "524160212",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "刀匠",
+        "default": "cn"
       }
     },
     {
