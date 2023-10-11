@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985786
+    "timestamp": 1696985859
   },
   "vtbs": [
     {
@@ -59504,6 +59504,23 @@
       }
     },
     {
+      "uuid": "24fb38d5-3545-5f80-9cee-b3e7ec2f7a7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494367232788699",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "巨阙_Ares",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "524875b6-bc03-53bb-aa59-eb42bfb8f6c2",
       "type": "vtuber",
       "bot": false,
@@ -60654,6 +60671,23 @@
       "name": {
         "extra": [],
         "cn": "希芙莉Sifly",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ddea8789-a816-5124-bb5a-dbc567e94d0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361601936022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希芮妮_Syreni",
         "default": "cn"
       }
     },
