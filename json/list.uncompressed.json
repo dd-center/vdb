@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1696985925
+    "timestamp": 1696985965
   },
   "vtbs": [
     {
@@ -154770,6 +154770,23 @@
       "name": {
         "extra": [],
         "cn": "黛娜Dinah",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e1c5ca7-cd40-5027-9441-232f935221ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369332038563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黛尔菲娜_Delphine",
         "default": "cn"
       }
     },
