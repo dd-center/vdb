@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1698680160
+    "timestamp": 1699104256
   },
   "vtbs": [
     {
@@ -95898,21 +95898,24 @@
       }
     },
     {
-      "uuid": "055b11cc-4c08-5983-902b-68aa5c0bd536",
+      "uuid": "9c4d6e96-f3e4-5720-832f-ea97c78af344",
       "type": "vtuber",
       "bot": false,
       "accounts": [
         {
-          "id": "407712631",
+          "id": "3546392779819713",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "潞竹_Liesel",
+        "cn": "潞竹",
+        "en": "Liesel",
         "default": "cn"
-      }
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "group_name": "北立交桥"
     },
     {
       "uuid": "e5a03857-e8c2-534f-8777-a253a6fe7bed",
@@ -99146,6 +99149,23 @@
       "name": {
         "extra": [],
         "cn": "狐悠悠Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5b26d732-ebcb-5379-9dd0-5f7e7588f63b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546558505159515",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐栗LuLu",
         "default": "cn"
       }
     },
