@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1699104325
+    "timestamp": 1699412818
   },
   "vtbs": [
     {
@@ -125056,6 +125056,23 @@
       "name": {
         "extra": [],
         "cn": "花薏fai_Offcial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a3fd911-d8e9-5511-b8cf-48a5e2c34fe0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546385601268337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花見弥雅_Mia",
         "default": "cn"
       }
     },
