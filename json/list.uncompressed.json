@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1699412818
+    "timestamp": 1701011828
   },
   "vtbs": [
     {
@@ -43282,6 +43282,23 @@
       "name": {
         "extra": [],
         "cn": "在在_Ansteigen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51ec45d8-d77b-52ca-bb40-5dc201cbb1aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31174218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "在桃酱",
         "default": "cn"
       }
     },
