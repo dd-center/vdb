@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1702532924
+    "timestamp": 1702532946
   },
   "vtbs": [
     {
@@ -150108,6 +150108,23 @@
       "name": {
         "extra": [],
         "cn": "駄天使inori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3133b4fa-80f5-5b15-b762-943b5cd822b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377297020962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "马哆Tramadol",
         "default": "cn"
       }
     },
