@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1702740894
+    "timestamp": 1702741023
   },
   "vtbs": [
     {
@@ -50056,6 +50056,23 @@
       "name": {
         "extra": [],
         "cn": "奶味的芥末酱offical",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac82127d-90b3-56ac-937f-3d6494bb66fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546375935494445",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶团fufu是钢板",
         "default": "cn"
       }
     },
