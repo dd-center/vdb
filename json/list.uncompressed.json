@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1702741023
+    "timestamp": 1702741048
   },
   "vtbs": [
     {
@@ -120298,6 +120298,23 @@
         "extra": [],
         "jp": "羽原ゆとり",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "3bbd3b6e-9860-5afb-b936-94de01aed541",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104116041739",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽可小奈",
+        "default": "cn"
       }
     },
     {
