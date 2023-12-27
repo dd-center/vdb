@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703669359
+    "timestamp": 1703669431
   },
   "vtbs": [
     {
@@ -13201,6 +13201,74 @@
         "extra": [],
         "cn": "kibufu桑",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "36fa7fba-1bdd-5611-8148-af5b5420de26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1885060547",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KitsuiAkira",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "KitsuiAkira",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "kiichan",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "xkiichan",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "kitsuiakira",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "https://open.spotify.com/artist/6BvTqC4B6wOX1RiUuY1vnG",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "KitsuiAkira",
+          "type": "official",
+          "platform": "facebook"
+        },
+        {
+          "id": "xkiichan",
+          "type": "official",
+          "platform": "facebook"
+        },
+        {
+          "id": "xkiichan@yahoo.com",
+          "type": "official",
+          "platform": "email"
+        },
+        {
+          "id": "KiichanYT",
+          "type": "official",
+          "platform": "youtube"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "kiichan ",
+        "jp": "狐井アキラ",
+        "default": "en"
       }
     },
     {
