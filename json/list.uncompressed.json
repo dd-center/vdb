@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703683653
+    "timestamp": 1703683686
   },
   "vtbs": [
     {
@@ -95496,6 +95496,25 @@
         "en": "WintrestMo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d1b16d38-bd99-56ad-98a2-c9ab25420f1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493275608549942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温斓Vanna",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
+      "group_name": "新月社FCrescent"
     },
     {
       "uuid": "f68735fd-1ef1-53e4-8cfd-029c3ed86b5c",
