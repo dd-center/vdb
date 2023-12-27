@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1702741048
+    "timestamp": 1703668981
   },
   "vtbs": [
     {
@@ -1447,6 +1447,23 @@
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
       "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "651ee5ea-1153-51c8-83f2-15a64f395621",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1113185260",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Alban_Official",
+        "default": "en"
+      }
     },
     {
       "uuid": "4e319074-0fa4-51b7-8e47-79cd4809ce1d",
@@ -9976,6 +9993,23 @@
       "group_name": "NIJISANJI EN"
     },
     {
+      "uuid": "715c703b-5b4c-54a2-9131-2e1f443e0754",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1278419509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Sonny_Official",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "6e357054-b563-5170-8245-c09a82845956",
       "type": "vtuber",
       "bot": false,
@@ -10601,6 +10635,23 @@
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
       "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "db9ab121-48b2-5f58-ac73-5a233d8a7a70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1512759879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Uki_Official",
+        "default": "en"
+      }
     },
     {
       "uuid": "13577fba-0430-5d9e-84fd-827f24dd828b",
