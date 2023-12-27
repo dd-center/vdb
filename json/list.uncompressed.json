@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703669111
+    "timestamp": 1703669359
   },
   "vtbs": [
     {
@@ -9562,6 +9562,25 @@
       "name": {
         "extra": [],
         "en": "Selen Tatsuki",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "982ad6e9-0179-52bb-8116-4d6e1b50a06d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1459301369",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Selen_Official",
         "default": "en"
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
