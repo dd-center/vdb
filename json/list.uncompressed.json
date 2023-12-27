@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703669478
+    "timestamp": 1703683653
   },
   "vtbs": [
     {
@@ -69722,6 +69722,23 @@
       }
     },
     {
+      "uuid": "7ef77372-df53-53c7-a616-0dffa5d872e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493090809613248",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早道Soya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "dc3ba572-665d-5001-80ff-6c76f36878c7",
       "type": "vtuber",
       "bot": false,
@@ -84250,6 +84267,23 @@
       "name": {
         "extra": [],
         "cn": "桑小柔Roro",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56eca7ba-da61-5c04-9342-088b40970757",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493282059389335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桑崎Roxie",
         "default": "cn"
       }
     },
