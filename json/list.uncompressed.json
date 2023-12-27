@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703683686
+    "timestamp": 1703684058
   },
   "vtbs": [
     {
@@ -119824,6 +119824,23 @@
       "name": {
         "extra": [],
         "cn": "缪亚Milya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fcbd19f1-ceb5-534f-98b8-a8344c818519",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537109338032819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缪可Milk喵",
         "default": "cn"
       }
     },
