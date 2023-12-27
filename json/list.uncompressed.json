@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703668981
+    "timestamp": 1703669111
   },
   "vtbs": [
     {
@@ -100356,6 +100356,25 @@
         "cn": "猫宫城弥羽",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "46295bc8-fb42-5ef5-8aea-769a1b3f6b46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546571715119846",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "猫宫心爱",
+        "default": "jp"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "294b1b8e-ef6f-50d4-9f53-37dd7a5de6c4",
