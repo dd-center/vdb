@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703828612
+    "timestamp": 1703828650
   },
   "vtbs": [
     {
@@ -69877,6 +69877,23 @@
       "name": {
         "extra": [],
         "cn": "时崎赤盏official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "074be4af-a199-5264-89a6-fc71712aa1e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546569940929333",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时月Luna",
         "default": "cn"
       }
     },
@@ -148415,6 +148432,23 @@
       "name": {
         "extra": [],
         "cn": "青筝语芋鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "197e294e-4024-5056-a807-f5ea091d9278",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546569940929461",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青诺Cyan",
         "default": "cn"
       }
     },
