@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1704256023
+    "timestamp": 1704256120
   },
   "vtbs": [
     {
@@ -45494,6 +45494,23 @@
       },
       "group": "820597b7-9f1d-5ad4-83db-66aa8aef89f2",
       "group_name": "夕映结社"
+    },
+    {
+      "uuid": "04ac02d3-fbc6-5f94-8b37-96de57775005",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546384571566162",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕月Yuutuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6f7906c0-4c64-544f-a8d1-93255adc16cd",
