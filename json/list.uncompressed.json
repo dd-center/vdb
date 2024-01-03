@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1703828650
+    "timestamp": 1704255833
   },
   "vtbs": [
     {
@@ -20361,6 +20361,23 @@
       "name": {
         "extra": [],
         "cn": "七海悦玥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "31c00907-d0a4-558a-86b6-87687b96133b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546383673985966",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "七海雪音yukine",
         "default": "cn"
       }
     },
