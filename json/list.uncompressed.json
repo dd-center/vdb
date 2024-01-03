@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1704255932
+    "timestamp": 1704256023
   },
   "vtbs": [
     {
@@ -76883,6 +76883,24 @@
         "extra": [],
         "cn": "月見里青空Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e0948e3-7ffd-5b92-8bef-7d0a84d6612b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "241789873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "月见 NoNo",
+        "JP": "Tsukimi Nono",
+        "default": "CN"
       }
     },
     {
