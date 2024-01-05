@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1704256120
+    "timestamp": 1704471295
   },
   "vtbs": [
     {
@@ -89097,6 +89097,23 @@
       "name": {
         "extra": [],
         "cn": "水原科科keke",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c69d03fe-4d48-5d17-b83e-36a7cfa9faba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "319625783",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水原镜",
         "default": "cn"
       }
     },
