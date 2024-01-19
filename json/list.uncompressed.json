@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1704471644
+    "timestamp": 1705674216
   },
   "vtbs": [
     {
@@ -100529,6 +100529,23 @@
         "extra": [],
         "jp": "猫咲あんじ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "7200e7d4-ce7c-5d35-966a-3fe59693eac0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7920420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫均Yuka",
+        "default": "cn"
       }
     },
     {
