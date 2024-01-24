@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706107896
+    "timestamp": 1706107902
   },
   "vtbs": [
     {
@@ -259,6 +259,23 @@
       "name": {
         "extra": [],
         "cn": "-尤妮丝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ed45e77-86ec-5f9e-988a-ff4e5f52bee5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546576884599285",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-愛理Airi-",
         "default": "cn"
       }
     },
@@ -14832,6 +14849,24 @@
       "name": {
         "extra": [],
         "cn": "鹿鸣",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "60fc4d53-bdbf-5fcc-bac4-2f4dbee99641",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "331520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琥珀",
+        "en": "yuki",
         "default": "cn"
       }
     },
@@ -74228,6 +74263,23 @@
       }
     },
     {
+      "uuid": "f4b82d22-1ae8-5162-8c1e-23bea39cd5a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494370804238996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野越Hoshino_",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e4348fab-7051-576a-8dc7-847e2d642f24",
       "type": "vtuber",
       "bot": false,
@@ -74275,6 +74327,23 @@
       "name": {
         "extra": [],
         "cn": "星野飛鳥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c8d2026a-f932-5d9d-8c47-03d1154d5442",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "82389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野饼美",
         "default": "cn"
       }
     },
@@ -90496,6 +90565,23 @@
         "extra": [],
         "jp": "水龍敬_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2d9efa22-1378-5c78-adbc-f5710e980fbb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11272072",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "氵六青",
+        "default": "cn"
       }
     },
     {
@@ -107859,6 +107945,25 @@
       }
     },
     {
+      "uuid": "e041942f-a0db-5b89-970d-5327d3644d48",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1220265605",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白梨Rii",
+        "default": "cn"
+      },
+      "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8",
+      "group_name": "LBG"
+    },
+    {
       "uuid": "8d3105ed-ecb7-5306-8ca7-283245c76686",
       "type": "vtuber",
       "bot": false,
@@ -110216,6 +110321,25 @@
         "cn": "盐天使riel_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f148e709-b784-596f-857a-434e11aa5917",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546576484043539",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盐月Yuu",
+        "default": "cn"
+      },
+      "group": "db0ee4df-8826-507c-8cd4-dbe478f0c0a8",
+      "group_name": "LBG"
     },
     {
       "uuid": "1f07bd72-bb86-550b-a84f-8407d948c210",
