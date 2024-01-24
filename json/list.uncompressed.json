@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106646
+    "timestamp": 1706106721
   },
   "vtbs": [
     {
@@ -100740,6 +100740,23 @@
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b",
       "group_name": "狄灵计划"
+    },
+    {
+      "uuid": "9e3bcf1b-2eb1-5961-830e-3b84a5ae677b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "382201416",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫の神様",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9eccd3dc-7ec4-5053-aeea-22185c4223db",
