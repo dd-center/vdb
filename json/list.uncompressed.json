@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106721
+    "timestamp": 1706106844
   },
   "vtbs": [
     {
@@ -30240,6 +30240,23 @@
       "name": {
         "extra": [],
         "cn": "入間綠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e2911c8-277a-5d2e-a28e-5663cc41e1b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2038413965",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "全棉时代",
         "default": "cn"
       }
     },
@@ -114621,6 +114638,23 @@
       }
     },
     {
+      "uuid": "a25b08a6-48b9-5c53-8bcd-3fa03ddc791e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546388086393300",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "竜宮蛍official",
+        "default": "jp"
+      }
+    },
+    {
       "uuid": "eeda3fb0-7414-5553-a365-5e2af25f799b",
       "type": "vtuber",
       "bot": false,
@@ -135981,6 +136015,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "18438d48-6475-514f-bce7-a37ef732413d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546380314348320",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗心芽郁",
+        "default": "cn"
+      }
     },
     {
       "uuid": "21f94d40-d26c-5b05-9e75-86b51b23a431",
