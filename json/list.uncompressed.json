@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106248
+    "timestamp": 1706106272
   },
   "vtbs": [
     {
@@ -98703,6 +98703,25 @@
       },
       "group": "7bf7dc58-48f6-55cd-8bdb-cf5fa31d8a77",
       "group_name": "Vidol工作室"
+    },
+    {
+      "uuid": "323f161d-db3b-5912-90d8-a33e0494c673",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537110187379664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱丽诺_MoMo",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "e2b0410e-8c42-5fcc-9e78-b747920adbb1",
