@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706105137
+    "timestamp": 1706105544
   },
   "vtbs": [
     {
@@ -40419,6 +40419,23 @@
       }
     },
     {
+      "uuid": "d4007f7c-7608-5e22-b21f-0e3551074560",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494355748784819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咖喱目花花",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0dbaac1f-abcb-5fd3-aae7-df2a3a34854e",
       "type": "vtuber",
       "bot": false,
@@ -69704,6 +69721,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "92630188-a238-5c9c-ac38-ff137286cda6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537112754293368",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日露槿Gelee",
+        "default": "cn"
+      }
     },
     {
       "uuid": "530f40be-1971-5795-ae68-8ad3e984f5ca",
