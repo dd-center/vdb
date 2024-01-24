@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706107435
+    "timestamp": 1706107896
   },
   "vtbs": [
     {
@@ -8923,6 +8923,23 @@
         "extra": [],
         "jp": "ReaLieVT-Offi",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "ff495d42-7503-57d5-aeea-6064999722c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34442637",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "RealSaya小夜",
+        "default": "cn"
       }
     },
     {
@@ -50773,6 +50790,23 @@
       }
     },
     {
+      "uuid": "3b92a8b3-ceeb-5fb7-aaaf-aa95f7d6294c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493124999482225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶油-cream-",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c92bf0df-0a4b-5961-addf-2ffe8acd1d73",
       "type": "vtuber",
       "bot": false,
@@ -55591,6 +55625,23 @@
         "extra": [],
         "cn": "小呀么小甜心儿",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "6fddd056-e454-598d-89f4-ca809cb8d18b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546377265089278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cnen": "小呦啾啾Yo",
+        "default": "cnen"
       }
     },
     {
@@ -125999,6 +126050,25 @@
       }
     },
     {
+      "uuid": "e591e963-e4a7-5e5f-a0f8-69fe239f24a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546556143766348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "呆哥"
+        ],
+        "cn": "花梨kariny",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1e7c6c6d-34d0-50ee-bed1-f753d5c213cc",
       "type": "vtuber",
       "bot": false,
@@ -130671,6 +130741,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "c10d1152-e021-5fb3-ae57-5820bde21b64",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546586497944007",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菜菜子_Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b2fb97f5-79af-5bfb-b11c-a037166205d8",
@@ -137378,6 +137465,28 @@
       "name": {
         "extra": [],
         "cn": "賀茂川ドイル",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eaa9d499-458e-54b7-ad6f-568f874ed819",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546394153453659",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Lila_1201",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "賴城来拉",
         "default": "cn"
       }
     },
