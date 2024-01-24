@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706105608
+    "timestamp": 1706105911
   },
   "vtbs": [
     {
@@ -130825,6 +130825,23 @@
       },
       "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
       "group_name": "雪域Provealms"
+    },
+    {
+      "uuid": "6f6e2ddd-a230-5b7a-93ed-349a651bef9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "605426",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萝苏Rosue",
+        "default": "cn"
+      }
     },
     {
       "uuid": "acf9e2bf-ce4c-51b8-be3e-ddeb05570a76",
