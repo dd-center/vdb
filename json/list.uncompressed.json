@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706103469
+    "timestamp": 1706103606
   },
   "vtbs": [
     {
@@ -65031,6 +65031,23 @@
       },
       "group": "81fb6430-675c-5177-9443-8dedd2b96730",
       "group_name": "忘崽牛奶"
+    },
+    {
+      "uuid": "3d89b40e-56cc-5dd3-bb38-29c1f121eb6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537113924503556",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忘川忆_Lethe",
+        "default": "cn"
+      }
     },
     {
       "uuid": "04ff465b-828f-5f77-b31b-fe4d52385a23",
@@ -139490,6 +139507,23 @@
       "name": {
         "extra": [],
         "cn": "逸iungp",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e9eb6181-89ca-5a49-a266-ffe352e652da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115415579591",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "逻辑特克",
         "default": "cn"
       }
     },
