@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106986
+    "timestamp": 1706107079
   },
   "vtbs": [
     {
@@ -86401,23 +86401,6 @@
       }
     },
     {
-      "uuid": "46288f8b-20ee-574b-9a97-48a1351c12b7",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3546378584197428",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "森岛momo",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "d8b6a695-98b0-59b0-bbf6-d8ad89f4bbff",
       "type": "vtuber",
       "bot": false,
@@ -107201,6 +107184,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "55665b51-92bb-5807-80c2-e8c8c33060f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546378584197428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白悠yuki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9bfa68a2-05c3-53d7-b14d-7075c24b498a",
