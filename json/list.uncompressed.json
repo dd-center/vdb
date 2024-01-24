@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106906
+    "timestamp": 1706106986
   },
   "vtbs": [
     {
@@ -49722,23 +49722,6 @@
       "name": {
         "extra": [],
         "cn": "奈昔NeXI",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "abe62f06-1b8f-55d4-ba11-fd91c06f1269",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3494357346814544",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "奈月霏雪",
         "default": "cn"
       }
     },
@@ -148471,6 +148454,23 @@
       "name": {
         "extra": [],
         "cn": "霏豆儿Fiona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e19b7284-52c3-5183-b43d-fe7737455d3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357346814544",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霏雪奈音_Official",
         "default": "cn"
       }
     },
