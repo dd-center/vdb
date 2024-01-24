@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706102656
+    "timestamp": 1706102753
   },
   "vtbs": [
     {
@@ -28944,6 +28944,23 @@
         "default": "cn"
       },
       "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846"
+    },
+    {
+      "uuid": "75028cf2-5d44-5d89-9e6e-4d6b6c474408",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10905518",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "光影灰音丶",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e52c5f3-d505-5593-adbf-fc23dca9e7a8",
