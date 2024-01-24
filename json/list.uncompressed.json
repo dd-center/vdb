@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706102753
+    "timestamp": 1706102944
   },
   "vtbs": [
     {
@@ -28608,6 +28608,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "ddcb709a-3369-52c5-8b7b-f89296df4af1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270296463682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "停止沸腾",
+        "default": "cn"
+      }
     },
     {
       "uuid": "674c21dd-77db-5937-bccc-7b0899d82f16",
@@ -75857,6 +75874,23 @@
       "name": {
         "extra": [],
         "cn": "暴躁修喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "06f19d81-cab8-5e91-a6a0-cc37e1a39fbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498339122",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暴雨雨雨",
         "default": "cn"
       }
     },
