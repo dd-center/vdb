@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706106272
+    "timestamp": 1706106319
   },
   "vtbs": [
     {
@@ -50134,6 +50134,23 @@
       }
     },
     {
+      "uuid": "b36eb514-06c5-5596-b694-ff8a392cb44f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454571136",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小迪",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ef15130f-273f-5859-927f-4b05ff34f6d9",
       "type": "vtuber",
       "bot": false,
@@ -99897,6 +99914,23 @@
       }
     },
     {
+      "uuid": "6dcef471-d41f-5382-ae4e-fcef3b6530c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "550388023",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐奈_fffox",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "af0ada6e-ffb4-5669-bca6-9aca3585359f",
       "type": "vtuber",
       "bot": false,
@@ -136624,6 +136658,23 @@
       "name": {
         "extra": [],
         "cn": "豆花小呆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "491666a9-e5b5-5924-8407-c96d3f1431d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461581446842386",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆芽",
         "default": "cn"
       }
     },
