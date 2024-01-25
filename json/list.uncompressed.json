@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706107902
+    "timestamp": 1706157699
   },
   "vtbs": [
     {
@@ -148220,6 +148220,23 @@
         "extra": [],
         "cn": "雫るる",
         "en": "lulu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5a0e7f1e-da38-5168-8193-6e9ff7f024e2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493292184439656",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雲川蕾依ReiX",
         "default": "cn"
       }
     },
