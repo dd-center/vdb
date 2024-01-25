@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706157699
+    "timestamp": 1706158130
   },
   "vtbs": [
     {
@@ -127715,23 +127715,6 @@
       }
     },
     {
-      "uuid": "8a1d9369-6e01-5ede-bc5f-8b58f48c684f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "36238913",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "苏二零v",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "19a226b3-d8d1-53e4-8fda-f7b4623112bd",
       "type": "vtuber",
       "bot": false,
@@ -141622,6 +141605,23 @@
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93",
       "group_name": "花寄女子寮"
+    },
+    {
+      "uuid": "f2b2bac7-83be-5426-b5ce-15a436d617d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "286313184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "野原小零ovo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1313d06d-1b61-5c33-9f02-9e1f9ddbd333",
