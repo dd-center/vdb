@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706286801
+    "timestamp": 1706286843
   },
   "vtbs": [
     {
@@ -152375,6 +152375,23 @@
       },
       "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
       "group_name": "KonKoe"
+    },
+    {
+      "uuid": "b519cdc1-6af4-5a37-af13-5d3e99d9b319",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "281045826",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "骁云Levin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a674df3b-3fcf-51dd-bd3f-35752f88655c",
