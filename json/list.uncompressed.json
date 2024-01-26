@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706288313
+    "timestamp": 1706288784
   },
   "vtbs": [
     {
@@ -115077,6 +115077,23 @@
       },
       "group": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0",
       "group_name": "Afutech"
+    },
+    {
+      "uuid": "a7c7a642-2ea6-5a0e-ad47-388c07bd0d9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "497072",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空调虎",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ba27a726-236d-5184-a860-2944ceb587b0",
