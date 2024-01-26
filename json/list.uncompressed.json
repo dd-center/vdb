@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706286976
+    "timestamp": 1706287881
   },
   "vtbs": [
     {
@@ -125294,6 +125294,23 @@
       "name": {
         "extra": [],
         "cn": "芙芙不可能这么可爱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c46d06dc-bee2-5a77-8001-c8dd507b95d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537122520730473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙芙蕾Uni",
         "default": "cn"
       }
     },
