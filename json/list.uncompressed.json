@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706287881
+    "timestamp": 1706287927
   },
   "vtbs": [
     {
@@ -132165,6 +132165,23 @@
       "name": {
         "extra": [],
         "cn": "萱玥儿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1fd7d958-5e8a-5fbf-958d-b799d0b6f4f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493126803032322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萱萱卡娅kaya",
         "default": "cn"
       }
     },
