@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706286431
+    "timestamp": 1706286511
   },
   "vtbs": [
     {
@@ -81165,6 +81165,23 @@
       "name": {
         "extra": [],
         "cn": "林可幼Kioy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "821c6b72-f3ea-5fa5-9bed-21e3aba8d7ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546569670396161",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林子苏",
         "default": "cn"
       }
     },
