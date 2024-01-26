@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706287927
+    "timestamp": 1706288048
   },
   "vtbs": [
     {
@@ -46595,6 +46595,23 @@
         "extra": [],
         "jp": "夜想音息",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bb3afece-28bb-52e3-8a5d-c520ab655ef9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546555835485150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜明魔寻_Offical",
+        "default": "cn"
       }
     },
     {
