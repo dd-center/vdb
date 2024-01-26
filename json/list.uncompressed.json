@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706288048
+    "timestamp": 1706288116
   },
   "vtbs": [
     {
@@ -133436,6 +133436,23 @@
       },
       "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
       "group_name": "光年神话"
+    },
+    {
+      "uuid": "cd90b8fd-5b59-5525-9600-e253c77a58a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493120943589465",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾欧可Leioke",
+        "default": "cn"
+      }
     },
     {
       "uuid": "883776e9-4e0e-5ca6-a8f5-96404e955784",
