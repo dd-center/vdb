@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706286843
+    "timestamp": 1706286976
   },
   "vtbs": [
     {
@@ -97366,6 +97366,23 @@
       "name": {
         "extra": [],
         "cn": "潮留芥末",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d765c5fe-d170-5b0d-a876-bfe58b7c9639",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "273231262",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "潼小爷驾到",
         "default": "cn"
       }
     },
