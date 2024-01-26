@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706289341
+    "timestamp": 1706289403
   },
   "vtbs": [
     {
@@ -70620,6 +70620,23 @@
       },
       "group": "a9c452b8-faba-53d1-92ad-83337135e2c3",
       "group_name": "VOMNIS"
+    },
+    {
+      "uuid": "fb27ac6d-a75c-51d9-8258-8f9713924e9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493296148056641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时寒商是颗大白菜",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e045b111-25e0-5929-ae3a-62c441f3948a",
