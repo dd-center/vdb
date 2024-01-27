@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317415
+    "timestamp": 1706317451
   },
   "vtbs": [
     {
@@ -98957,6 +98957,23 @@
       "name": {
         "extra": [],
         "cn": "焚念心Fenianxin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d97a79d0-80f0-53c9-b0b0-d7f5f19b072b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1007555348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "無为mui",
         "default": "cn"
       }
     },
