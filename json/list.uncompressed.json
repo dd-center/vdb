@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317581
+    "timestamp": 1706317642
   },
   "vtbs": [
     {
@@ -93509,6 +93509,23 @@
       "name": {
         "extra": [],
         "cn": "泪零Namida",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d2dd4b49-273a-5e87-8601-880e4f61a027",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "35231019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泫桃Momo",
         "default": "cn"
       }
     },
