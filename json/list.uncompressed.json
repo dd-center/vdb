@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706318267
+    "timestamp": 1706318300
   },
   "vtbs": [
     {
@@ -83209,6 +83209,23 @@
       "name": {
         "extra": [],
         "cn": "柳夜丿风铃Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e32c0809-bef5-5e50-83ec-7f0bd4cbb4c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "712663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柳屋奈奈Yanagi",
         "default": "cn"
       }
     },
