@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706322884
+    "timestamp": 1706322970
   },
   "vtbs": [
     {
@@ -103575,6 +103575,25 @@
       }
     },
     {
+      "uuid": "723b5b22-5ea2-54ac-9584-72c9cf92efa0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2134679939",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王箬",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
+    },
+    {
       "uuid": "f10df2e6-ff5e-5456-aa64-a4ecbbb0d2bb",
       "type": "vtuber",
       "bot": false,
@@ -156780,6 +156799,25 @@
         "cn": "黎之恒",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d9b97145-2fbc-5f34-a584-bc7496dc1759",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1361418366",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎九sona",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
     },
     {
       "uuid": "51cb7a4d-a6c2-5f36-94df-fe7d85d63a90",
