@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706318300
+    "timestamp": 1706322687
   },
   "vtbs": [
     {
@@ -142026,6 +142026,25 @@
         "cn": "酥芷Chakku",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e3e2a5b8-5e40-5dac-820b-95a21dbb0473",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1578487212",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酱小栀",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "897e0fcf-2fc8-51b7-aedd-aaefdcd2bbbb",
