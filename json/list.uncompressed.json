@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316324
+    "timestamp": 1706316439
   },
   "vtbs": [
     {
@@ -37471,6 +37471,23 @@
       "name": {
         "extra": [],
         "cn": "卿妤笙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b6ff9c01-f307-5daf-baf6-ceb7008268e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494362191235572",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卿月Agoni",
         "default": "cn"
       }
     },
