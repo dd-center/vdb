@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317763
+    "timestamp": 1706317797
   },
   "vtbs": [
     {
@@ -39344,6 +39344,23 @@
       "name": {
         "extra": [],
         "cn": "吉尔Sophia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "11a5e5c2-3df5-5183-9270-e9669dca5784",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494379819895348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吉尔莉娅Gillia",
         "default": "cn"
       }
     },
