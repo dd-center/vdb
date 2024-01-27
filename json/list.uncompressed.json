@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706336256
+    "timestamp": 1706336290
   },
   "vtbs": [
     {
@@ -118112,6 +118112,23 @@
       "name": {
         "extra": [],
         "cn": "糖酥方程式",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7edc89ae-947f-5b80-9e1f-5ce1e848bada",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369449478245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糬糬Mochi",
         "default": "cn"
       }
     },
