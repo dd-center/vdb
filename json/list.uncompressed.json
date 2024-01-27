@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317857
+    "timestamp": 1706317933
   },
   "vtbs": [
     {
@@ -120456,6 +120456,23 @@
       "name": {
         "extra": [],
         "cn": "绘倾月_Lyselene",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e9d5cd2d-b55b-5b90-b4f2-0fc1a6e528b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2097293503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绘啾echu",
         "default": "cn"
       }
     },
