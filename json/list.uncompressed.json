@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316644
+    "timestamp": 1706316717
   },
   "vtbs": [
     {
@@ -29339,6 +29339,23 @@
       "name": {
         "extra": [],
         "cn": "克拉拉_kirara",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1447f883-d1a1-587d-89d0-74ba957aedd3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494350715619735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克拉米Krami",
         "default": "cn"
       }
     },
