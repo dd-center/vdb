@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316008
+    "timestamp": 1706316324
   },
   "vtbs": [
     {
@@ -87086,6 +87086,23 @@
       },
       "group": "621939ef-f164-5a7c-bd19-aadbe9679b01",
       "group_name": "Facemoe官方"
+    },
+    {
+      "uuid": "5808e9f0-d7a8-5503-b9d3-5fb379a2f851",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21090462",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森羽理亚Lia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6b641b44-6884-52f6-9520-a32f993825cf",
