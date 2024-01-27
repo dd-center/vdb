@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317797
+    "timestamp": 1706317857
   },
   "vtbs": [
     {
@@ -63132,6 +63132,23 @@
       "name": {
         "extra": [],
         "cn": "幽知Arou",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b3b05aeb-9946-56ac-838e-197df7b812f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537121451182661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽米Nana在吃饭",
         "default": "cn"
       }
     },
