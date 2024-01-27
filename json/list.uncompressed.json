@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706322970
+    "timestamp": 1706335828
   },
   "vtbs": [
     {
@@ -3959,6 +3959,38 @@
         "extra": [],
         "cn": "HIKARI-Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "8d0eded1-9fae-5e6d-9a23-68670a249702",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "HalO.YUUSHA04",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "HalO_Sweety",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "halo_sweety",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "https://open.spotify.com/artist/1XoZcBWxoalWXPvonGnV3c",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "HalO",
+        "default": "en"
       }
     },
     {
