@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317642
+    "timestamp": 1706317694
   },
   "vtbs": [
     {
@@ -89759,6 +89759,23 @@
       "name": {
         "extra": [],
         "cn": "步玎Pudding",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d8330da0-7ebd-58b7-b8f5-ce4e4e7f0783",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17100532",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "步秋Kio",
         "default": "cn"
       }
     },
