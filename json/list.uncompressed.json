@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317451
+    "timestamp": 1706317507
   },
   "vtbs": [
     {
@@ -150758,6 +150758,23 @@
       "name": {
         "extra": [],
         "cn": "静花Seika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7b3db738-daf5-5012-874d-94ca81766309",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506562675",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "静酒今天跑步了吗",
         "default": "cn"
       }
     },
