@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317285
+    "timestamp": 1706317378
   },
   "vtbs": [
     {
@@ -28594,6 +28594,23 @@
       "name": {
         "extra": [],
         "cn": "依梦绮罗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39d31137-f00a-5a2b-8be0-730740fea1bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493276600503148",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "依织兔姬_Rabbit",
         "default": "cn"
       }
     },
