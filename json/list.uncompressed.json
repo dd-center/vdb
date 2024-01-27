@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706322755
+    "timestamp": 1706322884
   },
   "vtbs": [
     {
@@ -64001,6 +64001,25 @@
         "jp": "弥栄クアム_YaSaka",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "7b15c68a-3d06-58f2-8801-f32c162e819b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493130288498886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥梭M-S",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b",
+      "group_name": "C-Live_Project"
     },
     {
       "uuid": "c0243e57-2c1a-5b09-8309-c38c382f65dc",
