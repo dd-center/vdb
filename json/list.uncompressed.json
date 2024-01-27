@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317138
+    "timestamp": 1706317190
   },
   "vtbs": [
     {
@@ -65152,6 +65152,23 @@
       "name": {
         "extra": [],
         "cn": "德沃莉DevolyChannel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b19979b3-a724-5dfc-b068-a8c20055da47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "313683284",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德洛莉丝Delores",
         "default": "cn"
       }
     },
@@ -150503,6 +150520,23 @@
       "name": {
         "extra": [],
         "cn": "青璃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec40b7ce-3125-5cb1-bda7-9cd2b5a6afa2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "330636959",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青磷",
         "default": "cn"
       }
     },
