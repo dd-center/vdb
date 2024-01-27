@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317068
+    "timestamp": 1706317138
   },
   "vtbs": [
     {
@@ -109570,6 +109570,23 @@
         "extra": [],
         "jp": "白魔女のパンドラ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "74d02ead-7804-5535-880d-e034a8a6b55a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "427171855",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鲸Tidy",
+        "default": "cn"
       }
     },
     {
