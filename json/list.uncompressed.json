@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706318215
+    "timestamp": 1706318267
   },
   "vtbs": [
     {
@@ -50613,6 +50613,23 @@
       "name": {
         "extra": [],
         "cn": "奥因杜卡",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "576ee90f-407c-5034-8103-f153379154c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥尔丹莎Hortensia",
         "default": "cn"
       }
     },
