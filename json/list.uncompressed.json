@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706322687
+    "timestamp": 1706322755
   },
   "vtbs": [
     {
@@ -147312,6 +147312,25 @@
         "cn": "雅丽斯",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a3881d7a-8ca3-58df-a496-b3d741f20a71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2146765",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雅也MASAYA",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
+      "group_name": "hOuOu_Project"
     },
     {
       "uuid": "9a5afc73-67da-5917-a05a-9e255c11051b",
