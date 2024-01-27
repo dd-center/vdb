@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317507
+    "timestamp": 1706317581
   },
   "vtbs": [
     {
@@ -48768,6 +48768,23 @@
       "name": {
         "extra": [],
         "cn": "天气阿准official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd70af21-0f33-5bdf-bbd0-5b8f9376bea7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "100586286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天海今天又懈怠了吗",
         "default": "cn"
       }
     },
