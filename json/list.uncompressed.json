@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316717
+    "timestamp": 1706316869
   },
   "vtbs": [
     {
@@ -113274,6 +113274,23 @@
       "name": {
         "extra": [],
         "cn": "神山奶茶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "12fdfe0c-421a-5ad4-b5fd-93dae41ae4ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105619782227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神山果吱",
         "default": "cn"
       }
     },
