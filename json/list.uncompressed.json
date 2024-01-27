@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706335828
+    "timestamp": 1706336045
   },
   "vtbs": [
     {
@@ -47153,23 +47153,6 @@
       "name": {
         "extra": [],
         "cn": "夜维Ive",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "b5826d20-8ded-5abd-8459-b732e179b00e",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "670725269",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "夜羽玲夕",
         "default": "cn"
       }
     },
@@ -143073,6 +143056,23 @@
       "name": {
         "extra": [],
         "cn": "鈴木玲子_Suzuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d66ff466-b1cb-552e-926c-09d907afbd02",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "670725269",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鈴木玲玲子",
         "default": "cn"
       }
     },
