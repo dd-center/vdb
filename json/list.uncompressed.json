@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317211
+    "timestamp": 1706317285
   },
   "vtbs": [
     {
@@ -103348,6 +103348,23 @@
       "name": {
         "extra": [],
         "cn": "玖璐深雪-MiYuKi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0f8b9e2-fbc6-5a01-befc-0fe94e469ecb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493139956369681",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玖织捏",
         "default": "cn"
       }
     },
