@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317731
+    "timestamp": 1706317763
   },
   "vtbs": [
     {
@@ -44092,6 +44092,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "f07a2117-cac3-53c7-a87b-6372357229ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537104843835767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "基菈KIRA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "104866c9-35be-5ecf-a665-f5eb0bc50ad4",
