@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706318124
+    "timestamp": 1706318160
   },
   "vtbs": [
     {
@@ -76466,6 +76466,23 @@
       "group_name": "幻home"
     },
     {
+      "uuid": "a15bb264-d1cb-5ae0-acf0-090ab12cca8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "670010917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暖心冉姌",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e6477eca-0158-5a0e-8720-211c9298214d",
       "type": "vtuber",
       "bot": false,
@@ -134325,6 +134342,23 @@
       },
       "group": "668fb094-6abc-5d42-affd-411bde41cbdd",
       "group_name": "薯条project"
+    },
+    {
+      "uuid": "e8c8a41c-efac-530d-9437-ba3a04004115",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "310826494",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薯片前来报到",
+        "default": "cn"
+      }
     },
     {
       "uuid": "02910e0d-2ece-5413-bffa-9fa35ef9ea16",
