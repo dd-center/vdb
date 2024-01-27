@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317378
+    "timestamp": 1706317415
   },
   "vtbs": [
     {
@@ -29509,6 +29509,23 @@
       "name": {
         "extra": [],
         "cn": "克莉雅-Koria",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "320a31fc-e9eb-5bf0-a2fa-3dcde4723312",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1742624476",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "克莱音KK",
         "default": "cn"
       }
     },
