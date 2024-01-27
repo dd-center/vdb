@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316439
+    "timestamp": 1706316558
   },
   "vtbs": [
     {
@@ -114055,6 +114055,23 @@
       "name": {
         "extra": [],
         "cn": "离火hotaru",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "685e4a34-f17f-5a0f-9503-35544d5c7b3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "491303714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "禾呈余又_Tari",
         "default": "cn"
       }
     },
