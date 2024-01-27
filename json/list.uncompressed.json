@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706318160
+    "timestamp": 1706318191
   },
   "vtbs": [
     {
@@ -93387,6 +93387,23 @@
         "extra": [],
         "cn": "波利佧",
         "en": "borika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "735a5c8c-f1d1-53fd-ad86-2e553c7805ce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "281556529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波塞冬阳",
         "default": "cn"
       }
     },
