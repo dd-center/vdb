@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706316869
+    "timestamp": 1706317068
   },
   "vtbs": [
     {
@@ -96073,6 +96073,23 @@
       },
       "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
       "group_name": "北立交桥"
+    },
+    {
+      "uuid": "ff596196-fed4-5d43-a9ad-630e18f03ddc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2082796170",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清兔Cyan2",
+        "default": "cn"
+      }
     },
     {
       "uuid": "75abfe4f-2619-59b2-82f3-7d7ea438679f",
