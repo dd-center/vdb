@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706317694
+    "timestamp": 1706317731
   },
   "vtbs": [
     {
@@ -66889,6 +66889,23 @@
       "name": {
         "extra": [],
         "cn": "惗惗neko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b2f152ee-bd96-515a-91e6-bdc464ddf3cb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7624444",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "惘生祭夜Saiya",
         "default": "cn"
       }
     },
