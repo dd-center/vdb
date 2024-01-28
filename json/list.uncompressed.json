@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404522
+    "timestamp": 1706404559
   },
   "vtbs": [
     {
@@ -35125,6 +35125,23 @@
       "name": {
         "extra": [],
         "cn": "千夏由依",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "84d0e907-c1db-5b81-94e6-6fbb02c7fa60",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8226018",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千夜Chiya",
         "default": "cn"
       }
     },
@@ -76012,6 +76029,23 @@
       "name": {
         "extra": [],
         "cn": "時雨suiyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bb038919-352b-5f08-ad74-5b506cfa3471",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537123709815470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "時雨院Nagi",
         "default": "cn"
       }
     },
