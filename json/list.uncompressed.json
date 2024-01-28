@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706336290
+    "timestamp": 1706402734
   },
   "vtbs": [
     {
@@ -150559,6 +150559,23 @@
       "name": {
         "extra": [],
         "cn": "露比Lubia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c7e9147-358c-5b8a-8066-3c4f68fc0b35",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "500828424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露比莉特",
         "default": "cn"
       }
     },
