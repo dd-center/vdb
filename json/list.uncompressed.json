@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404628
+    "timestamp": 1706404690
   },
   "vtbs": [
     {
@@ -150345,6 +150345,23 @@
       "name": {
         "extra": [],
         "cn": "雾白Kiri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6b1547c8-5c8b-559c-9855-cac036453897",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537114513803459",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾礼夏夏",
         "default": "cn"
       }
     },
