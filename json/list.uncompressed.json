@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440280
+    "timestamp": 1706440292
   },
   "vtbs": [
     {
@@ -136802,6 +136802,23 @@
       "name": {
         "extra": [],
         "cn": "西卡Kita",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec3575f7-eb22-5338-8f42-dd72f4bc0319",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537122189379882",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西园奈音-neyi",
         "default": "cn"
       }
     },
