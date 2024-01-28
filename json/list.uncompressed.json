@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706402822
+    "timestamp": 1706402865
   },
   "vtbs": [
     {
@@ -138627,6 +138627,23 @@
       },
       "group": "a0ee759e-2876-5954-a8fd-fb8bf8db84d2",
       "group_name": "A-SOUL"
+    },
+    {
+      "uuid": "3014063a-ffae-56ff-8fd9-15d0cce92c6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368679823768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝芙力Beverly",
+        "default": "cn"
+      }
     },
     {
       "uuid": "441115d7-c38c-5f5f-a0a6-48055c8faaa2",
