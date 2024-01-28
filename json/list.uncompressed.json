@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706442018
+    "timestamp": 1706442040
   },
   "vtbs": [
     {
@@ -33164,6 +33164,23 @@
       "name": {
         "extra": [],
         "cn": "凰清音Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2165111e-c458-5be8-974b-05ec0a0bd1df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "396770426",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凶狠的蛇",
         "default": "cn"
       }
     },
