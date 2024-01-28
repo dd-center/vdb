@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706411144
+    "timestamp": 1706435931
   },
   "vtbs": [
     {
@@ -10216,6 +10216,24 @@
         "cn": "SoulliesOfficial",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493076318292764",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SparkQ电光社",
+        "default": "cn"
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a"
     },
     {
       "uuid": "1f95e206-a5d4-57cd-9f2f-1bb5fbe05a05",
@@ -25169,7 +25187,9 @@
         "extra": [],
         "cn": "亚撒Yasa",
         "default": "cn"
-      }
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "a910c3d0-d794-56fe-be31-76235858fc0f",
@@ -27211,7 +27231,7 @@
       }
     },
     {
-      "uuid": "9c4081e1-5e94-52c1-af8c-d98a57d8ea59",
+      "uuid": "798394e2-116b-5042-baf4-06a735d3121c",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -27223,11 +27243,12 @@
       ],
       "name": {
         "extra": [],
-        "cn": "伊蒙official",
+        "cn": "伊蒙",
+        "en": "IMon",
         "default": "cn"
       },
-      "group": "621939ef-f164-5a7c-bd19-aadbe9679b01",
-      "group_name": "Facemoe官方"
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "0de22ea4-4d8c-5572-8fb2-a6c97d5462ac",
@@ -32565,7 +32586,9 @@
         "extra": [],
         "cn": "凛凛叶Ririha",
         "default": "cn"
-      }
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "5aa720b6-7ea2-50cb-89d5-8139a8b6575e",
@@ -53825,6 +53848,26 @@
         "jp": "安奈るり",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "676f6d7f-e11b-561f-9a02-f85819cf9ea6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546594915912449",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安娜夏",
+        "en": "Anastasia",
+        "default": "cn"
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "d1a87bf8-bf51-5ae2-9dca-e56147771f2f",
@@ -118472,7 +118515,9 @@
         "extra": [],
         "cn": "糬糬Mochi",
         "default": "cn"
-      }
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "e9fdd01c-d1c3-5752-9b74-f789fb7cc4de",
@@ -130876,7 +130921,9 @@
         "cn": "莉晚娜",
         "en": "Livana",
         "default": "cn"
-      }
+      },
+      "group": "7893a9ee-da88-54f3-8005-023fc8095d8a",
+      "group_name": "SparkQ电光社"
     },
     {
       "uuid": "314143cc-91b5-5c55-b262-be599330b204",
