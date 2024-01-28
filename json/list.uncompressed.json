@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440499
+    "timestamp": 1706440523
   },
   "vtbs": [
     {
@@ -67584,6 +67584,23 @@
       "name": {
         "extra": [],
         "cn": "慕泽晴-Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47ff8bf5-6195-5d52-b385-25477bc0a8d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365041265238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "慕澄熹-水墨云烟宠冠",
         "default": "cn"
       }
     },
