@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404372
+    "timestamp": 1706404409
   },
   "vtbs": [
     {
@@ -132399,6 +132399,23 @@
       "name": {
         "extra": [],
         "cn": "菲诺希雅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4111aa01-da7e-547a-8544-67856baed84a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537117577743118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萃萃莎_shark",
         "default": "cn"
       }
     },
