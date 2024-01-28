@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440196
+    "timestamp": 1706440220
   },
   "vtbs": [
     {
@@ -113129,6 +113129,23 @@
       },
       "group": "628d6823-4442-5fac-ad3b-8dc6d68254fa",
       "group_name": "VOMS Project"
+    },
+    {
+      "uuid": "b7974099-5bd0-5c06-9cba-26e4bc0c5fc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546375568492673",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "示人以烛",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3f54f57c-7e30-5450-bd20-0ca8477edc35",
