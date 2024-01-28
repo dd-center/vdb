@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706403781
+    "timestamp": 1706403823
   },
   "vtbs": [
     {
@@ -107982,6 +107982,23 @@
       }
     },
     {
+      "uuid": "6bd5d684-b0d6-57a6-8db3-268271d303d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8923428",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白夜雨落",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "89e2f67d-f4ce-5a1f-88b7-bbf26d9a2291",
       "type": "vtuber",
       "bot": false,
@@ -141612,6 +141629,23 @@
       "name": {
         "extra": [],
         "cn": "通行Azlier",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f014f49-5ce1-5314-b5a6-63b2401ca413",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1515208",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "速冻切糕",
         "default": "cn"
       }
     },
