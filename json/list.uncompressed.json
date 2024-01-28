@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706435997
+    "timestamp": 1706440196
   },
   "vtbs": [
     {
@@ -84120,6 +84120,23 @@
       "name": {
         "extra": [],
         "cn": "栗太Kurita",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "18274429-5617-5a31-8439-ac2a2e1952d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105286334825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗妮亚_nini",
         "default": "cn"
       }
     },
