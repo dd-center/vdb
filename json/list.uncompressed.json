@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706402920
+    "timestamp": 1706402966
   },
   "vtbs": [
     {
@@ -115778,6 +115778,23 @@
       }
     },
     {
+      "uuid": "102ba321-fe67-501a-84ca-9e778dc91f21",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537122338277679",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "窝窝窝酱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d06f90cd-177d-53c2-a7b9-a58e196fb7a0",
       "type": "vtuber",
       "bot": false,
@@ -125130,6 +125147,23 @@
       "name": {
         "extra": [],
         "cn": "艾芙洛Afuro",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "225d94b4-4d7d-513f-8cb5-151feb48fd32",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493109981776401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾芙灵Avelyn",
         "default": "cn"
       }
     },
