@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440862
+    "timestamp": 1706441886
   },
   "vtbs": [
     {
@@ -50602,6 +50602,23 @@
       }
     },
     {
+      "uuid": "a23819e9-5fc4-562e-adad-dcca7955df1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537117686794926",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈薇Nevaeh",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "30e7b895-0a36-5d89-8911-02d6bfb31062",
       "type": "vtuber",
       "bot": false,
@@ -97880,6 +97897,23 @@
       "name": {
         "extra": [],
         "cn": "溧子喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b65306a2-c14e-51e5-b6f2-c226b6a11a7c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493297609771375",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "溪冉hira",
         "default": "cn"
       }
     },
