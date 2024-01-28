@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440778
+    "timestamp": 1706440862
   },
   "vtbs": [
     {
@@ -27858,6 +27858,23 @@
       "name": {
         "extra": [],
         "cn": "伽罗Gianlo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a80f7d40-9ddf-563c-8a3a-d9acd74003dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2063005265",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伽罗厄_Galloe",
         "default": "cn"
       }
     },
@@ -85695,6 +85712,23 @@
       "name": {
         "extra": [],
         "cn": "桃酱从小就很可爱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6cc16d55-c46b-5b51-bd53-4313d9aead40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493145037768983",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃野琳",
         "default": "cn"
       }
     },
