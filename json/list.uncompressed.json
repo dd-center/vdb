@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706441886
+    "timestamp": 1706441973
   },
   "vtbs": [
     {
@@ -42951,6 +42951,23 @@
       }
     },
     {
+      "uuid": "1e90acc7-dbd7-5eaa-b24c-c7f752a5b5a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546379878140533",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵开朗Kila",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bb1521c3-27b3-5a9d-a428-0a36b6d48f75",
       "type": "vtuber",
       "bot": false,
@@ -51269,6 +51286,23 @@
       "name": {
         "extra": [],
         "cn": "奶油Kuromi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a6f80350-ea93-5944-bd39-19f14b73a05a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3365173",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶油丶球球",
         "default": "cn"
       }
     },
@@ -138534,6 +138568,23 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "98da15b7-bf2a-5096-bff6-ecbddc1330ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270894152401",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺叽-29日生日回",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d6b3adb5-eace-55f2-a93f-137db52f93d4",
