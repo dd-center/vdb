@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440220
+    "timestamp": 1706440280
   },
   "vtbs": [
     {
@@ -53494,6 +53494,23 @@
       "group_name": "超次元学院"
     },
     {
+      "uuid": "dd9f39b0-894d-5131-b8eb-26559b5cb4e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "269063537",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宇希哲丶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9a13de15-39e9-58c8-a46b-5f488457e577",
       "type": "vtuber",
       "bot": false,
@@ -53532,6 +53549,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "0d4dd4e0-36ac-524f-952f-ed0df47366d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111049308706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宇曌_YuZhao",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dd6cc448-f766-54dc-af53-df7f8e818313",
