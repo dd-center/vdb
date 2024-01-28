@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706403970
+    "timestamp": 1706404011
   },
   "vtbs": [
     {
@@ -45386,6 +45386,23 @@
         "jp": "夏恋ひまわり",
         "en": "hima",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2f8d0708-29de-5e9e-816a-142069e55595",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494376722402179",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏悠Uli",
+        "default": "cn"
       }
     },
     {
