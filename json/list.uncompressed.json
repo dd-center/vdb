@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706403823
+    "timestamp": 1706403970
   },
   "vtbs": [
     {
@@ -87129,6 +87129,23 @@
       }
     },
     {
+      "uuid": "f3aa76b7-9925-5717-8f77-a978a554e6b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365378906868",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棠玖Kumi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "41636e68-aa2e-50a8-a45d-5b95d3d2643f",
       "type": "vtuber",
       "bot": false,
@@ -109511,6 +109528,23 @@
         "extra": [],
         "jp": "白虎えま",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "d03a27ba-7ba5-5144-a426-2863fccbc38c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1636063407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白蛇宫紫苑シオン",
+        "default": "cn"
       }
     },
     {
