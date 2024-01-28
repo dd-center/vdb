@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404226
+    "timestamp": 1706404372
   },
   "vtbs": [
     {
@@ -136671,6 +136671,23 @@
       }
     },
     {
+      "uuid": "e102a058-134b-502c-ad7f-fd08208fc562",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537113213569178",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西尔芙Loki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0b66f4e5-803b-52cb-8863-370a7af551c9",
       "type": "vtuber",
       "bot": false,
@@ -149834,6 +149851,23 @@
         "extra": [],
         "jp": "雷凌レイリン",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "8e8eddae-f232-5bb2-b4bb-b8ce49ca5bfc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494378920216909",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雷娅Reyher",
+        "default": "cn"
       }
     },
     {
