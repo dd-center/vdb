@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706435931
+    "timestamp": 1706435997
   },
   "vtbs": [
     {
@@ -128363,6 +128363,23 @@
       "group_name": "星巡学园"
     },
     {
+      "uuid": "26b334e3-2804-5262-8939-99e021851957",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537119639243423",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花雾nyako",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "055beafa-bcf6-5945-8bac-eb2c59186195",
       "type": "vtuber",
       "bot": false,
@@ -130517,6 +130534,23 @@
       "name": {
         "extra": [],
         "cn": "草青Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "43f45260-7537-5a1e-8f7f-eeda89eb8359",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493283825191719",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荒村冷夜",
         "default": "cn"
       }
     },
