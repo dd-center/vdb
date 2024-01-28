@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706402865
+    "timestamp": 1706402904
   },
   "vtbs": [
     {
@@ -95859,6 +95859,23 @@
       }
     },
     {
+      "uuid": "29b86ee8-2142-56d8-8ab6-926d5303864f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493264940337643",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涅厄Nieo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "585684a9-e6af-512f-9f3e-c6c30ee984ab",
       "type": "vtuber",
       "bot": false,
@@ -122755,6 +122772,23 @@
       "name": {
         "extra": [],
         "cn": "羽栖yuxi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7b28104c-8922-5918-9ab6-aa9401cd420b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "512043979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽波_HarperCRUSH",
         "default": "cn"
       }
     },
