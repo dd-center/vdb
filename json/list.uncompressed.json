@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706442040
+    "timestamp": 1706442116
   },
   "vtbs": [
     {
@@ -80948,6 +80948,23 @@
       "name": {
         "extra": [],
         "cn": "李发财Kaneko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eb2686a3-c0c3-5cdf-bd6d-ef111b175f55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "320133639",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "李柴伶_Challin",
         "default": "cn"
       }
     },
