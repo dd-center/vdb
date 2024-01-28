@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706402904
+    "timestamp": 1706402920
   },
   "vtbs": [
     {
@@ -58154,6 +58154,23 @@
         "extra": [],
         "CN": "小金offical",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "98d22cdb-e5cb-5a87-a34c-5a920c5fcda6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39213329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小钢琴の梦",
+        "default": "cn"
       }
     },
     {
