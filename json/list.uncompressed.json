@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706402985
+    "timestamp": 1706403017
   },
   "vtbs": [
     {
@@ -139210,6 +139210,23 @@
       "name": {
         "extra": [],
         "cn": "赤夜幽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a271407-7d99-5209-9114-a75d514942e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494366614128801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤星Asuka",
         "default": "cn"
       }
     },
