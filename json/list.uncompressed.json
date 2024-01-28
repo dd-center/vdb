@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706441973
+    "timestamp": 1706441994
   },
   "vtbs": [
     {
@@ -34968,6 +34968,23 @@
       "name": {
         "extra": [],
         "cn": "十盐烤兔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a1505842-7cf1-57a6-b7c9-d3e3afdbcd97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537119911873408",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千代夜Chiyoru",
         "default": "cn"
       }
     },
