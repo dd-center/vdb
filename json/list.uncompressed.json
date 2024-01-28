@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404172
+    "timestamp": 1706404226
   },
   "vtbs": [
     {
@@ -81348,6 +81348,23 @@
       "name": {
         "extra": [],
         "cn": "松岛小黛Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "290afab1-af0c-5380-a0bd-934ba6568d17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537121681869253",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "松岛莉莉子",
         "default": "cn"
       }
     },
