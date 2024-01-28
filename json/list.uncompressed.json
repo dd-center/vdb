@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404441
+    "timestamp": 1706404522
   },
   "vtbs": [
     {
@@ -28214,6 +28214,23 @@
       "name": {
         "extra": [],
         "cn": "何洛洛哇",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "507f7532-80c0-5dd9-bb00-416719a924a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1509526938",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "何羽Heyuuko",
         "default": "cn"
       }
     },
@@ -77955,6 +77972,23 @@
       "name": {
         "extra": [],
         "cn": "月璃Yori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c2994bfb-e6bc-53d7-a18d-0bf9b12cccc6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "95670810",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月眠Yumen",
         "default": "cn"
       }
     },
