@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706440523
+    "timestamp": 1706440778
   },
   "vtbs": [
     {
@@ -26000,6 +26000,23 @@
       },
       "group": "231c831c-1e80-5a10-bb8c-b4fa15b861b7",
       "group_name": "雪风军团"
+    },
+    {
+      "uuid": "c2c22fb2-b69a-599f-bfaf-8bf48acdcdaf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477588252",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊万娜_Yvanne",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bd38bfcc-f26b-5098-8aed-7f6add56c188",
