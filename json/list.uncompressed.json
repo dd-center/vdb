@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706404726
+    "timestamp": 1706404848
   },
   "vtbs": [
     {
@@ -103500,6 +103500,23 @@
         "extra": [],
         "jp": "獅子神レオナ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "191648e9-98ca-5b26-9572-98d3f7ef9baa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21485701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "獭可奈奈",
+        "default": "cn"
       }
     },
     {
