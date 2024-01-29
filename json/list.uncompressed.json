@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498459
+    "timestamp": 1706498474
   },
   "vtbs": [
     {
@@ -37164,6 +37164,23 @@
       "name": {
         "extra": [],
         "cn": "卡丽妲Karida",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "333286da-9697-5fc7-a937-2d48346b3e7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546385557227625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡其_Kagi",
         "default": "cn"
       }
     },
