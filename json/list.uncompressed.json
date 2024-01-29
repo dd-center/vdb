@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706545164
+    "timestamp": 1706545209
   },
   "vtbs": [
     {
@@ -44712,7 +44712,9 @@
         "extra": [],
         "cn": "塔可TAXXXXXO",
         "default": "cn"
-      }
+      },
+      "group": "14af1184-c6c7-5526-b984-714023090937",
+      "group_name": "星果屋"
     },
     {
       "uuid": "2438131d-d8c1-5a9e-ad91-ca5ca3f9db64",
@@ -70017,9 +70019,12 @@
       ],
       "name": {
         "extra": [],
-        "cn": "敖夜_Tetsuya",
+        "cn": "敖夜",
+        "en": "Tetsuya",
         "default": "cn"
-      }
+      },
+      "group": "14af1184-c6c7-5526-b984-714023090937",
+      "group_name": "星果屋"
     },
     {
       "uuid": "dff1968a-4bba-5214-8f7b-f9ff7b2a0c6c",
@@ -73553,6 +73558,24 @@
       }
     },
     {
+      "uuid": "14af1184-c6c7-5526-b984-714023090937",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461579307748278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星果屋",
+        "default": "cn"
+      },
+      "group": "14af1184-c6c7-5526-b984-714023090937"
+    },
+    {
       "uuid": "4bf96476-595f-5528-9812-1738f1a96b1d",
       "type": "vtuber",
       "bot": false,
@@ -76531,9 +76554,12 @@
       ],
       "name": {
         "extra": [],
-        "cn": "昼里_Churi",
+        "cn": "昼里",
+        "en": "Churi",
         "default": "cn"
-      }
+      },
+      "group": "14af1184-c6c7-5526-b984-714023090937",
+      "group_name": "星果屋"
     },
     {
       "uuid": "419e456d-2d95-59de-b47a-34633fbaa5e6",
@@ -98443,6 +98469,26 @@
       },
       "group": "2bb25003-d023-5c1e-96a0-e7167a9c9287",
       "group_name": "PSL官方"
+    },
+    {
+      "uuid": "2ecb4781-3f98-5ec4-bbac-1b93218a6a46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "350687354",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "湫月",
+        "en": "Shuzuki",
+        "default": "cn"
+      },
+      "group": "14af1184-c6c7-5526-b984-714023090937",
+      "group_name": "星果屋"
     },
     {
       "uuid": "0f8b85dc-1b5b-5f43-93a4-39d509f815fe",
