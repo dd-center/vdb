@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548893
+    "timestamp": 1706548982
   },
   "vtbs": [
     {
@@ -92702,6 +92702,23 @@
       }
     },
     {
+      "uuid": "8d4b3cb5-bc3a-5623-89e9-ada501957dfc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537111200303638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐靡",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d1b68339-ac67-5460-9af1-80ed6a8e643b",
       "type": "vtuber",
       "bot": false,
@@ -118049,7 +118066,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "110701727",
+          "id": "1799974424",
           "type": "official",
           "platform": "bilibili"
         }
@@ -156698,6 +156715,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "966a5dc3-28c5-5170-b898-7715f29a4e17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546385666279768",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鱼奈Yona",
+        "default": "cn"
+      }
     },
     {
       "uuid": "aab9f193-c5a1-5cd8-8892-59f1246420ba",
