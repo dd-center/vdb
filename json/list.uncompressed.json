@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498500
+    "timestamp": 1706498559
   },
   "vtbs": [
     {
@@ -147638,6 +147638,23 @@
       "name": {
         "extra": [],
         "cn": "阿想nia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9cc5f137-9153-521b-b308-ff68dfc73791",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493270426487659",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿斯三世Astaroth",
         "default": "cn"
       }
     },
