@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706499073
+    "timestamp": 1706545058
   },
   "vtbs": [
     {
@@ -141211,6 +141211,25 @@
         "cn": "赫米特Hermit",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b787d83a-80a8-5443-9e82-edb84c7aa12b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354075257653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赫蔓Hermay",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "69286263-1d15-52ff-8c25-7f95278f1c61",
