@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495150
+    "timestamp": 1706495206
   },
   "vtbs": [
     {
@@ -44651,6 +44651,23 @@
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739",
       "group_name": "Tinsgoo-Project"
+    },
+    {
+      "uuid": "ddc3174e-bb52-5118-b6a2-fd0ca88c3450",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493297437805491",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔罗狐狐-华子甜宠",
+        "default": "cn"
+      }
     },
     {
       "uuid": "40673ecb-d5fe-5425-9faa-3dc93c7edc0c",
