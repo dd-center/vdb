@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548804
+    "timestamp": 1706548847
   },
   "vtbs": [
     {
@@ -56942,6 +56942,23 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "e7551c7b-604c-5f2c-b3e2-fd80aa9a528d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537117544188171",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小嶋姬Kojihime",
+        "default": "cn"
+      }
     },
     {
       "uuid": "60ced9e5-42d7-5f5b-8229-a126413270cd",
@@ -130586,6 +130603,23 @@
       "name": {
         "extra": [],
         "cn": "苏饼饼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b32b210-c82a-5b80-9398-1e07cf7ea87d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105848371683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "若伊Rye",
         "default": "cn"
       }
     },
