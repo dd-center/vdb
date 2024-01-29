@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549271
+    "timestamp": 1706549355
   },
   "vtbs": [
     {
@@ -127932,6 +127932,23 @@
       },
       "group": "2a539dd2-fb7d-578c-8730-153bb8874a62",
       "group_name": "StarrySky战姬学院"
+    },
+    {
+      "uuid": "de6af207-f054-575f-97c7-640f9da08239",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356247906433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芥芥Vera",
+        "default": "cn"
+      }
     },
     {
       "uuid": "db642807-7e3a-5005-8b7a-3d31c61fd344",
