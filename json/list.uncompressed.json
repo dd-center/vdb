@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495337
+    "timestamp": 1706495393
   },
   "vtbs": [
     {
@@ -85747,6 +85747,23 @@
       }
     },
     {
+      "uuid": "6edf9502-5179-55b6-947a-86d89a29863c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537109224786151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃灵Yami",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "664ba4bf-d986-5f5b-928f-7a90f1a10d77",
       "type": "vtuber",
       "bot": false,
@@ -127473,6 +127490,23 @@
       "name": {
         "extra": [],
         "cn": "花六六_h66",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "acf58e0a-dd89-524e-bc3d-519842647d50",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546597336025483",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花冷樱",
         "default": "cn"
       }
     },
