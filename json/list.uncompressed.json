@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495804
+    "timestamp": 1706495838
   },
   "vtbs": [
     {
@@ -44789,6 +44789,23 @@
       }
     },
     {
+      "uuid": "0277b4a8-464b-5421-936a-97c71ab47fa8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494362447087956",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔西Tassie",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a00e2140-81b9-5d83-af05-e05c230014f9",
       "type": "vtuber",
       "bot": false,
@@ -63719,6 +63736,23 @@
       "name": {
         "extra": [],
         "cn": "幽米Nana在吃饭",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "67c2e368-c012-5412-967f-20c712cd7cc3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1275700479",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽能_Yuu",
         "default": "cn"
       }
     },
