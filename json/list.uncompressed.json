@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548982
+    "timestamp": 1706548985
   },
   "vtbs": [
     {
@@ -115727,6 +115727,23 @@
       "name": {
         "extra": [],
         "cn": "神納セイガ_KanoSeiga",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2247844e-8158-5349-aea8-a7e7df50b783",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1428849513",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神绮爱",
         "default": "cn"
       }
     },
