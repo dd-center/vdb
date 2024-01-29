@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706550461
+    "timestamp": 1706550522
   },
   "vtbs": [
     {
@@ -151021,6 +151021,23 @@
         "extra": [],
         "CN": "雪璐_Sheryl",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "9164579a-96cb-57f9-8550-239e4745464b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546386914085524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪祈Yuki",
+        "default": "cn"
       }
     },
     {
