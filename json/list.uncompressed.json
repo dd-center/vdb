@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498633
+    "timestamp": 1706498701
   },
   "vtbs": [
     {
@@ -45014,6 +45014,23 @@
       }
     },
     {
+      "uuid": "b477656c-5756-546b-b644-d086e4eff8b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546388138821710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞西莉雅Ceilia",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "57f29c40-5dd7-501a-9acf-f24a81c4d904",
       "type": "vtuber",
       "bot": false,
@@ -77225,6 +77242,23 @@
       },
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f",
       "group_name": "幻home"
+    },
+    {
+      "uuid": "32ded978-e665-5361-adc0-cc6c1c06ecc6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1643214727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暖宝起不来",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a15bb264-d1cb-5ae0-acf0-090ab12cca8d",
