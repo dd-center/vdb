@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495876
+    "timestamp": 1706496025
   },
   "vtbs": [
     {
@@ -24456,6 +24456,25 @@
         "cn": "云烁-Vision",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fa3261c7-56e9-5dab-b349-eea9c9c286a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537118955571999",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云玺Tsuki",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b",
+      "group_name": "C-Live_Project"
     },
     {
       "uuid": "09864688-bfcb-50b3-8e84-5d22dc96e6d9",
