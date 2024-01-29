@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494915
+    "timestamp": 1706494958
   },
   "vtbs": [
     {
@@ -101573,6 +101573,25 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "869859fb-0860-5c74-9868-8a3334b896bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493273488329296",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬间Kiame",
+        "default": "cn"
+      },
+      "group": "54f12813-1527-5f52-b566-3b36f51d676b",
+      "group_name": "C-Live_Project"
     },
     {
       "uuid": "819ce5cf-df46-58eb-bc7c-e7be8c8a83ce",
