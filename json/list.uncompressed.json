@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495393
+    "timestamp": 1706495438
   },
   "vtbs": [
     {
@@ -33109,6 +33109,23 @@
       "group_name": "虚研学园"
     },
     {
+      "uuid": "59bddfa1-3af3-52f2-999c-3e221867a3c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "195469924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凯凯KaKai",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f60002cc-b1af-5bf5-ba25-55a945ab8b95",
       "type": "vtuber",
       "bot": false,
@@ -37491,6 +37508,23 @@
       "name": {
         "extra": [],
         "cn": "卡琳Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "27a93a1c-8964-5f8c-a7a8-078617d3d893",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37852472",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡福Cafu",
         "default": "cn"
       }
     },
@@ -114787,6 +114821,23 @@
       }
     },
     {
+      "uuid": "c4f484ed-c7e1-5917-8858-daa0f936adb4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1427911902",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神户汐shio",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a0545170-3923-5ea7-8382-b56a1bb7f02d",
       "type": "vtuber",
       "bot": false,
@@ -135882,6 +135933,23 @@
       "name": {
         "extra": [],
         "cn": "虎太Kotarou",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "46d1da58-5a3c-5300-ab3a-8d326ff783fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38786608",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虎洛排骨汤",
         "default": "cn"
       }
     },
