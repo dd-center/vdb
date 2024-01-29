@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494890
+    "timestamp": 1706494915
   },
   "vtbs": [
     {
@@ -141057,6 +141057,23 @@
         "extra": [],
         "jp": "輪廻巡るofficial",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "aafe47ef-da1d-541e-8eb0-a8fde85e4953",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546379855071666",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "车厘CherryBomb",
+        "default": "cn"
       }
     },
     {
