@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548739
+    "timestamp": 1706548804
   },
   "vtbs": [
     {
@@ -65348,6 +65348,23 @@
       },
       "group": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
       "group_name": "月光社"
+    },
+    {
+      "uuid": "4406b8e5-a43f-5dfa-8c54-b060d718153a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493261888981817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "彼岸の仙",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9bb14c17-e771-5f4d-a441-904752c44278",
