@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495330
+    "timestamp": 1706495337
   },
   "vtbs": [
     {
@@ -83796,6 +83796,23 @@
       "name": {
         "extra": [],
         "cn": "柯罗诺斯Z",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e8ae415e-8171-52ff-8885-81add9ca9227",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537106913724862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯莉安Maku",
         "default": "cn"
       }
     },
