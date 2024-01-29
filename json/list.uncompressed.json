@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706496025
+    "timestamp": 1706498459
   },
   "vtbs": [
     {
@@ -109524,6 +109524,23 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "7fe4d387-d468-57d9-9d8a-50ce4ae59be6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546383929838293",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白桃bato",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a92798c2-e1da-5f7a-b731-531b89fce585",
       "type": "vtuber",
       "bot": false,
@@ -123384,6 +123401,23 @@
       "name": {
         "extra": [],
         "cn": "罗耶Royer",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7f6b213b-0994-51eb-9715-a67bfe8df6c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "323388869",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "罗茜娅Rosia",
         "default": "cn"
       }
     },
