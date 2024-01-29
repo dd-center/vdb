@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495772
+    "timestamp": 1706495804
   },
   "vtbs": [
     {
@@ -105804,6 +105804,23 @@
       "name": {
         "extra": [],
         "cn": "琉莉蒂娅channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7b311b43-7a03-5bd1-abcc-fa248ab64a92",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537121834961107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琛欢Gentle",
         "default": "cn"
       }
     },
