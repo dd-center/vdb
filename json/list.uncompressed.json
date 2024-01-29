@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548847
+    "timestamp": 1706548870
   },
   "vtbs": [
     {
@@ -116639,6 +116639,23 @@
       }
     },
     {
+      "uuid": "00aea523-02df-5d98-b24d-47b213b51e67",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493291960043544",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秦夜Kether",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b40f1ae1-446e-5baa-b2b4-3425c524710c",
       "type": "vtuber",
       "bot": false,
@@ -134525,6 +134542,23 @@
       },
       "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
       "group_name": "Nameless Project"
+    },
+    {
+      "uuid": "96333c54-56e9-5afa-bfac-0be099a61b5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461572993222751",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萧迟归sunset",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ae075a0b-765f-59e6-8b75-a17f529ca500",
@@ -159835,6 +159869,23 @@
       "name": {
         "extra": [],
         "cn": "黑羽白夜Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e4f75bd-e277-5bc3-85da-682fd18c5759",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546379467098703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑羽露_Tsuyu",
         "default": "cn"
       }
     },
