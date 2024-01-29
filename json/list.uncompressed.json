@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495838
+    "timestamp": 1706495876
   },
   "vtbs": [
     {
@@ -94390,6 +94390,23 @@
       "group_name": "幻想社Fantas1A"
     },
     {
+      "uuid": "9edbd1ca-932b-539c-ac6f-1032b702ebba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506287000",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波妮Bonnie",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8141ee1e-9d81-584a-9c1d-cc8246b65679",
       "type": "vtuber",
       "bot": false,
@@ -115883,6 +115900,23 @@
       },
       "group": "687001b6-07e6-56b9-b162-4cb6bebfb64d",
       "group_name": "Nature"
+    },
+    {
+      "uuid": "ecaadff8-4544-5a38-ab83-61cb2d186149",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494364751857701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋山桐KIRI",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cc7f01de-a1ce-50fc-9799-eff8ef72bedd",
@@ -157481,6 +157515,23 @@
       "name": {
         "extra": [],
         "cn": "鹪纳森mori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4d7841e7-89a9-5ae5-917d-10a6a4b171bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377506736668",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹫见咪咪",
         "default": "cn"
       }
     },
