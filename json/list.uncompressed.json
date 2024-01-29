@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706442116
+    "timestamp": 1706494801
   },
   "vtbs": [
     {
@@ -75398,6 +75398,23 @@
       "name": {
         "extra": [],
         "cn": "春水_星星星瓷XICI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "162a0b3c-3f68-5a1f-a8d9-0874972ceede",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "275274671",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春水life-217新衣生日回",
         "default": "cn"
       }
     },
