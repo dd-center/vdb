@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495757
+    "timestamp": 1706495772
   },
   "vtbs": [
     {
@@ -83351,6 +83351,23 @@
       "name": {
         "extra": [],
         "cn": "柚希Yutsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ffd7e893-4a54-5113-a2e0-46317319c931",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494372460989235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柚希_puella",
         "default": "cn"
       }
     },
