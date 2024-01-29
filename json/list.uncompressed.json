@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498559
+    "timestamp": 1706498623
   },
   "vtbs": [
     {
@@ -125181,6 +125181,23 @@
       "name": {
         "extra": [],
         "cn": "脆鲨12138",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52cf80a8-2f0f-5c71-80cc-1e6c8d219165",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546382088538897",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "腓腓の",
         "default": "cn"
       }
     },
