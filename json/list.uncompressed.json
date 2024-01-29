@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549703
+    "timestamp": 1706549739
   },
   "vtbs": [
     {
@@ -4771,6 +4771,23 @@
         "extra": [],
         "jp": "KUROSUYAHIRO",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "ddd82ec4-1da3-57b4-9b0e-8e26f40a0e1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "349096048",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KXG骨怪",
+        "default": "cn"
       }
     },
     {
