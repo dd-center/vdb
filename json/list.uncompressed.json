@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494958
+    "timestamp": 1706494986
   },
   "vtbs": [
     {
@@ -97790,6 +97790,23 @@
       "name": {
         "extra": [],
         "cn": "温言言_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cfe02ce9-8765-5137-858f-56b0c0e6b7c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546379095902604",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "游乐木时",
         "default": "cn"
       }
     },
