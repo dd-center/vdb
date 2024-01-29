@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495503
+    "timestamp": 1706495571
   },
   "vtbs": [
     {
@@ -23543,6 +23543,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "0bf5bc7c-c27e-570b-9623-f9cadd1c9645",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2024471",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九十九loops",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8426e068-94f6-5e38-9e31-6a4f924c7dcc",
@@ -101324,6 +101341,23 @@
       }
     },
     {
+      "uuid": "0d09fd55-b0cf-5576-a04b-4af063209b7c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494372066724054",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牧桐Mute",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a6db17de-8a2d-580a-86db-5cd6bd2ac5bf",
       "type": "vtuber",
       "bot": false,
@@ -150458,6 +150492,23 @@
       "name": {
         "extra": [],
         "cn": "雪雪子QAQ_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a92b321d-7e2d-5126-9fd3-ca2659843212",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "78201",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪霏岚岚",
         "default": "cn"
       }
     },
