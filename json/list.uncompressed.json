@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706550309
+    "timestamp": 1706550461
   },
   "vtbs": [
     {
@@ -49009,6 +49009,23 @@
       }
     },
     {
+      "uuid": "9803d118-0423-5302-92ad-0d2ee3219119",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1563600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天奴Tino",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "58068c1b-661a-57c9-b706-74f7a3220225",
       "type": "vtuber",
       "bot": false,
@@ -69173,6 +69190,23 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "5aa9b3df-ce36-59c2-afb8-02cdd9330b73",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493282518665373",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "扣子kone",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b27deaa2-473f-5873-988b-287d4a70c800",
@@ -95191,6 +95225,23 @@
       }
     },
     {
+      "uuid": "159a5796-e679-502b-a97a-305927a0570a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105510730019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽恩_Zein",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bd381c64-5e37-5cc0-b91e-f8ace8c0a41c",
       "type": "vtuber",
       "bot": false,
@@ -113379,6 +113430,23 @@
         "extra": [],
         "cn": "眠兎小夜_Official",
         "jp": "眠兎 さよ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f23964e-a253-52ba-b572-5580dbb27d1d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546386679204186",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠星Minsyou",
         "default": "cn"
       }
     },
