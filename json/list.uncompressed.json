@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548870
+    "timestamp": 1706548893
   },
   "vtbs": [
     {
@@ -24155,6 +24155,23 @@
       "name": {
         "extra": [],
         "cn": "二鸾",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a04c3bd-ff30-59fc-8c35-89d18a361425",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493280478136379",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "于岛寝不足",
         "default": "cn"
       }
     },
