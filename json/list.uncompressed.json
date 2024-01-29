@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706548985
+    "timestamp": 1706549237
   },
   "vtbs": [
     {
@@ -61687,6 +61687,23 @@
       "name": {
         "extra": [],
         "cn": "布偶弟弟",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2fd01838-a3d3-5f31-ab65-05f67c402732",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493808233",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布布Bobbie",
         "default": "cn"
       }
     },
