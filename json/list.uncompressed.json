@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549739
+    "timestamp": 1706550061
   },
   "vtbs": [
     {
@@ -77233,6 +77233,23 @@
       },
       "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
       "group_name": "Makuroka"
+    },
+    {
+      "uuid": "5d7dae58-494c-51c6-829b-b566934b441d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494362384173634",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "景云重华Morpheus",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e161a947-63a1-58e1-8ca7-df84b84883db",
