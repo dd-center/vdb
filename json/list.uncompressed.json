@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706545058
+    "timestamp": 1706545164
   },
   "vtbs": [
     {
@@ -67609,6 +67609,23 @@
       "name": {
         "extra": [],
         "cn": "悠音Yune",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "33869da3-d547-5606-8633-92d04a6b4ba5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "445704340",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "您好_这里是希铜",
         "default": "cn"
       }
     },
