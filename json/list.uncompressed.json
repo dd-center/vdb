@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549237
+    "timestamp": 1706549271
   },
   "vtbs": [
     {
@@ -79511,6 +79511,23 @@
       "name": {
         "extra": [],
         "cn": "有枝Yoz",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e726e90-01b4-51e4-ba36-9ecebd80a599",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494371905244034",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "有枝酱",
         "default": "cn"
       }
     },
