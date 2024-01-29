@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495571
+    "timestamp": 1706495696
   },
   "vtbs": [
     {
@@ -112751,6 +112751,23 @@
       "name": {
         "extra": [],
         "cn": "真鵺KEYU",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52255102-d5e2-5d27-9de6-08f74f2b14f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "129290154",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠い古茶_kocha",
         "default": "cn"
       }
     },
