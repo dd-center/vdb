@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495696
+    "timestamp": 1706495757
   },
   "vtbs": [
     {
@@ -31833,6 +31833,23 @@
       "name": {
         "extra": [],
         "cn": "冬藏W",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b4872f5-2eb4-51ee-9bc4-327ff0465940",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "676376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬铃茜AkaneRin",
         "default": "cn"
       }
     },
