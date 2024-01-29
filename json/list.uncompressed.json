@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498474
+    "timestamp": 1706498500
   },
   "vtbs": [
     {
@@ -55477,6 +55477,23 @@
       "name": {
         "extra": [],
         "cn": "家雀爱恰西瓜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f1700f3b-37c1-5ddd-a5a0-7eaaec244961",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546385349609580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宸煜_Astral",
         "default": "cn"
       }
     },
