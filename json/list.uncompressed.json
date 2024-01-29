@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494857
+    "timestamp": 1706494890
   },
   "vtbs": [
     {
@@ -57919,6 +57919,23 @@
       }
     },
     {
+      "uuid": "be1dd783-d467-5641-a90f-301782921cc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16081433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小羊宝宝ovO",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b99494f2-accc-5f7e-947e-c6a61b5681f2",
       "type": "vtuber",
       "bot": false,
@@ -97119,6 +97136,23 @@
       "name": {
         "extra": [],
         "cn": "清水呱子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9d3daf4d-9c69-5608-b98d-6dced094c8d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493113930714082",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清水夏芽",
         "default": "cn"
       }
     },
@@ -147324,6 +147358,23 @@
         "extra": [],
         "cn": "阿洛伊",
         "en": "Aroiy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39045094-f8f0-5ea6-8bf3-2a8877da06fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461573542677337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿清_kiyo",
         "default": "cn"
       }
     },
