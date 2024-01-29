@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495206
+    "timestamp": 1706495330
   },
   "vtbs": [
     {
@@ -145568,6 +145568,23 @@
       "name": {
         "extra": [],
         "cn": "银银子deisu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6a2c0c84-d08f-5869-97a0-8f96d9f155de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494373029316794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "银鸢Kin",
         "default": "cn"
       }
     },
