@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498764
+    "timestamp": 1706498796
   },
   "vtbs": [
     {
@@ -32094,6 +32094,23 @@
       }
     },
     {
+      "uuid": "5699b73f-792e-56f7-a189-091d376ba476",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "27570579",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰糖纸sweet",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f5e34332-980e-565c-8e3a-15edd2b7d071",
       "type": "vtuber",
       "bot": false,
@@ -45129,6 +45146,23 @@
       "name": {
         "extra": [],
         "cn": "墨卡",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "569f651f-09ab-540b-8d69-5a753a87ed11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354089937852",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨喵ink",
         "default": "cn"
       }
     },
