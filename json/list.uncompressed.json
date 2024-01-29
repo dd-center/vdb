@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706495116
+    "timestamp": 1706495150
   },
   "vtbs": [
     {
@@ -97072,6 +97072,23 @@
       "group_name": "北立交桥"
     },
     {
+      "uuid": "9a7d7f0b-6ff5-5993-bd77-a05678366133",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493116264844088",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清也seya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ff596196-fed4-5d43-a9ad-630e18f03ddc",
       "type": "vtuber",
       "bot": false,
@@ -106060,6 +106077,23 @@
       "name": {
         "extra": [],
         "cn": "琼瑜ya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "17f497e9-bab9-5af1-a540-9db7fa0b96d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369969572295",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑕吕汀汀",
         "default": "cn"
       }
     },
