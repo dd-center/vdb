@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706498701
+    "timestamp": 1706498764
   },
   "vtbs": [
     {
@@ -135688,6 +135688,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "062d05b3-855f-585e-a1ea-f43f4b930caf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "242592667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾米尔_レミル",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3bb0893f-e7d8-59b0-abda-8045407f9528",
       "type": "vtuber",
       "bot": false,
@@ -136740,6 +136757,23 @@
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739",
       "group_name": "Tinsgoo-Project"
+    },
+    {
+      "uuid": "1e5a4771-8ef1-5bb3-b5e1-711cc0d43612",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537109910554935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蛋牧Chat",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c9232023-4892-517d-bb84-220d87798bfc",
