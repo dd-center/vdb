@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706545209
+    "timestamp": 1706545326
   },
   "vtbs": [
     {
@@ -11076,6 +11076,24 @@
       },
       "group": "44ffc461-168b-56f3-9458-0f450b0b36a2",
       "group_name": "VIC"
+    },
+    {
+      "uuid": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1031516182",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "VOISLIVE",
+        "default": "en"
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c"
     },
     {
       "uuid": "a9c452b8-faba-53d1-92ad-83337135e2c3",
@@ -54565,6 +54583,26 @@
       }
     },
     {
+      "uuid": "40c987e5-6310-5875-8380-f3e99849d740",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "495061433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安柏琳",
+        "en": "Anberlyn",
+        "default": "cn"
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
+    },
+    {
       "uuid": "1ef77ca8-4d2f-50f1-b6ec-63996e791ea5",
       "type": "vtuber",
       "bot": false,
@@ -71718,6 +71756,23 @@
       "group_name": "C-Live_Project"
     },
     {
+      "uuid": "00eaaa0d-0418-5f9b-8ece-5c001301c773",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "673893474",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时梦_Yume",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0ab63f3f-8c22-5114-94a6-3b5423d4f7bc",
       "type": "vtuber",
       "bot": false,
@@ -87840,6 +87895,25 @@
         "cn": "梨花丶Rika",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8e5f8e26-6bfc-5a6d-a6e6-688c08531f2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "190100014",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨蒴KiTsu",
+        "default": "cn"
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
     },
     {
       "uuid": "1de450ed-ba89-5434-8b80-394874427175",
@@ -107136,7 +107210,9 @@
         "extra": [],
         "cn": "璃桜零",
         "default": "cn"
-      }
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
     },
     {
       "uuid": "628ab46a-853d-5e36-b436-592fdc6e5637",
@@ -118706,9 +118782,12 @@
       ],
       "name": {
         "extra": [],
-        "cn": "米特minty",
+        "cn": "米特",
+        "en": "minty",
         "default": "cn"
-      }
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
     },
     {
       "uuid": "10c71178-83b8-55c4-876d-4f2debe35a22",
@@ -122942,6 +123021,26 @@
       }
     },
     {
+      "uuid": "2a7af619-064d-55c5-abfe-cc9f857443d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "629880159",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "维音",
+        "en": "VIN",
+        "default": "cn"
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
+    },
+    {
       "uuid": "8d2e61a7-d854-561f-858c-b08b2b15a48f",
       "type": "vtuber",
       "bot": false,
@@ -126842,9 +126941,12 @@
       ],
       "name": {
         "extra": [],
-        "cn": "艾露忻Arushin",
+        "cn": "艾露忻",
+        "en": "Arushin",
         "default": "cn"
-      }
+      },
+      "group": "94d69d93-5a13-5b53-950d-e037dc339d7c",
+      "group_name": "VOISLIVE"
     },
     {
       "uuid": "869c2311-257e-55eb-8d83-bff97cea6194",
