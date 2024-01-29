@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494986
+    "timestamp": 1706495067
   },
   "vtbs": [
     {
@@ -43363,6 +43363,23 @@
       "name": {
         "extra": [],
         "cn": "嘉兰诺德",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "90c5642a-7885-56f2-983c-7b223dd559e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137135700090",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嘉利奥奈_Galeone",
         "default": "cn"
       }
     },
