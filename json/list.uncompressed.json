@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549616
+    "timestamp": 1706549703
   },
   "vtbs": [
     {
@@ -35752,6 +35752,23 @@
       "name": {
         "extra": [],
         "cn": "千橙Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "134a76cd-6d05-538f-b604-fd8e1e454179",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "392486867",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千波亜矢_Chinamiaya",
         "default": "cn"
       }
     },
