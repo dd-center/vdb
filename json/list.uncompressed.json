@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706549355
+    "timestamp": 1706549562
   },
   "vtbs": [
     {
@@ -92247,6 +92247,23 @@
       }
     },
     {
+      "uuid": "aae1e115-d0af-5d83-b589-b93f7a750965",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1023501720",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "氷茶traveller",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8b9c3652-3aef-5ff6-901a-72789d9680ef",
       "type": "vtuber",
       "bot": false,
@@ -134216,6 +134233,23 @@
       }
     },
     {
+      "uuid": "e463b851-ae9b-5b61-bdd5-9e5d62021bde",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493295875426486",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萝七七-Luvky",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d987a2fe-325a-5712-9f7d-0eb6ebb6123b",
       "type": "vtuber",
       "bot": false,
@@ -138743,6 +138777,23 @@
       "name": {
         "extra": [],
         "cn": "西野鸣",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "222fbf2a-eaf1-5d1b-929b-51bff95b2ae4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "281882015",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西雅Puki",
         "default": "cn"
       }
     },
