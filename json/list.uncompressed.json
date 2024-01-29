@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706494846
+    "timestamp": 1706494857
   },
   "vtbs": [
     {
@@ -80134,6 +80134,23 @@
       "name": {
         "extra": [],
         "cn": "木苒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "457eb83b-52c6-5ff1-bd6f-780ab79f32d5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21573711",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木语之嘘",
         "default": "cn"
       }
     },
