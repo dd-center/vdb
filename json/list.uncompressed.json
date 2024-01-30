@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706595247
+    "timestamp": 1706595265
   },
   "vtbs": [
     {
@@ -50311,6 +50311,23 @@
       "name": {
         "extra": [],
         "cn": "太皮鹿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "25e755b3-a77a-524c-b0a4-7e756760fed8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9020941",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夭六_Chessia",
         "default": "cn"
       }
     },
@@ -124117,6 +124134,23 @@
       "name": {
         "extra": [],
         "cn": "缇缇Titi_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6eb301ad-be72-55c4-9968-a7cf13bb41ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1926986371",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缇诺_Dino在恰小鱼干",
         "default": "cn"
       }
     },
