@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706550522
+    "timestamp": 1706575370
   },
   "vtbs": [
     {
@@ -58773,6 +58773,23 @@
       "name": {
         "extra": [],
         "cn": "小迷糊_Collectlove",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d72cea40-29d5-5bb6-beab-225357c7e86d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1441907027",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小酷超酷的啊啊tt",
         "default": "cn"
       }
     },
