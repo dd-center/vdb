@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706595265
+    "timestamp": 1706598014
   },
   "vtbs": [
     {
@@ -3169,6 +3169,23 @@
       "name": {
         "extra": [],
         "cn": "EVL-研究所",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5dd7daeb-5b8a-55b9-ad5c-58890e31e7cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1823708744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "EdelEckerd",
         "default": "cn"
       }
     },
@@ -13584,6 +13601,23 @@
       "name": {
         "extra": [],
         "cn": "komako_02",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "81f46c45-fdbc-52a0-b19a-0fdb6fadf642",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "426455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "kuu_玖",
         "default": "cn"
       }
     },
