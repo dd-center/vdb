@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706575895
+    "timestamp": 1706575937
   },
   "vtbs": [
     {
@@ -93356,6 +93356,23 @@
       }
     },
     {
+      "uuid": "a0d374f5-a8d5-581f-a2f6-3ecd89bf2a98",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4626079",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汤圆Azuki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ec50f0b8-3605-5319-b928-b0d7f048bdc9",
       "type": "vtuber",
       "bot": false,
@@ -112743,6 +112760,23 @@
       },
       "group": "af7d8e20-2164-5373-a4b1-9a31c085fb7b",
       "group_name": "Croven教团"
+    },
+    {
+      "uuid": "48b5745a-0614-5260-be94-db6c086af089",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "161082853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盖娜_Kaena",
+        "default": "cn"
+      }
     },
     {
       "uuid": "32066d84-14ba-5131-8ab5-e0a4b7959811",
