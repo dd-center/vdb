@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706575370
+    "timestamp": 1706575497
   },
   "vtbs": [
     {
@@ -48345,6 +48345,23 @@
       "group_name": "三垣四象project"
     },
     {
+      "uuid": "d494a13f-a3ed-504f-989a-8bfe601c02ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1927123534",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大沼凛音Rinne",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "15afef45-28bd-54d4-a9cd-a53888d83af0",
       "type": "vtuber",
       "bot": false,
@@ -59767,6 +59784,23 @@
       "name": {
         "extra": [],
         "cn": "尤里卡-崔西雅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f27548f7-ed71-5132-9725-fe57caf98d6e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493112208951438",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尤野uu",
         "default": "cn"
       }
     },
