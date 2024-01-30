@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706575827
+    "timestamp": 1706575891
   },
   "vtbs": [
     {
@@ -46198,6 +46198,23 @@
       "name": {
         "extra": [],
         "cn": "夏眠の最美",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "804d03a7-5259-5cf7-aac0-0289bab4ed6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546560390499047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏米范",
         "default": "cn"
       }
     },
@@ -144614,6 +144631,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "8aa46d4e-c3ce-5582-af6b-e8e4c8911947",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546389967538691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酱酱桃姬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "897e0fcf-2fc8-51b7-aedd-aaefdcd2bbbb",
