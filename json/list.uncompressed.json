@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706595126
+    "timestamp": 1706595152
   },
   "vtbs": [
     {
@@ -21484,6 +21484,23 @@
       "name": {
         "extra": [],
         "cn": "上杉耀白Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac6f0d75-e367-5945-952e-ef482d1bb45c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13644360",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上玉Xylvia",
         "default": "cn"
       }
     },
@@ -132615,6 +132632,23 @@
           "呀哭呀哭"
         ],
         "cn": "药药yakuyaku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "860d661d-e0e0-57eb-b458-abbad5986673",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493087473043565",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荼荼TUULI",
         "default": "cn"
       }
     },
