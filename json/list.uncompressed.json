@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706593876
+    "timestamp": 1706593910
   },
   "vtbs": [
     {
@@ -134005,6 +134005,23 @@
       "name": {
         "extra": [],
         "cn": "菌菇酱_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b0aff2e-f44d-5338-810e-b5968d9cc1ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494374639929728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菓吱GUOZI",
         "default": "cn"
       }
     },
