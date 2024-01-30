@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706593910
+    "timestamp": 1706594208
   },
   "vtbs": [
     {
@@ -97644,6 +97644,25 @@
         "cn": "淅暮丶sorino",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "07c63798-11d6-5219-8439-6a3f5a0c7b83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537113379244829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淇娜娜_Kinana",
+        "default": "cn"
+      },
+      "group": "fb7977c3-8198-5021-a136-3c8de14290f7",
+      "group_name": "猫邮社"
     },
     {
       "uuid": "ebfd5141-90f7-5e14-af4f-5ab4151c6419",
