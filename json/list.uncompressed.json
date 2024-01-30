@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706595152
+    "timestamp": 1706595190
   },
   "vtbs": [
     {
@@ -26778,6 +26778,23 @@
       "name": {
         "extra": [],
         "cn": "伊斯特尔_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dd639f0c-8f06-5f5d-84c1-ed21393e8977",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19469403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊月tsuki",
         "default": "cn"
       }
     },
@@ -59494,6 +59511,23 @@
       }
     },
     {
+      "uuid": "b2636534-9b96-5b70-a9b1-7b42f42bb78c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626521698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鹿るるちゃん",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "47db361f-7ab6-5381-a511-4b5bf33d99e3",
       "type": "vtuber",
       "bot": false,
@@ -76094,6 +76128,23 @@
       "name": {
         "extra": [],
         "cn": "春日雾枝_kiri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eb0167bf-788c-5aa0-b21a-00527d8a6ee0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2098242220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春映Eink",
         "default": "cn"
       }
     },
