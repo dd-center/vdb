@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706576052
+    "timestamp": 1706593740
   },
   "vtbs": [
     {
@@ -50962,6 +50962,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "eb876c7c-0d22-5579-97cc-7d1ca88dfb6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537104808184479",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈良Nara",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3598c73e-7769-5772-a12c-33a3d8fecda6",
       "type": "vtuber",
       "bot": false,
@@ -94257,6 +94274,23 @@
       "name": {
         "extra": [],
         "cn": "沸雪Fonise",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94ff9c62-6671-56cf-984b-8bc98883e250",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24331147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "油炸马桶盖盖",
         "default": "cn"
       }
     },
