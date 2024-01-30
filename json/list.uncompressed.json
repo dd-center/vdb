@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706594208
+    "timestamp": 1706594517
   },
   "vtbs": [
     {
@@ -37736,6 +37736,25 @@
         "cn": "卡缇娅",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7af5698f-5817-5978-a657-0a816e31696d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537117655337282",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡罘CorVu",
+        "default": "cn"
+      },
+      "group": "fb7977c3-8198-5021-a136-3c8de14290f7",
+      "group_name": "猫邮社"
     },
     {
       "uuid": "b4decb0a-a79c-5143-8657-63593fdfb391",
