@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706696649
+    "timestamp": 1706701284
   },
   "vtbs": [
     {
@@ -54361,6 +54361,23 @@
       "name": {
         "extra": [],
         "cn": "安梦琪AmQ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "119a1a56-891d-539d-8bf0-9b6c026c0e28",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1902938129",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安森弥",
         "default": "cn"
       }
     },
