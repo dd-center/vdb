@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706695626
+    "timestamp": 1706695679
   },
   "vtbs": [
     {
@@ -44660,6 +44660,23 @@
       "name": {
         "extra": [],
         "cn": "埃尔伽_Reynolds",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ecc6f3a1-8263-5af4-88bd-a4f8284fa401",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1394412864",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "埃尾Ariel",
         "default": "cn"
       }
     },
