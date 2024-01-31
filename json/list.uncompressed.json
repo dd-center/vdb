@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706701703
+    "timestamp": 1706716394
   },
   "vtbs": [
     {
@@ -32094,6 +32094,23 @@
       "name": {
         "extra": [],
         "cn": "准尉Werner_Officia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "786ad221-a5b2-577c-a418-94872a0ae4ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40300271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉叶Akiha",
         "default": "cn"
       }
     },
@@ -65770,6 +65787,26 @@
       "group_name": "UpAllLight"
     },
     {
+      "uuid": "6a7e8c2c-e4ab-516e-b0fd-f00163be4675",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115310721181",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "心宜",
+        "en": "fiona",
+        "default": "cn"
+      },
+      "group": "f17df53f-9d5e-576b-8b10-0d67ba3888e5",
+      "group_name": "枝江娱乐"
+    },
+    {
       "uuid": "818c1e27-34e3-540c-a976-70a17f9bf1a1",
       "type": "vtuber",
       "bot": false,
@@ -66393,6 +66430,26 @@
         "cn": "思林9月17双满呦",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "562ce147-fd91-54bb-b40d-9365de4e3c03",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115310721781",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "思诺",
+        "en": "gladys",
+        "default": "cn"
+      },
+      "group": "f17df53f-9d5e-576b-8b10-0d67ba3888e5",
+      "group_name": "枝江娱乐"
     },
     {
       "uuid": "8892d770-fda5-5360-8916-789a8721e0d6",
@@ -82242,6 +82299,24 @@
         "cn": "枝枝鼠Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f17df53f-9d5e-576b-8b10-0d67ba3888e5",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493085336046382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枝江娱乐",
+        "default": "cn"
+      },
+      "group": "f17df53f-9d5e-576b-8b10-0d67ba3888e5"
     },
     {
       "uuid": "dfe56ba4-5449-5f01-967c-f06b62fb62ef",
