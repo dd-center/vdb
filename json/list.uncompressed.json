@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706695216
+    "timestamp": 1706695491
   },
   "vtbs": [
     {
@@ -71155,6 +71155,23 @@
       "name": {
         "extra": [],
         "cn": "无家可归的流浪鲲鲲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6dbac7ca-d52d-5deb-8e77-8e3eac6d8f83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "248901721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "无感情的琴音小姐",
         "default": "cn"
       }
     },
