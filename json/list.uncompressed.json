@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706701671
+    "timestamp": 1706701703
   },
   "vtbs": [
     {
@@ -113623,6 +113623,23 @@
       "name": {
         "extra": [],
         "cn": "祈酱kiyomi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "16e71e23-291e-5181-85c8-cd38bd1facb2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "198263459",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祈里_1nori",
         "default": "cn"
       }
     },
