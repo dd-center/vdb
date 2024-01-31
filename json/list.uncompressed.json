@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706701284
+    "timestamp": 1706701671
   },
   "vtbs": [
     {
@@ -892,6 +892,23 @@
       "name": {
         "extra": [],
         "cn": "AGです",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "998d5178-7863-5446-8735-8b03ef0c42b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14752559",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AHRI智智",
         "default": "cn"
       }
     },
@@ -127986,6 +128003,23 @@
       "name": {
         "extra": [],
         "cn": "花緑青-HanarokuAo-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c1aeccb-a8a5-515b-96d4-710bb8d61d7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "347791308",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花约",
         "default": "cn"
       }
     },
