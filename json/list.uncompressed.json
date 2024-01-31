@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706695866
+    "timestamp": 1706695903
   },
   "vtbs": [
     {
@@ -26587,6 +26587,23 @@
       "name": {
         "extra": [],
         "cn": "伊安-Ean",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72af0ab7-f732-5f88-8dc5-45029d0b2dd2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493091925297287",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊尔希斯_Iser",
         "default": "cn"
       }
     },
@@ -147564,6 +147581,23 @@
       "group_name": "chaoslive"
     },
     {
+      "uuid": "40c820c4-23bb-5a54-8883-8255a78d7198",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "633392",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "银河子Ginga",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8c14392b-0b12-57eb-bd76-d254afeb035c",
       "type": "vtuber",
       "bot": false,
@@ -155351,6 +155385,23 @@
       "name": {
         "extra": [],
         "cn": "顾疚疚",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e05f6fe7-de06-54b6-9583-7989e2f6e390",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "231015956",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "顾眠Nemuri",
         "default": "cn"
       }
     },
