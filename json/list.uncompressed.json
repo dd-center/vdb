@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706695743
+    "timestamp": 1706695848
   },
   "vtbs": [
     {
@@ -32299,6 +32299,23 @@
       "name": {
         "extra": [],
         "cn": "冰羽机Tim",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c3e7c6f4-30ac-5e4f-807e-2ed79cde84a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19870901",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰良Aysu",
         "default": "cn"
       }
     },
@@ -116175,6 +116192,23 @@
       }
     },
     {
+      "uuid": "c3480914-baad-565b-b93b-56c4332f5bc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "781019",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神時Toki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a0545170-3923-5ea7-8382-b56a1bb7f02d",
       "type": "vtuber",
       "bot": false,
@@ -134312,6 +134346,23 @@
       "name": {
         "extra": [],
         "cn": "莱普格_Repgow",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "58ef8df1-659c-5f43-a5d6-883a9d6ef153",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "214375609",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱特",
         "default": "cn"
       }
     },
