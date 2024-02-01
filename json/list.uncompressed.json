@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706751416
+    "timestamp": 1706751417
   },
   "vtbs": [
     {
@@ -70155,6 +70155,23 @@
       "name": {
         "extra": [],
         "cn": "新原NIHARA",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cca420bf-42a4-5453-a465-ad377946ed61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "391888668",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新原修治",
         "default": "cn"
       }
     },
