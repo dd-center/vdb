@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706750102
+    "timestamp": 1706750144
   },
   "vtbs": [
     {
@@ -91850,6 +91850,23 @@
       "name": {
         "extra": [],
         "cn": "汉堡兔hanber",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b95ed821-56a6-52ee-870b-d01f88fcc430",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "106106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汉献帝",
         "default": "cn"
       }
     },
