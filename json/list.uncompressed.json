@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706749039
+    "timestamp": 1706749098
   },
   "vtbs": [
     {
@@ -111316,6 +111316,23 @@
       }
     },
     {
+      "uuid": "43bd4208-74dc-5230-a609-323ed2054472",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "355189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皌桃momo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9ec38d3c-daae-5c50-9397-649afdcd3263",
       "type": "vtuber",
       "bot": false,
@@ -148318,6 +148335,23 @@
       "name": {
         "extra": [],
         "cn": "陈思昂_ChSang",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce26a3b9-df53-508e-8615-a84c800e2973",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1777574878",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陈慕Mulay",
         "default": "cn"
       }
     },
