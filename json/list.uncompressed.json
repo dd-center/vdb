@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706749169
+    "timestamp": 1706749931
   },
   "vtbs": [
     {
@@ -148954,6 +148954,29 @@
       "name": {
         "extra": [],
         "cn": "雨宫艾拉Era",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fc316eb7-320d-5ede-ab69-c9b4cbf28af1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493077331216706",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "user-ug4ec1zt4y",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨宮あいす",
+        "jp": "雨宮あいす",
         "default": "cn"
       }
     },
