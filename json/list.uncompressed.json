@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706750001
+    "timestamp": 1706750102
   },
   "vtbs": [
     {
@@ -73163,6 +73163,23 @@
       }
     },
     {
+      "uuid": "11d09225-6e23-598e-afc2-bfa13301f609",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1526856386",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星星伴你好眠Zzz",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6c969345-a881-5cbd-b917-323c6ad0c7d3",
       "type": "vtuber",
       "bot": false,
@@ -104206,6 +104223,23 @@
       "name": {
         "extra": [],
         "cn": "玉米桐生バトラ玉米",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec9a5084-934d-5bc1-bd93-09f45b449dc9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2056036175",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玉米糊糊子-0",
         "default": "cn"
       }
     },
