@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706749098
+    "timestamp": 1706749169
   },
   "vtbs": [
     {
@@ -70270,6 +70270,23 @@
       "group_name": "新科动漫"
     },
     {
+      "uuid": "67eb5dec-dffe-518c-8520-ad2462ab7a5c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2118563735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "新绘晴Kitsu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f632912e-b141-5765-9f99-2a6ead13e0c4",
       "type": "vtuber",
       "bot": false,
@@ -110470,6 +110487,23 @@
       "name": {
         "extra": [],
         "cn": "白雪霙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "495e1502-0d97-5d3a-ba2b-189bee28d021",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1968529818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白雾祈SroKiri",
         "default": "cn"
       }
     },
