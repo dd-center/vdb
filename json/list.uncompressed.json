@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706759837
+    "timestamp": 1706761393
   },
   "vtbs": [
     {
@@ -132463,6 +132463,24 @@
       "name": {
         "extra": [],
         "cn": "莫无喵喵喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6376d179-6859-554d-a518-cc3db5d2d1ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546582018427120",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莫温",
+        "en": "Morwen",
         "default": "cn"
       }
     },
