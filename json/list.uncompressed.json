@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706751443
+    "timestamp": 1706759461
   },
   "vtbs": [
     {
@@ -1171,6 +1171,54 @@
         "extra": [],
         "cn": "雨氏",
         "en": "A_MESHi_ohanashi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef32cea1-3ee4-545b-ad94-115fe909d728",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115780402148",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "abaddonasmr",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "abxddon",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "AbaddonVT",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "abaddonevell",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "abaddonvt",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "discord.gg/AEHF7bK7Nj",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "AbaddonVT",
+        "en": "Abaddon",
         "default": "cn"
       }
     },
