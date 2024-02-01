@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706751320
+    "timestamp": 1706751351
   },
   "vtbs": [
     {
@@ -82617,6 +82617,23 @@
       }
     },
     {
+      "uuid": "2de6ebe6-3b58-5064-836b-ac098a89be40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2035712820",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枫茵kaala",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7d25f418-c7eb-56ed-b447-b49510073be6",
       "type": "vtuber",
       "bot": false,
@@ -147710,6 +147727,23 @@
       "name": {
         "extra": [],
         "cn": "阿熊叫做藤原知",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "075d0719-5cd1-5a7f-9dd1-85f3333893c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "604484939",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿狸超酷",
         "default": "cn"
       }
     },
