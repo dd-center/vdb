@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706749931
+    "timestamp": 1706750001
   },
   "vtbs": [
     {
@@ -47821,6 +47821,25 @@
         "cn": "夜骑Night",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "81ef1193-3ad4-5cff-9f03-8d2c85b5f781",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "434895",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夢久路_Mukuro",
+        "default": "cn"
+      },
+      "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
+      "group_name": "hOuOu_Project"
     },
     {
       "uuid": "d13675f4-3c69-5d3c-844e-ff4f89ba611d",
