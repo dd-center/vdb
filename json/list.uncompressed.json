@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706750548
+    "timestamp": 1706751320
   },
   "vtbs": [
     {
@@ -21835,6 +21835,23 @@
       "name": {
         "extra": [],
         "cn": "不给你吃瓜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3056945f-c89c-5e8b-9399-6a8f17fb23a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2122066590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "与月绮",
         "default": "cn"
       }
     },
