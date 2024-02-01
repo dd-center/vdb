@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706749028
+    "timestamp": 1706749039
   },
   "vtbs": [
     {
@@ -101621,6 +101621,23 @@
       },
       "group": "54f12813-1527-5f52-b566-3b36f51d676b",
       "group_name": "C-Live_Project"
+    },
+    {
+      "uuid": "dd72d272-1d45-50cd-b53f-6ff12b004934",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "16797288",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犬飼kuroXshiro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "33a4001d-7376-584c-9edc-ef29f9e63d84",
