@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706748984
+    "timestamp": 1706749028
   },
   "vtbs": [
     {
@@ -117207,6 +117207,23 @@
       "name": {
         "extra": [],
         "cn": "竹竹好孤单",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a2d95931-095c-5400-b7c8-7e952f9eeb09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1196559066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹筱青",
         "default": "cn"
       }
     },
