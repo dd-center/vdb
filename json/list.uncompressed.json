@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706716394
+    "timestamp": 1706748813
   },
   "vtbs": [
     {
@@ -9071,6 +9071,63 @@
         "extra": [],
         "cn": "Rien-离缘",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac8417c5-0b08-51a9-9cb7-3090cf974ea1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1460400193",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "RiiKamiVT",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "RiiKamiASMR",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "riikamivt",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "RiiKami",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "riikami",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "riikamivt",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "RiiKami",
+          "type": "official",
+          "platform": "patreon"
+        },
+        {
+          "id": "https://open.spotify.com/artist/5dDz6fCUgwJw9POKl4rsVs?si=OE6777JnT8GZUfdXKNvj8w&nd=1&dlsi=638a747030ea42c7",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "RiiKami",
+        "default": "en"
       }
     },
     {
