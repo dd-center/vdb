@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706750144
+    "timestamp": 1706750163
   },
   "vtbs": [
     {
@@ -2366,6 +2366,23 @@
       "name": {
         "extra": [],
         "cn": "Camellia_杉茶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "615c07cd-12b1-57b2-bea8-6c972033462f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11646880",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Camellia焦淌",
         "default": "cn"
       }
     },
