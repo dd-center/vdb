@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706751351
+    "timestamp": 1706751416
   },
   "vtbs": [
     {
@@ -12687,6 +12687,23 @@
       "name": {
         "extra": [],
         "cn": "biubiu酱紫玩",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "993b97c0-00ed-5460-b5fb-893bd34bd7f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "294780482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "bobby__啵啵酱",
         "default": "cn"
       }
     },
@@ -136015,6 +136032,23 @@
       "name": {
         "extra": [],
         "cn": "虚拟区运营专员_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "528da4cb-f443-5f5a-aad7-a42e4bbad444",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23013012",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "虚拟护士不会做梦",
         "default": "cn"
       }
     },
