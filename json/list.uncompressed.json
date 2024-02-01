@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706751417
+    "timestamp": 1706751443
   },
   "vtbs": [
     {
@@ -138138,6 +138138,23 @@
       "name": {
         "extra": [],
         "cn": "见月伊子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bb76b7b3-5bb0-5f02-8fcd-13c75cde59ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2038511",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "见澈tooru",
         "default": "cn"
       }
     },
