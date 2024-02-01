@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706759461
+    "timestamp": 1706759837
   },
   "vtbs": [
     {
@@ -6734,6 +6734,24 @@
       "name": {
         "extra": [],
         "cn": "Momus",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b5e1db6-b11f-53d3-b07e-26d41062d172",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494370160412735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Monaka",
+        "en": "Monaka",
         "default": "cn"
       }
     },
