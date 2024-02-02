@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706835947
+    "timestamp": 1706836198
   },
   "vtbs": [
     {
@@ -44580,6 +44580,29 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "c9028553-7a2a-555b-bc83-3392b9658fdb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493288938048011",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "1346978374",
+          "type": "official",
+          "platform": "163music"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "城隅",
+        "en": "Yuniya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f07a2117-cac3-53c7-a87b-6372357229ad",
