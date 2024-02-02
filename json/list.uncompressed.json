@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706834948
+    "timestamp": 1706835005
   },
   "vtbs": [
     {
@@ -144857,6 +144857,23 @@
       "name": {
         "extra": [],
         "cn": "钉宫妮妮Ninico",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e79c0ea-6c48-54e1-9da2-c268bf64ae4a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402541107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "钟乐Asking",
         "default": "cn"
       }
     },
