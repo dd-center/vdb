@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706835005
+    "timestamp": 1706835069
   },
   "vtbs": [
     {
@@ -30519,6 +30519,23 @@
       "name": {
         "extra": [],
         "cn": "兔豆ni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc068cb6-173e-5149-9adc-b56b0608cc5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546570897230224",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔豆尼Doki",
         "default": "cn"
       }
     },
@@ -111535,6 +111552,25 @@
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
       "group_name": "ENTUM"
+    },
+    {
+      "uuid": "873459be-22ae-5275-b1c2-2056d92a0ca9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493131081222651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皆月游兔Mizar",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "b6954b50-cd1c-56f3-859a-af661973bdff",
