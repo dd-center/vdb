@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706835248
+    "timestamp": 1706835947
   },
   "vtbs": [
     {
@@ -139015,6 +139015,23 @@
       "name": {
         "extra": [],
         "cn": "诗歌official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "21f45f1e-22fb-5752-a062-36b54d88d969",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493105709877368",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗织Shiori",
         "default": "cn"
       }
     },
