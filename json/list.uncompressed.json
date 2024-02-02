@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706835174
+    "timestamp": 1706835248
   },
   "vtbs": [
     {
@@ -101033,6 +101033,23 @@
       }
     },
     {
+      "uuid": "2f3b903f-bc51-5e15-b4a2-47b5a894d51a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546568697317654",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱莎库娅sakana",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "75142157-8751-5ddb-ba64-5b0b2b49245c",
       "type": "vtuber",
       "bot": false,
@@ -117962,6 +117979,23 @@
       "name": {
         "extra": [],
         "cn": "筑雨未眠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ad0ea3f0-4709-586f-a73b-c8f965bf2a76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3339943",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筠子多多胡",
         "default": "cn"
       }
     },
