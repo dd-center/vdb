@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706836198
+    "timestamp": 1706853456
   },
   "vtbs": [
     {
@@ -665,6 +665,24 @@
       "name": {
         "extra": [],
         "cn": "011179号飞船",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9065ed39-5540-59c0-8587-81b4450a597d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7071426",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "2丫_ニーヤ",
+        "jp": "ニーヤ",
         "default": "cn"
       }
     },
