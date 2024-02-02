@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706835132
+    "timestamp": 1706835174
   },
   "vtbs": [
     {
@@ -108921,6 +108921,23 @@
       "name": {
         "extra": [],
         "cn": "白小溪唱了么",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b3016fb2-0190-534f-9671-2c966e052feb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498983091",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白小糖-Sugar",
         "default": "cn"
       }
     },
