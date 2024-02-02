@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706853456
+    "timestamp": 1706853518
   },
   "vtbs": [
     {
@@ -25478,6 +25478,23 @@
       "name": {
         "extra": [],
         "cn": "亦瞳Tio_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e55fa5f5-e6be-557a-b1d8-557676163bb1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "54459223",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亨特利森",
         "default": "cn"
       }
     },
