@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706761393
+    "timestamp": 1706834948
   },
   "vtbs": [
     {
@@ -115316,6 +115316,23 @@
       "name": {
         "extra": [],
         "cn": "神音Yae",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "32bebffd-9fc2-51d8-9c46-15182994985f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494353624370039",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祢夜十音",
         "default": "cn"
       }
     },
