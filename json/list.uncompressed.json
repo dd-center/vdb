@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706936518
+    "timestamp": 1706936565
   },
   "vtbs": [
     {
@@ -152206,6 +152206,23 @@
       "name": {
         "extra": [],
         "cn": "霜夜HALO",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c0702dc6-16a9-57aa-8ec1-53f265e50d58",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546386807130885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霜月_SYue",
         "default": "cn"
       }
     },
