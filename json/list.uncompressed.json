@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706853518
+    "timestamp": 1706936186
   },
   "vtbs": [
     {
@@ -47773,6 +47773,23 @@
       "name": {
         "extra": [],
         "cn": "夜若弥音Mion",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "61f302b1-ace7-50ea-aee9-356cb578366a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537110539700263",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜茶nightingale",
         "default": "cn"
       }
     },
@@ -123101,6 +123118,23 @@
       "name": {
         "extra": [],
         "cn": "缇缇Titi_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3928795c-9f31-5af9-91a5-303bc43574dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546390875605140",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "缇芽娜Tiana",
         "default": "cn"
       }
     },
