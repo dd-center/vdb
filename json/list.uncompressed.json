@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706936565
+    "timestamp": 1706936599
   },
   "vtbs": [
     {
@@ -34651,6 +34651,25 @@
         "cn": "北东西南south",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e31a3eed-0987-5b37-98c1-b111d2ff7941",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546611875579929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北久Kyuu",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "8d6ea04b-8d0a-5451-a6cf-15a40129d3f0",
