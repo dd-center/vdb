@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1706936599
+    "timestamp": 1707630374
   },
   "vtbs": [
     {
@@ -10777,6 +10777,29 @@
       "name": {
         "extra": [],
         "en": "Troy",
+        "default": "en"
+      }
+    },
+    {
+      "uuid": "611757d8-0c2a-563e-aba4-bf731fb5bb9e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21974189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "Axtune•Rerphine•Kromana",
+          "Erika",
+          "安可茜得•里尔菲涅•克罗玛娜",
+          "艾瑞卡"
+        ],
+        "en": "Twilight-Dream",
+        "cn": "暮光-梦想",
         "default": "en"
       }
     },
