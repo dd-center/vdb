@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1707630681
+    "timestamp": 1707883799
   },
   "vtbs": [
     {
@@ -31159,6 +31159,23 @@
       "name": {
         "extra": [],
         "cn": "六璎six",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f988bbd1-0e10-51c2-ae68-45d564e74598",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15456227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "六角Rokkaku",
         "default": "cn"
       }
     },
@@ -126599,6 +126616,23 @@
       "name": {
         "extra": [],
         "cn": "艾维Avia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "409be523-ee24-592f-a1ee-06f66bddebad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1115318272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾美拉鲁德_Emerald",
         "default": "cn"
       }
     },
