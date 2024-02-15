@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1707883799
+    "timestamp": 1707989594
   },
   "vtbs": [
     {
@@ -33008,6 +33008,23 @@
       "name": {
         "extra": [],
         "cn": "凛澪rinrin啾",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "149925b6-a586-5cf3-b969-fd9596d2dec9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29462834",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凛绪四乃",
         "default": "cn"
       }
     },
