@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1707989594
+    "timestamp": 1707989628
   },
   "vtbs": [
     {
@@ -45739,6 +45739,23 @@
       "name": {
         "extra": [],
         "cn": "夏可ShArk",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c63ac113-3a0c-5733-af22-ff2384010116",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "145093661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏夏listo",
         "default": "cn"
       }
     },
