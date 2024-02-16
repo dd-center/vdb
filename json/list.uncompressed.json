@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708044806
+    "timestamp": 1708044902
   },
   "vtbs": [
     {
@@ -101211,6 +101211,23 @@
       "name": {
         "extra": [],
         "cn": "爱思_可莉姆Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "99ea01f1-3a6e-5d8d-84bb-fc9aba85866e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1660166078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱思可莉姆_AceKrem",
         "default": "cn"
       }
     },
