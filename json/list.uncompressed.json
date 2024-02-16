@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059159
+    "timestamp": 1708059523
   },
   "vtbs": [
     {
@@ -135722,6 +135722,23 @@
       }
     },
     {
+      "uuid": "ed252c4e-b534-5539-9689-f05548122614",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494377190067102",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蒙Mon",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b3be0b88-a470-503d-8203-99ddd28f3c0e",
       "type": "vtuber",
       "bot": false,
@@ -141808,6 +141825,23 @@
       },
       "group": "811ad373-4359-562c-add8-3c2492dc209b",
       "group_name": "狄灵计划"
+    },
+    {
+      "uuid": "a7483535-8903-56db-b8cb-b33ae24a2228",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546588601387602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤盏蛮蛮",
+        "default": "cn"
+      }
     },
     {
       "uuid": "18794a80-5385-579e-8311-38baf1d6d1a0",
