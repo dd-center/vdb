@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058038
+    "timestamp": 1708058059
   },
   "vtbs": [
     {
@@ -52294,6 +52294,23 @@
       "name": {
         "extra": [],
         "cn": "如黎Dawn",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f80f0d7-2c6e-5355-97dc-202a415c3fd7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "671675297",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妃理奈_Rina",
         "default": "cn"
       }
     },
