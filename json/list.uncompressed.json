@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708060136
+    "timestamp": 1708060308
   },
   "vtbs": [
     {
@@ -37691,6 +37691,23 @@
       "name": {
         "extra": [],
         "cn": "卡帕多西娅Docians",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "351ef883-7255-572d-b77f-aba8c9633ff1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537119507122411",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡德纳斯_Cardenas",
         "default": "cn"
       }
     },
