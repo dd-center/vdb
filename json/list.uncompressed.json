@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708045047
+    "timestamp": 1708057913
   },
   "vtbs": [
     {
@@ -93700,6 +93700,23 @@
         "extra": [],
         "jp": "沙羽",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9b28f29d-ba79-52f4-91df-6a30f1a58d2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365674605151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沙萝Nora",
+        "default": "cn"
       }
     },
     {
