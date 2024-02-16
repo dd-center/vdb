@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059088
+    "timestamp": 1708059127
   },
   "vtbs": [
     {
@@ -42574,7 +42574,7 @@
       "bot": false,
       "accounts": [
         {
-          "id": "3461575576914581",
+          "id": "3537111514876230",
           "type": "official",
           "platform": "bilibili"
         }
@@ -98541,6 +98541,23 @@
       }
     },
     {
+      "uuid": "37d0ac05-2f4c-5746-b293-69721dc40c0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546586382600402",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温吞Lukewarm",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ad8216c2-1da2-5bea-af41-47c5688f285a",
       "type": "vtuber",
       "bot": false,
@@ -141424,6 +141441,23 @@
         "extra": [],
         "cn": "赛薇琳",
         "en": "XaviRynn",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "aeef411e-600d-5fa4-951a-e5a00110487d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2029383138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赛诺莉亚Cenoria",
         "default": "cn"
       }
     },
