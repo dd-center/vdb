@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058214
+    "timestamp": 1708058301
   },
   "vtbs": [
     {
@@ -65634,6 +65634,23 @@
       "name": {
         "extra": [],
         "cn": "彼岸霜滢Eliro",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5fdab333-d530-585f-8932-2085353b2205",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "225553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "彼方鸢羽",
         "default": "cn"
       }
     },
