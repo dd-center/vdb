@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059127
+    "timestamp": 1708059159
   },
   "vtbs": [
     {
@@ -119460,6 +119460,23 @@
       "name": {
         "extra": [],
         "cn": "米艾尔蜂蜜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e5bcbf97-3316-58c0-8dfc-9af612a1af5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1351633792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米苏_misu",
         "default": "cn"
       }
     },
