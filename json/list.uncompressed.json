@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059768
+    "timestamp": 1708060050
   },
   "vtbs": [
     {
@@ -24155,6 +24155,23 @@
       }
     },
     {
+      "uuid": "d95a20c5-6688-5211-8f5b-75b92a4b0649",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493104531278180",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "予枳枳",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "68e8cebd-a2fc-5732-a410-e2b29b9b2d94",
       "type": "vtuber",
       "bot": false,
@@ -45218,6 +45235,23 @@
       "name": {
         "extra": [],
         "cn": "塔诺_Tano",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0d4940c4-2ba3-57df-b4b4-680b50fe6fb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "610601708",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔露_Umierrrrru",
         "default": "cn"
       }
     },
