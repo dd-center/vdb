@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059021
+    "timestamp": 1708059057
   },
   "vtbs": [
     {
@@ -123494,6 +123494,23 @@
         ],
         "cn": "维涅塔",
         "en": "Vinetta",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c8286226-4ce7-5347-a481-b3b8e3360ed3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546586030278723",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "维维尔viv",
         "default": "cn"
       }
     },
