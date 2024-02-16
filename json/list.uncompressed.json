@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059688
+    "timestamp": 1708059757
   },
   "vtbs": [
     {
@@ -79412,6 +79412,23 @@
       }
     },
     {
+      "uuid": "6920cd7d-d26c-5331-9edf-8e6879b5e0f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537114905971032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见梨梨娅",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "01c69845-eb96-53bf-a007-5415e6ea10f6",
       "type": "vtuber",
       "bot": false,
@@ -86487,6 +86504,23 @@
       },
       "group": "0b7d637d-0ea2-5381-b0ea-81bcff5f13ad",
       "group_name": "V-dol事务所"
+    },
+    {
+      "uuid": "908d7c69-8fd1-5642-8e08-43c0c269f6cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1051961312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃矢Tosy",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d6bd9a98-b5e3-50e8-bf96-b8f6028f22d8",
