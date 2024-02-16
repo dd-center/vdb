@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058422
+    "timestamp": 1708058601
   },
   "vtbs": [
     {
@@ -44738,6 +44738,23 @@
       "name": {
         "extra": [],
         "cn": "坂上杏子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "71e21ecc-d641-538c-b028-723956501f16",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2030972382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "坨坨TOToo",
         "default": "cn"
       }
     },
@@ -156833,6 +156850,23 @@
       "name": {
         "extra": [],
         "cn": "魔法少女乐府酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "79b1a2b2-986c-54cf-bb46-23abe58ce2d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1861990372",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔法少女星间白_Ookami",
         "default": "cn"
       }
     },
