@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058368
+    "timestamp": 1708058398
   },
   "vtbs": [
     {
@@ -56884,6 +56884,23 @@
       "name": {
         "extra": [],
         "cn": "小喵唧Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b98cdfa-8271-59a1-bbe9-907c6a20c59a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431070724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小嘘熬夜不秃头i",
         "default": "cn"
       }
     },
