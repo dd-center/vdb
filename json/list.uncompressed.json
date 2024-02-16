@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708060308
+    "timestamp": 1708060373
   },
   "vtbs": [
     {
@@ -499,6 +499,23 @@
       "name": {
         "extra": [],
         "cn": "-菫時-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f7ac874d-8020-5230-bdc4-2e32fe7cbf69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "128667389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-蔻蔻CC",
         "default": "cn"
       }
     },
@@ -77623,6 +77640,23 @@
       "name": {
         "extra": [],
         "cn": "晴人honey",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7be25c6b-dfbb-58ea-93d9-bf50721a24d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493134046595612",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晴天助あいし",
         "default": "cn"
       }
     },
