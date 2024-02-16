@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058091
+    "timestamp": 1708058128
   },
   "vtbs": [
     {
@@ -41350,6 +41350,23 @@
       "name": {
         "extra": [],
         "cn": "咕咕热干面",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "13f38c34-4635-5222-8ac7-2d0a67f23dc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353764790",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咕噜吃糖果",
         "default": "cn"
       }
     },
