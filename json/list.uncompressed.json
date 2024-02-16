@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708057977
+    "timestamp": 1708058038
   },
   "vtbs": [
     {
@@ -137799,6 +137799,23 @@
       "name": {
         "extra": [],
         "cn": "蝰漓Kurlia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee3111b6-8734-583b-9efc-510c30697d55",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22870102",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶依依--Dreamer",
         "default": "cn"
       }
     },
