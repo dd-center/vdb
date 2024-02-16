@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058398
+    "timestamp": 1708058422
   },
   "vtbs": [
     {
@@ -141788,6 +141788,23 @@
       "name": {
         "extra": [],
         "cn": "赤魂Akatama",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "50af8167-67ad-523b-9043-52cb87218d7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1442154380",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赧小魅",
         "default": "cn"
       }
     },
