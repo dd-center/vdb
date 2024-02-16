@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708078977
+    "timestamp": 1708079040
   },
   "vtbs": [
     {
@@ -31363,6 +31363,23 @@
       "name": {
         "extra": [],
         "cn": "兮游游",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f56fbb4-8a02-5de0-92db-1de5619d38f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "481786861",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兮瑶Hestia",
         "default": "cn"
       }
     },
