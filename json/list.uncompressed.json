@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708079040
+    "timestamp": 1708079223
   },
   "vtbs": [
     {
@@ -44408,6 +44408,23 @@
       },
       "group": "af9df8e4-86e7-5089-ab06-dc8a6e89146c",
       "group_name": "四禧丸子"
+    },
+    {
+      "uuid": "63e95001-d6d9-50cb-8908-05eaeecd45de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1665499883",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四茶Sama",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3325f521-27c0-5782-91c7-e658253aea31",
