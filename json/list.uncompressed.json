@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058655
+    "timestamp": 1708059021
   },
   "vtbs": [
     {
@@ -717,6 +717,23 @@
       "name": {
         "extra": [],
         "cn": "4Virtual TedoBear泰多貝亞",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a1992df6-d925-51d9-890e-e6c2354f29d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "626086485",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "辞月Yotsuki",
         "default": "cn"
       }
     },
