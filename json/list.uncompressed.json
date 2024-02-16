@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058601
+    "timestamp": 1708058655
   },
   "vtbs": [
     {
@@ -46305,6 +46305,23 @@
       "name": {
         "extra": [],
         "cn": "夏泽目芽_Meme",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9cccfd76-f2cf-5adf-8204-d543c58a6463",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14440008",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏洛17号",
         "default": "cn"
       }
     },
