@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059576
+    "timestamp": 1708059614
   },
   "vtbs": [
     {
@@ -68015,6 +68015,23 @@
       }
     },
     {
+      "uuid": "9935f0e9-aea9-540c-99b6-191766e41d66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537108029409451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠野Yono",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "41e2d470-369f-57ec-8e6a-756db4bf1b78",
       "type": "vtuber",
       "bot": false,
@@ -105824,6 +105841,23 @@
       "name": {
         "extra": [],
         "cn": "珂珞哲official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6fc216d8-35f3-5a7a-bdf4-ae92ee7ffac8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "604744242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珂莱蒂Colette",
         "default": "cn"
       }
     },
