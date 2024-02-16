@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708044945
+    "timestamp": 1708044963
   },
   "vtbs": [
     {
@@ -138951,6 +138951,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "106dc189-fbc0-58b3-8c0c-e1f9eff3fba5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493108234848744",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "角角_jiojio",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6198f641-8776-5a4c-976c-22c88cc4b400",
