@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059757
+    "timestamp": 1708059768
   },
   "vtbs": [
     {
@@ -90633,6 +90633,23 @@
       "name": {
         "extra": [],
         "cn": "橘绘理",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8b8c5c10-20d3-5205-8047-f4c507d6a72d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115535117114",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘莱米",
         "default": "cn"
       }
     },
