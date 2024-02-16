@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058320
+    "timestamp": 1708058368
   },
   "vtbs": [
     {
@@ -66042,6 +66042,23 @@
       },
       "group": "5e4172d0-2dbe-5744-aa12-aeaee8c0b3d6",
       "group_name": "ENTUM"
+    },
+    {
+      "uuid": "1cce97c4-ea92-5eb3-8ed3-fa5411066e5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "547969718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御桐里奈LiNa-YT",
+        "default": "cn"
+      }
     },
     {
       "uuid": "503b9a26-4646-5413-921c-dfaa6392e8f4",
