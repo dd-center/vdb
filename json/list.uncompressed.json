@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708058128
+    "timestamp": 1708058214
   },
   "vtbs": [
     {
@@ -9548,6 +9548,23 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
+    },
+    {
+      "uuid": "b19e89a2-152e-522b-b943-e0b763d90286",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "283731700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "SN_沈宁",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0de140ce-51fc-5a24-9d16-841decbb349c",
@@ -29397,6 +29414,23 @@
       "name": {
         "extra": [],
         "cn": "元気少女蘑菇橙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d20d2beb-2f00-5a8f-9067-35d4330b70df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1746676",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "元诺诺",
         "default": "cn"
       }
     },
