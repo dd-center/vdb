@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708044963
+    "timestamp": 1708045000
   },
   "vtbs": [
     {
@@ -141857,6 +141857,23 @@
       "name": {
         "extra": [],
         "cn": "超绝可爱绘理娜Erina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fdcd1705-ad1e-5a8e-ad8b-218a2c8287e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "350832135",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路Albert",
         "default": "cn"
       }
     },
