@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708044902
+    "timestamp": 1708044945
   },
   "vtbs": [
     {
@@ -40237,6 +40237,23 @@
       "group_name": "upd8"
     },
     {
+      "uuid": "62a29dd3-e9e3-55f9-86c2-c7eae8fd8765",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493124429056481",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "君曦Hana",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7cc7b607-dc3e-5b0f-9704-b77fc46c7d1a",
       "type": "vtuber",
       "bot": false,
@@ -54540,6 +54557,23 @@
       },
       "group": "33b56a7c-193a-5f5e-92e3-44d864560b44",
       "group_name": "TTUP"
+    },
+    {
+      "uuid": "88c52e00-bcbe-5f0d-adca-410cf44e4774",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20177651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安安安诺然_Anora",
+        "default": "cn"
+      }
     },
     {
       "uuid": "95a1f7af-2f9a-5136-bb59-d66ac81861af",
@@ -116020,6 +116054,23 @@
       }
     },
     {
+      "uuid": "e9c84c29-76a1-5f3c-8e55-46be8b8c8d36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "511911998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "离落め",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d6aab560-e6b3-51a3-96a9-0037acf739c1",
       "type": "vtuber",
       "bot": false,
@@ -147332,6 +147383,23 @@
       "name": {
         "extra": [],
         "cn": "阱途Gin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a6e63e6-680a-5b4f-92cc-4d3828d31ef6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10704435",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "防风草Kazane",
         "default": "cn"
       }
     },
