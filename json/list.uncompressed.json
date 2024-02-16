@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708059523
+    "timestamp": 1708059576
   },
   "vtbs": [
     {
@@ -45843,6 +45843,23 @@
       }
     },
     {
+      "uuid": "b7854efc-4e7e-5716-846d-e4327480eeb8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50996567",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏丸花卷",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "35f33f73-f4fb-5292-b142-3c3c7b24eb47",
       "type": "vtuber",
       "bot": false,
@@ -58001,6 +58018,23 @@
       "name": {
         "extra": [],
         "cn": "小毛拔了个火罐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "736796d6-c39b-58a6-9360-d1e8f2d047a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546378280110877",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小池真奈Mana",
         "default": "cn"
       }
     },
