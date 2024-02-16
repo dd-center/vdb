@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708045000
+    "timestamp": 1708045047
   },
   "vtbs": [
     {
@@ -12475,6 +12475,23 @@
       "name": {
         "extra": [],
         "cn": "_かがみ_镜 ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e4401e5-b016-5226-9764-837697b721c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34303469",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "_山黛",
         "default": "cn"
       }
     },
@@ -37837,6 +37854,23 @@
       }
     },
     {
+      "uuid": "9fb6a797-ebff-5442-97fd-57af28b50365",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493088177686531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡莉卡帕_Callicarpa",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "295ac537-fc81-5ba2-87e3-ad2bd92dd777",
       "type": "vtuber",
       "bot": false,
@@ -44551,6 +44585,23 @@
       "name": {
         "extra": [],
         "cn": "在下天姣",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5300118b-8e93-54ef-9c25-5e1a02d8d284",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3075260",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "在下梦想君",
         "default": "cn"
       }
     },
@@ -110272,6 +110323,23 @@
       }
     },
     {
+      "uuid": "86e97416-b8de-5159-b26d-1da193b9ee05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "60158257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白甫Byifu",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2c6f93af-5c93-5696-8bd1-47ce0e967388",
       "type": "vtuber",
       "bot": false,
@@ -130186,6 +130254,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "ff387ffd-a86f-5039-87b3-36d47f317777",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "545209665",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苍柚AoU",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4a2b6ee1-2c2a-5fbf-883b-d52b5e38cb52",
