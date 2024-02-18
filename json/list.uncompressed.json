@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708237910
+    "timestamp": 1708237929
   },
   "vtbs": [
     {
@@ -100197,6 +100197,23 @@
       "name": {
         "extra": [],
         "cn": "火锅Asahi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe98752a-0e5c-506d-86ea-92af22fefe3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3066617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "火锅味小汐",
         "default": "cn"
       }
     },
