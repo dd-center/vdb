@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708211915
+    "timestamp": 1708237910
   },
   "vtbs": [
     {
@@ -123070,6 +123070,23 @@
       },
       "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0",
       "group_name": "PaPutok"
+    },
+    {
+      "uuid": "74716bd3-18ec-5ca9-a246-4b9b3472ec45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493081982700180",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绘星墨墨",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1eb04b1f-4f48-590b-8912-bbd49562864c",
