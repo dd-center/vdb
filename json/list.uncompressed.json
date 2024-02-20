@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708389197
+    "timestamp": 1708389265
   },
   "vtbs": [
     {
@@ -77903,6 +77903,23 @@
       }
     },
     {
+      "uuid": "515544b3-a75c-5d0e-94e6-bf905188b014",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493257797438096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晴奈",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "54c0ad14-2f1b-50a2-9af5-33a9e615cb50",
       "type": "vtuber",
       "bot": false,
@@ -128219,6 +128236,24 @@
       },
       "group": "726d2323-bba0-50fa-af4b-92b9f5b6578c",
       "group_name": "kingdomknight"
+    },
+    {
+      "uuid": "fa8530e5-7182-5a81-a600-99833064db10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546579610897042",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芊芊",
+        "en": "kaua",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b84ae7da-bed2-5911-9553-baf90dad8e6e",
