@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708389051
+    "timestamp": 1708389090
   },
   "vtbs": [
     {
@@ -13288,6 +13288,24 @@
         "default": "en"
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1"
+    },
+    {
+      "uuid": "9f4bb171-4f47-5db7-9a4a-04e768086a70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "402050055",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熠",
+        "en": "iHusky",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0b34617a-b4fc-53af-ac2f-aff0612d389f",
@@ -57125,6 +57143,23 @@
       "name": {
         "extra": [],
         "cn": "小呀么小甜心儿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a4844c23-2870-52a4-8dab-47ff6ae0bb43",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546595687663717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小呆羽毛",
         "default": "cn"
       }
     },
