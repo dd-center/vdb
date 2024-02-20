@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708388993
+    "timestamp": 1708389051
   },
   "vtbs": [
     {
@@ -131661,6 +131661,24 @@
       "name": {
         "extra": [],
         "cn": "苏饼饼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "45f13630-e031-526b-9109-5245d8faee39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494375667534052",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苓汣酒",
+        "en": "Curio",
         "default": "cn"
       }
     },
