@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708389108
+    "timestamp": 1708389197
   },
   "vtbs": [
     {
@@ -141521,6 +141521,23 @@
       },
       "group": "7160ffcb-737e-5a07-b9c1-f130ff46cbee",
       "group_name": "Re.Eden伊甸园"
+    },
+    {
+      "uuid": "8ae0522d-4abd-5a42-9480-a1cc82f489e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493296158542325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆油拌饭",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2dffc9e1-8565-590e-83e1-ebc73f1aa542",
