@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708344794
+    "timestamp": 1708388906
   },
   "vtbs": [
     {
@@ -38998,6 +38998,23 @@
       "name": {
         "extra": [],
         "cn": "叫我小悠就好了",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a51e56bb-3b1c-5fc8-9c41-9e3a1b7ad653",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546569752185439",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪姐",
         "default": "cn"
       }
     },
