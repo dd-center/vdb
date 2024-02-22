@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708590585
+    "timestamp": 1708590630
   },
   "vtbs": [
     {
@@ -46703,6 +46703,23 @@
       },
       "group": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0",
       "group_name": "Afutech"
+    },
+    {
+      "uuid": "ddda137d-828d-50af-b680-3938f66cb817",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1039093936",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏璐璐Ruby",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cbf75692-8aa2-5a57-ab3a-8c41b88c91e5",
