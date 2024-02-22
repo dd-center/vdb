@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708590493
+    "timestamp": 1708590585
   },
   "vtbs": [
     {
@@ -24949,6 +24949,23 @@
       "name": {
         "extra": [],
         "cn": "云酒儿sake",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d11ac95-9ebb-53cf-8225-73d35f4f0c74",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493137741777620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云青墨宇",
         "default": "cn"
       }
     },
