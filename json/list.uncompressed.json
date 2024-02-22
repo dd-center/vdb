@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708590630
+    "timestamp": 1708590653
   },
   "vtbs": [
     {
@@ -96971,6 +96971,23 @@
       "name": {
         "extra": [],
         "cn": "浅星喵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7d72420b-d572-5879-b322-b7552c9fb8f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "654852",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅月Asaitsuki-自律人偶",
         "default": "cn"
       }
     },
