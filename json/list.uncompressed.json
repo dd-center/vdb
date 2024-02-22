@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708503425
+    "timestamp": 1708590493
   },
   "vtbs": [
     {
@@ -38149,6 +38149,23 @@
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
       "group_name": "虚研社"
+    },
+    {
+      "uuid": "c6d9c7ec-b4ee-5d60-80cc-8e5d5b5210ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "479193165",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡露比karu8y",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d2f3df83-0c4e-5524-8ebd-7ec7e1fd887b",
