@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708590978
+    "timestamp": 1708591242
   },
   "vtbs": [
     {
@@ -333,23 +333,6 @@
       }
     },
     {
-      "uuid": "77359029-801c-5067-8b74-e9eee6393021",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "392101937",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "-水梨若official-",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "c1a92e1d-d847-5454-b571-e115509ed699",
       "type": "vtuber",
       "bot": false,
@@ -537,23 +520,6 @@
       }
     },
     {
-      "uuid": "6cdaa401-97af-5fb8-9719-cfda6a329ab5",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "160526160",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "-蛙蛙-Official",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "29590366-1c76-5fa6-b740-a91d20d4bc9d",
       "type": "vtuber",
       "bot": false,
@@ -635,23 +601,6 @@
       "name": {
         "extra": [],
         "cn": "-魔王大人花言理-",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "3b7d689d-f735-5947-8113-9984e3f30622",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3494358399584771",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "-黛安娜",
         "default": "cn"
       }
     },
@@ -1018,23 +967,6 @@
       }
     },
     {
-      "uuid": "835cdb21-4260-5452-9949-61fe748a8042",
-      "type": "vtuber",
-      "bot": true,
-      "accounts": [
-        {
-          "id": "356333940",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "AI气象虚拟主播小麦",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "c2d36d6a-6cc1-55b4-95bf-31c81aa19076",
       "type": "vtuber",
       "bot": true,
@@ -1062,23 +994,6 @@
         "default": "jp"
       },
       "group": "9d2dee5d-4e1d-5faa-8398-7e769bb0a7cc"
-    },
-    {
-      "uuid": "662dbdc8-fb08-51fe-bcf8-d4a88bb0bfc1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "53159212",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "ANIE",
-        "default": "en"
-      }
     },
     {
       "uuid": "34ced28e-3c06-5559-8f56-b6183e14db86",
@@ -1209,24 +1124,6 @@
       }
     },
     {
-      "uuid": "3c9c1ab3-06fe-5008-8fcb-5f3f6e7d4b2a",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "4296831",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "雨氏",
-        "en": "A_MESHi_ohanashi",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "ef32cea1-3ee4-545b-ad94-115fe909d728",
       "type": "vtuber",
       "bot": false,
@@ -1272,23 +1169,6 @@
         "cn": "AbaddonVT",
         "en": "Abaddon",
         "default": "cn"
-      }
-    },
-    {
-      "uuid": "33d587b8-8869-527b-b771-fe7a63ad93e6",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "18265201",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Accesstobia",
-        "default": "en"
       }
     },
     {
@@ -1928,40 +1808,6 @@
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
       "group_name": "NIJISANJI EN"
-    },
-    {
-      "uuid": "5e8abe81-cffe-59b8-91c4-c1a07b737c7b",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "2592429",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "AstralisUP",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "2675b6e4-c011-55d1-945d-cffd43adc125",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "285043115",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "Asuuu阿蘇_Channel",
-        "default": "cn"
-      }
     },
     {
       "uuid": "b5c6e989-a2e8-53f0-86ca-42fef72d629e",
