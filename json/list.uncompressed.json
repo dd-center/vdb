@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708710624
+    "timestamp": 1708710629
   },
   "vtbs": [
     {
@@ -77302,6 +77302,23 @@
       "name": {
         "extra": [],
         "cn": "時雨院Nagi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6739f4d1-287f-5b20-8203-a858b96f8fc3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546374702369366",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晏晏有个卡丁车",
         "default": "cn"
       }
     },
