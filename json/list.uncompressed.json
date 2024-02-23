@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708591242
+    "timestamp": 1708650064
   },
   "vtbs": [
     {
@@ -5027,26 +5027,6 @@
         "cn": "瓶装寂寞Kolo",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "698266064",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [
-          "KonKoeProject"
-        ],
-        "jp": "KonKoe",
-        "default": "jp"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5"
     },
     {
       "uuid": "0f8f28d9-950f-5fb3-a2b5-7617088fb74d",
@@ -22836,25 +22816,6 @@
         "jp": "久遠たま",
         "default": "jp"
       }
-    },
-    {
-      "uuid": "347694b7-0062-5277-a919-5d33454262cd",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "662164326",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "久遠はるか_Channel",
-        "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
     },
     {
       "uuid": "ebf0f3ac-e6e6-5436-a0b8-d8a05a8be73d",
@@ -41978,25 +41939,6 @@
         "cn": "咿喔很哇呜",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "3c56efe1-722d-5068-aee1-472b43d3e2af",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "444015421",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "哀嗣",
-        "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
     },
     {
       "uuid": "44d9286f-1657-5893-b147-e5f0644f701a",
@@ -97404,11 +97346,6 @@
       "bot": false,
       "accounts": [
         {
-          "id": "808682",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
           "id": "7005405",
           "type": "official",
           "platform": "acfun"
@@ -97418,9 +97355,7 @@
         "extra": [],
         "cn": "海猫umi",
         "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
+      }
     },
     {
       "uuid": "279fe53e-d1e1-5947-999e-c52a53c78aed",
@@ -114158,9 +114093,7 @@
         "extra": [],
         "cn": "眠葉紺",
         "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
+      }
     },
     {
       "uuid": "fe938ffa-77aa-5df8-ab5d-7b7155c353ed",
@@ -116928,9 +116861,7 @@
         "extra": [],
         "cn": "禾树ki_Channel",
         "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
+      }
     },
     {
       "uuid": "d4bd77b0-2213-5c26-a4e4-183f96f190b4",
@@ -156845,9 +156776,7 @@
         "extra": [],
         "cn": "驿双Ethan_Channel",
         "default": "cn"
-      },
-      "group": "7dca71c6-bfdb-54b3-b730-ce273928c7d5",
-      "group_name": "KonKoe"
+      }
     },
     {
       "uuid": "b519cdc1-6af4-5a37-af13-5d3e99d9b319",
