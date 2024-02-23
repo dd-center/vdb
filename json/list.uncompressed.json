@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708651560
+    "timestamp": 1708651579
   },
   "vtbs": [
     {
@@ -83084,6 +83084,23 @@
       "name": {
         "extra": [],
         "cn": "林渊Kylin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1bf6d7bc-bd3b-5df4-b2dd-f54383fbef17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493122801666728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林灵尹Wine",
         "default": "cn"
       }
     },
