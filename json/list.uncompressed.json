@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708710518
+    "timestamp": 1708710624
   },
   "vtbs": [
     {
@@ -119293,6 +119293,23 @@
       }
     },
     {
+      "uuid": "c3e408fd-048e-5ae1-87cc-894d3c2adf11",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11644473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "第二颗纽扣给樱酱QvQ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "638f2b77-52f8-5100-a511-d5c0a0b5fcfb",
       "type": "vtuber",
       "bot": false,
@@ -155111,6 +155128,25 @@
         "cn": "非酋喵_",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a29b731a-b9ea-55ac-98c5-42875b983c39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115176503427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "靡幽miyo",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
     },
     {
       "uuid": "5a67a04f-b32e-5d84-80f7-d3815da6bfdd",
