@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708710629
+    "timestamp": 1708710770
   },
   "vtbs": [
     {
@@ -83911,6 +83911,23 @@
       }
     },
     {
+      "uuid": "2b22f9c7-e6a4-5812-9be5-2e3871a09c6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "129927976",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柒崽",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2eeca199-ec5b-5d0f-842e-640c0f525116",
       "type": "vtuber",
       "bot": false,
@@ -140195,6 +140212,23 @@
       "name": {
         "extra": [],
         "cn": "观月琉璃Ruri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d593045b-3c48-53be-be53-4fb3098ffc5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546393822104187",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "觅柚知寒",
         "default": "cn"
       }
     },
