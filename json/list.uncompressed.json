@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708651579
+    "timestamp": 1708651637
   },
   "vtbs": [
     {
@@ -59733,6 +59733,23 @@
       "name": {
         "extra": [],
         "cn": "小鹿比酱又迷路啦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8a02350f-439e-5841-a470-89ccffc63bac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1933479317",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小麻Mamira",
         "default": "cn"
       }
     },
@@ -138670,6 +138687,23 @@
       "name": {
         "extra": [],
         "cn": "蝶理紗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7c868478-b9d9-562e-8009-d792e9e7c2b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1390615961",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶礼_Delia",
         "default": "cn"
       }
     },
