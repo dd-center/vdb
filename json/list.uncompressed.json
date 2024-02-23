@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708710494
+    "timestamp": 1708710518
   },
   "vtbs": [
     {
@@ -99834,6 +99834,23 @@
       }
     },
     {
+      "uuid": "7c3d5f40-3a99-5425-b754-76d2545348a3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "334511272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "潇琪Talina",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7ae350e8-58b9-586d-9324-a091dd3b4c52",
       "type": "vtuber",
       "bot": false,
@@ -150484,6 +150501,25 @@
       }
     },
     {
+      "uuid": "0a898225-8a61-52ce-9c5d-80319ba48568",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494371731180011",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿音Ayln",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
+    },
+    {
       "uuid": "33205976-bc92-578d-ae53-345effb9e085",
       "type": "vtuber",
       "bot": false,
@@ -151191,6 +151227,26 @@
         "cn": "雅特弥丝Yatamis",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d3ee573d-9cc1-52d4-83dc-fd1b456994ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546380375165502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雅米",
+        "en": "Yamii",
+        "default": "cn"
+      },
+      "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
+      "group_name": "雪域Provealms"
     },
     {
       "uuid": "221a1af7-f4cc-5f87-b72d-482e75162c29",
