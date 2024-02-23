@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708711272
+    "timestamp": 1708711326
   },
   "vtbs": [
     {
@@ -62673,6 +62673,23 @@
       "name": {
         "extra": [],
         "cn": "希依Kie",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ca86ffff-aa09-5cac-996d-f55186105a01",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "45469162",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希奥瑟_SeaOcean",
         "default": "cn"
       }
     },
