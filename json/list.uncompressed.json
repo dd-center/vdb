@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708651489
+    "timestamp": 1708651560
   },
   "vtbs": [
     {
@@ -153092,6 +153092,23 @@
       "name": {
         "extra": [],
         "cn": "雾峰沙梨Shari",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fa417977-3b47-5a56-bfba-722bbd662732",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3352523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾川Kirikawa",
         "default": "cn"
       }
     },
