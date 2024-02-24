@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708737422
+    "timestamp": 1708737611
   },
   "vtbs": [
     {
@@ -5817,24 +5817,6 @@
         "jp": "米プリンセス",
         "default": "en"
       }
-    },
-    {
-      "uuid": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "488726535",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Makuroka",
-        "default": "en"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8"
     },
     {
       "uuid": "38d56088-1adf-595e-a172-0fd9086fa58d",
@@ -42750,9 +42732,7 @@
         "extra": [],
         "cn": "唯炭Official",
         "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "group_name": "Makuroka"
+      }
     },
     {
       "uuid": "56b5d934-5f0d-5c0d-b428-4743f8431a52",
@@ -62176,9 +62156,7 @@
         "extra": [],
         "cn": "巴托利娅",
         "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "group_name": "Makuroka"
+      }
     },
     {
       "uuid": "444a26e2-9c80-5cdd-ac63-bd106a11fa9e",
@@ -77866,9 +77844,7 @@
         "cn": "普露提亚",
         "en": "Plutya",
         "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "group_name": "Makuroka"
+      }
     },
     {
       "uuid": "5d7dae58-494c-51c6-829b-b566934b441d",
@@ -104773,25 +104749,6 @@
       }
     },
     {
-      "uuid": "20349f12-3eaa-5da6-9ffc-7b7cf9e601e1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "65686347",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "猫屋枕",
-        "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "group_name": "Makuroka"
-    },
-    {
       "uuid": "b7b3181e-525d-53a9-9349-93f8fd1a7cec",
       "type": "vtuber",
       "bot": false,
@@ -105861,9 +105818,7 @@
         "extra": [],
         "cn": "玉目绊Official",
         "default": "cn"
-      },
-      "group": "25792bc0-6d62-50b1-8089-cb1ec922b5a8",
-      "group_name": "Makuroka"
+      }
     },
     {
       "uuid": "e6e4f920-9352-5022-b6fd-562e4e14ee4a",
