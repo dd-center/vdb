@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836800
+    "timestamp": 1708836938
   },
   "vtbs": [
     {
@@ -80548,6 +80548,23 @@
       "name": {
         "extra": [],
         "cn": "有马Arima_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5ade9266-7dd5-56ff-b618-1e10fb3eb954",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368790972851",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朏",
         "default": "cn"
       }
     },
