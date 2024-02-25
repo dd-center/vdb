@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708846310
+    "timestamp": 1708850941
   },
   "vtbs": [
     {
@@ -28473,6 +28473,23 @@
       "name": {
         "extra": [],
         "cn": "你的迟叶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d58419ad-ca51-5b24-a92e-7d7bcbbdb2ee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1043320599",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "你要不要吃一口",
         "default": "cn"
       }
     },
