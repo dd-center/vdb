@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708737611
+    "timestamp": 1708836027
   },
   "vtbs": [
     {
@@ -44855,7 +44855,9 @@
         "extra": [],
         "cn": "坨坨TOToo",
         "default": "cn"
-      }
+      },
+      "group": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4",
+      "group_name": "贴贴社"
     },
     {
       "uuid": "e2c4f1ad-d0d9-59c0-aad6-a6addb9feaf8",
@@ -78933,7 +78935,9 @@
         "extra": [],
         "cn": "月下烁也",
         "default": "cn"
-      }
+      },
+      "group": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4",
+      "group_name": "贴贴社"
     },
     {
       "uuid": "c3a5fb26-be12-5fee-981c-ec31f23c4051",
@@ -80867,7 +80871,9 @@
         "extra": [],
         "cn": "朝枝晓Akatsuki",
         "default": "cn"
-      }
+      },
+      "group": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4",
+      "group_name": "贴贴社"
     },
     {
       "uuid": "1a7c7817-2fb1-56c5-a34c-8f093adbc4f5",
@@ -142390,6 +142396,25 @@
         "en": "DeCodeKuMa",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1040998384",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贴贴社",
+        "en": "Closer project",
+        "default": "cn"
+      },
+      "group": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4"
     },
     {
       "uuid": "4ad0bdfb-42c0-5c1c-a922-b79f8161cc11",
