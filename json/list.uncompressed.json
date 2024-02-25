@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836982
+    "timestamp": 1708837099
   },
   "vtbs": [
     {
@@ -104043,6 +104043,23 @@
       }
     },
     {
+      "uuid": "b088c11b-1c3c-5a53-8612-a46d298e8125",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493113234458776",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狸小鬼wink",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "da84a301-f120-54a8-b46d-d4b913da4bc4",
       "type": "vtuber",
       "bot": false,
@@ -108114,6 +108131,23 @@
       "name": {
         "extra": [],
         "cn": "瑞茵-Lapin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5713ddad-4056-5ffc-a051-0cc33a80fcd2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1141219033",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞葉Ruiye",
         "default": "cn"
       }
     },
@@ -161250,6 +161284,23 @@
       "name": {
         "extra": [],
         "cn": "麦芽不甜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5d7bba0a-04f0-51ef-b922-ea852482ced9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "28533192",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麦辣鲨鱼堡Aki",
         "default": "cn"
       }
     },
