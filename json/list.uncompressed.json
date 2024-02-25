@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836027
+    "timestamp": 1708836099
   },
   "vtbs": [
     {
@@ -42714,23 +42714,6 @@
       "name": {
         "extra": [],
         "cn": "唯泽YuiZ",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "208dae4b-dd06-54eb-b63c-90cb3bceaf59",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "519866775",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "唯炭Official",
         "default": "cn"
       }
     },
@@ -109194,6 +109177,25 @@
         "cn": "由川伶子",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "239f132d-8759-5f12-8e6e-20dc5049ab88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "519866775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由比未崋子_Channel",
+        "default": "cn"
+      },
+      "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
+      "group_name": "V_G研究所"
     },
     {
       "uuid": "b1b55ab7-2bd7-5d68-9d1e-633b0b6e2cf1",
