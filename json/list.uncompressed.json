@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708846067
+    "timestamp": 1708846222
   },
   "vtbs": [
     {
@@ -3631,9 +3631,7 @@
         "extra": [],
         "en": "Fey",
         "default": "en"
-      },
-      "group": "98f1964b-de8a-586b-bb1a-6a3de476727d",
-      "group_name": "NGWORKS"
+      }
     },
     {
       "uuid": "af3368d9-a497-5df5-8c83-c4428910ae28",
@@ -6789,24 +6787,6 @@
         "cn": "NAKUwac",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "98f1964b-de8a-586b-bb1a-6a3de476727d",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "153373112",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "NGWORKS",
-        "default": "en"
-      },
-      "group": "98f1964b-de8a-586b-bb1a-6a3de476727d"
     },
     {
       "uuid": "1689a361-899d-5037-bd95-c45c3adaae15",
@@ -117443,9 +117423,7 @@
         "extra": [],
         "cn": "禾咕咕",
         "default": "cn"
-      },
-      "group": "98f1964b-de8a-586b-bb1a-6a3de476727d",
-      "group_name": "NGWORKS"
+      }
     },
     {
       "uuid": "71f2fc73-8a12-539e-b4ad-f5e11f257494",
