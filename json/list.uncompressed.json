@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836376
+    "timestamp": 1708836478
   },
   "vtbs": [
     {
@@ -93469,6 +93469,23 @@
       }
     },
     {
+      "uuid": "77e73928-f63d-53bc-a30b-f7954518ebda",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "430699100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐花梨奈",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c7ea8c7e-2a6d-5897-8bd7-ce690763e336",
       "type": "vtuber",
       "bot": false,
@@ -103523,6 +103540,23 @@
       "name": {
         "extra": [],
         "cn": "狐妖小时莩",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "21bb0b75-79ae-5de4-902f-6048d395d967",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1799948866",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐小软",
         "default": "cn"
       }
     },
