@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836301
+    "timestamp": 1708836331
   },
   "vtbs": [
     {
@@ -154436,6 +154436,23 @@
       "name": {
         "extra": [],
         "cn": "霜翎雪carin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2dbb84a8-c199-59a0-84e1-94a738ca2f26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537106672552252",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霜霜糕",
         "default": "cn"
       }
     },
