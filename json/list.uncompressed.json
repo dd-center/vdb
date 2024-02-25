@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708850971
+    "timestamp": 1708851061
   },
   "vtbs": [
     {
@@ -39664,6 +39664,23 @@
       "name": {
         "extra": [],
         "cn": "叶清歌_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "491c0091-d50a-50fb-9f3a-c0ccb28d4123",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493293239306390",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶灵",
         "default": "cn"
       }
     },
@@ -120461,6 +120478,24 @@
       "name": {
         "extra": [],
         "cn": "米艾尔蜂蜜Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d7c1cbd-e7f6-503b-9f56-de329a07989f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494367016781881",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米芙",
+        "en": "Meave",
         "default": "cn"
       }
     },
