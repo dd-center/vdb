@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836331
+    "timestamp": 1708836376
   },
   "vtbs": [
     {
@@ -34888,6 +34888,23 @@
       "name": {
         "extra": [],
         "cn": "北岛砂糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cbe9cf02-21d3-517d-b9a6-2dd3e1d75dcd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5465147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北川洛莉儿",
         "default": "cn"
       }
     },
@@ -108964,6 +108981,23 @@
       }
     },
     {
+      "uuid": "5feb4ea6-2961-582b-887c-dd8873fe19cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546583383673229",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜酒味小莓",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "7046b662-4339-51da-ac61-8ddf3564de7e",
       "type": "vtuber",
       "bot": false,
@@ -124555,6 +124589,24 @@
       "name": {
         "extra": [],
         "cn": "绵绵不是麻瓜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "199d1796-211e-54fe-8b01-1b467f709bc7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "667990697",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绵绵饭",
+        "en": "mifani",
         "default": "cn"
       }
     },
