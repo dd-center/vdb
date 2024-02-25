@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836676
+    "timestamp": 1708836719
   },
   "vtbs": [
     {
@@ -120097,6 +120097,23 @@
       }
     },
     {
+      "uuid": "ecce57f8-5cb5-5d6d-a75e-bc682f9af38a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546556361869502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米奈妲妲",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "37106204-9bd0-517a-ba5c-512e6079e790",
       "type": "vtuber",
       "bot": false,
@@ -144874,6 +144891,23 @@
       "name": {
         "extra": [],
         "cn": "还有醒着的么",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8b404c61-0f7b-5ad7-aec5-d8b89dc5dfb2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537114767559066",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "坏坏",
         "default": "cn"
       }
     },
