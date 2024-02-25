@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708851061
+    "timestamp": 1708880938
   },
   "vtbs": [
     {
@@ -10108,6 +10108,23 @@
         "default": "cn"
       },
       "group": "7893a9ee-da88-54f3-8005-023fc8095d8a"
+    },
+    {
+      "uuid": "5c64df4c-a363-5077-b9e9-8a73ff52cd46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546610097195542",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Spotlight-阿音",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1f95e206-a5d4-57cd-9f2f-1bb5fbe05a05",
@@ -24184,6 +24201,23 @@
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237",
       "group_name": "winks"
+    },
+    {
+      "uuid": "6a0ec37a-7633-54dd-899b-5bf8202d9bdf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546393538988304",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云云--official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
@@ -83222,6 +83256,23 @@
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497",
       "group_name": "玹云社"
+    },
+    {
+      "uuid": "14e103b6-e45f-5d3a-9fe3-9c2b8840dbd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493128562543246",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林久久shion",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f29b5cd9-28cf-5146-a0b5-914a279f76d0",
@@ -160936,6 +160987,23 @@
       "name": {
         "extra": [],
         "cn": "鹿瑰Shika",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e727443-2395-53ea-a598-0b243aff7927",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493125305666041",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿瑶Clover",
         "default": "cn"
       }
     },
