@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836115
+    "timestamp": 1708836301
   },
   "vtbs": [
     {
@@ -79115,6 +79115,24 @@
       },
       "group": "d4d3135b-dd1c-57e2-9122-a249c97d40e7",
       "group_name": "TheVirkyrie"
+    },
+    {
+      "uuid": "c9e19ea0-524d-578d-b880-211db57a6882",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537124330572529",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月初",
+        "en": "Sukii",
+        "default": "cn"
+      }
     },
     {
       "uuid": "011a1d53-b6ce-55b5-a5e2-d5f49d0f39da",
