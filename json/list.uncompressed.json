@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836938
+    "timestamp": 1708836982
   },
   "vtbs": [
     {
@@ -61298,6 +61298,23 @@
       "name": {
         "extra": [],
         "cn": "山霧-Official-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "afb9bfac-924b-515c-b046-f714ba8479e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22579054",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "屿九Nigori",
         "default": "cn"
       }
     },
