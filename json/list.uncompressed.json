@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836719
+    "timestamp": 1708836735
   },
   "vtbs": [
     {
@@ -123283,6 +123283,24 @@
       "name": {
         "extra": [],
         "cn": "纳曲星星Naqueen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "92233267-424b-5446-9171-770990385e34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546389669743577",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纵星",
+        "en": "Zoe",
         "default": "cn"
       }
     },
