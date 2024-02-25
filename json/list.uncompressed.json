@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708836735
+    "timestamp": 1708836800
   },
   "vtbs": [
     {
@@ -126737,6 +126737,24 @@
       "name": {
         "extra": [],
         "cn": "肆肆_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a503da74-9bca-57a3-ba6a-007fe9798267",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546562676394230",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "肉丸",
+        "en": "roli",
         "default": "cn"
       }
     },
