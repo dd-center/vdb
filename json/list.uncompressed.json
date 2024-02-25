@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708846222
+    "timestamp": 1708846310
   },
   "vtbs": [
     {
@@ -6966,24 +6966,6 @@
         "cn": "Nai_早川里奈",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "57988971",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "Nameless Project",
-        "default": "en"
-      },
-      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781"
     },
     {
       "uuid": "8fe9f080-ff0c-54f7-87c1-71eb387ef93d",
@@ -14004,11 +13986,6 @@
           "id": "514726274",
           "type": "official",
           "platform": "bilibili"
-        },
-        {
-          "id": "nyanon",
-          "type": "official",
-          "platform": "afdian"
         }
       ],
       "name": {
@@ -14016,9 +13993,7 @@
         "cn": "喵年",
         "en": "nyanon",
         "default": "cn"
-      },
-      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
-      "group_name": "Nameless Project"
+      }
     },
     {
       "uuid": "0780441c-1e44-5656-8574-0444d71e1fe5",
@@ -35780,25 +35755,6 @@
         "cn": "千春葵",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "623dda9a-5c55-59ad-bf45-e70d5dbf6a12",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "56261234",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "千時静",
-        "default": "cn"
-      },
-      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
-      "group_name": "Nameless Project"
     },
     {
       "uuid": "dc06887b-c844-5732-972e-922bc6e580d9",
@@ -69403,6 +69359,23 @@
       "name": {
         "extra": [],
         "cn": "我妻雪橙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c97cfc0e-1c83-554a-96b0-ca8f7d17055f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1631724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "我打鼾声音超大OvO",
         "default": "cn"
       }
     },
@@ -114928,9 +114901,7 @@
         "extra": [],
         "cn": "矢泽大凤",
         "default": "cn"
-      },
-      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
-      "group_name": "Nameless Project"
+      }
     },
     {
       "uuid": "2e92ee43-bd31-59d6-a35a-ac622ba8fe99",
@@ -136292,25 +136263,6 @@
         "cn": "萧珑宝",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "2c722833-01e2-5903-be47-174d8b0aaaa9",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1631724",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "萧箬薇",
-        "default": "cn"
-      },
-      "group": "0a7ccefa-fb4f-53ee-8010-9a62823d9781",
-      "group_name": "Nameless Project"
     },
     {
       "uuid": "96333c54-56e9-5afa-bfac-0be099a61b5f",
