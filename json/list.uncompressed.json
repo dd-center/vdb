@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708911839
+    "timestamp": 1708911884
   },
   "vtbs": [
     {
@@ -141769,6 +141769,23 @@
       "name": {
         "extra": [],
         "cn": "诺伊斯_Noyce",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e3874ad-1714-56e3-9a22-09754585bcab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "156868538",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺伊梓noises",
         "default": "cn"
       }
     },
