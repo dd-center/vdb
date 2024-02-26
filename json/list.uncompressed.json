@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708912225
+    "timestamp": 1708912423
   },
   "vtbs": [
     {
@@ -25965,6 +25965,25 @@
         "cn": "以里illi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e180d399-834c-5883-b70e-67803c2e2518",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546599869385547",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仰阿音",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "afaf7264-2012-56ef-8451-25748d962fa0",
