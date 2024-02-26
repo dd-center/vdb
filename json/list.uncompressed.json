@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708912423
+    "timestamp": 1708912460
   },
   "vtbs": [
     {
@@ -161778,6 +161778,24 @@
       "name": {
         "extra": [],
         "cn": "黎氓Meng",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7681cd8e-240d-552c-8ea1-4714523813e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546596495067491",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎珂",
+        "en": "Liiko",
         "default": "cn"
       }
     },
