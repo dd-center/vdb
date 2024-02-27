@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709011695
+    "timestamp": 1709011736
   },
   "vtbs": [
     {
@@ -41728,6 +41728,23 @@
       "group_name": "Palette"
     },
     {
+      "uuid": "67f0e2f4-5e2e-562c-a6bb-3de52536a90b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537124349446832",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咬一口菜菜Nn",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "268cfcd4-4701-50c5-83e1-ff83a363e6ca",
       "type": "vtuber",
       "bot": false,
@@ -65223,6 +65240,23 @@
       "name": {
         "extra": [],
         "cn": "张姐iruka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ace08d28-c857-5871-836f-1e7325c205c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "697138005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "张敢敢",
         "default": "cn"
       }
     },
