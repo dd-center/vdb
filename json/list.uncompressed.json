@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992879
+    "timestamp": 1708992920
   },
   "vtbs": [
     {
@@ -10110,6 +10110,23 @@
         ],
         "cn": "色太",
         "en": "Sunatte",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "59c70d2b-3600-543a-b5da-1afc6f994412",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546604204198677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "StageOne计划 ",
         "default": "cn"
       }
     },
