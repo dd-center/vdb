@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709011736
+    "timestamp": 1709011795
   },
   "vtbs": [
     {
@@ -63905,6 +63905,23 @@
       },
       "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010",
       "group_name": "神椿工作室"
+    },
+    {
+      "uuid": "94f646ac-8926-553c-8638-9032ebbb8fba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1419773922",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幸运小甜饼o",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ad9a205d-5d95-5ab2-a92a-86ddae9d8699",
