@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992553
+    "timestamp": 1708992587
   },
   "vtbs": [
     {
@@ -65997,6 +65997,25 @@
         "cn": "彩咲茜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b972aaf8-93c7-5a38-944c-171b764dab83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "343243574",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "彩璃_Ayari",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "bcc4a55e-ffe9-5cb8-ae6e-188089cb87a6",
