@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992587
+    "timestamp": 1708992667
   },
   "vtbs": [
     {
@@ -133316,6 +133316,35 @@
       "name": {
         "extra": [],
         "cn": "茶乃叶Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9730eef-bacd-5ba0-992d-75b785e53c6f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546394178619505",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MiRaiCha",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "Sakura_MiRai62",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茶乃間未来",
+        "en": "Mirai",
+        "jp": "茶ノ間みらい",
         "default": "cn"
       }
     },
