@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992920
+    "timestamp": 1708992959
   },
   "vtbs": [
     {
@@ -24246,6 +24246,23 @@
       },
       "group": "73f553fe-bc06-5b12-be20-44b1190b6237",
       "group_name": "winks"
+    },
+    {
+      "uuid": "22a835fa-637e-5a84-b1ed-d1c9702dc5e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1384266315",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云一Samuel",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6a0ec37a-7633-54dd-899b-5bf8202d9bdf",
