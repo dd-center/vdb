@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992755
+    "timestamp": 1708992778
   },
   "vtbs": [
     {
@@ -22418,6 +22418,23 @@
       "name": {
         "extra": [],
         "cn": "中野流子_Ryuuko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b255effe-53ab-5a64-a14e-12832e080cd3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546578805590325",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丶颜卿丶",
         "default": "cn"
       }
     },
@@ -96639,6 +96656,23 @@
       "name": {
         "extra": [],
         "cn": "洛德薇安Ludivine",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9e7c164-398f-568c-ba6b-4b53f4adf854",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494357411826585",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛时予",
         "default": "cn"
       }
     },
