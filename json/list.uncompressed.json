@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992667
+    "timestamp": 1708992755
   },
   "vtbs": [
     {
@@ -19416,7 +19416,9 @@
         "extra": [],
         "cn": "一只白熊叫黑鸭",
         "default": "cn"
-      }
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
     },
     {
       "uuid": "9e1b6dce-50f1-575f-a6e6-3d10e4f193ae",
@@ -45025,6 +45027,26 @@
       }
     },
     {
+      "uuid": "04fe3c64-e4ff-5e26-a38b-b5b7a53be9da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "679180755",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "埃栗",
+        "en": "aili",
+        "default": "cn"
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
+    },
+    {
       "uuid": "d957edae-fb44-54e4-8d67-e471341063c5",
       "type": "vtuber",
       "bot": false,
@@ -46072,7 +46094,9 @@
         "extra": [],
         "cn": "夏丸花卷",
         "default": "cn"
-      }
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
     },
     {
       "uuid": "35f33f73-f4fb-5292-b142-3c3c7b24eb47",
@@ -91406,6 +91430,26 @@
       }
     },
     {
+      "uuid": "c6b5367a-e115-5485-82e6-4073c07fa52a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2101497482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橘葉月",
+        "jp": "hatsuki",
+        "default": "cn"
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
+    },
+    {
       "uuid": "50b8d697-0226-5641-a0d0-ccd2f78acf24",
       "type": "vtuber",
       "bot": false,
@@ -133434,7 +133478,9 @@
         "extra": [],
         "cn": "茶绒绒Kiyu",
         "default": "cn"
-      }
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
     },
     {
       "uuid": "6f2552c8-06f5-5edb-af77-982c578c1d96",
@@ -136088,6 +136134,24 @@
         "cn": "萌糸莉雅",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "11361482-308d-5313-8597-96d3d8d7170a",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493281191168876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌芽社",
+        "default": "cn"
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a"
     },
     {
       "uuid": "0a6bd8bb-14be-5ac4-8e63-a4e0e16c4979",
@@ -145417,6 +145481,25 @@
         "cn": "迟川miyo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e9f1208c-add5-51e2-94a4-b8584453ba70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "513485432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迟暮Momn",
+        "default": "cn"
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
     },
     {
       "uuid": "bb3ee153-95a9-57cb-9702-9c7d13db62a9",
@@ -156224,7 +156307,9 @@
         "extra": [],
         "cn": "音希Radio",
         "default": "cn"
-      }
+      },
+      "group": "11361482-308d-5313-8597-96d3d8d7170a",
+      "group_name": "萌芽社"
     },
     {
       "uuid": "0cb99008-7be9-51da-a3c0-a0babb6fe162",
