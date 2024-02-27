@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992521
+    "timestamp": 1708992553
   },
   "vtbs": [
     {
@@ -38067,6 +38067,24 @@
       "name": {
         "extra": [],
         "cn": "卡露比karu8y",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe187df8-0266-50ad-b156-921bb0c83eca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493093598824700",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡鲁",
+        "en": "KARU",
         "default": "cn"
       }
     },
