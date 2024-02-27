@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709011983
+    "timestamp": 1709012015
   },
   "vtbs": [
     {
@@ -36748,6 +36748,23 @@
       "name": {
         "extra": [],
         "cn": "南なぎさofficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d03cc45d-f7c7-5096-ae38-ff7e5d64bf2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2095656081",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "南乔_official",
         "default": "cn"
       }
     },
@@ -86225,6 +86242,23 @@
       "name": {
         "extra": [],
         "cn": "根羽Neva",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "271f0deb-a43b-5d32-82de-495b27b68b2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546592088951437",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "格拉纳特Gat",
         "default": "cn"
       }
     },
