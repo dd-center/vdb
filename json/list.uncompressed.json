@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708993526
+    "timestamp": 1708993605
   },
   "vtbs": [
     {
@@ -159597,6 +159597,23 @@
       "name": {
         "extra": [],
         "cn": "鲨鱼小辣椒sakana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8051023a-4aa5-50c7-93c3-dc3b536032ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494370328185006",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲨鲨",
         "default": "cn"
       }
     },
