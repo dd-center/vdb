@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708912460
+    "timestamp": 1708992423
   },
   "vtbs": [
     {
@@ -70256,6 +70256,23 @@
       }
     },
     {
+      "uuid": "bfeb5565-060d-5791-aff6-59bd99d27f14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577676163935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉西Lucky",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "52dfa45b-8634-5181-af3e-1bf6e7883bda",
       "type": "vtuber",
       "bot": false,
@@ -125736,6 +125753,23 @@
       "name": {
         "extra": [],
         "cn": "美芝Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ec98d626-fdc3-54aa-8cfe-575ab929e717",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546585239652561",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羚翎醬",
         "default": "cn"
       }
     },
