@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709012015
+    "timestamp": 1709034928
   },
   "vtbs": [
     {
@@ -70346,6 +70346,23 @@
       }
     },
     {
+      "uuid": "ab8c7109-184a-5229-8db7-8d24bdaa0128",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546585422104703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "招摇夭夭",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bc2a1281-d2d7-51f7-a743-79d69a236df4",
       "type": "vtuber",
       "bot": false,
@@ -123100,6 +123117,23 @@
         "extra": [],
         "cn": "红魔姬",
         "en": "Mora",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ab7b36ad-ada7-5fd9-aa6b-1ebc037639e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546558941366987",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纤灵儿er",
         "default": "cn"
       }
     },
