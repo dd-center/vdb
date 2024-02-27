@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992959
+    "timestamp": 1708992977
   },
   "vtbs": [
     {
@@ -113346,6 +113346,23 @@
       "name": {
         "extra": [],
         "cn": "百妖小幸Lyana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f9ce9152-88bc-5b55-8404-4b36e630ada9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368858081709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百姫抄",
         "default": "cn"
       }
     },
