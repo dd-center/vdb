@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992423
+    "timestamp": 1708992451
   },
   "vtbs": [
     {
@@ -31806,6 +31806,23 @@
       "name": {
         "extra": [],
         "cn": "冬月嗷嗷酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e138ae80-5efe-5748-aca5-11815844fc95",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546389296449813",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬栗Kuriko",
         "default": "cn"
       }
     },
