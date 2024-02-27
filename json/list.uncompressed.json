@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992504
+    "timestamp": 1708992521
   },
   "vtbs": [
     {
@@ -11925,6 +11925,23 @@
         "extra": [],
         "jp": "YuNi_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "0674ab4e-4d4d-52c2-803d-43bdf4685b33",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "590181974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Yue二狗",
+        "default": "cn"
       }
     },
     {
@@ -43862,6 +43879,23 @@
       "name": {
         "extra": [],
         "cn": "嗷呜aou酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4d5e531e-fa85-56d9-8f02-3e3cfde330bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1410493989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嗷呜小甜栗",
         "default": "cn"
       }
     },
