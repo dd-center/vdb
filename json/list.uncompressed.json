@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992778
+    "timestamp": 1708992848
   },
   "vtbs": [
     {
@@ -50681,6 +50681,23 @@
       "name": {
         "extra": [],
         "cn": "天音莉莉娅_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0f7a31d9-2423-5cb7-8f61-bf11af3c8023",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "157357455",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天饺Dumpling",
         "default": "cn"
       }
     },
@@ -140002,6 +140019,23 @@
       }
     },
     {
+      "uuid": "4424c399-8bcf-54fa-93e3-f3fb5e217486",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493133713148047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蠢萌淇淇",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6d145532-6eed-5351-992c-131d1ff63866",
       "type": "vtuber",
       "bot": false,
@@ -157437,6 +157471,26 @@
         "cn": "风霁月Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ce24069c-865d-59fc-a4a3-9bba85ed6bb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546572872747271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飒琳",
+        "en": "Celine",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "ccf670e2-816f-5389-b8dd-124fba8c9efa",
