@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1708992848
+    "timestamp": 1708992879
   },
   "vtbs": [
     {
@@ -53583,6 +53583,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "211a4cb1-ef00-567d-ae8d-b636bae430f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546600276232382",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬野瑠瑠歌",
+        "default": "cn"
+      }
     },
     {
       "uuid": "47a06333-fa56-5d99-b215-39e698dc1234",
