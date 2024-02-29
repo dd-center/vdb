@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709176262
+    "timestamp": 1709176618
   },
   "vtbs": [
     {
@@ -3853,6 +3853,25 @@
         "cn": "Haly蓝羽",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546602868312291",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Hanabi_live",
+        "en": "Hanabi_live",
+        "default": "cn"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15"
     },
     {
       "uuid": "ceba7713-16a8-5ff6-8ddd-a464d2993007",
@@ -31565,6 +31584,25 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "63023657-932f-5749-9e8d-c7929773abc8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546568147864207",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冥纪Meiki",
+        "default": "cn"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
+    },
+    {
       "uuid": "2982bcf1-4bf9-5e0f-a8b7-dd164a66da42",
       "type": "vtuber",
       "bot": false,
@@ -47194,6 +47232,25 @@
         "cn": "莉莉",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "353098d8-0e74-57c4-a700-d5cd35682f04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537108906019651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕雁Yukari",
+        "default": "cn"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "5ef8b8cd-cfeb-557e-9715-fb68ec50e2dd",
@@ -63048,7 +63105,9 @@
         ],
         "cn": "希月Kitzuki",
         "default": "cn"
-      }
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "c22e82ea-5c12-55fd-8798-45a598a6c75a",
@@ -70964,6 +71023,25 @@
         "cn": "敖小呜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "856825f2-06b2-5bf5-aa87-0d438effc72f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546388841368060",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "敖雾AOU",
+        "default": "cn"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "3e23290d-a7b1-534c-bec0-25731df97e53",
@@ -91525,7 +91603,9 @@
         "extra": [],
         "cn": "橘莱米",
         "default": "cn"
-      }
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "c6b5367a-e115-5485-82e6-4073c07fa52a",
@@ -94148,7 +94228,9 @@
         "extra": [],
         "cn": "池乐还是有点饿",
         "default": "cn"
-      }
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "7621871a-3aa0-572a-9af1-1a4c6109ef4c",
