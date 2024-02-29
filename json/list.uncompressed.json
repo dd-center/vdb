@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171185
+    "timestamp": 1709171256
   },
   "vtbs": [
     {
@@ -24907,6 +24907,23 @@
       "name": {
         "extra": [],
         "cn": "五音不全的晚小辰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2bddb64d-f8c9-55d5-94ff-c0ea5cd9f545",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1904835566",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五音不全的晚辰",
         "default": "cn"
       }
     },
