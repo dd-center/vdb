@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171319
+    "timestamp": 1709171380
   },
   "vtbs": [
     {
@@ -55100,6 +55100,23 @@
       "name": {
         "extra": [],
         "cn": "安心院菠萝子_channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4526e160-ddfd-55ec-8e85-1de639c7c91b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546595180153424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安思妮妮",
         "default": "cn"
       }
     },
