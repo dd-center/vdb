@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171404
+    "timestamp": 1709171452
   },
   "vtbs": [
     {
@@ -12046,6 +12046,23 @@
       "name": {
         "extra": [],
         "cn": "_かがみ_镜 ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "533a8d16-289c-5c26-83fb-6b004c597e69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546564670786376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "_南希sama",
         "default": "cn"
       }
     },
@@ -60543,6 +60560,23 @@
       "name": {
         "extra": [],
         "cn": "尼奥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1b7168c6-d44a-5510-be14-06b930cb5b97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546561457949008",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尼尼Minnie",
         "default": "cn"
       }
     },
