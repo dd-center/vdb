@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171063
+    "timestamp": 1709171185
   },
   "vtbs": [
     {
@@ -77205,6 +77205,23 @@
       "name": {
         "extra": [],
         "cn": "是姬拉Kira",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f5f4064c-089c-5248-a9ba-a5d08de843ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "52423847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是小音哦-",
         "default": "cn"
       }
     },
