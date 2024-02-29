@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171024
+    "timestamp": 1709171063
   },
   "vtbs": [
     {
@@ -82631,6 +82631,23 @@
       "name": {
         "extra": [],
         "cn": "杏冰乐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a04d3c9-cbd1-579b-b074-a7d5f1c1e63a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "404177819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "杏夏Mana",
         "default": "cn"
       }
     },
