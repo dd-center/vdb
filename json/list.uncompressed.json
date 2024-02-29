@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709171256
+    "timestamp": 1709171319
   },
   "vtbs": [
     {
@@ -66837,6 +66837,24 @@
       }
     },
     {
+      "uuid": "eb56da52-5b85-50a5-9838-8173b1456601",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493283244279996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "德沃莉",
+        "en": "Devoly",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "49fa578b-49b9-5e35-81f2-64a70812351c",
       "type": "vtuber",
       "bot": false,
@@ -95984,6 +96002,23 @@
       "name": {
         "extra": [],
         "cn": "波子ラムネ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c33d097-445d-51ca-89c1-fc280f38b719",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "437184734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "波比金鱼",
         "default": "cn"
       }
     },
