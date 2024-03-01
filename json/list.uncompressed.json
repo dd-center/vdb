@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709267309
+    "timestamp": 1709267497
   },
   "vtbs": [
     {
@@ -39376,6 +39376,24 @@
       "name": {
         "extra": [],
         "cn": "可烙_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "422bda37-7861-55f0-b19b-8937e93ebae6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "34552854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可燃冰块",
+        "en": "Moe",
         "default": "cn"
       }
     },
