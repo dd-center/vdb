@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709176618
+    "timestamp": 1709261953
   },
   "vtbs": [
     {
@@ -113816,6 +113816,23 @@
       "name": {
         "extra": [],
         "cn": "皌桃momo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9e3937d-70b6-56f1-ad2c-fd5c487eedbd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6285309",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皎交_tsuki",
         "default": "cn"
       }
     },
