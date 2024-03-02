@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709354146
+    "timestamp": 1709383024
   },
   "vtbs": [
     {
@@ -13988,6 +13988,33 @@
       }
     },
     {
+      "uuid": "39fb503e-87bd-5ec9-b811-b2da161657ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "102668397",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCiBXVFuA-IPRrmb9r5cTT2w",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "relolo66",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ReLoLo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4497c9bc-0b31-5122-9180-6dd60eaf157d",
       "type": "vtuber",
       "bot": false,
@@ -14064,33 +14091,6 @@
       "name": {
         "extra": [],
         "cn": "ruka藏在深夜中",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "b45e6435-1fd7-55d0-8113-0c402f6fbb01",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "102668397",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "UCiBXVFuA-IPRrmb9r5cTT2w",
-          "type": "official",
-          "platform": "youtube"
-        },
-        {
-          "id": "L0L0_0707",
-          "type": "official",
-          "platform": "twitter"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "rurudo",
         "default": "cn"
       }
     },
