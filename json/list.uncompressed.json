@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709383024
+    "timestamp": 1709383518
   },
   "vtbs": [
     {
@@ -16630,6 +16630,44 @@
       "name": {
         "extra": [],
         "jp": "りんうらん霖雨蘭",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "5b4dba56-b157-5527-89b2-f17462a72321",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546393616582807",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "rurudo_",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "rurudo_LION",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "25760573",
+          "type": "official",
+          "platform": "pixiv"
+        },
+        {
+          "id": "https://rurudot.net/",
+          "type": "official",
+          "platform": "web"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "るるどらいおん",
+        "cn": "rurudo",
         "default": "jp"
       }
     },
