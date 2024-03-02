@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709286395
+    "timestamp": 1709354146
   },
   "vtbs": [
     {
@@ -107697,6 +107697,23 @@
       "name": {
         "extra": [],
         "cn": "琉夏Lucia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1ddd3da6-41bd-5d53-9072-af664aef88ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "474566624",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琉夏来了",
         "default": "cn"
       }
     },
