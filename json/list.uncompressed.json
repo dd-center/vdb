@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709383518
+    "timestamp": 1709438923
   },
   "vtbs": [
     {
@@ -24322,6 +24322,25 @@
       }
     },
     {
+      "uuid": "920ed989-77dd-5bdc-aa14-c5626dabded0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537105571547289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云心云心玦",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
+    },
+    {
       "uuid": "a435417c-fbd8-5e84-9a0b-b11062d60435",
       "type": "vtuber",
       "bot": false,
@@ -26776,6 +26795,25 @@
         "cn": "伊月海因Ituki",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9fabf7b3-c28f-57e6-8aa3-68318c33d16b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546598556567650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊枝居0_o",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "6e311269-e104-5ce9-b2ae-9c132f053973",
@@ -50006,6 +50044,24 @@
         "cn": "天曰小雏Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7126d95d-9311-5691-a2de-88d978486297",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461577879587766",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天枢project",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297"
     },
     {
       "uuid": "fff9a311-9e83-5f40-bd34-67d7621271ea",
@@ -120273,7 +120329,9 @@
         "extra": [],
         "cn": "第五灌灌",
         "default": "cn"
-      }
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "e76ee5c1-0da1-5fa6-ac4e-061297e8ab0f",
@@ -123702,6 +123760,25 @@
       "group_name": "Providence"
     },
     {
+      "uuid": "6ed0a265-8c8a-5f51-afd6-ce08d86f1e9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "689402166",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纱娜Hanaki",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
+    },
+    {
       "uuid": "202b1a87-d8dc-5fec-a52d-a840ca543a35",
       "type": "vtuber",
       "bot": false,
@@ -124787,7 +124864,9 @@
         "extra": [],
         "cn": "绮奈Carina",
         "default": "cn"
-      }
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "77fb7f8f-13d1-50f2-832d-7e6af6b9c135",
@@ -132038,7 +132117,9 @@
         "extra": [],
         "cn": "花雾nyako",
         "default": "cn"
-      }
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "055beafa-bcf6-5945-8bac-eb2c59186195",
@@ -143964,7 +144045,9 @@
         "extra": [],
         "cn": "赤盏蛮蛮",
         "default": "cn"
-      }
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "18794a80-5385-579e-8311-38baf1d6d1a0",
