@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709604057
+    "timestamp": 1709604194
   },
   "vtbs": [
     {
@@ -59613,6 +59613,23 @@
         "extra": [],
         "cn": "小野寺杏砂",
         "jp": "小野寺杏砂",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "55c36512-bc07-5a07-8bdc-5ff623d8440e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546607427521505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小野小町-",
         "default": "cn"
       }
     },
