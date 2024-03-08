@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1709815470
+    "timestamp": 1709882679
   },
   "vtbs": [
     {
@@ -148165,6 +148165,23 @@
       }
     },
     {
+      "uuid": "a0357d3f-6e49-5d6e-b177-2368cab98cdd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "29652077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "金子息",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c8239140-5945-53bc-860e-b02f62c29243",
       "type": "vtuber",
       "bot": false,
@@ -161478,6 +161495,23 @@
       "name": {
         "extra": [],
         "cn": "鹅er",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e0b80a0e-c581-5530-b23d-22a5bc04e568",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1910268505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹅糕菌_Edible",
         "default": "cn"
       }
     },
