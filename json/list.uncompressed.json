@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710416131
+    "timestamp": 1710416195
   },
   "vtbs": [
     {
@@ -53345,6 +53345,23 @@
       "name": {
         "extra": [],
         "cn": "姉崎雪美Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ebaa075-094a-57f7-8352-80bc2364e8b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546378533865483",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姑苏阿苑",
         "default": "cn"
       }
     },
