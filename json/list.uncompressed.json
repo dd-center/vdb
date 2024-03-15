@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710466275
+    "timestamp": 1710469153
   },
   "vtbs": [
     {
@@ -36986,6 +36986,24 @@
       "name": {
         "extra": [],
         "cn": "卡欧莉_KaOri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "852d2dec-6d28-5828-ae9a-ac3e599201af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1358142752",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡欧诺",
+        "en": "Caono",
         "default": "cn"
       }
     },
@@ -148581,6 +148599,23 @@
       "name": {
         "extra": [],
         "cn": "阿曼达Dice",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3ffd8532-b50a-546d-b1cf-c23d8f3c004b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3206606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿月今天也很聪明",
         "default": "cn"
       }
     },
