@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710469242
+    "timestamp": 1710469331
   },
   "vtbs": [
     {
@@ -37433,6 +37433,24 @@
       "name": {
         "extra": [],
         "cn": "卿月Agoni",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9d943513-ec2f-5e75-9316-680c4d9ae57f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546393562057502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卿滟",
+        "en": "Qyan",
         "default": "cn"
       }
     },
@@ -90291,6 +90309,23 @@
       }
     },
     {
+      "uuid": "9363be11-0e77-5e4f-ba23-1600fb5d97fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546594171423189",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙紫-Chloe",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f734b05b-a952-5d16-9397-f2f262c5131f",
       "type": "vtuber",
       "bot": false,
@@ -117998,6 +118033,23 @@
       },
       "group": "faf257d3-81df-564d-b5ae-2d9fd694675c",
       "group_name": "Vi-D"
+    },
+    {
+      "uuid": "9fd72004-6add-5432-bd83-82f4f151f511",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "327618703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "竹语犟",
+        "default": "cn"
+      }
     },
     {
       "uuid": "16f8a857-3172-5fa0-bf58-e26d5674c868",
