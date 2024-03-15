@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710469331
+    "timestamp": 1710469363
   },
   "vtbs": [
     {
@@ -57886,6 +57886,23 @@
       "name": {
         "extra": [],
         "cn": "小结巴",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c93f276-a485-56ab-a5f5-db1c218cd1e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546378846341773",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小绿niko",
         "default": "cn"
       }
     },
@@ -130460,6 +130477,23 @@
       "name": {
         "extra": [],
         "cn": "苍苍苍Aoi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a6b37d3-33f1-51bd-a2e2-56d4311bac9a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546377688713850",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏九辰_sjc",
         "default": "cn"
       }
     },
