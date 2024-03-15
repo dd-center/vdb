@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710469153
+    "timestamp": 1710469180
   },
   "vtbs": [
     {
@@ -44378,23 +44378,6 @@
       "name": {
         "extra": [],
         "cn": "塔罗狐狐-华子甜宠",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "dc0ef00d-6d20-556d-a4c1-8d9397ed2190",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "493083336",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "塔菲毛球_Toffy",
         "default": "cn"
       }
     },
@@ -133932,6 +133915,24 @@
       "name": {
         "extra": [],
         "cn": "菲特斯_saki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b9b7ed4-e1ca-55b6-9398-eeddb235caa2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493083336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲瑞尔",
+        "en": "Feyrell",
         "default": "cn"
       }
     },
