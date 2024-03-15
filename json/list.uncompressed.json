@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710469218
+    "timestamp": 1710469242
   },
   "vtbs": [
     {
@@ -61509,6 +61509,24 @@
       "name": {
         "extra": [],
         "cn": "布谷小羊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2d9c7fb-acfa-5943-85f6-b0d28207774a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "675163827",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布里奥斯",
+        "en": "brios",
         "default": "cn"
       }
     },
