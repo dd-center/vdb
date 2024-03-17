@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1710469363
+    "timestamp": 1710662608
   },
   "vtbs": [
     {
@@ -62193,6 +62193,24 @@
       }
     },
     {
+      "uuid": "1f02de3a-af93-525b-8ca8-c33f4ab764fe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7128701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希玖",
+        "en": "Sigil",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d8978804-b15c-5173-b5c6-fa287fa486de",
       "type": "vtuber",
       "bot": false,
@@ -92668,6 +92686,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "5888589d-557a-5b43-9b60-0701d8d94e86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546568678443497",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江晚烟",
+        "default": "cn"
+      }
     },
     {
       "uuid": "45f715dd-7dd5-5770-9212-f7544e30cfee",
@@ -126202,6 +126237,24 @@
       "name": {
         "extra": [],
         "cn": "艾克豪Alcohol",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98f89cff-39ae-5903-802a-ccc37d464e1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546614301985688",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾兮",
+        "en": "icey",
         "default": "cn"
       }
     },
