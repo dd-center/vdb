@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711507338
+    "timestamp": 1711507444
   },
   "vtbs": [
     {
@@ -117556,6 +117556,23 @@
       "name": {
         "extra": [],
         "cn": "空空酱koko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e19e0516-0b70-5c63-a0a6-bf3238a3fcd3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1651400",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空色两仪",
         "default": "cn"
       }
     },
