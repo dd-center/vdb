@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711557118
+    "timestamp": 1711892907
   },
   "vtbs": [
     {
@@ -28451,6 +28451,23 @@
       "name": {
         "extra": [],
         "cn": "倾卿喵Mio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6564b57a-ebc5-5280-a7f0-4029883f7a3e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546573233457523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "倾妤笙",
         "default": "cn"
       }
     },
@@ -83526,6 +83543,24 @@
       },
       "group": "a9c452b8-faba-53d1-92ad-83337135e2c3",
       "group_name": "VOMNIS"
+    },
+    {
+      "uuid": "25fbd476-4196-54f4-90ee-9f5fb8e257c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546632725465110",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柔伊尔",
+        "en": "Rouyier",
+        "default": "cn"
+      }
     },
     {
       "uuid": "73b180c3-faa1-57c7-8aa4-115bf23728a9",
