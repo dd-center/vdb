@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711892907
+    "timestamp": 1711892967
   },
   "vtbs": [
     {
@@ -95348,6 +95348,23 @@
       }
     },
     {
+      "uuid": "5c37a4c2-8300-5c1f-b8b3-838067816e59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2006075759",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洒洒猫",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4a55c82e-d920-5547-b3ea-1c5192627340",
       "type": "vtuber",
       "bot": false,
@@ -133588,6 +133605,24 @@
       },
       "group": "9fbdaca0-7e23-551b-83ce-22c60b226c51",
       "group_name": "P.K.S"
+    },
+    {
+      "uuid": "4be11303-a0b7-50b2-add7-d71b6df0bf26",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546626599684797",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莜娜",
+        "en": "Yuna",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6a71ade0-09ae-5adf-94d9-c3f0c19be266",
