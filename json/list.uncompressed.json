@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711892967
+    "timestamp": 1711892983
   },
   "vtbs": [
     {
@@ -66568,6 +66568,26 @@
         "cn": "忆之希喵Nozomi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b0e696bb-7084-5135-809b-b46ec4c62a05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546572413470996",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忒希",
+        "en": "Tethys",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "4adea619-eb29-57c4-82ef-9db6be3a9d97",
