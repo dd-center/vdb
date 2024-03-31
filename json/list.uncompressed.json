@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711893133
+    "timestamp": 1711893935
   },
   "vtbs": [
     {
@@ -49570,6 +49570,23 @@
       "name": {
         "extra": [],
         "cn": "天辻悠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c46ca8f9-3c34-5126-8ec8-74a81a36f493",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "703405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天选姬",
         "default": "cn"
       }
     },
