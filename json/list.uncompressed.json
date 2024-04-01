@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711893935
+    "timestamp": 1711940367
   },
   "vtbs": [
     {
@@ -80933,6 +80933,23 @@
       "name": {
         "extra": [],
         "cn": "未未昭",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "244c307d-9e84-59b5-bb44-6f6d7ff26b70",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356927384280",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未来战姬zero",
         "default": "cn"
       }
     },
