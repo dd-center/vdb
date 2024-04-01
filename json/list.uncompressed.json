@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711940367
+    "timestamp": 1711977799
   },
   "vtbs": [
     {
@@ -152525,6 +152525,23 @@
         "extra": [],
         "cn": "雫るる",
         "en": "lulu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "32edbeaf-d459-5762-bfe4-ad659d755f56",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "776844",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雲中狸",
         "default": "cn"
       }
     },
