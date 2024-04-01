@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1711977799
+    "timestamp": 1711977846
   },
   "vtbs": [
     {
@@ -94094,6 +94094,24 @@
       "name": {
         "extra": [],
         "cn": "沫乃Meroy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9eb6d6f6-c665-5701-9a25-bea5627e5070",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546618005555261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沫安娜",
+        "en": "Anna",
         "default": "cn"
       }
     },
