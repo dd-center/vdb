@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1712249282
+    "timestamp": 1712249315
   },
   "vtbs": [
     {
@@ -76590,6 +76590,23 @@
       "name": {
         "extra": [],
         "cn": "是挽月月哦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "652852d7-0bd9-5e29-bf33-8ddc9fa62896",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "67473235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是挽风阿",
         "default": "cn"
       }
     },
