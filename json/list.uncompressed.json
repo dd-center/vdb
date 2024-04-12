@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1712249315
+    "timestamp": 1712937883
   },
   "vtbs": [
     {
@@ -104619,6 +104619,23 @@
       "name": {
         "extra": [],
         "cn": "猫羽_Nekoha",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d31f85bd-f900-58ee-ae46-2a71138dfd9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1318310118",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫羽丘比",
         "default": "cn"
       }
     },
