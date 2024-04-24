@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938126
+    "timestamp": 1713938197
   },
   "vtbs": [
     {
@@ -59754,6 +59754,23 @@
       "name": {
         "extra": [],
         "cn": "尧安Euan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "667445c3-4ae6-5193-83be-44f7d8784971",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546629688789047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "就叫郭保佑",
         "default": "cn"
       }
     },
