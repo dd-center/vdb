@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938262
+    "timestamp": 1713938289
   },
   "vtbs": [
     {
@@ -64173,6 +64173,23 @@
       "name": {
         "extra": [],
         "cn": "库娜_Laronia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04ddccda-8579-5aea-860a-083b1c754d8c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361675336617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "库宝",
         "default": "cn"
       }
     },
