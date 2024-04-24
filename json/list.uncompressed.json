@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938760
+    "timestamp": 1713938801
   },
   "vtbs": [
     {
@@ -119260,6 +119260,23 @@
       "name": {
         "extra": [],
         "cn": "筠子多多胡",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e8fc4ce-d10d-59b1-a1f4-d13e231280e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477045775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "筱玖歌YY",
         "default": "cn"
       }
     },
