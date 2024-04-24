@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938801
+    "timestamp": 1713938838
   },
   "vtbs": [
     {
@@ -92822,6 +92822,23 @@
       "name": {
         "extra": [],
         "cn": "汀夏yummy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1964a7b7-1e31-5bb8-9c58-7e47545b25c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493138169596854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汁汁超会唱",
         "default": "cn"
       }
     },
