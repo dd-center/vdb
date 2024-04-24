@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939171
+    "timestamp": 1713939305
   },
   "vtbs": [
     {
@@ -56923,6 +56923,23 @@
       "name": {
         "extra": [],
         "cn": "小小萱Vivi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "01d95cbc-c007-5702-bc43-0a20a531c41f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546569649425106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小小酥jewel",
         "default": "cn"
       }
     },
