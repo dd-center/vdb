@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939412
+    "timestamp": 1713939487
   },
   "vtbs": [
     {
@@ -100750,6 +100750,23 @@
       }
     },
     {
+      "uuid": "de161cda-0d74-5194-ac93-9cf109b814fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546567569050157",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灶台门豆子",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "be7a9b2a-0170-5757-8861-2bf911c63ad9",
       "type": "vtuber",
       "bot": false,
@@ -100916,6 +100933,23 @@
       "name": {
         "extra": [],
         "cn": "炸鱼FeFeri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e3cc5743-079c-5919-8203-c82bbf68b469",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546600066517691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "点盏Arc",
         "default": "cn"
       }
     },
