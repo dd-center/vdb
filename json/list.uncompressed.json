@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939358
+    "timestamp": 1713939412
   },
   "vtbs": [
     {
@@ -96057,6 +96057,25 @@
         "cn": "洛少爷",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "16e0299f-6f52-558a-978b-99cfe9471358",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546594771208452",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛希YARL",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "43031345-e79d-51af-80be-894bb9eabb5e",
