@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938493
+    "timestamp": 1713938760
   },
   "vtbs": [
     {
@@ -29849,7 +29849,9 @@
         "extra": [],
         "cn": "兔眠可可",
         "default": "cn"
-      }
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "d34c7df8-5d14-50dc-b46a-7e76f6e73154",
@@ -60910,6 +60912,23 @@
         "extra": [],
         "cn": "岑岑酱_LemonCen",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ce66d504-4937-5235-ae6a-fad051fb67b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1674281293",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "岗织Vega",
+        "default": "CN"
       }
     },
     {
