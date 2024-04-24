@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938858
+    "timestamp": 1713938922
   },
   "vtbs": [
     {
@@ -9624,6 +9624,23 @@
         "extra": [],
         "cn": "Sky_despair米宇君",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bac47f13-6f52-5ae4-99b2-f5d6121c9bd4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17832530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "SmokeSakuya",
+        "default": "en"
       }
     },
     {
@@ -41139,6 +41156,25 @@
       }
     },
     {
+      "uuid": "ae455c26-3ea9-5b14-894e-7fcf9f1bde59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5333581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咪菈Mira",
+        "default": "cn"
+      },
+      "group": "e91a4eb4-14fc-500f-a8f5-f8650d62dbd2",
+      "group_name": "尼比陆"
+    },
+    {
       "uuid": "f6e17c2d-59ed-501b-8496-15fc25ba9d43",
       "type": "vtuber",
       "bot": false,
@@ -53602,6 +53638,23 @@
       "name": {
         "extra": [],
         "cn": "孤独Kodoku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "075d1758-0777-5097-8736-3abe8297b583",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546388510017912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宁一",
         "default": "cn"
       }
     },
