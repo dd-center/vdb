@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939305
+    "timestamp": 1713939327
   },
   "vtbs": [
     {
@@ -146276,6 +146276,23 @@
       },
       "group": "0f902cbd-31df-53cd-8f5e-a61e02097a25",
       "group_name": "Antinomy13"
+    },
+    {
+      "uuid": "1f7f850f-8ea9-5523-a881-f0e4116f6c1e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546636565351393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "野心与伱",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d03884fd-4ef5-5cdb-8ff5-4161a46a03c2",
