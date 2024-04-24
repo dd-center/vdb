@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938289
+    "timestamp": 1713938374
   },
   "vtbs": [
     {
@@ -59758,6 +59758,23 @@
       }
     },
     {
+      "uuid": "02ad33fb-1e3d-5b3b-b556-af75ddad079a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "645966405",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "就叫一只猫qwq",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "667445c3-4ae6-5193-83be-44f7d8784971",
       "type": "vtuber",
       "bot": false,
@@ -77838,6 +77855,23 @@
       },
       "group": "ad652370-a736-537f-aa70-6ee528138364",
       "group_name": "chucolala"
+    },
+    {
+      "uuid": "340a63f2-cc6e-5618-bac0-b89d9ac27cbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546628944300607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暗黑猫娘-葬爱家族",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0de15ea8-2fe6-519d-95bf-25838343b8f5",
