@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713938197
+    "timestamp": 1713938262
   },
   "vtbs": [
     {
@@ -143109,6 +143109,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "4c554c93-925b-5bad-b355-80fe72b35363",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537122445232361",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "路克lOok",
+        "default": "cn"
+      }
     },
     {
       "uuid": "64ebd6ed-0b45-55d8-bbbf-ec0b506886f5",
