@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939487
+    "timestamp": 1713939498
   },
   "vtbs": [
     {
@@ -56700,6 +56700,23 @@
       "name": {
         "extra": [],
         "cn": "小夏夏儿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dbf7c761-21f3-548b-a0d4-27adb04385b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "41163818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小夏夏吖丶",
         "default": "cn"
       }
     },
@@ -149492,6 +149509,23 @@
       "name": {
         "extra": [],
         "cn": "阿嗔Aurora",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b0cf78d5-8c3c-5345-a616-4dba5850ad4f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1847549601",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿塔塔Gioro",
         "default": "cn"
       }
     },
