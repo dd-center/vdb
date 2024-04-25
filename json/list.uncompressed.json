@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1713939498
+    "timestamp": 1714023195
   },
   "vtbs": [
     {
@@ -56585,6 +56585,25 @@
       }
     },
     {
+      "uuid": "e4a3c5f7-052a-572a-8b24-57be8c59ff0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546613580564908",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小咪吃肉",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
+    },
+    {
       "uuid": "ae78edd6-1a4c-5e17-ba17-7513db8bc7b7",
       "type": "vtuber",
       "bot": false,
@@ -61002,23 +61021,6 @@
       }
     },
     {
-      "uuid": "ce66d504-4937-5235-ae6a-fad051fb67b8",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1674281293",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "CN": "岗织Vega",
-        "default": "CN"
-      }
-    },
-    {
       "uuid": "33e7d2fa-ef9e-5fe9-8441-57a4275919c2",
       "type": "vtuber",
       "bot": false,
@@ -61049,6 +61051,23 @@
       "name": {
         "extra": [],
         "cn": "岚璐nia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de9b9e30-9b8c-5383-9577-d52161c2bdb6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1674281293",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岚织Vega",
         "default": "cn"
       }
     },
@@ -115387,7 +115406,7 @@
       }
     },
     {
-      "uuid": "432fc6fb-279b-5758-8317-66d332991dd4",
+      "uuid": "58cea724-9e3b-5b22-ade1-0c953c298ac2",
       "type": "vtuber",
       "bot": false,
       "accounts": [
@@ -115399,7 +115418,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "祂榙游吉kiTa",
+        "cn": "祂塔游吉KiTa",
         "default": "cn"
       },
       "group": "5f2eac9f-dc17-577f-a22a-19003e81fcdf",
@@ -155909,6 +155928,25 @@
       },
       "group": "6506d485-2cbc-552f-9337-6d4fc2d9b7fd",
       "group_name": "星巡学园"
+    },
+    {
+      "uuid": "fbb7e877-19c0-5c0b-9862-8a7b13a0dd9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "180815329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "頁开心",
+        "default": "cn"
+      },
+      "group": "5f2eac9f-dc17-577f-a22a-19003e81fcdf",
+      "group_name": "问尘仙会"
     },
     {
       "uuid": "1b8ee843-4351-51a7-9bcd-ace61dde060b",
