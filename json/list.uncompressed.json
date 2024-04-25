@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714033961
+    "timestamp": 1714034077
   },
   "vtbs": [
     {
@@ -67729,6 +67729,23 @@
       },
       "group": "33d285f2-b9a8-595d-a282-4a341ab9d020",
       "group_name": "Vnicorn"
+    },
+    {
+      "uuid": "03c3827f-a79d-58c9-b253-7b0d1901de36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "415839306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恶月满满-鱿鱼",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0656b48c-ce4f-5298-8af4-e66860eb17e8",
