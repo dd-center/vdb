@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714023794
+    "timestamp": 1714033961
   },
   "vtbs": [
     {
@@ -28614,6 +28614,24 @@
       }
     },
     {
+      "uuid": "feb6443e-fae4-5ad9-bfc5-f4594a57a49f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1132321309",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "傅玉",
+        "en": "Jade",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "206c938e-5510-56db-bb6d-fd8fca68a7a2",
       "type": "vtuber",
       "bot": false,
@@ -30604,6 +30622,23 @@
       "name": {
         "extra": [],
         "cn": "六璎six",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c18d95c-286b-5b77-8db2-fc070029bddd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546381516015974",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "六神花禄",
         "default": "cn"
       }
     },
@@ -73042,6 +73077,24 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "e77735af-ff34-56e3-aab0-ea8bab587e87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493135948712823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星光",
+        "en": "Kirarin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2221b583-045b-560e-a562-103c28eb381c",
