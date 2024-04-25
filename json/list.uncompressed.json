@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714023195
+    "timestamp": 1714023645
   },
   "vtbs": [
     {
@@ -100619,6 +100619,23 @@
       }
     },
     {
+      "uuid": "ca4454ae-55ef-5862-86e4-fa680600ec36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546593798129891",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灰羽零",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1621a4bb-df39-5a95-8119-ab0755400e52",
       "type": "vtuber",
       "bot": false,
@@ -131276,6 +131293,23 @@
       "name": {
         "extra": [],
         "cn": "芷小菡",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f1c4454-29e6-5fdd-920f-219a71486455",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546611269503460",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芷羽_sola",
         "default": "cn"
       }
     },
