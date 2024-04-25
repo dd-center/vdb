@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714034077
+    "timestamp": 1714034139
   },
   "vtbs": [
     {
@@ -19473,6 +19473,24 @@
       "name": {
         "extra": [],
         "cn": "一水还宗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f5c173b-e36d-5ed2-b996-4e09ca065a2b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1049232979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一洛",
+        "en": "Ero",
         "default": "cn"
       }
     },
