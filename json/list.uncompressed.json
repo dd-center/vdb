@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714034139
+    "timestamp": 1714280390
   },
   "vtbs": [
     {
@@ -3153,6 +3153,25 @@
         "extra": [],
         "en": "Elira Pendora",
         "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
+    },
+    {
+      "uuid": "45331fb3-f9d3-597f-8e43-1a3240cbf591",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1958912868",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "Elira_Official",
+        "default": "EN"
       },
       "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
       "group_name": "NIJISANJI EN"
