@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715061610
+    "timestamp": 1715061710
   },
   "vtbs": [
     {
@@ -50952,6 +50952,23 @@
       "name": {
         "extra": [],
         "cn": "奈菲尔__TARI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1e20ac58-a167-50b9-80a6-583fb14f1bc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1878923691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈落米拉米",
         "default": "cn"
       }
     },
