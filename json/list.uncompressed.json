@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715061931
+    "timestamp": 1715068472
   },
   "vtbs": [
     {
@@ -78185,6 +78185,23 @@
       "name": {
         "extra": [],
         "cn": "暖暖的冰",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f73529a4-bbfd-5212-a6f8-74b1cb41a4b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2011749793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暖树树呀",
         "default": "cn"
       }
     },
