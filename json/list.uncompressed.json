@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1714717696
+    "timestamp": 1715061610
   },
   "vtbs": [
     {
@@ -59208,6 +59208,23 @@
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c",
       "group_name": "三垣四象project"
+    },
+    {
+      "uuid": "833ffae0-75d9-5b39-a39d-f6671b13f0b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1113108521",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小音在发呆",
+        "default": "cn"
+      }
     },
     {
       "uuid": "64f9dd66-2bf0-5b02-83be-e39f4da71a6b",
