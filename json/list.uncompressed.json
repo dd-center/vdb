@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715061710
+    "timestamp": 1715061766
   },
   "vtbs": [
     {
@@ -31291,6 +31291,23 @@
       "name": {
         "extra": [],
         "cn": "冬日喵Neco",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ebb6bb6-8e78-5312-8cf8-b36a1d89d77f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546635013458217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬星铃Kira",
         "default": "cn"
       }
     },
@@ -150129,6 +150146,24 @@
       "name": {
         "extra": [],
         "cn": "阿德罗伊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d2036aab-a66e-5865-951d-e2b74c4ef40f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546614899673364",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿德里安",
+        "en": "Adrian",
         "default": "cn"
       }
     },
