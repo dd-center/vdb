@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715061854
+    "timestamp": 1715061931
   },
   "vtbs": [
     {
@@ -28542,6 +28542,23 @@
       "name": {
         "extra": [],
         "cn": "倦糕糕",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f0ee278c-c625-5aa3-a9e4-22d8ca3bca60",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546636613585704",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "倪希雅Nyxia",
         "default": "cn"
       }
     },
