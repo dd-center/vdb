@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715183911
+    "timestamp": 1715190686
   },
   "vtbs": [
     {
@@ -55329,6 +55329,23 @@
       "name": {
         "extra": [],
         "cn": "宋卷卷romo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af3deb12-e236-532d-9149-944e11b5df84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1946727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "完一",
         "default": "cn"
       }
     },
