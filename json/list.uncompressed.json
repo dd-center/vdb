@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715144174
+    "timestamp": 1715183871
   },
   "vtbs": [
     {
@@ -6602,6 +6602,44 @@
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492"
     },
     {
+      "uuid": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546603258382382",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NOA_Talent",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "NOATalent",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "noatalent",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "https://www.noatalent.com/",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "NOA Talent",
+        "default": "en"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689"
+    },
+    {
       "uuid": "1cbf2cd9-3576-5d78-ad0b-0d0cb176c917",
       "type": "vtuber",
       "bot": false,
@@ -7133,6 +7171,36 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "996824d9-fa40-5162-9479-b9733dfe69fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546636984781262",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "NolieNoa",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "NolieNOA",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nolie乃莉",
+        "en": "Nolie",
+        "default": "cn"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "group_name": "NOA Talent"
     },
     {
       "uuid": "5ca43bb4-d060-578e-a040-2d924bab8fb1",
@@ -8583,6 +8651,46 @@
         "en": "Reimu的地灵殿",
         "default": "en"
       }
+    },
+    {
+      "uuid": "e9039f82-1fcb-5841-8371-a2f51ea6608d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546637985122315",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "itsreibubbles",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "itsreibubbles",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "reibubs",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "itsreibubbles",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Rei澪",
+        "en": "Rei Bubbles",
+        "default": "cn"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "group_name": "NOA Talent"
     },
     {
       "uuid": "d0cee4f8-3b93-5fc5-853e-9a7cc6b1c327",
@@ -13683,23 +13791,6 @@
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
       "group_name": "远星社FarStar"
-    },
-    {
-      "uuid": "489aed28-7cb7-5d38-90ae-4e400bdbe54f",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1680099254",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "en": "noro_official",
-        "default": "en"
-      }
     },
     {
       "uuid": "0342a9e1-acc2-5895-b840-3bcd612d9899",
@@ -48202,6 +48293,46 @@
       }
     },
     {
+      "uuid": "9e5a9eff-3172-519c-81aa-98f19a3b1a0e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546607964392305",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "cerberuskerby",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "cerberuskerby",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "cerberuskerby",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "cerberuskerby",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大大的可比Kerby",
+        "en": "Cerberus Kerby",
+        "default": "cn"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "group_name": "NOA Talent"
+    },
+    {
       "uuid": "fca10d09-ff4f-580f-b0a4-d9aeb22a5742",
       "type": "vtuber",
       "bot": false,
@@ -62105,6 +62236,46 @@
         "cn": "布布Bobbie",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "16e3525b-2f92-5b20-92e2-258fe601dc7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "687247249",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "blancheprimrose",
+          "type": "official",
+          "platform": "twitch"
+        },
+        {
+          "id": "BlanchePrimrose",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "blancheprimrose",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "blancheprimrose",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "布朗什初花_Blanche",
+        "en": "Blanche Primrose",
+        "default": "cn"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "group_name": "NOA Talent"
     },
     {
       "uuid": "94d939ee-b4ea-5da7-9835-e1a402fe6282",
@@ -141847,6 +142018,36 @@
         "cn": "诺梨Nori",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8fe04f7e-c4eb-59f7-a23a-55dc72da98c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1680099254",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "nor02d",
+          "type": "official",
+          "platform": "tiktok"
+        },
+        {
+          "id": "noro2d",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诺洛Noro",
+        "en": "Noro Arashi",
+        "default": "cn"
+      },
+      "group": "20a14bd8-50b1-5613-96c9-191eef51b689",
+      "group_name": "NOA Talent"
     },
     {
       "uuid": "5229e3e2-b3b3-5037-834f-f7c43739b401",
