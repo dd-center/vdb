@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715068472
+    "timestamp": 1715144007
   },
   "vtbs": [
     {
@@ -58496,6 +58496,23 @@
       "name": {
         "extra": [],
         "cn": "小羊滚滚Psyche",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "00c683d4-48c0-5900-a639-4bddf47e374d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546559138499347",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小羽HaneDa",
         "default": "cn"
       }
     },
