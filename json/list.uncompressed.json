@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715190686
+    "timestamp": 1715279421
   },
   "vtbs": [
     {
@@ -26879,6 +26879,23 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "394fb8eb-c407-5098-a607-aa4d088eb65c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546563123088035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊织澪喵neko",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0330e968-6324-5ce8-9a01-b32b23c7da69",
@@ -86483,6 +86500,23 @@
       },
       "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
       "group_name": "虚研学园"
+    },
+    {
+      "uuid": "8783e267-619e-5b76-809d-9339386d3f41",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546381077711760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃井梨梨",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2da30441-d7e8-5efb-9415-aa74cb21567c",
