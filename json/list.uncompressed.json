@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715589739
+    "timestamp": 1715589900
   },
   "vtbs": [
     {
@@ -12198,23 +12198,6 @@
       "name": {
         "extra": [],
         "cn": "_杜英",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "6fbf48f1-002b-5478-bb5e-478be793fc0a",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "649029391",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "_殊汶",
         "default": "cn"
       }
     },
@@ -92191,6 +92174,23 @@
       "name": {
         "extra": [],
         "cn": "死兆星",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cce6bb59-9d3b-53ec-8084-d24ede8db332",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "649029391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "殊汶在学习",
         "default": "cn"
       }
     },
