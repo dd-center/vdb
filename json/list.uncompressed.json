@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1716627798
+    "timestamp": 1716627824
   },
   "vtbs": [
     {
@@ -39094,6 +39094,23 @@
       "name": {
         "extra": [],
         "cn": "可爱的桐子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e423c847-ca72-5cf4-aed1-f6c960f568e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546566478531324",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可琳Lynn",
         "default": "cn"
       }
     },
@@ -86428,6 +86445,23 @@
       },
       "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
       "group_name": "雪域Provealms"
+    },
+    {
+      "uuid": "254529c4-0123-5042-b687-21d195bbbd69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546596075637434",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃七眠nemu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "7a1e2cad-7368-5939-ba66-5d0dc4e6691f",
@@ -156422,6 +156456,25 @@
       },
       "group": "11361482-308d-5313-8597-96d3d8d7170a",
       "group_name": "萌芽社"
+    },
+    {
+      "uuid": "622379eb-e316-5fd4-a2d1-c973253bbee3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546657123731964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "音炽-Lynx"
+        ],
+        "cn": "音炽",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0cb99008-7be9-51da-a3c0-a0babb6fe162",
