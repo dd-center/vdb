@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1715589900
+    "timestamp": 1716627798
   },
   "vtbs": [
     {
@@ -24330,6 +24330,23 @@
       },
       "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
       "group_name": "纸片人计划"
+    },
+    {
+      "uuid": "9310b991-eb26-5845-a1c2-a481734b502c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546664549747467",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云母沫雪",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4d6d85cb-15ef-5c05-92d8-47cf597a7579",
@@ -151977,6 +151994,23 @@
       "name": {
         "extra": [],
         "cn": "陌星之韵_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0fcc8a49-5e31-5e00-9c05-ea286b4008c5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546635799890710",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陌雪儿Yuki",
         "default": "cn"
       }
     },
