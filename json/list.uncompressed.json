@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1717094206
+    "timestamp": 1717120659
   },
   "vtbs": [
     {
@@ -38757,6 +38757,23 @@
       "name": {
         "extra": [],
         "cn": "可可",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "82e83d91-ac27-5444-aa47-90db85fb0ba4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546589840804264",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可可の小时候",
         "default": "cn"
       }
     },
@@ -104072,6 +104089,23 @@
         "extra": [],
         "jp": "狐狐音",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "fc5c0414-bb72-5776-90e9-019e1e1a3a3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546589354265101",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐狸の小时候",
+        "default": "cn"
       }
     },
     {
