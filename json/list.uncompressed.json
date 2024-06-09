@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1717930225
+    "timestamp": 1717930242
   },
   "vtbs": [
     {
@@ -64571,6 +64571,23 @@
       },
       "group": "fb2c595a-af26-52f1-b433-bf339409d3d4",
       "group_name": "无限殿_Infinite"
+    },
+    {
+      "uuid": "ed5a3078-f534-57fa-8a6d-2d884dbb59d2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "58269873",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幽妮_yunny",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4447b00f-4560-55bc-af4c-a8c50cefe704",
