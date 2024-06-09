@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1717421519
+    "timestamp": 1717930225
   },
   "vtbs": [
     {
@@ -138244,6 +138244,25 @@
       },
       "group": "0cd8f345-3228-52ae-bf9e-d2aae75d7846",
       "group_name": "光年神话"
+    },
+    {
+      "uuid": "8cc8b461-5567-5e13-b6fe-064e7d372d84",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1413377543",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾柯雅Reccoa",
+        "default": "cn"
+      },
+      "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
+      "group_name": "chaoslive"
     },
     {
       "uuid": "cd90b8fd-5b59-5525-9600-e253c77a58a0",
