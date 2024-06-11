@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1717930242
+    "timestamp": 1718111465
   },
   "vtbs": [
     {
@@ -39046,6 +39046,25 @@
       }
     },
     {
+      "uuid": "e5ae568b-0bc9-548f-9455-4dba1d75114a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546694188796294",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "可波・卡娜埃露",
+        "default": "JP"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
+    },
+    {
       "uuid": "c3e03ddf-4f59-5d08-8126-fb552bb14dce",
       "type": "vtuber",
       "bot": false,
@@ -56600,6 +56619,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "7ea34054-2d89-5378-a39e-12128295db29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "313524680",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小僵虱虱子",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f3d8bb2b-80aa-5228-89c8-41c151bc9bc4",
