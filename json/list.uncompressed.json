@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1718111465
+    "timestamp": 1718112047
   },
   "vtbs": [
     {
@@ -11018,6 +11018,25 @@
         "cn": "VenomXShi释",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c7759322-b679-5d69-8b36-4d84139e355f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1954549770",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Ver",
+        "default": "en"
+      },
+      "group": "745fdb2e-e624-5852-804f-7493f9b4f56b",
+      "group_name": "NIJISANJI EN"
     },
     {
       "uuid": "c411bc2d-ba8d-58d3-9b9c-4da6676006c2",
