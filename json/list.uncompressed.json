@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1718112047
+    "timestamp": 1718873327
   },
   "vtbs": [
     {
@@ -12691,6 +12691,23 @@
         "extra": [],
         "cn": "fa漠",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "fad97b7a-2832-542d-8c42-f5d290f899d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546699035315021",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "filian_菲莲",
+        "default": "en"
       }
     },
     {
