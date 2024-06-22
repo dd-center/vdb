@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1718873327
+    "timestamp": 1719021488
   },
   "vtbs": [
     {
@@ -72404,6 +72404,23 @@
       "name": {
         "extra": [],
         "cn": "早季ちゃん",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bff2561b-76d1-528c-816f-54626f2929c6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "400713763",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早川璃Kori",
         "default": "cn"
       }
     },
