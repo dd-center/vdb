@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1719021488
+    "timestamp": 1719224507
   },
   "vtbs": [
     {
@@ -7335,6 +7335,23 @@
       }
     },
     {
+      "uuid": "661e7af6-5e42-5f92-bb91-3bcc783c9261",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546700501224312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "Nyanners",
+        "default": "EN"
+      }
+    },
+    {
       "uuid": "f811b3c0-1638-5e37-bd04-7ddd3056c09d",
       "type": "vtuber",
       "bot": false,
@@ -9700,6 +9717,23 @@
         "extra": [],
         "cn": "Shu的香蕉种植园",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bc58171a-ebb8-5fcf-8407-5549e89c63db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546699041605816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Shylily",
+        "default": "en"
       }
     },
     {
