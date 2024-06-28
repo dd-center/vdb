@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1719248626
+    "timestamp": 1719557488
   },
   "vtbs": [
     {
@@ -29627,6 +29627,25 @@
         "cn": "克蕾儿丝菲尔-FAIL",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "15ba3695-fcea-58f4-bd59-64dd7de43a09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546711085550450",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "ID(印度尼西亚)": "克蕾西・奥莉",
+        "default": "ID(印度尼西亚)"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "e0d2e79d-dc7f-5ba5-bb50-f862581c4bc5",
@@ -128636,6 +128655,25 @@
         "cn": "艾拉Ayla",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e94b5021-779f-5194-b642-1f71fe50aba3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546711096035969",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "ID(印度尼西亚)": "艾拉妮・伊欧菲芙婷",
+        "default": "ID(印度尼西亚)"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "4ad692dc-79c8-58ce-b507-268783200113",
