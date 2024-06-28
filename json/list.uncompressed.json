@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1719557488
+    "timestamp": 1719560944
   },
   "vtbs": [
     {
@@ -30897,6 +30897,23 @@
       "name": {
         "extra": [],
         "cn": "公主来也",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6d9d5b2f-757a-5cf7-bffc-882a849132df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "501525081",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "六月老师_",
         "default": "cn"
       }
     },
@@ -93616,6 +93633,23 @@
       "name": {
         "extra": [],
         "cn": "永华莲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bcd9b68d-67fb-573b-a114-a093cdd3ba6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493086575462825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "永夜花火Official",
         "default": "cn"
       }
     },
