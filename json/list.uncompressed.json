@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1719725800
+    "timestamp": 1719774700
   },
   "vtbs": [
     {
@@ -125220,6 +125220,24 @@
       },
       "group": "08e83e80-ba92-538d-b63d-fe0592e8af6c",
       "group_name": "浅海Project"
+    },
+    {
+      "uuid": "e45516ec-84a4-5e75-a610-bd9c1ac4d3a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24653361",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "维娅",
+        "en": "Via",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c95d1cdc-1e84-5d7b-bddf-1d03fc41765e",
