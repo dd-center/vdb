@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1719774717
+    "timestamp": 1720098034
   },
   "vtbs": [
     {
@@ -4716,6 +4716,24 @@
         "cn": "Kiko_Official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "96331fdb-5540-5fa2-887a-7a8e2c719e2c",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "470909551",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "KiraLive",
+        "default": "cn"
+      },
+      "group": "96331fdb-5540-5fa2-887a-7a8e2c719e2c"
     },
     {
       "uuid": "9a441c1f-7ca3-588e-8d48-7826267ea824",
