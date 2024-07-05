@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1720098034
+    "timestamp": 1720161327
   },
   "vtbs": [
     {
@@ -30171,6 +30171,25 @@
         "cn": "兔柔Tutu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "379a59f4-7ae7-5d42-ba1d-0d050de66c69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11842502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔泥nono",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
     },
     {
       "uuid": "bdd4c474-9665-54c6-b840-eeac4ec95463",
@@ -63095,6 +63114,25 @@
       }
     },
     {
+      "uuid": "405821be-7550-5462-a498-1a7763b42237",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546618999606221",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希思_heath",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
+    },
+    {
       "uuid": "2673b71f-ac05-5b98-be57-5e0636714d2f",
       "type": "vtuber",
       "bot": false,
@@ -63878,6 +63916,25 @@
         "cn": "帕西斐珂",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a6f3d910-e135-5aaa-8fae-db2127121be2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546614866118685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕路haru",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
     },
     {
       "uuid": "2d8d49dd-abe9-56c3-a393-548e5ef71a79",
@@ -109651,6 +109708,24 @@
       }
     },
     {
+      "uuid": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494356671531764",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜瓜社MelonLive",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35"
+    },
+    {
       "uuid": "6fb73d0e-8905-5f10-b299-a648804e0d49",
       "type": "vtuber",
       "bot": false,
@@ -122326,6 +122401,25 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "2c212887-5336-5691-8a02-7bc72d25ab86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1517789984",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "索拉菲尼official",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
     },
     {
       "uuid": "cd14eae9-a255-5669-9a4d-6d1620b0ecc9",
