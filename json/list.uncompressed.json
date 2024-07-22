@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1720939513
+    "timestamp": 1721608908
   },
   "vtbs": [
     {
@@ -81630,6 +81630,23 @@
       },
       "group": "984553e1-60bb-52f4-9883-d1e93caf5719",
       "group_name": "雪域Provealms"
+    },
+    {
+      "uuid": "d95e1146-5039-5814-bcf8-e9e3f702d39f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2087027321",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝朝Morin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e5f96758-ed59-5dcf-a9df-3252df5bd66e",
