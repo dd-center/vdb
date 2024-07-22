@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609188
+    "timestamp": 1721609248
   },
   "vtbs": [
     {
@@ -98024,6 +98024,23 @@
       "name": {
         "extra": [],
         "cn": "浅川玉乃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7dcb378d-904d-52af-8042-031622e3f2f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1485168944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅川琉璃",
         "default": "cn"
       }
     },
