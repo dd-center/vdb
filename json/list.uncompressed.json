@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609413
+    "timestamp": 1721609473
   },
   "vtbs": [
     {
@@ -47145,6 +47145,23 @@
       "name": {
         "extra": [],
         "cn": "夕莓Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "59a686c2-17b6-519f-9806-e6f2c7cc2cc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10553191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夕言就不睡",
         "default": "cn"
       }
     },
