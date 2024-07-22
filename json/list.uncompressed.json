@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609349
+    "timestamp": 1721609413
   },
   "vtbs": [
     {
@@ -3980,6 +3980,25 @@
       }
     },
     {
+      "uuid": "158a4b8c-0c06-580c-8135-77f6e9a6decb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546696910899214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "_黑羽翎_",
+        "default": "cn"
+      },
+      "group": "fb7977c3-8198-5021-a136-3c8de14290f7",
+      "group_name": "猫邮社"
+    },
+    {
       "uuid": "1a103b91-9a9e-523b-9fb7-d5a3b3e01966",
       "type": "vtuber",
       "bot": false,
@@ -4868,6 +4887,23 @@
         "en": "KolIcK",
         "cn": "小林",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "e4a999d6-ab61-5ee8-8029-a95d178bb07a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "569714662",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "恐啡肽芋头_Official",
+        "default": "cn"
       }
     },
     {
