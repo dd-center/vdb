@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609504
+    "timestamp": 1721609559
   },
   "vtbs": [
     {
@@ -134985,6 +134985,23 @@
       "group_name": "ChaosLiveSprout"
     },
     {
+      "uuid": "82addbdb-5556-58d8-863d-1e8343cad6f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695497419689",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉冬Rito",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "8811e136-dc95-580b-a06f-42cc9f1eb090",
       "type": "vtuber",
       "bot": false,
@@ -136428,6 +136445,23 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "7917f949-7446-519e-b992-9d9ddfb774da",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546677000538443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莵梓",
+        "default": "cn"
+      }
     },
     {
       "uuid": "69da0617-2ad3-5407-89ef-f7b50fb62d2f",
