@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609473
+    "timestamp": 1721609504
   },
   "vtbs": [
     {
@@ -44085,6 +44085,23 @@
       "name": {
         "extra": [],
         "cn": "噗崽很饿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6b9f78ed-a989-5c86-ba90-d0f3164283d4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546387276892673",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "噜玛RUMA",
         "default": "cn"
       }
     },
