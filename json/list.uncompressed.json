@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1721609141
+    "timestamp": 1721609188
   },
   "vtbs": [
     {
@@ -87182,6 +87182,25 @@
       }
     },
     {
+      "uuid": "6f7c484b-2c74-567e-8fcc-bb7567fdd7ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2040984069",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃代Momoka",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "77a7a5b4-857a-5b7e-9a61-ecb6864f5930",
       "type": "vtuber",
       "bot": false,
@@ -102131,6 +102150,25 @@
         "cn": "点盏Arc",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "89e30271-9641-5bae-bcef-93f4ec6e1950",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1323355750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "点酥Susu",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "e27ca6e2-75f5-57d0-81ce-c7f08f91e3a2",
@@ -131777,6 +131815,25 @@
         "cn": "花眠Kamin",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "373cb371-33d9-55e9-b7df-178d36c74f6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1048135385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花礼Harei",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "be19c3c8-d36a-5a2e-a6d6-a0ec5a142773",
