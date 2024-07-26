@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722007271
+    "timestamp": 1722007676
   },
   "vtbs": [
     {
@@ -13523,6 +13523,23 @@
         "extra": [],
         "cn": "komako_02",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "3d215dcc-747b-55da-a9a6-0a082a7a7976",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546657912260888",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "koroma_Official",
+        "default": "jp"
       }
     },
     {
