@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722304071
+    "timestamp": 1722304154
   },
   "vtbs": [
     {
@@ -90785,6 +90785,23 @@
       "name": {
         "extra": [],
         "cn": "椰泥卷Toraaa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c2436d8-1487-5953-92cc-efde5b0ff9cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546716972256015",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椰知栗子つ",
         "default": "cn"
       }
     },
