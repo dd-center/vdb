@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722304410
+    "timestamp": 1722304444
   },
   "vtbs": [
     {
@@ -38209,6 +38209,23 @@
       "name": {
         "extra": [],
         "cn": "卯雪眠_Somnia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "84806420-96d9-5658-9382-635a1746651b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493257772272614",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卷fafa",
         "default": "cn"
       }
     },
