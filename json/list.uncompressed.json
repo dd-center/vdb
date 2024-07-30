@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722007676
+    "timestamp": 1722304071
   },
   "vtbs": [
     {
@@ -57753,6 +57753,23 @@
       "name": {
         "extra": [],
         "cn": "小宝贝崽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "39179ea6-0cdf-5671-b5d0-a0f30bd46c1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "627306137",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小小只suki",
         "default": "cn"
       }
     },
