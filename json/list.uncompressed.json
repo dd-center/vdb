@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722563422
+    "timestamp": 1722588712
   },
   "vtbs": [
     {
@@ -43139,6 +43139,23 @@
       }
     },
     {
+      "uuid": "2b8177d6-5d8b-5390-9475-42b39501c99d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546673575889391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "啵比Bobby",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "bc5bec5f-1d5c-5f4d-b464-b8ecb8aba82f",
       "type": "vtuber",
       "bot": false,
@@ -67176,6 +67193,23 @@
       }
     },
     {
+      "uuid": "5d6cc68f-b31c-5be9-bc39-e3e53f5428e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "296803",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "御坂黑琴",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "909b6a72-6d8c-5164-8075-8f9df8cfbd13",
       "type": "vtuber",
       "bot": false,
@@ -84629,6 +84663,23 @@
       "name": {
         "extra": [],
         "cn": "果奈suki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c196e39-6417-58ff-880a-0137b8474327",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "59863756",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "果子吞金兽",
         "default": "cn"
       }
     },
@@ -151313,6 +151364,25 @@
       "name": {
         "extra": [],
         "cn": "阿卡莉Akari",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e2ae2a74-1c41-5729-a039-36ce84bc2e79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "168729865",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "甜妹又_biu"
+        ],
+        "cn": "阿又又_biu",
         "default": "cn"
       }
     },
