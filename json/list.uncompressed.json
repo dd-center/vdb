@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1722588749
+    "timestamp": 1722705770
   },
   "vtbs": [
     {
@@ -91768,6 +91768,23 @@
         "extra": [],
         "cn": "樱月花音",
         "jp": "桜月花音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "442f54e2-32d5-53c4-9afe-d35054dfe9ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546656337299626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱柠柠sakura",
         "default": "cn"
       }
     },
