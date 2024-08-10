@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723260237
+    "timestamp": 1723260314
   },
   "vtbs": [
     {
@@ -81045,6 +81045,23 @@
       "name": {
         "extra": [],
         "cn": "月诗音Shion",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e3d7b004-6aa6-524a-9b2e-0310719b69ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3669403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月路Yuel",
         "default": "cn"
       }
     },
