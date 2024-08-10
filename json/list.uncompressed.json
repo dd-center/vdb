@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723288931
+    "timestamp": 1723309825
   },
   "vtbs": [
     {
@@ -58303,6 +58303,23 @@
       "name": {
         "extra": [],
         "cn": "小晶饱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fbb0e97b-18f0-546e-a5cf-dcf52fbcae45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "485173040",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小望字幕组",
         "default": "cn"
       }
     },
