@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723309825
+    "timestamp": 1723652853
   },
   "vtbs": [
     {
@@ -36258,6 +36258,25 @@
       "group_name": "Palette"
     },
     {
+      "uuid": "3054afa0-2a5e-5103-a15a-a3a05a4144f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695956695430",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千郁郁sen",
+        "default": "cn"
+      },
+      "group": "d21eef30-ea61-5631-95ac-db4992368013",
+      "group_name": "卟啵电竞"
+    },
+    {
       "uuid": "a4d53eef-40ff-5cd1-98dd-f379d1438ee2",
       "type": "vtuber",
       "bot": false,
@@ -37356,6 +37375,26 @@
         "cn": "卜糖Bobo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d21eef30-ea61-5631-95ac-db4992368013",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494365106277311",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卟啵电竞",
+        "jp": "ぶいすぽっ！",
+        "en": "VSPO!",
+        "default": "cn"
+      },
+      "group": "d21eef30-ea61-5631-95ac-db4992368013"
     },
     {
       "uuid": "e445f593-5f0d-5969-bab4-2a6833c7206d",
@@ -59981,6 +60020,25 @@
       }
     },
     {
+      "uuid": "fa3fc106-4271-59bc-a8c8-0c8210934e77",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695948306751",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小针彩",
+        "default": "cn"
+      },
+      "group": "d21eef30-ea61-5631-95ac-db4992368013",
+      "group_name": "卟啵电竞"
+    },
+    {
       "uuid": "98d22cdb-e5cb-5a87-a34c-5a920c5fcda6",
       "type": "vtuber",
       "bot": false,
@@ -61316,6 +61374,23 @@
         "extra": [],
         "cn": "尾音猫",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "c35c2e67-3d8c-5025-ac67-d1df2931e35e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1517060220",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "局长きょくちょ",
+        "default": "jp"
       }
     },
     {
@@ -64139,6 +64214,25 @@
         "cn": "帕夏hypatia",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0c425647-618a-53bc-a3a0-b53cedea4516",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695946209651",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "帕妃",
+        "default": "cn"
+      },
+      "group": "d21eef30-ea61-5631-95ac-db4992368013",
+      "group_name": "卟啵电竞"
     },
     {
       "uuid": "4c15bc5e-b7f0-53e3-bedf-c958ee5cf586",
@@ -111762,6 +111856,25 @@
       },
       "group": "e9b10a64-feda-55fe-85d3-a1c5cb48c67d",
       "group_name": "童猫会"
+    },
+    {
+      "uuid": "b59e6dd8-b959-5c6a-a720-083ab6d8be09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695864421312",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白咲露理",
+        "default": "cn"
+      },
+      "group": "d21eef30-ea61-5631-95ac-db4992368013",
+      "group_name": "卟啵电竞"
     },
     {
       "uuid": "f0640183-2218-5568-a48c-c84ccc20cd42",
