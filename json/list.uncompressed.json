@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723653065
+    "timestamp": 1723653533
   },
   "vtbs": [
     {
@@ -56919,6 +56919,25 @@
         "cn": "寥言Slient",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3a44e142-290c-51fe-a31c-9487d8202c80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493266456578574",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "寿司_Official",
+        "default": "cn"
+      },
+      "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
+      "group_name": "新月社FCrescent"
     },
     {
       "uuid": "1bfac292-171e-5342-9fd8-dc0df0d9ff2f",
