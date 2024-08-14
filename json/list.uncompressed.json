@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723652963
+    "timestamp": 1723653065
   },
   "vtbs": [
     {
@@ -52538,6 +52538,23 @@
       "name": {
         "extra": [],
         "cn": "奶片_Nayo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "04dc13d2-be9b-55e0-92c1-92d21af455d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546652373682235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奶玉兔兔",
         "default": "cn"
       }
     },
