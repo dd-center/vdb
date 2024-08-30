@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725046753
+    "timestamp": 1725046855
   },
   "vtbs": [
     {
@@ -40120,6 +40120,23 @@
       "name": {
         "extra": [],
         "cn": "吃个柚柚",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d72b3b6-5aa7-5a0e-808f-77e3c1f4c064",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546388300302378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "吃吃吔",
         "default": "cn"
       }
     },
@@ -98040,6 +98057,23 @@
       }
     },
     {
+      "uuid": "1f0befb5-71c0-5c4f-b043-0567439e6453",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "124107064",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛歆叶",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e285a8b6-9626-5c17-b41f-ffd0c0f241e8",
       "type": "vtuber",
       "bot": false,
@@ -125845,23 +125879,6 @@
       "name": {
         "extra": [],
         "cn": "绫月汐Shio",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "e348da97-8510-5739-a9a7-eb0ad0a669e0",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "124107064",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "绫枂",
         "default": "cn"
       }
     },
