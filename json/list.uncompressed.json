@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1723653533
+    "timestamp": 1725046735
   },
   "vtbs": [
     {
@@ -10285,6 +10285,23 @@
       "name": {
         "extra": [],
         "cn": "Sylvia潇童",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f8ea252-b96f-537f-ad29-07a8b36ea034",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "486482491",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "S宅宅羊Nina",
         "default": "cn"
       }
     },
