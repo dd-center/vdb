@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725046855
+    "timestamp": 1725046873
   },
   "vtbs": [
     {
@@ -110928,6 +110928,23 @@
       "name": {
         "extra": [],
         "cn": "由乃_Yuno",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3636de17-d110-5c40-884a-9867df7ecec8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "39403524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由乃爱莉",
         "default": "cn"
       }
     },
