@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725046735
+    "timestamp": 1725046753
   },
   "vtbs": [
     {
@@ -42960,6 +42960,23 @@
       "name": {
         "extra": [],
         "cn": "唯诺Vilor",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ff4fa548-1d59-5b23-a486-9cec2676212c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546645295794691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唱歌机器漓漓子",
         "default": "cn"
       }
     },
