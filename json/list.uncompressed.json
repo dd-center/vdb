@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725046911
+    "timestamp": 1725733874
   },
   "vtbs": [
     {
@@ -115428,6 +115428,23 @@
       "name": {
         "extra": [],
         "cn": "盐酥鸡悦_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f1b823a-e039-53ab-8f47-72230af1d8d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15514959",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盒桃Mia",
         "default": "cn"
       }
     },
