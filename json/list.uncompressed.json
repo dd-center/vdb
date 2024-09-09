@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725733874
+    "timestamp": 1725860534
   },
   "vtbs": [
     {
@@ -128497,6 +128497,23 @@
       "name": {
         "extra": [],
         "cn": "耳可家的猪蹄子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e53e8de-5530-5872-9d75-249032de6cc2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494361983617781",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "耶斯yeki",
         "default": "cn"
       }
     },
