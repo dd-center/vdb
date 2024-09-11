@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726033464
+    "timestamp": 1726033508
   },
   "vtbs": [
     {
@@ -137328,6 +137328,23 @@
         "extra": [],
         "JP": "菜音羽_Official",
         "default": "JP"
+      }
+    },
+    {
+      "uuid": "2cf5e661-9f5a-5258-9a65-55b3697d73e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461569417579101",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菟噜酱",
+        "default": "cn"
       }
     },
     {
