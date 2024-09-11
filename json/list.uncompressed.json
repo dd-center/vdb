@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726033508
+    "timestamp": 1726033539
   },
   "vtbs": [
     {
@@ -153779,6 +153779,23 @@
       "name": {
         "extra": [],
         "cn": "陶陶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75df6def-6911-54f8-a785-1cd06202befc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546564165372348",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陶黎Mini",
         "default": "cn"
       }
     },
