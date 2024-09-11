@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726033853
+    "timestamp": 1726033916
   },
   "vtbs": [
     {
@@ -84115,6 +84115,25 @@
         "cn": "来自外星的Vivi耶",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c488617f-4089-5f66-bc5a-c605bc68192d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546730823944886",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "来芙Laffey",
+        "default": "cn"
+      },
+      "group": "f17df53f-9d5e-576b-8b10-0d67ba3888e5",
+      "group_name": "枝江娱乐"
     },
     {
       "uuid": "d84f9cb3-fc43-567d-af8b-c86e172967f5",
