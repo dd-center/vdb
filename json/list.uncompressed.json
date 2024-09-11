@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726033676
+    "timestamp": 1726033853
   },
   "vtbs": [
     {
@@ -87392,6 +87392,23 @@
       "name": {
         "extra": [],
         "cn": "栗臻果",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d34becb3-bc80-5a55-9695-ac23bda5160c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "84108910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗花澪コMIO",
         "default": "cn"
       }
     },
