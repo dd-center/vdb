@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726033290
+    "timestamp": 1726033334
   },
   "vtbs": [
     {
@@ -45999,6 +45999,23 @@
       "name": {
         "extra": [],
         "cn": "墨澈_seya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "00866fdb-d26c-572e-9c6e-8b1e89ab999a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493141892040724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨灵吃饱饱",
         "default": "cn"
       }
     },
