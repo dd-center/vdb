@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1725860534
+    "timestamp": 1726033290
   },
   "vtbs": [
     {
@@ -23948,6 +23948,23 @@
       "name": {
         "extra": [],
         "cn": "九降",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d65b535-6f58-5c51-9c77-50eeffc57ee1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546714516490635",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九霄麒麟Kylin",
         "default": "cn"
       }
     },
