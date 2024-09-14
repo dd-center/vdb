@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726034449
+    "timestamp": 1726327400
   },
   "vtbs": [
     {
@@ -16494,6 +16494,75 @@
       "name": {
         "extra": [],
         "jp": "まむママ",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "0d433760-d321-5fe7-bf40-aab6ef8fec2d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "https://lit.link/en/mayuru",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "mayuru_24",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "mayuru_ninjaninja",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "mayuru_24",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "mayuru_sub",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "mayuru_24",
+          "type": "official",
+          "platform": "instagram"
+        },
+        {
+          "id": "mayuru",
+          "type": "official",
+          "platform": "booth"
+        },
+        {
+          "id": "mayuru",
+          "type": "official",
+          "platform": "marshmallow"
+        },
+        {
+          "id": "C67URRWW182",
+          "type": "official",
+          "platform": "amazon.co.jp"
+        },
+        {
+          "id": "31800819",
+          "type": "official",
+          "platform": "niconico"
+        },
+        {
+          "id": "mayuru__24",
+          "type": "official",
+          "platform": "tiktok"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "まゆる",
+        "en": "Mayuru",
+        "cn": "茉綽",
         "default": "jp"
       }
     },
