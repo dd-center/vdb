@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726327400
+    "timestamp": 1726407586
   },
   "vtbs": [
     {
@@ -103802,6 +103802,23 @@
       }
     },
     {
+      "uuid": "28e2f4a0-c597-5d6f-ab7d-b38d19fac461",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1938979031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "燐・珈尔特Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "319db2e8-d628-543f-9b2e-efcd122037e9",
       "type": "vtuber",
       "bot": false,
@@ -105458,6 +105475,34 @@
       "name": {
         "extra": [],
         "cn": "狐栗LuLu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ad512977-b810-59f9-bccb-a1d3516fb52f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546649167137356",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KitsunebiLinne",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "KitsunebiLinne",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐火燐音_Official",
+        "jp": "狐火りんね",
         "default": "cn"
       }
     },
@@ -151328,6 +151373,23 @@
         "default": "cn"
       },
       "group": "a5a6750b-a591-516f-a261-f1a77f46d4db"
+    },
+    {
+      "uuid": "4d5caf4c-e00b-5df8-98b6-bfb62b523417",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546619358219217",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "闪闪oki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0ffea7e2-02ad-5521-b959-82f97411a83c",
