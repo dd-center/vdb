@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1726806064
+    "timestamp": 1726806268
   },
   "vtbs": [
     {
@@ -16872,6 +16872,37 @@
         "cn": "Ya酱",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "f2af776d-f318-5991-82ca-ff03e278328b",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "UCQINr5XmFVYU24hUHE79cBQ",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "Unifee_info",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://evestar.jp/unifeee/",
+          "type": "official",
+          "platform": "web"
+        }
+      ],
+      "name": {
+        "extra": [
+          "Unifee"
+        ],
+        "jp": "ゆにふぃ！",
+        "en": "Unification",
+        "default": "jp"
+      },
+      "group": "f2af776d-f318-5991-82ca-ff03e278328b"
     },
     {
       "uuid": "2927d301-b395-568f-b83c-ddcd73a07f21",
@@ -74183,6 +74214,36 @@
       }
     },
     {
+      "uuid": "34721a9b-8518-51f3-ba9e-a349c909ad04",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "Unifee_akechi",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "Unifee_akechi",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "unifee_akechi",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "明智光月",
+        "en": "akechi mitsuki",
+        "default": "jp"
+      },
+      "group": "f2af776d-f318-5991-82ca-ff03e278328b",
+      "group_name": "ゆにふぃ！"
+    },
+    {
       "uuid": "531b6840-5f69-5c2c-a874-ceb2c8ed54d5",
       "type": "vtuber",
       "bot": false,
@@ -124665,6 +124726,31 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "5b24ef03-2327-587e-a5bf-1895ae09e864",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "Unifee_oda",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "Unifee_nobu",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "織田詩信",
+        "en": "oda shinobu﻿﻿",
+        "default": "jp"
+      },
+      "group": "f2af776d-f318-5991-82ca-ff03e278328b",
+      "group_name": "ゆにふぃ！"
     },
     {
       "uuid": "8b4e881e-a0da-585f-beeb-1700273fca47",
