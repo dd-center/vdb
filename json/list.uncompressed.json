@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232263
+    "timestamp": 1727232326
   },
   "vtbs": [
     {
@@ -3708,6 +3708,25 @@
         "cn": "Ga哒酥er",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "361754088",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "GravityS_Project",
+        "en": "GravityS_Project",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84"
     },
     {
       "uuid": "7e6941f0-df3e-5dcd-874a-71c7025ca507",
@@ -21283,6 +21302,25 @@
       }
     },
     {
+      "uuid": "ac973a82-d1ed-55c7-aa6c-b89a89f7e21d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546668995709215",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三昧妙妙",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
+    },
+    {
       "uuid": "508e2578-6e74-5b29-bff7-57f3ec10e256",
       "type": "vtuber",
       "bot": false,
@@ -22228,7 +22266,9 @@
         "extra": [],
         "cn": "丘米芽Mia",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "c9d4eb13-1e2f-5e09-bc40-c6d2eb0a4870",
@@ -25453,6 +25493,25 @@
       },
       "group": "8a72771a-347f-514f-b5d2-b83ee4cbebb0",
       "group_name": "PaPutok"
+    },
+    {
+      "uuid": "726acaf3-09c1-5fdc-871a-ebddfdde47ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "150557181",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "井伊木木",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "ce2b77b0-c0c6-5bed-802a-006470b0483b",
@@ -44253,7 +44312,9 @@
         "extra": [],
         "cn": "嗷乌塔塔",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "a7e42f6b-c870-575d-a609-cedbfe7a5858",
@@ -65268,7 +65329,9 @@
         "extra": [],
         "cn": "幻娜Hana",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "417afe98-e7a5-5372-aa37-0058006def23",
@@ -79705,7 +79768,9 @@
         "extra": [],
         "cn": "晴小绮Koyki",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "dadee1e6-8c93-5d0f-8578-a964b49f6822",
@@ -83654,6 +83719,25 @@
         "cn": "朵拉Dooora",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "888f509f-989d-54e5-b1e3-28e87b27d8f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494368656754834",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朵狸娅Dolleya",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "abc8afb4-244d-57f0-8400-0928f9a2a9b7",
@@ -88140,7 +88224,9 @@
         "extra": [],
         "cn": "桃井梨梨",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "2da30441-d7e8-5efb-9415-aa74cb21567c",
@@ -108750,7 +108836,9 @@
         "extra": [],
         "cn": "玻璃Bori",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "e6852bd3-c419-5e54-aa3b-3d4faba185b1",
@@ -124269,6 +124357,25 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "0bc961b5-b25d-5071-ba3c-cf85133a3e3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546702812285878",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫苏丸maru",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
+    },
+    {
       "uuid": "21c8e7a9-8697-5945-8ea8-e191f76933c8",
       "type": "vtuber",
       "bot": false,
@@ -126474,6 +126581,25 @@
       },
       "group": "0c9cafb2-e8a9-5935-a9e7-dc1aef177f27",
       "group_name": "Schoolive"
+    },
+    {
+      "uuid": "f744a20b-b20b-50ab-a60b-10ae131ad35b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546380985436790",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绫世Ayase",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "69a77d5e-b103-55e5-aff9-e4385a6f3c9c",
@@ -134881,6 +135007,25 @@
       }
     },
     {
+      "uuid": "56b9e2fa-e7fd-5ba4-985e-7f916ebe7302",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546582096021875",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苡理Yili",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
+    },
+    {
       "uuid": "0b32b210-c82a-5b80-9398-1e07cf7ea87d",
       "type": "vtuber",
       "bot": false,
@@ -135414,6 +135559,25 @@
         "cn": "茉莉奶芙Molly",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f83a872c-b7fc-5bce-bdbf-9edf911392db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546636036868257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉莱MooLy",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "35e1664f-cef6-5a3c-a084-95e298ae9d86",
@@ -149510,7 +149674,9 @@
         "extra": [],
         "cn": "野里Nosato",
         "default": "cn"
-      }
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "34cfbcb6-1252-5135-83a5-916c545d41c9",
