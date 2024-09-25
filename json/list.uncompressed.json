@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232129
+    "timestamp": 1727232182
   },
   "vtbs": [
     {
@@ -165618,6 +165618,23 @@
         "extra": [],
         "jp": "黒音うらら",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "bd48fa6b-b525-50c0-96eb-9eb15456f7e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546638899481364",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "默伊Moe",
+        "default": "cn"
       }
     },
     {
