@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232182
+    "timestamp": 1727232215
   },
   "vtbs": [
     {
@@ -117393,6 +117393,23 @@
       }
     },
     {
+      "uuid": "8725f5e4-4d59-56a0-b4db-05c703ec0536",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1374298948",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "知郁ukiyo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3dff61ea-0bc4-5ab4-8ec7-28d0d0c732ad",
       "type": "vtuber",
       "bot": false,
@@ -145068,6 +145085,23 @@
       "name": {
         "extra": [],
         "cn": "贝尔蒂Biety",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c770fc3f-58c3-5f1c-8456-7f3af43b905e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546676390267608",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "贝崽_babe",
         "default": "cn"
       }
     },
