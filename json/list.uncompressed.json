@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232228
+    "timestamp": 1727232263
   },
   "vtbs": [
     {
@@ -66886,6 +66886,23 @@
       }
     },
     {
+      "uuid": "521db2db-395a-562c-ab31-9deb522520dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546586510527350",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥砂Nagi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "80a68d22-a125-5d8a-b0d8-6f38a5cf63d2",
       "type": "vtuber",
       "bot": false,
@@ -125816,6 +125833,23 @@
       "name": {
         "extra": [],
         "cn": "纸木铗Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "580f4d97-7635-5975-894e-c716fc1338c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546706215962648",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "纸条kitty-恩师桂木",
         "default": "cn"
       }
     },
