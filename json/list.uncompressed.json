@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232095
+    "timestamp": 1727232129
   },
   "vtbs": [
     {
@@ -27443,6 +27443,23 @@
       "name": {
         "extra": [],
         "cn": "伊芙雷塔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ea11e379-607c-5b0b-b482-6a3ce26e13ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494355505514666",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊莉丝Iris",
         "default": "cn"
       }
     },
@@ -61405,6 +61422,23 @@
         "extra": [],
         "cn": "紫海由爱",
         "jp": "尸解 ユヱ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "02b07e6a-f57d-5932-a1eb-6b4ac7eedc88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493083515718327",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尹小喵",
         "default": "cn"
       }
     },
