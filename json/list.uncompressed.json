@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727590488
+    "timestamp": 1727590514
   },
   "vtbs": [
     {
@@ -48059,6 +48059,23 @@
       }
     },
     {
+      "uuid": "15169073-6f4f-5e86-bbc1-354c0d464612",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546665002731879",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "多萝希儿Dorothy",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "94dfc8e1-4e00-5d9c-8ec6-d8b55191b832",
       "type": "vtuber",
       "bot": false,
@@ -70953,6 +70970,23 @@
       "name": {
         "extra": [],
         "cn": "我可爱大千",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0666a806-cb9f-579b-9522-fd169c357f76",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546671491320308",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "我妻幼雪Yukiko",
         "default": "cn"
       }
     },
