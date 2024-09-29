@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727590566
+    "timestamp": 1727593927
   },
   "vtbs": [
     {
@@ -110506,6 +110506,23 @@
       "name": {
         "extra": [],
         "cn": "瑟勒丝_Seles",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a1f4bb16-7c75-570d-9b53-5762211f0872",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546697116420525",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑟琳娜travel",
         "default": "cn"
       }
     },
