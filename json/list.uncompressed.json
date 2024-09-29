@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727593927
+    "timestamp": 1727593988
   },
   "vtbs": [
     {
@@ -80443,6 +80443,23 @@
       },
       "group": "7b8e376b-1043-5774-a985-5d57aafc4a16",
       "group_name": "曦和project"
+    },
+    {
+      "uuid": "748a5d70-bcbd-58d3-b88b-9bbaf92ed0b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493289172928881",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曦娅-lucky",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dc5d7a22-f3bd-595b-86d0-edf2d1e12dc3",
