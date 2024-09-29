@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727593988
+    "timestamp": 1727594053
   },
   "vtbs": [
     {
@@ -87434,6 +87434,23 @@
       "name": {
         "extra": [],
         "cn": "栀狐kori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "add83c35-8419-5c46-b3ee-306c892c9cd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2089622075",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栀空翼Astra",
         "default": "cn"
       }
     },
