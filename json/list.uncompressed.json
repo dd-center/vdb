@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727232326
+    "timestamp": 1727590488
   },
   "vtbs": [
     {
@@ -23372,6 +23372,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "bbebf5f9-29ca-52ef-a9d7-bcd8a574dd0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546696921385143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乐怡lili",
+        "default": "cn"
+      }
     },
     {
       "uuid": "27767ce1-5776-51cc-98eb-8d27c294b5e5",
@@ -154370,6 +154387,23 @@
       "name": {
         "extra": [],
         "cn": "陆笙_Lusin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "34298718-8824-5b4c-842b-8bde840d7640",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546736811313456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陆艽Datura",
         "default": "cn"
       }
     },
