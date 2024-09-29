@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727590514
+    "timestamp": 1727590528
   },
   "vtbs": [
     {
@@ -155578,6 +155578,23 @@
       "name": {
         "extra": [],
         "cn": "雪兔不能吃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1342d0be-2697-5208-afe9-8f91343a753d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546642479319590",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪初SnowFox",
         "default": "cn"
       }
     },
