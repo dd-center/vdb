@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728751599
+    "timestamp": 1728751659
   },
   "vtbs": [
     {
@@ -47279,6 +47279,23 @@
       "name": {
         "extra": [],
         "cn": "夏米范",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "16525268-8191-5715-ae5c-5e723dd724b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369904560916",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏织纱yarn",
         "default": "cn"
       }
     },
