@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728751826
+    "timestamp": 1728751905
   },
   "vtbs": [
     {
@@ -108221,6 +108221,23 @@
         "extra": [],
         "jp": "獅子神レオナ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c7c58927-01b7-5618-9e6c-1d73d3ea474e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546734101792934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "獭可Tacoo",
+        "default": "cn"
       }
     },
     {
