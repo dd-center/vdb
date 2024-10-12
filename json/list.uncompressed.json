@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728751302
+    "timestamp": 1728751370
   },
   "vtbs": [
     {
@@ -120309,6 +120309,23 @@
       "name": {
         "extra": [],
         "cn": "秋灵_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "374466d7-14b4-5159-b49c-765068b6b276",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546374337464623",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "秋狸Amber",
         "default": "cn"
       }
     },
