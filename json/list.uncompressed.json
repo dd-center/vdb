@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728750880
+    "timestamp": 1728751001
   },
   "vtbs": [
     {
@@ -59344,6 +59344,23 @@
       "name": {
         "extra": [],
         "cn": "小沢可可",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "095dda5f-ead2-5273-9275-820a0e0434eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546725413292351",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小清玫Ami_official",
         "default": "cn"
       }
     },
