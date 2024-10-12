@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1727842316
+    "timestamp": 1728750880
   },
   "vtbs": [
     {
@@ -56847,6 +56847,23 @@
       "name": {
         "extra": [],
         "cn": "宫本夏凌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ba408ee9-4e60-5a8e-aa12-03685e15105c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546599695321411",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宫泽遥-haruka",
         "default": "cn"
       }
     },
