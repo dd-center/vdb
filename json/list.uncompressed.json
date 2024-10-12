@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728751659
+    "timestamp": 1728751722
   },
   "vtbs": [
     {
@@ -151016,6 +151016,23 @@
       "name": {
         "extra": [],
         "cn": "铃依_Sumi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b63205f6-3e57-5a61-ba10-3d2ea451b5a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546665631877592",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃兰书店",
         "default": "cn"
       }
     },
