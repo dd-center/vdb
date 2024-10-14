@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728751905
+    "timestamp": 1728921637
   },
   "vtbs": [
     {
@@ -95728,6 +95728,23 @@
       }
     },
     {
+      "uuid": "3b69c672-3411-50c1-861b-8b63d84e7f38",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22207703",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐理Mitty",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "34f954d3-72d2-5feb-9d36-1a7d773406e0",
       "type": "vtuber",
       "bot": false,
@@ -145954,6 +145971,23 @@
         "extra": [],
         "cn": "赛小盐",
         "en": "Cyan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4b4ffaa5-e2c5-5e5f-84c0-28890d38d1f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546638935132603",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赛希芙璃Cecifly",
         "default": "cn"
       }
     },
