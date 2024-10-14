@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1728921673
+    "timestamp": 1728921708
   },
   "vtbs": [
     {
@@ -156997,6 +156997,23 @@
       "name": {
         "extra": [],
         "cn": "雲川逸月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dcfda798-c995-5754-98da-c0c8508e2432",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546742685436308",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雲璃Yuliko",
         "default": "cn"
       }
     },
