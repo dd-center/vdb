@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729057817
+    "timestamp": 1729057862
   },
   "vtbs": [
     {
@@ -45386,6 +45386,23 @@
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
       "group_name": "ProjectViberglow"
+    },
+    {
+      "uuid": "b30eff4a-c0ca-56dc-b1eb-e5b088aed61a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546654340810906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "圣芙儿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "67ade457-9404-5b22-a7f3-f1bbe4331f0f",
@@ -165667,6 +165684,23 @@
       "name": {
         "extra": [],
         "cn": "黑月莉丝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "523c9f29-dd4a-5430-9c7e-1789706ccfda",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546700325062760",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑桃Daddy",
         "default": "cn"
       }
     },
