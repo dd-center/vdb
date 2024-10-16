@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058469
+    "timestamp": 1729058609
   },
   "vtbs": [
     {
@@ -144271,6 +144271,23 @@
       }
     },
     {
+      "uuid": "c4f921f5-e718-54d3-8fae-e336aabaab35",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461573915969657",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "詩然Lucky",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0163c184-6875-5fb8-a4da-f6c5f1537efc",
       "type": "vtuber",
       "bot": false,
@@ -154829,6 +154846,23 @@
         "extra": [],
         "cn": "陆千",
         "jp": "rikusen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1be8b29f-681a-577e-a95c-b5e40bf9555a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546624494144100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陆无双",
         "default": "cn"
       }
     },
