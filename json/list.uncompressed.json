@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058773
+    "timestamp": 1729058802
   },
   "vtbs": [
     {
@@ -58433,6 +58433,25 @@
         "cn": "小奶欲",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "da74edfd-f081-5485-b050-46ab747f15dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "89362643",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小奶糕ing",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "1b65c681-f52f-5431-995b-c04f4af16c24",
