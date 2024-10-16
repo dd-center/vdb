@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058684
+    "timestamp": 1729058773
   },
   "vtbs": [
     {
@@ -363,6 +363,23 @@
       "name": {
         "extra": [],
         "cn": "-籽三-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "58b73ab3-bd19-5baa-b140-e42ff41b7415",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546747513079908",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-糕糕超勇敢",
         "default": "cn"
       }
     },
@@ -79124,6 +79141,23 @@
       "name": {
         "extra": [],
         "cn": "是空集耶awa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e734d0af-70c7-5521-b72e-e403b30193ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546678088960005",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "是筱筱大王诶",
         "default": "cn"
       }
     },
