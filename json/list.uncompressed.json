@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058836
+    "timestamp": 1729058859
   },
   "vtbs": [
     {
@@ -5407,6 +5407,23 @@
         "extra": [],
         "en": "LuckyCupcake",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "63694309-fab7-5829-8cdf-04eb6980b542",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546566159763731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Lucky甜糖酱",
+        "default": "cn"
       }
     },
     {
