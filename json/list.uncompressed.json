@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058341
+    "timestamp": 1729058380
   },
   "vtbs": [
     {
@@ -44033,6 +44033,23 @@
       "name": {
         "extra": [],
         "cn": "喵小埋ouo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b2135e26-0c19-5aa7-9f78-d53abb95c43d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546645167868342",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵小酒-Yami",
         "default": "cn"
       }
     },
@@ -161097,6 +161114,23 @@
       "name": {
         "extra": [],
         "cn": "饴姬兔莓",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e381e13-1999-5eb9-ac49-8e4e884f5804",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9232442",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "饼゜",
         "default": "cn"
       }
     },
