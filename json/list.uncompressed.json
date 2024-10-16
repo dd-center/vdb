@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729058380
+    "timestamp": 1729058407
   },
   "vtbs": [
     {
@@ -144497,6 +144497,23 @@
       },
       "group": "aebb8a27-96ad-575f-99f7-485fb958d709",
       "group_name": "椛榊计划"
+    },
+    {
+      "uuid": "63023731-dc63-5fb3-85b8-1fcdd60c9da4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478041289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗安杉nuyoah",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8958ea87-0a82-5144-a7d7-1458110a70a1",
