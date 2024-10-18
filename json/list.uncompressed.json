@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729237445
+    "timestamp": 1729237465
   },
   "vtbs": [
     {
@@ -118295,6 +118295,23 @@
       "name": {
         "extra": [],
         "cn": "知郁ukiyo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4b7f58d5-09f3-5eff-83d1-df1515fe5b48",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546631876119424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "石井小町",
         "default": "cn"
       }
     },
