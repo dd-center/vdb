@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729237197
+    "timestamp": 1729237445
   },
   "vtbs": [
     {
@@ -46657,6 +46657,23 @@
       "name": {
         "extra": [],
         "cn": "墨语Sumigo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7a31c089-968b-5e53-a0ef-eb1708a6560d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "233984924",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨雨Spring",
         "default": "cn"
       }
     },
