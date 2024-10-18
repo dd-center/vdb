@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729236937
+    "timestamp": 1729237108
   },
   "vtbs": [
     {
@@ -145875,6 +145875,23 @@
       "name": {
         "extra": [],
         "cn": "貓野奈木",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4b641986-1c16-51ab-891a-59ef57f421c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493141164329470",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "貔小貅Xiu",
         "default": "cn"
       }
     },
