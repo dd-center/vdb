@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729607907
+    "timestamp": 1729607980
   },
   "vtbs": [
     {
@@ -62216,6 +62216,23 @@
       "name": {
         "extra": [],
         "cn": "屁屁桃も",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de745921-b6bc-5848-8090-4905151d5ef1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546601008138686",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "居多饱",
         "default": "cn"
       }
     },
@@ -132836,6 +132853,23 @@
       }
     },
     {
+      "uuid": "dc5a5e6c-17e6-55b4-947d-3db46b723724",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "31807853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙老大kawa",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ed8d4812-a4b0-5368-ad33-505f0aae38ab",
       "type": "vtuber",
       "bot": false,
@@ -167392,6 +167426,23 @@
       "name": {
         "extra": [],
         "cn": "黛雅Dia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ddd7e7cf-0fe5-5e28-bd83-25c91dc618f9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546677879244804",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黧温婉",
         "default": "cn"
       }
     },
