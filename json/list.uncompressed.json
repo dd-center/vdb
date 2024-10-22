@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729513059
+    "timestamp": 1729607526
   },
   "vtbs": [
     {
@@ -9331,6 +9331,23 @@
       "name": {
         "extra": [],
         "cn": "SUKI酱_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "625d9203-0ef1-5837-80ac-83aa0acdfeb3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18018364",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Sagiowo",
         "default": "cn"
       }
     },
@@ -22543,23 +22560,6 @@
       "name": {
         "extra": [],
         "cn": "两只昔伏流年Twins",
-        "default": "cn"
-      }
-    },
-    {
-      "uuid": "659113ff-1936-5964-93dc-40e8a8ebcedc",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "18018364",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "丧喵是个大笨蛋",
         "default": "cn"
       }
     },
