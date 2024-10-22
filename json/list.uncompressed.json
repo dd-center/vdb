@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729607526
+    "timestamp": 1729607564
   },
   "vtbs": [
     {
@@ -27915,6 +27915,23 @@
       "name": {
         "extra": [],
         "cn": "猫庭ネコロ_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "63c1ab5b-070f-5270-99dd-dc451241a717",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "398759137",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伏特Volt",
         "default": "cn"
       }
     },
