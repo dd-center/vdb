@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729638585
+    "timestamp": 1729638646
   },
   "vtbs": [
     {
@@ -156064,6 +156064,24 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "af5ed503-fad6-5d5b-a0ce-3c5b6578c970",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "661932490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雅尾墨沫",
+        "en": "mormya",
+        "default": "cn"
+      }
     },
     {
       "uuid": "61fb41d0-8f97-51b6-82fd-ebe9d4f1f21f",
