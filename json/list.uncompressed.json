@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729607998
+    "timestamp": 1729608064
   },
   "vtbs": [
     {
@@ -4393,6 +4393,23 @@
         "extra": [],
         "en": "JJ",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "0f9b7d90-b156-5ab4-aa79-98d288cc9886",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "431509257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Jasmine彼岸茉莉",
+        "default": "cn"
       }
     },
     {
@@ -28927,6 +28944,23 @@
       },
       "group": "d4d3135b-dd1c-57e2-9122-a249c97d40e7",
       "group_name": "TheVirkyrie"
+    },
+    {
+      "uuid": "330bc0c8-4e56-5ce3-9aa2-7a14299c460e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546655301306499",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佩提亚Pythia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9a9d239c-11e9-5fba-a937-b69ad0bf7b80",
