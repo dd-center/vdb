@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729607564
+    "timestamp": 1729607907
   },
   "vtbs": [
     {
@@ -40315,6 +40315,23 @@
       }
     },
     {
+      "uuid": "6757e4ca-29ce-5851-832e-98bdd8126a66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493283607088082",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶绯页",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "aca95fe7-a3bf-5c5f-b1e2-077dade8184d",
       "type": "vtuber",
       "bot": false,
@@ -75334,15 +75351,14 @@
       "bot": false,
       "accounts": [
         {
-          "id": "3493135948712823",
+          "id": "3546653883632229",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "星光",
-        "en": "Kirarin",
+        "cn": "星光Kirarin",
         "default": "cn"
       }
     },
