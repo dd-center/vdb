@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784033
+    "timestamp": 1729784103
   },
   "vtbs": [
     {
@@ -116686,6 +116686,23 @@
       "name": {
         "extra": [],
         "cn": "皮卡少个丘w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee035a52-eea0-54cf-9b82-dc7f3baa0e1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "407390146",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皮卡秋秋oi",
         "default": "cn"
       }
     },
