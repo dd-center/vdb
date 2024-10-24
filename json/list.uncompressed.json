@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784378
+    "timestamp": 1729784979
   },
   "vtbs": [
     {
@@ -120721,6 +120721,23 @@
       }
     },
     {
+      "uuid": "56f1127a-41a7-5749-aa64-d0283e2cb9b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546584331585767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "福宝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "eb78c2a3-d9e7-538f-99d8-1058dd337f2d",
       "type": "vtuber",
       "bot": false,
@@ -145182,6 +145199,23 @@
       "name": {
         "extra": [],
         "cn": "词水",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8973b167-97c7-5978-b180-bf252dec1f8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "301466320",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "词词_Ci",
         "default": "cn"
       }
     },
