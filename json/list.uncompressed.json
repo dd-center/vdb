@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729638646
+    "timestamp": 1729729967
   },
   "vtbs": [
     {
@@ -21045,7 +21045,9 @@
         "extra": [],
         "cn": "万花知",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "406a3bc7-a4a6-5483-8304-9b3b5e7e78b0",
@@ -25106,8 +25108,8 @@
         "cn": "云路翼Tsubasa",
         "default": "cn"
       },
-      "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
-      "group_name": "ChaosLiveSprout"
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "bb3e3615-5add-598b-bbcc-64b7b0d32755",
@@ -35512,6 +35514,24 @@
       }
     },
     {
+      "uuid": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1240518940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北立交桥（妖精管理局）",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879"
+    },
+    {
       "uuid": "7cd0d298-d29b-522a-8017-463b29926571",
       "type": "vtuber",
       "bot": false,
@@ -38039,7 +38059,9 @@
         "extra": [],
         "cn": "卡希娅Kirara",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "f4243676-6b14-5918-a4bc-91f2d05998eb",
@@ -40363,7 +40385,9 @@
         "extra": [],
         "cn": "叶绯页",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "aca95fe7-a3bf-5c5f-b1e2-077dade8184d",
@@ -44255,7 +44279,9 @@
         "extra": [],
         "cn": "喵柠Meolen",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "c5daecb1-fe45-562a-ad0d-e984dc113935",
@@ -62268,7 +62294,9 @@
         "extra": [],
         "cn": "居多饱",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "b911df5f-bda6-5133-a5a8-8acc660c19b7",
@@ -63466,7 +63494,9 @@
         "extra": [],
         "cn": "左素梨Sasori",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "443a2c9b-cac9-591f-a0af-ed2579bd7f71",
@@ -75411,7 +75441,9 @@
         "extra": [],
         "cn": "星光Kirarin",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "2221b583-045b-560e-a562-103c28eb381c",
@@ -81141,7 +81173,9 @@
         "extra": [],
         "cn": "曾被称为卡米的龟",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "8dc7c123-f938-5b79-aee4-b10cbf26ab05",
@@ -84760,7 +84794,9 @@
         "extra": [],
         "cn": "李锦鲤lili",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "8cc309cd-5fbb-523b-a27f-af8510a9c22d",
@@ -84794,7 +84830,9 @@
         "extra": [],
         "cn": "李鲸狸Zing",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "2e3a49f4-c1a2-5488-986a-4129383f763e",
@@ -101432,7 +101470,9 @@
         "extra": [],
         "cn": "清乖子",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "9a7d7f0b-6ff5-5993-bd77-a05678366133",
@@ -109119,7 +109159,9 @@
         "extra": [],
         "cn": "王宝煲",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "0d90f7d9-6a89-5e8e-b9f5-077181b433d3",
@@ -123884,8 +123926,8 @@
         "cn": "米茜",
         "default": "cn"
       },
-      "group": "da7a049d-15cc-57f9-bb68-49af75ad7b52",
-      "group_name": "虚研学园"
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "6c346c39-8716-52a0-8b7f-01b36d762bee",
@@ -135196,23 +135238,6 @@
       }
     },
     {
-      "uuid": "29c75754-43a9-5588-9f94-11fd204881d6",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "23172676",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "芸小芸",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "12f6a611-e89c-5818-8079-46dea1124a82",
       "type": "vtuber",
       "bot": false,
@@ -137366,6 +137391,25 @@
         "cn": "荔汁o",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7b8fe3a0-6527-5d25-8660-1b87bc4891fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23172676",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荟小荟",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "e46f9a4d-9efa-504e-9107-bc9397d9a49a",
@@ -147505,7 +147549,9 @@
         "extra": [],
         "cn": "赵狮虎",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "6fc58bb1-d219-58f4-ade3-298300da5e3c",
@@ -162325,7 +162371,9 @@
         "extra": [],
         "cn": "骸菈hella",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "c6c8b9c3-938c-5070-be34-d2583d7da05d",
@@ -162755,7 +162803,9 @@
         "extra": [],
         "cn": "魈格Yezpi",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "97338598-0299-5636-b87f-5383d280a69c",
