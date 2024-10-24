@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784979
+    "timestamp": 1729785156
   },
   "vtbs": [
     {
@@ -54039,6 +54039,23 @@
       }
     },
     {
+      "uuid": "20aec96b-2172-551c-99f4-dcb35f05377a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546384850487621",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮娅Nira",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fc6e16ba-b1df-5814-898a-50d75da2afa1",
       "type": "vtuber",
       "bot": false,
@@ -62977,6 +62994,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "e733835e-32e4-5c3d-9749-f5e076b74da5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546678934112839",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岁礼hana",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a2dfbe6d-579b-50da-a404-9d80711403d7",
@@ -101263,6 +101297,23 @@
       "name": {
         "extra": [],
         "cn": "淇淋_702",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1bcf8325-1b24-5eed-9d45-b5d0bc1d040a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546639341980296",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "淇软软Rua",
         "default": "cn"
       }
     },
