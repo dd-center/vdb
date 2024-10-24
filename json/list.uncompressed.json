@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729785366
+    "timestamp": 1729785538
   },
   "vtbs": [
     {
@@ -54605,6 +54605,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "a7b19276-3ce1-525d-a879-7253f4ddf52f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546597585587017",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姬路姬咲花",
+        "default": "cn"
+      }
     },
     {
       "uuid": "211a4cb1-ef00-567d-ae8d-b636bae430f5",
