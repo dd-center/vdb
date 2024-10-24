@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784210
+    "timestamp": 1729784235
   },
   "vtbs": [
     {
@@ -112259,6 +112259,23 @@
       "name": {
         "extra": [],
         "cn": "甜甜妮宝来啦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "661d19fa-0ac6-57bc-97d8-a7deaf2f94b8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546389174815100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "甜茶兔Tian",
         "default": "cn"
       }
     },
