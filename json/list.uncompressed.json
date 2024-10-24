@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784235
+    "timestamp": 1729784338
   },
   "vtbs": [
     {
@@ -147510,6 +147510,23 @@
       "name": {
         "extra": [],
         "cn": "赫米特Hermit",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "430b2f54-a2e6-5c29-82ff-a97c8beec058",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1523580174",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赫莉Helia",
         "default": "cn"
       }
     },
