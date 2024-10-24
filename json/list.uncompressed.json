@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729785560
+    "timestamp": 1729785594
   },
   "vtbs": [
     {
@@ -33041,6 +33041,23 @@
       "name": {
         "extra": [],
         "cn": "凉栀Tiphareth",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1a0704ba-0b5f-56d7-9f15-b76cfbe25cd1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493130747775787",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凉笙不打嗝",
         "default": "cn"
       }
     },
