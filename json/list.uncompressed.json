@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729729967
+    "timestamp": 1729784033
   },
   "vtbs": [
     {
@@ -22717,6 +22717,23 @@
       "name": {
         "extra": [],
         "cn": "中野流子_Ryuuko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "abf6920b-e6c8-5b82-9ca6-e9ad488b41ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2115602190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "临界十樱vv",
         "default": "cn"
       }
     },
