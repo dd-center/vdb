@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729784103
+    "timestamp": 1729784210
   },
   "vtbs": [
     {
@@ -42188,6 +42188,23 @@
       "name": {
         "extra": [],
         "cn": "咖喱目花花",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e23b11e-f854-5dc9-af95-c858506931c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "186647451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "咖喱羊_Kari",
         "default": "cn"
       }
     },
