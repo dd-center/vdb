@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729785156
+    "timestamp": 1729785194
   },
   "vtbs": [
     {
@@ -50180,6 +50180,23 @@
       "name": {
         "extra": [],
         "cn": "天仓五Alice",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d100a107-59a4-5c71-9d47-e5da3d946271",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "110534132",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天使01_Nekoya",
         "default": "cn"
       }
     },
