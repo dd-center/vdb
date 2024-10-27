@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1729785594
+    "timestamp": 1730028445
   },
   "vtbs": [
     {
@@ -125770,6 +125770,23 @@
       },
       "group": "ee816e2d-0287-51df-b3d9-3c930e3e1474",
       "group_name": "yifun社"
+    },
+    {
+      "uuid": "574f76da-adaa-5419-93f4-72dcbe2d3c39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10217431",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "結城さくな的洋葱港",
+        "default": "cn"
+      }
     },
     {
       "uuid": "113f7ead-aaa6-562c-86c7-f53325eec04c",
