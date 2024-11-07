@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1730028445
+    "timestamp": 1730983005
   },
   "vtbs": [
     {
@@ -121779,6 +121779,23 @@
       "name": {
         "extra": [],
         "cn": "程诚橙Makoto",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "452c9b78-b159-50fa-8fc4-a0b01acf81ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546617305107187",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "程锦愉",
         "default": "cn"
       }
     },
