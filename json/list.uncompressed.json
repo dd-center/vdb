@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1732582256
+    "timestamp": 1732582303
   },
   "vtbs": [
     {
@@ -131627,6 +131627,23 @@
         "extra": [],
         "cn": "艾博单",
         "en": "Ableton",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fc764a86-4dad-5789-8397-9b3f02b14a5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493259005397451",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾卜nana",
         "default": "cn"
       }
     },
