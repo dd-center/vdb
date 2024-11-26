@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1732585186
+    "timestamp": 1732585287
   },
   "vtbs": [
     {
@@ -58029,6 +58029,23 @@
       }
     },
     {
+      "uuid": "3e0d44b9-0f35-51de-ae21-3d9e46ec8d0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "511361735",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小优优_emi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "52cde1da-baa8-51e2-8f52-cd7daaec1d96",
       "type": "vtuber",
       "bot": false,
@@ -60364,6 +60381,23 @@
       "name": {
         "extra": [],
         "cn": "小羊滚滚Psyche",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2eb74a2f-fcb7-539d-a156-5a61c3395deb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546633239268268",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小羊芒芒lulu",
         "default": "cn"
       }
     },
