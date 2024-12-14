@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734166651
+    "timestamp": 1734166915
   },
   "vtbs": [
     {
@@ -112030,6 +112030,23 @@
       }
     },
     {
+      "uuid": "43d0ca3b-d2c4-5683-b3ef-f6154a06285b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1183356234",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞泽Rise",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c8d749ea-9459-5dca-ab55-6d9ab5fa0a58",
       "type": "vtuber",
       "bot": false,
@@ -142601,6 +142618,23 @@
       "name": {
         "extra": [],
         "cn": "蔚蓝色山谷",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f4477b59-d9a2-541b-a4ed-2d4531e5696d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1875318335",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蔴夢奈奈mamonana",
         "default": "cn"
       }
     },
