@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734165861
+    "timestamp": 1734166161
   },
   "vtbs": [
     {
@@ -8272,18 +8272,6 @@
         "en": "PorcelainMaid",
         "default": "en"
       }
-    },
-    {
-      "uuid": "303f0327-99b2-5643-bbb6-23c48d2a613a",
-      "type": "group",
-      "bot": false,
-      "accounts": [],
-      "name": {
-        "extra": [],
-        "en": "Project OvO",
-        "default": "en"
-      },
-      "group": "303f0327-99b2-5643-bbb6-23c48d2a613a"
     },
     {
       "uuid": "e94c397a-eb34-56c9-a0cf-051bccc0dab4",
@@ -79762,7 +79750,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "是小音哦-",
+        "cn": "是小音哦",
         "default": "cn"
       }
     },
@@ -82452,6 +82440,23 @@
       "name": {
         "extra": [],
         "cn": "月纱_Lilith",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "096cd356-3e10-596a-aa9b-2d98c3c04a05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493088504842814",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月绛八分甜",
         "default": "cn"
       }
     },
@@ -100218,6 +100223,23 @@
       "name": {
         "extra": [],
         "cn": "洛维娅Lovia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "34a8c4a8-db8c-53c4-9a6b-9abd57e25a19",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546756058974315",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛羽曦lotus",
         "default": "cn"
       }
     },
@@ -144074,6 +144096,23 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "c678bda9-42aa-51a3-80de-75a0603435de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "676325606",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蜜糖Mido",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5c19c635-7160-5d08-a683-4ee549c827cc",
