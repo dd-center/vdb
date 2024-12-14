@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734166299
+    "timestamp": 1734166416
   },
   "vtbs": [
     {
@@ -114418,6 +114418,23 @@
       }
     },
     {
+      "uuid": "6e0fc663-b802-55cb-9fcb-2a54b23e0ab6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546700983568847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白又又yo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "282334be-067d-5baf-bf2c-dd2be832c33f",
       "type": "vtuber",
       "bot": false,
@@ -142968,6 +142985,23 @@
       }
     },
     {
+      "uuid": "f76bef05-0846-5e30-8031-1f883ed453fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493091359066160",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薇恩Vain",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "55c22776-95e2-5fdb-8f0e-acd8406d6661",
       "type": "vtuber",
       "bot": false,
@@ -165381,6 +165415,23 @@
         "extra": [],
         "jp": "鶴傘リア",
         "en": "tsukasa ria",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "62dc3c50-66bb-59a1-b9f3-8cb59b65fd42",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546589488483041",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鶴河咲雪Vtuber",
         "default": "jp"
       }
     },
