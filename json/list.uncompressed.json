@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734166924
+    "timestamp": 1734458748
   },
   "vtbs": [
     {
@@ -97494,6 +97494,23 @@
       "name": {
         "extra": [],
         "cn": "池泽瑞希",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c3c71a99-ec8c-59b3-8a67-dd4aa33441dd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493268100745716",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池狱Chiel",
         "default": "cn"
       }
     },
