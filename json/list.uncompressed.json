@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734755180
+    "timestamp": 1734755777
   },
   "vtbs": [
     {
@@ -54065,6 +54065,23 @@
         "extra": [],
         "cn": "如月南minami",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "be09ecd2-1e1b-503f-af9a-ed2ea5165f8f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546744172316709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "如月紬衣",
+        "default": "JP"
       }
     },
     {
@@ -145821,6 +145838,23 @@
       "group_name": "问尘仙会"
     },
     {
+      "uuid": "3e6943c3-739f-516e-8817-f4ca3ae4685f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "689646",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "西门小昭",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "222fbf2a-eaf1-5d1b-929b-51bff95b2ae4",
       "type": "vtuber",
       "bot": false,
@@ -160983,6 +161017,23 @@
         "extra": [],
         "cn": "露米娜lumina",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "b9ef4b34-77d9-54e5-bc2a-dc21b7dc34b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1137050473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "露维娅Luvia",
+        "default": "CN"
       }
     },
     {
