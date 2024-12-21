@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734458748
+    "timestamp": 1734754856
   },
   "vtbs": [
     {
@@ -4174,6 +4174,18 @@
         "default": "cn"
       },
       "group": "d406e5da-ef7d-5e0f-9439-264188944758"
+    },
+    {
+      "uuid": "0c089df5-5af9-50fd-94ea-b469b6847d0f",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "ID": "Hololive ID (印尼分部)",
+        "default": "ID"
+      },
+      "group": "0c089df5-5af9-50fd-94ea-b469b6847d0f"
     },
     {
       "uuid": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
