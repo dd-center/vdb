@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1734756370
+    "timestamp": 1734775465
   },
   "vtbs": [
     {
@@ -83302,6 +83302,23 @@
       }
     },
     {
+      "uuid": "216afd63-9b0e-5363-9d7e-e069d6fe4fe1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546746888129032",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "月铃姬乃",
+        "default": "JP"
+      }
+    },
+    {
       "uuid": "865f25e6-0d32-5d40-b969-a40ac6746ef1",
       "type": "vtuber",
       "bot": false,
@@ -116279,6 +116296,23 @@
         "extra": [],
         "cn": "白羽梦YOMO_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d93717d3-e118-51a6-b1a3-239503a4f5ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546746235914440",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白羽瀬夢流",
+        "default": "jp"
       }
     },
     {
