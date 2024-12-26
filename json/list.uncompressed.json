@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735190909
+    "timestamp": 1735205750
   },
   "vtbs": [
     {
@@ -71186,6 +71186,23 @@
       "name": {
         "extra": [],
         "cn": "想不长肉的喵小泽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bc054704-4d4a-500d-9818-fe9f4724d620",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546800262744876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "想冬眠的呆呆狐",
         "default": "cn"
       }
     },
