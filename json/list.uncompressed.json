@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735157797
+    "timestamp": 1735190833
   },
   "vtbs": [
     {
@@ -101386,6 +101386,23 @@
       "name": {
         "extra": [],
         "cn": "浮酒盈樽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "436a1a70-90f4-510e-a989-811b09735b1b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546727609010502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浮鸾Flora",
         "default": "cn"
       }
     },
