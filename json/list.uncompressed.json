@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735190833
+    "timestamp": 1735190909
   },
   "vtbs": [
     {
@@ -143080,6 +143080,25 @@
       },
       "group": "682089de-7fe5-5303-8939-37eeab633407",
       "group_name": "WACTOR"
+    },
+    {
+      "uuid": "12677d5d-e132-54a6-8368-6a8564e0185b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537123718203953",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾娜Layla",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
     },
     {
       "uuid": "d11a0fd3-c773-503f-aae5-18e9ad3ac3d0",
