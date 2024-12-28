@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735370654
+    "timestamp": 1735392241
   },
   "vtbs": [
     {
@@ -118216,6 +118216,23 @@
       "name": {
         "extra": [],
         "cn": "皮皮BiTi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "471f6ec8-3447-5944-83e9-87d8bd29d927",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1509277801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皮皮_channel",
         "default": "cn"
       }
     },
