@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735300249
+    "timestamp": 1735370654
   },
   "vtbs": [
     {
@@ -61659,6 +61659,23 @@
       "name": {
         "extra": [],
         "cn": "小阿宠mya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2dd1714-f3ea-510d-8da8-58a88fdb822e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "449111192",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小陈的冒险之旅",
         "default": "cn"
       }
     },
