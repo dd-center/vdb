@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735474492
+    "timestamp": 1735640599
   },
   "vtbs": [
     {
@@ -125959,6 +125959,23 @@
       "name": {
         "extra": [],
         "cn": "粥粥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cbb51142-3075-56c0-a57c-7a21a0fc907c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546763111696527",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-粼音Lynn-",
         "default": "cn"
       }
     },
