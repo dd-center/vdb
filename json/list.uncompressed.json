@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1735743624
+    "timestamp": 1736025785
   },
   "vtbs": [
     {
@@ -138250,6 +138250,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "3846f17e-83dd-5526-870f-1096528d565f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11087216",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉茉嫤Sara",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4cc46fa2-0d61-5c4f-81ca-a0c991bffa19",
