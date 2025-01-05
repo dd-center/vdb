@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1736025785
+    "timestamp": 1736059688
   },
   "vtbs": [
     {
@@ -38458,6 +38458,25 @@
         "cn": "卡戎Charon-H",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fe9b6fb2-0760-5cfe-84d8-6106f0302fc5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546730930899337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卡拉Kira",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "4467de47-2c60-5d74-8803-b46fa3fcd3f9",
