@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1736059731
+    "timestamp": 1736322671
   },
   "vtbs": [
     {
@@ -70388,6 +70388,23 @@
       "name": {
         "extra": [],
         "cn": "思林9月17双满呦",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f26c48b1-f9a8-537e-b6c6-7ddd02134ca8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546686139926802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "思落Sly",
         "default": "cn"
       }
     },
