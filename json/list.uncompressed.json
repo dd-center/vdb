@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1736322671
+    "timestamp": 1737476073
   },
   "vtbs": [
     {
@@ -169458,6 +169458,23 @@
         "extra": [],
         "jp": "黒羽マオ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f1417693-340c-5d08-9970-5118bdd69693",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2606266",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黒羽桜鵺SakuYa",
+        "default": "cn"
       }
     },
     {
