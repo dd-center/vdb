@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1737476073
+    "timestamp": 1737476113
   },
   "vtbs": [
     {
@@ -34147,6 +34147,23 @@
       "name": {
         "extra": [],
         "cn": "凰清音Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "936062d6-70bc-564c-a6ce-94cc9ee3e8eb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17793729",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凰荧荧",
         "default": "cn"
       }
     },
@@ -157501,6 +157518,25 @@
         "cn": "MOKONA010",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "9266d821-1124-5530-ba00-1c50eb5518c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546382644283549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿黄黄huhu",
+        "default": "cn"
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
+      "group_name": "纸片人计划"
     },
     {
       "uuid": "2fb44a10-1a8d-5c4d-acb6-328424a8c440",
