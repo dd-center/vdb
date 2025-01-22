@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1737561213
+    "timestamp": 1737561275
   },
   "vtbs": [
     {
@@ -73113,6 +73113,45 @@
         "cn": "拉斯洛official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5075b990-5a8b-5f44-a3a8-2447ee3aba07",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546816039619075",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "UCENwRMx5Yh42zWpzURebzTw",
+          "type": "official",
+          "platform": "youtube"
+        },
+        {
+          "id": "LaplusDarknesss",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "79E627B7052ED31F_f0d7a7",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "laplusdarknesss_hololive",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "拉普拉斯暗黑",
+        "default": "cn"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "11d6dad2-bfd5-5dd5-a42e-2c4aa35c3de6",
