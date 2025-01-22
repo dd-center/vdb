@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1737476381
+    "timestamp": 1737561213
   },
   "vtbs": [
     {
@@ -100199,6 +100199,25 @@
         "cn": "泽荇ovo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6935e1ba-574a-54ef-8242-609c135b8036",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1203217682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽音Melody",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "3b9476f7-8905-54cd-802b-55c10ecd3f9b",
