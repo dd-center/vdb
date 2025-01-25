@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1737828462
+    "timestamp": 1737828508
   },
   "vtbs": [
     {
@@ -3641,6 +3641,100 @@
         "cn": "Fr0",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8bb1dc25-7b74-547a-8bef-634263794404",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546827005627070",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Fulaco-Official",
+        "default": "en"
+      },
+      "group": "8bb1dc25-7b74-547a-8bef-634263794404"
+    },
+    {
+      "uuid": "2165d7cc-ea4c-5194-8a6e-28be65c6b061",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546827104192613",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "橙织",
+        "default": "cn"
+      },
+      "group": "8bb1dc25-7b74-547a-8bef-634263794404",
+      "group_name": "Fulaco-Official"
+    },
+    {
+      "uuid": "78aedc49-1d9c-588c-8964-f6784f93492f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546827114678761",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾芽芽",
+        "default": "cn"
+      },
+      "group": "8bb1dc25-7b74-547a-8bef-634263794404",
+      "group_name": "Fulaco-Official"
+    },
+    {
+      "uuid": "b370582a-e89f-5d1b-a2f0-43fa1ecefb4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546827064346698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茵果",
+        "default": "cn"
+      },
+      "group": "8bb1dc25-7b74-547a-8bef-634263794404",
+      "group_name": "Fulaco-Official"
+    },
+    {
+      "uuid": "c85e6ec8-788a-5a4c-af73-c87114508ed9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546828106631502",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "龙舍蓝",
+        "default": "cn"
+      },
+      "group": "8bb1dc25-7b74-547a-8bef-634263794404",
+      "group_name": "Fulaco-Official"
     },
     {
       "uuid": "9ec3f894-f793-5ef2-826b-e5faf0fbd759",
