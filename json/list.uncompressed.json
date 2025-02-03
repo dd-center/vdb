@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1737828508
+    "timestamp": 1738590502
   },
   "vtbs": [
     {
@@ -77203,6 +77203,23 @@
       },
       "group": "9abdd959-092b-59ab-aa0e-c4a8a310094a",
       "group_name": "Virtual放送部"
+    },
+    {
+      "uuid": "a503bc88-ecf7-55a8-b9ad-a13610121ce7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "433612309",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宮雲",
+        "default": "cn"
+      }
     },
     {
       "uuid": "04bcaa60-1b16-50d2-9a6d-700b04d19fd5",
