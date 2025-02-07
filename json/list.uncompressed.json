@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1738590502
+    "timestamp": 1738912937
   },
   "vtbs": [
     {
@@ -93670,6 +93670,23 @@
       "name": {
         "extra": [],
         "cn": "椰子奶冻儿",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f44350a6-4ed0-5a98-840d-2538eedf843e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1770475809",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "椰岛又沐风",
         "default": "cn"
       }
     },
