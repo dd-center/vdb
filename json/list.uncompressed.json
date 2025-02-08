@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1738912937
+    "timestamp": 1739024387
   },
   "vtbs": [
     {
@@ -163814,6 +163814,23 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
+    },
+    {
+      "uuid": "f18f9461-77b0-5a8b-ac76-3e009bb59e45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546384682715555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风见三月MitsuKi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6d7f6154-cc0e-5b2b-81ca-1b4e57a94201",
