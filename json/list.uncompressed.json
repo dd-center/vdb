@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739024387
+    "timestamp": 1739061318
   },
   "vtbs": [
     {
@@ -95785,6 +95785,23 @@
       "name": {
         "extra": [],
         "cn": "欧露露oulu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "59ace37f-7df1-5afe-834f-547037df60f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "24085035",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "款款早点睡",
         "default": "cn"
       }
     },
