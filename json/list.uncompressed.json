@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739061318
+    "timestamp": 1739234979
   },
   "vtbs": [
     {
@@ -107419,6 +107419,23 @@
         "en": "Moarin",
         "jp": "モアリン",
         "kr": "모아린",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b806a69-f3d0-5e61-8f29-cb80a96c2922",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493276537588391",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "牢丝r_",
         "default": "cn"
       }
     },
