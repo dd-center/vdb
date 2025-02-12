@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739234979
+    "timestamp": 1739366715
   },
   "vtbs": [
     {
@@ -71008,6 +71008,30 @@
         "extra": [],
         "cn": "恶霸叁叁San",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6b3ae66-279d-5a61-a7ef-398ec14f1e88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546671629732103",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "agrorodemonio",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "agrorodemonio",
+        "cn": "恶鬼roro",
+        "jp": "悪黒ろろ",
+        "default": "en"
       }
     },
     {
