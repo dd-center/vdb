@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739366715
+    "timestamp": 1739461114
   },
   "vtbs": [
     {
@@ -259,6 +259,23 @@
       "name": {
         "extra": [],
         "cn": "-愛理Airi-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41a0b4a6-ead3-5d0d-8e2f-83134c13f91a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20163928",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-招-",
         "default": "cn"
       }
     },
@@ -160401,6 +160418,23 @@
       "name": {
         "extra": [],
         "cn": "零年记述",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bf666adf-d181-599a-87c9-d5104f08e68a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "14346198",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零星的梦喵",
         "default": "cn"
       }
     },
