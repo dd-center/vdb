@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739461114
+    "timestamp": 1739526227
   },
   "vtbs": [
     {
@@ -25508,6 +25508,23 @@
       "name": {
         "extra": [],
         "cn": "五丸_Gomaru",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "257a4d30-b6c2-524e-8e68-a913077cfb1f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3146143",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五仁Azuria-",
         "default": "cn"
       }
     },
