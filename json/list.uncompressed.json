@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1739526227
+    "timestamp": 1739595463
   },
   "vtbs": [
     {
@@ -2297,6 +2297,23 @@
       },
       "group": "8e11a33b-c9e1-574f-8300-c8e5aa050010",
       "group_name": "神椿工作室"
+    },
+    {
+      "uuid": "2b03b939-3f38-512c-8c0f-29ebcd8c21f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "10052432",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "CPU番长",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e46b9a98-9c92-5582-a6d2-7cfdde04d35a",
