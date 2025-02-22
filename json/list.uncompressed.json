@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1740248986
+    "timestamp": 1740249009
   },
   "vtbs": [
     {
@@ -116837,6 +116837,23 @@
         "extra": [],
         "cn": "白糖是只懒猫",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "977142c4-9e9d-54c9-98e4-e7287d03297a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1389126155",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白紫茉莉Official",
+        "default": "jp"
       }
     },
     {
