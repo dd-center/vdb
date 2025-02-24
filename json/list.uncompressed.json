@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1740249009
+    "timestamp": 1740387468
   },
   "vtbs": [
     {
@@ -97875,6 +97875,23 @@
       "name": {
         "extra": [],
         "cn": "江夫人_KWKmia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e759945c-9889-543a-b001-232026cb95f8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546796225727272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江小软软",
         "default": "cn"
       }
     },
