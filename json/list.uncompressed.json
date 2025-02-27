@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1740387468
+    "timestamp": 1740637753
   },
   "vtbs": [
     {
@@ -102472,6 +102472,23 @@
       }
     },
     {
+      "uuid": "b5ae8939-ec58-5eb8-843c-ae7ce7b0dce9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21459239",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海里醒Le",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "00d081f2-46b0-5931-a580-c1050b55c9bf",
       "type": "vtuber",
       "bot": false,
@@ -165944,6 +165961,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "b9642418-f5d6-5b7c-94f9-43d881b50896",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546648460396958",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔福mofu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "54a38c1b-417b-56ef-a95d-e09361db8428",
