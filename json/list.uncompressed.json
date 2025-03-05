@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1740637753
+    "timestamp": 1741216641
   },
   "vtbs": [
     {
@@ -162149,6 +162149,23 @@
       },
       "group": "d7af6703-ed00-53bf-aa46-0d5cf679925b",
       "group_name": "虚研社"
+    },
+    {
+      "uuid": "8c0e2230-ede2-5006-9180-81082018dd8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493117363751402",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青叶映桃眠Echo",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a0075cca-e1aa-599d-b979-1aa4020c8b0b",
