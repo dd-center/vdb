@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1741216641
+    "timestamp": 1741264246
   },
   "vtbs": [
     {
@@ -126444,6 +126444,23 @@
         "extra": [],
         "cn": "精灵希尔芙Sylph",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b5cb6cf-0de2-502b-ac2b-0bbd6151e1e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546760175684519",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn+": "糊涂蛋uni",
+        "default": "cn+"
       }
     },
     {
