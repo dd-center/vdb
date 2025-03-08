@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1741264246
+    "timestamp": 1741445077
   },
   "vtbs": [
     {
@@ -54827,6 +54827,25 @@
         "cn": "妮幼nyo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8de4eacb-d8ae-5c05-96fc-c59722c43a47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1085959883",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮慕Nimue",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "1201cc79-5fb4-5a8d-a045-f5bb8c40048b",
