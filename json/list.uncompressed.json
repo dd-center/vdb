@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1741445077
+    "timestamp": 1741445129
   },
   "vtbs": [
     {
@@ -21689,6 +21689,25 @@
       }
     },
     {
+      "uuid": "1de00607-adbd-5337-9cd4-324d3f9619d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2030198123",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三理Mit3uri",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "def713c4-c480-5955-a3a7-34761ec3dcf3",
       "type": "vtuber",
       "bot": false,
@@ -42361,6 +42380,25 @@
         "cn": "味噌缇露official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "385ea97f-a969-5555-8001-a484b605f84f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1985811151",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "命依Mei",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "fbd0920e-0db4-5568-9a4d-c789578fd6e3",
@@ -98683,6 +98721,25 @@
         "cn": "沐晓空Channel",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3ad41902-e270-5bae-9fa2-aaa69b1058e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1848752274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沐毛Meme",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "f6c98486-336e-5941-8453-23a01db7cd27",
