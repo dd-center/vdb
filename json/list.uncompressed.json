@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1741445129
+    "timestamp": 1741821387
   },
   "vtbs": [
     {
@@ -82472,6 +82472,23 @@
       "name": {
         "extra": [],
         "cn": "曲师师",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a43d0317-9961-5892-9c93-14f2d9fffaf6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2007327534",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "曲曲-QUQU",
         "default": "cn"
       }
     },
