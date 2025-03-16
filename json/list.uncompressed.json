@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1741821387
+    "timestamp": 1742133098
   },
   "vtbs": [
     {
@@ -162719,6 +162719,23 @@
       "name": {
         "extra": [],
         "cn": "静酒今天跑步了吗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1c161157-a263-51d4-a457-9bab05a942c4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546856804059245",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "非与Feiy",
         "default": "cn"
       }
     },
