@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1742880190
+    "timestamp": 1743038675
   },
   "vtbs": [
     {
@@ -60007,6 +60007,23 @@
           "小懒猫"
         ],
         "cn": "小懒猫Meow",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "08224187-b11a-598c-818c-8a57ac9c63d3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494355077696482",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小搞_official",
         "default": "cn"
       }
     },
