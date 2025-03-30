@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743320423
+    "timestamp": 1743342927
   },
   "vtbs": [
     {
@@ -79979,6 +79979,23 @@
       "name": {
         "extra": [],
         "cn": "春小花sama",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c2de9e7-b327-5327-8b5d-20fb69d1df06",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1751577265",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春山响hibiki",
         "default": "cn"
       }
     },
