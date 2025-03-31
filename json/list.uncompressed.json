@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743425532
+    "timestamp": 1743425558
   },
   "vtbs": [
     {
@@ -161522,6 +161522,25 @@
       },
       "group": "81d136a4-1fc0-590e-a041-fe5afffc7873",
       "group_name": "Neo Hertz"
+    },
+    {
+      "uuid": "fba1a8fb-ee6e-5b79-97b7-ad9aa5a76741",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546585455659322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霄奈子nako",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "38a0acc6-b54d-507e-84aa-45fdf09bb3db",
