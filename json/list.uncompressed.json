@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743342927
+    "timestamp": 1743425532
   },
   "vtbs": [
     {
@@ -46425,6 +46425,25 @@
       },
       "group": "a9c61b37-d0c1-5bb6-a4a8-3ae38afa28c4",
       "group_name": "贴贴社"
+    },
+    {
+      "uuid": "34b9a192-fab0-56df-85c5-18f4dc90afef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546775765912341",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "坷埋埋",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "e2c4f1ad-d0d9-59c0-aad6-a6addb9feaf8",
