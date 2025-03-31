@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743425558
+    "timestamp": 1743425636
   },
   "vtbs": [
     {
@@ -102182,6 +102182,25 @@
       "group_name": "幻想社Fantas1A"
     },
     {
+      "uuid": "2bda26ba-ca37-5989-bd60-f5f643c7d8e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546683384269650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海小夏Xia",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
+    },
+    {
       "uuid": "a33af058-648e-55d7-9cd2-de1944799cb0",
       "type": "vtuber",
       "bot": false,
@@ -141770,6 +141789,23 @@
       }
     },
     {
+      "uuid": "4640d020-ea25-508f-a9b2-861c7bbfafa4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546726417828701",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲琳lucky",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9b9b7ed4-e1ca-55b6-9398-eeddb235caa2",
       "type": "vtuber",
       "bot": false,
@@ -161822,17 +161858,18 @@
       "bot": false,
       "accounts": [
         {
-          "id": "1093012038",
+          "id": "49643407",
           "type": "official",
           "platform": "bilibili"
         }
       ],
       "name": {
         "extra": [],
-        "cn": "霜露",
-        "en": "ShuangLu",
+        "cn": "霜露ShuangLu",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "6855c0c8-9793-5b5c-a83e-27e2cc1b3479",
