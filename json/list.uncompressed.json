@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743425636
+    "timestamp": 1743510416
   },
   "vtbs": [
     {
@@ -61854,23 +61854,6 @@
         "extra": [],
         "jp": "小野町春香",
         "default": "jp"
-      }
-    },
-    {
-      "uuid": "b01ef382-3926-547a-9a44-521062b5d6d1",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "164916047",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "小野莓栗Miko",
-        "default": "cn"
       }
     },
     {
@@ -140728,6 +140711,23 @@
       "name": {
         "extra": [],
         "cn": "莓珂DollsMaker",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ee652151-4ba3-5837-be5d-98cc509f991c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "164916047",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓莉可Miko",
         "default": "cn"
       }
     },
