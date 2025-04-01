@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743510416
+    "timestamp": 1743510439
   },
   "vtbs": [
     {
@@ -128334,6 +128334,23 @@
       },
       "group": "f2af776d-f318-5991-82ca-ff03e278328b",
       "group_name": "ゆにふぃ！"
+    },
+    {
+      "uuid": "772a39e8-289f-513c-b082-662c3b913ce4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12461558",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "红伊Hoi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8b4e881e-a0da-585f-beeb-1700273fca47",
