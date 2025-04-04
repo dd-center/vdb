@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743661354
+    "timestamp": 1743735993
   },
   "vtbs": [
     {
@@ -110886,6 +110886,23 @@
       }
     },
     {
+      "uuid": "452f54ba-4355-56a5-841f-3786d7b598ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "178429078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玉兔鹅Nerina",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f014aee8-5d7f-5852-b566-d6ad3af70081",
       "type": "vtuber",
       "bot": false,
@@ -130197,6 +130214,23 @@
       "name": {
         "extra": [],
         "cn": "绮里宵koyoi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe18c32f-8331-5dcc-8303-73dfab79194e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "114576718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮锂",
         "default": "cn"
       }
     },
