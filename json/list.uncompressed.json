@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1743915510
+    "timestamp": 1744012463
   },
   "vtbs": [
     {
@@ -98235,6 +98235,23 @@
       "name": {
         "extra": [],
         "cn": "池九墓",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2c9c3a15-3829-540f-a595-0c09e48eeebe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "92598618",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池奈伶rei",
         "default": "cn"
       }
     },
