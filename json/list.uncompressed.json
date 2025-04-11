@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1744207576
+    "timestamp": 1744371641
   },
   "vtbs": [
     {
@@ -115540,6 +115540,28 @@
         "extra": [],
         "cn": "白凛初雪Yuki_",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2db2efa2-958a-593d-a85f-1cd9db5ac521",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1188721336",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "engene_shirakirirei",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "白切鸰Official",
+        "default": "jp"
       }
     },
     {
