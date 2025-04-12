@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1744371641
+    "timestamp": 1744483209
   },
   "vtbs": [
     {
@@ -67587,6 +67587,23 @@
       "name": {
         "extra": [],
         "cn": "庄纵贤",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c20a20da-3c85-5130-9c31-2a150cbb1e15",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1295016665",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "序缪言_MiuYa",
         "default": "cn"
       }
     },
