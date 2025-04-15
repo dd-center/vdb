@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1744483227
+    "timestamp": 1744687333
   },
   "vtbs": [
     {
@@ -6094,6 +6094,23 @@
         "extra": [],
         "en": "MerryOfficial",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "a471df97-463a-50ae-b451-e4e39eea0383",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546871802890480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "MiKi岁岁",
+        "default": "cn"
       }
     },
     {
