@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1744904892
+    "timestamp": 1744904944
   },
   "vtbs": [
     {
@@ -10482,6 +10482,23 @@
         "extra": [],
         "en": "Sunao_desu",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "12d7f517-afcc-5bc7-8727-f8b948969308",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546862887897818",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "Sushimekabu",
+        "default": "JP"
       }
     },
     {
