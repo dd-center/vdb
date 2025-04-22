@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1744904944
+    "timestamp": 1745294404
   },
   "vtbs": [
     {
@@ -26413,6 +26413,23 @@
           "甜宝"
         ],
         "cn": "甜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0f5d82ca-3e83-5ba7-ad18-61c42f9f2a25",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546716517173570",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "仁子RENZ1",
         "default": "cn"
       }
     },
