@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1745294404
+    "timestamp": 1745454761
   },
   "vtbs": [
     {
@@ -50106,6 +50106,23 @@
       "group_name": "NIJISANJI"
     },
     {
+      "uuid": "61b7cdef-9628-543c-b67b-14d8ce007f57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "33064694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜车Azuya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "fc396d74-3645-572a-8c0e-3f000dc86ac1",
       "type": "vtuber",
       "bot": false,
@@ -81492,6 +81509,23 @@
         "extra": [],
         "cn": "晚晚Ailsa",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "32e1585a-891c-51be-826a-91edae70ffa3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546778829850973",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "晚月_Tsuki",
+        "default": "CN"
       }
     },
     {
