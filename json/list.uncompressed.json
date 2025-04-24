@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1745454832
+    "timestamp": 1745490661
   },
   "vtbs": [
     {
@@ -130515,6 +130515,25 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "f29b6d94-fe14-5ce2-bfd7-d3e2a3f13a06",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546387429984346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯宁Frenin",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "d994492e-1700-5329-ba5a-a2319d3a7c0c",
