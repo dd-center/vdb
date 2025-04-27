@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1745490661
+    "timestamp": 1745796745
   },
   "vtbs": [
     {
@@ -133707,6 +133707,23 @@
       }
     },
     {
+      "uuid": "1032bc6f-4b58-59c5-bdfc-fbeb92ba4f9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3717173",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾丝塔尔Ester",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e832d89d-bc4d-5247-a70c-6e9a794faa2b",
       "type": "vtuber",
       "bot": false,
@@ -156917,6 +156934,25 @@
         "cn": "阿否dayo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5c05a19a-e20d-5ec9-a4a2-2bf19eddb65b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493276590017291",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿哇Akai_awa",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "02fe2686-9ec6-5dea-9ea1-b955155bd076",
