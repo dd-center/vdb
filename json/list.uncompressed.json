@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1745796745
+    "timestamp": 1745856769
   },
   "vtbs": [
     {
@@ -29631,6 +29631,23 @@
       },
       "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
       "group_name": "超次元学院"
+    },
+    {
+      "uuid": "21ce13f9-230a-5e5c-9e12-48895d2d031a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546793340046096",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "修ShowTime-Egous",
+        "default": "en"
+      }
     },
     {
       "uuid": "6d2d44b0-b5f2-56a7-aaa7-7a691ea1797f",
@@ -112376,6 +112393,23 @@
       "name": {
         "extra": [],
         "cn": "琅诗琪_ShiQi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5e132c69-d9f0-5722-8bc5-1696123811ec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546742307949203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "理也Rimo",
         "default": "cn"
       }
     },
