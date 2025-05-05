@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1746241875
+    "timestamp": 1746419564
   },
   "vtbs": [
     {
@@ -77361,6 +77361,29 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "6e7d3ed8-3401-517a-8937-407c7ddbec6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546729811019868",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "lotus_hoshimori",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "星守れんげ",
+        "cn": "星守莲花",
+        "default": "jp"
+      }
     },
     {
       "uuid": "5eefbe12-27b1-5d96-a2e1-b795893777cf",
