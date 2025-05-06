@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1746441854
+    "timestamp": 1746533381
   },
   "vtbs": [
     {
@@ -160623,6 +160623,25 @@
       },
       "group": "89382922-bb93-5a94-94b6-06f217575139",
       "group_name": "Mlik Cat 奶猫协会"
+    },
+    {
+      "uuid": "aef9cd38-298c-5672-b166-61f1249f0fe2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546873688230117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪缇Tina",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "df453ce3-f5dd-59ea-bb90-317910b6b820",
