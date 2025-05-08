@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1746533381
+    "timestamp": 1746716779
   },
   "vtbs": [
     {
@@ -135520,6 +135520,23 @@
       "name": {
         "extra": [],
         "cn": "芙染-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9be1d07d-aec0-5009-8e92-76a24ef2c2e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546866377558195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙栗安Frian",
         "default": "cn"
       }
     },
