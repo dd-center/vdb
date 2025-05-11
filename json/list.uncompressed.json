@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1746716779
+    "timestamp": 1746979057
   },
   "vtbs": [
     {
@@ -164682,6 +164682,23 @@
       "name": {
         "extra": [],
         "cn": "风早梓",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d832b395-96c8-5d8d-b5cc-365f3503c4a1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546649829837475",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风早要Kaname",
         "default": "cn"
       }
     },
