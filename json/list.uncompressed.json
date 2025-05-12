@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1747068238
+    "timestamp": 1747068870
   },
   "vtbs": [
     {
@@ -54647,6 +54647,23 @@
       "name": {
         "extra": [],
         "cn": "妃理奈_Rina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e20ddd9f-4d18-5f67-8010-80ae614bb9d6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1326703100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妃莉纱Kisaki",
         "default": "cn"
       }
     },
