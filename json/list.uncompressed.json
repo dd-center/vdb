@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1746979057
+    "timestamp": 1747068238
   },
   "vtbs": [
     {
@@ -128811,6 +128811,23 @@
       "name": {
         "extra": [],
         "cn": "红栉麻那",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a3c7061-21fc-537e-adee-2770cad789c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5366508",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "红沼泽",
         "default": "cn"
       }
     },
