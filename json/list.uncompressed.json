@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1747068870
+    "timestamp": 1747448707
   },
   "vtbs": [
     {
@@ -120445,6 +120445,23 @@
       "name": {
         "extra": [],
         "cn": "眠眠大哥大",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1a6bde4-72ee-5839-83ed-b753d2aaad72",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546861908527796",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠眠绒球",
         "default": "cn"
       }
     },
