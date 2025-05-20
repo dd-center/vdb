@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1747531967
+    "timestamp": 1747703925
   },
   "vtbs": [
     {
@@ -62376,6 +62376,23 @@
       "name": {
         "extra": [],
         "cn": "小风铃是只咕咕狐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eafe20a4-d00e-52e2-94db-9c6d77200601",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546648428939813",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小食Taberu",
         "default": "cn"
       }
     },
