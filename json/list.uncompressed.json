@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1747703925
+    "timestamp": 1747703958
   },
   "vtbs": [
     {
@@ -77718,7 +77718,9 @@
         "extra": [],
         "cn": "星宮雲",
         "default": "cn"
-      }
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "04bcaa60-1b16-50d2-9a6d-700b04d19fd5",
@@ -159920,6 +159922,23 @@
       "name": {
         "extra": [],
         "cn": "雨洛是狼崽子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9cb065a2-cb2a-5c4c-af3c-eae4b41f21a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630854020",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小狼雨筠",
         "default": "cn"
       }
     },
