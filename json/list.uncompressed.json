@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1747887825
+    "timestamp": 1748240820
   },
   "vtbs": [
     {
@@ -11122,6 +11122,40 @@
       "name": {
         "extra": [],
         "cn": "唔姆umu桑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "70b94b03-f7f0-52d3-a9a1-b1759c77f108",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546838751775383",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "uni_kokoro_s2 ",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "https://afdian.com/a/Unikokoro",
+          "type": "official",
+          "platform": "other"
+        },
+        {
+          "id": "unikokoro",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "优妮",
+        "en": "Uni Kokoro",
+        "jp": "こころうに",
         "default": "cn"
       }
     },
@@ -58797,6 +58831,23 @@
       }
     },
     {
+      "uuid": "253aeeb2-c409-50d6-9eef-e34a5da6f97c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4797281",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "寒霜棱",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f5c8a0b7-bb1d-51d7-952b-61cf64034fe3",
       "type": "vtuber",
       "bot": false,
@@ -103179,6 +103230,23 @@
       "name": {
         "extra": [],
         "cn": "海野望Nozomi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "02c0ec51-a129-5442-bbfe-daedb5cc8bb2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546837457832805",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海露美Helmi",
         "default": "cn"
       }
     },
