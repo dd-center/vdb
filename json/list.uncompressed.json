@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1748278104
+    "timestamp": 1748323210
   },
   "vtbs": [
     {
@@ -164328,6 +164328,23 @@
         "jp": "音々継ねね",
         "cn": "音音继nene",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "8688e4db-fc62-5a1b-aefc-ec2c345faccd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546861394725793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "韵叶不赖床",
+        "default": "cn"
       }
     },
     {
