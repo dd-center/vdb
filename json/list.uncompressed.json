@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1748544184
+    "timestamp": 1748785267
   },
   "vtbs": [
     {
@@ -46642,6 +46642,23 @@
       "group_name": "北立交桥（妖精管理局）"
     },
     {
+      "uuid": "eb7c75eb-2011-5113-a56d-133514333543",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546858230123108",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "垚垚Yo-yo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e2c4f1ad-d0d9-59c0-aad6-a6addb9feaf8",
       "type": "vtuber",
       "bot": false,
@@ -61289,6 +61306,23 @@
         "extra": [],
         "jp": "小町ノノ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "a0dd0556-e0e1-5aa2-9ff8-72c013cf5a14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "26224612",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小知Caleenna",
+        "default": "cn"
       }
     },
     {
