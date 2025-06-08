@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749393904
+    "timestamp": 1749394558
   },
   "vtbs": [
     {
@@ -29533,6 +29533,23 @@
       },
       "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
       "group_name": "纸片人计划"
+    },
+    {
+      "uuid": "69326b20-e3a3-5e3b-92bf-08744ae80929",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546868044794663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佳逸Dae",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ac707ac8-5a5b-5a35-9994-44604f186a87",
