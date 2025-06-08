@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749399182
+    "timestamp": 1749399586
   },
   "vtbs": [
     {
@@ -127202,6 +127202,23 @@
       "name": {
         "extra": [],
         "cn": "米洛斯_萨菲尔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7561f5ca-5b90-58f6-b45b-1381f1931599",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494571147",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米洛洛Naomi",
         "default": "cn"
       }
     },
