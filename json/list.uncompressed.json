@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749393282
+    "timestamp": 1749393346
   },
   "vtbs": [
     {
@@ -127551,6 +127551,23 @@
       "name": {
         "extra": [],
         "cn": "籽柃Euryaseed",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "094bb05f-70a5-5530-9bda-202cf5c881e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546580527352661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "籽芋",
         "default": "cn"
       }
     },
