@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749392569
+    "timestamp": 1749393182
   },
   "vtbs": [
     {
@@ -101641,6 +101641,23 @@
       "name": {
         "extra": [],
         "cn": "洛娜Roena",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a207ebcf-5f21-5865-8dd3-d2fa7c475a41",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546868392921566",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛宁Lny",
         "default": "cn"
       }
     },
