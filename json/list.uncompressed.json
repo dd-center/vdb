@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749399586
+    "timestamp": 1749399701
   },
   "vtbs": [
     {
@@ -162074,6 +162074,23 @@
         "extra": [],
         "jp": "雪豹Leo_official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "f21859fe-5ea1-5f78-acbd-4413a5363d62",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546899885853387",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪都梨Duli",
+        "default": "cn"
       }
     },
     {
