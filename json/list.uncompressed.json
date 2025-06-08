@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749392150
+    "timestamp": 1749392269
   },
   "vtbs": [
     {
@@ -76032,6 +76032,23 @@
       "name": {
         "extra": [],
         "cn": "早川钥不是早餐钥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9406b457-3146-57a2-99f2-0d1829188b47",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546864555133912",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早早碎Mochi",
         "default": "cn"
       }
     },
