@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749393182
+    "timestamp": 1749393218
   },
   "vtbs": [
     {
@@ -119282,6 +119282,23 @@
       "name": {
         "extra": [],
         "cn": "百南芋",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "69d88c70-a8cf-5715-941a-ae862e2365dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546623902747508",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "百变魔女小脑斧promax",
         "default": "cn"
       }
     },
