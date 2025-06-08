@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749393346
+    "timestamp": 1749393508
   },
   "vtbs": [
     {
@@ -60685,6 +60685,23 @@
       },
       "group": "e2d2dfda-6dcc-54b4-b213-2b7db8b04a93",
       "group_name": "花寄女子寮"
+    },
+    {
+      "uuid": "3ed9be74-5fa6-5edc-955b-00edb63b5fbc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "417317775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "小松奈_Savi",
+        "default": "CN"
+      }
     },
     {
       "uuid": "78111dda-fcb7-5820-9d6a-5aad8a6de2b2",
