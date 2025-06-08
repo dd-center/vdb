@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749394558
+    "timestamp": 1749395153
   },
   "vtbs": [
     {
@@ -4003,6 +4003,23 @@
         "extra": [],
         "cn": "HIKARI-Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546887682525874",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "HOLOSTARS_EN",
+        "default": "EN"
       }
     },
     {
@@ -35377,6 +35394,23 @@
       }
     },
     {
+      "uuid": "c5524080-2925-5f54-982b-bb5b037f99e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546907997637317",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "加维斯贝特尔_EN",
+        "default": "en"
+      }
+    },
+    {
       "uuid": "4be9b578-2dc2-5ba5-bda4-58b4095af3a7",
       "type": "vtuber",
       "bot": false,
@@ -53823,6 +53857,23 @@
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
       "group_name": "holostars"
+    },
+    {
+      "uuid": "39dab186-0312-5d81-b19a-af89e12e9abf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546908001831485",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "奥克塔维奥_EN",
+        "default": "en"
+      }
     },
     {
       "uuid": "1c0fada7-16fa-5948-95c1-e4e12ae025f9",
