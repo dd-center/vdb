@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749392407
+    "timestamp": 1749392569
   },
   "vtbs": [
     {
@@ -164672,6 +164672,23 @@
       "name": {
         "extra": [],
         "cn": "音狸狸Yuliya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6bf2a6fd-57e1-554f-919c-9b54471f7e34",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13105825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音绵Otowata",
         "default": "cn"
       }
     },
