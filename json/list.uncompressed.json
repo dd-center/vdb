@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749393260
+    "timestamp": 1749393282
   },
   "vtbs": [
     {
@@ -113446,6 +113446,23 @@
         "extra": [],
         "cn": "琉莉蒂娅channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "f2b4f74b-de8e-5bdb-9508-c2e28a39c50c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "381040104",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "琉霓Ryuri",
+        "default": "CN"
       }
     },
     {
