@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749482817
+    "timestamp": 1749482944
   },
   "vtbs": [
     {
@@ -143443,6 +143443,23 @@
       },
       "group": "f8f7fa68-d6d4-594c-9c15-1741944d304d",
       "group_name": "星云社_CosmicNebula"
+    },
+    {
+      "uuid": "677e2f65-fbd7-55d3-8335-ee394e0f8fce",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1813207326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲菲公主喵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "071f2648-f257-5d0f-9e1d-1c9f9946386b",
