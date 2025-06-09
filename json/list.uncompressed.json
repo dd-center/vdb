@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749484062
+    "timestamp": 1749484164
   },
   "vtbs": [
     {
@@ -47539,6 +47539,23 @@
       "name": {
         "extra": [],
         "cn": "境月禾Yuzuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e96608a-7f84-5133-97fc-58ada6f53dda",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15109116",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "墨Mo_话很少",
         "default": "cn"
       }
     },
