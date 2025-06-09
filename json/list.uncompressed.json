@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749483924
+    "timestamp": 1749483986
   },
   "vtbs": [
     {
@@ -24380,6 +24380,23 @@
       "name": {
         "extra": [],
         "cn": "九卿-Eileen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "82a71b3a-77c8-5ea6-aaf7-365275740e57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "497404458",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九咪kisu",
         "default": "cn"
       }
     },
