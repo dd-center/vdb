@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749484291
+    "timestamp": 1749484363
   },
   "vtbs": [
     {
@@ -22282,6 +22282,23 @@
       "name": {
         "extra": [],
         "cn": "不想睡觉的洗洗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5af3983c-eaa7-556f-9268-c45da7b2f667",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "306438582",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不改良蒸汽机",
         "default": "cn"
       }
     },
@@ -86197,6 +86214,23 @@
       "name": {
         "extra": [],
         "cn": "木木",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2715c030-38d6-52bf-b55f-33487cd1d590",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546719369300954",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木木puu",
         "default": "cn"
       }
     },
