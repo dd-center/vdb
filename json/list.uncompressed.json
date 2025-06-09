@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749482944
+    "timestamp": 1749483047
   },
   "vtbs": [
     {
@@ -55430,6 +55430,23 @@
       "name": {
         "extra": [],
         "cn": "妮柚kikoi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1fc6c436-e4d0-5e5f-86cc-973dd6ae8a3b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "479134330",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮洛Nian-卷心菜",
         "default": "cn"
       }
     },
