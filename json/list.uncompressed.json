@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749484164
+    "timestamp": 1749484291
   },
   "vtbs": [
     {
@@ -5358,6 +5358,23 @@
       "name": {
         "extra": [],
         "cn": "Lethe-忆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "568d4cd0-2687-51cb-b614-ab54c98a269e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493145190861659",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Lia_Xxo0",
         "default": "cn"
       }
     },
