@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749484456
+    "timestamp": 1749484662
   },
   "vtbs": [
     {
@@ -159802,6 +159802,23 @@
       "group_name": "VirtuaReal"
     },
     {
+      "uuid": "bce54879-3b6e-5ef3-854a-aeae3bf0b0a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "603072369",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿蕾蕾Aleilei",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f66d9033-da59-5e2a-8354-cdee610c3f51",
       "type": "vtuber",
       "bot": false,
@@ -162136,6 +162153,23 @@
       },
       "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
       "group_name": "北立交桥（妖精管理局）"
+    },
+    {
+      "uuid": "8d51c80b-d692-5d74-a845-c7c906f39ef7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546857452079978",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪羽Eira",
+        "default": "cn"
+      }
     },
     {
       "uuid": "df453ce3-f5dd-59ea-bb90-317910b6b820",
