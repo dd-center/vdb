@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749482613
+    "timestamp": 1749482817
   },
   "vtbs": [
     {
@@ -22061,6 +22061,23 @@
       "name": {
         "extra": [],
         "cn": "上杉耀白Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2a08e64e-d1c4-5674-9f2c-f0c0440d02e6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493278039149456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "上杉音oi",
         "default": "cn"
       }
     },
