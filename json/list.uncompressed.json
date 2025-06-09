@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749483047
+    "timestamp": 1749483855
   },
   "vtbs": [
     {
@@ -23780,6 +23780,23 @@
         "extra": [],
         "cn": "乌梅",
         "en": "Umay",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ef607104-00bc-5eb4-a289-caa0e975bea5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546757724113807",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乌米kirumi-唱歌连",
         "default": "cn"
       }
     },
