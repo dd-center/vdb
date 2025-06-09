@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749439766
+    "timestamp": 1749439803
   },
   "vtbs": [
     {
@@ -56854,6 +56854,23 @@
       "group_name": "ProjectViberglow"
     },
     {
+      "uuid": "13276538-05e6-5ad1-b7ed-674ea0b9e48e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546871553329302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宅子猫",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b262c90c-18c4-57d3-b0d3-2cd5bc5ffe48",
       "type": "vtuber",
       "bot": false,
@@ -66503,8 +66520,7 @@
       ],
       "name": {
         "extra": [],
-        "cn": "希玖",
-        "en": "Sigil",
+        "cn": "希玖Sigil",
         "default": "cn"
       }
     },
