@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749439803
+    "timestamp": 1749482613
   },
   "vtbs": [
     {
@@ -51609,6 +51609,25 @@
       "name": {
         "extra": [],
         "cn": "天天Ame",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b11b9cda-1639-5290-a094-c9145bf5a8a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546881741293927",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天天阿诺琪",
+        "en": "anochi",
+        "jp": "あのち",
         "default": "cn"
       }
     },
