@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749483986
+    "timestamp": 1749484062
   },
   "vtbs": [
     {
@@ -36440,6 +36440,23 @@
       "name": {
         "extra": [],
         "cn": "十依sama",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dbf42e9c-35b4-59f3-8d38-0cd665d29877",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "478344578",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十六夜Esme",
         "default": "cn"
       }
     },
