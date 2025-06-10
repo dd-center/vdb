@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749544722
+    "timestamp": 1749544825
   },
   "vtbs": [
     {
@@ -99027,6 +99027,23 @@
       }
     },
     {
+      "uuid": "f13032b1-40bc-5a46-8f59-f7ff159f8027",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628061250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐夏-天灵灵地灵灵",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "886e9cc1-9608-52b9-81b4-1eb9d6e4ce1e",
       "type": "vtuber",
       "bot": false,
@@ -163506,6 +163523,23 @@
       "name": {
         "extra": [],
         "cn": "雾川Kirikawa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "abb75729-cfef-5026-8d98-c8c66ef18d3d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546796475288503",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾枝年年Kirie",
         "default": "cn"
       }
     },
