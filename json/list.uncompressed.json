@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749544825
+    "timestamp": 1749544956
   },
   "vtbs": [
     {
@@ -33388,6 +33388,23 @@
       "name": {
         "extra": [],
         "cn": "冰果冻Jelly",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cdba128a-d256-52d2-9645-6beba72db938",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546658413480905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰柒灵_er",
         "default": "cn"
       }
     },
