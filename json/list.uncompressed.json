@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749542778
+    "timestamp": 1749542851
   },
   "vtbs": [
     {
@@ -61724,6 +61724,23 @@
         "extra": [],
         "jp": "小町ノノ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9bb29298-e7cd-52c8-bd4e-63110a97eb52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546879870634034",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小白Uku",
+        "default": "cn"
       }
     },
     {
