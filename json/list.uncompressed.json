@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749545207
+    "timestamp": 1749565684
   },
   "vtbs": [
     {
@@ -88963,6 +88963,23 @@
       "name": {
         "extra": [],
         "cn": "果糖含量",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "95dcd671-8644-539b-a43c-888c089a6f0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1491531721",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "果酱酱Overdose",
         "default": "cn"
       }
     },
