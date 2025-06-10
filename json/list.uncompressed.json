@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749543841
+    "timestamp": 1749544626
   },
   "vtbs": [
     {
@@ -62031,6 +62031,23 @@
       "name": {
         "extra": [],
         "cn": "小罗Leon",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5d478262-c211-5db5-8e78-6d3fa5e0d129",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546871387654195",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小羊乖乖vv",
         "default": "cn"
       }
     },
