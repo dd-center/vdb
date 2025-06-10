@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749544956
+    "timestamp": 1749545053
   },
   "vtbs": [
     {
@@ -80969,6 +80969,23 @@
       "name": {
         "extra": [],
         "cn": "星鲨伊玖Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5f7a4ed-c50e-55ea-8dea-f7a49204c6c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546805117651064",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "映瑶",
         "default": "cn"
       }
     },
