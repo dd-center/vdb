@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749543802
+    "timestamp": 1749543841
   },
   "vtbs": [
     {
@@ -101348,6 +101348,23 @@
       "name": {
         "extra": [],
         "cn": "泡泡糖做酱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e28e21e-e6e5-58fd-a156-fb5e0b0aaf6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546786505427358",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泡泡讷",
         "default": "cn"
       }
     },
