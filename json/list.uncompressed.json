@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749543688
+    "timestamp": 1749543802
   },
   "vtbs": [
     {
@@ -144586,6 +144586,23 @@
       "name": {
         "extra": [],
         "cn": "萨罗娜Sarona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3c75486e-a75e-572c-8c07-1b7ea9556040",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1271931626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萨莉Sari",
         "default": "cn"
       }
     },
