@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749544653
+    "timestamp": 1749544690
   },
   "vtbs": [
     {
@@ -99336,6 +99336,23 @@
       "name": {
         "extra": [],
         "cn": "江上晚棠",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe0ad0a7-aa28-50c7-af49-e0b3b58d9cb9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546819575417483",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江书珩Clover",
         "default": "cn"
       }
     },
