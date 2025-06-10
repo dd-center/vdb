@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749543567
+    "timestamp": 1749543601
   },
   "vtbs": [
     {
@@ -31605,6 +31605,23 @@
       "name": {
         "extra": [],
         "cn": "兔知知qiqi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "89f1b379-c504-5e69-8c8b-1d852ab82953",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546833116727714",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔筱柒Tessie",
         "default": "cn"
       }
     },
