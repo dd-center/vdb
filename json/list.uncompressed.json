@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749643459
+    "timestamp": 1749643525
   },
   "vtbs": [
     {
@@ -121496,6 +121496,23 @@
         "extra": [],
         "jp": "真咲樱",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4fd1dd34-7a4e-53d6-b559-f7b9b854b365",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "44921058",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "真嘟宅",
+        "default": "cn"
       }
     },
     {
