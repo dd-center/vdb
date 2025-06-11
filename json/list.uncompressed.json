@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749643661
+    "timestamp": 1749644500
   },
   "vtbs": [
     {
@@ -5668,6 +5668,23 @@
         "default": "cn"
       },
       "group": "42dffa71-00ea-5f6b-8c4f-5f78134ed38e"
+    },
+    {
+      "uuid": "a3c6f619-ac19-5fd5-8bf6-fe186b482c0f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "278618574",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Lyra天琴",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d65b30a3-4f0b-54b4-b920-7e34c5cd371c",
