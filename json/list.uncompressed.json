@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749603964
+    "timestamp": 1749603994
   },
   "vtbs": [
     {
@@ -105908,6 +105908,23 @@
       "name": {
         "extra": [],
         "cn": "温由香Yukako",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "73603032-bcc2-5b39-9e58-c07433883600",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546844992899784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温知闲silly",
         "default": "cn"
       }
     },
