@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749603994
+    "timestamp": 1749604052
   },
   "vtbs": [
     {
@@ -31673,6 +31673,23 @@
       "name": {
         "extra": [],
         "cn": "兔糖咪-本兔",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fc0b4d88-4e90-5a65-8b25-9af4db6a0a2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546872469785387",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔绾绾OvO",
         "default": "cn"
       }
     },
@@ -162199,6 +162216,23 @@
       "name": {
         "extra": [],
         "cn": "雪彩丶琉璃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a32168a4-cb6d-52f0-baae-e96336e86b88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "502183334",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪松子Snow",
         "default": "cn"
       }
     },
