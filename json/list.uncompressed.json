@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749603200
+    "timestamp": 1749603858
   },
   "vtbs": [
     {
@@ -84428,6 +84428,23 @@
       }
     },
     {
+      "uuid": "8bbcdb9c-201c-5375-9711-79eb0e6bc078",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1653308625",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "月月芽i-6月15号出私皮",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "9b72b4d5-4cdc-52d2-a90e-de5ba753e5aa",
       "type": "vtuber",
       "bot": false,
@@ -86056,6 +86073,23 @@
       "name": {
         "extra": [],
         "cn": "朝朝Morin",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "219fd678-cd85-52b3-970d-aea78d595545",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546858515335545",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝朝_sunny",
         "default": "cn"
       }
     },
