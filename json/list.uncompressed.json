@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749604078
+    "timestamp": 1749618409
   },
   "vtbs": [
     {
@@ -132863,6 +132863,23 @@
       },
       "group": "72121bcf-cb42-50b2-93d3-9a83cae702f8",
       "group_name": "追光社"
+    },
+    {
+      "uuid": "1493df0b-7103-51f1-a352-7170769c2b54",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "107029682",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "绵音柚芽WataneYume",
+        "default": "CN"
+      }
     },
     {
       "uuid": "4186eaf3-c5aa-5c4c-88de-bcacc5271cc2",
