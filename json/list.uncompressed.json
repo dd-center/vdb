@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749603858
+    "timestamp": 1749603964
   },
   "vtbs": [
     {
@@ -56711,6 +56711,23 @@
       }
     },
     {
+      "uuid": "4d26be16-dc3e-5d47-949a-3509452fe292",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546880290064831",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "子丹丹yumi",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "a25413b9-3833-5b31-bb1d-e388931b1724",
       "type": "vtuber",
       "bot": false,
@@ -77668,6 +77685,23 @@
       "name": {
         "extra": [],
         "cn": "星ノ谷爱莉Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "71b8a737-c2bc-5771-9f53-39003e60501c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "394110385",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星临莺月",
         "default": "cn"
       }
     },
