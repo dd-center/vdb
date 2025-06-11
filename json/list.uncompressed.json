@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749643205
+    "timestamp": 1749643239
   },
   "vtbs": [
     {
@@ -107786,6 +107786,23 @@
       "name": {
         "extra": [],
         "cn": "炎火猎人的胜利",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8dabf9e9-1477-52eb-89cb-2e239e1ac071",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1582788472",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "炑铃_Mulyn",
         "default": "cn"
       }
     },
