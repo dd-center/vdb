@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749904614
+    "timestamp": 1749904690
   },
   "vtbs": [
     {
@@ -172009,6 +172009,23 @@
       "name": {
         "extra": [],
         "cn": "黎九sona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "08ccfb4a-c1c0-561c-99d4-69efdc418c79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546796468996650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黎六六Lollu-10号半周年",
         "default": "cn"
       }
     },
