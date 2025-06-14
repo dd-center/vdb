@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749831264
+    "timestamp": 1749904518
   },
   "vtbs": [
     {
@@ -52580,6 +52580,23 @@
       "name": {
         "extra": [],
         "cn": "天竹Amatake",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3e9a2332-d6ff-5647-b852-836f6a210a57",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546851458418917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天竺葵Geranos",
         "default": "cn"
       }
     },
