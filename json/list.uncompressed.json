@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749904861
+    "timestamp": 1749904891
   },
   "vtbs": [
     {
@@ -48796,6 +48796,23 @@
       "name": {
         "extra": [],
         "cn": "夏澄要努力变强",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65b90d4b-74c0-524c-8072-89a773eaddcd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1902035079",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏烟Mist",
         "default": "cn"
       }
     },
