@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749904794
+    "timestamp": 1749904861
   },
   "vtbs": [
     {
@@ -12903,6 +12903,23 @@
       "name": {
         "extra": [],
         "cn": "_浅遇_",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5eb911bf-837b-5530-93ad-296dd6bce344",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546695440795834",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "_猫白白",
         "default": "cn"
       }
     },
@@ -60392,6 +60409,23 @@
       "name": {
         "extra": [],
         "cn": "小夏夏吖丶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0c584591-aa35-5f11-aa64-ab6e2b1efbfc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2089433778",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小夜yelora",
         "default": "cn"
       }
     },
