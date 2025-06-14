@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1749904518
+    "timestamp": 1749904614
   },
   "vtbs": [
     {
@@ -31862,6 +31862,23 @@
       "name": {
         "extra": [],
         "cn": "兜帽w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de29c518-b2b0-5c8b-80da-7dc2f8d705a5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546681735907777",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兜里木有糖Candy-发财版",
         "default": "cn"
       }
     },
