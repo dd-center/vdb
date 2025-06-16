@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750083071
+    "timestamp": 1750083114
   },
   "vtbs": [
     {
@@ -104308,6 +104308,33 @@
         "default": "cn"
       },
       "group": "68aaeeda-ab34-5aef-b0fa-511f049ccdfb"
+    },
+    {
+      "uuid": "5e181485-ff93-558a-8296-c77ce0850f42",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1446867539",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "kaito_navigator",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "kaito_navigator",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海渡KAITO",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8a7ce7ff-3907-5d9b-8c77-ad6e9a3dd19d",
