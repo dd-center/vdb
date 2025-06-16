@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750083114
+    "timestamp": 1750086597
   },
   "vtbs": [
     {
@@ -111026,6 +111026,23 @@
       "name": {
         "extra": [],
         "cn": "狩野色",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c101335a-a311-50ee-a43f-2fb1fbf4cc1a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546859756849602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狮凛奈Twilight",
         "default": "cn"
       }
     },
