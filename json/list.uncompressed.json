@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750146033
+    "timestamp": 1750146201
   },
   "vtbs": [
     {
@@ -91509,6 +91509,23 @@
       "name": {
         "extra": [],
         "cn": "栗原澪Rei",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "31dada09-ebb8-57ad-be1c-061bba7a5f82",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546832756017576",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栗可莉丝Le",
         "default": "cn"
       }
     },
