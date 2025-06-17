@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750145677
+    "timestamp": 1750145700
   },
   "vtbs": [
     {
@@ -13480,6 +13480,23 @@
       "name": {
         "extra": [],
         "cn": "fufu真的在摆烂",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47728a80-f3db-5cd3-aa2e-a2b3d2ee9d00",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "678612",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "h46",
         "default": "cn"
       }
     },
