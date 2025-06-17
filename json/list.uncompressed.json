@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750145700
+    "timestamp": 1750146033
   },
   "vtbs": [
     {
@@ -170347,6 +170347,23 @@
         "extra": [],
         "cn": "鸠子",
         "en": "hatoko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "73094f9e-9da6-5384-87f7-de7cec967f0c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25616288",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸠的一声",
         "default": "cn"
       }
     },
