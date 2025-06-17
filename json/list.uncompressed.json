@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750145561
+    "timestamp": 1750145621
   },
   "vtbs": [
     {
@@ -63552,6 +63552,23 @@
       }
     },
     {
+      "uuid": "60488a5b-e539-537d-98f3-5f2103e35320",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546596908206654",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小鹿不秃头i",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "47db361f-7ab6-5381-a511-4b5bf33d99e3",
       "type": "vtuber",
       "bot": false,
@@ -67386,6 +67403,23 @@
       "name": {
         "extra": [],
         "cn": "希露卡_特瓦伊莱特",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d29658e0-b891-5466-901c-4154fa0d804f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546861088541561",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希饭Suki",
         "default": "cn"
       }
     },
