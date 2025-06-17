@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750145522
+    "timestamp": 1750145561
   },
   "vtbs": [
     {
@@ -99031,6 +99031,23 @@
       },
       "group": "7126d95d-9311-5691-a2de-88d978486297",
       "group_name": "天枢project"
+    },
+    {
+      "uuid": "20c42117-6ba1-5aef-aa38-80f3bcc2f301",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546893606979799",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水间埋-mai",
+        "default": "cn"
+      }
     },
     {
       "uuid": "486e5d39-973b-5630-8e63-bb0728deea1c",
