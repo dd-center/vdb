@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750086597
+    "timestamp": 1750145377
   },
   "vtbs": [
     {
@@ -25659,6 +25659,25 @@
         "cn": "云蒸霞蔚desu",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b176c2b7-2076-5455-b583-a30f05e6c36c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546901116881287",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云蔼悠悠YoYo",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "8af2a007-005d-5c8b-a2f6-16d2f6d7916e",
