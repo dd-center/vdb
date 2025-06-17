@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750146201
+    "timestamp": 1750146233
   },
   "vtbs": [
     {
@@ -138076,6 +138076,23 @@
       "name": {
         "extra": [],
         "cn": "芝口",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "72833f7c-7614-5eb5-8479-35ccdf38b088",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "660405656",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芝士_Power",
         "default": "cn"
       }
     },
