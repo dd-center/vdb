@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750516718
+    "timestamp": 1750516755
   },
   "vtbs": [
     {
@@ -124141,6 +124141,23 @@
         "en": "NOKi",
         "cn": "神咲乃希",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "6578fbc7-0192-5cfd-a0ca-98a9cc28f75e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "440555",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "神圣的楼兰我",
+        "default": "cn"
       }
     },
     {
