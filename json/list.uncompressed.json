@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750614949
+    "timestamp": 1750614981
   },
   "vtbs": [
     {
@@ -115319,6 +115319,23 @@
       },
       "group": "ac61354d-1b1c-5be1-80e1-b996ea336754",
       "group_name": "鸽鹉live"
+    },
+    {
+      "uuid": "5eaa9413-27ea-51e6-b6dd-4b87daf1b374",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22792823",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑜瑜大王Yuuuuu",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b52374d3-d340-5302-a254-5c24efccf2cb",
