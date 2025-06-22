@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750516755
+    "timestamp": 1750614889
   },
   "vtbs": [
     {
@@ -89288,6 +89288,24 @@
         "cn": "果子吞金兽",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546908727446065",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "果子本铺",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd"
     },
     {
       "uuid": "4df040e4-8f61-5b06-b090-0bac22d77242",
