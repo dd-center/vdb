@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750614889
+    "timestamp": 1750614949
   },
   "vtbs": [
     {
@@ -138588,6 +138588,23 @@
       "name": {
         "extra": [],
         "cn": "花南音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "91774b2f-d272-528e-bf9f-9e0ef3e192f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49741433",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花卷卷err",
         "default": "cn"
       }
     },
