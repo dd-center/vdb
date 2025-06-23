@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750682899
+    "timestamp": 1750682997
   },
   "vtbs": [
     {
@@ -89326,6 +89326,23 @@
       "name": {
         "extra": [],
         "cn": "林钡钡_翻唱少女",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7029e11d-2658-52dd-ba15-c0807b2544ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "249348093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "林锡臣",
         "default": "cn"
       }
     },
