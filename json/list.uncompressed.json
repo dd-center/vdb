@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683286
+    "timestamp": 1750683328
   },
   "vtbs": [
     {
@@ -36911,6 +36911,23 @@
       "name": {
         "extra": [],
         "cn": "千军一笑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "708f5ad7-76f8-5297-86bc-814a0276b1d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546784200656899",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千初_好运降临",
         "default": "cn"
       }
     },
