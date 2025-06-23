@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750682997
+    "timestamp": 1750683253
   },
   "vtbs": [
     {
@@ -109519,6 +109519,23 @@
       "name": {
         "extra": [],
         "cn": "爱吃辣的白狸",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "095ab81c-dbc0-5937-b0b8-dbb9ec85b83e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546576437905853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "爱吃青草蛋糕myy",
         "default": "cn"
       }
     },
