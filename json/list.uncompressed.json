@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684346
+    "timestamp": 1750684507
   },
   "vtbs": [
     {
@@ -106694,6 +106694,23 @@
       "name": {
         "extra": [],
         "cn": "温珀子ねんねOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8981dbd0-4236-5b01-a9c7-61b5d7b3207b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487265756",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温琳Wlin",
         "default": "cn"
       }
     },
