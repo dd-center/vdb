@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683962
+    "timestamp": 1750683988
   },
   "vtbs": [
     {
@@ -46912,6 +46912,23 @@
       "name": {
         "extra": [],
         "cn": "园雅Yua",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8c6ff54d-7f76-5c1f-bdbd-cc9eb13aa205",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546833590684546",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "困困喵nya",
         "default": "cn"
       }
     },
