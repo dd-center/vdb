@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684647
+    "timestamp": 1750684875
   },
   "vtbs": [
     {
@@ -106146,6 +106146,23 @@
       }
     },
     {
+      "uuid": "88e1b805-041c-5eca-a313-f6f6ed7dc242",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546597946296478",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清禾Yoyo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e468bd30-fa74-5800-aa09-43aa10190723",
       "type": "vtuber",
       "bot": false,
@@ -152775,6 +152792,23 @@
       "name": {
         "extra": [],
         "cn": "贺见莲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ac2bc7d6-8d33-5aa6-b965-0163c93dec5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546791672809910",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赖赖Layla",
         "default": "cn"
       }
     },
