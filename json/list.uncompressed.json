@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683328
+    "timestamp": 1750683354
   },
   "vtbs": [
     {
@@ -106388,6 +106388,23 @@
       },
       "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
       "group_name": "新月社FCrescent"
+    },
+    {
+      "uuid": "8f9adf81-01b0-59b7-ab0a-478d62494dd4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493290093579211",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "温晴妤",
+        "default": "cn"
+      }
     },
     {
       "uuid": "f68735fd-1ef1-53e4-8cfd-029c3ed86b5c",
