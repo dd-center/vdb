@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750685032
+    "timestamp": 1750685081
   },
   "vtbs": [
     {
@@ -164047,6 +164047,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "0495b4de-e295-56f8-b413-308e6f38f74f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1832233549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪芽_Snowy",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6c5aefef-92d1-59b4-b189-2e502a83fa3f",
