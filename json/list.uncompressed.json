@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684204
+    "timestamp": 1750684346
   },
   "vtbs": [
     {
@@ -30376,6 +30376,23 @@
       "name": {
         "extra": [],
         "cn": "傻傻Sasha",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bef314ea-b2ea-5883-bf53-81d841cb5741",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546870762703523",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "傻妮儿_Shining",
         "default": "cn"
       }
     },
@@ -111358,6 +111375,23 @@
       "name": {
         "extra": [],
         "cn": "凌叁woldf_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "262d6d88-353d-5b2d-9b20-20caf5dcb8c0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "630207724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狐甜甜ir",
         "default": "cn"
       }
     },
