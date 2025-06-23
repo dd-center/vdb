@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684960
+    "timestamp": 1750685032
   },
   "vtbs": [
     {
@@ -37285,6 +37285,23 @@
       "name": {
         "extra": [],
         "cn": "立之花花花花",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b8591a9b-9748-5d27-9843-35186571650c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "300400522",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千寻",
         "default": "cn"
       }
     },
