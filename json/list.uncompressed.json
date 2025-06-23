@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750682492
+    "timestamp": 1750682868
   },
   "vtbs": [
     {
@@ -51289,6 +51289,23 @@
       },
       "group": "a32f4ed5-ce5c-545f-bc6b-03fa2b3e6a9c",
       "group_name": "三垣四象project"
+    },
+    {
+      "uuid": "3892ee8f-de4b-5a65-89a4-312539bae296",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546648342956717",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大柚公主",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d494a13f-a3ed-504f-989a-8bfe601c02ac",
