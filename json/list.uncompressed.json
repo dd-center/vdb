@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683639
+    "timestamp": 1750683668
   },
   "vtbs": [
     {
@@ -76265,6 +76265,25 @@
       }
     },
     {
+      "uuid": "3e5cc207-7ea3-5c14-8078-7b1db4eb48a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546777567365640",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "方陆离",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
+    },
+    {
       "uuid": "d7e83e02-3018-5900-a5d1-091971be95ca",
       "type": "vtuber",
       "bot": false,
@@ -149666,6 +149685,25 @@
       "group_name": "774 inc"
     },
     {
+      "uuid": "55dfadd6-8b18-5727-a292-9dbe440e20cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546769235380277",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "西奈Syna",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
+    },
+    {
       "uuid": "651286ed-cefd-57cf-ba28-0230095f6d86",
       "type": "vtuber",
       "bot": false,
@@ -172644,6 +172682,25 @@
         "cn": "麻辣突兔",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3be24240-5786-5fe9-bad6-173926f162cc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546776569121106",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻里绮Meraki",
+        "default": "cn"
+      },
+      "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
+      "group_name": "甜瓜社MelonLive"
     },
     {
       "uuid": "ab16e5d3-4ed5-544e-baed-86322b944d2a",
