@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750682349
+    "timestamp": 1750682432
   },
   "vtbs": [
     {
@@ -129674,6 +129674,23 @@
       "name": {
         "extra": [],
         "cn": "糯糯小呆呆",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eaa5be78-01b8-553e-9718-b9be7e8a07ff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546823327222480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糯轻音Crystal",
         "default": "cn"
       }
     },
