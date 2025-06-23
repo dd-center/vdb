@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683253
+    "timestamp": 1750683286
   },
   "vtbs": [
     {
@@ -31412,6 +31412,23 @@
       },
       "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
       "group_name": "幻想社Fantas1A"
+    },
+    {
+      "uuid": "19b02ef2-4793-5e75-addf-8acf2bbb5e5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "161184176",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔妮Tunika-主播老公冠",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0e2015ea-a2ce-5aa6-9061-928b23c2e824",
