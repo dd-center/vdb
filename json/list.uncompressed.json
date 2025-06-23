@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683751
+    "timestamp": 1750683853
   },
   "vtbs": [
     {
@@ -92730,6 +92730,23 @@
       }
     },
     {
+      "uuid": "1333e3c2-905e-513c-b5a5-022bc45573f6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1864116078",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃屁趴叭",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "3a3c916e-f936-51f9-a540-e5b2788deb27",
       "type": "vtuber",
       "bot": false,
@@ -166929,6 +166946,23 @@
         "jp": "音々継ねね",
         "cn": "音音继nene",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9d9f09cc-d8aa-50e9-80ec-dc21db77ec85",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1207968536",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音音酱Kitty",
+        "default": "cn"
       }
     },
     {
