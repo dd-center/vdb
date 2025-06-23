@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683536
+    "timestamp": 1750683604
   },
   "vtbs": [
     {
@@ -77723,6 +77723,23 @@
       "name": {
         "extra": [],
         "cn": "明日光牙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "ada2e4c4-4e5f-57e6-8033-0980a8102a61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546861841418874",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明日铃ovee",
         "default": "cn"
       }
     },
