@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750685378
+    "timestamp": 1750685408
   },
   "vtbs": [
     {
@@ -114825,6 +114825,23 @@
       "name": {
         "extra": [],
         "cn": "珑歌Taki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc0aab7a-70e2-534b-931c-ea904b4aef09",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494349962742196",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珞婉儿",
         "default": "cn"
       }
     },
