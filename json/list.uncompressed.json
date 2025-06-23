@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683354
+    "timestamp": 1750683389
   },
   "vtbs": [
     {
@@ -9311,6 +9311,23 @@
       "name": {
         "extra": [],
         "cn": "Rogetsu_露月",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2b9da505-a8dc-55e1-9999-0080e9d1138e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546903763486816",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ron易",
         "default": "cn"
       }
     },
