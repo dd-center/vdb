@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750614981
+    "timestamp": 1750682349
   },
   "vtbs": [
     {
@@ -63517,6 +63517,27 @@
       }
     },
     {
+      "uuid": "e62f7349-2424-5af7-ac74-9d1f68e22847",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546767714945758",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [
+          "小鸟遊Ayu"
+        ],
+        "cn": "小鸟游Ayu",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "group_name": "果子本铺"
+    },
+    {
       "uuid": "cd95faf1-4078-546f-925d-e24ac0b1c154",
       "type": "vtuber",
       "bot": false,
@@ -78641,6 +78662,25 @@
         "cn": "星宫がん",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ab347029-fb3e-5bf5-8b58-e16945d2046a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546876051720862",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星宫晴琉",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "group_name": "果子本铺"
     },
     {
       "uuid": "4b0cf4ee-2fcf-5542-a8b0-c57cb237603c",
@@ -126658,6 +126698,25 @@
         "cn": "空知知",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ac514474-2c43-5ce8-990f-bdb7dff0ee0b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546869282113636",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "空神樱",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "group_name": "果子本铺"
     },
     {
       "uuid": "3e028e4a-a8bd-5f78-8e9d-25e1daa91da6",
