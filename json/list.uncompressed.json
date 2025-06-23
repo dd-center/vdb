@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683988
+    "timestamp": 1750684042
   },
   "vtbs": [
     {
@@ -54348,6 +54348,23 @@
       "name": {
         "extra": [],
         "cn": "奈路Nerugi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8a69f38b-a544-5cf2-917b-4f5a3c7a15bb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "506418268",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈郁里_西莉卡冠",
         "default": "cn"
       }
     },
@@ -150632,6 +150649,23 @@
       "name": {
         "extra": [],
         "cn": "言樂_Yona",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9b95da2a-9010-566c-9e2f-31649cb65db2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4272126",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "言熙熙GenKi",
         "default": "cn"
       }
     },
