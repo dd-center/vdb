@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750683897
+    "timestamp": 1750683922
   },
   "vtbs": [
     {
@@ -34263,6 +34263,23 @@
       "name": {
         "extra": [],
         "cn": "凌迕Shark",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "340090e1-2a86-56f6-84dd-cc12476a5eee",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546826628139976",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凌酱",
         "default": "cn"
       }
     },
