@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750682868
+    "timestamp": 1750682899
   },
   "vtbs": [
     {
@@ -39811,6 +39811,23 @@
       "name": {
         "extra": [],
         "cn": "卷fafa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7af55c1a-464f-5e5e-8935-76b9f6d9cdc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "50733424",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卷卷天天迟到",
         "default": "cn"
       }
     },
