@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684875
+    "timestamp": 1750684960
   },
   "vtbs": [
     {
@@ -10221,6 +10221,23 @@
       "name": {
         "extra": [],
         "cn": "Silvervale_樱花狼灵",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e3fc1a55-6d75-5e0b-acb1-cc306efa8ee5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546854516066477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Siro0",
         "default": "cn"
       }
     },
