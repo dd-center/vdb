@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750685081
+    "timestamp": 1750685113
   },
   "vtbs": [
     {
@@ -60925,6 +60925,23 @@
       "name": {
         "extra": [],
         "cn": "小小只suki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cd13e29f-5cff-5f2a-a084-ebbc272cc453",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546385039231736",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小小怪only",
         "default": "cn"
       }
     },
