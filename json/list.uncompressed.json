@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750684507
+    "timestamp": 1750684533
   },
   "vtbs": [
     {
@@ -26763,6 +26763,23 @@
       "name": {
         "extra": [],
         "cn": "人间蜜药",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0bf9da25-d711-5450-9461-9f975df45e88",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "27096412",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亿亿娘娘koi",
         "default": "cn"
       }
     },
