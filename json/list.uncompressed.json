@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750685408
+    "timestamp": 1750735640
   },
   "vtbs": [
     {
@@ -47014,6 +47014,23 @@
       "name": {
         "extra": [],
         "cn": "団帕帕Danpapa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a8ec31c6-01c2-5724-9f81-b18302f8861c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546609145088627",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "园金金",
         "default": "cn"
       }
     },
