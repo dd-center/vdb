@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750854657
+    "timestamp": 1750855982
   },
   "vtbs": [
     {
@@ -104275,6 +104275,23 @@
       },
       "group": "f0f6db36-c594-50bd-ae6a-5032878a8ce6",
       "group_name": "Wenthernten"
+    },
+    {
+      "uuid": "b9aea39a-52b9-5726-b4c4-6e9817bc2a83",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493108964657583",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛魚丶",
+        "default": "cn"
+      }
     },
     {
       "uuid": "197d46e7-baa3-5cc3-9243-697020b07319",
