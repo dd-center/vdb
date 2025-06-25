@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750847430
+    "timestamp": 1750854506
   },
   "vtbs": [
     {
@@ -8086,6 +8086,23 @@
       }
     },
     {
+      "uuid": "f598e786-7109-592b-97b7-9c0fba9a9ad2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7151607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "PMR字幕组",
+        "default": "CN"
+      }
+    },
+    {
       "uuid": "7cf25f97-01e9-55d7-8de0-419a2debd177",
       "type": "vtuber",
       "bot": false,
@@ -12285,6 +12302,23 @@
         "extra": [],
         "en": "YUY",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "bd95b555-2f38-57a1-9dd4-ef441f048e64",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1139993620",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "YUZUYA_Official",
+        "default": "EN"
       }
     },
     {
@@ -49302,6 +49336,23 @@
       },
       "group": "fa86cc75-0288-55e4-a6f9-e1c4134a8ec0",
       "group_name": "Afutech"
+    },
+    {
+      "uuid": "9206f158-ecec-58db-b992-df400471fd81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546711154756547",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "KR": "夏璐娅_Official",
+        "default": "KR"
+      }
     },
     {
       "uuid": "ddda137d-828d-50af-b680-3938f66cb817",
