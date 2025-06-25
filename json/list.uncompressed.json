@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750846929
+    "timestamp": 1750846993
   },
   "vtbs": [
     {
@@ -56511,6 +56511,23 @@
       "name": {
         "extra": [],
         "cn": "姜澜_knight",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "50e38d61-a1f1-5584-a966-d4c830123704",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546788919249663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姜礼礼yo",
         "default": "cn"
       }
     },
