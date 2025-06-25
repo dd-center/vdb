@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750854506
+    "timestamp": 1750854657
   },
   "vtbs": [
     {
@@ -34062,6 +34062,23 @@
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "group_name": "コーロンサス学園"
+    },
+    {
+      "uuid": "ff2fe93b-c3f9-5a04-8c66-0adf9aa35235",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546392238753871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冻梨-pear夏夏冠名",
+        "default": "cn"
+      }
     },
     {
       "uuid": "90fc7454-b910-556e-ab9f-3ec742d290ce",
