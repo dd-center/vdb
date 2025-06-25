@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750855982
+    "timestamp": 1750875516
   },
   "vtbs": [
     {
@@ -5615,6 +5615,23 @@
         "extra": [],
         "cn": "Luckyの熊熊",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "b8aa5214-975c-5926-9533-5717f4a89d52",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1153575854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Lucky啵啵吖-Lucky冠",
+        "default": "CN"
       }
     },
     {
