@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750846993
+    "timestamp": 1750847091
   },
   "vtbs": [
     {
@@ -65210,6 +65210,23 @@
         "extra": [],
         "cn": "山崎",
         "en": "kaori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5c4cc164-d518-55e8-91e7-90207bf4331a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546899252512825",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山恩_Shine",
         "default": "cn"
       }
     },
