@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750823369
+    "timestamp": 1750846719
   },
   "vtbs": [
     {
@@ -138556,6 +138556,25 @@
         "cn": "芙劳_Fraus",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1148b857-3fb0-513c-b748-36e1167578c7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546770319608070",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙卡蕾特",
+        "default": "cn"
+      },
+      "group": "5f2eac9f-dc17-577f-a22a-19003e81fcdf",
+      "group_name": "问尘仙会"
     },
     {
       "uuid": "d19da47c-6b9a-56ad-aca9-d1f367613674",
