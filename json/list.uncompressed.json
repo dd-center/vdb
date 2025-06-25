@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750846843
+    "timestamp": 1750846929
   },
   "vtbs": [
     {
@@ -23164,6 +23164,23 @@
       "name": {
         "extra": [],
         "cn": "两只昔伏流年Twins",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3af61e83-70c5-5e0b-8225-eb9564722cbd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546883049917250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "丧彪彪",
         "default": "cn"
       }
     },
