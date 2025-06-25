@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750847367
+    "timestamp": 1750847430
   },
   "vtbs": [
     {
@@ -57676,6 +57676,23 @@
       "name": {
         "extra": [],
         "cn": "孤独Kodoku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "641e444a-bba9-55e0-82e9-97617152c706",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546603405183313",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "学妹别跑i",
         "default": "cn"
       }
     },
