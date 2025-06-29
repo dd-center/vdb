@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1750998395
+    "timestamp": 1751168755
   },
   "vtbs": [
     {
@@ -80811,6 +80811,23 @@
       "name": {
         "extra": [],
         "cn": "星稚Sieny",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a715702f-3a61-56ba-a221-8ab8e6c45872",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "408367406",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星稚兔眠starry",
         "default": "cn"
       }
     },
