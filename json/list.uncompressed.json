@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751169031
+    "timestamp": 1751262792
   },
   "vtbs": [
     {
@@ -9647,6 +9647,23 @@
         "extra": [],
         "cn": "SUKI酱_Channel",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "9e8796c3-68db-53e7-b30d-f426ef7d9b5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546834817518531",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Saba的远洋捕捞船",
+        "default": "CN"
       }
     },
     {
@@ -74993,6 +75010,23 @@
         "extra": [],
         "cn": "才不是害羞",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2cdbe400-5c27-5c52-98b6-054e18cae263",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546669335448490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "扎扎uni",
+        "default": "CN"
       }
     },
     {
