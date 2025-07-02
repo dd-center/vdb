@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751262792
+    "timestamp": 1751418294
   },
   "vtbs": [
     {
@@ -156068,6 +156068,23 @@
       },
       "group": "11361482-308d-5313-8597-96d3d8d7170a",
       "group_name": "萌芽社"
+    },
+    {
+      "uuid": "b2af2e6b-4e48-5081-b900-9a3c0d7895f7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "454385633",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迟漾Bastet",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bb3ee153-95a9-57cb-9702-9c7d13db62a9",
