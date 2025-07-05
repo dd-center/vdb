@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751719022
+    "timestamp": 1751719151
   },
   "vtbs": [
     {
@@ -87229,6 +87229,23 @@
       "name": {
         "extra": [],
         "cn": "朝仓鱼块AsakuraYukai",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "36cb539a-02fa-504f-94e7-a99ab067c7db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1556998898",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "朝凪夜玖_Yori",
         "default": "cn"
       }
     },
