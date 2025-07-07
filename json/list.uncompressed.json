@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751719151
+    "timestamp": 1751899026
   },
   "vtbs": [
     {
@@ -74135,6 +74135,23 @@
       "name": {
         "extra": [],
         "cn": "慕卉kyoku",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "454f0a33-21f3-5d2b-8c2a-e971c4e5a9f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20601676",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "慕容云磊",
         "default": "cn"
       }
     },
