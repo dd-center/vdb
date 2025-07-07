@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899335
+    "timestamp": 1751899364
   },
   "vtbs": [
     {
@@ -105310,6 +105310,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "aa89fb55-4a3e-54b3-9a16-c9d5139ba0cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5081934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浮光-Luminos",
+        "default": "cn"
+      }
     },
     {
       "uuid": "264b3b2e-d124-589d-a87f-b85f9a7ba65e",
