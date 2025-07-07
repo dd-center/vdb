@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899026
+    "timestamp": 1751899067
   },
   "vtbs": [
     {
@@ -56732,6 +56732,23 @@
       "name": {
         "extra": [],
         "cn": "姜汣音Nikita",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "49479be5-015e-59e6-ad64-15c2e4b2953f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "493990893",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姜洛",
         "default": "cn"
       }
     },
