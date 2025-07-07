@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899497
+    "timestamp": 1751899563
   },
   "vtbs": [
     {
@@ -148522,6 +148522,23 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "5a7d8527-13f5-580a-ab33-3e1cee784ce9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1893715443",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蕾姆Rae",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3b6c8bc3-8969-5eae-8fdb-ec42adafbd12",
