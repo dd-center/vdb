@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899088
+    "timestamp": 1751899118
   },
   "vtbs": [
     {
@@ -109071,6 +109071,23 @@
       "name": {
         "extra": [],
         "cn": "灰满Ulric",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "576a5204-9f0f-5fa2-b832-a0707c1d2aa9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9574203",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灰爪GrayPaw",
         "default": "cn"
       }
     },
