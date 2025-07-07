@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899439
+    "timestamp": 1751899497
   },
   "vtbs": [
     {
@@ -159931,6 +159931,23 @@
         "extra": [],
         "cn": "银河晚晚",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "0a30c13f-9569-5bb1-bf4a-83f5ad0a8fe8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "488657393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "银珞Lyra",
+        "default": "CN"
       }
     },
     {
