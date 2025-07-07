@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899242
+    "timestamp": 1751899291
   },
   "vtbs": [
     {
@@ -59450,6 +59450,23 @@
       "name": {
         "extra": [],
         "cn": "完美潇洒路哥哥",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0faff63d-8f1f-5171-b86d-194941231c5b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "610747775",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宗泽学长",
         "default": "cn"
       }
     },
