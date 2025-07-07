@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899291
+    "timestamp": 1751899335
   },
   "vtbs": [
     {
@@ -133784,6 +133784,23 @@
       },
       "group": "30f0a6c7-e49d-56b9-8dd9-60bf6539212b",
       "group_name": "V_G研究所"
+    },
+    {
+      "uuid": "5dda9c60-34d9-5f83-aca8-68e1d1e9c6ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546868449544554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "给星星来一口",
+        "default": "cn"
+      }
     },
     {
       "uuid": "036565e5-6276-581e-bcfc-894859ecdc31",
