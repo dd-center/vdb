@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899217
+    "timestamp": 1751899242
   },
   "vtbs": [
     {
@@ -62409,6 +62409,23 @@
       "name": {
         "extra": [],
         "cn": "小毛拔了个火罐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "471e2451-f62a-5ea3-a289-7d8fd0e268c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546714615056398",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小水超猛的",
         "default": "cn"
       }
     },
