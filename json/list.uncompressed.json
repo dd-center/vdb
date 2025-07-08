@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751960147
+    "timestamp": 1751960278
   },
   "vtbs": [
     {
@@ -107207,6 +107207,23 @@
       "name": {
         "extra": [],
         "cn": "清蒸摸鱼鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8e017747-31d1-5c55-9934-f6eb89c7229d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546805144914018",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清辞lulia",
         "default": "cn"
       }
     },
