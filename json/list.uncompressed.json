@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751899790
+    "timestamp": 1751959855
   },
   "vtbs": [
     {
@@ -38270,6 +38270,25 @@
       }
     },
     {
+      "uuid": "f0ffce80-2c64-5127-a39d-2fa9f6e866dc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1477417",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千面兔_Chimeto",
+        "default": "cn"
+      },
+      "group": "2bbb487f-2542-5499-ac57-ebd6fedf1f94",
+      "group_name": "边迹社"
+    },
+    {
       "uuid": "28a1e41b-1c9c-5d1c-9ada-e08583f5a100",
       "type": "vtuber",
       "bot": false,
@@ -48126,6 +48145,25 @@
         "cn": "塔罗狐狐-华子甜宠",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "18d43968-fbd4-5e10-8dd9-7ef750ce7c48",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "195111150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔菈玛朵TramaDoll",
+        "default": "cn"
+      },
+      "group": "2bbb487f-2542-5499-ac57-ebd6fedf1f94",
+      "group_name": "边迹社"
     },
     {
       "uuid": "43bca9fb-185f-5946-8f28-4d2aea57a57c",
@@ -58039,6 +58077,25 @@
       "group_name": "ProjectViberglow"
     },
     {
+      "uuid": "39b79cd2-fe9c-5824-bf68-aff690857662",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1696738423",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宅不眠_zzz",
+        "default": "cn"
+      },
+      "group": "2bbb487f-2542-5499-ac57-ebd6fedf1f94",
+      "group_name": "边迹社"
+    },
+    {
       "uuid": "13276538-05e6-5ad1-b7ed-674ea0b9e48e",
       "type": "vtuber",
       "bot": false,
@@ -59161,6 +59218,25 @@
         "cn": "安洁洛特SAMA",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2d24395d-bfb0-52d4-9850-5d5f16ea1c8b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546820231826172",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "安米雅Anmiya",
+        "default": "cn"
+      },
+      "group": "2bbb487f-2542-5499-ac57-ebd6fedf1f94",
+      "group_name": "边迹社"
     },
     {
       "uuid": "ee3816b5-0e55-5fd5-9eb3-016c9e8bbb69",
@@ -156147,6 +156223,24 @@
         "cn": "奈奈",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2bbb487f-2542-5499-ac57-ebd6fedf1f94",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49583815",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "边迹社",
+        "default": "cn"
+      },
+      "group": "2bbb487f-2542-5499-ac57-ebd6fedf1f94"
     },
     {
       "uuid": "bda6b29d-0f6a-56bb-b385-a6c5e7defbea",
