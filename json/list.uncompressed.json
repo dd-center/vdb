@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751960278
+    "timestamp": 1751960366
   },
   "vtbs": [
     {
@@ -3870,6 +3870,23 @@
         "default": "cn"
       },
       "group": "62f90b65-e8cd-54b1-bae2-ed0fc47d063c"
+    },
+    {
+      "uuid": "6a161ae6-92cd-5c41-8042-dc179f568751",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "38888745",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Gacaranta",
+        "default": "cn"
+      }
     },
     {
       "uuid": "aed3f092-9d83-5dfe-b6c4-da6f26117d87",
@@ -30240,6 +30257,23 @@
       },
       "group": "f96c12b2-b935-5c29-9a31-46c97eca9c4c",
       "group_name": "云光计划"
+    },
+    {
+      "uuid": "b7bf3ab1-e97a-5485-be8b-3f1fd7fb2c20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546714489228154",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "修凪_野犬",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fd6590cd-ba4a-5ef9-8bcc-d785c5fc4fd1",
