@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751959855
+    "timestamp": 1751959883
   },
   "vtbs": [
     {
@@ -117383,6 +117383,23 @@
       "name": {
         "extra": [],
         "cn": "璃向Rikou",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0156349b-6502-5aa8-a7da-c637b6349778",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546380123507355",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "璃咩miiu",
         "default": "cn"
       }
     },
