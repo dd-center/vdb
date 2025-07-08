@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751959883
+    "timestamp": 1751959943
   },
   "vtbs": [
     {
@@ -69385,6 +69385,23 @@
       "name": {
         "extra": [],
         "cn": "幼栗突然出现",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0ca8d82e-eebe-53c8-beb8-107959408cf8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "30400150",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幼濑啾_jo",
         "default": "cn"
       }
     },
