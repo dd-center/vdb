@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751959943
+    "timestamp": 1751960013
   },
   "vtbs": [
     {
@@ -63574,6 +63574,23 @@
       "name": {
         "extra": [],
         "cn": "小蜂めるOfficial",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fadce935-2674-51e8-b00d-7826c805f989",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "98094853",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小蝰Kuii",
         "default": "cn"
       }
     },
