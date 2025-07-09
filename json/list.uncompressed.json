@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752036329
+    "timestamp": 1752036467
   },
   "vtbs": [
     {
@@ -88015,6 +88015,23 @@
           "木叶狐"
         ],
         "cn": "木叶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b87ff271-57eb-5102-946e-43e3228f6aff",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546391909501764",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木司丝丝丝",
         "default": "cn"
       }
     },
