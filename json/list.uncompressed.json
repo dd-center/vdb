@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752040365
+    "timestamp": 1752040463
   },
   "vtbs": [
     {
@@ -102457,6 +102457,23 @@
       }
     },
     {
+      "uuid": "a4e53fde-9b6a-517c-9d5e-b9d6202a5ae5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546887846103248",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沉舟眠w",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c72ee170-4535-5514-bed6-272a302a17c4",
       "type": "vtuber",
       "bot": false,
@@ -130299,6 +130316,23 @@
       "name": {
         "extra": [],
         "cn": "米兔cka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "29e366cd-e0f5-5099-bbd6-4e90ccb91bd6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2040490356",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米兜兜OoO",
         "default": "cn"
       }
     },
@@ -158773,6 +158807,23 @@
       },
       "group": "da74be58-904f-586f-99f3-49f26c496892",
       "group_name": "空白社"
+    },
+    {
+      "uuid": "c57e9483-256b-511e-8f89-d0658e05c9d9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546905281825674",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "里莎_Risa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "10ad05b3-97a9-54c9-b695-517785807877",
