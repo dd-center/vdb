@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1751967488
+    "timestamp": 1752036266
   },
   "vtbs": [
     {
@@ -82698,6 +82698,23 @@
       "name": {
         "extra": [],
         "cn": "春困拆脑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75337757-0282-53e8-af60-c7a451ee546c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546890685647043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春夏梦Yuki",
         "default": "cn"
       }
     },
