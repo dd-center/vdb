@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752036528
+    "timestamp": 1752036559
   },
   "vtbs": [
     {
@@ -110342,6 +110342,23 @@
       "name": {
         "extra": [],
         "cn": "烨璃Eiri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "15bd047b-5e76-568d-a870-0db9f2b93b2c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537113354078209",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "热川吨吨子",
         "default": "cn"
       }
     },
