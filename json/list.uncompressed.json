@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752036559
+    "timestamp": 1752039713
   },
   "vtbs": [
     {
@@ -46430,6 +46430,23 @@
       "name": {
         "extra": [],
         "cn": "喵莫伊_NekoMoyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4bf144d2-36e9-51fb-b75b-da1974d1a7a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19369243",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵西早点睡",
         "default": "cn"
       }
     },
