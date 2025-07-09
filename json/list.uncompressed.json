@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752036467
+    "timestamp": 1752036528
   },
   "vtbs": [
     {
@@ -98074,6 +98074,23 @@
       "name": {
         "extra": [],
         "cn": "樱岛泽_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a3b5227f-72ee-54fb-b4c0-463627e3fc40",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1328581235",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "樱庭园子",
         "default": "cn"
       }
     },
