@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752040959
+    "timestamp": 1752051133
   },
   "vtbs": [
     {
@@ -4601,6 +4601,23 @@
         "extra": [],
         "en": "Ita",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "5b242ad8-08a8-5029-aac5-fc4cd1b710bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "513242630",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Ivy逸-",
+        "default": "CN"
       }
     },
     {
