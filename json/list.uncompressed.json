@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752108586
+    "timestamp": 1752109234
   },
   "vtbs": [
     {
@@ -110767,6 +110767,23 @@
       "name": {
         "extra": [],
         "cn": "無羅崎シトリー",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "47fd1134-c0c8-5a1c-8aeb-926a28966f17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546897558014925",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "無视Wish",
         "default": "cn"
       }
     },
