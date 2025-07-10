@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752051133
+    "timestamp": 1752108586
   },
   "vtbs": [
     {
@@ -117817,6 +117817,23 @@
       "name": {
         "extra": [],
         "cn": "瑟莱徳司",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b865301f-416d-5fda-88d0-b308b903853c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546866478221346",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑟蕾娜Serenna",
         "default": "cn"
       }
     },
