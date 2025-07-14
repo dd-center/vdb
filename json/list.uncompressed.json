@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752509415
+    "timestamp": 1752509443
   },
   "vtbs": [
     {
@@ -125537,6 +125537,23 @@
       "name": {
         "extra": [],
         "cn": "碧艾尔-Kyle",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b1fbf54-bd0f-5014-bd1b-f606ca576de8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546603252091748",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "碱水栗",
         "default": "cn"
       }
     },
