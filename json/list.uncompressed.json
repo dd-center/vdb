@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752248615
+    "timestamp": 1752509391
   },
   "vtbs": [
     {
@@ -153972,6 +153972,23 @@
       "name": {
         "extra": [],
         "cn": "诺诺山大王",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "700c4bd0-cd38-51b1-8048-1e04b979e386",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546897526557386",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ruarua诺诺酱",
         "default": "cn"
       }
     },
