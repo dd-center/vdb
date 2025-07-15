@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752509750
+    "timestamp": 1752570249
   },
   "vtbs": [
     {
@@ -86105,6 +86105,23 @@
       "name": {
         "extra": [],
         "cn": "月咏坂栗kuriko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1ebc016-20ac-536f-8a5b-437ad138e8e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546917069916190",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月咏芽衣",
         "default": "cn"
       }
     },
