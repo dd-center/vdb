@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752761184
+    "timestamp": 1752951672
   },
   "vtbs": [
     {
@@ -46725,6 +46725,25 @@
       }
     },
     {
+      "uuid": "01975482-a76c-55b8-b657-04fff5253883",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546840869898685",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵铃Neko",
+        "default": "cn"
+      },
+      "group": "6632237b-4675-5fe6-b8e5-96d3b89e8d83",
+      "group_name": "圣魔社SeiMa"
+    },
+    {
       "uuid": "28083fe1-ebcc-512e-b20a-7bbbc691ed90",
       "type": "vtuber",
       "bot": false,
@@ -47949,6 +47968,24 @@
         "cn": "圣芙儿",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6632237b-4675-5fe6-b8e5-96d3b89e8d83",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546667099883858",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "圣魔社SeiMa",
+        "default": "cn"
+      },
+      "group": "6632237b-4675-5fe6-b8e5-96d3b89e8d83"
     },
     {
       "uuid": "67ade457-9404-5b22-a7f3-f1bbe4331f0f",
@@ -113608,6 +113645,25 @@
       }
     },
     {
+      "uuid": "79026bb9-f879-5776-a6e7-010b67abd958",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "283801800",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "狸悠ryu",
+        "default": "cn"
+      },
+      "group": "6632237b-4675-5fe6-b8e5-96d3b89e8d83",
+      "group_name": "圣魔社SeiMa"
+    },
+    {
       "uuid": "da84a301-f120-54a8-b46d-d4b913da4bc4",
       "type": "vtuber",
       "bot": false,
@@ -134548,6 +134604,25 @@
         "cn": "织世Tomoyo",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "6a546f2f-2936-53dc-acc7-fc1ba553195b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546579327781629",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "织奈Orina",
+        "default": "cn"
+      },
+      "group": "6632237b-4675-5fe6-b8e5-96d3b89e8d83",
+      "group_name": "圣魔社SeiMa"
     },
     {
       "uuid": "0828289e-fc13-5715-86f8-8646a8210120",
