@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1752951672
+    "timestamp": 1753007434
   },
   "vtbs": [
     {
@@ -123024,6 +123024,23 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "17920422-c502-5205-8a0f-c9b2248ea88a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546883874097311",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白鸟chihiro",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c4cfd0bc-51b8-5a94-a6ab-33202e9236ae",
