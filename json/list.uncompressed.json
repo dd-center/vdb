@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753057737
+    "timestamp": 1753057739
   },
   "vtbs": [
     {
@@ -61340,6 +61340,23 @@
       }
     },
     {
+      "uuid": "9c30f80c-bcd6-5bf0-8da1-aa70df159d14",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493105602923003",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小凌云也很努力鸭",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "2431e372-0574-535e-9dc6-ac2eefec3cbe",
       "type": "vtuber",
       "bot": false,
@@ -119619,6 +119636,23 @@
       }
     },
     {
+      "uuid": "aaea870e-fa1a-514b-9182-b1628747540d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498176231",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "电子小猪柔",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "edfd4c61-69cd-5730-9734-146028a34fd4",
       "type": "vtuber",
       "bot": false,
@@ -139990,6 +140024,23 @@
       }
     },
     {
+      "uuid": "b098bf0b-41d7-533b-9da0-786a0feb7011",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "37906403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾莉亚airi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d612252b-4a4c-57e4-b22f-886e6fdd463a",
       "type": "vtuber",
       "bot": false,
@@ -151264,6 +151315,23 @@
       },
       "group": "e2e54677-6608-5996-9976-464cfd4ed739",
       "group_name": "Tinsgoo-Project"
+    },
+    {
+      "uuid": "e376ae30-c1bf-521c-8d60-183b8b1edd86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546859117217944",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蛋挞sweet",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1e5a4771-8ef1-5bb3-b5e1-711cc0d43612",
