@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753338384
+    "timestamp": 1753352176
   },
   "vtbs": [
     {
@@ -125727,6 +125727,23 @@
       },
       "group": "3056975b-305b-54cd-b28c-0e005b612a5a",
       "group_name": "hOuOu_Project"
+    },
+    {
+      "uuid": "5f5d2a4b-f6e8-5c69-926e-7407d9ff8baf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "453805650",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "石榴守护者",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b7959579-1499-5459-86d3-79d9436b6716",
