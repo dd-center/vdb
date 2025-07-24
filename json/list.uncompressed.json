@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753057739
+    "timestamp": 1753338384
   },
   "vtbs": [
     {
@@ -57997,6 +57997,23 @@
       "name": {
         "extra": [],
         "cn": "婼卜兔yummy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0767e3cb-4d6e-5658-af7a-88d725d1dc7d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546739369839301",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "媛小喵_Misty",
         "default": "cn"
       }
     },
