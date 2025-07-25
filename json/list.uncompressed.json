@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753352307
+    "timestamp": 1753451490
   },
   "vtbs": [
     {
@@ -42475,6 +42475,23 @@
       "name": {
         "extra": [],
         "cn": "叶纯会努力",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bb9f94b3-4668-5a26-ab6c-15d79eb08a05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546650289113250",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叶绘花莲_Karen",
         "default": "cn"
       }
     },
@@ -90210,6 +90227,25 @@
       }
     },
     {
+      "uuid": "35854c08-6d62-5b89-8eb4-d88eb947b49b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1486039408",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "来杯喵吉特",
+        "default": "cn"
+      },
+      "group": "7126d95d-9311-5691-a2de-88d978486297",
+      "group_name": "天枢project"
+    },
+    {
       "uuid": "7d8a2fb5-aea6-5ebf-a5be-7fa39ff51df1",
       "type": "vtuber",
       "bot": false,
@@ -124423,6 +124459,23 @@
       }
     },
     {
+      "uuid": "35a90016-bb11-5fd3-a137-e1eee0b55703",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493280415222475",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "相相owo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "da95b8c7-78d7-54c2-ba9f-fee101562e26",
       "type": "vtuber",
       "bot": false,
@@ -126530,6 +126583,23 @@
         "extra": [],
         "cn": "祈粒Kiwi_",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "27b4cdcc-c7f9-5a64-8c62-3c0a97decaec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546908402386989",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "祈绪-卡拉梅尔",
+        "default": "JP"
       }
     },
     {
@@ -130960,6 +131030,25 @@
         "cn": "米勒だよ",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "cf2f3e82-c918-585b-89b9-934387d1fcec",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5205337",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米可多Micdo",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "6a7f9e39-1f44-54b0-b92d-de2d2327cdb5",
