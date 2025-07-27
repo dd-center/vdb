@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753451490
+    "timestamp": 1753606431
   },
   "vtbs": [
     {
@@ -23964,6 +23964,23 @@
       "name": {
         "extra": [],
         "cn": "久梦小二百",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1fe27fd9-ad4d-5443-b2b4-2cac747e5166",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546912802212553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "久爱薰Kaoru",
         "default": "cn"
       }
     },
