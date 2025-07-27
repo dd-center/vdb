@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753609391
+    "timestamp": 1753609480
   },
   "vtbs": [
     {
@@ -45720,6 +45720,23 @@
       "name": {
         "extra": [],
         "cn": "唐虎虎_忘川主播",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2849c122-90ff-5df2-b3ff-ed5d8d2e275b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546619811203922",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唐辛子nini",
         "default": "cn"
       }
     },
