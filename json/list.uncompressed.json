@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753607361
+    "timestamp": 1753607491
   },
   "vtbs": [
     {
@@ -144303,6 +144303,23 @@
       "name": {
         "extra": [],
         "cn": "苏饼饼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c9f051e8-252a-5c71-b0b4-73a94f23009f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "5464641",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏鹛Soulmate",
         "default": "cn"
       }
     },
