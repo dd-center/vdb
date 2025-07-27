@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753609278
+    "timestamp": 1753609391
   },
   "vtbs": [
     {
@@ -79982,6 +79982,23 @@
         "extra": [],
         "cn": "星原骏",
         "en": "HoshiharaSunn",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2fd507c2-4292-512a-bf1b-70e03a0dd9a6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "494699329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星名有米",
         "default": "cn"
       }
     },
