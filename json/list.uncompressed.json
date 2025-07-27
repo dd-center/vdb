@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753607106
+    "timestamp": 1753607361
   },
   "vtbs": [
     {
@@ -132753,6 +132753,23 @@
       "name": {
         "extra": [],
         "cn": "素星_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e25df14c-f5d8-57f6-a48f-06625e8270cb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "387204854",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "素素爱吃螺蛳粉",
         "default": "cn"
       }
     },
