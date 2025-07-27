@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753617181
+    "timestamp": 1753617208
   },
   "vtbs": [
     {
@@ -4450,6 +4450,23 @@
         "default": "en"
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f"
+    },
+    {
+      "uuid": "3d736417-0c6a-51bb-90ad-f6e4acc3f7bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546656226150793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Ho汐栗",
+        "default": "cn"
+      }
     },
     {
       "uuid": "cc82d65d-b865-584f-991a-4e1a72e14970",
