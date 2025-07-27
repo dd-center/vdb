@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753606431
+    "timestamp": 1753606460
   },
   "vtbs": [
     {
@@ -58065,6 +58065,23 @@
       "name": {
         "extra": [],
         "cn": "媹丝狸_Doma1n",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4dfa4c2b-2861-5d1f-8a93-cbff5297b492",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546883867806043",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "嫄沐奈美-御歌",
         "default": "cn"
       }
     },
