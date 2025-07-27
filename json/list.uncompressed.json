@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753607561
+    "timestamp": 1753608743
   },
   "vtbs": [
     {
@@ -45082,6 +45082,23 @@
       "name": {
         "extra": [],
         "cn": "哆楽Dolor",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "75c00585-d494-5983-8f5f-11813f081f20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546689057065407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "哆比Dobe",
         "default": "cn"
       }
     },
