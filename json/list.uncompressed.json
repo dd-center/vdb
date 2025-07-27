@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753606460
+    "timestamp": 1753607065
   },
   "vtbs": [
     {
@@ -37851,6 +37851,23 @@
       "name": {
         "extra": [],
         "cn": "千夜白_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1a03866-b1eb-5d1a-9b37-7816232acb8f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "398629298",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千奈Miko",
         "default": "cn"
       }
     },
