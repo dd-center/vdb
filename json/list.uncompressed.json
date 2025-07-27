@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753607065
+    "timestamp": 1753607106
   },
   "vtbs": [
     {
@@ -152201,6 +152201,23 @@
       "name": {
         "extra": [],
         "cn": "蝶蝶狐_Chouko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "36dfb4fc-a1d0-5630-ab90-6a1c8124c07b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546718008248902",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蝶音_Dian",
         "default": "cn"
       }
     },
