@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753617208
+    "timestamp": 1753617252
   },
   "vtbs": [
     {
@@ -70087,6 +70087,23 @@
       "name": {
         "extra": [],
         "cn": "幼濑啾_jo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e8304d4-2505-5126-b55d-2c285298906d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546907368491778",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幼稚园里的沐沐梓丶",
         "default": "cn"
       }
     },
