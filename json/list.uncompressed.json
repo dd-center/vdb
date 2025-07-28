@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753617252
+    "timestamp": 1753676751
   },
   "vtbs": [
     {
@@ -83751,6 +83751,23 @@
       "name": {
         "extra": [],
         "cn": "春鬼桃酒",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "540bd9ba-13ed-51c3-81f8-98a0d02a3b22",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546901416774522",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "春鱼Sakana",
         "default": "cn"
       }
     },
