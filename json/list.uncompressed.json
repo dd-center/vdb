@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753676865
+    "timestamp": 1753803349
   },
   "vtbs": [
     {
@@ -79522,6 +79522,23 @@
       },
       "group": "7d14580b-8154-5fdb-9777-b1032d302bfe",
       "group_name": "chaoslive"
+    },
+    {
+      "uuid": "e2e029cd-09ad-527a-9f48-cc0833528167",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546773505182653",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明璃彩Alisa",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2cc7e79f-d4a8-5cc7-bb73-279493c60b1c",
