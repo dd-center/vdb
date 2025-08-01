@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1753803349
+    "timestamp": 1754060438
   },
   "vtbs": [
     {
@@ -92684,6 +92684,25 @@
       }
     },
     {
+      "uuid": "e631b881-9e43-5196-963b-a20144cfe350",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1096820127",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "柚雨Kioi",
+        "default": "CN"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "699d508f-61e5-56de-87eb-cab349a56866",
       "type": "vtuber",
       "bot": false,
@@ -113175,6 +113194,25 @@
         "extra": [],
         "cn": "犬童Kendou",
         "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "9787b131-ed58-5751-9ba4-90a83315beaf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1125641408",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "犬绒Mofu",
+        "default": "CN"
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
@@ -139076,6 +139114,25 @@
         "jp": "能美枫铃だよ",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "d0b33bbc-7a04-5e38-9010-d17eb92e9583",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1439370289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "能能Nori",
+        "default": "cn"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "b77f6ca3-963b-52fb-ae86-f30289d4d2f9",
