@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754060438
+    "timestamp": 1754320053
   },
   "vtbs": [
     {
@@ -56994,6 +56994,23 @@
         "extra": [],
         "cn": "妮佩科",
         "jp": "にペこ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "17cf6a44-d5a1-5277-8d89-c9f8b05081a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493272408295798",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "妮可米露-Licomilu",
         "default": "cn"
       }
     },
