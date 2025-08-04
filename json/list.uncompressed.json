@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754320466
+    "timestamp": 1754320683
   },
   "vtbs": [
     {
@@ -45837,6 +45837,23 @@
       }
     },
     {
+      "uuid": "35c4864e-9b85-579a-b4ea-313496222f65",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "511311002",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "唯萋Seven",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1399f491-19a9-5857-a82c-3a6780283f90",
       "type": "vtuber",
       "bot": false,
@@ -66954,6 +66971,23 @@
       "name": {
         "extra": [],
         "cn": "岚墨_Holic",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "524f8944-35c8-583f-afdc-d7055f572d5f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546911451646314",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岚玻rimbaud",
         "default": "cn"
       }
     },
@@ -147389,6 +147423,23 @@
         "extra": [],
         "CN": "莫尔斯Morse",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "ece2c4c7-b898-51ea-b477-2c74fad8b677",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "42820324",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莫挽Movan",
+        "default": "cn"
       }
     },
     {
