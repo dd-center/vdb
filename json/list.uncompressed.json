@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754320053
+    "timestamp": 1754320363
   },
   "vtbs": [
     {
@@ -141668,6 +141668,23 @@
       "name": {
         "extra": [],
         "cn": "芣苛还没起床",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "46679627-d3d0-53ad-bd97-3cf6e77b4524",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "321418501",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芣苡生_Essie",
         "default": "cn"
       }
     },
