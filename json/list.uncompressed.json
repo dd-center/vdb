@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754320425
+    "timestamp": 1754320466
   },
   "vtbs": [
     {
@@ -23281,6 +23281,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "e08e89fd-1e4d-5ad5-92cd-138b333473d7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546876620048520",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "东方念卿kiss",
+        "default": "cn"
+      }
     },
     {
       "uuid": "4b4d2688-f794-5789-95e0-a1ee60139514",
