@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754320683
+    "timestamp": 1754320762
   },
   "vtbs": [
     {
@@ -51705,6 +51705,23 @@
       }
     },
     {
+      "uuid": "3fa4adbb-cfea-52fb-811c-f5f587a77df9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7569822",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜泉灵Rei",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "a9511474-9b49-5f09-872e-70e0f3a20290",
       "type": "vtuber",
       "bot": false,
@@ -61473,6 +61490,23 @@
         "extra": [],
         "jp": "小兔姬ゆるあ_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "2fa5e292-a88a-5f45-acf2-041a1dc63971",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546855738706656",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小兔挞ovo",
+        "default": "cn"
       }
     },
     {
@@ -117859,6 +117893,23 @@
       },
       "group": "e67fb222-1c4e-5f19-84da-9e8beba2c365",
       "group_name": "ChaosLiveSprout"
+    },
+    {
+      "uuid": "0b7d4cc1-dffc-5702-879f-e1046be9a67b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546900777142795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琪琪子-kiki",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1312718d-d145-5da8-8e00-12117f86260d",
