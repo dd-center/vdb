@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754320762
+    "timestamp": 1754494147
   },
   "vtbs": [
     {
@@ -9783,6 +9783,23 @@
         "extra": [],
         "cn": "Saku悠娜",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "5cb88ffa-f637-5c2b-af6a-a18759f16bc3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546839806642734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "SallieRed",
+        "default": "EN"
       }
     },
     {
@@ -175156,6 +175173,23 @@
         "extra": [],
         "cn": "鸽王小哒子",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2d12acdf-7201-54b5-96d2-e881dcaef581",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546934509832905",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "鸽羽Dove",
+        "default": "CN"
       }
     },
     {
