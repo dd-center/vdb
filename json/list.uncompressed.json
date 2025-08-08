@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754661959
+    "timestamp": 1754662390
   },
   "vtbs": [
     {
@@ -100880,6 +100880,26 @@
         "cn": "水原镜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5b5c0657-0103-577b-aade-bf03c64bafca",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494370919581938",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水奈Rin",
+        "en": "Rin",
+        "default": "cn"
+      },
+      "group": "507b983e-c810-542e-b686-87f514722181",
+      "group_name": "多维变奏MDV"
     },
     {
       "uuid": "dd1ee536-5b2b-5fb7-8cb1-9eea667f15ad",
