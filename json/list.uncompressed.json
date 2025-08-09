@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754662390
+    "timestamp": 1754721209
   },
   "vtbs": [
     {
@@ -131395,6 +131395,25 @@
         "cn": "箱梓",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2d83d1b2-ad62-5a1c-bd51-111e0aefb536",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18261554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "箱滨Bin",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "d751acaf-8193-5752-8dcf-98893d5f4f96",
