@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754825709
+    "timestamp": 1754878596
   },
   "vtbs": [
     {
@@ -165647,6 +165647,23 @@
       "name": {
         "extra": [],
         "cn": "陆艾萌",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "06162993-e812-56f4-ab28-d48183e376b6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546845278111940",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陆诗雯SEVEN",
         "default": "cn"
       }
     },
