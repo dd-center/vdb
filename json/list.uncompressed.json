@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754878674
+    "timestamp": 1754981933
   },
   "vtbs": [
     {
@@ -158841,6 +158841,23 @@
       "name": {
         "extra": [],
         "cn": "迟川miyo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "50b0645d-d073-540b-9ed3-bfdc146e3a05",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "607524075",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迟幸Xing_Official",
         "default": "cn"
       }
     },
