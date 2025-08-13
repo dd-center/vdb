@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1754981933
+    "timestamp": 1755113802
   },
   "vtbs": [
     {
@@ -101822,6 +101822,23 @@
       "name": {
         "extra": [],
         "cn": "永华莲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0e5c8c5a-ab95-5698-a057-eb535955c6ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546884259973369",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "永夜可可",
         "default": "cn"
       }
     },
