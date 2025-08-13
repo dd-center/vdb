@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755113802
+    "timestamp": 1755113834
   },
   "vtbs": [
     {
@@ -8937,6 +8937,23 @@
       },
       "group": "e9965fab-5b00-5636-bc6c-31bee0a537af",
       "group_name": "WFIE"
+    },
+    {
+      "uuid": "ee544e26-6c3e-563b-b758-283daa0dee59",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "416904059",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "RED红绫",
+        "default": "cn"
+      }
     },
     {
       "uuid": "bf3c64de-a818-5ca0-8629-aadc8e66fe44",
