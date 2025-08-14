@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755113834
+    "timestamp": 1755159936
   },
   "vtbs": [
     {
@@ -64950,23 +64950,6 @@
       }
     },
     {
-      "uuid": "eafe20a4-d00e-52e2-94db-9c6d77200601",
-      "type": "vtuber",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "3546648428939813",
-          "type": "official",
-          "platform": "bilibili"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "小食Taberu",
-        "default": "cn"
-      }
-    },
-    {
       "uuid": "4e583301-7504-5626-8981-b732e592a674",
       "type": "vtuber",
       "bot": false,
@@ -78437,6 +78420,25 @@
       },
       "group": "15e9ec4b-006f-5bcb-bdd0-8dc56854d6f4",
       "group_name": "774 inc"
+    },
+    {
+      "uuid": "ec3fa9a6-9798-59e8-971f-f9c51e5d9f30",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546648428939813",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "日光Taberu",
+        "default": "cn"
+      },
+      "group": "f7241b62-016d-5e4a-a5bd-ce5ab135f879",
+      "group_name": "北立交桥（妖精管理局）"
     },
     {
       "uuid": "dbc38bd5-ca03-5282-ac84-e87f82dfb421",
