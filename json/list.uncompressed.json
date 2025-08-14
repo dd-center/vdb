@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755183018
+    "timestamp": 1755185064
   },
   "vtbs": [
     {
@@ -66720,6 +66720,23 @@
       }
     },
     {
+      "uuid": "fed8fcdd-1804-5504-a301-def87f64c958",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546603944151354",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "山田心心zZ",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "56d97608-ecdf-5fb0-9f4e-263f69fdf0c7",
       "type": "vtuber",
       "bot": false,
@@ -119774,6 +119791,23 @@
         "extra": [],
         "cn": "甜酒味小莓",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "ff5fb560-0fb0-5122-a578-d3402ceddbf0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1199424704",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "甜闲nyaa",
+        "default": "CN"
       }
     },
     {
