@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755185141
+    "timestamp": 1755185682
   },
   "vtbs": [
     {
@@ -162524,7 +162524,13 @@
       "uuid": "81bdaeaa-2221-5ef7-a52f-aac975443377",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "245039923",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "CN": "银河跃迁PHG(本社)",
