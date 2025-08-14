@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755185064
+    "timestamp": 1755185141
   },
   "vtbs": [
     {
@@ -42153,6 +42153,25 @@
       }
     },
     {
+      "uuid": "7655d742-62e0-5237-a008-e51c8c99bd4a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3537115977615474",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "可莉丝汀Christine",
+        "default": "CN"
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
+    },
+    {
       "uuid": "e0cf9883-fb18-58cb-8f62-565cd6d98e4f",
       "type": "vtuber",
       "bot": false,
@@ -47790,7 +47809,9 @@
         "extra": [],
         "cn": "四风玖Kyuu",
         "default": "cn"
-      }
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "cc3a276b-14c5-51f4-871c-1bff7e0e45a3",
@@ -76728,7 +76749,9 @@
         "extra": [],
         "cn": "拉米是一只鱼宝",
         "default": "cn"
-      }
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "b9729cda-9299-5a49-8a9f-704cc98d6f04",
@@ -137169,7 +137192,9 @@
         "extra": [],
         "cn": "缇思teath",
         "default": "cn"
-      }
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "51f1c9ef-6562-5e49-a4a8-6a3f01564611",
@@ -148531,7 +148556,9 @@
         "extra": [],
         "cn": "菲格蕾Figure",
         "default": "cn"
-      }
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "81aa1305-5c44-5c4f-a756-9872395a396e",
@@ -155381,7 +155408,9 @@
         "extra": [],
         "cn": "诺艾儿Noelle",
         "default": "cn"
-      }
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "69a5e332-bd94-506f-9327-0650def39047",
@@ -162492,6 +162521,18 @@
       }
     },
     {
+      "uuid": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "CN": "银河跃迁PHG(本社)",
+        "default": "CN"
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377"
+    },
+    {
       "uuid": "0a30c13f-9569-5bb1-bf4a-83f5ad0a8fe8",
       "type": "vtuber",
       "bot": false,
@@ -169086,6 +169127,25 @@
         "cn": "雾雨威",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "fd54a3f8-a37c-5c51-a668-46a4775aa9f5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546785739966972",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "雾雨心奈Mina",
+        "default": "CN"
+      },
+      "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
+      "group_name": "银河跃迁PHG(本社)"
     },
     {
       "uuid": "0f017dd2-13c4-56ac-b991-4e0829073d95",
