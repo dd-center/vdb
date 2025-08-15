@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755185682
+    "timestamp": 1755244795
   },
   "vtbs": [
     {
@@ -21848,6 +21848,23 @@
       "name": {
         "extra": [],
         "cn": "万灼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "666f074a-616e-5984-97f8-150c6b3503ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546719987960278",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万能小兔旅店",
         "default": "cn"
       }
     },
