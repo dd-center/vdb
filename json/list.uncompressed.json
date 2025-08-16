@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755332013
+    "timestamp": 1755332270
   },
   "vtbs": [
     {
@@ -80209,6 +80209,23 @@
         "extra": [],
         "cn": "星井まゆき",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "b7000b12-071c-5e9f-a5fb-2074814a7b3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1435605202",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "星井爱梦_Aimu",
+        "default": "CN"
       }
     },
     {
