@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755244795
+    "timestamp": 1755332013
   },
   "vtbs": [
     {
@@ -143016,6 +143016,23 @@
       "name": {
         "extra": [],
         "cn": "花泠Linno",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f6de206f-b1a7-5c70-8a32-3cfa7b50a3bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "429638518",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花泽香桃-唱见连",
         "default": "cn"
       }
     },
