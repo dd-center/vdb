@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755332270
+    "timestamp": 1755343811
   },
   "vtbs": [
     {
@@ -50184,6 +50184,25 @@
       }
     },
     {
+      "uuid": "c485fcea-741f-5f37-bb36-36686c165864",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546885960764097",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "夏烬川Gin",
+        "default": "CN"
+      },
+      "group": "dc551c4b-d1d0-5b20-8526-86d4bf348629",
+      "group_name": "构梦奇点GOMOON"
+    },
+    {
       "uuid": "0c3f0490-6e00-5032-b3b2-ecb3b8937be6",
       "type": "vtuber",
       "bot": false,
@@ -91164,6 +91183,24 @@
       }
     },
     {
+      "uuid": "dc551c4b-d1d0-5b20-8526-86d4bf348629",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546885960763632",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "构梦奇点GOMOON",
+        "default": "CN"
+      },
+      "group": "dc551c4b-d1d0-5b20-8526-86d4bf348629"
+    },
+    {
       "uuid": "0bb7ad72-ba79-5240-b10b-0c7f2d3a59ee",
       "type": "vtuber",
       "bot": false,
@@ -91267,6 +91304,25 @@
         "cn": "林千柳76",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ffacc912-8bf9-5ba4-b0a7-cb6b9519b9f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546885962860730",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "林南星Sivan",
+        "default": "CN"
+      },
+      "group": "dc551c4b-d1d0-5b20-8526-86d4bf348629",
+      "group_name": "构梦奇点GOMOON"
     },
     {
       "uuid": "fa681c7a-6cf4-5d27-890c-7118747a7a9e",
@@ -106368,6 +106424,25 @@
         "cn": "流司Ryuzy",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3169b24b-301f-547f-8ba3-319cceea4321",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546885837031507",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "流存Lexim",
+        "default": "CN"
+      },
+      "group": "dc551c4b-d1d0-5b20-8526-86d4bf348629",
+      "group_name": "构梦奇点GOMOON"
     },
     {
       "uuid": "d75d5922-2803-5219-92a0-22a80603b3ef",
@@ -169149,6 +169224,25 @@
         "cn": "雾里妃音",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f51dd69c-de69-5a21-b56a-af22d740619c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546887233735594",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "雾锁Unlock",
+        "default": "CN"
+      },
+      "group": "dc551c4b-d1d0-5b20-8526-86d4bf348629",
+      "group_name": "构梦奇点GOMOON"
     },
     {
       "uuid": "438942be-f004-5115-a175-dc95b1e85dc4",
