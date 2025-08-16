@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755348202
+    "timestamp": 1755348237
   },
   "vtbs": [
     {
@@ -94086,6 +94086,25 @@
       }
     },
     {
+      "uuid": "a140e38d-a2e2-523a-a676-94da227867c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "532302087",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "栗吱莉莉_Lily",
+        "default": "CN"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
+    },
+    {
       "uuid": "f32d345f-cc33-5921-a56f-a5c58a748be2",
       "type": "vtuber",
       "bot": false,
@@ -140617,6 +140636,25 @@
       }
     },
     {
+      "uuid": "b14d88d3-2f86-5803-b753-a5b3f410bd4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "336609938",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "艾泽Azure",
+        "default": "CN"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
+    },
+    {
       "uuid": "460575cf-6550-5ab7-b310-608f62e81ac2",
       "type": "vtuber",
       "bot": false,
@@ -144239,6 +144277,25 @@
         "cn": "芷小菡",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7b5dd416-a8af-5158-9009-8968a67d0444",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546779333167553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "芷绘lulu",
+        "default": "CN"
+      },
+      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
+      "group_name": "Hanabi_live"
     },
     {
       "uuid": "4f1c4454-29e6-5fdd-920f-219a71486455",
