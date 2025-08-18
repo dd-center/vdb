@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755348237
+    "timestamp": 1755539480
   },
   "vtbs": [
     {
@@ -170134,6 +170134,23 @@
       "name": {
         "extra": [],
         "cn": "露米娜lumina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9ac3982-37e4-52f1-bb50-aad8de4c6430",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "104811479",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露米萬子RumiWanko",
         "default": "cn"
       }
     },
