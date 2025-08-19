@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755539480
+    "timestamp": 1755602319
   },
   "vtbs": [
     {
@@ -169177,6 +169177,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "b60e8d07-9da8-5c87-8cf5-c54618802269",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493279926585673",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "雾白AuraMisty",
+        "default": "CN"
+      }
     },
     {
       "uuid": "ebe77a6b-4ee8-5400-be60-5c327a0f9b75",
