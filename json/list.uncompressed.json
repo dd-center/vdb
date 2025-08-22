@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755742697
+    "timestamp": 1755887887
   },
   "vtbs": [
     {
@@ -37436,6 +37436,23 @@
         "extra": [],
         "cn": "十七为何那样",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "7fa78249-912b-5b5b-945b-8b15682c7350",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1100192137",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "十七音Sebun",
+        "default": "CN"
       }
     },
     {
