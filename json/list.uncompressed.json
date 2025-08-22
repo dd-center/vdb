@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755887887
+    "timestamp": 1755888519
   },
   "vtbs": [
     {
@@ -74028,6 +74028,23 @@
       "name": {
         "extra": [],
         "cn": "怡妹喝可乐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b1a29cfe-cf46-5c36-a473-7a7757ff3676",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546779039566491",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怡崽是奶凶暴龙",
         "default": "cn"
       }
     },
