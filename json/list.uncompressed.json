@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1755940465
+    "timestamp": 1755969394
   },
   "vtbs": [
     {
@@ -126408,6 +126408,23 @@
         "extra": [],
         "cn": "知慧ChihHui",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "a9931df5-6892-53a9-a7e0-13a865b12d7f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "628822817",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "知暖_Official",
+        "default": "CN"
       }
     },
     {
