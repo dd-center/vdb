@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756115682
+    "timestamp": 1756115702
   },
   "vtbs": [
     {
@@ -134488,6 +134488,23 @@
       "group_name": "P-SP"
     },
     {
+      "uuid": "b1da4dce-6bbf-5724-b339-53426ce4de2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546923627711041",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "綾澈aya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "05497854-8f2f-568d-ac54-9f1b50422e8c",
       "type": "vtuber",
       "bot": false,
@@ -172003,6 +172020,23 @@
       "name": {
         "extra": [],
         "cn": "颜宝是条龙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1fa5b33d-8524-5dbd-a442-e7902dedbbea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "670250754",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "颜御Akuma",
         "default": "cn"
       }
     },
