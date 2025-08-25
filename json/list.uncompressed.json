@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756115519
+    "timestamp": 1756115564
   },
   "vtbs": [
     {
@@ -47787,6 +47787,23 @@
       "name": {
         "extra": [],
         "cn": "四月一日夢",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2ffa7c03-b6da-5605-b86c-bba7496b8e6e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "649984343",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "四柒--siki",
         "default": "cn"
       }
     },
