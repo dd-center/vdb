@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756115564
+    "timestamp": 1756115637
   },
   "vtbs": [
     {
@@ -32060,6 +32060,23 @@
       "name": {
         "extra": [],
         "cn": "兔兔船長凉飕飕凛",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a222a03b-5763-52d1-9c58-e6ffe4e12585",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493146033916740",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "兔卷卷curly",
         "default": "cn"
       }
     },
@@ -115641,6 +115658,23 @@
       "name": {
         "extra": [],
         "cn": "猫猫CATQAQ",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "061703a9-8c1b-5835-970f-bf9a3a067d7e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546813252503740",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫猫大王oi",
         "default": "cn"
       }
     },
