@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756115637
+    "timestamp": 1756115682
   },
   "vtbs": [
     {
@@ -95329,6 +95329,23 @@
       "name": {
         "extra": [],
         "cn": "桃桃子_Momoko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a79ea6d2-1738-5633-8c13-f46fb6bbabf5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "89126274",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃桃栀Momochi",
         "default": "cn"
       }
     },
