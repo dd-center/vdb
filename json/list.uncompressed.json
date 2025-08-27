@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756115702
+    "timestamp": 1756289519
   },
   "vtbs": [
     {
@@ -3030,6 +3030,100 @@
         "cn": "DrKuronoOfficial",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c209eb52-dc46-54d0-82e9-0d830b96c0e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546935413705490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Dsire-寒叙",
+        "default": "CN"
+      },
+      "group": "a4053e22-87a2-576f-aaca-910fe6246264",
+      "group_name": "Dsire_Official"
+    },
+    {
+      "uuid": "9ed3d09a-2f50-590c-b64a-5474d6049410",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546935302556184",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Dsire-时雨",
+        "default": "CN"
+      },
+      "group": "a4053e22-87a2-576f-aaca-910fe6246264",
+      "group_name": "Dsire_Official"
+    },
+    {
+      "uuid": "1ec644d4-db0d-5fba-9943-75d387833c79",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546935411608174",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Dsire-萧烬",
+        "default": "CN"
+      },
+      "group": "a4053e22-87a2-576f-aaca-910fe6246264",
+      "group_name": "Dsire_Official"
+    },
+    {
+      "uuid": "ea611244-8dc6-5faa-ac69-6f7e7b517cb5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546935413704931",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Dsire-顾翊",
+        "default": "CN"
+      },
+      "group": "a4053e22-87a2-576f-aaca-910fe6246264",
+      "group_name": "Dsire_Official"
+    },
+    {
+      "uuid": "a4053e22-87a2-576f-aaca-910fe6246264",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546934977497420",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "Dsire_Official",
+        "default": "CN"
+      },
+      "group": "a4053e22-87a2-576f-aaca-910fe6246264"
     },
     {
       "uuid": "d5d1cbb9-e493-5ea7-b97f-46e53f028d08",
@@ -175600,6 +175694,23 @@
       "name": {
         "extra": [],
         "cn": "鸢尾默",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2076d4e5-b5fe-544f-85c3-7e58fa735707",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "18345407",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鸢晴茸茸Chororo",
         "default": "cn"
       }
     },
