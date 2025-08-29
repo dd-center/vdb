@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756289519
+    "timestamp": 1756481212
   },
   "vtbs": [
     {
@@ -71996,6 +71996,23 @@
       "name": {
         "extra": [],
         "cn": "弥蒂娅_Mystia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8a6de3fc-d4db-5e80-8e12-9c09f515f553",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546581515111228",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥雾meow",
         "default": "cn"
       }
     },
