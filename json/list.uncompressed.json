@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756481353
+    "timestamp": 1756481475
   },
   "vtbs": [
     {
@@ -134091,6 +134091,23 @@
       },
       "group": "6bb97c04-f7a2-5d92-8ec3-bb97262dbe47",
       "group_name": "propro production"
+    },
+    {
+      "uuid": "d7705f76-f33c-544b-a01b-6cb365b93bdb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546675893242347",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "紫沐沐SAMA",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c3743f70-282e-5cd6-bdbf-6446702ea0ec",
