@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756481212
+    "timestamp": 1756481353
   },
   "vtbs": [
     {
@@ -24755,6 +24755,23 @@
       },
       "group": "72121bcf-cb42-50b2-93d3-9a83cae702f8",
       "group_name": "追光社"
+    },
+    {
+      "uuid": "9a5c1b2e-b20a-5fb5-9a0d-b8bff60ddf45",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546781327559506",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乔希Joshy",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5fd63995-051d-5f8b-b3d9-e5fc4d42ba3e",
