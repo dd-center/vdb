@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756481475
+    "timestamp": 1756481511
   },
   "vtbs": [
     {
@@ -48421,6 +48421,23 @@
       "name": {
         "extra": [],
         "cn": "圣月神乐",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2143a0ec-8f5d-576f-9f2d-ec8c6a842334",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "7840648",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "圣歌莉亚Hymina",
         "default": "cn"
       }
     },
