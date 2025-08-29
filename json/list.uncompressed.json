@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756481601
+    "timestamp": 1756482122
   },
   "vtbs": [
     {
@@ -132225,6 +132225,23 @@
       "name": {
         "extra": [],
         "cn": "米娅在地下室",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "25dea457-b88a-54e7-a00d-ceb081227ec5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1684023191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米娅洛丝Mia",
         "default": "cn"
       }
     },
