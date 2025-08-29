@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756481511
+    "timestamp": 1756481601
   },
   "vtbs": [
     {
@@ -24385,6 +24385,23 @@
       "name": {
         "extra": [],
         "cn": "之小之Shiny",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "da9ca5e3-4c6d-54fe-bb8a-3d020d7fcf20",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "32193906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乌云_Neko",
         "default": "cn"
       }
     },
