@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756628638
+    "timestamp": 1756688981
   },
   "vtbs": [
     {
@@ -152775,6 +152775,23 @@
       "name": {
         "extra": [],
         "cn": "虾霸锅bargo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "63582073-d004-59eb-b7af-13240b53f193",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494363294337077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蚀尾_Kelili",
         "default": "cn"
       }
     },
