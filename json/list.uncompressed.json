@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756688981
+    "timestamp": 1756689021
   },
   "vtbs": [
     {
@@ -4186,7 +4186,7 @@
     },
     {
       "uuid": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
-      "type": "vtuber",
+      "type": "group",
       "bot": false,
       "accounts": [
         {
@@ -4199,7 +4199,8 @@
         "extra": [],
         "EN": "HOLOSTARS_EN",
         "default": "EN"
-      }
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd"
     },
     {
       "uuid": "8d0eded1-9fae-5e6d-9a23-68670a249702",
@@ -22033,6 +22034,25 @@
       }
     },
     {
+      "uuid": "bf198920-08e1-5ef3-a9f6-99851782ede1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546957345720976",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "万象院八花_EN",
+        "default": "EN"
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "group_name": "HOLOSTARS_EN"
+    },
+    {
       "uuid": "140d88d5-0e37-572e-8205-0f3f447ca7ca",
       "type": "vtuber",
       "bot": false,
@@ -30555,6 +30575,25 @@
       }
     },
     {
+      "uuid": "d6f38393-71f4-59de-a1c8-5caa3fb91015",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546684042774691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "侏罗德-T-雷克斯福特_EN",
+        "default": "EN"
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "group_name": "HOLOSTARS_EN"
+    },
+    {
       "uuid": "e321e01d-ad3f-58ab-a16f-5b13ce1a0fe9",
       "type": "vtuber",
       "bot": false,
@@ -36650,7 +36689,9 @@
         "extra": [],
         "en": "加维斯贝特尔_EN",
         "default": "en"
-      }
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "group_name": "HOLOSTARS_EN"
     },
     {
       "uuid": "4be9b578-2dc2-5ba5-bda4-58b4095af3a7",
@@ -56002,7 +56043,9 @@
         "extra": [],
         "en": "奥克塔维奥_EN",
         "default": "en"
-      }
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "group_name": "HOLOSTARS_EN"
     },
     {
       "uuid": "1c0fada7-16fa-5948-95c1-e4e12ae025f9",
@@ -60639,6 +60682,25 @@
         "cn": "宙宇尘星Duststar",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1d072343-d88b-53a6-a3cd-5d445a02755f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546957352011826",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "定水寺真鲤_EN",
+        "default": "EN"
+      },
+      "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
+      "group_name": "HOLOSTARS_EN"
     },
     {
       "uuid": "d55bb3c9-2022-5669-91e7-6bd83c26aa20",
