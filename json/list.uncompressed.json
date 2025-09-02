@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795646
+    "timestamp": 1756795664
   },
   "vtbs": [
     {
@@ -171274,6 +171274,23 @@
       "name": {
         "extra": [],
         "cn": "青筝语芋鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c6ffde8f-c7c7-56f2-a672-a04ec41766b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493115988019782",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青络Bloom",
         "default": "cn"
       }
     },
