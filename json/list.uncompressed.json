@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795664
+    "timestamp": 1756795786
   },
   "vtbs": [
     {
@@ -174552,6 +174552,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "f76dace3-fe70-5a10-9354-b28f28ab00e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "179187480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "魔哩煞",
+        "default": "CN"
+      }
     },
     {
       "uuid": "4afe0cfa-8de6-589b-b9d6-f937f2c420aa",
