@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795498
+    "timestamp": 1756795646
   },
   "vtbs": [
     {
@@ -62676,6 +62676,23 @@
       "name": {
         "extra": [],
         "cn": "小小水野",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a004af45-b9e4-574b-a9dc-1abe68d285fd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2139680138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小小白菜菜兔",
         "default": "cn"
       }
     },
