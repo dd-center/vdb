@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756689021
+    "timestamp": 1756795352
   },
   "vtbs": [
     {
@@ -53159,6 +53159,23 @@
       "name": {
         "extra": [],
         "cn": "大舌头Annica",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "02e57d79-54dd-5ee0-bd8c-a737c057982d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487744559",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "大花猫喵喵鱼",
         "default": "cn"
       }
     },
