@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795385
+    "timestamp": 1756795427
   },
   "vtbs": [
     {
@@ -133476,6 +133476,23 @@
       "name": {
         "extra": [],
         "cn": "糖泽希希",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "192233ce-925a-5fc1-b52a-c36ab61bb561",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546817348242317",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖糖小脑瓜",
         "default": "cn"
       }
     },
