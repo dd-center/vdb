@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795427
+    "timestamp": 1756795498
   },
   "vtbs": [
     {
@@ -170559,6 +170559,23 @@
       "group_name": "完美世界电竞TWINKLE.STAR"
     },
     {
+      "uuid": "58da6405-e299-515c-b833-d7c5d52902e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546937944967906",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "露希莉奈",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "52bf5fd3-4d99-50a3-a3e3-b870553e7f8f",
       "type": "vtuber",
       "bot": false,
@@ -171566,6 +171583,23 @@
       "name": {
         "extra": [],
         "cn": "鞠原夏生Natsuki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7f884e54-72ba-525a-903c-792073f06473",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546673116612824",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "韩憨憨吖",
         "default": "cn"
       }
     },
