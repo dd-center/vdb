@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795352
+    "timestamp": 1756795385
   },
   "vtbs": [
     {
@@ -125279,6 +125279,23 @@
         "extra": [],
         "cn": "盐月明日",
         "jp": "ShiodukiAsu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "35eb85fc-2f32-5be7-9ec6-eceaa1b9c756",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1812582238",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盐栗栗_广东糖-唱歌连",
         "default": "cn"
       }
     },
