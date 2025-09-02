@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756795786
+    "timestamp": 1756796293
   },
   "vtbs": [
     {
@@ -76897,6 +76897,23 @@
       "name": {
         "extra": [],
         "cn": "折原露露",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e578aed8-4cdc-551f-9c96-1001397af560",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546952377567388",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "折花花Meo",
         "default": "cn"
       }
     },
