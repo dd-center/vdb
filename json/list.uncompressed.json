@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1756998972
+    "timestamp": 1757151897
   },
   "vtbs": [
     {
@@ -150183,6 +150183,23 @@
           "丝丝莉雅"
         ],
         "cn": "萌糸莉雅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56ef0564-aa52-51ce-8d1b-be025a7aafd5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546933324941477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "萌花Moeka",
         "default": "cn"
       }
     },
