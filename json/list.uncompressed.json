@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757151897
+    "timestamp": 1757170926
   },
   "vtbs": [
     {
@@ -38610,6 +38610,23 @@
       "name": {
         "extra": [],
         "cn": "千穗梨衣_lily",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e21af748-231c-52d2-bfbe-811d5641c35e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546902467446882",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千籁Senrai",
         "default": "cn"
       }
     },
