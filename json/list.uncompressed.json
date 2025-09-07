@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757257444
+    "timestamp": 1757257607
   },
   "vtbs": [
     {
@@ -63816,6 +63816,23 @@
       }
     },
     {
+      "uuid": "fc1c345f-6589-5c49-af49-dffedd12d59d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546770957142099",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小欣点咯",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "cdfb5f11-73bb-52da-892b-0bef87527277",
       "type": "vtuber",
       "bot": false,
@@ -64345,6 +64362,23 @@
       "name": {
         "extra": [],
         "cn": "小白心里软Luniya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "87f43917-b85a-5656-9cf8-c25c1fe333ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546739967527097",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小盐棒冰kino",
         "default": "cn"
       }
     },
