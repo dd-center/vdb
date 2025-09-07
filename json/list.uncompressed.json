@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757221054
+    "timestamp": 1757221081
   },
   "vtbs": [
     {
@@ -25859,6 +25859,23 @@
       "name": {
         "extra": [],
         "cn": "二米明子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "64ebad0d-5dfe-51ea-8eb5-fe2fd74ad8e7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546760418953326",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "二羽凛奈",
         "default": "cn"
       }
     },
