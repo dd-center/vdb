@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757422188
+    "timestamp": 1757492746
   },
   "vtbs": [
     {
@@ -83900,6 +83900,23 @@
       "name": {
         "extra": [],
         "cn": "星野光-VTuber-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f126746b-6247-51e1-a773-534a5b19e1b9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "275277683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野和和",
         "default": "cn"
       }
     },
