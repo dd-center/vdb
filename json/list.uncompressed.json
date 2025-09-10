@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757492746
+    "timestamp": 1757492979
   },
   "vtbs": [
     {
@@ -73227,6 +73227,23 @@
         "extra": [],
         "cn": "御坂伊里奇_Official",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "967bc995-a454-5df8-b507-4e9fe6e25094",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "8491553",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "御坂声声",
+        "default": "CN"
       }
     },
     {
