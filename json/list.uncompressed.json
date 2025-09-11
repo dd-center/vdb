@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757518868
+    "timestamp": 1757573381
   },
   "vtbs": [
     {
@@ -22525,6 +22525,23 @@
       },
       "group": "fdb3ee6d-3a2e-5bfb-b724-aeb9b223de69",
       "group_name": "ProjectViberglow"
+    },
+    {
+      "uuid": "8dcba9de-1866-59d0-8d0e-a2584a56de7a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494371070576692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "三角sumire",
+        "default": "JP"
+      }
     },
     {
       "uuid": "cb0ae042-c532-5d44-b81f-1275107fe787",
