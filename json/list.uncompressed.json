@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757654427
+    "timestamp": 1757655400
   },
   "vtbs": [
     {
@@ -139157,6 +139157,23 @@
         "jp": "もかな",
         "cn": "羊姬桃香奈",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "587f613a-58bc-5c81-8d6b-1ca49929718d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "22158819",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羊腿umer",
+        "default": "cn"
       }
     },
     {
