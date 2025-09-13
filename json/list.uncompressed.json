@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757738560
+    "timestamp": 1757769639
   },
   "vtbs": [
     {
@@ -80345,6 +80345,23 @@
       }
     },
     {
+      "uuid": "87cecf08-ff6d-5638-9ccc-c8e1bd57d165",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36278791",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "旺旺小力宝",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "55460395-ec32-547f-88f6-a18ea0d76862",
       "type": "vtuber",
       "bot": false,
@@ -127044,6 +127061,23 @@
       "name": {
         "extra": [],
         "cn": "眠夢うゆ_MumiUyu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c264b532-70fe-5c93-95c7-a6d637d6d05f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494354360470240",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "眠崽龟龟",
         "default": "cn"
       }
     },
