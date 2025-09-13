@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757738408
+    "timestamp": 1757738468
   },
   "vtbs": [
     {
@@ -108714,6 +108714,23 @@
       }
     },
     {
+      "uuid": "32566aa6-b123-59f9-b533-a26820382085",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "100488773",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涂山婉婉OvO",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "1fe9edd2-8120-56bc-b5fe-ef2570b5291c",
       "type": "vtuber",
       "bot": false,
@@ -146144,6 +146161,23 @@
       "name": {
         "extra": [],
         "cn": "苏亿万Ruby",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8ab48dc0-089e-5917-b351-aead7a0498a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546912969984921",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏卡笨蛋",
         "default": "cn"
       }
     },
