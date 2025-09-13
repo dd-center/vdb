@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757655400
+    "timestamp": 1757738386
   },
   "vtbs": [
     {
@@ -85993,6 +85993,23 @@
       }
     },
     {
+      "uuid": "9f10d019-75ea-5744-aa48-5a393d7e5889",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "502940943",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晚音依旧有点饿",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "936a7059-678b-558a-ae42-a518e5f6be74",
       "type": "vtuber",
       "bot": false,
@@ -146524,6 +146541,23 @@
         "extra": [],
         "cn": "苓汣酒",
         "en": "Curio",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "68cf1ecf-9440-5bba-993c-a8a030432fc0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6161608",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苓茸小师妹",
         "default": "cn"
       }
     },
