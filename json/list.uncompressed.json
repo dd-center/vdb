@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757738468
+    "timestamp": 1757738536
   },
   "vtbs": [
     {
@@ -67692,6 +67692,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "a64011d8-8163-5762-9f06-ac8159248ee7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2145845248",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "岁欢Rime",
+        "default": "cn"
+      }
     },
     {
       "uuid": "e733835e-32e4-5c3d-9749-f5e076b74da5",
