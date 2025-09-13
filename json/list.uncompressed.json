@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757738386
+    "timestamp": 1757738408
   },
   "vtbs": [
     {
@@ -41011,6 +41011,23 @@
       "name": {
         "extra": [],
         "cn": "卯满满-Michiru",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "037c7f5e-369b-58e1-b26c-29610fccf76b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "6197764",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卯野琪琪",
         "default": "cn"
       }
     },
