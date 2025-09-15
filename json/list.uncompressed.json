@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1757769639
+    "timestamp": 1757925788
   },
   "vtbs": [
     {
@@ -37644,6 +37644,23 @@
       }
     },
     {
+      "uuid": "e7f2526f-ce4e-5e62-8eaa-048e99970092",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "495824057",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北见曦_Official",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "204aa7f7-13ab-5c83-be1d-cfb80010f9a5",
       "type": "vtuber",
       "bot": false,
@@ -63313,6 +63330,23 @@
       "name": {
         "extra": [],
         "cn": "小搞_official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fd91ea0e-53d8-5650-9690-161d3252ccd1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546704060091227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小摆摆说摆就摆",
         "default": "cn"
       }
     },
