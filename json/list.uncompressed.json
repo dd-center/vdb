@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758498328
+    "timestamp": 1758498368
   },
   "vtbs": [
     {
@@ -86541,6 +86541,23 @@
       }
     },
     {
+      "uuid": "69aed380-d722-56cb-906b-b87fe89b40a2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494370110081306",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晴烛",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "18a475cb-b5c5-50ac-9134-0c518423dc7e",
       "type": "vtuber",
       "bot": false,
@@ -146485,6 +146502,23 @@
       "name": {
         "extra": [],
         "cn": "苏梦瑶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e6ca5c92-0d12-5690-9ce8-d070b0918150",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546838244263993",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "苏棠shine",
         "default": "cn"
       }
     },
