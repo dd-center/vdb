@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758466753
+    "timestamp": 1758498291
   },
   "vtbs": [
     {
@@ -143570,6 +143570,23 @@
       "name": {
         "extra": [],
         "cn": "芝士饿晕了耶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6c6fa92d-dccd-5ddd-9a9a-bc58fb83ed61",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475118489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芝恩㱏",
         "default": "cn"
       }
     },
