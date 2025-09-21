@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758003074
+    "timestamp": 1758426543
   },
   "vtbs": [
     {
@@ -80130,6 +80130,23 @@
       "name": {
         "extra": [],
         "cn": "时寒商是颗大白菜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1fa4d8fa-d8f0-5435-ad93-e7c1657391a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546635420305699",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "时小希niania",
         "default": "cn"
       }
     },
