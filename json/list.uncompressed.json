@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758548406
+    "timestamp": 1758548470
   },
   "vtbs": [
     {
@@ -118676,6 +118676,23 @@
       "name": {
         "extra": [],
         "cn": "珑倾卿_Qing",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b5cfe5e5-e7eb-54be-8f89-de73cea6f8e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493289644788257",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "珑柰饱饱",
         "default": "cn"
       }
     },
