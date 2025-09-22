@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758547482
+    "timestamp": 1758547506
   },
   "vtbs": [
     {
@@ -125721,6 +125721,23 @@
         "extra": [],
         "jp": "皇みかどvtuber",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "fbb68a1f-7c52-559e-8aa3-362a2e507030",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546755043953575",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "皇欧蒂娜",
+        "default": "cn"
       }
     },
     {
