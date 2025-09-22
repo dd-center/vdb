@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758547506
+    "timestamp": 1758547729
   },
   "vtbs": [
     {
@@ -14016,6 +14016,64 @@
         "cn": "hivhhic墨",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "809f2058-1687-5c62-a21b-cd8804036140",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546971205798177",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "DEV_IS_FLOWGLOW",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "03BC7B4B9A53794F_a10ed6",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "hololive DEV_IS FLOW GLOW",
+        "default": "jp"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
+    },
+    {
+      "uuid": "e676afdc-edb5-5ab3-955e-09d9dbc6ee56",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546971201604245",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hololiveDEV_IS",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "CA27CED6E852C57E_e73ce9",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "hololive DEV_IS ReGLOSS",
+        "default": "JP"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
@@ -50312,6 +50370,23 @@
       "name": {
         "extra": [],
         "cn": "夏小芫Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "40ea8a55-8bce-5541-ac6c-306649c5f582",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546873876973674",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏小钥Locky",
         "default": "cn"
       }
     },
