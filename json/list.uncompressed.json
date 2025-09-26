@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758551672
+    "timestamp": 1758882531
   },
   "vtbs": [
     {
@@ -150485,6 +150485,23 @@
       },
       "group": "81bdaeaa-2221-5ef7-a52f-aac975443377",
       "group_name": "银河跃迁PHG(本社)"
+    },
+    {
+      "uuid": "0583dde9-3903-5c42-9fdd-eb06954019b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546961967843490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "菲比Pheebie",
+        "default": "cn"
+      }
     },
     {
       "uuid": "81aa1305-5c44-5c4f-a756-9872395a396e",
