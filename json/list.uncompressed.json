@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1758882531
+    "timestamp": 1758972678
   },
   "vtbs": [
     {
@@ -4330,6 +4330,23 @@
       "name": {
         "extra": [],
         "en": "Hiiro",
+        "default": "en"
+      }
+    },
+    {
+      "uuid": "fa06abab-d7c0-53f6-878b-3b15c0d33ea5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1068807301",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Hikaru_official",
         "default": "en"
       }
     },
