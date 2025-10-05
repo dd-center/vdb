@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759592864
+    "timestamp": 1759664265
   },
   "vtbs": [
     {
@@ -72429,6 +72429,23 @@
       "name": {
         "extra": [],
         "cn": "弥瑟里seri",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "65ee022a-ed19-563e-8b1d-2049f2df98aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "90424564",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥生Miku",
         "default": "cn"
       }
     },
@@ -171422,6 +171439,23 @@
       },
       "group": "81d136a4-1fc0-590e-a041-fe5afffc7873",
       "group_name": "Neo Hertz"
+    },
+    {
+      "uuid": "279bb833-32a1-54bd-9826-b5ce999959e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3461574394120551",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "霂淞Musoon",
+        "default": "cn"
+      }
     },
     {
       "uuid": "fba1a8fb-ee6e-5b79-97b7-ad9aa5a76741",
