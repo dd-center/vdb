@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759674591
+    "timestamp": 1759794792
   },
   "vtbs": [
     {
@@ -119786,6 +119786,23 @@
       "name": {
         "extra": [],
         "cn": "琼可艾莉耶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bcbb482c-b691-5e9c-a216-119b83862794",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546668427381699",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琼榆系咩啊",
         "default": "cn"
       }
     },
