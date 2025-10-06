@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759794792
+    "timestamp": 1759794891
   },
   "vtbs": [
     {
@@ -168705,6 +168705,23 @@
       }
     },
     {
+      "uuid": "37aea4fb-9d12-5351-95a0-3d9859bc2c23",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546861396822421",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨宫心爱Amamiya",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "5f84d04a-55b4-5896-b821-8f5b1642b4c1",
       "type": "vtuber",
       "bot": false,
@@ -172451,6 +172468,23 @@
       "name": {
         "extra": [],
         "cn": "青奈Cyana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c5e8d70a-7dab-555c-b629-c716c7caac4b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15104516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青岚千柊",
         "default": "cn"
       }
     },
