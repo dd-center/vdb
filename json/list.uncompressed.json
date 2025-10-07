@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759805546
+    "timestamp": 1759849647
   },
   "vtbs": [
     {
@@ -130632,6 +130632,23 @@
       }
     },
     {
+      "uuid": "796e0600-db97-5fd0-b03a-98959a082320",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "312629802",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "简禾he",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6375b528-a66f-5695-ae27-4406572c7e73",
       "type": "vtuber",
       "bot": false,
@@ -161326,6 +161343,23 @@
       },
       "group": "5da64d9a-b5d2-5f3e-ae3c-35ec6aa42492",
       "group_name": "NIJISANJI"
+    },
+    {
+      "uuid": "02cc5cbd-a475-5e3a-99c4-4ffc9ea54a81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546941703064294",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃木零zero",
+        "default": "cn"
+      }
     },
     {
       "uuid": "863f9750-fa8d-5a96-83c9-274a237354fa",
