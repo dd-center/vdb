@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759802731
+    "timestamp": 1759803008
   },
   "vtbs": [
     {
@@ -64673,6 +64673,23 @@
       "name": {
         "extra": [],
         "cn": "小紬先生",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c610ce34-9bba-53a1-9cdf-178a4f096c17",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "65568410",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小红泡-管珩心",
         "default": "cn"
       }
     },
