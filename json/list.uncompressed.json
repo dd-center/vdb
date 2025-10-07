@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759803102
+    "timestamp": 1759803186
   },
   "vtbs": [
     {
@@ -64259,6 +64259,23 @@
       "name": {
         "extra": [],
         "cn": "小熊饼干_coke",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "080f0119-b580-584d-a5f7-7ec1afc41007",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546939402488728",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小爱酱oi",
         "default": "cn"
       }
     },
