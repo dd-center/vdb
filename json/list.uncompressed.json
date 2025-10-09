@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1759849647
+    "timestamp": 1760018601
   },
   "vtbs": [
     {
@@ -57771,6 +57771,23 @@
         "extra": [],
         "jp": "娜露Neru_Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "066cb95c-55f9-5245-8b25-89cdaad20491",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1860645321",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "婉婉Neko",
+        "default": "cn"
       }
     },
     {
