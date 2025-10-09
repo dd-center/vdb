@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1760018639
+    "timestamp": 1760018675
   },
   "vtbs": [
     {
@@ -73638,6 +73638,23 @@
       "name": {
         "extra": [],
         "cn": "怪医梅杰克",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "128761fb-809f-5446-a133-d0a293d562b7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546894189988049",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怪盗黛蔻_Deko",
         "default": "cn"
       }
     },
