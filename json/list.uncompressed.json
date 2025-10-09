@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1760018747
+    "timestamp": 1760024410
   },
   "vtbs": [
     {
@@ -137547,6 +137547,23 @@
         "extra": [],
         "CN": "羽椿野",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "a89ca5ad-67ee-5a13-8a8c-5ceda4a52321",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "598061",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽毛和奥尔什方",
+        "default": "cn"
       }
     },
     {
