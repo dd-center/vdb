@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1760018675
+    "timestamp": 1760018747
   },
   "vtbs": [
     {
@@ -6270,7 +6270,9 @@
         "extra": [],
         "cn": "MiKi岁岁",
         "default": "cn"
-      }
+      },
+      "group": "6eec14e5-38cd-504f-a995-b7bd15b4c51f",
+      "group_name": "猫铃社"
     },
     {
       "uuid": "554e11e9-257a-5317-8224-4a08a48f9e72",
@@ -115176,6 +115178,24 @@
       }
     },
     {
+      "uuid": "6eec14e5-38cd-504f-a995-b7bd15b4c51f",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546878213884100",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫铃社",
+        "default": "cn"
+      },
+      "group": "6eec14e5-38cd-504f-a995-b7bd15b4c51f"
+    },
+    {
       "uuid": "26327c77-aa32-5273-996a-ff462bc838f7",
       "type": "vtuber",
       "bot": false,
@@ -150544,6 +150564,23 @@
       "group_name": "Croven教团"
     },
     {
+      "uuid": "26167cf9-25de-5097-81bf-906b392faa27",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546672504244327",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "薇可娜Vicuna",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "b82ea44f-0e50-55b0-97ba-9d04dc7fe86f",
       "type": "vtuber",
       "bot": false,
@@ -174348,7 +174385,9 @@
         "extra": [],
         "cn": "鸢晴茸茸Chororo",
         "default": "cn"
-      }
+      },
+      "group": "6eec14e5-38cd-504f-a995-b7bd15b4c51f",
+      "group_name": "猫铃社"
     },
     {
       "uuid": "faf86e50-8ba3-55a4-8c1e-b252f74b0731",
