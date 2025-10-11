@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1760078254
+    "timestamp": 1760178172
   },
   "vtbs": [
     {
@@ -100344,6 +100344,23 @@
       },
       "group": "5f2eac9f-dc17-577f-a22a-19003e81fcdf",
       "group_name": "问尘仙会"
+    },
+    {
+      "uuid": "9a4665b6-f3c7-5efe-ad13-97608e4132cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "https://twitcasting.tv/hirasakatowa",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "比良坂とわ",
+        "default": "jp"
+      }
     },
     {
       "uuid": "569c5141-dcfc-56d6-a2b5-ad1f8a18f754",
