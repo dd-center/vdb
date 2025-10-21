@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1760845248
+    "timestamp": 1761050616
   },
   "vtbs": [
     {
@@ -76219,6 +76219,23 @@
       "name": {
         "extra": [],
         "cn": "抱抱喵Anana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "965a0d01-d840-5434-8ef7-5cf01bed6fc4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546912208718574",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "抱眠茸茸",
         "default": "cn"
       }
     },
