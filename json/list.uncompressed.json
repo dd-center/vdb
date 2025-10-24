@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1761137369
+    "timestamp": 1761302276
   },
   "vtbs": [
     {
@@ -174183,6 +174183,23 @@
       "name": {
         "extra": [],
         "cn": "鲨克莉斯Sharklyss",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4e6369db-2a88-57d4-84d8-96bdfda370b1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546747596966663",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鲨包包",
         "default": "cn"
       }
     },
