@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1761302276
+    "timestamp": 1761370087
   },
   "vtbs": [
     {
@@ -41153,6 +41153,23 @@
         "jp": "双葉汐音",
         "cn": "双叶汐音",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "abaf3f6e-25ec-5a9d-a994-b7d6f917433b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546973428779093",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "发菜cccc",
+        "default": "CN"
       }
     },
     {
