@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1761370087
+    "timestamp": 1761371315
   },
   "vtbs": [
     {
@@ -90933,6 +90933,23 @@
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca"
     },
     {
+      "uuid": "d4cc6f5b-3a73-5858-93ba-d71b126d7d8f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498432665",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "极夜Naksto",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "11f6a75b-25be-5638-b879-486d64e6c64a",
       "type": "vtuber",
       "bot": false,
@@ -142551,6 +142568,23 @@
       "name": {
         "extra": [],
         "cn": "花惑千枝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4ed5f875-c1ba-51fc-a2c9-a414ab37cc9d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1673493477",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花曦乐",
         "default": "cn"
       }
     },
