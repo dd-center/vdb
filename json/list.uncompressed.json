@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1763212097
+    "timestamp": 1763212179
   },
   "vtbs": [
     {
@@ -156609,6 +156609,23 @@
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "group_name": "コーロンサス学園"
+    },
+    {
+      "uuid": "bcf35269-4db6-5f56-a1ac-15953bfee9ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632307753715852",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "赤凛_Akarin",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8142656c-f3fa-5aaf-95a4-e793334a821b",
