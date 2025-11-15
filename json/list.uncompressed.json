@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1762734809
+    "timestamp": 1763212097
   },
   "vtbs": [
     {
@@ -141374,6 +141374,23 @@
       "group_name": "问尘仙会"
     },
     {
+      "uuid": "bd6d604f-1433-5b52-b01d-8d5e9fac5723",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "299461780",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "芙咩咩Mie",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "d19da47c-6b9a-56ad-aca9-d1f367613674",
       "type": "vtuber",
       "bot": false,
@@ -145597,6 +145614,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "ac041237-6e2c-525f-bcee-bf7cdc6ba123",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546903155312757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉翎Lene",
+        "default": "cn"
+      }
     },
     {
       "uuid": "3846f17e-83dd-5526-870f-1096528d565f",
