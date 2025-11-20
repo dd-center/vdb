@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1763512529
+    "timestamp": 1763627763
   },
   "vtbs": [
     {
@@ -51191,6 +51191,25 @@
       "group_name": "upd8"
     },
     {
+      "uuid": "512c8ef5-2a44-5441-97e6-b44c0e4e285d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546911097228124",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜凪冷波",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "group_name": "果子本铺"
+    },
+    {
       "uuid": "ca592826-726b-5ff4-bc18-88f133fd2913",
       "type": "vtuber",
       "bot": false,
@@ -91872,6 +91891,25 @@
       }
     },
     {
+      "uuid": "ad0930ae-de45-573b-bab2-d40038403464",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546956689312602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "枫乃暁铃",
+        "default": "cn"
+      },
+      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "group_name": "果子本铺"
+    },
+    {
       "uuid": "9f22dd15-d554-5083-a823-e132be94f4c2",
       "type": "vtuber",
       "bot": false,
@@ -129899,9 +129937,7 @@
         "extra": [],
         "cn": "空神樱",
         "default": "cn"
-      },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
-      "group_name": "果子本铺"
+      }
     },
     {
       "uuid": "3e028e4a-a8bd-5f78-8e9d-25e1daa91da6",
