@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1763703316
+    "timestamp": 1763738247
   },
   "vtbs": [
     {
@@ -155875,6 +155875,23 @@
       "name": {
         "extra": [],
         "cn": "豆奶Melor",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b4ad75fc-8ff1-56e7-b3dd-521f7d001511",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546606502677055",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "豆梓Dora",
         "default": "cn"
       }
     },
