@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1764149164
+    "timestamp": 1764149192
   },
   "vtbs": [
     {
@@ -74984,6 +74984,23 @@
       "name": {
         "extra": [],
         "cn": "想想没肉吃丶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "471d5111-2e27-5c52-bff2-1dc53d09a2cd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1354120197",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "惹Meraki",
         "default": "cn"
       }
     },
