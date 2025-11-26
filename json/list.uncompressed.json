@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1764149101
+    "timestamp": 1764149164
   },
   "vtbs": [
     {
@@ -114619,6 +114619,25 @@
         "cn": "猫不吃芒果め",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "ea338921-ba2d-5c9b-a717-8b18139ec1fc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546938511198692",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫丸子Maruko",
+        "default": "cn"
+      },
+      "group": "557119b3-a5a0-5067-bf40-e1ef44461738",
+      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
     },
     {
       "uuid": "a4e91b17-c7d4-5177-8d90-b60422f31752",
