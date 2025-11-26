@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1764149192
+    "timestamp": 1764157558
   },
   "vtbs": [
     {
@@ -122779,6 +122779,23 @@
         "extra": [],
         "jp": "白紫茉莉Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "ebdcda4a-a6cb-5d71-a5e8-dbaf925c9a66",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690970457573801",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白绀-doctor",
+        "default": "cn"
       }
     },
     {
