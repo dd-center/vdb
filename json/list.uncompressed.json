@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1764157558
+    "timestamp": 1764170950
   },
   "vtbs": [
     {
@@ -51736,6 +51736,23 @@
       "name": {
         "extra": [],
         "cn": "夜泉灵Rei",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc281bc1-7a74-50c5-a42e-937c6f8041a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "342642068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜澄シロShiro",
         "default": "cn"
       }
     },
