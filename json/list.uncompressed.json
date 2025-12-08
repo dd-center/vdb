@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765083910
+    "timestamp": 1765174388
   },
   "vtbs": [
     {
@@ -9304,6 +9304,28 @@
         "extra": [],
         "en": "RiiKami",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "11e757e0-5bdc-55b9-8586-1165b82c44ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1206012073",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "RinRinne39",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "RinRinne官方",
+        "default": "JP"
       }
     },
     {
