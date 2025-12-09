@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765285266
+    "timestamp": 1765285486
   },
   "vtbs": [
     {
@@ -86739,6 +86739,25 @@
       }
     },
     {
+      "uuid": "0503e554-06b9-5a8d-a590-b68a4b0b9db8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546929896097795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月光Yumeko",
+        "default": "cn"
+      },
+      "group": "557119b3-a5a0-5067-bf40-e1ef44461738",
+      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
+    },
+    {
       "uuid": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
       "type": "group",
       "bot": false,
@@ -116706,6 +116725,25 @@
         "cn": "玖尘JiuChen",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c41eb8c6-977e-58c9-ac77-5186520a4a63",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546915117467733",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玖柴CHAI",
+        "default": "cn"
+      },
+      "group": "557119b3-a5a0-5067-bf40-e1ef44461738",
+      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班（北立交桥）"
     },
     {
       "uuid": "56051b64-dc63-5f89-893a-01953113d520",
