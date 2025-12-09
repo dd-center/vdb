@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765174388
+    "timestamp": 1765285266
   },
   "vtbs": [
     {
@@ -122615,6 +122615,23 @@
       },
       "group": "e0c583c9-7625-53bd-84c1-5cca0c419a7b",
       "group_name": "ViViD"
+    },
+    {
+      "uuid": "3c6d56f7-98de-501a-bbd0-60e8b170457d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632319810243496",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白眠缚",
+        "default": "cn"
+      }
     },
     {
       "uuid": "59ce5bdc-bd54-5c92-a95a-4424cf9ec26b",
