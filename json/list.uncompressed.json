@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765285486
+    "timestamp": 1765363058
   },
   "vtbs": [
     {
@@ -65575,6 +65575,23 @@
         "extra": [],
         "cn": "少司存SyoSuTsun",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d0df48d9-91a3-57e9-b920-238d008547ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "655181",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "少年霜",
+        "default": "CN"
       }
     },
     {
