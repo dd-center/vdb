@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765363058
+    "timestamp": 1765375947
   },
   "vtbs": [
     {
@@ -92210,6 +92210,28 @@
         "extra": [],
         "cn": "柄柄ちゃん",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d245da52-ac88-57df-92c0-e76cb776ef29",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "Hiiragi_Yuka_Sing",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "hiiragi_yuka530",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "柊優花Official",
+        "default": "JP"
       }
     },
     {
