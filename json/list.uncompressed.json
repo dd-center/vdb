@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765375947
+    "timestamp": 1765790655
   },
   "vtbs": [
     {
@@ -115598,6 +115598,23 @@
       }
     },
     {
+      "uuid": "7a662daa-8553-58b2-b0f8-c747bb28a3b0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "25264516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫猫虫池颂",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0585dc2e-ed19-5a65-aa5b-e4de8fd250b2",
       "type": "vtuber",
       "bot": false,
@@ -174507,6 +174524,23 @@
       "name": {
         "extra": [],
         "cn": "魔王YALU",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de34dbb9-6c1f-53ad-9d04-c28ae8c0b7e1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1940186724",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔王城Official",
         "default": "cn"
       }
     },
