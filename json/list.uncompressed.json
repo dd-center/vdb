@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1765877387
+    "timestamp": 1766032714
   },
   "vtbs": [
     {
@@ -84815,6 +84815,23 @@
       "name": {
         "extra": [],
         "cn": "時枝莉莉丝",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "55197bbf-7152-5392-9a0a-f33d8b5329db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85279640",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "時玄Isaro",
         "default": "cn"
       }
     },
