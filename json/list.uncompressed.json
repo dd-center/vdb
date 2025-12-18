@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1766032930
+    "timestamp": 1766032983
   },
   "vtbs": [
     {
@@ -65047,6 +65047,23 @@
       "name": {
         "extra": [],
         "cn": "小雀香奈_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8d56146d-ef37-5c44-9934-bc44e476cca4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493081397594923",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小雨甘nya",
         "default": "cn"
       }
     },
