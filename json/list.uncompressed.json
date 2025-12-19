@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1766032983
+    "timestamp": 1766115587
   },
   "vtbs": [
     {
@@ -5139,6 +5139,24 @@
         "en": "Kirikosama",
         "default": "en"
       }
+    },
+    {
+      "uuid": "20df03a2-9fa6-5560-b42a-7f35e70b9278",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "693417899",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "JP": "Kizuna AI株式会社",
+        "default": "JP"
+      },
+      "group": "20df03a2-9fa6-5560-b42a-7f35e70b9278"
     },
     {
       "uuid": "c986ace0-c197-59ee-907f-6e242cb4ac9e",
@@ -18253,7 +18271,9 @@
         "cn": "绊爱",
         "en": "KizunaAI",
         "default": "jp"
-      }
+      },
+      "group": "20df03a2-9fa6-5560-b42a-7f35e70b9278",
+      "group_name": "Kizuna AI株式会社"
     },
     {
       "uuid": "21582987-27f0-5094-b5e2-37dc64c2ab31",
