@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1766115587
+    "timestamp": 1766753933
   },
   "vtbs": [
     {
@@ -5036,6 +5036,23 @@
       "name": {
         "extra": [],
         "cn": "Kanna康娜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "51e0edab-7720-5cc4-975b-693540e74890",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "23506535",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Kazimas",
         "default": "cn"
       }
     },
