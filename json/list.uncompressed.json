@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1766753933
+    "timestamp": 1766823766
   },
   "vtbs": [
     {
@@ -83455,6 +83455,23 @@
       "name": {
         "extra": [],
         "cn": "星野由乃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6b979bc5-408a-5503-9f10-47d4c569b175",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546968292854376",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野白玲",
         "default": "cn"
       }
     },
@@ -167601,7 +167618,9 @@
         "extra": [],
         "cn": "雪乃铃",
         "default": "cn"
-      }
+      },
+      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
+      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
     },
     {
       "uuid": "115d941d-a0c0-505d-b4da-321fabb3dd16",
