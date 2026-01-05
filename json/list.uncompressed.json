@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1766823766
+    "timestamp": 1767628312
   },
   "vtbs": [
     {
@@ -71752,6 +71752,25 @@
       "group_name": "yifun社"
     },
     {
+      "uuid": "40b9e6ae-56f0-533b-9963-ef531ce55d6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "121253638",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弥爱Mia",
+        "default": "cn"
+      },
+      "group": "114c0bc8-d905-5e64-80b4-6a09cdd389a8",
+      "group_name": "忒弥斯project"
+    },
+    {
       "uuid": "d2fe9ce1-0924-54f8-9ef9-ff9435e731b3",
       "type": "vtuber",
       "bot": false,
@@ -73626,6 +73645,24 @@
       },
       "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
       "group_name": "幻想社Fantas1A"
+    },
+    {
+      "uuid": "114c0bc8-d905-5e64-80b4-6a09cdd389a8",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546693601594022",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "忒弥斯project",
+        "default": "cn"
+      },
+      "group": "114c0bc8-d905-5e64-80b4-6a09cdd389a8"
     },
     {
       "uuid": "4adea619-eb29-57c4-82ef-9db6be3a9d97",
@@ -86039,6 +86076,25 @@
       },
       "group": "0c089df5-5af9-50fd-94ea-b469b6847d0f",
       "group_name": "Hololive ID (印尼分部)"
+    },
+    {
+      "uuid": "e9805630-c04b-5da3-adc2-06d9ce385349",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "95998286",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暮岚Arasi",
+        "default": "cn"
+      },
+      "group": "114c0bc8-d905-5e64-80b4-6a09cdd389a8",
+      "group_name": "忒弥斯project"
     },
     {
       "uuid": "059c0594-f8b4-57f7-960a-8a5428f0d19e",
@@ -120515,6 +120571,25 @@
         "cn": "由川伶子",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "065bf358-4d80-580d-a763-a9391d132aa7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1203581876",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "由希Uki",
+        "default": "cn"
+      },
+      "group": "114c0bc8-d905-5e64-80b4-6a09cdd389a8",
+      "group_name": "忒弥斯project"
     },
     {
       "uuid": "239f132d-8759-5f12-8e6e-20dc5049ab88",
