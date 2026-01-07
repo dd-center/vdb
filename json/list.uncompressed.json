@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767756866
+    "timestamp": 1767757309
   },
   "vtbs": [
     {
@@ -85369,6 +85369,23 @@
       }
     },
     {
+      "uuid": "fb5f4e55-18d4-5a20-aeca-b7888cdd6640",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546652019264158",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晚樱幸禾",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9f10d019-75ea-5744-aa48-5a393d7e5889",
       "type": "vtuber",
       "bot": false,
@@ -112230,6 +112247,23 @@
       "name": {
         "extra": [],
         "cn": "熊会飞丶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4f9e0445-322e-5afe-93ca-6995c60f22e9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "153090305",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熊初茉",
         "default": "cn"
       }
     },
