@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767628604
+    "timestamp": 1767756622
   },
   "vtbs": [
     {
@@ -146307,6 +146307,23 @@
       "name": {
         "extra": [],
         "cn": "茉宁Yukina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dcbe2449-0437-551f-8a00-c260d32f5c46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632305979525726",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茉有",
         "default": "cn"
       }
     },
