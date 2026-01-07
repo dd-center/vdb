@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767756622
+    "timestamp": 1767756701
   },
   "vtbs": [
     {
@@ -94964,6 +94964,23 @@
       "name": {
         "extra": [],
         "cn": "桃也Taoya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a336c819-d4d8-53a4-aaf9-7b54ee3c2882",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546941533194611",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃二月Camellia",
         "default": "cn"
       }
     },
