@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767757453
+    "timestamp": 1767757520
   },
   "vtbs": [
     {
@@ -13975,6 +13975,28 @@
         "extra": [],
         "cn": "i御十二",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "e0adf216-c5d6-52ab-a58d-848f374e3c71",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1447459498",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "joeiwanko",
+          "type": "official",
+          "platform": "twitch"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "EN": "joeiwanko",
+        "default": "EN"
       }
     },
     {
