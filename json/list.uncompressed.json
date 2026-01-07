@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767756701
+    "timestamp": 1767756779
   },
   "vtbs": [
     {
@@ -33252,6 +33252,23 @@
       "name": {
         "extra": [],
         "cn": "六神花禄",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7046a62d-fe3f-5b43-b913-735a64c5a9e4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "698803411",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "六花-0v0",
         "default": "cn"
       }
     },
@@ -103822,6 +103839,23 @@
       "name": {
         "extra": [],
         "cn": "沐晓空Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "85d27818-47ab-51e2-86de-c7f8992092cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632309391592393",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沐歌mukei",
         "default": "cn"
       }
     },
