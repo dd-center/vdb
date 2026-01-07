@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1767757408
+    "timestamp": 1767757433
   },
   "vtbs": [
     {
@@ -97161,6 +97161,23 @@
       "group_name": "三垣四象project"
     },
     {
+      "uuid": "a3a3bc14-462e-5819-904f-b828c1befa3e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546785119209998",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梦寝兔兔",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9ee7cc1c-9a2d-5e98-b48a-4aa257396a21",
       "type": "vtuber",
       "bot": false,
@@ -131740,6 +131757,23 @@
       "name": {
         "extra": [],
         "cn": "笙笙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a2c9517c-ac29-5ea3-a09a-37827a9bf140",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546930856593994",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "笙笙生",
         "default": "cn"
       }
     },
