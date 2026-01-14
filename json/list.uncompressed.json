@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768273598
+    "timestamp": 1768418627
   },
   "vtbs": [
     {
@@ -31615,6 +31615,25 @@
       }
     },
     {
+      "uuid": "214bbcbe-d8d2-5621-9a45-b3cccac7c37c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2091418780",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "克罗雅Kloa",
+        "default": "CN"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "8b93ac7b-3b5c-5767-8d27-9aa8c5357279",
       "type": "vtuber",
       "bot": false,
@@ -37530,6 +37549,25 @@
         "cn": "十六月兔",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1ee60ffb-0849-5de1-ae8a-23c3fc82a2b5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1149064559",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "十六萤Izayoi",
+        "default": "CN"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "0d0cda4b-8d7a-577b-8e5d-c8b60b0f28ae",
@@ -111314,6 +111352,25 @@
       }
     },
     {
+      "uuid": "fbbbc348-daef-5b71-a4c7-f3a71455b330",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1298779265",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "灰泽满Hazel",
+        "default": "CN"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
+    },
+    {
       "uuid": "f2f90aa6-19c6-5a7f-8b89-e203a0e9f1b4",
       "type": "vtuber",
       "bot": false,
@@ -148211,6 +148268,25 @@
         "cn": "莉蒂娅",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "14c0c46f-31ed-5733-9e65-01bc8991499f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1536601294",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "莉蔻Liko",
+        "default": "CN"
+      },
+      "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
+      "group_name": "VirtuaReal"
     },
     {
       "uuid": "0ae87636-b2d6-538f-95ae-f7f2ac713e63",
