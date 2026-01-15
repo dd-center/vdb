@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768418627
+    "timestamp": 1768516403
   },
   "vtbs": [
     {
@@ -30188,6 +30188,23 @@
       "name": {
         "extra": [],
         "cn": "你的可樱已上线",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d596af27-0e7e-58d8-8f83-1401b17b9ae7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2255740",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "你的苏暖",
         "default": "cn"
       }
     },
