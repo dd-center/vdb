@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768516403
+    "timestamp": 1768584388
   },
   "vtbs": [
     {
@@ -80158,6 +80158,23 @@
       "name": {
         "extra": [],
         "cn": "明璃彩Alisa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "44142a36-158b-5b92-a6c1-262465c0da8a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546744333798052",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "明石缪",
         "default": "cn"
       }
     },
