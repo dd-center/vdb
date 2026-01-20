@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768873560
+    "timestamp": 1768873598
   },
   "vtbs": [
     {
@@ -80983,6 +80983,23 @@
       "name": {
         "extra": [],
         "cn": "星奈Kagami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "afe61379-e8a5-5bd3-98fd-d97be7ecf6a7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546959056996747",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星奈Sylvia",
         "default": "cn"
       }
     },
@@ -169707,6 +169724,23 @@
       "name": {
         "extra": [],
         "cn": "零诺Zero",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "42fb0391-9482-5d2a-9309-b85c02089dd0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "85690958",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "零酱Rei-chan",
         "default": "cn"
       }
     },
