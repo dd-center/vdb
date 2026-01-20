@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768873669
+    "timestamp": 1768873676
   },
   "vtbs": [
     {
@@ -105377,6 +105377,23 @@
       "name": {
         "extra": [],
         "cn": "泡泡鱼吖yu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a4ba2528-8838-5cae-9dd8-47e04b1202ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546766437779489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泡芙-pudding",
         "default": "cn"
       }
     },
