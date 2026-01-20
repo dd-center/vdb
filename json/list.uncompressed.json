@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1768873312
+    "timestamp": 1768873535
   },
   "vtbs": [
     {
@@ -103216,6 +103216,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "b98fc3c1-596a-5451-9b11-a068158cda96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1112477549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江二六wan",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a786baa0-0eba-51da-9f5b-811d0ed83052",
