@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769597599
+    "timestamp": 1769597631
   },
   "vtbs": [
     {
@@ -12603,6 +12603,23 @@
         "extra": [],
         "en": "Yommyko",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "f34e3028-e692-5e4c-9666-3509a996c798",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690988428069453",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "You米o",
+        "default": "cn"
       }
     },
     {
