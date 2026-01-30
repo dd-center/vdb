@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769778890
+    "timestamp": 1769789900
   },
   "vtbs": [
     {
@@ -39762,6 +39762,47 @@
         "en": "MinamiOtoya",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a5468a6c-cd37-5475-a5c5-8a895945cf72",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691005232548344",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "HakuiKoyori",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "5D2BE4C87341D83F_e735fe",
+          "type": "official",
+          "platform": "userlocal"
+        },
+        {
+          "id": "hakuikoyori",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "hakuikoyori_hololive",
+          "type": "official",
+          "platform": "tiktok"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "博衣小夜璃",
+        "jp": "博衣こより",
+        "en": "Hakui Koyori",
+        "default": "cn"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "b37429ce-8c17-5562-b421-ea28479af409",
