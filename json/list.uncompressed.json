@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769597631
+    "timestamp": 1769778890
   },
   "vtbs": [
     {
@@ -135250,6 +135250,23 @@
       },
       "group": "f076e35d-500d-57ba-9149-6caed8275768",
       "group_name": "P-SP"
+    },
+    {
+      "uuid": "ea19d534-806a-5ea1-b6b2-b69a928f0476",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690981679434664",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "綾川千鶴",
+        "default": "jp"
+      }
     },
     {
       "uuid": "b1da4dce-6bbf-5724-b339-53426ce4de2e",
