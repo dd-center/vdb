@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769789900
+    "timestamp": 1769836013
   },
   "vtbs": [
     {
@@ -127825,6 +127825,23 @@
       "name": {
         "extra": [],
         "cn": "礼修Shu",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "670d54c8-fe45-598c-9f8e-a151473c7756",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690971204160053",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "礼原恋rei",
         "default": "cn"
       }
     },
