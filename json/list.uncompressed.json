@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769988316
+    "timestamp": 1769988815
   },
   "vtbs": [
     {
@@ -107916,6 +107916,23 @@
       "name": {
         "extra": [],
         "cn": "海月Kirara",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c37501ba-5064-5824-a584-9734b8fed91f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690998125300677",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "海月灵音",
         "default": "cn"
       }
     },
