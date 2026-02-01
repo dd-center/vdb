@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769836013
+    "timestamp": 1769988316
   },
   "vtbs": [
     {
@@ -74929,6 +74929,23 @@
           "悅音幻糸"
         ],
         "cn": "悅音幻絲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7f3c4dc8-ec8d-544f-a91e-eb8b2e20e91b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "627676911",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "悠一wakareno",
         "default": "cn"
       }
     },
