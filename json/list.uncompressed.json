@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769988815
+    "timestamp": 1769989118
   },
   "vtbs": [
     {
@@ -42321,6 +42321,23 @@
         "extra": [],
         "cn": "可燃冰块",
         "en": "Moe",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3af8e066-3562-5d53-98f6-29a9e42207c2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1508930833",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可爱的圈圈熊",
         "default": "cn"
       }
     },
