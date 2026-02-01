@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769989118
+    "timestamp": 1769989144
   },
   "vtbs": [
     {
@@ -89672,6 +89672,23 @@
       "name": {
         "extra": [],
         "cn": "木喆s",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dfbf0846-0db2-54a9-a22d-8aa0f6d0dcfc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13321242",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "木子吃饱饱",
         "default": "cn"
       }
     },
