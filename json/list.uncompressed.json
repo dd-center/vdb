@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1769989144
+    "timestamp": 1770108692
   },
   "vtbs": [
     {
@@ -149395,6 +149395,23 @@
       "name": {
         "extra": [],
         "cn": "莱伊Online",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e0d9986a-7e62-58d9-a302-b3468b0062df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546858800548524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莱卡_Leica",
         "default": "cn"
       }
     },
