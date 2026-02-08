@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1770108692
+    "timestamp": 1770567877
   },
   "vtbs": [
     {
@@ -34012,6 +34012,29 @@
         "cn": "冬岁",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "a24d77a3-9337-56d3-b25c-bc4029b7e79d",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691009617693395",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "https://space.bilibili.com/1240518940",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冬日之家Ultra",
+        "default": "cn"
+      },
+      "group": "a24d77a3-9337-56d3-b25c-bc4029b7e79d"
     },
     {
       "uuid": "7cd896bf-9be0-5a3e-b61c-b4ebf2375070",
@@ -110801,8 +110824,8 @@
         "cn": "潇琪Yoke",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "a24d77a3-9337-56d3-b25c-bc4029b7e79d",
+      "group_name": "冬日之家Ultra"
     },
     {
       "uuid": "7ae350e8-58b9-586d-9324-a091dd3b4c52",
@@ -180183,8 +180206,8 @@
         "cn": "黛棠OI",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "a24d77a3-9337-56d3-b25c-bc4029b7e79d",
+      "group_name": "冬日之家Ultra"
     },
     {
       "uuid": "ecb32e31-f972-5abe-b2b3-38e94a2a9c9b",
