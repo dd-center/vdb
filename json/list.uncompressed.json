@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1770567877
+    "timestamp": 1770736915
   },
   "vtbs": [
     {
@@ -16809,6 +16809,23 @@
       },
       "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
       "group_name": "Hololive"
+    },
+    {
+      "uuid": "43d21180-e389-5239-9e79-ee03f2baa55a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690998473427815",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "なぃとめあASMR-幽灵妹-",
+        "default": "jp"
+      }
     },
     {
       "uuid": "ef6d20d7-9984-587e-bc94-0d6a472266ca",
