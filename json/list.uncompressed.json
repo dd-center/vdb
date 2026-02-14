@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771075674
+    "timestamp": 1771075764
   },
   "vtbs": [
     {
@@ -64200,6 +64200,23 @@
       "name": {
         "extra": [],
         "cn": "小猪anna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "41b227e3-b11e-5bfa-a5e8-b0cf08477556",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "638968076",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小猫女仆降临",
         "default": "cn"
       }
     },
