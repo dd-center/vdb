@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771076197
+    "timestamp": 1771143104
   },
   "vtbs": [
     {
@@ -22067,6 +22067,18 @@
       }
     },
     {
+      "uuid": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "三光五色",
+        "default": "cn"
+      },
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7"
+    },
+    {
       "uuid": "a5c4fb85-879d-5b3b-ba98-3515a3d6b473",
       "type": "vtuber",
       "bot": false,
@@ -26416,8 +26428,8 @@
         "cn": "云路翼Tsubasa",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "20336e78-cc7b-5d9f-80d3-7664dbaf550c",
+      "group_name": "梦镜茶会（北立交桥）"
     },
     {
       "uuid": "bb3e3615-5add-598b-bbcc-64b7b0d32755",
@@ -37399,6 +37411,29 @@
       }
     },
     {
+      "uuid": "350ecdea-e4c7-545f-af9c-ed2ce2852a46",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1240518940",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "https://www.5840.live",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "北立交桥",
+        "default": "cn"
+      },
+      "group": "350ecdea-e4c7-545f-af9c-ed2ce2852a46"
+    },
+    {
       "uuid": "7cd0d298-d29b-522a-8017-463b29926571",
       "type": "vtuber",
       "bot": false,
@@ -40195,8 +40230,8 @@
         "cn": "卡希娅Kirara",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "f4243676-6b14-5918-a4bc-91f2d05998eb",
@@ -47032,8 +47067,8 @@
         "cn": "喵柠Meolen",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "c5daecb1-fe45-562a-ad0d-e984dc113935",
@@ -54478,8 +54513,8 @@
         "cn": "天羽优优Yuu",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "6ee2491c-a000-5d73-8fb3-7aaa604d67da",
@@ -57197,29 +57232,6 @@
         "cn": "小啾",
         "default": "cn"
       }
-    },
-    {
-      "uuid": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "type": "group",
-      "bot": false,
-      "accounts": [
-        {
-          "id": "1240518940",
-          "type": "official",
-          "platform": "bilibili"
-        },
-        {
-          "id": "https://www.5840.live",
-          "type": "official",
-          "platform": "other"
-        }
-      ],
-      "name": {
-        "extra": [],
-        "cn": "北立交桥",
-        "default": "cn"
-      },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c"
     },
     {
       "uuid": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
@@ -79098,8 +79110,8 @@
         "cn": "日光Taberu",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "dbc38bd5-ca03-5282-ac84-e87f82dfb421",
@@ -80913,8 +80925,8 @@
         "cn": "星光Kirarin",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "2221b583-045b-560e-a562-103c28eb381c",
@@ -81611,8 +81623,8 @@
         "cn": "星宮雲",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "04bcaa60-1b16-50d2-9a6d-700b04d19fd5",
@@ -87422,8 +87434,8 @@
         "cn": "月光Yumeko",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "a38c8dc9-5896-5684-b965-e39f9c7e03c7",
@@ -97912,6 +97924,18 @@
       }
     },
     {
+      "uuid": "20336e78-cc7b-5d9f-80d3-7664dbaf550c",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "梦镜茶会",
+        "default": "cn"
+      },
+      "group": "20336e78-cc7b-5d9f-80d3-7664dbaf550c"
+    },
+    {
       "uuid": "bdb98ff1-b592-5963-9a6e-3a68d5329de2",
       "type": "vtuber",
       "bot": false,
@@ -98455,6 +98479,25 @@
         "cn": "棠玖Kumi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7c5acff0-1701-5456-b29f-669f5b91a9d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691012266395947",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "棠草Ruri",
+        "default": "cn"
+      },
+      "group": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
+      "group_name": "妖精管理局（北立交桥）"
     },
     {
       "uuid": "d030dbd1-20fb-5c55-a0a6-b606a4a41d67",
@@ -106708,8 +106751,8 @@
         "cn": "洛恩Ron",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
+      "group_name": "妖精管理局（北立交桥）"
     },
     {
       "uuid": "a9e7c164-398f-568c-ba6b-4b53f4adf854",
@@ -115757,8 +115800,8 @@
         "cn": "猫丸子Maruko",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "a4e91b17-c7d4-5177-8d90-b60422f31752",
@@ -116586,6 +116629,18 @@
         "cn": "猫猫大王oi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "猫猫祟祟",
+        "default": "cn"
+      },
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779"
     },
     {
       "uuid": "7a662daa-8553-58b2-b0f8-c747bb28a3b0",
@@ -117806,9 +117861,7 @@
         "extra": [],
         "cn": "玖柴Jiu",
         "default": "cn"
-      },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      }
     },
     {
       "uuid": "63268fa0-18f1-5f8f-b407-2d9a572abb8d",
@@ -133005,8 +133058,8 @@
         "cn": "米可多Micdo",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "e846092f-c516-571d-b6f6-ceab250a352d",
+      "group_name": "魅魔补习班（北立交桥）"
     },
     {
       "uuid": "6a7f9e39-1f44-54b0-b92d-de2d2327cdb5",
@@ -133475,8 +133528,8 @@
         "cn": "米茜",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "e846092f-c516-571d-b6f6-ceab250a352d",
+      "group_name": "魅魔补习班（北立交桥）"
     },
     {
       "uuid": "6c346c39-8716-52a0-8b7f-01b36d762bee",
@@ -147240,8 +147293,8 @@
         "cn": "茉璃Marin",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "65921977-7c4f-5011-9842-e30ca4adcbd6",
@@ -149242,8 +149295,8 @@
         "cn": "莓莉可Miko",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "a8822e7e-433d-50e1-a97f-c05386ed8549",
@@ -150388,8 +150441,8 @@
         "cn": "菲琳lucky",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "9b9b7ed4-e1ca-55b6-9398-eeddb235caa2",
@@ -168744,8 +168797,8 @@
         "cn": "雪乃铃",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "115d941d-a0c0-505d-b4da-321fabb3dd16",
@@ -171322,8 +171375,8 @@
         "cn": "霜露ShuangLu",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "20336e78-cc7b-5d9f-80d3-7664dbaf550c",
+      "group_name": "梦镜茶会（北立交桥）"
     },
     {
       "uuid": "6855c0c8-9793-5b5c-a83e-27e2cc1b3479",
@@ -175027,8 +175080,8 @@
         "cn": "骸菈hella",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "20336e78-cc7b-5d9f-80d3-7664dbaf550c",
+      "group_name": "梦镜茶会（北立交桥）"
     },
     {
       "uuid": "c6c8b9c3-938c-5070-be34-d2583d7da05d",
@@ -175442,6 +175495,18 @@
         "cn": "魅小柒Seven",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "e846092f-c516-571d-b6f6-ceab250a352d",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "魅魔补习班",
+        "default": "cn"
+      },
+      "group": "e846092f-c516-571d-b6f6-ceab250a352d"
     },
     {
       "uuid": "e976d78e-2ffc-5cf1-9b9d-c416ba43557f",
@@ -176258,8 +176323,8 @@
         "cn": "鱼沢Orange",
         "default": "cn"
       },
-      "group": "0cbf6a35-0f96-55ff-b9aa-be1d9c0cea3c",
-      "group_name": "妖精管理局-明月生肖-淬蜂计划-三光五色-梦镜茶会-猫猫祟祟-魅魔补习班-奥兹奇旅团-冬日之家Ultra（北立交桥）"
+      "group": "0224316a-592e-547c-89b6-9f4f4e425779",
+      "group_name": "猫猫祟祟（北立交桥）"
     },
     {
       "uuid": "183c0981-572f-50da-9a8e-dc77126deb5e",
