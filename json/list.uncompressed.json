@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771143104
+    "timestamp": 1771255480
   },
   "vtbs": [
     {
@@ -164082,6 +164082,23 @@
       "name": {
         "extra": [],
         "cn": "铃菟_MagicalRing",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b6634a42-ebe3-50ed-bca0-35480de9e67f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546757543758795",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "铃见Suzumi",
         "default": "cn"
       }
     },
