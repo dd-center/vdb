@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771255480
+    "timestamp": 1771317555
   },
   "vtbs": [
     {
@@ -126053,6 +126053,25 @@
         "cn": "盐天使riel_official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "bc8e4b1f-bb31-5e01-b687-7874ed37563c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1372156475",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "盐无shio",
+        "default": "cn"
+      },
+      "group": "f65ba9d4-5a1e-5cc1-af48-276466f4c978",
+      "group_name": "八木百货"
     },
     {
       "uuid": "f148e709-b784-596f-857a-434e11aa5917",
