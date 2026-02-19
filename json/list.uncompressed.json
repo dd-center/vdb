@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771317555
+    "timestamp": 1771521732
   },
   "vtbs": [
     {
@@ -166978,6 +166978,23 @@
         "extra": [],
         "CN": "阿芙兰娜",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "fc618c52-6cd1-53d5-aacb-93714445a201",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546382839318691",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阿芙拉Aphra",
+        "default": "cn"
       }
     },
     {
