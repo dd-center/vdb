@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771685293
+    "timestamp": 1771751470
   },
   "vtbs": [
     {
@@ -22987,6 +22987,23 @@
       "name": {
         "extra": [],
         "cn": "不瓜皮的喵喵头",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fd1e0237-ce10-59c5-adef-e6b0cbc769a4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "365188473",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不眠星辰official",
         "default": "cn"
       }
     },
@@ -117773,6 +117790,23 @@
       "name": {
         "extra": [],
         "cn": "王玩玩",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df6e0b4a-ec9c-534c-9c26-bd4eb38d81ba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "36459988",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王稀饭-",
         "default": "cn"
       }
     },
