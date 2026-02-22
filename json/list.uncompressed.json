@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771751470
+    "timestamp": 1771751760
   },
   "vtbs": [
     {
@@ -51608,8 +51608,8 @@
         "cn": "夜凪冷波",
         "default": "cn"
       },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
-      "group_name": "果子本铺"
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
+      "group_name": "果子本铺（北立交桥）"
     },
     {
       "uuid": "ca592826-726b-5ff4-bc18-88f133fd2913",
@@ -65896,8 +65896,8 @@
         "cn": "小鸟游Ayu",
         "default": "cn"
       },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
-      "group_name": "果子本铺"
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
+      "group_name": "果子本铺（北立交桥）"
     },
     {
       "uuid": "cd95faf1-4078-546f-925d-e24ac0b1c154",
@@ -81456,8 +81456,8 @@
         "cn": "星宫晴琉",
         "default": "cn"
       },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
-      "group_name": "果子本铺"
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
+      "group_name": "果子本铺（北立交桥）"
     },
     {
       "uuid": "4b0cf4ee-2fcf-5542-a8b0-c57cb237603c",
@@ -92488,7 +92488,7 @@
       }
     },
     {
-      "uuid": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
+      "uuid": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
       "type": "group",
       "bot": false,
       "accounts": [
@@ -92500,10 +92500,10 @@
       ],
       "name": {
         "extra": [],
-        "cn": "果子本铺",
+        "cn": "果子本铺（北立交桥）",
         "default": "cn"
       },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd"
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4"
     },
     {
       "uuid": "4df040e4-8f61-5b06-b090-0bac22d77242",
@@ -92729,8 +92729,8 @@
         "cn": "枫乃暁铃",
         "default": "cn"
       },
-      "group": "29cc53a2-57f5-5d73-b1d8-25494ade24dd",
-      "group_name": "果子本铺"
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
+      "group_name": "果子本铺（北立交桥）"
     },
     {
       "uuid": "9f22dd15-d554-5083-a823-e132be94f4c2",
@@ -107296,6 +107296,25 @@
         "cn": "洺知-故犯",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0a3732cb-d1e4-5da6-b065-6a4b68187010",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546932211353626",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "活鱼曼波",
+        "default": "cn"
+      },
+      "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
+      "group_name": "果子本铺（北立交桥）"
     },
     {
       "uuid": "2ff9e911-d192-59be-ac52-e52e5fef3422",
