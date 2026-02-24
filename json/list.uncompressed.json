@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771932763
+    "timestamp": 1771932803
   },
   "vtbs": [
     {
@@ -46672,6 +46672,23 @@
       "name": {
         "extra": [],
         "cn": "喃喃多自语EIHEI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3603b787-27a4-5594-9c02-08a7439b6cde",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546815634868702",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喃樱Shine",
         "default": "cn"
       }
     },
