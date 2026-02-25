@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993442
+    "timestamp": 1771993453
   },
   "vtbs": [
     {
@@ -55308,6 +55308,23 @@
       "name": {
         "extra": [],
         "cn": "奇迹Kiseki",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "af76f663-5781-5533-be66-c46e98b807e3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "397642837",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奇迹师九运",
         "default": "cn"
       }
     },
