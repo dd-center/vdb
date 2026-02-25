@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993453
+    "timestamp": 1771993477
   },
   "vtbs": [
     {
@@ -242,6 +242,23 @@
       "name": {
         "extra": [],
         "cn": "-晚风铃-",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cb41da9e-7280-56d6-a602-0588997fda81",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "229857077",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-清鸢儿",
         "default": "cn"
       }
     },
@@ -160182,6 +160199,23 @@
       "name": {
         "extra": [],
         "cn": "软糖吃不饱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dee9440e-8913-5ac5-8b6f-7b21f11da392",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546605217122617",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "软绵绵Ruam",
         "default": "cn"
       }
     },
