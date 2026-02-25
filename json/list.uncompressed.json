@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993291
+    "timestamp": 1771993343
   },
   "vtbs": [
     {
@@ -28108,6 +28108,23 @@
       "name": {
         "extra": [],
         "cn": "伊什纳Eithna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9f585362-df6c-521d-ab0b-cb9083d347ad",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "351247191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "伊伊-fairy",
         "default": "cn"
       }
     },
