@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771932803
+    "timestamp": 1771991529
   },
   "vtbs": [
     {
@@ -117654,6 +117654,23 @@
       "name": {
         "extra": [],
         "cn": "玉阶Monroe",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9335b2a1-661f-5020-8051-abd137b05943",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1335561563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "王凛",
         "default": "cn"
       }
     },
