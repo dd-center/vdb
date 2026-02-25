@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993179
+    "timestamp": 1771993194
   },
   "vtbs": [
     {
@@ -42086,6 +42086,23 @@
       "name": {
         "extra": [],
         "cn": "可可太菜辽",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "53c5cb0f-1b5a-5bc9-80a4-a2cdcdbe2dba",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546618213173939",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可可昔狸_coco",
         "default": "cn"
       }
     },
