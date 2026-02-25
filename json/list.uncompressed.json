@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993010
+    "timestamp": 1771993179
   },
   "vtbs": [
     {
@@ -82842,6 +82842,23 @@
       }
     },
     {
+      "uuid": "bbc4f571-b150-5875-868e-340fe1a8d78a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546645773944860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星瑶Xyao",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6e406dcb-689f-52f6-afe0-7ec137883322",
       "type": "vtuber",
       "bot": false,
@@ -124130,6 +124147,23 @@
       "name": {
         "extra": [],
         "cn": "白粥nina",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2940db0f-febd-5bd8-a727-9ed35d272978",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546588504918025",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白粥崽崽",
         "default": "cn"
       }
     },
