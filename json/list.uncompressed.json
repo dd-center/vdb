@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993477
+    "timestamp": 1771993517
   },
   "vtbs": [
     {
@@ -42245,6 +42245,23 @@
       }
     },
     {
+      "uuid": "320b3d20-1d6b-55ea-8846-b57479f4bd2e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546977444825931",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "可可萝娜Lona",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "495ba4d5-6778-576f-8ddc-e93b9e186325",
       "type": "vtuber",
       "bot": false,
@@ -58061,6 +58078,23 @@
       "name": {
         "extra": [],
         "cn": "姜礼礼yo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "350188ff-739d-5afd-9027-639f50116e39",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "475910403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姜黎Liora",
         "default": "cn"
       }
     },
@@ -109823,6 +109857,23 @@
       "name": {
         "extra": [],
         "cn": "清清才不是大聪明",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "958ac03c-cc3c-5286-8b09-4271064fdda4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546959845525995",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清漓-Lili",
         "default": "cn"
       }
     },
