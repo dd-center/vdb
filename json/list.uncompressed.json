@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993373
+    "timestamp": 1771993442
   },
   "vtbs": [
     {
@@ -48993,6 +48993,23 @@
       }
     },
     {
+      "uuid": "fde39af0-6344-5780-8bfe-e284245327ea",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "197735336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "埃莉诺_Eleanor",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "71913528-bc85-5c05-adb2-11e6f7ac9503",
       "type": "vtuber",
       "bot": false,
@@ -59173,6 +59190,23 @@
       "name": {
         "extra": [],
         "cn": "季风_Seasonal",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df7f1ed3-8d11-5bec-b1cd-ffa1a4f77abe",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546704368372085",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "孤佳冷沫",
         "default": "cn"
       }
     },
