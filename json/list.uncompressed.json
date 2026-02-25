@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1771993517
+    "timestamp": 1771993543
   },
   "vtbs": [
     {
@@ -156794,6 +156794,23 @@
       }
     },
     {
+      "uuid": "3ff20560-61e6-51a2-b815-225d4f399000",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "209626333",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "许十七く",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f848a797-c094-5b18-b5e1-bd00edf59942",
       "type": "vtuber",
       "bot": false,
@@ -181160,6 +181177,23 @@
       "name": {
         "extra": [],
         "cn": "鼎鼎子official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "cffca1b2-88f6-5481-8a48-11fb108ce11f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "387727505",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鼠柚子Aura",
         "default": "cn"
       }
     },
