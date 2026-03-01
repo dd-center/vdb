@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1772333163
+    "timestamp": 1772333164
   },
   "vtbs": [
     {
@@ -142835,6 +142835,23 @@
       "name": {
         "extra": [],
         "cn": "艾美拉鲁德_Emerald",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9a9bcd10-2b70-52d8-a2c3-e0def3b29799",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546921100643076",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾羽Sola",
         "default": "cn"
       }
     },
