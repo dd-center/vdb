@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1772333164
+    "timestamp": 1773031593
   },
   "vtbs": [
     {
@@ -174727,6 +174727,23 @@
       },
       "group": "6eec14e5-38cd-504f-a995-b7bd15b4c51f",
       "group_name": "猫铃社"
+    },
+    {
+      "uuid": "5c638b0d-7763-5eff-9640-378111241a9c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "15697109",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "风见雪舞Official",
+        "default": "cn"
+      }
     },
     {
       "uuid": "6d7f6154-cc0e-5b2b-81ca-1b4e57a94201",
