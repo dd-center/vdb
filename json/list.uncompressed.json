@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773162981
+    "timestamp": 1773221533
   },
   "vtbs": [
     {
@@ -44458,6 +44458,25 @@
         "cn": "味噌缇露official",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "89dfa4e0-e07f-5d58-b8a2-992b8af3e9aa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546608794864225",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "呼呼miku",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
     },
     {
       "uuid": "385ea97f-a969-5555-8001-a484b605f84f",
