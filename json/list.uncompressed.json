@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773221533
+    "timestamp": 1773537701
   },
   "vtbs": [
     {
@@ -81581,6 +81581,23 @@
       "group_name": "WACTOR"
     },
     {
+      "uuid": "0a76eb2f-16f5-5458-9936-e260f0cbee94",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546879497341086",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星奏Hoshi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "ca3c502e-a237-5a74-b5ec-52245719a420",
       "type": "vtuber",
       "bot": false,
@@ -84337,7 +84354,9 @@
         "extra": [],
         "cn": "星野白玲",
         "default": "cn"
-      }
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "group_name": "银潮project(北立交桥)"
     },
     {
       "uuid": "bfb68c40-22bb-56fd-9388-8d46d2aeda90",
@@ -118242,6 +118261,25 @@
       "group_name": "极光社"
     },
     {
+      "uuid": "a2b9486d-14ff-5c41-9dc0-470aa21cbb27",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691006587308829",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玖久奈nami",
+        "default": "cn"
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "group_name": "银潮project(北立交桥)"
+    },
+    {
       "uuid": "074c0f05-5c84-5949-91c2-6b7bc4ff1674",
       "type": "vtuber",
       "bot": false,
@@ -128679,7 +128717,9 @@
         "extra": [],
         "cn": "礼原恋rei",
         "default": "cn"
-      }
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "group_name": "银潮project(北立交桥)"
     },
     {
       "uuid": "d9ae6bb5-d6a1-5ea7-b7c4-922e80cd5135",
@@ -165019,6 +165059,18 @@
       "group": "81bdaeaa-2221-5ef7-a52f-aac975443377"
     },
     {
+      "uuid": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "银潮project",
+        "default": "cn"
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2"
+    },
+    {
       "uuid": "0a30c13f-9569-5bb1-bf4a-83f5ad0a8fe8",
       "type": "vtuber",
       "bot": false,
@@ -169487,6 +169539,25 @@
         "cn": "雪仙喵",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "488e3f66-f1cd-5446-af46-a7f144b9eff2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690998595062582",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪代晴haru",
+        "default": "cn"
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "group_name": "银潮project(北立交桥)"
     },
     {
       "uuid": "97b10cbe-f41e-5bb6-a607-1e86b20a0763",
