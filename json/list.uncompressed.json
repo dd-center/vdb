@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773660476
+    "timestamp": 1773677139
   },
   "vtbs": [
     {
@@ -83836,6 +83836,23 @@
       },
       "group": "cc1ed03e-7840-5738-83b7-b637c02b00fe",
       "group_name": "南十字星project"
+    },
+    {
+      "uuid": "2b80accc-837b-5c53-a425-e4af50f34e5d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706932347014074",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星见小鹿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "32a26474-b754-553a-89c8-2a6c1728fe93",
