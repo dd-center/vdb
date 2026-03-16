@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773537701
+    "timestamp": 1773660476
   },
   "vtbs": [
     {
@@ -142461,6 +142461,23 @@
       "name": {
         "extra": [],
         "cn": "艾斯_Vcitizen",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "dc901ac5-1fd6-5c55-b139-133ca9ed70e8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "694399266",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾斯托蕾拉Estrella",
         "default": "cn"
       }
     },
