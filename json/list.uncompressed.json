@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773677139
+    "timestamp": 1773677189
   },
   "vtbs": [
     {
@@ -96340,6 +96340,23 @@
       "name": {
         "extra": [],
         "cn": "桃杏Anchan",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a03c6899-1441-5814-ab17-3fdd0c788cf1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546889578351044",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃村concon",
         "default": "cn"
       }
     },
