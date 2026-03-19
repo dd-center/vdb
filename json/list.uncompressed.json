@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773704263
+    "timestamp": 1773885828
   },
   "vtbs": [
     {
@@ -580,6 +580,23 @@
         "cn": "2丫_ニーヤ",
         "jp": "ニーヤ",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "d7e5075c-109d-5ac2-98d4-1b8f046c6893",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546916551920336",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "404Hell",
+        "default": "en"
       }
     },
     {
