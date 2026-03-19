@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773885828
+    "timestamp": 1773898608
   },
   "vtbs": [
     {
@@ -139840,6 +139840,23 @@
         ],
         "jp": "もかな",
         "cn": "羊姬桃香奈",
+        "default": "jp"
+      }
+    },
+    {
+      "uuid": "ea09bcf1-5e6a-5f14-9720-27c05501ee4e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706940087601786",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "羊娘咩咩-ASMR",
         "default": "jp"
       }
     },
