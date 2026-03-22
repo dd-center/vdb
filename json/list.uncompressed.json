@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1773898608
+    "timestamp": 1774150191
   },
   "vtbs": [
     {
@@ -128166,6 +128166,25 @@
         "cn": "知予樱stars",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "37a8ff78-b9fd-574f-ad2f-578a5b247b99",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546948525099152",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "知子星",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
     },
     {
       "uuid": "6ca04857-1890-5abb-ac7b-513273ce3f57",
