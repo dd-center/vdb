@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1774531085
+    "timestamp": 1774681182
   },
   "vtbs": [
     {
@@ -161989,6 +161989,23 @@
       "name": {
         "extra": [],
         "cn": "遇见夜未央",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "825fc721-1f8d-536e-84c0-7ba9f2b27708",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706937617156501",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "遇见桑旎",
         "default": "cn"
       }
     },
