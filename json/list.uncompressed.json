@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1774681182
+    "timestamp": 1774933153
   },
   "vtbs": [
     {
@@ -77287,6 +77287,23 @@
       },
       "group": "d0827515-9a79-5e6a-b445-b1145bacfea4",
       "group_name": "Palette"
+    },
+    {
+      "uuid": "f29e4560-a9f7-51b9-971f-2f13aade10c3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546951492569934",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "托莉_Tori",
+        "default": "cn"
+      }
     },
     {
       "uuid": "5aa9b3df-ce36-59c2-afb8-02cdd9330b73",
