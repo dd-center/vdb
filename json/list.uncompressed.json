@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1774933153
+    "timestamp": 1775211952
   },
   "vtbs": [
     {
@@ -179162,6 +179162,25 @@
         "cn": "鹿時零",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "66256747-97c9-59aa-b326-cf443046ee86",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "400997619",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鹿朝朝Aurora",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
     },
     {
       "uuid": "445a6841-d766-5772-968d-bab01eda38a6",
