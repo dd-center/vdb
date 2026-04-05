@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1775211952
+    "timestamp": 1775396231
   },
   "vtbs": [
     {
@@ -16258,6 +16258,33 @@
       },
       "group": "62b750ab-e71a-59cc-b6fe-71a2debb5598",
       "group_name": "upd8"
+    },
+    {
+      "uuid": "338ed8b2-3593-54e6-90d8-f7ef9d77837d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706944067996142",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "05_ok",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "05_oco",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "お子ASMR-OCO",
+        "default": "jp"
+      }
     },
     {
       "uuid": "260da5f4-b731-58e5-9e03-b745d468bc72",
@@ -54358,6 +54385,33 @@
         "default": "cn"
       },
       "group": "7126d95d-9311-5691-a2de-88d978486297"
+    },
+    {
+      "uuid": "e78e2be9-7252-567c-95a4-632bca72bc3f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546610095098464",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Naomin7777",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "naomin29",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "PL": "天死Naomin",
+        "default": "PL"
+      }
     },
     {
       "uuid": "fff9a311-9e83-5f40-bd34-67d7621271ea",
