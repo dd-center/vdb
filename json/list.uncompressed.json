@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1775396257
+    "timestamp": 1775642140
   },
   "vtbs": [
     {
@@ -88879,6 +88879,23 @@
       "name": {
         "extra": [],
         "cn": "月见紫莺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5d8b1ea2-f8b2-5b99-b3d2-ff4f454f7810",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "20312979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见络",
         "default": "cn"
       }
     },
