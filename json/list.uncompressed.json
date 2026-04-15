@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1776043766
+    "timestamp": 1776257672
   },
   "vtbs": [
     {
@@ -157522,6 +157522,42 @@
         "en": "Shior",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "190c6394-ade1-5d44-b492-8d3b2642c01d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706943625497110",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "ShioriNovella",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "shiorinovella",
+          "type": "official",
+          "platform": "twitter"
+        },
+        {
+          "id": "60F7E7DC1F4D6713_d80038",
+          "type": "official",
+          "platform": "userlocal"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "诗织诺薇拉",
+        "en": "Shiori Novella",
+        "jp": "シオリ・ノヴェラ",
+        "default": "cn"
+      },
+      "group": "d406e5da-ef7d-5e0f-9439-264188944758",
+      "group_name": "Hololive EN"
     },
     {
       "uuid": "1999723f-0e57-5da6-95e8-9af1780682ca",
