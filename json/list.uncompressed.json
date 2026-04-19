@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1776257672
+    "timestamp": 1776590904
   },
   "vtbs": [
     {
@@ -40374,8 +40374,8 @@
         "cn": "卡希娅Kirara",
         "default": "cn"
       },
-      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
-      "group_name": "三光五色（北立交桥）"
+      "group": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
+      "group_name": "妖精管理局（北立交桥）"
     },
     {
       "uuid": "f4243676-6b14-5918-a4bc-91f2d05998eb",
@@ -99203,6 +99203,25 @@
         "cn": "莫里亚加米",
         "default": "jp"
       }
+    },
+    {
+      "uuid": "67ea9521-62ab-54b0-a57b-b5e29f945488",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "12870480",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "森永唯Yui",
+        "default": "cn"
+      },
+      "group": "70f1bfa7-4270-5eac-89ef-a52c777a6ff7",
+      "group_name": "三光五色（北立交桥）"
     },
     {
       "uuid": "7be4cdf4-0570-5edd-a5d6-e27db321a218",
