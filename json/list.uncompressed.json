@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1776590904
+    "timestamp": 1776613443
   },
   "vtbs": [
     {
@@ -65122,6 +65122,23 @@
       "name": {
         "extra": [],
         "cn": "小艾咪不吃鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "c6fe0652-6a49-5b12-99f9-48d0436acd10",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706926166706979",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小芙ProMax",
         "default": "cn"
       }
     },
