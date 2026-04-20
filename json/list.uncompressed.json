@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1776613443
+    "timestamp": 1776699087
   },
   "vtbs": [
     {
@@ -29602,6 +29602,23 @@
       "name": {
         "extra": [],
         "cn": "优梦子-Yo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4285618b-9403-50ac-b933-6630d4346274",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691005647784302",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "优爱yua",
         "default": "cn"
       }
     },
@@ -117401,6 +117418,23 @@
         "extra": [],
         "cn": "猫羽_Nekoha",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "2e66cbe2-783e-5d90-9c58-90b96e28a7d8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706969395300793",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "猫羽おかゆ",
+        "default": "jp"
       }
     },
     {
