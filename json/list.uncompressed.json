@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1776699087
+    "timestamp": 1777025096
   },
   "vtbs": [
     {
@@ -56621,6 +56621,23 @@
       },
       "group": "08e83e80-ba92-538d-b63d-fe0592e8af6c",
       "group_name": "浅海Project"
+    },
+    {
+      "uuid": "18b8a394-bbdd-54b8-b60a-653063b4d22d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546757824777191",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奥菲Orpheus",
+        "default": "cn"
+      }
     },
     {
       "uuid": "edfd64fb-9d5e-5287-8078-123ce0874d53",
