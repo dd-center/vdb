@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1778776607
+    "timestamp": 1778853875
   },
   "vtbs": [
     {
@@ -80186,6 +80186,23 @@
       }
     },
     {
+      "uuid": "2e16e1b2-93cf-5972-8243-504139df6212",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690986693724990",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早间由纪yuki",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "564ddc65-802e-5e5e-9455-313e8f3aabf7",
       "type": "vtuber",
       "bot": false,
@@ -112725,6 +112742,23 @@
       "group_name": "P家"
     },
     {
+      "uuid": "a378431d-f005-51bc-92d0-c46f096be9cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3494369334135345",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灵炘Xin",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "56705226-6d7b-5af2-8d3f-cde443095f40",
       "type": "vtuber",
       "bot": false,
@@ -135089,6 +135123,23 @@
       "name": {
         "extra": [],
         "cn": "糖球儿pop",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "686cce61-313f-5a99-b3ac-2533c7f758b2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493120939395403",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糖糖吃胖了",
         "default": "cn"
       }
     },
