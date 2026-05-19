@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1778854009
+    "timestamp": 1779191032
   },
   "vtbs": [
     {
@@ -163689,6 +163689,23 @@
       "name": {
         "extra": [],
         "cn": "野猫奶冻",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "79309970-2d5d-526e-aea1-26c383731eed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "294709",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "野生西瓜",
         "default": "cn"
       }
     },
