@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1779191032
+    "timestamp": 1779346636
   },
   "vtbs": [
     {
@@ -49502,6 +49502,25 @@
       }
     },
     {
+      "uuid": "33aeafac-d8f3-50dd-839b-82c46902433b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546953881225504",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塞伦saran",
+        "default": "cn"
+      },
+      "group": "1f2e8d1e-8b25-5c58-b808-cff4460a7ab0",
+      "group_name": "奥兹奇旅团（北立交桥）"
+    },
+    {
       "uuid": "5a1da78c-683c-53dc-b695-2ebeae343f30",
       "type": "vtuber",
       "bot": false,
@@ -56447,6 +56466,18 @@
         "cn": "奥兹塔Ozta",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1f2e8d1e-8b25-5c58-b808-cff4460a7ab0",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "奥兹奇旅团",
+        "default": "cn"
+      },
+      "group": "1f2e8d1e-8b25-5c58-b808-cff4460a7ab0"
     },
     {
       "uuid": "b36eb514-06c5-5596-b694-ff8a392cb44f",
@@ -107470,8 +107501,8 @@
         "cn": "洛恩Ron",
         "default": "cn"
       },
-      "group": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
-      "group_name": "妖精管理局（北立交桥）"
+      "group": "1f2e8d1e-8b25-5c58-b808-cff4460a7ab0",
+      "group_name": "奥兹奇旅团（北立交桥）"
     },
     {
       "uuid": "a9e7c164-398f-568c-ba6b-4b53f4adf854",
