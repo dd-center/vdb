@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1779549327
+    "timestamp": 1780035911
   },
   "vtbs": [
     {
@@ -104197,6 +104197,25 @@
       "name": {
         "extra": [],
         "cn": "汐雲飛鳥Asuka",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "10629625-6db8-5733-814a-6b49225f98c8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "2060269516",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "汐雾",
+        "en": "shiogiri",
+        "jp": "しおぎり",
         "default": "cn"
       }
     },
