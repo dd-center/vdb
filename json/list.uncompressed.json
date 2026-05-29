@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1780035911
+    "timestamp": 1780035936
   },
   "vtbs": [
     {
@@ -29175,6 +29175,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "0ff44f48-c28e-512a-854f-196602ebab36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546663811549900",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "伊莫可": "cn",
+        "default": "伊莫可"
+      }
     },
     {
       "uuid": "33a1b34d-43ae-53fb-8d4e-0724fafbbd95",
@@ -62469,6 +62486,23 @@
       "name": {
         "extra": [],
         "cn": "小兔森Koumori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5f3e92d3-ae9a-5f51-ae48-db189f14f695",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9347784",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小兔煲",
         "default": "cn"
       }
     },
