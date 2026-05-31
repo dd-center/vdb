@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1780213783
+    "timestamp": 1780213824
   },
   "vtbs": [
     {
@@ -69639,6 +69639,23 @@
       "name": {
         "extra": [],
         "cn": "希尼娅_Kagami",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "baf182e2-0fb2-529d-9c8a-72fd464b2e8d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "4271975",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "希希家今天的饭",
         "default": "cn"
       }
     },
