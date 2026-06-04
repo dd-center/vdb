@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1780460714
+    "timestamp": 1780542280
   },
   "vtbs": [
     {
@@ -14454,6 +14454,24 @@
       }
     },
     {
+      "uuid": "50383452-a184-5cc2-8030-fa35286f520e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "290734767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "宙_ling",
+        "en": "ling",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "4751ad5b-df00-57ed-8d96-0d0fe5cebeb9",
       "type": "vtuber",
       "bot": false,
@@ -14877,6 +14895,23 @@
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
       "group_name": "远星社FarStar"
+    },
+    {
+      "uuid": "d3e0e84a-bcd4-558f-85d9-4530ffd5d80a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493114262063246",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Nu神占领宇宙喵",
+        "default": "cn"
+      }
     },
     {
       "uuid": "0342a9e1-acc2-5895-b840-3bcd612d9899",
