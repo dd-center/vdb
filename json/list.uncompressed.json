@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1780893251
+    "timestamp": 1781105169
   },
   "vtbs": [
     {
@@ -33724,6 +33724,23 @@
         "extra": [],
         "cn": "兰悠悠yoyo",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "bee8a683-d4f5-5a06-9834-bc4e5896c754",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "227564607",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "CN": "兰朵莎channel",
+        "default": "CN"
       }
     },
     {
