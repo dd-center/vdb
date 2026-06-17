@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1781105169
+    "timestamp": 1781698684
   },
   "vtbs": [
     {
@@ -49407,6 +49407,23 @@
       },
       "group": "14af1184-c6c7-5526-b984-714023090937",
       "group_name": "星果屋"
+    },
+    {
+      "uuid": "dfcad802-1bf1-558b-be82-839deac475de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546789112187737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔塔_Tasia",
+        "default": "cn"
+      }
     },
     {
       "uuid": "2438131d-d8c1-5a9e-ad91-ca5ca3f9db64",
