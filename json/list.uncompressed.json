@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1781698684
+    "timestamp": 1782234943
   },
   "vtbs": [
     {
@@ -118836,9 +118836,7 @@
         "extra": [],
         "cn": "玖久奈nami",
         "default": "cn"
-      },
-      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
-      "group_name": "银潮project(北立交桥)"
+      }
     },
     {
       "uuid": "074c0f05-5c84-5949-91c2-6b7bc4ff1674",
@@ -165871,7 +165869,13 @@
       "uuid": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
       "type": "group",
       "bot": false,
-      "accounts": [],
+      "accounts": [
+        {
+          "id": "3546978543732757",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
       "name": {
         "extra": [],
         "cn": "银潮project",
