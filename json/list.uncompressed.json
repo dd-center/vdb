@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1782234943
+    "timestamp": 1782660349
   },
   "vtbs": [
     {
@@ -104545,6 +104545,25 @@
         "cn": "江崎Esaki97",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5ec2c3a1-96fe-5097-a625-1017d238a727",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707002144426726",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "江恰恰OuO",
+        "default": "cn"
+      },
+      "group": "98f46aef-0df4-5088-8fcf-3f5a6479029d",
+      "group_name": "明月生肖（北立交桥）"
     },
     {
       "uuid": "e6728214-9df2-5f56-822d-95783e3a6b58",
