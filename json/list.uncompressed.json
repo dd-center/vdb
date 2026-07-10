@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1782660349
+    "timestamp": 1783657151
   },
   "vtbs": [
     {
@@ -75042,6 +75042,25 @@
       }
     },
     {
+      "uuid": "7effbc49-5c46-5cff-893c-2cdcf087a961",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493136449932025",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "思临lord",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
+    },
+    {
       "uuid": "eb18c47d-4a19-5950-b357-79edcf536f9a",
       "type": "vtuber",
       "bot": false,
@@ -80315,6 +80334,25 @@
         "cn": "早耶三三",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "c1721c78-3685-5b67-a5e5-97fb60b4926f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707017170520389",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "早芽zorya",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
     },
     {
       "uuid": "f2a6d0eb-7a52-5024-abc0-7356385b7f0d",
