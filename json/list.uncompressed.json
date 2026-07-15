@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1783657151
+    "timestamp": 1784124377
   },
   "vtbs": [
     {
@@ -134167,6 +134167,25 @@
         "cn": "簌澪SuMio",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "d110570c-56f6-5d5b-986e-20df9b113d5e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706977156860283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "米久MiQ",
+        "default": "cn"
+      },
+      "group": "e846092f-c516-571d-b6f6-ceab250a352d",
+      "group_name": "魅魔补习班（北立交桥）"
     },
     {
       "uuid": "d809130f-048b-57fc-8541-bfc3a3eddae4",
