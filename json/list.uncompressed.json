@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1784207706
+    "timestamp": 1784608093
   },
   "vtbs": [
     {
@@ -83665,6 +83665,24 @@
       }
     },
     {
+      "uuid": "c1524001-2576-5e1f-b7cd-fa7fb7c4bab5",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632287849646580",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星界社",
+        "default": "cn"
+      },
+      "group": "c1524001-2576-5e1f-b7cd-fa7fb7c4bab5"
+    },
+    {
       "uuid": "cfb819de-902d-5dfb-8466-c829aa10fa97",
       "type": "vtuber",
       "bot": false,
@@ -89431,6 +89449,25 @@
       }
     },
     {
+      "uuid": "05dcd613-4346-5d87-bb5f-0653ad171cb3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3691011534490289",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月铃luna",
+        "default": "cn"
+      },
+      "group": "c1524001-2576-5e1f-b7cd-fa7fb7c4bab5",
+      "group_name": "星界社（北立交桥）"
+    },
+    {
       "uuid": "216afd63-9b0e-5363-9d7e-e069d6fe4fe1",
       "type": "vtuber",
       "bot": false,
@@ -91046,6 +91083,25 @@
         "cn": "未央uri",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "3e9bfc59-5c00-51b9-a32f-d03d3ac2f37e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706975498013671",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "未怜Miren",
+        "default": "cn"
+      },
+      "group": "c1524001-2576-5e1f-b7cd-fa7fb7c4bab5",
+      "group_name": "星界社（北立交桥）"
     },
     {
       "uuid": "baab4ed1-c4fa-571b-9ad4-5f871f9a8f0e",
@@ -150581,6 +150637,25 @@
         "cn": "莓可_Meiko",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "f13d615b-1706-50b4-b697-c8dffa8b922a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706974178904281",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莓可可KOKO",
+        "default": "cn"
+      },
+      "group": "c1524001-2576-5e1f-b7cd-fa7fb7c4bab5",
+      "group_name": "星界社（北立交桥）"
     },
     {
       "uuid": "cee89339-db83-56ef-b4d8-baf4de9dfde9",
