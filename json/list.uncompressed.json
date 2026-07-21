@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1784625325
+    "timestamp": 1784625403
   },
   "vtbs": [
     {
@@ -22004,6 +22004,25 @@
       }
     },
     {
+      "uuid": "2451e954-3122-5463-b573-aeadfb21813d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546701673531456",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "万彩kinnix",
+        "default": "cn"
+      },
+      "group": "6dc03368-be51-5eda-b402-b9b1059c27e6",
+      "group_name": "幻光回廊Project"
+    },
+    {
       "uuid": "912332f9-330f-55fd-807c-f2f797a0dde0",
       "type": "vtuber",
       "bot": false,
@@ -38478,6 +38497,25 @@
         "cn": "千悦Chisa",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0e414770-456e-5156-b022-6bc06d71b1bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1034809600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千早郁Kumi",
+        "default": "cn"
+      },
+      "group": "6dc03368-be51-5eda-b402-b9b1059c27e6",
+      "group_name": "幻光回廊Project"
     },
     {
       "uuid": "79e97566-484f-5916-8381-233f7d1d9a58",
@@ -71059,6 +71097,18 @@
       "group": "61722433-dfba-5899-a5bb-fc9229f1f62f"
     },
     {
+      "uuid": "6dc03368-be51-5eda-b402-b9b1059c27e6",
+      "type": "group",
+      "bot": false,
+      "accounts": [],
+      "name": {
+        "extra": [],
+        "cn": "幻光回廊Project",
+        "default": "cn"
+      },
+      "group": "6dc03368-be51-5eda-b402-b9b1059c27e6"
+    },
+    {
       "uuid": "406ed560-940b-5ad8-972b-317501ec65db",
       "type": "vtuber",
       "bot": false,
@@ -84298,6 +84348,25 @@
         "cn": "星見糖",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "548f2d7f-2ad0-50d8-a1ff-3b560fe111fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546812059224283",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星見雪柚_Yukiyo",
+        "default": "cn"
+      },
+      "group": "6dc03368-be51-5eda-b402-b9b1059c27e6",
+      "group_name": "幻光回廊Project"
     },
     {
       "uuid": "afb7d651-4fcb-5992-912a-a875eb5fabf8",
@@ -107527,6 +107596,25 @@
         "cn": "洛咪_lomya",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1258225c-d2f9-5225-98ab-60dd70b5f436",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690996338527068",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛妄Eureka",
+        "default": "cn"
+      },
+      "group": "6dc03368-be51-5eda-b402-b9b1059c27e6",
+      "group_name": "幻光回廊Project"
     },
     {
       "uuid": "be2bb302-5c96-5ede-aa4c-de82c4e7ec9c",
