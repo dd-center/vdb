@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1785484292
+    "timestamp": 1785638590
   },
   "vtbs": [
     {
@@ -105389,6 +105389,23 @@
       "name": {
         "extra": [],
         "cn": "沈羡鱼Singer",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6c0f08f3-ce1d-5d5e-a268-89cc7b9455bf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546984044563271",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "沈辰烬_Ember",
         "default": "cn"
       }
     },
