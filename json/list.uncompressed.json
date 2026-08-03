@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1785638650
+    "timestamp": 1785749171
   },
   "vtbs": [
     {
@@ -139368,6 +139368,23 @@
       "name": {
         "extra": [],
         "cn": "绮夜Lilith",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "719caeea-7362-544d-b22d-f647bdaf6402",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690999912073712",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绮夜星雨",
         "default": "cn"
       }
     },
