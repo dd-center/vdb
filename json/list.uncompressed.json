@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1785749171
+    "timestamp": 1785900865
   },
   "vtbs": [
     {
@@ -146248,6 +146248,24 @@
       "name": {
         "extra": [],
         "cn": "花月Hana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4778ddb2-1224-5c0d-9390-be8e16450402",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "219563792",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花朔",
+        "en": "kasaku",
         "default": "cn"
       }
     },
