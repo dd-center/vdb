@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1785900890
+    "timestamp": 1785900934
   },
   "vtbs": [
     {
@@ -177540,6 +177540,33 @@
         "extra": [],
         "cn": "鬼畜千寻炎哈",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "143be8a5-9df0-5fb8-956f-3878c07883e5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706967484795570",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Malicech.鬼花まりすASMR",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "malice_kibana",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "鬼花まりす",
+        "default": "jp"
       }
     },
     {
