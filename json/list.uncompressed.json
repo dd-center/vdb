@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1785900934
+    "timestamp": 1785988209
   },
   "vtbs": [
     {
@@ -86301,6 +86301,25 @@
         "cn": "是鸭鸭鸭吖呀",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "56e61cff-2d38-5517-8bd4-a83152c0ef46",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706962250303984",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "ch": "昼夜_Chilly",
+        "default": "ch"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "6182b2bf-38d8-5329-950c-1ab7a5006d30",
