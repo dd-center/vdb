@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787024168
+    "timestamp": 1787888331
   },
   "vtbs": [
     {
@@ -49486,6 +49486,23 @@
       },
       "group": "14af1184-c6c7-5526-b984-714023090937",
       "group_name": "星果屋"
+    },
+    {
+      "uuid": "bee60e89-0bab-5331-b4b0-d5123500cef8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546755926853875",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "塔塔Clione",
+        "default": "cn"
+      }
     },
     {
       "uuid": "dfcad802-1bf1-558b-be82-839deac475de",
