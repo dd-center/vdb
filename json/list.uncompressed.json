@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888363
+    "timestamp": 1787888445
   },
   "vtbs": [
     {
@@ -86891,6 +86891,23 @@
       "name": {
         "extra": [],
         "cn": "晚晚Ailsa",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "3db64561-d815-50bb-8cc0-549f1a4695bc",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707022178519939",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "晚晚Babe",
         "default": "cn"
       }
     },
