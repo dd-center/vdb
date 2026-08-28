@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888445
+    "timestamp": 1787888476
   },
   "vtbs": [
     {
@@ -134218,6 +134218,23 @@
       "name": {
         "extra": [],
         "cn": "笙笙",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "61bdaf37-5645-53cf-9a27-bc4f53e567b4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546894296943135",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "笙笙Siamira",
         "default": "cn"
       }
     },
