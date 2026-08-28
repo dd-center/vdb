@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888945
+    "timestamp": 1787888984
   },
   "vtbs": [
     {
@@ -150980,6 +150980,25 @@
         "cn": "莉莉洁想吃点心",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "5a6db9d7-f9fd-5160-9399-fed8670673df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706952322386040",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "莉莉约Liy",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "640b7e54-4f38-533c-8ad3-0f380d013581",
