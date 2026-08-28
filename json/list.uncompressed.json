@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888609
+    "timestamp": 1787888720
   },
   "vtbs": [
     {
@@ -64639,6 +64639,23 @@
       "name": {
         "extra": [],
         "cn": "小池真奈Mana",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d408e57f-92f4-58d7-ab7c-63cd3ccc0c6b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707042715929567",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小沅Yomi",
         "default": "cn"
       }
     },
