@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888847
+    "timestamp": 1787888884
   },
   "vtbs": [
     {
@@ -112504,6 +112504,23 @@
         "cn": "漪月灵",
         "jp": "エーテル・クレスエンティア",
         "en": "Aether Crescentia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "663dff8d-a178-5f48-9461-3b18935c3811",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546883523872868",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "漫漫tail",
         "default": "cn"
       }
     },
