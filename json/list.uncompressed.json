@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888476
+    "timestamp": 1787888565
   },
   "vtbs": [
     {
@@ -103948,6 +103948,23 @@
         "extra": [],
         "en": "水莲Suiren_vt",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "ffce91b1-fae8-54fb-8b37-b2f841a17ba5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690980102376039",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "水谷雫ちゃん",
+        "default": "cn"
       }
     },
     {
