@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888720
+    "timestamp": 1787888847
   },
   "vtbs": [
     {
@@ -142988,6 +142988,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "063c48b2-7f28-5215-9c4c-8b6bd2aae635",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546963752519731",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "脆皮之zhi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "b77f6ca3-963b-52fb-ae86-f30289d4d2f9",
