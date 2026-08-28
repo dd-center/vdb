@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1787888331
+    "timestamp": 1787888363
   },
   "vtbs": [
     {
@@ -26216,6 +26216,23 @@
       "name": {
         "extra": [],
         "cn": "云崎早_haya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "08fc2b3e-a779-52eb-995c-30864db668db",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546913477495448",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "云帆_Fsail",
         "default": "cn"
       }
     },
@@ -75201,6 +75218,23 @@
       },
       "group": "412f3e13-0742-53c3-80e4-a0ea111657d9",
       "group_name": "Providence"
+    },
+    {
+      "uuid": "c203fb90-550f-5aaf-81a8-f717d33e5ee7",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690994448993109",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "怜奈_Reina",
+        "default": "cn"
+      }
     },
     {
       "uuid": "a9465442-40e1-5b63-865d-91114182204c",
