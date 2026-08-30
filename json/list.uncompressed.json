@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1788091484
+    "timestamp": 1788091515
   },
   "vtbs": [
     {
@@ -24400,6 +24400,26 @@
         "cn": "久远寺刹那Setsuna",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "09bde80f-250c-5ed3-a948-725a6b79e5a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706995750210156",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "KuonRei",
+        "cn": "久远澪",
+        "default": "jp"
+      },
+      "group": "cb8f50eb-2127-5a65-acef-df8ebe3743a4",
+      "group_name": "纸片人计划"
     },
     {
       "uuid": "8ee7e806-5c80-5660-a247-2081b373019d",
