@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1788091515
+    "timestamp": 1788179756
   },
   "vtbs": [
     {
@@ -15206,6 +15206,28 @@
         ],
         "cn": "s1姬",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "5569bb1a-f93a-52f0-bad7-35350df4e0b3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3744978087972474",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "Sanavtuber12",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "sanachanvt",
+        "default": "en"
       }
     },
     {
