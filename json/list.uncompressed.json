@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1788312248
+    "timestamp": 1788327349
   },
   "vtbs": [
     {
@@ -82056,6 +82056,29 @@
         "extra": [],
         "cn": "星原骏",
         "en": "HoshiharaSunn",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1a64fb55-b0cd-5494-90da-45fe219db1a8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546849537427464",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "HoshinaReki",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星名Reki",
+        "en": "HoshinaReki",
         "default": "cn"
       }
     },
