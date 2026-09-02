@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1788179756
+    "timestamp": 1788312248
   },
   "vtbs": [
     {
@@ -55451,6 +55451,25 @@
       }
     },
     {
+      "uuid": "c3411932-f1ea-5dae-baaa-ecdef5b88fc3",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706991608335014",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "天音绮罗",
+        "default": "cn"
+      },
+      "group": "89e5da70-fabf-5934-82bd-9e0ee5012474",
+      "group_name": "幻想社Symphony"
+    },
+    {
       "uuid": "90c14bd9-4f7f-55b6-86fd-06ab43a37758",
       "type": "vtuber",
       "bot": false,
@@ -71438,6 +71457,24 @@
         "default": "cn"
       },
       "group": "5074200f-7ef8-5480-920e-6c21f74cedd6"
+    },
+    {
+      "uuid": "89e5da70-fabf-5934-82bd-9e0ee5012474",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546682583156767",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "幻想社Symphony",
+        "default": "cn"
+      },
+      "group": "89e5da70-fabf-5934-82bd-9e0ee5012474"
     },
     {
       "uuid": "64870850-0d58-555c-ad2f-433a73f8ee05",
@@ -113656,6 +113693,25 @@
       }
     },
     {
+      "uuid": "13f2c366-2bc2-5eee-bf05-cc2986f209df",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707011388672315",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "灵汐Shiria",
+        "default": "cn"
+      },
+      "group": "89e5da70-fabf-5934-82bd-9e0ee5012474",
+      "group_name": "幻想社Symphony"
+    },
+    {
       "uuid": "b6ce1063-9ed6-53f5-8aea-72bdfefd948a",
       "type": "vtuber",
       "bot": false,
@@ -154535,6 +154591,25 @@
       }
     },
     {
+      "uuid": "6a185841-6b5e-5f85-9440-64dd93f8fa5a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3632300399004581",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "蓝川恩Aikawa",
+        "default": "cn"
+      },
+      "group": "89e5da70-fabf-5934-82bd-9e0ee5012474",
+      "group_name": "幻想社Symphony"
+    },
+    {
       "uuid": "1b57dcae-08ad-59ed-915a-b7e4bc1c8672",
       "type": "vtuber",
       "bot": false,
@@ -169941,6 +170016,25 @@
         "jp": "rikusen",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "31560c20-b7a2-5a3f-a7c8-d88807e0d19d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546588460878718",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "陆希雅Lucia_",
+        "default": "cn"
+      },
+      "group": "89e5da70-fabf-5934-82bd-9e0ee5012474",
+      "group_name": "幻想社Symphony"
     },
     {
       "uuid": "1be8b29f-681a-577e-a95c-b5e40bf9555a",
