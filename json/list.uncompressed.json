@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789549614
+    "timestamp": 1789549695
   },
   "vtbs": [
     {
@@ -164324,6 +164324,23 @@
       "name": {
         "extra": [],
         "cn": "酉星YoKi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7d28e0c7-03c4-5b24-a81b-79de142993ac",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "https://www.douyin.com/user/MS4wLjABAAAAAPt53pxgKIDR1ijVL7UrCAZ_f8BhgI2RwJD_d8wwHYF1IOgMZASRFtPUc4WeoaEf",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒久✧⁹⁹",
         "default": "cn"
       }
     },
