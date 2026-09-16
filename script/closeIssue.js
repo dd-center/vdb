@@ -5,6 +5,10 @@ const log = w => {
   return w
 }
 
+if (!/^\d+$/.test(ISSUE_NUMBER)) {
+  throw new Error(`Invalid ISSUE_NUMBER: ${ISSUE_NUMBER}`)
+}
+
 fetch(log(`https://api.github.com/repos/dd-center/vdb/issues/${ISSUE_NUMBER}`), {
   method: 'PATCH',
   body: JSON.stringify({
