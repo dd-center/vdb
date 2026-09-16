@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789542885
+    "timestamp": 1789542928
   },
   "vtbs": [
     {
@@ -107880,6 +107880,23 @@
       "name": {
         "extra": [],
         "cn": "泽因Zein",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "52271246-ae9a-5e8c-9a40-b65d2f729708",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546981341334107",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "泽太Zetai",
         "default": "cn"
       }
     },
