@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789543209
+    "timestamp": 1789543307
   },
   "vtbs": [
     {
@@ -113232,6 +113232,23 @@
       "name": {
         "extra": [],
         "cn": "濑月夢纪YUmeKI",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "eb48a125-49d5-50e5-b265-b2311c02facd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546860757191149",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "濑比Rebi",
         "default": "cn"
       }
     },
