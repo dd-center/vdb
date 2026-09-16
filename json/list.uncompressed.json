@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1788327349
+    "timestamp": 1789541733
   },
   "vtbs": [
     {
@@ -5203,6 +5203,28 @@
       "name": {
         "extra": [],
         "en": "Kirikosama",
+        "default": "en"
+      }
+    },
+    {
+      "uuid": "e7bc9160-5926-57c5-9470-71a47bdbd662",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707070712908035",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "KiwimiYT",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Kiwimi_alien",
         "default": "en"
       }
     },
