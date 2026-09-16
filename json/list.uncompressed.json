@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789542616
+    "timestamp": 1789542715
   },
   "vtbs": [
     {
@@ -144727,6 +144727,23 @@
       "name": {
         "extra": [],
         "cn": "艾莉亚airi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "56bc9b73-399a-5081-8514-4e3fb55fd89d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1350897322",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾莉雅_official",
         "default": "cn"
       }
     },
