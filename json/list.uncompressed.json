@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789542073
+    "timestamp": 1789542245
   },
   "vtbs": [
     {
@@ -105429,6 +105429,23 @@
       "name": {
         "extra": [],
         "cn": "池忬Luna",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f985a797-6898-56ad-a0be-831739cad7cf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "482300028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "池念Lemon",
         "default": "cn"
       }
     },
