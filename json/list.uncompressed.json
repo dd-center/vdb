@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789543020
+    "timestamp": 1789543049
   },
   "vtbs": [
     {
@@ -108784,6 +108784,23 @@
       "name": {
         "extra": [],
         "cn": "洛羽曦lotus",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b94368ea-a489-5933-bbd4-b3fba5273dcf",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "324807706",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "洛肯Lorcan",
         "default": "cn"
       }
     },
