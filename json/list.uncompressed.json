@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789542991
+    "timestamp": 1789543020
   },
   "vtbs": [
     {
@@ -171195,6 +171195,23 @@
       "name": {
         "extra": [],
         "cn": "雨寂桑key",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "97f38428-115a-5a78-86f3-a23e8f04787d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17646698",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雨寒Ameka",
         "default": "cn"
       }
     },
