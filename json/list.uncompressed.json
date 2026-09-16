@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789541733
+    "timestamp": 1789541792
   },
   "vtbs": [
     {
@@ -7030,6 +7030,23 @@
         "extra": [],
         "cn": "Mysta的狐狸侦探事务所",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "c1507bf0-678f-5580-9135-fdd183f0949d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "441269942",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mytholinical",
+        "default": "en"
       }
     },
     {
