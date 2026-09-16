@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789542866
+    "timestamp": 1789542885
   },
   "vtbs": [
     {
@@ -114791,6 +114791,23 @@
       "name": {
         "extra": [],
         "cn": "熊初茉",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "13edf085-741e-5215-9ca8-a644c50207f1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "11430737",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熊喵黑曜",
         "default": "cn"
       }
     },
