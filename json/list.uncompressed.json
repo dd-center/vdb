@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789549916
+    "timestamp": 1789818759
   },
   "vtbs": [
     {
@@ -122023,6 +122023,23 @@
       "name": {
         "extra": [],
         "cn": "瑞格露丝-莱雅",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "483b2d15-239a-5a47-b90c-c987d999d341",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "21768683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瑞楼叮_reloading",
         "default": "cn"
       }
     },
