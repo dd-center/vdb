@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1789818844
+    "timestamp": 1790339803
   },
   "vtbs": [
     {
@@ -142506,6 +142506,29 @@
       "name": {
         "extra": [],
         "cn": "羽鳥Akira_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "94e77a77-9c5d-517a-839b-6e49f732b0ef",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "74174075",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "rgT3jxHfDCVcOdb",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "羽鳥楓momiji",
+        "jp": "羽鳥楓momiji",
         "default": "cn"
       }
     },
