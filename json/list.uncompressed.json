@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608749
+    "timestamp": 1790608817
   },
   "vtbs": [
     {
@@ -172922,6 +172922,23 @@
       "name": {
         "extra": [],
         "cn": "雪野一梦yukino",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6778265e-b3b4-545e-a7ab-b32a86af70c9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "353531058",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪野千夏",
         "default": "cn"
       }
     },
