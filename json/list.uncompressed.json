@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608895
+    "timestamp": 1790609230
   },
   "vtbs": [
     {
@@ -109595,6 +109595,25 @@
         "cn": "浅羽啾yami",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "149b0649-994c-54c6-9358-6839cc9f2bd8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546859933010750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "浅羽澪音",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "f1e71eba-9175-5f4c-98bb-afb2d356958a",
