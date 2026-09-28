@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608620
+    "timestamp": 1790608749
   },
   "vtbs": [
     {
@@ -148102,6 +148102,23 @@
       "name": {
         "extra": [],
         "cn": "花邪Amy",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f423aebd-9896-5d55-aa07-ce04986a5b87",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1427238587",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花里夜宵",
         "default": "cn"
       }
     },
