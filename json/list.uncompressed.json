@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608056
+    "timestamp": 1790608285
   },
   "vtbs": [
     {
@@ -20636,6 +20636,23 @@
       "name": {
         "extra": [],
         "cn": "一只机智的兔子icey",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "506f9f3b-833b-5cf8-8e5a-6d70af939ad5",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "515654926",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只樱爱吖",
         "default": "cn"
       }
     },
