@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608880
+    "timestamp": 1790608895
   },
   "vtbs": [
     {
@@ -48865,6 +48865,23 @@
       },
       "group": "ef62fd18-c22b-5457-9453-48819f385b8f",
       "group_name": "EroS"
+    },
+    {
+      "uuid": "3df9eafb-750a-5a70-aa11-45352b1e39ab",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1533204549",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "团生儿",
+        "default": "cn"
+      }
     },
     {
       "uuid": "c36ea829-db1a-5245-b797-e29666cda6c6",
