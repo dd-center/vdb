@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790608515
+    "timestamp": 1790608597
   },
   "vtbs": [
     {
@@ -53049,6 +53049,23 @@
       }
     },
     {
+      "uuid": "35ed729b-0426-56ed-bb39-d53b18d85ce0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "457740720",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜莓Mew",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "934b5a4d-be0d-5d44-8ba0-bd3eedf1d9ee",
       "type": "vtuber",
       "bot": false,
@@ -86135,6 +86152,23 @@
       "name": {
         "extra": [],
         "cn": "昨日青子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "37a683dc-0bfd-5763-a294-e8cc7068b956",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "498722083",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "昭曈",
         "default": "cn"
       }
     },
