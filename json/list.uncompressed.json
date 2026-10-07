@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791338247
+    "timestamp": 1791338286
   },
   "vtbs": [
     {
@@ -30708,6 +30708,23 @@
       },
       "group": "d6c029ef-8b44-5e59-9e0b-79d4c9884333",
       "group_name": "远星社FarStar"
+    },
+    {
+      "uuid": "b3685313-dae3-59eb-ae83-c88427300f6d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546945171753457",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "佟夏曲",
+        "default": "cn"
+      }
     },
     {
       "uuid": "589289cc-867b-56eb-9ab1-4699000837df",
