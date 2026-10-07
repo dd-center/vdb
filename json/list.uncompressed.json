@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337668
+    "timestamp": 1791337746
   },
   "vtbs": [
     {
@@ -38431,6 +38431,23 @@
       }
     },
     {
+      "uuid": "7ba568e3-eb1a-538a-a957-b455a41728f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "101705683",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "千回Jasmellar",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "6204ddb7-9469-5c8e-a45a-dee8497c8cc6",
       "type": "vtuber",
       "bot": false,
@@ -41357,6 +41374,25 @@
         "cn": "卢森堡的伊丽莎白",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "1b4ba5bf-ae75-518c-8cc0-67a585fef856",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546851041085772",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "卯卯maoku",
+        "default": "cn"
+      },
+      "group": "5074200f-7ef8-5480-920e-6c21f74cedd6",
+      "group_name": "幻想社Fantas1A"
     },
     {
       "uuid": "ade13bd4-a41f-53ba-acf7-29137b41b4a4",
@@ -56969,6 +57005,25 @@
       },
       "group": "9c1b1391-c421-5f8d-ad1d-90eefee8d3e1",
       "group_name": "holostars"
+    },
+    {
+      "uuid": "29ae1dfb-63cb-51c9-b3c9-60de4792a8fb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "191443890",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奏晓Kana",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "39dab186-0312-5d81-b19a-af89e12e9abf",
@@ -88488,6 +88543,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "7f9358b8-9a6f-58c4-b0e1-d7377f9fe06b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707002056346031",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "暹夭夭MoChi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "61d9a456-a6f7-57ab-a52b-407530269acc",
@@ -168695,6 +168767,23 @@
       },
       "group": "a629223f-5cb6-50df-8d28-5400b4d1c497",
       "group_name": "玹云社"
+    },
+    {
+      "uuid": "ebeb64b9-bf2d-5373-b6e1-c8e85d0737a0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546604845926918",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "阎君真的不想吃红枣",
+        "default": "cn"
+      }
     },
     {
       "uuid": "94237a21-5ad8-5ac8-847a-d74d4068b59a",
