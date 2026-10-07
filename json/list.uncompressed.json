@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791336985
+    "timestamp": 1791337033
   },
   "vtbs": [
     {
@@ -2395,6 +2395,23 @@
       "name": {
         "extra": [],
         "cn": "Carry好凯森",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "6305edd0-fd8a-5336-93a7-9a50dff1fb80",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1273871661",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Cattleb妮可罗宾",
         "default": "cn"
       }
     },
@@ -20725,6 +20742,23 @@
       },
       "group": "11361482-308d-5313-8597-96d3d8d7170a",
       "group_name": "萌芽社"
+    },
+    {
+      "uuid": "ebbaee38-e08a-53ed-8719-a789f5bac104",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706954530687917",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一只腓崽崽",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9e1b6dce-50f1-575f-a6e6-3d10e4f193ae",
@@ -51002,6 +51036,23 @@
       "name": {
         "extra": [],
         "cn": "夏惟Xiawei",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0708bb3e-6f0c-5880-b9e4-ef87b9ddef36",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706998208072014",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夏日碎冰冰",
         "default": "cn"
       }
     },
@@ -164938,6 +164989,23 @@
       "name": {
         "extra": [],
         "cn": "酒酿酥团",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "7e29e9eb-ff26-5946-afd4-e59fe219a179",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "457752070",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酣睡猫猫-cat",
         "default": "cn"
       }
     },
