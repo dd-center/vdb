@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791335342
+    "timestamp": 1791335367
   },
   "vtbs": [
     {
@@ -123001,6 +123001,25 @@
         "cn": "瓜瓜偷猹-瓜皮护瓜",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "59c19af7-0f63-5f36-9c90-31f9d34fe920",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1831762425",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "瓦伦缇娜Valen",
+        "default": "cn"
+      },
+      "group": "208c906f-cd5d-567d-a8f5-6067d9d78fd2",
+      "group_name": "银潮project(北立交桥)"
     },
     {
       "uuid": "7d0a6263-601d-5510-8fc4-053e94c73a87",
