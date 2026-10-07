@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791335367
+    "timestamp": 1791336700
   },
   "vtbs": [
     {
@@ -150890,6 +150890,23 @@
       "name": {
         "extra": [],
         "cn": "草药呐喵呜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "027d6ab9-7490-587d-90cd-55adbea1e50d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707044070688833",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "草莓味的乐凌枫",
         "default": "cn"
       }
     },
