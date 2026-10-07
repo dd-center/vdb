@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337823
+    "timestamp": 1791337850
   },
   "vtbs": [
     {
@@ -21514,6 +21514,23 @@
       "name": {
         "extra": [],
         "cn": "一颗秋秋御糖",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e221de9a-203d-5d69-b4d4-2f86e25ff466",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493278395664860",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "一颗米狸",
         "default": "cn"
       }
     },
