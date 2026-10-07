@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337605
+    "timestamp": 1791337640
   },
   "vtbs": [
     {
@@ -5864,6 +5864,23 @@
       "name": {
         "extra": [],
         "cn": "Lulu不是噜噜",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0d9067e8-9fe4-5b0d-a271-3d987b77f4ed",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546662343543218",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Lumi又又又在唱",
         "default": "cn"
       }
     },
@@ -66087,6 +66104,23 @@
       "name": {
         "extra": [],
         "cn": "小葵花_Channel",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "95fb9edf-2b79-5e28-9a75-0259a3d558d0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546878058695554",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小薯条promax",
         "default": "cn"
       }
     },
@@ -174350,6 +174384,25 @@
         "cn": "雾礼夏夏",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "8406f6dd-d262-5642-b4cb-074547fc4305",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546645675379227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雾穗Kyrio",
+        "default": "cn"
+      },
+      "group": "3dfee54e-d852-5781-b361-5b71c3d16b84",
+      "group_name": "GravityS Project"
     },
     {
       "uuid": "3ebed37d-409f-5c04-8d1c-f3295fc11c98",
