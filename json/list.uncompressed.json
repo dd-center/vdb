@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337981
+    "timestamp": 1791338027
   },
   "vtbs": [
     {
@@ -47578,6 +47578,23 @@
       "name": {
         "extra": [],
         "cn": "喵哩MeowLi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "1f4ec0fa-c574-53a2-9bc9-ce7de1945ff0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "253918125",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "喵喵_oi",
         "default": "cn"
       }
     },
@@ -111848,6 +111865,23 @@
       }
     },
     {
+      "uuid": "d9394ea1-b84d-564f-a4f4-0efea59e01ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546756161734935",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "清歌喵",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "33c0caf2-d5c1-54c6-94ca-2dc4be51ba25",
       "type": "vtuber",
       "bot": false,
@@ -147235,6 +147269,23 @@
       "name": {
         "extra": [],
         "cn": "花南音",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2c71ea06-6039-55f3-b0b7-edf08e465684",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546934566455871",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "花卷儿oi",
         "default": "cn"
       }
     },
