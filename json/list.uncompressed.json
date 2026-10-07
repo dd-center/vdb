@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337850
+    "timestamp": 1791337920
   },
   "vtbs": [
     {
@@ -98593,6 +98593,23 @@
       "name": {
         "extra": [],
         "cn": "桃酱从小就很可爱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "de9f5070-11da-52fa-8495-c08d5d7907e0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690972735080847",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃釉铃",
         "default": "cn"
       }
     },
