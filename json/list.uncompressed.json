@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337095
+    "timestamp": 1791337128
   },
   "vtbs": [
     {
@@ -118316,6 +118316,23 @@
       "group_name": "yifun社"
     },
     {
+      "uuid": "46c097e9-2538-5213-9eee-09fd80b3f28c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706983618185766",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫可奈sunny",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "c9b073d1-40a8-59a8-9e37-dd70a3010b11",
       "type": "vtuber",
       "bot": false,
@@ -164921,6 +164938,23 @@
       "name": {
         "extra": [],
         "cn": "酒诗乔木お",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fe522963-b135-5e74-811c-490a5b078af2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706978780055929",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "酒语初",
         "default": "cn"
       }
     },
