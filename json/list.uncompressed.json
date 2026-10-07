@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337640
+    "timestamp": 1791337668
   },
   "vtbs": [
     {
@@ -115019,6 +115019,23 @@
       "name": {
         "extra": [],
         "cn": "热川吨吨子",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "df948d4a-6835-548a-8d37-1406b7bcc234",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546882366245378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "热热_zomi",
         "default": "cn"
       }
     },
