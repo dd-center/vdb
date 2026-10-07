@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1790773245
+    "timestamp": 1791335342
   },
   "vtbs": [
     {
@@ -95719,6 +95719,25 @@
       },
       "group": "a43eee3d-839d-54ff-90cb-d9045437de30",
       "group_name": "コーロンサス学園"
+    },
+    {
+      "uuid": "fbbdac7c-2005-52ab-90cc-7176b5677121",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707016755284794",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "柯燃Raven",
+        "default": "cn"
+      },
+      "group": "b30df939-d5cd-5c9d-a6a1-ec905b14e77d",
+      "group_name": "淬蜂计划（北立交桥）"
     },
     {
       "uuid": "c4c42f48-9b7e-5b7f-bc87-1c104fe41a80",
