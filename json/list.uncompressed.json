@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337746
+    "timestamp": 1791337791
   },
   "vtbs": [
     {
@@ -58757,6 +58757,23 @@
       "name": {
         "extra": [],
         "cn": "姑苏阿苑",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "a0962cbb-a36b-5371-9301-465da792a78d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706938292439307",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "姒幼幼",
         "default": "cn"
       }
     },
@@ -121858,6 +121875,23 @@
       }
     },
     {
+      "uuid": "093fdee2-b1c2-5e27-b5e4-88533882a186",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706960528542487",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琥珀洵Cyan",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "9f44739e-3677-5dab-b8a5-455a70bffe37",
       "type": "vtuber",
       "bot": false,
@@ -130767,6 +130801,23 @@
       "name": {
         "extra": [],
         "cn": "碱水栗",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "4c9a8c1a-a2bf-5e2e-91db-b497a928111d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "319509962",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "碳时",
         "default": "cn"
       }
     },
