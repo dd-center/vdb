@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791336700
+    "timestamp": 1791336897
   },
   "vtbs": [
     {
@@ -177687,6 +177687,28 @@
       "name": {
         "extra": [],
         "cn": "飞鸟闲",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8cef9859-833e-574d-8092-c74d9f20704b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "91884706",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "https://www.douyin.com/user/MS4wLjABAAAAmWtLbDkWcYfDB3wh1JgQ2uoQbGCOsbZMRHWS78YHoV2azeja3iz8p7eL-ouJmZnF?from_tab_name=main&is_search=1&list_name=follow&nt=0",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "飞鹰official",
         "default": "cn"
       }
     },
