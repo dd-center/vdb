@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337542
+    "timestamp": 1791337568
   },
   "vtbs": [
     {
@@ -96505,6 +96505,23 @@
       }
     },
     {
+      "uuid": "046dc6cb-8b0e-58cd-a9a1-99f3bdef2173",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707054908771138",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "栖野澄",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f5d28700-58e7-59c3-b68e-8f72b713f7eb",
       "type": "vtuber",
       "bot": false,
@@ -179664,6 +179681,23 @@
       "name": {
         "extra": [],
         "cn": "魔王城Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bbc85956-efcd-5df5-91d0-2775e695878b",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "13950589",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "魔王小喵大人",
         "default": "cn"
       }
     },
