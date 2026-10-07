@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337248
+    "timestamp": 1791337342
   },
   "vtbs": [
     {
@@ -179955,6 +179955,23 @@
       "name": {
         "extra": [],
         "cn": "鱼清一",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9d757f85-e049-5971-b88f-68ae1edde0c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546821485923039",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "鱼片小猫",
         "default": "cn"
       }
     },
