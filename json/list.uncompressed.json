@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791337791
+    "timestamp": 1791337823
   },
   "vtbs": [
     {
@@ -23147,6 +23147,23 @@
       "name": {
         "extra": [],
         "cn": "不可食用面包君",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2aa0dfb1-489b-52ab-a5ab-f5f5e93b8107",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707022289668908",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "不怜水Hisame",
         "default": "cn"
       }
     },
@@ -56215,6 +56232,23 @@
       },
       "group": "8d3239cd-4811-570e-a968-7c582e46ead0",
       "group_name": "MZ次元"
+    },
+    {
+      "uuid": "b537fda6-af07-537a-8e24-39821cb7f04a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546919863323538",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "奈卡Fortuna",
+        "default": "cn"
+      }
     },
     {
       "uuid": "985bf0d2-8761-53a2-8355-d199298f4748",
