@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791338286
+    "timestamp": 1791428698
   },
   "vtbs": [
     {
@@ -16482,6 +16482,23 @@
         "extra": [],
         "jp": "お子ASMR-OCO",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "4bcf9a29-2ea0-5b58-9121-095183fff0c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "19206492",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "お布団巻き",
+        "default": "cn"
       }
     },
     {
