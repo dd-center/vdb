@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791428698
+    "timestamp": 1791542725
   },
   "vtbs": [
     {
@@ -145040,6 +145040,25 @@
         "cn": "艾可offical",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "b63eaf0d-0bb4-5626-9c41-fb40e2e94076",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "241752602",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "艾唯妮Venin",
+        "default": "cn"
+      },
+      "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
+      "group_name": "极光社"
     },
     {
       "uuid": "adcc1fa4-65d0-59c7-9b1c-980ce12f7f26",
