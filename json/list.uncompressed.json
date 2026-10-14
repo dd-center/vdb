@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791717473
+    "timestamp": 1791979198
   },
   "vtbs": [
     {
@@ -121037,6 +121037,31 @@
         "cn": "玥一筱Yumi",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "2052bd62-554d-5c17-a21e-bdbb5d24cfe8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3747565010947145",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "hololive_ASOBIMAWARITAI",
+          "type": "official",
+          "platform": "youtubeAt"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "玩乐巡游队",
+        "jp": "アソビ★まわり隊!",
+        "default": "cn"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "38e7d474-ac58-516d-88f1-de6fd7b04f03",
