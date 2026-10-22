@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1792634402
+    "timestamp": 1792634448
   },
   "vtbs": [
     {
@@ -67431,6 +67431,23 @@
         "extra": [],
         "CN": "少年霜",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "07fb9e76-4830-50d9-b088-8e714b0a1c6c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707006582000489",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "尚深",
+        "default": "cn"
       }
     },
     {
