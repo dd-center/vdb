@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1791979198
+    "timestamp": 1792634275
   },
   "vtbs": [
     {
@@ -176488,6 +176488,23 @@
       "name": {
         "extra": [],
         "cn": "青璃",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "05f35f94-62d8-5069-a6de-042f1605c08c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "https://www.douyin.com/user/MS4wLjABAAAAhJPztKaLHWpMQwVFX_hMk1yMQWKJPrOnnEMuZxWAP_YBlLUbQXnMfAPbgCrCGIRD",
+          "type": "official",
+          "platform": "other"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "青璃🪵",
         "default": "cn"
       }
     },
