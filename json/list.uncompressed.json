@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1792634275
+    "timestamp": 1792634402
   },
   "vtbs": [
     {
@@ -90084,6 +90084,23 @@
       "group_name": "无次元PROJECT"
     },
     {
+      "uuid": "9356ac73-694c-5baf-8aeb-573326c2ccb0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706989496502509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "79e5113f-a841-5ef3-a743-45fb60ecd111",
       "type": "vtuber",
       "bot": false,
@@ -131611,6 +131628,23 @@
       "name": {
         "extra": [],
         "cn": "祈夏夏",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "62ff57a5-a173-559d-a737-6a66f9240cf0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707047143016490",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "祈心iko",
         "default": "cn"
       }
     },
