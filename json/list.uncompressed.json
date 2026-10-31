@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793416771
+    "timestamp": 1793425479
   },
   "vtbs": [
     {
@@ -141339,6 +141339,23 @@
       },
       "group": "9548b50d-dbb9-5b8e-9a4f-a86239ac14ca",
       "group_name": "极光社"
+    },
+    {
+      "uuid": "784ddb87-d74e-58d8-af05-991c6f111180",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3747562253192756",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "绯椿恋夏",
+        "default": "cn"
+      }
     },
     {
       "uuid": "d994492e-1700-5329-ba5a-a2319d3a7c0c",
