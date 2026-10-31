@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1792634504
+    "timestamp": 1793416771
   },
   "vtbs": [
     {
@@ -104293,6 +104293,36 @@
       },
       "group": "507b983e-c810-542e-b686-87f514722181",
       "group_name": "多维变奏MDV"
+    },
+    {
+      "uuid": "c4ac8a1f-c1f7-5934-947d-1548935412f2",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3747571092687257",
+          "type": "official",
+          "platform": "bilibili"
+        },
+        {
+          "id": "MizumiyaSu",
+          "type": "official",
+          "platform": "youtubeAt"
+        },
+        {
+          "id": "mizumiya_su",
+          "type": "official",
+          "platform": "twitter"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "jp": "水宮枢",
+        "cn": "水宫枢",
+        "default": "jp"
+      },
+      "group": "40e82f4e-40d8-539c-87c8-ed17c6ea519f",
+      "group_name": "Hololive"
     },
     {
       "uuid": "dd1ee536-5b2b-5fb7-8cb1-9eea667f15ad",
