@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793425479
+    "timestamp": 1793425522
   },
   "vtbs": [
     {
@@ -99568,6 +99568,23 @@
       "name": {
         "extra": [],
         "cn": "梅缇斯Metis",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "98b24b16-d8fb-5bc5-83d8-06572cd9a7c1",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "477504261",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅莉_merry",
         "default": "cn"
       }
     },
