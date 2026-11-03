@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793710528
+    "timestamp": 1793710591
   },
   "vtbs": [
     {
@@ -137722,6 +137722,23 @@
       },
       "group": "6a8d2bed-dc2e-5ce1-a3bd-e31317aa4e23",
       "group_name": "VirtuaReal"
+    },
+    {
+      "uuid": "6c16ded4-fc25-5133-a455-7a3d89d68124",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546390181448137",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "糯米兔小糕",
+        "default": "cn"
+      }
     },
     {
       "uuid": "1031fc63-666d-51ee-b562-9f4bb3689f2b",
