@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793710470
+    "timestamp": 1793710528
   },
   "vtbs": [
     {
@@ -150841,6 +150841,23 @@
         "extra": [],
         "cn": "范塞尼尔",
         "en": "VamSenior",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "9aa23dfc-5fde-599e-b275-7cdcfc119ca9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "73448727",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "茄茄子_kiakiako",
         "default": "cn"
       }
     },
