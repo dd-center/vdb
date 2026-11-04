@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793710591
+    "timestamp": 1793783726
   },
   "vtbs": [
     {
@@ -119777,6 +119777,23 @@
         "extra": [],
         "cn": "猫羽空",
         "jp": "猫羽そら",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2df9da2f-43e8-57c8-861c-b498c9181b69",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1503980214",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫羽芙漓Foli",
         "default": "cn"
       }
     },
