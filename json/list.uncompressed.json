@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793783726
+    "timestamp": 1793783799
   },
   "vtbs": [
     {
@@ -73971,6 +73971,23 @@
         "extra": [],
         "jp": "強化人間",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "9901114a-29d3-50e7-ac5d-38a0e5625ddb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "40727762",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "弹弹豹",
+        "default": "cn"
       }
     },
     {
