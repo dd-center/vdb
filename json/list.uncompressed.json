@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1793783799
+    "timestamp": 1794416229
   },
   "vtbs": [
     {
@@ -5684,6 +5684,23 @@
         "default": "en"
       },
       "group": "f2fd7bb2-a25a-597e-bf64-9bb35241fccb"
+    },
+    {
+      "uuid": "e2d2abc6-9ddb-58d9-ac41-2193b58cbf9f",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1359243750",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "LockeLanphier",
+        "default": "cn"
+      }
     },
     {
       "uuid": "9be7d613-1e29-5e7d-9fc9-25fdbf8f26b6",
