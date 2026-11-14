@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794416229
+    "timestamp": 1794647853
   },
   "vtbs": [
     {
@@ -100535,6 +100535,23 @@
       },
       "group": "26092163-9c52-505b-bd98-2d5aa9060dfd",
       "group_name": "新月社FCrescent"
+    },
+    {
+      "uuid": "62c39ba5-44bf-5638-b62b-bc9e56df058c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546770330094074",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梨落落pears",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8e5f8e26-6bfc-5a6d-a6e6-688c08531f2d",
