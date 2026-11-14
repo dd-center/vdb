@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794647853
+    "timestamp": 1794647882
   },
   "vtbs": [
     {
@@ -98059,6 +98059,23 @@
       "name": {
         "extra": [],
         "cn": "桃子没有在摸鱼",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "2227906b-ba36-5e5e-86d1-dad9a7181eeb",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546963312118067",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "桃子灼灼Bleach",
         "default": "cn"
       }
     },
