@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794647882
+    "timestamp": 1794648165
   },
   "vtbs": [
     {
@@ -34905,6 +34905,23 @@
       "name": {
         "extra": [],
         "cn": "冰兔w",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "231ccb98-a5c7-5800-b683-e9b919a93227",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546571836754272",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "冰冰不会碎",
         "default": "cn"
       }
     },
@@ -177395,6 +177412,23 @@
       "name": {
         "extra": [],
         "cn": "音狸狸Yuliya",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "84a9d8fc-e0c1-5c14-b413-56ee0440137d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546886426331524",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "音璃Aria",
         "default": "cn"
       }
     },
