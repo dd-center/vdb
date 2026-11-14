@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794648295
+    "timestamp": 1794648352
   },
   "vtbs": [
     {
@@ -85967,6 +85967,23 @@
       }
     },
     {
+      "uuid": "14634528-38b2-5c48-ae5a-930cc29d979e",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "17781395",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星野遠遠",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "e4348fab-7051-576a-8dc7-847e2d642f24",
       "type": "vtuber",
       "bot": false,
@@ -120059,6 +120076,23 @@
       "name": {
         "extra": [],
         "cn": "猫诺",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "31a4ffcd-a264-59b5-8909-3fc2b1f783ae",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546958450919751",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "猫谷礼",
         "default": "cn"
       }
     },
