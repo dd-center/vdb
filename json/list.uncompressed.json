@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794648165
+    "timestamp": 1794648185
   },
   "vtbs": [
     {
@@ -84111,6 +84111,23 @@
       "name": {
         "extra": [],
         "cn": "星梦真雪_Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "5974f3f8-b104-5570-a103-993082949d93",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "350998028",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星梨樱Sakura",
         "default": "cn"
       }
     },
