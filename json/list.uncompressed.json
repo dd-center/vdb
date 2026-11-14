@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794648185
+    "timestamp": 1794648227
   },
   "vtbs": [
     {
@@ -107,6 +107,23 @@
         "extra": [],
         "jp": "-official-Spi酱",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "c2982ffb-79e0-577a-83f8-3073eb2f5b97",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546957364595046",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "-不晚晚",
+        "default": "cn"
       }
     },
     {
