@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794648352
+    "timestamp": 1794800136
   },
   "vtbs": [
     {
@@ -86086,6 +86086,25 @@
       }
     },
     {
+      "uuid": "74d52b8b-c2fa-5cd1-9947-be9d61e5fa2a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707053541427530",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星际鲨ET",
+        "default": "cn"
+      },
+      "group": "748b837a-0f27-55d8-aae1-695e4cb77aff",
+      "group_name": "冬日之家Ultra（北立交桥）"
+    },
+    {
       "uuid": "e46d19b7-9ec0-5d48-9f9b-b98b20bcac71",
       "type": "vtuber",
       "bot": false,
@@ -149686,8 +149705,8 @@
         "CN": "芷绘lulu",
         "default": "CN"
       },
-      "group": "06620aad-1e28-5c4e-995d-cf7c03d43f15",
-      "group_name": "Hanabi_live"
+      "group": "c8d7d021-ce8c-56f6-90a2-ab8758b3ac8a",
+      "group_name": "妖精管理局（北立交桥）"
     },
     {
       "uuid": "4f1c4454-29e6-5fdd-920f-219a71486455",
