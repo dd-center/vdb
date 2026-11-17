@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1794800136
+    "timestamp": 1794935068
   },
   "vtbs": [
     {
@@ -6300,6 +6300,23 @@
         "extra": [],
         "cn": "Massiah_Asylum",
         "default": "cn"
+      }
+    },
+    {
+      "uuid": "1908f9a2-c2db-52a9-870b-1218290afef9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546845341026378",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "en": "Mausleeps",
+        "default": "en"
       }
     },
     {
