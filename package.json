@@ -10,12 +10,12 @@
     "refresh": "node refresh"
   },
   "dependencies": {
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^5.1.1",
-    "@types/uuid": "^9.0.2",
+    "@types/uuid": "^9.0.8",
     "dugite": "^2.5.1"
   }
 }
