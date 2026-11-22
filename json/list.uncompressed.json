@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795178848
+    "timestamp": 1795359603
   },
   "vtbs": [
     {
@@ -25779,6 +25779,23 @@
       "name": {
         "extra": [],
         "cn": "九应元雷声普化天尊",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "da2f59c1-7be1-5e79-ab20-0e2047fe84de",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "49921",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "九方唯芳TadaYoshi",
         "default": "cn"
       }
     },
