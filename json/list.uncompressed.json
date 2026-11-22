@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359629
+    "timestamp": 1795359715
   },
   "vtbs": [
     {
@@ -9512,6 +9512,24 @@
         "extra": [],
         "en": "RiiKami",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "c1e0cdc9-d508-5ce6-a17c-dc7756351382",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546727078430937",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Riko_りこ",
+        "jp": "Riko_りこ",
+        "default": "cn"
       }
     },
     {
