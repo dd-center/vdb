@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795360081
+    "timestamp": 1795360290
   },
   "vtbs": [
     {
@@ -165245,6 +165245,23 @@
         "extra": [],
         "cn": "迦黎娅",
         "en": "Garyia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f7e172ac-656e-53a6-abdc-3dd40ad558f0",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546653504047509",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "迪莎拉dechala",
         "default": "cn"
       }
     },
