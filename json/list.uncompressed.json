@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359715
+    "timestamp": 1795359744
   },
   "vtbs": [
     {
@@ -8764,6 +8764,23 @@
         "extra": [],
         "en": "PorcelainMaid",
         "default": "en"
+      }
+    },
+    {
+      "uuid": "68450ebc-086b-5a96-b62b-8575ae8c3343",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707026662230885",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Poya2",
+        "default": "cn"
       }
     },
     {
