@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795360290
+    "timestamp": 1795363554
   },
   "vtbs": [
     {
@@ -117865,6 +117865,23 @@
       "name": {
         "extra": [],
         "cn": "犬飼御理Gori",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "fa7ce13c-115d-5f02-a922-71711090cc41",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3744967820314964",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "犯困又犯懒",
         "default": "cn"
       }
     },
