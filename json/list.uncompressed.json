@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359744
+    "timestamp": 1795359824
   },
   "vtbs": [
     {
@@ -66397,6 +66397,23 @@
         "extra": [],
         "jp": "小花衣ももみ",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "42e9e114-5605-500a-a6ab-ec2719b4a925",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546587949173427",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "小花衣可依",
+        "default": "cn"
       }
     },
     {
