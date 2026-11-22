@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359824
+    "timestamp": 1795359879
   },
   "vtbs": [
     {
@@ -22693,6 +22693,23 @@
         "extra": [],
         "jp": "三日暦Official",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "aa9cc79d-b5f4-52d2-98b8-d85d025cdd08",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707072419989734",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三日月伊芙",
+        "default": "cn"
       }
     },
     {
@@ -134555,6 +134572,23 @@
       "name": {
         "extra": [],
         "cn": "稚年SaRo",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "d8207959-a013-5da3-812f-53477a004344",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "286806329",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "稻乙緹iitifox",
         "default": "cn"
       }
     },
