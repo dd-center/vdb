@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359879
+    "timestamp": 1795359944
   },
   "vtbs": [
     {
@@ -14250,6 +14250,23 @@
       "name": {
         "extra": [],
         "cn": "i御十二",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "bd23211d-eac0-5b48-b8e2-3b07b54ff7a9",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "334433907",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "i鹿鹿o",
         "default": "cn"
       }
     },
@@ -52706,6 +52723,23 @@
       },
       "group": "adb0ac1e-8f0a-5711-96bf-b7bc5676eda4",
       "group_name": "果子本铺（北立交桥）"
+    },
+    {
+      "uuid": "34f18d13-ddc8-506c-9fca-949cd8e0926a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3690975792728117",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "夜凪透花",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ca592826-726b-5ff4-bc18-88f133fd2913",
@@ -183991,6 +184025,23 @@
       },
       "group": "863b38a4-e1fb-5d0a-8d0c-89c54abbad35",
       "group_name": "甜瓜社MelonLive"
+    },
+    {
+      "uuid": "705548fb-6e9a-53de-911f-14902c10d823",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "508656963",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "麻里麻里爱MariAi",
+        "default": "cn"
+      }
     },
     {
       "uuid": "ab16e5d3-4ed5-544e-baed-86322b944d2a",
