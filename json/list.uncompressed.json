@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795359944
+    "timestamp": 1795360063
   },
   "vtbs": [
     {
@@ -152323,6 +152323,23 @@
       }
     },
     {
+      "uuid": "2d3205fb-90a5-53ce-b5f7-db231fee04af",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546775847701419",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "荒臣HLeo",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "0a4b43f0-bd52-5e57-9b63-35eea62f1fc8",
       "type": "vtuber",
       "bot": false,
@@ -173447,6 +173464,23 @@
       },
       "group": "0224316a-592e-547c-89b6-9f4f4e425779",
       "group_name": "猫猫祟祟（北立交桥）"
+    },
+    {
+      "uuid": "06288e60-e15a-5f36-a93a-01b5d43620f4",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "108525514",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "雪云裳",
+        "default": "cn"
+      }
     },
     {
       "uuid": "115d941d-a0c0-505d-b4da-321fabb3dd16",
