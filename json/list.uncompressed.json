@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795850142
+    "timestamp": 1795850179
   },
   "vtbs": [
     {
@@ -38508,6 +38508,23 @@
         "extra": [],
         "CN": "十七音Sebun",
         "default": "CN"
+      }
+    },
+    {
+      "uuid": "52355fb8-ce73-54c9-841e-bef20b264bf8",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546972466186495",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "十三Monci",
+        "default": "cn"
       }
     },
     {
