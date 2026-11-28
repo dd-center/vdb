@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795835645
+    "timestamp": 1795835671
   },
   "vtbs": [
     {
@@ -126782,6 +126782,23 @@
       "name": {
         "extra": [],
         "cn": "白桃奶昔茶",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "b7d9c086-0960-5664-a288-dc04f44898bd",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546393394284834",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "白桃心宁",
         "default": "cn"
       }
     },
