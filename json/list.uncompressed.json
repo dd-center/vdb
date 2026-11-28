@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795835761
+    "timestamp": 1795835831
   },
   "vtbs": [
     {
@@ -86310,6 +86310,23 @@
       }
     },
     {
+      "uuid": "ab5dcde4-5c92-555b-b253-7ce2e11f6f96",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546934885222789",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "星音sumi",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "f2a50bd3-a3d8-5c49-ba0d-433fd737075c",
       "type": "vtuber",
       "bot": false,
@@ -133648,6 +133665,23 @@
       }
     },
     {
+      "uuid": "6c5c92b4-0af1-54d7-ad3a-f4a43b7e3c77",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546642020043597",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "福元Coin",
+        "default": "cn"
+      }
+    },
+    {
       "uuid": "56f1127a-41a7-5749-aa64-d0283e2cb9b7",
       "type": "vtuber",
       "bot": false,
@@ -134691,6 +134725,23 @@
       "name": {
         "extra": [],
         "cn": "稻乙緹iitifox",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e60bf667-ed03-5393-91a2-99ae532c012d",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "697537756",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "稻壳喵",
         "default": "cn"
       }
     },
