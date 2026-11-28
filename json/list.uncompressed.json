@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795836043
+    "timestamp": 1795836103
   },
   "vtbs": [
     {
@@ -808,6 +808,25 @@
         "cn": "AAA怪盗哈露Q",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "035a392f-4446-5933-9661-92053f6d2efa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "487327667",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "ABEO_Official",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "c70b8ae3-8066-5bdb-9520-1e262e917b32",
@@ -25306,6 +25325,25 @@
       }
     },
     {
+      "uuid": "fd10702f-e50e-53c0-aaf3-3d47932b2653",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707050020309790",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "乐荧绫_Anima",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
+    },
+    {
       "uuid": "3fc90434-c529-5ca2-8a4f-2af202012b70",
       "type": "vtuber",
       "bot": false,
@@ -27770,6 +27808,25 @@
         "cn": "亚米Ami",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "0ba4e7e1-f368-5d6b-b27a-969c0328285a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707006590388430",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "亚纪奈Akina",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "62f12795-7ad0-5203-a5d8-868d4212b1d2",
@@ -42563,6 +42620,24 @@
       }
     },
     {
+      "uuid": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "type": "group",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3706996347898694",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "叙事者网络Project",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658"
+    },
+    {
       "uuid": "b1f89a65-6166-5da5-baff-18a75bafed1a",
       "type": "vtuber",
       "bot": false,
@@ -43262,7 +43337,9 @@
         "extra": [],
         "cn": "可洛米娅_Chromia",
         "default": "cn"
-      }
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "27c91800-612d-51b7-b0fa-51923da74ae5",
@@ -68548,6 +68625,25 @@
       "group_name": "明月生肖（北立交桥）"
     },
     {
+      "uuid": "c1193b7a-1593-51cb-b635-214870788468",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "78805461",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "居宵下-Official",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
+    },
+    {
       "uuid": "b911df5f-bda6-5133-a5a8-8acc660c19b7",
       "type": "vtuber",
       "bot": false,
@@ -88937,7 +89033,9 @@
         "extra": [],
         "cn": "暮雨_Rainie",
         "default": "cn"
-      }
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "dea78598-a593-5732-95f2-c87f929243e1",
@@ -89799,7 +89897,9 @@
         "extra": [],
         "cn": "月咏坂栗kuriko",
         "default": "cn"
-      }
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "b1ebc016-20ac-536f-8a5b-437ad138e8e0",
@@ -99967,6 +100067,25 @@
         "cn": "梅莉_merry",
         "default": "cn"
       }
+    },
+    {
+      "uuid": "7d12ca73-9372-5df7-821e-304cad844814",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "9886600",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "梅菲斯特666",
+        "default": "cn"
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "c7e23134-69b1-5fec-8a5c-a131b5ee4151",
@@ -161080,8 +161199,8 @@
         "cn": "诗小雅Official",
         "default": "cn"
       },
-      "group": "cc64b75a-f000-5b4a-bef3-bc727dab00a2",
-      "group_name": "超次元学院"
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "18438d48-6475-514f-bce7-a37ef732413d",
@@ -165514,7 +165633,9 @@
         "extra": [],
         "cn": "迪莎拉dechala",
         "default": "cn"
-      }
+      },
+      "group": "455492b7-910b-5258-9b39-e16a37f7a658",
+      "group_name": "叙事者网络Project"
     },
     {
       "uuid": "53c87b84-6e08-5eb0-8149-a05e474b3cc3",
