@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795850072
+    "timestamp": 1795850142
   },
   "vtbs": [
     {
@@ -6447,6 +6447,23 @@
         "extra": [],
         "cn": "梅露蒂雅",
         "en": "Melodia",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "14c65cf7-2903-5d6b-8b31-8b6a8f9c6db6",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "358141310",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "Melody-121",
         "default": "cn"
       }
     },
@@ -27419,6 +27436,23 @@
       "name": {
         "extra": [],
         "cn": "五月六日星",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "8f3df850-4a86-5e7c-9ac5-2c440c6d8f01",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707014177884563",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "五月澪",
         "default": "cn"
       }
     },
@@ -111983,6 +112017,23 @@
       "name": {
         "extra": [],
         "cn": "涟洢Lianyi",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "0b6a4d0b-1861-595f-b854-a26ef18b08fa",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546858670524440",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "涧雪yuki",
         "default": "cn"
       }
     },
