@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795861476
+    "timestamp": 1795869264
   },
   "vtbs": [
     {
@@ -116372,6 +116372,23 @@
       "name": {
         "extra": [],
         "cn": "煤狸猫neko",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "f1357d58-fe11-555e-82b8-b3ddef417ada",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "1418246063",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "熊doro又活一天",
         "default": "cn"
       }
     },
