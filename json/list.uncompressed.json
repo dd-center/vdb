@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795363554
+    "timestamp": 1795835645
   },
   "vtbs": [
     {
@@ -122897,6 +122897,23 @@
         "extra": [],
         "jp": "琴乃葉 雪乃",
         "default": "jp"
+      }
+    },
+    {
+      "uuid": "7c28c373-8c9c-568b-a4ee-889e86c26454",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3707042818689545",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "琴乃音まるこ",
+        "default": "cn"
       }
     },
     {
