@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795861454
+    "timestamp": 1795861476
   },
   "vtbs": [
     {
@@ -185335,6 +185335,23 @@
       "name": {
         "extra": [],
         "cn": "黑椿小夜子Official",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "e798d637-160e-5c16-a592-b13938227f8c",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3546933905852532",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "黑沢澪moi",
         "default": "cn"
       }
     },
