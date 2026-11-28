@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795835671
+    "timestamp": 1795835761
   },
   "vtbs": [
     {
@@ -36447,6 +36447,23 @@
       },
       "group": "54f12813-1527-5f52-b566-3b36f51d676b",
       "group_name": "C-Live_Project"
+    },
+    {
+      "uuid": "5c087c3f-cecd-575c-a178-9a859cd5e89a",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "433175953",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "凯芒KeMon",
+        "default": "cn"
+      }
     },
     {
       "uuid": "8d7ff814-d81f-5abf-9f73-3c9d4e59d317",
