@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795850179
+    "timestamp": 1795850203
   },
   "vtbs": [
     {
@@ -22570,6 +22570,23 @@
       },
       "group": "bc439477-942b-5df6-91b4-19c7c3dae6bd",
       "group_name": "HOLOSTARS_EN"
+    },
+    {
+      "uuid": "6e481986-ef56-5b8b-8cfa-6a816f6f9968",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "673846050",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "三一律Midori",
+        "default": "cn"
+      }
     },
     {
       "uuid": "140d88d5-0e37-572e-8205-0f3f447ca7ca",
