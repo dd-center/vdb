@@ -37,7 +37,7 @@
       "acfun": "https://www.acfun.cn/u/{id}",
       "pomeet": "https://www.pomeet.com/{id}"
     },
-    "timestamp": 1795850203
+    "timestamp": 1795861454
   },
   "vtbs": [
     {
@@ -90711,6 +90711,23 @@
       "name": {
         "extra": [],
         "cn": "月见山千纱",
+        "default": "cn"
+      }
+    },
+    {
+      "uuid": "adbd18b1-3c1e-50c9-a258-022eef693549",
+      "type": "vtuber",
+      "bot": false,
+      "accounts": [
+        {
+          "id": "3493260666342227",
+          "type": "official",
+          "platform": "bilibili"
+        }
+      ],
+      "name": {
+        "extra": [],
+        "cn": "月见屿yuii",
         "default": "cn"
       }
     },
